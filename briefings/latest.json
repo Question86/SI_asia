@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T09:00:21+00:00",
-  "run_id": "2026-09-24T09:00:21+00:00",
+  "generated_at": "2026-09-24T09:24:25+00:00",
+  "run_id": "2026-09-24T09:24:25+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 32
+      "configured_public_sources_only": 33
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 0,
     "medium": 8,
-    "observe": 24,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -268,6 +268,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6aecc4717d5a4f0b8cfb"
+      },
+      {
+        "title": "Philip R. Lane: The outlook for the euro area economy",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-09-24T09:00:00+00:00",
+        "fetched_at": "2026-09-24T09:23:54+00:00",
+        "summary": "Philip R. Lane: The outlook for the euro area economy",
+        "matched_keywords": [
+          "euro area",
+          "Macro/Policy"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b8200799bf8aa9f82659"
       },
       {
         "title": "Life Lab Resources grabs US$1M to turn food waste into aquaculture feed",
@@ -1008,6 +1029,27 @@
       "id": "6aecc4717d5a4f0b8cfb"
     },
     {
+      "title": "Philip R. Lane: The outlook for the euro area economy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-09-24T09:00:00+00:00",
+      "fetched_at": "2026-09-24T09:23:54+00:00",
+      "summary": "Philip R. Lane: The outlook for the euro area economy",
+      "matched_keywords": [
+        "euro area",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b8200799bf8aa9f82659"
+    },
+    {
       "title": "Life Lab Resources grabs US$1M to turn food waste into aquaculture feed",
       "url": "https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1507,25 +1549,25 @@
   ],
   "new_findings": [
     {
-      "title": "ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜",
-      "url": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Philip R. Lane: The outlook for the euro area economy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
+      "source": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "published_at": "2026-09-24T05:23:52+00:00",
-      "fetched_at": "2026-09-24T08:59:49+00:00",
-      "summary": "Findy様主催のWebセミナー（2026/9/24）での登壇資料です。 https://findy.connpass.com/event/405902/",
+      "published_at": "2026-09-24T09:00:00+00:00",
+      "fetched_at": "2026-09-24T09:23:54+00:00",
+      "summary": "Philip R. Lane: The outlook for the euro area economy",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "euro area",
+        "Macro/Policy"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "208b0ad5dbaf9b9e7dd4"
+      "id": "b8200799bf8aa9f82659"
     }
   ],
   "source_errors": [],

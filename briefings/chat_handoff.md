@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T09:00:21+00:00_
+_Generated: 2026-09-24T09:24:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `33`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-24T09:00:21+00:00_
 - url: https://www.twcert.org.tw/tw/cp-132-11213-28a81-1.html
 - summary: 全景軟體｜CGServiSign - OS Command Injection
 
-### 7. Life Lab Resources grabs US$1M to turn food waste into aquaculture feed
+### 7. Philip R. Lane: The outlook for the euro area economy
+- source: ECB Press Releases Speeches Interviews
+- score: `10`
+- published: `2026-09-24T09:00:00+00:00`
+- url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf
+- summary: Philip R. Lane: The outlook for the euro area economy
+
+### 8. Life Lab Resources grabs US$1M to turn food waste into aquaculture feed
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-24T05:05:49+00:00`
 - url: https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/
 - summary: Singapore’s food waste problem is often framed as a consumer habit or a logistics issue. For Life Lab Resources, it is also a feedstock problem, and one that could help ease another pressure point in Southeast Asia: rising demand for more sustainable aquacult…
-
-### 8. Why scaling across Southeast Asia means pricing in the cable you never see
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-09-24T04:00:17+00:00`
-- url: https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/
-- summary: In the last week of August, Viettel’s network engineers were doing something most of their customers never saw. They were moving traffic in real time, pushing 800 gigabits per second onto one undersea cable, another 300 onto a second, then routing whatever wa…
 
 END OF DOCUMENT
