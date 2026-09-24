@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T11:58:45+00:00_
+_Generated: 2026-09-24T12:31:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `62`
+- findings: `65`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-24T11:58:45+00:00_
 - url: https://gigazine.net/news/20260924-enigma-mvueh-break/
 - summary: 1941年にドイツ軍が送信し、長年にわたって解読が試みられていた82文字のエニグマ暗号「MVUEH」が、OpenAIのAIモデル「GPT-6 Astra」を使った調査によって解読されました。暗号研究サイト「Crypto Cellar Research」を運営する暗号研究者のフローデ・ワイエルード氏も結果を確認し、復元された暗号鍵と平文が正しいと判...
 
-### 7. 融易網路｜GPM LIGHT - Sensitive Data Exposure
+### 7. Opening address - Bank of Korea-Centre for Economic Policy Research-Organisation for Economic Co-operation and Development Conference
+- source: BIS Central Bankers Speeches
+- score: `12`
+- published: `2026-09-24T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20260924-opening-address-bank-korea-centre-economic-policy-research-organisation-economic-co-operation-and-development-conference
+- summary: Speech by Mr Hyun Song Shin, Governor of the Bank of Korea, at the Bank of Korea (BOK)-Centre for Economic Policy Research (CEPR)-Organisation for Economic Co-operation and Development (OECD) Conference, Seoul, 2 September 2026.
+
+### 8. 融易網路｜GPM LIGHT - Sensitive Data Exposure
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `11`
 - published: `2026-09-24T07:00:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11216-9ce77-1.html
 - summary: 融易網路｜GPM LIGHT - Sensitive Data Exposure
-
-### 8. 全景軟體｜CGServiSign - OS Command Injection
-- source: TWCERT/CC TVN Vulnerability Notes RSS
-- score: `11`
-- published: `2026-09-23T08:10:00+00:00`
-- url: https://www.twcert.org.tw/tw/cp-132-11213-28a81-1.html
-- summary: 全景軟體｜CGServiSign - OS Command Injection
 
 END OF DOCUMENT

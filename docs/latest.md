@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T11:58:45+00:00_
+_Generiert: 2026-09-24T12:31:20+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+65 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 1941年にドイツ軍が送信し、長年にわたって解読が試みられていた82文字のエニグマ暗号「MVUEH」が、OpenAIのAIモデル「GPT-6 Astra」を使った調査によって解読されました。暗号研究サイト「Crypto Cellar Research」を運営する暗号研究者のフローデ・ワイエルード氏も結果を確認し、復元された暗号鍵と平文が正しいと判...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Opening address - Bank of Korea-Centre for Economic Policy Research-Organisation for Economic Co-operation and Development Conference** — Score 12, opportunity — [Quelle](https://www.bis.org/speeches/20260924-opening-address-bank-korea-centre-economic-policy-research-organisation-economic-co-operation-and-development-conference)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-24T00:00:00+00:00`, fetched `2026-09-24T12:30:40+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region south_korea: Seoul (+2.0)
+  - Kurz: Speech by Mr Hyun Song Shin, Governor of the Bank of Korea, at the Bank of Korea (BOK)-Centre for Economic Policy Research (CEPR)-Organisation for Economic Co-operation and Development (OECD) Conference, Seoul, 2 September 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **融易網路｜GPM LIGHT - Sensitive Data Exposure** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11216-9ce77-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-09-24T07:00:00+00:00`, fetched `2026-09-24T09:35:43+00:00`
@@ -186,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - V Time 2026-09-24 07:40:58 UTC 2026-09-24 07:40:58 UTC at epicenter Location 37.474°N 38.861°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Trusted innovation - shaping the future of finance** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260924-trusted-innovation-shaping-future-finance)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-24T00:00:00+00:00`, fetched `2026-09-24T12:30:40+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
+  - Kurz: Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at the Global Fintech Festival 2026, Mumbai, 11 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SREとは何か、AWSでどう始めるか** — Score 8, observation — [Quelle](https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-23T13:46:19+00:00`, fetched `2026-09-24T00:53:57+00:00`
@@ -212,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 大臣・副大臣・大臣政務官の交代式を行いました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **China is excelling in health tech. That’s good news for the world** — Score 6, observation — [Quelle](https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-09-24T10:00:00+00:00`, fetched `2026-09-24T10:02:41+00:00`
-  - Treffer: AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: A visitor experiences an artificial intelligence health screening system at the 2026 Ningxia Elderly Care Service Expo on August 28, 2026 in Yinchuan, China.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
