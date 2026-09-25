@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T17:54:17+00:00_
+_Generiert: 2026-09-25T18:01:50+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung“ aus heise Security Alerts (Score 24, risk).
+80 neue relevante Treffer. Stärkstes Signal: „Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -130,6 +130,15 @@ _Generiert: 2026-09-25T17:54:17+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. https://nvidia.github.io/Model-Optimizer/ NVIDIA Model Optimizer Documentation | Roadmap | Announcement Blogs NVIDIA Model Op…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Copilot app for Beginners: How to build custom workflows with canvases** — Score 15, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-09-25T18:00:00+00:00`, fetched `2026-09-25T18:01:22+00:00`
+  - Treffer: AI/KI, Content-Chance, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Content-Chance (+6.2); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 80 km SW of Labuan, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txkc)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
