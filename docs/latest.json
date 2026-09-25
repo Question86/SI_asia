@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T21:30:06+00:00",
-  "run_id": "2026-09-25T21:30:06+00:00",
+  "generated_at": "2026-09-25T21:41:48+00:00",
+  "run_id": "2026-09-25T21:41:48+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 87
+      "configured_public_sources_only": 89
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 87,
-    "displayed_findings": 87,
+    "new_relevant_findings": 2,
+    "today_file_total": 89,
+    "displayed_findings": 89,
     "high": 1,
     "medium": 35,
-    "observe": 51,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -1284,6 +1284,78 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f81fceb4a38441b8b7b0"
+      },
+      {
+        "title": "M 6.6 - 80 km ENE of Tadine, New Caledonia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-25T21:40:31.040+00:00",
+        "fetched_at": "2026-09-25T21:41:16+00:00",
+        "summary": "DYFI? - III Time 2026-09-25 21:23:03 UTC 2026-09-25 21:23:03 UTC at epicenter Location 21.298°S 168.610°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "411d01cfa942ba129cc1"
+      },
+      {
+        "title": "M 4.5 - south of the Fiji Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpa",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-25T21:38:10.040+00:00",
+        "fetched_at": "2026-09-25T21:41:16+00:00",
+        "summary": "Time 2026-09-25 20:43:32 UTC 2026-09-25 20:43:32 UTC at epicenter Location 24.053°S 179.992°W Depth 482.81 km (300.01 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "98075721fad36cb0b024"
       },
       {
         "title": "M 4.6 - 144 km SE of Lata, Solomon Islands",
@@ -3362,6 +3434,78 @@
       "id": "f81fceb4a38441b8b7b0"
     },
     {
+      "title": "M 6.6 - 80 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-25T21:40:31.040+00:00",
+      "fetched_at": "2026-09-25T21:41:16+00:00",
+      "summary": "DYFI? - III Time 2026-09-25 21:23:03 UTC 2026-09-25 21:23:03 UTC at epicenter Location 21.298°S 168.610°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "411d01cfa942ba129cc1"
+    },
+    {
+      "title": "M 4.5 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpa",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-25T21:38:10.040+00:00",
+      "fetched_at": "2026-09-25T21:41:16+00:00",
+      "summary": "Time 2026-09-25 20:43:32 UTC 2026-09-25 20:43:32 UTC at epicenter Location 24.053°S 179.992°W Depth 482.81 km (300.01 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "98075721fad36cb0b024"
+    },
+    {
       "title": "M 4.6 - 144 km SE of Lata, Solomon Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txp8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4184,19 +4328,19 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.0 - 13 km N of Xunchang, China",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpf",
+      "title": "M 6.6 - 80 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-25T21:18:30.040+00:00",
-      "fetched_at": "2026-09-25T21:29:31+00:00",
-      "summary": "Time 2026-09-25 21:01:27 UTC 2026-09-25 21:01:27 UTC at epicenter Location 28.574°N 104.703°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-09-25T21:40:31.040+00:00",
+      "fetched_at": "2026-09-25T21:41:16+00:00",
+      "summary": "DYFI? - III Time 2026-09-25 21:23:03 UTC 2026-09-25 21:23:03 UTC at epicenter Location 21.298°S 168.610°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -4217,7 +4361,43 @@
         "HD",
         "LOW"
       ],
-      "id": "9b025ede0bb5fe97c556"
+      "id": "411d01cfa942ba129cc1"
+    },
+    {
+      "title": "M 4.5 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpa",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-25T21:38:10.040+00:00",
+      "fetched_at": "2026-09-25T21:41:16+00:00",
+      "summary": "Time 2026-09-25 20:43:32 UTC 2026-09-25 20:43:32 UTC at epicenter Location 24.053°S 179.992°W Depth 482.81 km (300.01 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "98075721fad36cb0b024"
     }
   ],
   "source_errors": [],
