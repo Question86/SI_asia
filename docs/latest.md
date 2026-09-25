@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T14:55:58+00:00_
+_Generiert: 2026-09-25T15:09:29+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung“ aus heise Security Alerts (Score 24, risk).
+73 neue relevante Treffer. Stärkstes Signal: „Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung“ aus heise Security Alerts (Score 24, risk).
 
 ## Priorität Hoch
 
