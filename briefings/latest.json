@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T09:30:05+00:00",
-  "run_id": "2026-09-25T09:30:05+00:00",
+  "generated_at": "2026-09-25T09:44:42+00:00",
+  "run_id": "2026-09-25T09:44:42+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 36
+      "configured_public_sources_only": 37
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 1,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
-    "medium": 10,
+    "medium": 11,
     "observe": 26,
     "source_errors": 0
   },
@@ -51,6 +51,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9f6f16eab83d2b5a5fe9"
+      },
+      {
+        "title": "Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier",
+        "url": "https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-25T09:43:08+00:00",
+        "fetched_at": "2026-09-25T09:44:13+00:00",
+        "summary": "San Francisco and New York still lead The Observer‘s inaugural AI Cities Index, but the more consequential finding sits further east. Six of the world’s top 10 AI cities are in East and Southeast Asia, and Seoul ranks first globally for implementation: whether a city has the institutions, systems and practitioners to put AI to work across […] The post Ecosystem Roundup: Seoul tops AI implementation as Singapore join…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region usa: New York, San Francisco (+2.0); watchgraph region south_korea: Seoul (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "829970958c251a2b6e9b"
       },
       {
         "title": "NVIDIA/Model-Optimizer",
@@ -841,6 +863,28 @@
       "id": "9f6f16eab83d2b5a5fe9"
     },
     {
+      "title": "Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier",
+      "url": "https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-25T09:43:08+00:00",
+      "fetched_at": "2026-09-25T09:44:13+00:00",
+      "summary": "San Francisco and New York still lead The Observer‘s inaugural AI Cities Index, but the more consequential finding sits further east. Six of the world’s top 10 AI cities are in East and Southeast Asia, and Seoul ranks first globally for implementation: whether a city has the institutions, systems and practitioners to put AI to work across […] The post Ecosystem Roundup: Seoul tops AI implementation as Singapore join…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region usa: New York, San Francisco (+2.0); watchgraph region south_korea: Seoul (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "829970958c251a2b6e9b"
+    },
+    {
       "title": "NVIDIA/Model-Optimizer",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -1601,7 +1645,30 @@
       "id": "ca6eba3d8e0e9612ab5b"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier",
+      "url": "https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-25T09:43:08+00:00",
+      "fetched_at": "2026-09-25T09:44:13+00:00",
+      "summary": "San Francisco and New York still lead The Observer‘s inaugural AI Cities Index, but the more consequential finding sits further east. Six of the world’s top 10 AI cities are in East and Southeast Asia, and Seoul ranks first globally for implementation: whether a city has the institutions, systems and practitioners to put AI to work across […] The post Ecosystem Roundup: Seoul tops AI implementation as Singapore join…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region usa: New York, San Francisco (+2.0); watchgraph region south_korea: Seoul (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "829970958c251a2b6e9b"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
