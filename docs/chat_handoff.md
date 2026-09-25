@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T02:01:55+00:00_
+_Generated: 2026-09-25T02:30:01+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `10`
 
 ## Top Signals
 
@@ -43,18 +43,18 @@ _Generated: 2026-09-25T02:01:55+00:00_
 - url: https://e27.co/ai-will-not-become-your-employee-it-will-change-what-work-has-to-be-managed-20260924/
 - summary: Most AI writing about work still frames the shift too narrowly. The conversation often starts with a familiar question: which tasks can AI do? That is a useful starting point, but it misses the more important operational change. The deeper shift is not that A…
 
-### 6. The most expensive links aren’t really links: What 16,625 publisher price lists tell SEA startups
+### 6. メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]
+- source: Hatena Bookmark Hotentry IT
+- score: `8`
+- published: `2026-09-24T19:55:05+00:00`
+- url: https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html
+- summary: メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]
+
+### 7. The most expensive links aren’t really links: What 16,625 publisher price lists tell SEA startups
 - source: e27 Asia Startup and Tech Feed
 - score: `7`
 - published: `2026-09-25T02:00:05+00:00`
 - url: https://e27.co/the-most-expensive-links-arent-really-links-what-16625-publisher-price-lists-tell-sea-startups-20260923/
 - summary: Founders still ask me the question they asked in 2019: what does a good backlink cost. This September I finally answered it properly. ESBO Ltd, the link building and digital PR agency I run, exported its entire publisher database, 16,625 sites across 53 langu…
-
-### 7. The founder’s dilemma: Structured serendipity
-- source: e27 Asia Startup and Tech Feed
-- score: `6`
-- published: `2026-09-25T01:30:04+00:00`
-- url: https://e27.co/the-founders-dilemma-structured-serendipity-20260923/
-- summary: I was sitting in a cafe in Kuala Lumpur recently, sipping an iced mixed coffee with orange, when I realised that the way I organise for trips is exactly how I used to try to “organise” my startup. I was obsessed with the perfect project management software, t…
 
 END OF DOCUMENT
