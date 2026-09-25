@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-25T02:55:46+00:00",
+  "generated_at": "2026-09-25T03:09:05+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 5,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
-    "medium": 3,
-    "observe": 7
+    "medium": 6,
+    "observe": 9
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -25,22 +25,32 @@
       "section": "medium"
     },
     {
+      "title": "baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-25T12:00:15+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/jp/JVN21754394/",
+      "summary": "baserCMSユーザー会が提供するbaserCMS用プラグイン「アドオンマイグレーター」 には、信頼できない制御領域からの機能の組み込みに関する脆弱性が存在します。",
+      "section": "medium"
+    },
+    {
+      "title": "baserCMSにおける複数の脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-25T12:00:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/jp/JVN14353754/",
+      "summary": "baserCMSユーザー会が提供するbaserCMSには複数の脆弱性が存在します。",
+      "section": "medium"
+    },
+    {
       "title": "ViewSonic vCastにおける複数の脆弱性",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
       "published_at": "2026-09-25T10:00:30+09:00",
       "relevance_score": 14,
       "url": "https://jvn.jp/vu/JVNVU96941087/",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "section": "medium"
-    },
-    {
-      "title": "Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-25T10:00:15+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU96565230/",
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "section": "medium"
     },
