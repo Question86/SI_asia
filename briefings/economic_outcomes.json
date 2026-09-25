@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T09:45:26+00:00",
+  "generated_at": "2026-09-25T09:53:44+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -716,6 +716,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_12ac6c64286b0b6ffcd9",
+      "title": "[UPDATE] [mittel] X.Org X11: Schwachstelle ermöglicht Codeausführung",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_12e1c0350761883cea3e",
@@ -1727,7 +1738,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2c9909b827c7823d9b0f",
@@ -10400,12 +10411,12 @@
     {
       "event_id": "evt_fecc841913a92e66ee8b",
       "title": "Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
