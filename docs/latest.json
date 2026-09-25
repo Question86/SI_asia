@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T05:22:25+00:00",
-  "run_id": "2026-09-25T05:22:25+00:00",
+  "generated_at": "2026-09-25T05:34:16+00:00",
+  "run_id": "2026-09-25T05:34:16+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 22,
     "displayed_findings": 22,
     "high": 0,
@@ -1001,29 +1001,7 @@
       "id": "a8355593e98de06f2d85"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Same failure, better clothes: Matchmade.io on selling Indonesian finance tech in Singapore",
-      "url": "https://e27.co/same-failure-better-clothes-matchmade-io-on-selling-indonesian-finance-tech-in-singapore-20260925/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-25T05:03:30+00:00",
-      "fetched_at": "2026-09-25T05:21:57+00:00",
-      "summary": "There is a particular misery that visits finance departments in the last week of every month. The sales figure on the point-of-sale screen says one thing, the bank statement says another, and somebody has to explain the gap before the books close. Gilang Gibranthama, co-founder of Jakarta-based Matchmade.io, has built a business around that misery. […] The post Same failure, better clothes: Matchmade.io on selling I…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "founder"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b871b5fa04d3f1ef2445"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
