@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T15:37:31+00:00",
-  "run_id": "2026-09-25T15:37:31+00:00",
+  "generated_at": "2026-09-25T15:46:23+00:00",
+  "run_id": "2026-09-25T15:46:23+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 74,
     "displayed_findings": 74,
     "high": 1,
@@ -3452,30 +3452,7 @@
       "id": "d75d665d4499bebcc2ae"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
-      "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-24T19:13:02+00:00",
-      "fetched_at": "2026-09-25T15:36:58+00:00",
-      "summary": "Expired artifacts are no longer displayed in the GitHub Actions run summary or returned by the REST API. Previously, an expired artifact remained visible with an “Expired” pill, even though… The post Expired GitHub Actions artifacts no longer shown in UI and API appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Actions",
-        "GitHub",
-        "GitHub Actions"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "04bc5658da29804b81ac"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
