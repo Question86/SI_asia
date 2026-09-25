@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-25T12:31:24+00:00",
+  "generated_at": "2026-09-25T12:51:20+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 2,
+    "today_file_total": 63,
+    "displayed_findings": 63,
     "high": 1,
     "medium": 29,
-    "observe": 31
+    "observe": 33
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "M 4.5 - 72 km E of Thang, India",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-25T12:46:43.040+00:00",
+      "relevance_score": 11,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txk0",
+      "summary": "Time 2026-09-25 11:53:21 UTC 2026-09-25 11:53:21 UTC at epicenter Location 34.843°N 77.576°E Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
       "title": "WordPress-Lücke nur Stunden nach Patch attackiert",
       "source": "heise Security Alerts",
       "source_type": "rss",
@@ -93,16 +103,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim",
       "summary": "Time 2026-09-25 04:27:40 UTC 2026-09-25 04:27:40 UTC at epicenter Location 7.404°S 125.699°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
-    },
-    {
-      "title": "Monetary developments in the euro area: August 2026",
-      "source": "ECB Statistical Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-09-25T08:00:00+00:00",
-      "relevance_score": 10,
-      "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2608~406f8d243d.en.html",
-      "summary": "Monetary developments in the euro area: August 2026",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -110,139 +110,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0910",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T11:39:26+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, 10",
-          "security high-signal: angriffe, 10"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] MinIO: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3571",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T10:44:24+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in MinIO ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3569",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T10:39:23+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [hoch] RPM: Mehrere Schwachstellen ermöglichen Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3567",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T10:19:23+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in RPM ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (OpenEXR): Schwachstelle ermöglicht Codeausführung und Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3489",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T09:47:09+00:00",
-        "age_days": 0.13,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (OpenEXR) ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen."
-      }
-    ]
-  }
+  ]
 }
