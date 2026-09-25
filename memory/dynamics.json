@@ -1,12 +1,66 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-25T00:36:53Z",
+  "generated_at": "2026-09-25T01:13:08Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 0,
-    "bands": {},
-    "bands_after_gate_recheck": {}
+    "dynamics": 2,
+    "bands": {
+      "quiet": 2
+    },
+    "bands_after_gate_recheck": {
+      "quiet": 2
+    }
   },
-  "top_dynamics": []
+  "top_dynamics": [
+    {
+      "title": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2142666.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-25T00:54:32+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2142666.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-24T23:11:39+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理"
+    }
+  ],
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=11.5."
 }
