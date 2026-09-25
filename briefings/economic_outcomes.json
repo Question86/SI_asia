@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T21:42:35+00:00",
+  "generated_at": "2026-09-25T21:57:30+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -836,7 +836,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_164cc1afee592ac2b935",
@@ -1056,7 +1056,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_1b0e58bdd6e849cd8170",
@@ -8750,13 +8750,13 @@
     {
       "event_id": "evt_d5af486ad2bc6e10541f",
       "title": "M 6.6 - 80 km ENE of Tadine, New Caledonia",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d5c92a563cb9bfb68e88",
@@ -9328,7 +9328,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e1c63a0688150c751892",
