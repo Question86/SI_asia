@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T11:01:30+00:00",
+  "generated_at": "2026-09-25T11:21:01+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1523,7 +1523,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-25T04:42:16+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -4396,7 +4396,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -4430,7 +4430,7 @@
       "p90_usd": 2980000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-09-25T03:09:09+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -4481,7 +4481,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -4600,7 +4600,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T09:53:09+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -4787,7 +4787,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -5212,7 +5212,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -6572,7 +6572,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T06:37:52+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -6725,7 +6725,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T09:44:45+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -7048,7 +7048,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T03:09:09+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -8085,7 +8085,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -8257,6 +8257,23 @@
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_eeac1ffdc3952e03bdbf",
+      "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-25T11:20:42+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0794940ba82f2ab5dd23",
@@ -9513,7 +9530,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -9751,7 +9768,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T03:44:46+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -9768,7 +9785,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -10210,7 +10227,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -10414,7 +10431,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T05:22:27+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -10482,7 +10499,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T06:37:52+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -10993,7 +11010,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T03:44:46+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -11350,7 +11367,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T04:01:41+00:00",
-      "last_seen_at": "2026-09-25T11:01:12+00:00",
+      "last_seen_at": "2026-09-25T11:20:42+00:00",
       "status": "active"
     },
     {
@@ -11521,7 +11538,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T02:01:58+00:00",
       "last_seen_at": "2026-09-25T11:01:12+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a3c20f54b3cd9d8e84fb",
