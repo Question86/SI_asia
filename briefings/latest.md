@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T14:47:59+00:00_
+_Generiert: 2026-09-25T14:55:58+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-09-25T14:47:59+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-67279 MikroTik RouterOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-25`
+  - Kurz: Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability
+- **CISA KEV: CVE-2026-65660 Microsoft SharePoint** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-25`
+  - Kurz: Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. Microsoft SharePoint Code Injection Vulnerability
 - **CISA KEV: CVE-2026-5430 WSO2 Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-24`
@@ -21,14 +29,6 @@ _Generiert: 2026-09-25T14:47:59+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-22`
   - Kurz: Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. Arista VeloCloud Orchestrator Improper Input Validation Vulnerability
-- **CISA KEV: CVE-2026-94127 F5 BIG-IP APM** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-22`
-  - Kurz: Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability
-- **CISA KEV: CVE-2026-93616 Check Point Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-22`
-  - Kurz: Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. Check Point Multiple Products Path Traversal Vulnerability
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
