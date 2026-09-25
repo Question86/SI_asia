@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T11:21:26+00:00",
+  "generated_at": "2026-09-25T11:33:13+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -2794,7 +2794,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_48aef51a244d885064ac",
@@ -8781,6 +8781,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d9b9fa37145df8b35ea7",
+      "title": "M 5.3 - Vanuatu region",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_d9d1e9444ff4c251a395",
       "title": "The Fed is the real crypto story, Bitcoin and Ethereum are just following",
       "deduplicated_buckets": 0,
@@ -9828,12 +9839,12 @@
     {
       "event_id": "evt_eeac1ffdc3952e03bdbf",
       "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
