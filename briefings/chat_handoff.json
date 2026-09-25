@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-25T06:02:04+00:00",
+  "generated_at": "2026-09-25T06:37:48+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "new_relevant_findings": 4,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
-    "medium": 7,
-    "observe": 16
+    "medium": 8,
+    "observe": 19
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 16,
       "url": "https://jvn.jp/vu/JVNVU93222287/",
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "section": "medium"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 16,
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM,…",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 14,
       "url": "https://jvn.jp/jp/JVN14353754/",
       "summary": "baserCMSユーザー会が提供するbaserCMSには複数の脆弱性が存在します。",
-      "section": "medium"
-    },
-    {
-      "title": "ViewSonic vCastにおける複数の脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-25T10:00:30+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU96941087/",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "section": "medium"
     },
     {
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "Same failure, better clothes: Matchmade.io on selling Indonesian finance tech in Singapore",
+      "title": "Altcoins are running on real news, Wall Street is running on fear",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-25T05:03:30+00:00",
+      "published_at": "2026-09-25T06:33:26+00:00",
       "relevance_score": 9,
-      "url": "https://e27.co/same-failure-better-clothes-matchmade-io-on-selling-indonesian-finance-tech-in-singapore-20260925/",
-      "summary": "There is a particular misery that visits finance departments in the last week of every month. The sales figure on the point-of-sale screen says one thing, the bank statement says another, and somebody has to explain the gap before the books close. Gilang Gibr…",
+      "url": "https://e27.co/altcoins-are-running-on-real-news-wall-street-is-running-on-fear-20260925/",
+      "summary": "Asian stocks and bonds fell as a global bond selloff deepened and inflation fears intensified, with oil prices remaining elevated. Regional indices pointed lower in early trading. Wall Street had finished a volatile session mixed to flat. The S&P 500 edged sl…",
       "section": "observe"
     }
   ],
@@ -100,137 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “ViewSonic vCastにおける複数の脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "ViewSonic vCastにおける複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96941087/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T10:00:30+09:00",
-        "age_days": 0.23,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）",
-        "url": "https://jvn.jp/vu/JVNVU93222287/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T10:00:00+09:00",
-        "age_days": 0.23,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation",
-        "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-25T01:00:04+00:00",
-        "age_days": 0.23,
-        "topics": [
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 27.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fallen sharply since 2022. The platforms that remain — KoinWork…"
-      },
-      {
-        "title": "baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性",
-        "url": "https://jvn.jp/jp/JVN21754394/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T12:00:15+09:00",
-        "age_days": 0.14,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "baserCMSユーザー会が提供するbaserCMS用プラグイン「アドオンマイグレーター」 には、信頼できない制御領域からの機能の組み込みに関する脆弱性が存在します。"
-      },
-      {
-        "title": "baserCMSにおける複数の脆弱性",
-        "url": "https://jvn.jp/jp/JVN14353754/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T12:00:00+09:00",
-        "age_days": 0.14,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "baserCMSユーザー会が提供するbaserCMSには複数の脆弱性が存在します。"
-      }
-    ]
-  }
+  ]
 }

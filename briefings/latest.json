@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T06:02:04+00:00",
-  "run_id": "2026-09-25T06:02:04+00:00",
+  "generated_at": "2026-09-25T06:37:48+00:00",
+  "run_id": "2026-09-25T06:37:48+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 23
+      "configured_public_sources_only": 27
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "new_relevant_findings": 4,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
-    "medium": 7,
-    "observe": 16,
+    "medium": 8,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -51,6 +51,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9f6f16eab83d2b5a5fe9"
+      },
+      {
+        "title": "NVIDIA/Model-Optimizer",
+        "url": "https://github.com/NVIDIA/Model-Optimizer",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-09-25T06:37:15+00:00",
+        "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. https://nvidia.github.io/Model-Optimizer/ NVIDIA Model Optimizer Documentation | Roadmap | Announcement Blogs NVIDIA Model Op…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "GitHub Trending",
+          "Webentwicklung"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5926380f98ade1d1f6b3"
       },
       {
         "title": "baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性",
@@ -264,6 +288,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "764b8a5e942531b7b425"
+      },
+      {
+        "title": "Altcoins are running on real news, Wall Street is running on fear",
+        "url": "https://e27.co/altcoins-are-running-on-real-news-wall-street-is-running-on-fear-20260925/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-25T06:33:26+00:00",
+        "fetched_at": "2026-09-25T06:37:15+00:00",
+        "summary": "Asian stocks and bonds fell as a global bond selloff deepened and inflation fears intensified, with oil prices remaining elevated. Regional indices pointed lower in early trading. Wall Street had finished a volatile session mixed to flat. The S&P 500 edged slightly lower. The Dow Jones Industrial Average dropped 161 points, or 0.3 per cent. […] The post Altcoins are running on real news, Wall Street is running on fe…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fd7f2c3bb5c56ebcf049"
       },
       {
         "title": "Same failure, better clothes: Matchmade.io on selling Indonesian finance tech in Singapore",
@@ -536,6 +581,48 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a8355593e98de06f2d85"
+      },
+      {
+        "title": "vectorize-io/hindsight",
+        "url": "https://github.com/vectorize-io/hindsight",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-09-25T06:37:15+00:00",
+        "summary": "Hindsight: Agent Memory That Learns https://hindsight.vectorize.io/ Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on recalling conversation history. Hindsight is focused on making agents that learn, not just remember. It eliminates the shortcomi…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1283cb2b5827e6a11774"
+      },
+      {
+        "title": "FxEmbed/FxEmbed",
+        "url": "https://github.com/FxEmbed/FxEmbed",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-09-25T06:37:15+00:00",
+        "summary": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others https://docs.fxembed.com FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! twitter.com : Add fx before your twitter.com link x.com : Add fixup before your x.com link bsky.app : Add fx before your bsky.app link Do…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ca6eba3d8e0e9612ab5b"
       }
     ]
   },
@@ -562,6 +649,30 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9f6f16eab83d2b5a5fe9"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-09-25T06:37:15+00:00",
+      "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. https://nvidia.github.io/Model-Optimizer/ NVIDIA Model Optimizer Documentation | Roadmap | Announcement Blogs NVIDIA Model Op…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "GitHub Trending",
+        "Webentwicklung"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5926380f98ade1d1f6b3"
     },
     {
       "title": "baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性",
@@ -773,6 +884,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "764b8a5e942531b7b425"
+    },
+    {
+      "title": "Altcoins are running on real news, Wall Street is running on fear",
+      "url": "https://e27.co/altcoins-are-running-on-real-news-wall-street-is-running-on-fear-20260925/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-25T06:33:26+00:00",
+      "fetched_at": "2026-09-25T06:37:15+00:00",
+      "summary": "Asian stocks and bonds fell as a global bond selloff deepened and inflation fears intensified, with oil prices remaining elevated. Regional indices pointed lower in early trading. Wall Street had finished a volatile session mixed to flat. The S&P 500 edged slightly lower. The Dow Jones Industrial Average dropped 161 points, or 0.3 per cent. […] The post Altcoins are running on real news, Wall Street is running on fe…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fd7f2c3bb5c56ebcf049"
     },
     {
       "title": "Same failure, better clothes: Matchmade.io on selling Indonesian finance tech in Singapore",
@@ -1045,31 +1177,137 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a8355593e98de06f2d85"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "[UPDATE] [hoch] Fleet: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3546",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-09-25T05:49:23+00:00",
-      "fetched_at": "2026-09-25T06:01:31+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Fleet ausnutzen, um erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen und einen Denial-of-Service-Zustand auszulösen.",
+      "published_at": null,
+      "fetched_at": "2026-09-25T06:37:15+00:00",
+      "summary": "Hindsight: Agent Memory That Learns https://hindsight.vectorize.io/ Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on recalling conversation history. Hindsight is focused on making agents that learn, not just remember. It eliminates the shortcomi…",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "APAC Trend Radar",
+        "GitHub Trending"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1d8242563fe3e95da3fe"
+      "id": "1283cb2b5827e6a11774"
+    },
+    {
+      "title": "FxEmbed/FxEmbed",
+      "url": "https://github.com/FxEmbed/FxEmbed",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-09-25T06:37:15+00:00",
+      "summary": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others https://docs.fxembed.com FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! twitter.com : Add fx before your twitter.com link x.com : Add fixup before your x.com link bsky.app : Add fx before your bsky.app link Do…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ca6eba3d8e0e9612ab5b"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-09-25T06:37:15+00:00",
+      "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. https://nvidia.github.io/Model-Optimizer/ NVIDIA Model Optimizer Documentation | Roadmap | Announcement Blogs NVIDIA Model Op…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "GitHub Trending",
+        "Webentwicklung"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5926380f98ade1d1f6b3"
+    },
+    {
+      "title": "Altcoins are running on real news, Wall Street is running on fear",
+      "url": "https://e27.co/altcoins-are-running-on-real-news-wall-street-is-running-on-fear-20260925/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-25T06:33:26+00:00",
+      "fetched_at": "2026-09-25T06:37:15+00:00",
+      "summary": "Asian stocks and bonds fell as a global bond selloff deepened and inflation fears intensified, with oil prices remaining elevated. Regional indices pointed lower in early trading. Wall Street had finished a volatile session mixed to flat. The S&P 500 edged slightly lower. The Dow Jones Industrial Average dropped 161 points, or 0.3 per cent. […] The post Altcoins are running on real news, Wall Street is running on fe…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fd7f2c3bb5c56ebcf049"
+    },
+    {
+      "title": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-09-25T06:37:15+00:00",
+      "summary": "Hindsight: Agent Memory That Learns https://hindsight.vectorize.io/ Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on recalling conversation history. Hindsight is focused on making agents that learn, not just remember. It eliminates the shortcomi…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1283cb2b5827e6a11774"
+    },
+    {
+      "title": "FxEmbed/FxEmbed",
+      "url": "https://github.com/FxEmbed/FxEmbed",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-09-25T06:37:15+00:00",
+      "summary": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others https://docs.fxembed.com FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! twitter.com : Add fx before your twitter.com link x.com : Add fixup before your x.com link bsky.app : Add fx before your bsky.app link Do…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ca6eba3d8e0e9612ab5b"
     }
   ],
   "source_errors": [],
