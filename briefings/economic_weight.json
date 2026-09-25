@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T23:52:37+00:00",
+  "generated_at": "2026-09-25T00:00:29+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1184,7 +1184,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T07:22:32+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e1977ace65ebf1864c3b",
@@ -2853,6 +2853,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_36085e30f2f91b6ca31e",
+      "title": "M 5.3 - 72 km NW of Finschhafen, Papua New Guinea",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-24T23:52:18+00:00",
+      "last_seen_at": "2026-09-24T23:52:18+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_368ec51aca92307b5567",
       "title": "M 4.7 - 2 km NE of Manaca Norte, Panama",
       "event_classes": [
@@ -4349,23 +4366,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_36085e30f2f91b6ca31e",
-      "title": "M 5.3 - 72 km NW of Finschhafen, Papua New Guinea",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-24T23:52:18+00:00",
-      "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -4380,7 +4380,7 @@
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_09434b47a53a3966aade",
@@ -4448,7 +4448,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6bd9db655618cf846ffa",
@@ -4584,7 +4584,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T04:25:00+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_201940b7c1cad5180657",
@@ -4601,7 +4601,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T01:39:57+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2610890545923eccec3a",
@@ -4635,7 +4635,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T01:39:57+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2e3fa6b1cf3469d2d7df",
@@ -4788,7 +4788,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T01:39:57+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_68f7ce6a8e9b227f760a",
@@ -4873,7 +4873,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T01:39:57+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9107556a34988e1e4ea5",
@@ -5247,7 +5247,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T08:39:26+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_716b92d9f99d233a8892",
@@ -5298,7 +5298,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2bf1e7d57306cb9b7c1c",
@@ -5400,7 +5400,7 @@
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_286c3df7e2f2f93926a3",
@@ -5417,7 +5417,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3244f99284aefc15f5e8",
@@ -5638,7 +5638,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T18:37:46+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_32f7be6791361ff56cd9",
@@ -6029,7 +6029,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ddafeb5abed4dc8b9f0d",
@@ -7151,7 +7151,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T10:46:06+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ca30cb0d905010c65502",
@@ -9293,7 +9293,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T04:25:00+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6522f52f78f325c58303",
@@ -9446,7 +9446,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T01:39:57+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8280f49509ae066ada77",
@@ -9871,7 +9871,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T05:18:04+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e9e8c48e7983c87f19be",
@@ -10041,7 +10041,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_574beed208af3af2acc2",
