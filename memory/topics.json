@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T10:34:20+00:00",
+  "generated_at": "2026-09-25T10:45:22+00:00",
   "topics": {
     "security": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:39:23+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3569"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] MediaWiki (CirrusSearch Extension): Schwachstelle ermöglicht Cross-Site Scripting",
         "source": "BSI CERT-Bund Security Advisories",
@@ -66,16 +73,16 @@
         "published_at": "2026-09-25T10:00:30+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96941087/"
-      },
-      {
-        "title": "Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T10:00:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU96565230/"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:39:23+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3569"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] MediaWiki (CirrusSearch Extension): Schwachstelle ermöglicht Cross-Site Scripting",
         "source": "BSI CERT-Bund Security Advisories",
