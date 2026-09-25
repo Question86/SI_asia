@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-25T06:54:39Z",
+  "generated_at": "2026-09-25T07:17:52Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN21754394/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T12:00:15+09:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN14353754/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T12:00:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU96565230/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:15+09:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -87,7 +87,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3546",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T05:49:23+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -111,7 +111,7 @@
       "url": "https://jvn.jp/vu/JVNVU96941087/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:30+09:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -137,7 +137,7 @@
       "url": "https://jvn.jp/vu/JVNVU93222287/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:00+09:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -162,7 +162,7 @@
       "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T01:00:04+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -189,7 +189,7 @@
       "url": "https://jvn.jp/jp/JVN21754394/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T03:09:09+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -213,7 +213,7 @@
       "url": "https://jvn.jp/vu/JVNVU96941087/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T01:15:52+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -237,7 +237,7 @@
       "url": "https://jvn.jp/vu/JVNVU96565230/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T01:15:52+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -257,18 +257,44 @@
       "summary": ""
     },
     {
+      "title": "[UPDATE] [hoch] Fleet: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3546",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 27.71,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -2.4 for 27.7d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Altcoins are running on real news, Wall Street is running on fear",
       "url": "https://e27.co/altcoins-are-running-on-real-news-wall-street-is-running-on-fear-20260925/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T06:37:52+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 21.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 1,
@@ -277,32 +303,6 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "NVIDIA/Model-Optimizer",
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-25T06:37:52+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     }
@@ -316,7 +316,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 12
+      "strong": 10,
+      "watch": 2
     }
   }
 }
