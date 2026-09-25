@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T07:26:10+00:00_
+_Generiert: 2026-09-25T07:41:04+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+30 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
   - Kurz: For many people, foot pain is ignored until it starts changing everyday behaviour. They walk less, avoid stairs, switch shoes, or live with knee and back discomfort that seems unrelated. GoodARCH is betting that a five-minute scan can narrow the gap between early signs and medical attention. The Asian arch support brand, operated by Taiwan-based […] The post GoodARCH launches AI foot mapping in Malaysia with US$230K…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **グーグル「Gemini」に電話代行の新機能 レストラン予約もお任せ** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35252958/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-25T02:26:41+00:00`, fetched `2026-09-25T07:40:32+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: Googleは米国時間9月24日、モバイル版「Gemini」のAI機能を拡張し、日常の電話をユーザーに代わってこなす、新たなAIエージェント機能を発表した。世界中の内向的な人に朗報だ。ただし、細かな利用条件にも目を通しておきたい。Geminiが代わりにできることには限りがあるからだ。 この機能は、スマートフォンでGeminiを...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation** — Score 10, observation — [Quelle](https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-25T01:00:04+00:00`, fetched `2026-09-25T01:15:19+00:00`
@@ -113,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
   - Kurz: メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Jetzt updaten! Attacken auf Roundcube-Webmail-Instanzen beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-updaten-Attacken-auf-Roundcube-Webmail-Instanzen-beobachtet-11465379.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-25T07:31:00.000+00:00`, fetched `2026-09-25T07:40:32+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Angreifer nutzen derzeit eine Sicherheitslücke in Roundcube Webmail aus. Dafür müssen aber die Voraussetzungen stimmen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Video-Tool VLC: Version 3.0.24 stopft über 130 Sicherheitslecks** — Score 7, observation — [Quelle](https://www.heise.de/news/Video-Tool-VLC-Version-3-0-24-stopft-ueber-130-Sicherheitslecks-11465305.html)
   - Quelle: heise Security Alerts / `rss`
@@ -149,15 +167,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: しんざき システムエンジニア、PM、ケーナ奏者、三児の父。南米民族音楽の演奏が趣味。仕事・育児・演奏活動の傍ら、レトロゲーム雑記ブログ「不倒城」を20年程運営している。 @shinzaki ブログ：「不倒城」 著者記事一覧 こんにちは、しんざきです。 他人を褒めるのは苦手なんですが、自分を褒めるのは正直めちゃくち...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2142666.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-24T23:11:39+00:00`, fetched `2026-09-25T00:53:56+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **vectorize-io/hindsight** — Score 5, observation — [Quelle](https://github.com/vectorize-io/hindsight)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

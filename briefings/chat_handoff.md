@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T07:26:10+00:00_
+_Generated: 2026-09-25T07:41:04+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `30`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-25T07:26:10+00:00_
 - url: https://e27.co/goodarch-launches-ai-foot-mapping-in-malaysia-with-us230k-healthtech-investment-20260925/
 - summary: For many people, foot pain is ignored until it starts changing everyday behaviour. They walk less, avoid stairs, switch shoes, or live with knee and back discomfort that seems unrelated. GoodARCH is betting that a five-minute scan can narrow the gap between e…
 
-### 7. The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation
+### 7. グーグル「Gemini」に電話代行の新機能 レストラン予約もお任せ
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-09-25T02:26:41+00:00`
+- url: https://japan.cnet.com/article/35252958/
+- summary: Googleは米国時間9月24日、モバイル版「Gemini」のAI機能を拡張し、日常の電話をユーザーに代わってこなす、新たなAIエージェント機能を発表した。世界中の内向的な人に朗報だ。ただし、細かな利用条件にも目を通しておきたい。Geminiが代わりにできることには限りがあるからだ。 この機能は、スマートフォンでGeminiを...
+
+### 8. The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-25T01:00:04+00:00`
 - url: https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/
 - summary: Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fal…
-
-### 8. Altcoins are running on real news, Wall Street is running on fear
-- source: e27 Asia Startup and Tech Feed
-- score: `9`
-- published: `2026-09-25T06:33:26+00:00`
-- url: https://e27.co/altcoins-are-running-on-real-news-wall-street-is-running-on-fear-20260925/
-- summary: Asian stocks and bonds fell as a global bond selloff deepened and inflation fears intensified, with oil prices remaining elevated. Regional indices pointed lower in early trading. Wall Street had finished a volatile session mixed to flat. The S&P 500 edged sl…
 
 END OF DOCUMENT
