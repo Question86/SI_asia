@@ -1,14 +1,42 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T00:54:29+00:00_
+_Generated: 2026-09-25T01:15:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `1`
+- findings: `5`
 
 ## Top Signals
 
-### 1. 「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理
+### 1. CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）
+- source: JVN Japan Vulnerability Notes
+- score: `16`
+- published: `2026-09-25T10:00:00+09:00`
+- url: https://jvn.jp/vu/JVNVU93222287/
+- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+
+### 2. ViewSonic vCastにおける複数の脆弱性
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-09-25T10:00:30+09:00`
+- url: https://jvn.jp/vu/JVNVU96941087/
+- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+
+### 3. Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-09-25T10:00:15+09:00`
+- url: https://jvn.jp/vu/JVNVU96565230/
+- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+
+### 4. The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-09-25T01:00:04+00:00`
+- url: https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/
+- summary: Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fal…
+
+### 5. 「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-24T23:11:39+00:00`

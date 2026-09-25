@@ -1,8 +1,49 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T00:54:29+00:00",
+  "generated_at": "2026-09-25T01:15:49+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-25T10:00:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU93222287/"
+      },
+      {
+        "title": "ViewSonic vCastにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-25T10:00:30+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU96941087/"
+      },
+      {
+        "title": "Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-25T10:00:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU96565230/"
+      }
+    ],
+    "ai": [
+      {
+        "title": "The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-25T01:00:04+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-25T01:00:04+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/"
+      }
+    ],
     "general": [
       {
         "title": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理",

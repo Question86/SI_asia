@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T00:54:32+00:00",
+  "generated_at": "2026-09-25T01:15:52+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2809,8 +2809,8 @@
       "z_hint": 0.0
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）",
-      "updated_at": "2026-09-24T23:52:18+00:00",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）",
+      "updated_at": "2026-09-25T01:15:52+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2841,12 +2841,12 @@
         18.1,
         18.1,
         18.1,
-        18.1
+        21.1
       ],
-      "rolling_average": 18.1,
-      "rolling_peak": 18.1,
-      "last_score": 18.1,
-      "z_hint": -0.0
+      "rolling_average": 18.2,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
+      "z_hint": 2.9
     },
     "github_repo:universal-debloater-alliance/universal-android-debloater-next-generation": {
       "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -46987,13 +46987,47 @@
     },
     "title:python-windows-python-install-manager": {
       "title": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理",
-      "updated_at": "2026-09-25T00:54:32+00:00",
+      "updated_at": "2026-09-25T01:15:52+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
+      "last_score": 7.1,
+      "z_hint": -1.5
+    },
+    "title:viewsonic-vcast": {
+      "title": "ViewSonic vCastにおける複数の脆弱性",
+      "updated_at": "2026-09-25T01:15:52+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "title:norwegian-cruise-line": {
+      "title": "Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性",
+      "updated_at": "2026-09-25T01:15:52+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "title:koinworks-era-what-indonesia-sme-lending-journey-has": {
+      "title": "The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation",
+      "updated_at": "2026-09-25T01:15:52+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
       "z_hint": 0.0
     }
   }

@@ -1,19 +1,59 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-25T00:54:29+00:00",
+  "generated_at": "2026-09-25T01:15:49+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "new_relevant_findings": 4,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
-    "medium": 0,
-    "observe": 1
+    "medium": 3,
+    "observe": 2
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-25T10:00:00+09:00",
+      "relevance_score": 16,
+      "url": "https://jvn.jp/vu/JVNVU93222287/",
+      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "section": "medium"
+    },
+    {
+      "title": "ViewSonic vCastにおける複数の脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-25T10:00:30+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU96941087/",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "section": "medium"
+    },
+    {
+      "title": "Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-25T10:00:15+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU96565230/",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "section": "medium"
+    },
+    {
+      "title": "The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-25T01:00:04+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
+      "summary": "Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fal…",
+      "section": "observe"
+    },
     {
       "title": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理",
       "source": "Hatena Bookmark Hotentry IT",
@@ -30,62 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=11.5.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理",
-        "url": "https://forest.watch.impress.co.jp/docs/news/2142666.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-25T00:54:32+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 11.5,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理",
-        "url": "https://forest.watch.impress.co.jp/docs/news/2142666.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-24T23:11:39+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 5.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理"
-      }
-    ]
-  }
+  ]
 }
