@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-09-25T16:38:44+00:00_
+_Generiert: 2026-09-25T16:50:22+00:00_
 
 ## Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung
 
-- Ranking Score: `31.72`
+- Ranking Score: `31.44`
 - Raw Network Score: `34.5`
 - Max Monitor Score: `24`
 - Reichweite: `specialist` / `2.5`
