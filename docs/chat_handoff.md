@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T03:44:43+00:00_
+_Generated: 2026-09-25T04:01:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `18`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-25T03:44:43+00:00_
 - url: https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/
 - summary: Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fal…
 
-### 7. AI made the first draft easier. It didn’t make client decisions easier
+### 7. Vision AI expands visibility across remote pipeline corridors
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-09-25T04:00:11+00:00`
+- url: https://e27.co/vision-ai-expands-visibility-across-remote-pipeline-corridors-20260924/
+- summary: Pipeline operators already receive large volumes of asset data, but physical activity along remote rights-of-way remains difficult to observe continuously. Vision AI is beginning to turn existing infrastructure into an additional layer of operational intellig…
+
+### 8. AI made the first draft easier. It didn’t make client decisions easier
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-09-25T03:30:48+00:00`
 - url: https://e27.co/ai-made-the-first-draft-easier-it-didnt-make-client-decisions-easier-20260924/
 - summary: A few years ago, the early stages of a video project often began almost from zero. We would talk through the client’s direction, work out a script, develop the visual approach and gradually turn a loose idea into something the client could react to. That part…
-
-### 8. AI will not become your employee. It will change what work has to be managed
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-09-25T02:00:12+00:00`
-- url: https://e27.co/ai-will-not-become-your-employee-it-will-change-what-work-has-to-be-managed-20260924/
-- summary: Most AI writing about work still frames the shift too narrowly. The conversation often starts with a familiar question: which tasks can AI do? That is a useful starting point, but it misses the more important operational change. The deeper shift is not that A…
 
 END OF DOCUMENT

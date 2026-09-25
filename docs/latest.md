@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T03:44:43+00:00_
+_Generiert: 2026-09-25T04:01:37+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+18 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -69,14 +69,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fallen sharply since 2022. The platforms that remain — KoinWorks among the most prominent — operate inside a […] The post The KoinWorks era: What Indonesia’s SME l…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI made the first draft easier. It didn’t make client decisions easier** — Score 8, observation — [Quelle](https://e27.co/ai-made-the-first-draft-easier-it-didnt-make-client-decisions-easier-20260924/)
+- **Vision AI expands visibility across remote pipeline corridors** — Score 8, observation — [Quelle](https://e27.co/vision-ai-expands-visibility-across-remote-pipeline-corridors-20260924/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-25T03:30:48+00:00`, fetched `2026-09-25T03:44:15+00:00`
+  - Zeit: published `2026-09-25T04:00:11+00:00`, fetched `2026-09-25T04:01:05+00:00`
   - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: A few years ago, the early stages of a video project often began almost from zero. We would talk through the client’s direction, work out a script, develop the visual approach and gradually turn a loose idea into something the client could react to. That part has changed. Today, a client can give me a […] The post AI made the first draft easier. It didn’t make client decisions easier appeared first on e27 .
+  - Kurz: Pipeline operators already receive large volumes of asset data, but physical activity along remote rights-of-way remains difficult to observe continuously. Vision AI is beginning to turn existing infrastructure into an additional layer of operational intelligence. Midstream operators face a problem created by the infrastructure itself: pipelines can run for hundreds of kilometres through terrain that […] The post Vi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]** — Score 8, observation — [Quelle](https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
