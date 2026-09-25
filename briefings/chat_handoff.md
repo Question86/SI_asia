@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T15:46:23+00:00_
+_Generated: 2026-09-25T15:53:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `74`
+- findings: `75`
 
 ## Top Signals
 
@@ -57,18 +57,18 @@ _Generated: 2026-09-25T15:46:23+00:00_
 - url: https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api
 - summary: Expired artifacts are no longer displayed in the GitHub Actions run summary or returned by the REST API. Previously, an expired artifact remained visible with an “Expired” pill, even though… The post Expired GitHub Actions artifacts no longer shown in UI and…
 
-### 8. M 4.5 - 72 km E of Thang, India
+### 8. M 5.2 - 62 km SW of San Antonio, Chile
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-25T15:52:41.736+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txme
+- summary: DYFI? - IV Time 2026-09-25 15:29:09 UTC 2026-09-25 15:29:09 UTC at epicenter Location 33.966°S 72.108°W Depth 29.07 km (18.06 mi)
+
+### 9. M 4.5 - 72 km E of Thang, India
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-25T12:46:43.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txk0
 - summary: Time 2026-09-25 11:53:21 UTC 2026-09-25 11:53:21 UTC at epicenter Location 34.843°N 77.576°E Depth 10.00 km (6.21 mi)
-
-### 9. WordPress-Lücke nur Stunden nach Patch attackiert
-- source: heise Security Alerts
-- score: `11`
-- published: `2026-09-25T11:10:00.000+00:00`
-- url: https://www.heise.de/news/WordPress-Luecke-nur-Stunden-nach-Patch-attackiert-11466076.html
-- summary: WordPress hat am Dienstag zwei Sicherheitsupdates veröffentlicht. Die kritische Lücke aus dem zweiten wird bereits attackiert.
 
 END OF DOCUMENT
