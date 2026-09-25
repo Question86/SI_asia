@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T21:18:40+00:00_
+_Generated: 2026-09-25T21:30:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `86`
+- findings: `87`
 
 ## Top Signals
 
@@ -64,11 +64,11 @@ _Generated: 2026-09-25T21:18:40+00:00_
 - url: https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api
 - summary: Expired artifacts are no longer displayed in the GitHub Actions run summary or returned by the REST API. Previously, an expired artifact remained visible with an “Expired” pill, even though… The post Expired GitHub Actions artifacts no longer shown in UI and…
 
-### 9. M 5.2 - 62 km SW of San Antonio, Chile
+### 9. M 5.0 - 13 km N of Xunchang, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-09-25T15:52:41.736+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txme
-- summary: DYFI? - IV Time 2026-09-25 15:29:09 UTC 2026-09-25 15:29:09 UTC at epicenter Location 33.966°S 72.108°W Depth 29.07 km (18.06 mi)
+- published: `2026-09-25T21:18:30.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpf
+- summary: Time 2026-09-25 21:01:27 UTC 2026-09-25 21:01:27 UTC at epicenter Location 28.574°N 104.703°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
