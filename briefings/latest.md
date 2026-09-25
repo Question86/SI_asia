@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T18:01:50+00:00_
+_Generiert: 2026-09-25T18:25:51+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung“ aus heise Security Alerts (Score 24, risk).
+81 neue relevante Treffer. Stärkstes Signal: „Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -77,6 +77,15 @@ _Generiert: 2026-09-25T18:01:50+00:00_
 
 ## Priorität Mittel
 
+- **Agentic autofix now uses Copilot Memory** — Score 23, observation — [Quelle](https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-25T17:25:50+00:00`, fetched `2026-09-25T18:25:20+00:00`
+  - Treffer: AI Agents, Copilot, GitHub, Public Health, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Security (+6.0); Public Health (+5.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)
+  - Kurz: Agentic autofix now uses Copilot Memory for customers who’ve enabled it. When you use agentic autofix, it reviews existing memories for context that can help resolve security alerts. When it… The post Agentic autofix now uses Copilot Memory appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1452)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-25T11:59:26+00:00`, fetched `2026-09-25T12:30:54+00:00`

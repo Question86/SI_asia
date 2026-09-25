@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T18:01:50+00:00_
+_Generated: 2026-09-25T18:25:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `80`
+- findings: `81`
 
 ## Top Signals
 
@@ -15,33 +15,33 @@ _Generated: 2026-09-25T18:01:50+00:00_
 - url: https://www.heise.de/news/Bevorstehender-Zero-Day-Angriff-KiteWorks-draengt-Kunden-zur-Serverabschaltung-11466114.html
 - summary: Man habe konkrete Hinweise von Strafverfolgern auf eine Attacke, schreibt der Hersteller seinen Kunden. Auch hierzulande sind große Unternehmen betroffen.
 
-### 2. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+### 2. Agentic autofix now uses Copilot Memory
+- source: GitHub Changelog Atom
+- score: `23`
+- published: `2026-09-25T17:25:50+00:00`
+- url: https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory
+- summary: Agentic autofix now uses Copilot Memory for customers who’ve enabled it. When you use agentic autofix, it reviews existing memories for context that can help resolve security alerts. When it… The post Agentic autofix now uses Copilot Memory appeared first on…
+
+### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-25T11:59:26+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1452
 - summary: Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und andere, nicht spezifizierte Auswirkungen zu verursachen.
 
-### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
+### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-25T11:39:26+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0910
 - summary: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
 
-### 4. [NEU] [UNGEPATCHT] [mittel] MinIO: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
+### 5. [NEU] [UNGEPATCHT] [mittel] MinIO: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-25T10:44:24+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3571
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in MinIO ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
-
-### 5. [NEU] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-09-25T10:39:23+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3569
-- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
 
 ### 6. CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support
 - source: GitHub Changelog Atom

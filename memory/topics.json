@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T18:01:50+00:00",
+  "generated_at": "2026-09-25T18:25:51+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-25T11:41:00.000+00:00",
         "relevance_score": 24,
         "url": "https://www.heise.de/news/Bevorstehender-Zero-Day-Angriff-KiteWorks-draengt-Kunden-zur-Serverabschaltung-11466114.html"
+      },
+      {
+        "title": "Agentic autofix now uses Copilot Memory",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-25T17:25:50+00:00",
+        "relevance_score": 23,
+        "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory"
       },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
@@ -66,13 +73,150 @@
         "published_at": "2026-09-25T09:47:09+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3489"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Agentic autofix now uses Copilot Memory",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-25T17:25:50+00:00",
+        "relevance_score": 23,
+        "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory"
       },
       {
-        "title": "baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T12:00:15+09:00",
+        "title": "Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-25T09:43:08+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/"
+      },
+      {
+        "title": "NVIDIA/Model-Optimizer",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/NVIDIA/Model-Optimizer"
+      },
+      {
+        "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-25T18:00:00+00:00",
+        "relevance_score": 15,
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T08:44:23+00:00",
         "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN21754394/"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1671"
+      },
+      {
+        "title": "AI vs agtech: How AI is revolutionising agriculture",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-25T03:00:31+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/ai-vs-agtech-how-ai-is-revolutionising-agriculture-20260924/"
+      },
+      {
+        "title": "Multiples vulnérabilités dans les produits Cisco (17 septembre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-09-17T00:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1197/"
+      },
+      {
+        "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-24T19:13:02+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api"
+      },
+      {
+        "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-09-25T19:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://openai.com/index/proaction"
+      },
+      {
+        "title": "GoodARCH launches AI foot mapping in Malaysia with US$230K healthtech investment",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-25T03:36:46+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/goodarch-launches-ai-foot-mapping-in-malaysia-with-us230k-healthtech-investment-20260925/"
+      }
+    ],
+    "github": [
+      {
+        "title": "Agentic autofix now uses Copilot Memory",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-25T17:25:50+00:00",
+        "relevance_score": 23,
+        "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory"
+      },
+      {
+        "title": "NVIDIA/Model-Optimizer",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/NVIDIA/Model-Optimizer"
+      },
+      {
+        "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-25T18:00:00+00:00",
+        "relevance_score": 15,
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/"
+      },
+      {
+        "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-25T09:55:23+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support"
+      },
+      {
+        "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-24T19:13:02+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api"
+      },
+      {
+        "title": "メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-24T19:55:05+00:00",
+        "relevance_score": 8,
+        "url": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html"
+      },
+      {
+        "title": "GitHub Copilot weekly releases — September 21",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-25T16:42:48+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21"
+      },
+      {
+        "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-25T16:33:42+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams"
+      },
+      {
+        "title": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-25T03:13:23+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise"
+      },
+      {
+        "title": "vectorize-io/hindsight",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/vectorize-io/hindsight"
       }
     ],
     "geopolitics": [
@@ -145,150 +289,6 @@
         "published_at": "2026-09-25T10:54:23+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3574"
-      }
-    ],
-    "ai": [
-      {
-        "title": "Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-25T09:43:08+00:00",
-        "relevance_score": 16,
-        "url": "https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/"
-      },
-      {
-        "title": "NVIDIA/Model-Optimizer",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 16,
-        "url": "https://github.com/NVIDIA/Model-Optimizer"
-      },
-      {
-        "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-09-25T18:00:00+00:00",
-        "relevance_score": 15,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/"
-      },
-      {
-        "title": "[UPDATE] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T08:44:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1671"
-      },
-      {
-        "title": "AI vs agtech: How AI is revolutionising agriculture",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-25T03:00:31+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/ai-vs-agtech-how-ai-is-revolutionising-agriculture-20260924/"
-      },
-      {
-        "title": "Multiples vulnérabilités dans les produits Cisco (17 septembre 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-09-17T00:00:00+00:00",
-        "relevance_score": 14,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1197/"
-      },
-      {
-        "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-24T19:13:02+00:00",
-        "relevance_score": 12,
-        "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api"
-      },
-      {
-        "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-09-25T19:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://openai.com/index/proaction"
-      },
-      {
-        "title": "GoodARCH launches AI foot mapping in Malaysia with US$230K healthtech investment",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-25T03:36:46+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/goodarch-launches-ai-foot-mapping-in-malaysia-with-us230k-healthtech-investment-20260925/"
-      },
-      {
-        "title": "グーグル「Gemini」に電話代行の新機能 レストラン予約もお任せ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-25T02:26:41+00:00",
-        "relevance_score": 10,
-        "url": "https://japan.cnet.com/article/35252958/"
-      }
-    ],
-    "github": [
-      {
-        "title": "NVIDIA/Model-Optimizer",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 16,
-        "url": "https://github.com/NVIDIA/Model-Optimizer"
-      },
-      {
-        "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-09-25T18:00:00+00:00",
-        "relevance_score": 15,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/"
-      },
-      {
-        "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-25T09:55:23+00:00",
-        "relevance_score": 12,
-        "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support"
-      },
-      {
-        "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-24T19:13:02+00:00",
-        "relevance_score": 12,
-        "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api"
-      },
-      {
-        "title": "メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-24T19:55:05+00:00",
-        "relevance_score": 8,
-        "url": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html"
-      },
-      {
-        "title": "GitHub Copilot weekly releases — September 21",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-25T16:42:48+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21"
-      },
-      {
-        "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-25T16:33:42+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams"
-      },
-      {
-        "title": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-25T03:13:23+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise"
-      },
-      {
-        "title": "vectorize-io/hindsight",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/vectorize-io/hindsight"
-      },
-      {
-        "title": "FxEmbed/FxEmbed",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/FxEmbed/FxEmbed"
       }
     ],
     "general": [
