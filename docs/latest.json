@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T23:00:30+00:00",
-  "run_id": "2026-09-25T23:00:30+00:00",
+  "generated_at": "2026-09-25T23:18:39+00:00",
+  "run_id": "2026-09-25T23:18:39+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 93
+      "configured_public_sources_only": 94
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 93,
-    "displayed_findings": 93,
+    "new_relevant_findings": 1,
+    "today_file_total": 94,
+    "displayed_findings": 94,
     "high": 1,
     "medium": 35,
-    "observe": 57,
+    "observe": 58,
     "source_errors": 0
   },
   "sections": {
@@ -1920,6 +1920,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "792aa6eb95718fba93fe"
+      },
+      {
+        "title": "Usage metrics API adds pull request review stages",
+        "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-25T21:09:40+00:00",
+        "fetched_at": "2026-09-25T23:18:05+00:00",
+        "summary": "The enterprise and organization repository-level Copilot usage metrics reports now break down how long pull requests spend in each stage of review. A new pull_request_review_times array on each repos-1-day row… The post Usage metrics API adds pull request review stages appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b2153d543fe2a2552795"
       },
       {
         "title": "業務プロセスをいじっても生産性は上がらない。あるいは業務を良くするテコについて：プロジェクトマジック：オルタナティブ・ブログ",
@@ -4169,6 +4190,27 @@
       "id": "792aa6eb95718fba93fe"
     },
     {
+      "title": "Usage metrics API adds pull request review stages",
+      "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-25T21:09:40+00:00",
+      "fetched_at": "2026-09-25T23:18:05+00:00",
+      "summary": "The enterprise and organization repository-level Copilot usage metrics reports now break down how long pull requests spend in each stage of review. A new pull_request_review_times array on each repos-1-day row… The post Usage metrics API adds pull request review stages appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b2153d543fe2a2552795"
+    },
+    {
       "title": "業務プロセスをいじっても生産性は上がらない。あるいは業務を良くするテコについて：プロジェクトマジック：オルタナティブ・ブログ",
       "url": "https://blogs.itmedia.co.jp/magic/2026/09/post_157.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4524,7 +4566,29 @@
       "id": "d75d665d4499bebcc2ae"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Usage metrics API adds pull request review stages",
+      "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-25T21:09:40+00:00",
+      "fetched_at": "2026-09-25T23:18:05+00:00",
+      "summary": "The enterprise and organization repository-level Copilot usage metrics reports now break down how long pull requests spend in each stage of review. A new pull_request_review_times array on each repos-1-day row… The post Usage metrics API adds pull request review stages appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b2153d543fe2a2552795"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
