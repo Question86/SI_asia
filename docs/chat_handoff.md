@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T01:54:45+00:00_
+_Generated: 2026-09-25T02:01:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `9`
 
 ## Top Signals
 
@@ -36,18 +36,25 @@ _Generated: 2026-09-25T01:54:45+00:00_
 - url: https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/
 - summary: Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fal…
 
-### 5. The founder’s dilemma: Structured serendipity
+### 5. AI will not become your employee. It will change what work has to be managed
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-09-25T02:00:12+00:00`
+- url: https://e27.co/ai-will-not-become-your-employee-it-will-change-what-work-has-to-be-managed-20260924/
+- summary: Most AI writing about work still frames the shift too narrowly. The conversation often starts with a familiar question: which tasks can AI do? That is a useful starting point, but it misses the more important operational change. The deeper shift is not that A…
+
+### 6. The most expensive links aren’t really links: What 16,625 publisher price lists tell SEA startups
+- source: e27 Asia Startup and Tech Feed
+- score: `7`
+- published: `2026-09-25T02:00:05+00:00`
+- url: https://e27.co/the-most-expensive-links-arent-really-links-what-16625-publisher-price-lists-tell-sea-startups-20260923/
+- summary: Founders still ask me the question they asked in 2019: what does a good backlink cost. This September I finally answered it properly. ESBO Ltd, the link building and digital PR agency I run, exported its entire publisher database, 16,625 sites across 53 langu…
+
+### 7. The founder’s dilemma: Structured serendipity
 - source: e27 Asia Startup and Tech Feed
 - score: `6`
 - published: `2026-09-25T01:30:04+00:00`
 - url: https://e27.co/the-founders-dilemma-structured-serendipity-20260923/
 - summary: I was sitting in a cafe in Kuala Lumpur recently, sipping an iced mixed coffee with orange, when I realised that the way I organise for trips is exactly how I used to try to “organise” my startup. I was obsessed with the perfect project management software, t…
-
-### 6. 「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-24T23:11:39+00:00`
-- url: https://forest.watch.impress.co.jp/docs/news/2142666.html
-- summary: 「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理
 
 END OF DOCUMENT
