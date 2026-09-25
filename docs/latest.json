@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T11:58:55+00:00",
-  "run_id": "2026-09-25T11:58:55+00:00",
+  "generated_at": "2026-09-25T12:31:24+00:00",
+  "run_id": "2026-09-25T12:31:24+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 56
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 56,
-    "displayed_findings": 56,
+    "new_relevant_findings": 5,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 1,
-    "medium": 25,
-    "observe": 30,
+    "medium": 29,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -63,6 +63,30 @@
       }
     ],
     "medium": [
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1452",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-25T11:59:26+00:00",
+        "fetched_at": "2026-09-25T12:30:54+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und andere, nicht spezifizierte Auswirkungen zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7a245df1d19c48441719"
+      },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0910",
@@ -319,6 +343,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d70a098913492cbe2a49"
+      },
+      {
+        "title": "[NEU] [mittel] PHP: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3585",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-25T11:59:24+00:00",
+        "fetched_at": "2026-09-25T12:30:54+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in PHP ausnutzen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen oder die Integrität zu verletzen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3e2aa32911484079a855"
+      },
+      {
+        "title": "[NEU] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3584",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-25T11:59:24+00:00",
+        "fetched_at": "2026-09-25T12:30:54+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in cPanel cPanel/WHM ausnutzen, um Informationen offenzulegen und um Code mit Root-Rechten auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "828ddfbbcc73b3227123"
+      },
+      {
+        "title": "[NEU] [hoch] QT: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3586",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-25T11:59:24+00:00",
+        "fetched_at": "2026-09-25T12:30:54+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "180401fe3b6681ebd216"
       },
       {
         "title": "[NEU] [mittel] Kibana: Mehrere Schwachstellen",
@@ -1151,6 +1244,27 @@
         "id": "792aa6eb95718fba93fe"
       },
       {
+        "title": "InstagramとFacebookに投稿された偽広告の責任をMetaが負うとの判決をドイツの裁判所が下す、偽広告コンテンツの削除と損害賠償の支払いが命じられる",
+        "url": "https://gigazine.net/news/20260925-meta-fake-ads/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-25T09:16:46+00:00",
+        "fetched_at": "2026-09-25T12:30:54+00:00",
+        "summary": "Metaは年間総収益の約10％を詐欺広告から得ていたと報じられるなど、InstagramやFacebookにおいて詐欺的な広告がまん延していることが問題視されています。ドイツの金融ポータルサイトが自身の商標を無断で使用した広告についてMetaを提訴した結果、ドイツの裁判所は「プラットフォームに第三者が投稿した偽の広告につい...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d9472a5374266404eb29"
+      },
+      {
         "title": "「LLMの出力コードを理解できない初心者ばかり」 PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言",
         "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news048.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1332,6 +1446,30 @@
         "S"
       ],
       "id": "0bc6eee4ae6bf3fef2ee"
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1452",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-25T11:59:26+00:00",
+      "fetched_at": "2026-09-25T12:30:54+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und andere, nicht spezifizierte Auswirkungen zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7a245df1d19c48441719"
     },
     {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -1589,6 +1727,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d70a098913492cbe2a49"
+    },
+    {
+      "title": "[NEU] [mittel] PHP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3585",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-25T11:59:24+00:00",
+      "fetched_at": "2026-09-25T12:30:54+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in PHP ausnutzen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen oder die Integrität zu verletzen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3e2aa32911484079a855"
+    },
+    {
+      "title": "[NEU] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3584",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-25T11:59:24+00:00",
+      "fetched_at": "2026-09-25T12:30:54+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in cPanel cPanel/WHM ausnutzen, um Informationen offenzulegen und um Code mit Root-Rechten auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "828ddfbbcc73b3227123"
+    },
+    {
+      "title": "[NEU] [hoch] QT: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3586",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-25T11:59:24+00:00",
+      "fetched_at": "2026-09-25T12:30:54+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "180401fe3b6681ebd216"
     },
     {
       "title": "[NEU] [mittel] Kibana: Mehrere Schwachstellen",
@@ -2419,6 +2626,27 @@
       "id": "792aa6eb95718fba93fe"
     },
     {
+      "title": "InstagramとFacebookに投稿された偽広告の責任をMetaが負うとの判決をドイツの裁判所が下す、偽広告コンテンツの削除と損害賠償の支払いが命じられる",
+      "url": "https://gigazine.net/news/20260925-meta-fake-ads/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-25T09:16:46+00:00",
+      "fetched_at": "2026-09-25T12:30:54+00:00",
+      "summary": "Metaは年間総収益の約10％を詐欺広告から得ていたと報じられるなど、InstagramやFacebookにおいて詐欺的な広告がまん延していることが問題視されています。ドイツの金融ポータルサイトが自身の商標を無断で使用した広告についてMetaを提訴した結果、ドイツの裁判所は「プラットフォームに第三者が投稿した偽の広告につい...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d9472a5374266404eb29"
+    },
+    {
       "title": "「LLMの出力コードを理解できない初心者ばかり」 PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news048.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2568,13 +2796,106 @@
   ],
   "new_findings": [
     {
-      "title": "「LLMの出力コードを理解できない初心者ばかり」 PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news048.html",
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1452",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-25T11:59:26+00:00",
+      "fetched_at": "2026-09-25T12:30:54+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und andere, nicht spezifizierte Auswirkungen zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7a245df1d19c48441719"
+    },
+    {
+      "title": "[NEU] [hoch] QT: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3586",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-25T11:59:24+00:00",
+      "fetched_at": "2026-09-25T12:30:54+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "180401fe3b6681ebd216"
+    },
+    {
+      "title": "[NEU] [mittel] PHP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3585",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-25T11:59:24+00:00",
+      "fetched_at": "2026-09-25T12:30:54+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in PHP ausnutzen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen oder die Integrität zu verletzen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3e2aa32911484079a855"
+    },
+    {
+      "title": "[NEU] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3584",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-25T11:59:24+00:00",
+      "fetched_at": "2026-09-25T12:30:54+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in cPanel cPanel/WHM ausnutzen, um Informationen offenzulegen und um Code mit Root-Rechten auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "828ddfbbcc73b3227123"
+    },
+    {
+      "title": "InstagramとFacebookに投稿された偽広告の責任をMetaが負うとの判決をドイツの裁判所が下す、偽広告コンテンツの削除と損害賠償の支払いが命じられる",
+      "url": "https://gigazine.net/news/20260925-meta-fake-ads/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-25T04:44:19+00:00",
-      "fetched_at": "2026-09-25T11:58:23+00:00",
-      "summary": "「LLMの出力コードを理解できない初心者ばかり」 PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言：コミュニティーでのAI利用の是非を問う 「PlayStation 5」でLinuxを動かすことを目指してきた非公式のハックプロジェクト「PS5 Linux」で、中心開発者が開発から離れることを明らかにした。背景には、LLMを使っ...",
+      "published_at": "2026-09-25T09:16:46+00:00",
+      "fetched_at": "2026-09-25T12:30:54+00:00",
+      "summary": "Metaは年間総収益の約10％を詐欺広告から得ていたと報じられるなど、InstagramやFacebookにおいて詐欺的な広告がまん延していることが問題視されています。ドイツの金融ポータルサイトが自身の商標を無断で使用した広告についてMetaを提訴した結果、ドイツの裁判所は「プラットフォームに第三者が投稿した偽の広告につい...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2586,7 +2907,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "dc12b1f0c5b175b9f6e7"
+      "id": "d9472a5374266404eb29"
     }
   ],
   "source_errors": [],

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T11:58:55+00:00",
+  "generated_at": "2026-09-25T12:31:24+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-25T11:41:00.000+00:00",
         "relevance_score": 24,
         "url": "https://www.heise.de/news/Bevorstehender-Zero-Day-Angriff-KiteWorks-draengt-Kunden-zur-Serverabschaltung-11466114.html"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T11:59:26+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1452"
       },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-25T12:00:15+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN21754394/"
-      },
-      {
-        "title": "baserCMSにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN14353754/"
       }
     ],
     "geopolitics": [
@@ -112,6 +112,27 @@
         "url": "https://github.com/NVIDIA/Model-Optimizer"
       },
       {
+        "title": "[NEU] [mittel] PHP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T11:59:24+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3585"
+      },
+      {
+        "title": "[NEU] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T11:59:24+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3584"
+      },
+      {
+        "title": "[NEU] [hoch] QT: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T11:59:24+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3586"
+      },
+      {
         "title": "[NEU] [mittel] Kibana: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-25T10:54:24+00:00",
@@ -124,27 +145,6 @@
         "published_at": "2026-09-25T10:54:23+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3574"
-      },
-      {
-        "title": "[NEU] [mittel] Elasticsearch: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T10:54:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3573"
-      },
-      {
-        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T10:49:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3572"
-      },
-      {
-        "title": "[NEU] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung und Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T10:44:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3570"
       }
     ],
     "ai": [
@@ -298,6 +298,13 @@
         "published_at": "2026-09-25T03:00:19+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-260925-01"
+      },
+      {
+        "title": "InstagramとFacebookに投稿された偽広告の責任をMetaが負うとの判決をドイツの裁判所が下す、偽広告コンテンツの削除と損害賠償の支払いが命じられる",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-25T09:16:46+00:00",
+        "relevance_score": 5,
+        "url": "https://gigazine.net/news/20260925-meta-fake-ads/"
       },
       {
         "title": "スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】",

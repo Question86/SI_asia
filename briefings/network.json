@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-25T11:58:59+00:00",
+  "generated_at": "2026-09-25T12:31:27+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 56,
-    "clusters": 36,
+    "findings": 61,
+    "clusters": 37,
     "cross_source_confrmed": 0,
     "hot": 1,
     "early_signals": 0,
@@ -56,7 +56,7 @@
     },
     {
       "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -64,31 +64,31 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1452",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0910",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3571",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3569",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3566",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3567",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3489"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3567"
       ],
-      "finding_count": 16,
+      "finding_count": 20,
       "max_score": 16,
-      "credibility_total": 16.8,
+      "credibility_total": 21.0,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.66,
+      "momentum_delta": 4,
+      "momentum_status": "increasing",
+      "network_score": 30.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 49.6,
-      "ranking_score": 21.66,
+      "raw_network_score": 70.0,
+      "ranking_score": 30.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 4.16,
+      "momentum_bonus": 8.0,
+      "baseline_bonus": 5.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -863,8 +863,8 @@
       "first_seen_at": "2026-09-25T02:30:04+00:00"
     },
     {
-      "key": "title:llm-ps5-oss",
-      "title": "「LLMの出力コードを理解できない初心者ばかり」 PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言",
+      "key": "domain:gigazine.net",
+      "title": "InstagramとFacebookに投稿された偽広告の責任をMetaが負うとの判決をドイツの裁判所が下す、偽広告コンテンツの削除と損害賠償の支払いが命じられる",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -872,7 +872,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news048.html"
+        "https://gigazine.net/news/20260925-meta-fake-ads/"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -898,7 +898,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-09-25T11:58:59+00:00"
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
       "key": "title:most-expensive-links-aren-really-links-what-625",
@@ -1170,6 +1170,44 @@
       "first_seen_at": "2026-09-25T01:38:36+00:00"
     },
     {
+      "key": "title:llm-ps5-oss",
+      "title": "「LLMの出力コードを理解できない初心者ばかり」 PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news048.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-25T11:58:59+00:00"
+    },
+    {
       "key": "title:watch",
       "title": "スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】",
       "sources": [
@@ -1400,7 +1438,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-25T11:58:59Z",
+    "generated_at": "2026-09-25T12:31:27Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
