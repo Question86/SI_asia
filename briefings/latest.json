@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T11:51:42+00:00",
-  "run_id": "2026-09-25T11:51:42+00:00",
+  "generated_at": "2026-09-25T11:58:55+00:00",
+  "run_id": "2026-09-25T11:58:55+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 55
+      "configured_public_sources_only": 56
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 55,
-    "displayed_findings": 55,
+    "today_file_total": 56,
+    "displayed_findings": 56,
     "high": 1,
     "medium": 25,
-    "observe": 29,
+    "observe": 30,
     "source_errors": 0
   },
   "sections": {
@@ -1149,6 +1149,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "792aa6eb95718fba93fe"
+      },
+      {
+        "title": "「LLMの出力コードを理解できない初心者ばかり」 PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news048.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-25T04:44:19+00:00",
+        "fetched_at": "2026-09-25T11:58:23+00:00",
+        "summary": "「LLMの出力コードを理解できない初心者ばかり」 PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言：コミュニティーでのAI利用の是非を問う 「PlayStation 5」でLinuxを動かすことを目指してきた非公式のハックプロジェクト「PS5 Linux」で、中心開発者が開発から離れることを明らかにした。背景には、LLMを使っ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dc12b1f0c5b175b9f6e7"
       },
       {
         "title": "スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】",
@@ -2398,6 +2419,27 @@
       "id": "792aa6eb95718fba93fe"
     },
     {
+      "title": "「LLMの出力コードを理解できない初心者ばかり」 PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news048.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-25T04:44:19+00:00",
+      "fetched_at": "2026-09-25T11:58:23+00:00",
+      "summary": "「LLMの出力コードを理解できない初心者ばかり」 PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言：コミュニティーでのAI利用の是非を問う 「PlayStation 5」でLinuxを動かすことを目指してきた非公式のハックプロジェクト「PS5 Linux」で、中心開発者が開発から離れることを明らかにした。背景には、LLMを使っ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dc12b1f0c5b175b9f6e7"
+    },
+    {
       "title": "スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】",
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2143157.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2526,37 +2568,25 @@
   ],
   "new_findings": [
     {
-      "title": "Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung",
-      "url": "https://www.heise.de/news/Bevorstehender-Zero-Day-Angriff-KiteWorks-draengt-Kunden-zur-Serverabschaltung-11466114.html",
-      "source": "heise Security Alerts",
+      "title": "「LLMの出力コードを理解できない初心者ばかり」 PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news048.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-25T11:41:00.000+00:00",
-      "fetched_at": "2026-09-25T11:51:13+00:00",
-      "summary": "Man habe konkrete Hinweise von Strafverfolgern auf eine Attacke, schreibt der Hersteller seinen Kunden. Auch hierzulande sind große Unternehmen betroffen.",
+      "published_at": "2026-09-25T04:44:19+00:00",
+      "fetched_at": "2026-09-25T11:58:23+00:00",
+      "summary": "「LLMの出力コードを理解できない初心者ばかり」 PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言：コミュニティーでのAI利用の是非を問う 「PlayStation 5」でLinuxを動かすことを目指してきた非公式のハックプロジェクト「PS5 Linux」で、中心開発者が開発から離れることを明らかにした。背景には、LLMを使っ...",
       "matched_keywords": [
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 24,
-      "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: zero-day"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "0bc6eee4ae6bf3fef2ee"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dc12b1f0c5b175b9f6e7"
     }
   ],
   "source_errors": [],
