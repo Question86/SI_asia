@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T02:30:01+00:00",
-  "run_id": "2026-09-25T02:30:01+00:00",
+  "generated_at": "2026-09-25T02:47:20+00:00",
+  "run_id": "2026-09-25T02:47:20+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 10,
     "displayed_findings": 10,
     "high": 0,
@@ -465,30 +465,7 @@
       "id": "a8355593e98de06f2d85"
     }
   ],
-  "new_findings": [
-    {
-      "title": "メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]",
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-24T19:55:05+00:00",
-      "fetched_at": "2026-09-25T02:29:29+00:00",
-      "summary": "メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7d433df0e6174969320e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
