@@ -1,19 +1,39 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-25T10:22:04+00:00",
+  "generated_at": "2026-09-25T10:34:20+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "new_relevant_findings": 3,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 0,
-    "medium": 14,
+    "medium": 17,
     "observe": 26
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "[NEU] [UNGEPATCHT] [mittel] MediaWiki (CirrusSearch Extension): Schwachstelle ermöglicht Cross-Site Scripting",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-25T10:19:23+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3566",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in MediaWiki (CirrusSearch Extension) ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
+      "section": "medium"
+    },
+    {
+      "title": "[NEU] [UNGEPATCHT] [hoch] RPM: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-25T10:19:23+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3567",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in RPM ausnutzen, um beliebigen Programmcode auszuführen.",
+      "section": "medium"
+    },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）",
       "source": "JVN Japan Vulnerability Notes",
@@ -32,26 +52,6 @@
       "relevance_score": 16,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3489",
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (OpenEXR) ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
-      "section": "medium"
-    },
-    {
-      "title": "Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-25T09:43:08+00:00",
-      "relevance_score": 16,
-      "url": "https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/",
-      "summary": "San Francisco and New York still lead The Observer‘s inaugural AI Cities Index, but the more consequential finding sits further east. Six of the world’s top 10 AI cities are in East and Southeast Asia, and Seoul ranks first globally for implementation: whethe…",
-      "section": "medium"
-    },
-    {
-      "title": "NVIDIA/Model-Optimizer",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 16,
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM,…",
       "section": "medium"
     },
     {
@@ -100,140 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [mittel] Red Hat Enterprise Linux (OpenEXR): Schwachstelle ermöglicht Codeausführung und Denial of Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (OpenEXR): Schwachstelle ermöglicht Codeausführung und Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3489",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T09:47:09+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (OpenEXR) ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen."
-      },
-      {
-        "title": "ViewSonic vCastにおける複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96941087/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T10:00:30+09:00",
-        "age_days": 0.4,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "[UPDATE] [mittel] X.Org X11: Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3503",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T09:47:09+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in X.Org X11 ausnutzen, um potentiell Code zur Ausführung zu bringen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Paessler PRTG: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3565",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T09:04:23+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Paessler PRTG ausnutzen, um Cross-Site-Scripting-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen und vertrauliche Informationen offenzulegen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1671",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T08:44:23+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Roundcube Webmail ausnutzen, um SQL-Injection-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen, erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen oder Cross-Site-Scripting-Angriffe durch…"
-      }
-    ]
-  }
+  ]
 }

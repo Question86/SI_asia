@@ -1,5 +1,53 @@
 [
   {
+    "title": "[NEU] [UNGEPATCHT] [mittel] MediaWiki (CirrusSearch Extension): Schwachstelle ermöglicht Cross-Site Scripting",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3566",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-25T10:19:23+00:00",
+    "fetched_at": "2026-09-25T10:33:52+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in MediaWiki (CirrusSearch Extension) ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Patch",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "45a415eba43c5221dff6"
+  },
+  {
+    "title": "[NEU] [UNGEPATCHT] [hoch] RPM: Mehrere Schwachstellen ermöglichen Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3567",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-25T10:19:23+00:00",
+    "fetched_at": "2026-09-25T10:33:52+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in RPM ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Patch",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ba38af1145bc27c35262"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）",
     "url": "https://jvn.jp/vu/JVNVU93222287/",
     "source": "JVN Japan Vulnerability Notes",
@@ -135,6 +183,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d70a098913492cbe2a49"
+  },
+  {
+    "title": "[NEU] [mittel] Ansible: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3568",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-25T10:24:23+00:00",
+    "fetched_at": "2026-09-25T10:33:52+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Ansible ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ee76449ba99a4ad9bc19"
   },
   {
     "title": "[UPDATE] [niedrig] OpenSC: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",

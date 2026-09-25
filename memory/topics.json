@@ -1,9 +1,23 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T10:22:04+00:00",
+  "generated_at": "2026-09-25T10:34:20+00:00",
   "topics": {
     "security": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] MediaWiki (CirrusSearch Extension): Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:19:23+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3566"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [hoch] RPM: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:19:23+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3567"
+      },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）",
         "source": "JVN Japan Vulnerability Notes",
@@ -33,6 +47,13 @@
         "url": "https://jvn.jp/jp/JVN14353754/"
       },
       {
+        "title": "[NEU] [mittel] Ansible: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:24:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3568"
+      },
+      {
         "title": "[UPDATE] [niedrig] OpenSC: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-25T10:10:23+00:00",
@@ -52,27 +73,64 @@
         "published_at": "2026-09-25T10:00:15+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96565230/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] MediaWiki (CirrusSearch Extension): Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:19:23+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3566"
       },
       {
-        "title": "[UPDATE] [mittel] X.Org X11: Schwachstelle ermöglicht Codeausführung",
+        "title": "[NEU] [UNGEPATCHT] [hoch] RPM: Mehrere Schwachstellen ermöglichen Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T09:47:09+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3503"
+        "published_at": "2026-09-25T10:19:23+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3567"
       },
       {
-        "title": "[UPDATE] [hoch] Paessler PRTG: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T09:04:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3565"
+        "title": "NVIDIA/Model-Optimizer",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/NVIDIA/Model-Optimizer"
       },
       {
-        "title": "[UPDATE] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Ansible: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T08:44:23+00:00",
+        "published_at": "2026-09-25T10:24:23+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1671"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3568"
+      },
+      {
+        "title": "Monetary developments in the euro area: August 2026",
+        "source": "ECB Statistical Press Releases",
+        "published_at": "2026-09-25T08:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2608~406f8d243d.en.html"
+      },
+      {
+        "title": "Citi, HSBC back iPiD’s US$16M round to make instant payments safer across borders",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-25T04:18:26+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/citi-hsbc-back-ipids-us16m-round-to-make-instant-payments-safer-across-borders-20260925/"
+      },
+      {
+        "title": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-25T03:13:23+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise"
+      },
+      {
+        "title": "The founder’s dilemma: Structured serendipity",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-25T01:30:04+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/the-founders-dilemma-structured-serendipity-20260923/"
       }
     ],
     "ai": [
@@ -182,43 +240,6 @@
         "published_at": null,
         "relevance_score": 5,
         "url": "https://github.com/FxEmbed/FxEmbed"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "NVIDIA/Model-Optimizer",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 16,
-        "url": "https://github.com/NVIDIA/Model-Optimizer"
-      },
-      {
-        "title": "Monetary developments in the euro area: August 2026",
-        "source": "ECB Statistical Press Releases",
-        "published_at": "2026-09-25T08:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2608~406f8d243d.en.html"
-      },
-      {
-        "title": "Citi, HSBC back iPiD’s US$16M round to make instant payments safer across borders",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-25T04:18:26+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/citi-hsbc-back-ipids-us16m-round-to-make-instant-payments-safer-across-borders-20260925/"
-      },
-      {
-        "title": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-25T03:13:23+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise"
-      },
-      {
-        "title": "The founder’s dilemma: Structured serendipity",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-25T01:30:04+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/the-founders-dilemma-structured-serendipity-20260923/"
       }
     ],
     "general": [

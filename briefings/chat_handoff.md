@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T10:22:04+00:00_
+_Generated: 2026-09-25T10:34:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `43`
 
 ## Top Signals
 
-### 1. CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）
+### 1. [NEU] [UNGEPATCHT] [mittel] MediaWiki (CirrusSearch Extension): Schwachstelle ermöglicht Cross-Site Scripting
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-25T10:19:23+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3566
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in MediaWiki (CirrusSearch Extension) ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.
+
+### 2. [NEU] [UNGEPATCHT] [hoch] RPM: Mehrere Schwachstellen ermöglichen Codeausführung
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-25T10:19:23+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3567
+- summary: Ein Angreifer kann mehrere Schwachstellen in RPM ausnutzen, um beliebigen Programmcode auszuführen.
+
+### 3. CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-09-25T10:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU93222287/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. [UPDATE] [mittel] Red Hat Enterprise Linux (OpenEXR): Schwachstelle ermöglicht Codeausführung und Denial of Service
+### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (OpenEXR): Schwachstelle ermöglicht Codeausführung und Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-25T09:47:09+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3489
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (OpenEXR) ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.
-
-### 3. Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-09-25T09:43:08+00:00`
-- url: https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/
-- summary: San Francisco and New York still lead The Observer‘s inaugural AI Cities Index, but the more consequential finding sits further east. Six of the world’s top 10 AI cities are in East and Southeast Asia, and Seoul ranks first globally for implementation: whethe…
-
-### 4. NVIDIA/Model-Optimizer
-- source: GitHub Trending RSS All Languages Daily
-- score: `16`
-- published: `None`
-- url: https://github.com/NVIDIA/Model-Optimizer
-- summary: A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM,…
 
 ### 5. M 5.0 - 124 km N of Metinaro, Timor Leste
 - source: USGS M4.5+ Earthquakes Past Hour
