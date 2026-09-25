@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T18:25:51+00:00",
-  "run_id": "2026-09-25T18:25:51+00:00",
+  "generated_at": "2026-09-25T18:39:22+00:00",
+  "run_id": "2026-09-25T18:39:22+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 81
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 1,
     "medium": 33,
-    "observe": 47,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -842,6 +842,28 @@
       }
     ],
     "observe": [
+      {
+        "title": "Changes to query results in the GitHub Actions API and UI",
+        "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-25T18:17:06+00:00",
+        "fetched_at": "2026-09-25T18:38:54+00:00",
+        "summary": "Queries for workflow runs in the GitHub Actions API and UI now return a less precise but more accurate count of records when you search by workflow, event, status, branch,… The post Changes to query results in the GitHub Actions API and UI appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Actions",
+          "GitHub",
+          "GitHub Actions"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "33f7f8435c420ab25063"
+      },
       {
         "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
         "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
@@ -2744,6 +2766,28 @@
       "id": "30db09dd3b3c0d695360"
     },
     {
+      "title": "Changes to query results in the GitHub Actions API and UI",
+      "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-25T18:17:06+00:00",
+      "fetched_at": "2026-09-25T18:38:54+00:00",
+      "summary": "Queries for workflow runs in the GitHub Actions API and UI now return a less precise but more accurate count of records when you search by workflow, event, status, branch,… The post Changes to query results in the GitHub Actions API and UI appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Actions",
+        "GitHub",
+        "GitHub Actions"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "33f7f8435c420ab25063"
+    },
+    {
       "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
       "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
       "source": "GitHub Changelog Atom",
@@ -3834,28 +3878,26 @@
   ],
   "new_findings": [
     {
-      "title": "Agentic autofix now uses Copilot Memory",
-      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+      "title": "Changes to query results in the GitHub Actions API and UI",
+      "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-09-25T17:25:50+00:00",
-      "fetched_at": "2026-09-25T18:25:20+00:00",
-      "summary": "Agentic autofix now uses Copilot Memory for customers who’ve enabled it. When you use agentic autofix, it reviews existing memories for context that can help resolve security alerts. When it… The post Agentic autofix now uses Copilot Memory appeared first on The GitHub Blog .",
+      "published_at": "2026-09-25T18:17:06+00:00",
+      "fetched_at": "2026-09-25T18:38:54+00:00",
+      "summary": "Queries for workflow runs in the GitHub Actions API and UI now return a less precise but more accurate count of records when you search by workflow, event, status, branch,… The post Changes to query results in the GitHub Actions API and UI appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "AI Agents",
-        "Copilot",
+        "Actions",
         "GitHub",
-        "Public Health",
-        "Security"
+        "GitHub Actions"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "AI Agents (+6.2); Security (+6.0); Public Health (+5.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b0ae4227895dba88ebaa"
+      "id": "33f7f8435c420ab25063"
     }
   ],
   "source_errors": [],
