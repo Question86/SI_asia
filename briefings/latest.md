@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T07:41:04+00:00_
+_Generiert: 2026-09-25T07:51:02+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+31 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -216,14 +216,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年9月25日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「部活で褒めるのが苦手」と言う次女に「観察上手になればいい」と話した - レバテックLAB** — Score 5, observation — [Quelle](https://levtech.jp/media/detail_931/)
+- **スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/yajiuma/2143157.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-25T01:45:38+00:00`, fetched `2026-09-25T03:08:33+00:00`
+  - Zeit: published `2026-09-25T03:34:17+00:00`, fetched `2026-09-25T07:50:34+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: しんざき システムエンジニア、PM、ケーナ奏者、三児の父。南米民族音楽の演奏が趣味。仕事・育児・演奏活動の傍ら、レトロゲーム雑記ブログ「不倒城」を20年程運営している。 @shinzaki ブログ：「不倒城」 著者記事一覧 こんにちは、しんざきです。 他人を褒めるのは苦手なんですが、自分を褒めるのは正直めちゃくち...
+  - Kurz: スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **vectorize-io/hindsight** — Score 5, observation — [Quelle](https://github.com/vectorize-io/hindsight)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

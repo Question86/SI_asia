@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T07:41:04+00:00",
-  "run_id": "2026-09-25T07:41:04+00:00",
+  "generated_at": "2026-09-25T07:51:02+00:00",
+  "run_id": "2026-09-25T07:51:02+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 30
+      "configured_public_sources_only": 31
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 30,
-    "displayed_findings": 30,
+    "new_relevant_findings": 1,
+    "today_file_total": 31,
+    "displayed_findings": 31,
     "high": 0,
     "medium": 8,
-    "observe": 22,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -580,6 +580,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "792aa6eb95718fba93fe"
+      },
+      {
+        "title": "スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】",
+        "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2143157.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-25T03:34:17+00:00",
+        "fetched_at": "2026-09-25T07:50:34+00:00",
+        "summary": "スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e74827b2e66b4bd196d1"
       },
       {
         "title": "「部活で褒めるのが苦手」と言う次女に「観察上手になればいい」と話した - レバテックLAB",
@@ -1240,6 +1261,27 @@
       "id": "792aa6eb95718fba93fe"
     },
     {
+      "title": "スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】",
+      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2143157.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-25T03:34:17+00:00",
+      "fetched_at": "2026-09-25T07:50:34+00:00",
+      "summary": "スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e74827b2e66b4bd196d1"
+    },
+    {
       "title": "「部活で褒めるのが苦手」と言う次女に「観察上手になればいい」と話した - レバテックLAB",
       "url": "https://levtech.jp/media/detail_931/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1347,46 +1389,25 @@
   ],
   "new_findings": [
     {
-      "title": "グーグル「Gemini」に電話代行の新機能 レストラン予約もお任せ",
-      "url": "https://japan.cnet.com/article/35252958/",
+      "title": "スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】",
+      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2143157.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-25T02:26:41+00:00",
-      "fetched_at": "2026-09-25T07:40:32+00:00",
-      "summary": "Googleは米国時間9月24日、モバイル版「Gemini」のAI機能を拡張し、日常の電話をユーザーに代わってこなす、新たなAIエージェント機能を発表した。世界中の内向的な人に朗報だ。ただし、細かな利用条件にも目を通しておきたい。Geminiが代わりにできることには限りがあるからだ。 この機能は、スマートフォンでGeminiを...",
+      "published_at": "2026-09-25T03:34:17+00:00",
+      "fetched_at": "2026-09-25T07:50:34+00:00",
+      "summary": "スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】",
       "matched_keywords": [
-        "APAC Trend Radar",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a6c629e877f44c7780a3"
-    },
-    {
-      "title": "Jetzt updaten! Attacken auf Roundcube-Webmail-Instanzen beobachtet",
-      "url": "https://www.heise.de/news/Jetzt-updaten-Attacken-auf-Roundcube-Webmail-Instanzen-beobachtet-11465379.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-09-25T07:31:00.000+00:00",
-      "fetched_at": "2026-09-25T07:40:32+00:00",
-      "summary": "Angreifer nutzen derzeit eine Sicherheitslücke in Roundcube Webmail aus. Dafür müssen aber die Voraussetzungen stimmen.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8a7fae63995c29b2258d"
+      "id": "e74827b2e66b4bd196d1"
     }
   ],
   "source_errors": [],
