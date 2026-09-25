@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T13:34:30+00:00",
+  "generated_at": "2026-09-25T13:46:07+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1523,7 +1523,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-25T04:42:16+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -2050,7 +2050,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-25T12:51:23+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -3257,8 +3257,8 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-25T13:01:47+00:00",
-      "last_seen_at": "2026-09-25T13:22:24+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_68d241031fe2c9a05515",
@@ -4447,7 +4447,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -4481,7 +4481,7 @@
       "p90_usd": 2980000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-09-25T03:09:09+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -4532,7 +4532,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -4651,7 +4651,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T09:53:09+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -4757,6 +4757,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_3ba99a5bdddca11e5290",
+      "title": "Multiples vulnérabilités dans les produits Cisco (17 septembre 2026)",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_3eeea5703efbbc5d1adc",
       "title": "Multiples vulnérabilités dans les produits Cisco (15 septembre 2026)",
       "event_classes": [
@@ -4838,7 +4855,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -5263,7 +5280,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -5333,23 +5350,6 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_3ba99a5bdddca11e5290",
-      "title": "Multiples vulnérabilités dans les produits Cisco (17 septembre 2026)",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-25T13:34:08+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -6640,7 +6640,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T06:37:52+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -6793,7 +6793,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T09:44:45+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -7116,7 +7116,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T03:09:09+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -8153,7 +8153,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -8323,7 +8323,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T11:20:42+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -9381,6 +9381,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_422b2d216a325decccdc",
+      "title": "Multiples vulnérabilités dans Google Chrome (18 septembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_45c2c9606374cdc0ec28",
       "title": "「FydeOS」を使って古いPCを無償で「Chromebook」に変える方法",
       "event_classes": [
@@ -9598,8 +9615,8 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T13:22:24+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_7a1785d51dc511810ea5",
@@ -9836,7 +9853,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T03:44:46+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -9853,7 +9870,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -10214,23 +10231,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_422b2d216a325decccdc",
-      "title": "Multiples vulnérabilités dans Google Chrome (18 septembre 2026)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112000.0,
-      "p50_usd": 11200000.0,
-      "p90_usd": 1120000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-25T13:34:08+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_09036b8b28293de638ea",
       "title": "生成AIで「デザイナー不要論」に、僕はこう答える 杉山知之デジハリ大前学長・回答全文 AI×人間",
       "event_classes": [
@@ -10312,7 +10312,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:45:12+00:00",
       "status": "active"
     },
     {
@@ -11490,6 +11490,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8f470b5c6ca9a2378122",
+      "title": "Multiples vulnérabilités dans Roundcube (26 mai 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_961f0467c9a76e7f5fbe",
       "title": "AI lets outsiders build but the connected still have an advantage",
       "event_classes": [
@@ -12051,6 +12068,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ec4e5a99d1ac91233e92",
+      "title": "Vulnérabilité dans Nextcloud Server (17 septembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-25T13:34:08+00:00",
+      "last_seen_at": "2026-09-25T13:34:08+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_f28cd82d792d72cfd6ec",
       "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
       "event_classes": [
@@ -12100,40 +12134,6 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_ec4e5a99d1ac91233e92",
-      "title": "Vulnérabilité dans Nextcloud Server (17 septembre 2026)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-25T13:34:08+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_8f470b5c6ca9a2378122",
-      "title": "Multiples vulnérabilités dans Roundcube (26 mai 2026)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-25T13:34:08+00:00",
-      "last_seen_at": "2026-09-25T13:34:08+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_050660578420f6fb8ddb",
