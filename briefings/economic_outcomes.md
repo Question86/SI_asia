@@ -1,12 +1,13 @@
 # Economic Outcomes
 
-Generated: `2026-09-25T04:26:50+00:00`
+Generated: `2026-09-25T04:42:46+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
 | Startups should learn to leave bad markets faster | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 12 km SE of La Parguera, Puerto Rico | $0 | — | 0 | 0 | dormant |
 | Multiples vulnérabilités dans Postfix (09 septembre 2026) | $0 | — | 0 | 0 | dormant |
+| M 5.0 - 124 km N of Metinaro, Timor Leste | $0 | — | 0 | 0 | active |
 | AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する | $0 | — | 0 | 0 | dormant |
 | ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明 | $0 | — | 0 | 0 | dormant |
 | anthropics/financial-services | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-25T04:26:50+00:00`
 | M 4.7 - 40 km SSW of Sipí, Colombia | $0 | — | 0 | 0 | dormant |
 | 「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々 | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 53 km W of Cafayate, Argentina | $0 | — | 0 | 0 | dormant |
-| AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると | $0 | — | 0 | 0 | dormant |
