@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T03:45:13+00:00",
+  "generated_at": "2026-09-25T04:01:58+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -4413,7 +4413,7 @@
       "p90_usd": 2980000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-09-25T03:09:09+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
       "status": "active"
     },
     {
@@ -4464,7 +4464,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
       "status": "active"
     },
     {
@@ -4753,7 +4753,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
       "status": "active"
     },
     {
@@ -5178,7 +5178,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
       "status": "active"
     },
     {
@@ -6980,7 +6980,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T03:09:09+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
       "status": "active"
     },
     {
@@ -9445,7 +9445,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
       "status": "active"
     },
     {
@@ -9668,6 +9668,23 @@
       "first_seen_at": "2026-09-16T04:57:02+00:00",
       "last_seen_at": "2026-09-16T15:00:25+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_9ef419b9eb814e762917",
+      "title": "GoodARCH launches AI foot mapping in Malaysia with US$230K healthtech investment",
+      "event_classes": [
+        "product_release"
+      ],
+      "capital_channels": [
+        "investment"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_9fc05cea381c6dfd65ca",
@@ -10042,23 +10059,6 @@
       "first_seen_at": "2026-09-05T03:23:45+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_9ef419b9eb814e762917",
-      "title": "GoodARCH launches AI foot mapping in Malaysia with US$230K healthtech investment",
-      "event_classes": [
-        "product_release"
-      ],
-      "capital_channels": [
-        "investment"
-      ],
-      "p10_usd": 112000.0,
-      "p50_usd": 11200000.0,
-      "p90_usd": 1120000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-25T03:44:46+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_09036b8b28293de638ea",
@@ -10721,7 +10721,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T02:30:04+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
       "status": "active"
     },
     {
@@ -10876,6 +10876,23 @@
       "first_seen_at": "2026-08-29T20:38:32+00:00",
       "last_seen_at": "2026-08-29T23:58:25+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_48a3dd56747959cfd25a",
+      "title": "AI made the first draft easier. It didn’t make client decisions easier",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_4a4e6e3cbe8f3ad1bb9d",
@@ -11384,7 +11401,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T02:01:58+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
       "status": "active"
     },
     {
@@ -11864,8 +11881,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_48a3dd56747959cfd25a",
-      "title": "AI made the first draft easier. It didn’t make client decisions easier",
+      "event_id": "evt_85ddfb61e28bf27984dc",
+      "title": "Vision AI expands visibility across remote pipeline corridors",
       "event_classes": [
         "unknown"
       ],
@@ -11876,8 +11893,8 @@
       "p50_usd": 11040000.0,
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
-      "first_seen_at": "2026-09-25T03:44:46+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
+      "first_seen_at": "2026-09-25T04:01:41+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
       "status": "active"
     },
     {
@@ -12217,7 +12234,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T02:01:58+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
       "status": "active"
     },
     {
@@ -12353,7 +12370,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T03:09:09+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
       "status": "active"
     },
     {
@@ -12795,7 +12812,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T01:38:36+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
       "status": "active"
     },
     {
@@ -13322,7 +13339,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T02:01:58+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
       "status": "active"
     },
     {
@@ -13781,7 +13798,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T00:54:32+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
       "status": "active"
     },
     {
@@ -13917,7 +13934,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T06:37:14+00:00",
-      "last_seen_at": "2026-09-25T03:44:46+00:00",
+      "last_seen_at": "2026-09-25T04:01:41+00:00",
       "status": "active"
     },
     {
