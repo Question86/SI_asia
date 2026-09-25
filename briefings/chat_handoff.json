@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-25T03:27:56+00:00",
+  "generated_at": "2026-09-25T03:44:43+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 2,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 6,
-    "observe": 9
+    "observe": 11
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "GoodARCH launches AI foot mapping in Malaysia with US$230K healthtech investment",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-25T03:36:46+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/goodarch-launches-ai-foot-mapping-in-malaysia-with-us230k-healthtech-investment-20260925/",
+      "summary": "For many people, foot pain is ignored until it starts changing everyday behaviour. They walk less, avoid stairs, switch shoes, or live with knee and back discomfort that seems unrelated. GoodARCH is betting that a five-minute scan can narrow the gap between e…",
+      "section": "observe"
+    },
+    {
       "title": "The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -62,6 +72,16 @@
       "relevance_score": 10,
       "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
       "summary": "Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fal…",
+      "section": "observe"
+    },
+    {
+      "title": "AI made the first draft easier. It didn’t make client decisions easier",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-25T03:30:48+00:00",
+      "relevance_score": 8,
+      "url": "https://e27.co/ai-made-the-first-draft-easier-it-didnt-make-client-decisions-easier-20260924/",
+      "summary": "A few years ago, the early stages of a video project often began almost from zero. We would talk through the client’s direction, work out a script, develop the visual approach and gradually turn a loose idea into something the client could react to. That part…",
       "section": "observe"
     },
     {
@@ -73,26 +93,6 @@
       "url": "https://e27.co/ai-will-not-become-your-employee-it-will-change-what-work-has-to-be-managed-20260924/",
       "summary": "Most AI writing about work still frames the shift too narrowly. The conversation often starts with a familiar question: which tasks can AI do? That is a useful starting point, but it misses the more important operational change. The deeper shift is not that A…",
       "section": "observe"
-    },
-    {
-      "title": "メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-24T19:55:05+00:00",
-      "relevance_score": 8,
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html",
-      "summary": "メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]",
-      "section": "observe"
-    },
-    {
-      "title": "The most expensive links aren’t really links: What 16,625 publisher price lists tell SEA startups",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-25T02:00:05+00:00",
-      "relevance_score": 7,
-      "url": "https://e27.co/the-most-expensive-links-arent-really-links-what-16625-publisher-price-lists-tell-sea-startups-20260923/",
-      "summary": "Founders still ask me the question they asked in 2019: what does a good backlink cost. This September I finally answered it properly. ESBO Ltd, the link building and digital PR agency I run, exported its entire publisher database, 16,625 sites across 53 langu…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,137 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “ViewSonic vCastにおける複数の脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "ViewSonic vCastにおける複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96941087/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T10:00:30+09:00",
-        "age_days": 0.11,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）",
-        "url": "https://jvn.jp/vu/JVNVU93222287/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T10:00:00+09:00",
-        "age_days": 0.11,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation",
-        "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-25T01:00:04+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 27.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fallen sharply since 2022. The platforms that remain — KoinWork…"
-      },
-      {
-        "title": "baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性",
-        "url": "https://jvn.jp/jp/JVN21754394/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T12:00:15+09:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "baserCMSユーザー会が提供するbaserCMS用プラグイン「アドオンマイグレーター」 には、信頼できない制御領域からの機能の組み込みに関する脆弱性が存在します。"
-      },
-      {
-        "title": "baserCMSにおける複数の脆弱性",
-        "url": "https://jvn.jp/jp/JVN14353754/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T12:00:00+09:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "baserCMSユーザー会が提供するbaserCMSには複数の脆弱性が存在します。"
-      }
-    ]
-  }
+  ]
 }
