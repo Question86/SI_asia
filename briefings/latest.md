@@ -1,14 +1,22 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T15:26:13+00:00_
+_Generiert: 2026-09-25T15:37:31+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung“ aus heise Security Alerts (Score 24, risk).
+74 neue relevante Treffer. Stärkstes Signal: „Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-67279 MikroTik RouterOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-25`
+  - Kurz: Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability
+- **CISA KEV: CVE-2026-65660 Microsoft SharePoint** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-25`
+  - Kurz: Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. Microsoft SharePoint Code Injection Vulnerability
 - **CISA KEV: CVE-2026-5430 WSO2 Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-24`
@@ -21,14 +29,6 @@ _Generiert: 2026-09-25T15:26:13+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-22`
   - Kurz: Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. Arista VeloCloud Orchestrator Improper Input Validation Vulnerability
-- **CISA KEV: CVE-2026-94127 F5 BIG-IP APM** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-22`
-  - Kurz: Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability
-- **CISA KEV: CVE-2026-93616 Check Point Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-22`
-  - Kurz: Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. Check Point Multiple Products Path Traversal Vulnerability
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
@@ -188,6 +188,15 @@ _Generiert: 2026-09-25T15:26:13+00:00_
   - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
   - Kurz: CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find… The post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Expired GitHub Actions artifacts no longer shown in UI and API** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-24T19:13:02+00:00`, fetched `2026-09-25T15:36:58+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: Expired artifacts are no longer displayed in the GitHub Actions run summary or returned by the REST API. Previously, an expired artifact remained visible with an “Expired” pill, even though… The post Expired GitHub Actions artifacts no longer shown in UI and API appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 72 km E of Thang, India** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txk0)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-25T12:46:43.040+00:00`, fetched `2026-09-25T12:50:45+00:00`
@@ -304,15 +313,6 @@ _Generiert: 2026-09-25T15:26:13+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Sicherheitslücken: GitLab-Server mit Schadcode attackierbar** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-GitLab-Server-mit-Schadcode-attackierbar-11465889.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-25T08:55:00.000+00:00`, fetched `2026-09-25T09:10:57+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Die GitLab-Entwickler raten zur zügigen Installation der jüngst veröffentlichten Sicherheitsupdates.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

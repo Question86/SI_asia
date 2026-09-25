@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T15:26:13+00:00_
+_Generated: 2026-09-25T15:37:31+00:00_
 
 ## Status
 - status: `normal`
-- findings: `73`
+- findings: `74`
 
 ## Top Signals
 
@@ -50,25 +50,25 @@ _Generated: 2026-09-25T15:26:13+00:00_
 - url: https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support
 - summary: CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find… The post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20…
 
-### 7. M 4.5 - 72 km E of Thang, India
+### 7. Expired GitHub Actions artifacts no longer shown in UI and API
+- source: GitHub Changelog Atom
+- score: `12`
+- published: `2026-09-24T19:13:02+00:00`
+- url: https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api
+- summary: Expired artifacts are no longer displayed in the GitHub Actions run summary or returned by the REST API. Previously, an expired artifact remained visible with an “Expired” pill, even though… The post Expired GitHub Actions artifacts no longer shown in UI and…
+
+### 8. M 4.5 - 72 km E of Thang, India
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-25T12:46:43.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txk0
 - summary: Time 2026-09-25 11:53:21 UTC 2026-09-25 11:53:21 UTC at epicenter Location 34.843°N 77.576°E Depth 10.00 km (6.21 mi)
 
-### 8. WordPress-Lücke nur Stunden nach Patch attackiert
+### 9. WordPress-Lücke nur Stunden nach Patch attackiert
 - source: heise Security Alerts
 - score: `11`
 - published: `2026-09-25T11:10:00.000+00:00`
 - url: https://www.heise.de/news/WordPress-Luecke-nur-Stunden-nach-Patch-attackiert-11466076.html
 - summary: WordPress hat am Dienstag zwei Sicherheitsupdates veröffentlicht. Die kritische Lücke aus dem zweiten wird bereits attackiert.
-
-### 9. M 5.0 - 124 km N of Metinaro, Timor Leste
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-25T04:41:21.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim
-- summary: Time 2026-09-25 04:27:40 UTC 2026-09-25 04:27:40 UTC at epicenter Location 7.404°S 125.699°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

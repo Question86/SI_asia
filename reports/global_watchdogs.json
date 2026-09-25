@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-25T15:26:17+00:00",
+  "generated_at": "2026-09-25T15:37:35+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-67279 MikroTik RouterOS",
+        "summary": "Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-25",
+        "metrics": {
+          "cve": "CVE-2026-67279"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-65660 Microsoft SharePoint",
+        "summary": "Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. Microsoft SharePoint Code Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-25",
+        "metrics": {
+          "cve": "CVE-2026-65660"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -36,30 +60,6 @@
         "published_at": "2026-09-22",
         "metrics": {
           "cve": "CVE-2026-93952"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-94127 F5 BIG-IP APM",
-        "summary": "Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-22",
-        "metrics": {
-          "cve": "CVE-2026-94127"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-93616 Check Point Multiple Products",
-        "summary": "Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. Check Point Multiple Products Path Traversal Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-22",
-        "metrics": {
-          "cve": "CVE-2026-93616"
         }
       },
       {
