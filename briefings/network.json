@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:25:34+00:00",
+  "generated_at": "2026-09-25T16:38:44+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 77,
@@ -32,20 +32,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 32.0,
+      "network_score": 31.72,
       "hot": true,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 34.5,
-      "ranking_score": 32.0,
+      "ranking_score": 31.72,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.5,
+      "baseline_bonus": 2.22,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": true,
@@ -77,18 +77,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 19.76,
+      "network_score": 19.35,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 58.0,
-      "ranking_score": 19.76,
+      "ranking_score": 19.35,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.26,
+      "baseline_bonus": 1.85,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -482,46 +482,6 @@
       "first_seen_at": "2026-09-12T05:30:29+00:00"
     },
     {
-      "key": "domain:openai.com",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/proaction"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.0,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 15.1,
-      "ranking_score": 14.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
-    },
-    {
       "key": "title:codeql-adds-query-kotlin-support",
       "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
       "sources": [
@@ -596,6 +556,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-25T15:37:35+00:00"
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/proaction"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.1,
+      "ranking_score": 11.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "title:goodarch-launches-foot-mapping-malaysia-230k-healthtech-investment",
@@ -1216,44 +1216,6 @@
       "first_seen_at": "2026-09-25T13:34:08+00:00"
     },
     {
-      "key": "url:https://blogs.itmedia.co.jp/magic/2026/09/post_157.html",
-      "title": "業務プロセスをいじっても生産性は上がらない。あるいは業務を良くするテコについて：プロジェクトマジック：オルタナティブ・ブログ",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://blogs.itmedia.co.jp/magic/2026/09/post_157.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-25T16:25:34+00:00"
-    },
-    {
       "key": "title:most-expensive-links-aren-really-links-what-625",
       "title": "The most expensive links aren’t really links: What 16,625 publisher price lists tell SEA startups",
       "sources": [
@@ -1562,6 +1524,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-25T01:38:36+00:00"
+    },
+    {
+      "key": "url:https://blogs.itmedia.co.jp/magic/2026/09/post_157.html",
+      "title": "業務プロセスをいじっても生産性は上がらない。あるいは業務を良くするテコについて：プロジェクトマジック：オルタナティブ・ブログ",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://blogs.itmedia.co.jp/magic/2026/09/post_157.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-25T16:25:34+00:00"
     },
     {
       "key": "domain:togetter.com",
@@ -2060,7 +2060,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-25T16:25:34Z",
+    "generated_at": "2026-09-25T16:38:45Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
