@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T22:26:22+00:00",
-  "run_id": "2026-09-25T22:26:22+00:00",
+  "generated_at": "2026-09-25T22:36:26+00:00",
+  "run_id": "2026-09-25T22:36:26+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 92
+      "configured_public_sources_only": 93
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 92,
-    "displayed_findings": 92,
+    "today_file_total": 93,
+    "displayed_findings": 93,
     "high": 1,
     "medium": 35,
-    "observe": 56,
+    "observe": 57,
     "source_errors": 0
   },
   "sections": {
@@ -1306,6 +1306,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f81fceb4a38441b8b7b0"
+      },
+      {
+        "title": "M 5.1 - 78 km ENE of Tadine, New Caledonia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txq2",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-25T22:27:48.040+00:00",
+        "fetched_at": "2026-09-25T22:35:57+00:00",
+        "summary": "Time 2026-09-25 22:07:34 UTC 2026-09-25 22:07:34 UTC at epicenter Location 21.273°S 168.574°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "0a9fec2630f6fe4608de"
       },
       {
         "title": "M 6.6 - 80 km ENE of Tadine, New Caledonia",
@@ -3519,6 +3555,42 @@
       "id": "f81fceb4a38441b8b7b0"
     },
     {
+      "title": "M 5.1 - 78 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txq2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-25T22:27:48.040+00:00",
+      "fetched_at": "2026-09-25T22:35:57+00:00",
+      "summary": "Time 2026-09-25 22:07:34 UTC 2026-09-25 22:07:34 UTC at epicenter Location 21.273°S 168.574°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "0a9fec2630f6fe4608de"
+    },
+    {
       "title": "M 6.6 - 80 km ENE of Tadine, New Caledonia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4454,26 +4526,40 @@
   ],
   "new_findings": [
     {
-      "title": "JR西日本、AIが車両整備の計画立案 30年度までに所要時間2時間→10分 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUF1158N0R10C26A9000000/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 5.1 - 78 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txq2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-25T11:27:50+00:00",
-      "fetched_at": "2026-09-25T22:25:51+00:00",
-      "summary": "JR西日本は車両の整備計画の立案に人工知能（AI）を導入する。約2時間かかる作業を10分程度に短縮できる見通し。所要時間を9割削減し、人手不足問題の緩和につなげる。AI開発のグリッドと共同で、2030年度までの実用化を目指す。JR西は在来線車両の検査や修繕、清掃といった整備業務を手掛ける車両基地を管内に約40カ所...",
+      "published_at": "2026-09-25T22:27:48.040+00:00",
+      "fetched_at": "2026-09-25T22:35:57+00:00",
+      "summary": "Time 2026-09-25 22:07:34 UTC 2026-09-25 22:07:34 UTC at epicenter Location 21.273°S 168.574°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c7d83e6b0e83b26e99ef"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "0a9fec2630f6fe4608de"
     }
   ],
   "source_errors": [],
