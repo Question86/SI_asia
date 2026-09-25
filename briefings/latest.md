@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T05:46:19+00:00_
+_Generiert: 2026-09-25T06:02:04+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+23 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: baserCMSユーザー会が提供するbaserCMSには複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Fleet: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3546)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-25T05:49:23+00:00`, fetched `2026-09-25T06:01:31+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Fleet ausnutzen, um erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen und einen Denial-of-Service-Zustand auszulösen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI vs agtech: How AI is revolutionising agriculture** — Score 14, observation — [Quelle](https://e27.co/ai-vs-agtech-how-ai-is-revolutionising-agriculture-20260924/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-25T03:00:31+00:00`, fetched `2026-09-25T03:08:33+00:00`

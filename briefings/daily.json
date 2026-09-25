@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-09-25T05:46:24+00:00",
-  "today_file_total": 22,
+  "generated_at": "2026-09-25T06:02:07+00:00",
+  "today_file_total": 23,
   "current_clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] Fleet: Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3546"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
     {
       "key": "title:basercms",
       "title": "baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性",
@@ -430,29 +453,6 @@
       ],
       "urls": [
         "https://levtech.jp/media/detail_931/"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:python-windows-python-install-manager",
-      "title": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://forest.watch.impress.co.jp/docs/news/2142666.html"
       ],
       "finding_count": 1,
       "max_score": 5,
