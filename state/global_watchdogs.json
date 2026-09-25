@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T19:33:42+00:00",
+  "generated_at": "2026-09-25T19:42:23+00:00",
   "sections": {
     "global_security": [
       {
@@ -29,6 +29,18 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "CISA KEV: CVE-2026-87902 WordPress Core",
+        "summary": "Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. WordPress Core Remote File Inclusion Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-25",
+        "metrics": {
+          "cve": "CVE-2026-87902"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "CISA KEV: CVE-2026-5430 WSO2 Multiple Products",
         "summary": "Known exploited vulnerability. Added 2026-09-24. Due 2026-09-27. WSO2 Multiple Products Path Traversal Vulnerability ",
         "source": "CISA KEV",
@@ -48,18 +60,6 @@
         "published_at": "2026-09-24",
         "metrics": {
           "cve": "CVE-2026-71362"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-93952 Arista VeloCloud Orchestrator",
-        "summary": "Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. Arista VeloCloud Orchestrator Improper Input Validation Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-22",
-        "metrics": {
-          "cve": "CVE-2026-93952"
         }
       },
       {

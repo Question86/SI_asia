@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T19:33:38+00:00_
+_Generiert: 2026-09-25T19:42:20+00:00_
 
 ## Kurzlage
 
@@ -17,6 +17,10 @@ _Generiert: 2026-09-25T19:33:38+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-25`
   - Kurz: Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. Microsoft SharePoint Code Injection Vulnerability
+- **CISA KEV: CVE-2026-87902 WordPress Core** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-25`
+  - Kurz: Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. WordPress Core Remote File Inclusion Vulnerability
 - **CISA KEV: CVE-2026-5430 WSO2 Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-24`
@@ -25,10 +29,6 @@ _Generiert: 2026-09-25T19:33:38+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-24`
   - Kurz: Known exploited vulnerability. Added 2026-09-24. Due 2026-09-27. Adobe Commerce and Magento Incorrect Authorization Vulnerability 
-- **CISA KEV: CVE-2026-93952 Arista VeloCloud Orchestrator** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-22`
-  - Kurz: Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. Arista VeloCloud Orchestrator Improper Input Validation Vulnerability
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
