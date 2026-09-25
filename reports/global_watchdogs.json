@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T21:41:51+00:00",
+  "generated_at": "2026-09-25T21:56:52+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,16 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 6.6M, Depth:10km) in Vanuatu 25/09/2026 21:23 UTC, 1 thousand in MMI&gt;=V.",
+        "summary": "Green earthquake (Magnitude 6.6M, Depth:10km) in Vanuatu 25/09/2026 21:23 UTC, 1 thousand in MMI&gt;=V.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568087",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "GDACS: Green flood alert in Chile",
         "summary": "Green flood alert in Chile",
         "source": "GDACS",
@@ -93,7 +103,7 @@
         "metrics": {
           "mag": 6.6,
           "alert": "",
-          "sig": 670.0,
+          "sig": 672.0,
           "tsunami": 0
         }
       },

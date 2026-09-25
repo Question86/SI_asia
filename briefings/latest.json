@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T21:41:48+00:00",
-  "run_id": "2026-09-25T21:41:48+00:00",
+  "generated_at": "2026-09-25T21:56:49+00:00",
+  "run_id": "2026-09-25T21:56:49+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 89
+      "configured_public_sources_only": 90
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 89,
-    "displayed_findings": 89,
+    "new_relevant_findings": 1,
+    "today_file_total": 90,
+    "displayed_findings": 90,
     "high": 1,
     "medium": 35,
-    "observe": 53,
+    "observe": 54,
     "source_errors": 0
   },
   "sections": {
@@ -2156,6 +2156,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ca6eba3d8e0e9612ab5b"
+      },
+      {
+        "title": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+        "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-25T19:05:03+00:00",
+        "fetched_at": "2026-09-25T21:56:20+00:00",
+        "summary": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of your issues. “Relates to” issue relationship… The post Private saved views for repository issues and “Relates to” issue relationship is generally available appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "157e88f4e180e8051dd3"
       },
       {
         "title": "Improving site performance by shipping more CSS",
@@ -4306,6 +4326,26 @@
       "id": "ca6eba3d8e0e9612ab5b"
     },
     {
+      "title": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+      "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-25T19:05:03+00:00",
+      "fetched_at": "2026-09-25T21:56:20+00:00",
+      "summary": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of your issues. “Relates to” issue relationship… The post Private saved views for repository issues and “Relates to” issue relationship is generally available appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "157e88f4e180e8051dd3"
+    },
+    {
       "title": "Improving site performance by shipping more CSS",
       "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
       "source": "GitHub Blog Atom",
@@ -4328,76 +4368,24 @@
   ],
   "new_findings": [
     {
-      "title": "M 6.6 - 80 km ENE of Tadine, New Caledonia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+      "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-09-25T21:40:31.040+00:00",
-      "fetched_at": "2026-09-25T21:41:16+00:00",
-      "summary": "DYFI? - III Time 2026-09-25 21:23:03 UTC 2026-09-25 21:23:03 UTC at epicenter Location 21.298°S 168.610°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-09-25T19:05:03+00:00",
+      "fetched_at": "2026-09-25T21:56:20+00:00",
+      "summary": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of your issues. “Relates to” issue relationship… The post Private saved views for repository issues and “Relates to” issue relationship is generally available appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "GitHub"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "411d01cfa942ba129cc1"
-    },
-    {
-      "title": "M 4.5 - south of the Fiji Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpa",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-25T21:38:10.040+00:00",
-      "fetched_at": "2026-09-25T21:41:16+00:00",
-      "summary": "Time 2026-09-25 20:43:32 UTC 2026-09-25 20:43:32 UTC at epicenter Location 24.053°S 179.992°W Depth 482.81 km (300.01 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "98075721fad36cb0b024"
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "157e88f4e180e8051dd3"
     }
   ],
   "source_errors": [],
