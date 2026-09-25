@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T09:44:42+00:00",
-  "run_id": "2026-09-25T09:44:42+00:00",
+  "generated_at": "2026-09-25T09:53:05+00:00",
+  "run_id": "2026-09-25T09:53:05+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 2,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
-    "medium": 11,
+    "medium": 13,
     "observe": 26,
     "source_errors": 0
   },
@@ -51,6 +51,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9f6f16eab83d2b5a5fe9"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (OpenEXR): Schwachstelle ermöglicht Codeausführung und Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3489",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-25T09:47:09+00:00",
+        "fetched_at": "2026-09-25T09:52:35+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (OpenEXR) ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7bc7e74920f2b562936b"
       },
       {
         "title": "Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier",
@@ -185,6 +209,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bcc012fd1c506af52bf3"
+      },
+      {
+        "title": "[UPDATE] [mittel] X.Org X11: Schwachstelle ermöglicht Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3503",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-25T09:47:09+00:00",
+        "fetched_at": "2026-09-25T09:52:35+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in X.Org X11 ausnutzen, um potentiell Code zur Ausführung zu bringen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f0b94848fbe0227a3d39"
       },
       {
         "title": "[UPDATE] [hoch] Paessler PRTG: Mehrere Schwachstellen",
@@ -863,6 +910,30 @@
       "id": "9f6f16eab83d2b5a5fe9"
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (OpenEXR): Schwachstelle ermöglicht Codeausführung und Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3489",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-25T09:47:09+00:00",
+      "fetched_at": "2026-09-25T09:52:35+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (OpenEXR) ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7bc7e74920f2b562936b"
+    },
+    {
       "title": "Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier",
       "url": "https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -995,6 +1066,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bcc012fd1c506af52bf3"
+    },
+    {
+      "title": "[UPDATE] [mittel] X.Org X11: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3503",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-25T09:47:09+00:00",
+      "fetched_at": "2026-09-25T09:52:35+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in X.Org X11 ausnutzen, um potentiell Code zur Ausführung zu bringen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f0b94848fbe0227a3d39"
     },
     {
       "title": "[UPDATE] [hoch] Paessler PRTG: Mehrere Schwachstellen",
@@ -1647,26 +1741,51 @@
   ],
   "new_findings": [
     {
-      "title": "Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier",
-      "url": "https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (OpenEXR): Schwachstelle ermöglicht Codeausführung und Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3489",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-25T09:43:08+00:00",
-      "fetched_at": "2026-09-25T09:44:13+00:00",
-      "summary": "San Francisco and New York still lead The Observer‘s inaugural AI Cities Index, but the more consequential finding sits further east. Six of the world’s top 10 AI cities are in East and Southeast Asia, and Seoul ranks first globally for implementation: whether a city has the institutions, systems and practitioners to put AI to work across […] The post Ecosystem Roundup: Seoul tops AI implementation as Singapore join…",
+      "published_at": "2026-09-25T09:47:09+00:00",
+      "fetched_at": "2026-09-25T09:52:35+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (OpenEXR) ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia"
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
       ],
       "relevance_score": 16,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region usa: New York, San Francisco (+2.0); watchgraph region south_korea: Seoul (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "829970958c251a2b6e9b"
+      "id": "7bc7e74920f2b562936b"
+    },
+    {
+      "title": "[UPDATE] [mittel] X.Org X11: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3503",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-25T09:47:09+00:00",
+      "fetched_at": "2026-09-25T09:52:35+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in X.Org X11 ausnutzen, um potentiell Code zur Ausführung zu bringen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f0b94848fbe0227a3d39"
     }
   ],
   "source_errors": [],

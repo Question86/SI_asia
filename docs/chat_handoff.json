@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-25T09:44:42+00:00",
+  "generated_at": "2026-09-25T09:53:05+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 2,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
-    "medium": 11,
+    "medium": 13,
     "observe": 26
   },
   "source_errors_count": 0,
@@ -22,6 +22,16 @@
       "relevance_score": 16,
       "url": "https://jvn.jp/vu/JVNVU93222287/",
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "section": "medium"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (OpenEXR): Schwachstelle ermöglicht Codeausführung und Denial of Service",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-25T09:47:09+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3489",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (OpenEXR) ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM,…",
-      "section": "medium"
-    },
-    {
-      "title": "baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-25T12:00:15+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/jp/JVN21754394/",
-      "summary": "baserCMSユーザー会が提供するbaserCMS用プラグイン「アドオンマイグレーター」 には、信頼できない制御領域からの機能の組み込みに関する脆弱性が存在します。",
       "section": "medium"
     },
     {
@@ -100,140 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “ViewSonic vCastにおける複数の脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "ViewSonic vCastにおける複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96941087/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T10:00:30+09:00",
-        "age_days": 0.37,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "[UPDATE] [hoch] Paessler PRTG: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3565",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T09:04:23+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Paessler PRTG ausnutzen, um Cross-Site-Scripting-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen und vertrauliche Informationen offenzulegen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1671",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T08:44:23+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Roundcube Webmail ausnutzen, um SQL-Injection-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen, erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen oder Cross-Site-Scripting-Angriffe durch…"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）",
-        "url": "https://jvn.jp/vu/JVNVU93222287/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T10:00:00+09:00",
-        "age_days": 0.37,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation",
-        "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-25T01:00:04+00:00",
-        "age_days": 0.37,
-        "topics": [
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 27.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fallen sharply since 2022. The platforms that remain — KoinWork…"
-      }
-    ]
-  }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T09:44:42+00:00",
+  "generated_at": "2026-09-25T09:53:05+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-25T10:00:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU93222287/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (OpenEXR): Schwachstelle ermöglicht Codeausführung und Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T09:47:09+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3489"
       },
       {
         "title": "baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性",
@@ -40,6 +47,13 @@
         "url": "https://jvn.jp/vu/JVNVU96565230/"
       },
       {
+        "title": "[UPDATE] [mittel] X.Org X11: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T09:47:09+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3503"
+      },
+      {
         "title": "[UPDATE] [hoch] Paessler PRTG: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-25T09:04:23+00:00",
@@ -59,20 +73,6 @@
         "published_at": "2026-09-25T05:49:23+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3546"
-      },
-      {
-        "title": "Sicherheitslücken: GitLab-Server mit Schadcode attackierbar",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-25T08:55:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Server-mit-Schadcode-attackierbar-11465889.html"
-      },
-      {
-        "title": "Jetzt updaten! Attacken auf Roundcube-Webmail-Instanzen beobachtet",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-25T07:31:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Jetzt-updaten-Attacken-auf-Roundcube-Webmail-Instanzen-beobachtet-11465379.html"
       }
     ],
     "ai": [
