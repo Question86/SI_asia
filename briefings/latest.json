@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T13:34:05+00:00",
-  "run_id": "2026-09-25T13:34:05+00:00",
+  "generated_at": "2026-09-25T13:45:09+00:00",
+  "run_id": "2026-09-25T13:45:09+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 69,
     "displayed_findings": 69,
     "high": 1,
@@ -3210,102 +3210,7 @@
       "id": "ca6eba3d8e0e9612ab5b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Multiples vulnérabilités dans les produits Cisco (17 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1197/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-17T00:00:00+00:00",
-      "fetched_at": "2026-09-25T13:33:33+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76460 est...",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Security",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "30db09dd3b3c0d695360"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Google Chrome (18 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1199/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "fetched_at": "2026-09-25T13:33:33+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité",
-        "éditeur"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f81fceb4a38441b8b7b0"
-    },
-    {
-      "title": "Vulnérabilité dans Nextcloud Server (17 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1198/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-17T00:00:00+00:00",
-      "fetched_at": "2026-09-25T13:33:33+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Nextcloud Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7ed8ff5829789fc7682f"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Roundcube (26 mai 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0644/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-05-26T00:00:00+00:00",
-      "fetched_at": "2026-09-25T13:33:33+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4d809bd0cf517334ff84"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
