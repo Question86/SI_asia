@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T22:11:45+00:00_
+_Generiert: 2026-09-25T22:26:22+00:00_
 
 ## Kurzlage
 
-91 neue relevante Treffer. Stärkstes Signal: „Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung“ aus heise Security Alerts (Score 24, risk).
+92 neue relevante Treffer. Stärkstes Signal: „Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -291,6 +291,15 @@ _Generiert: 2026-09-25T22:11:45+00:00_
   - Warum relevant: OpenAI (+7.5); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **JR西日本、AIが車両整備の計画立案 30年度までに所要時間2時間→10分 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUF1158N0R10C26A9000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-25T11:27:50+00:00`, fetched `2026-09-25T22:25:51+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: JR西日本は車両の整備計画の立案に人工知能（AI）を導入する。約2時間かかる作業を10分程度に短縮できる見通し。所要時間を9割削減し、人手不足問題の緩和につなげる。AI開発のグリッドと共同で、2030年度までの実用化を目指す。JR西は在来線車両の検査や修繕、清掃といった整備業務を手掛ける車両基地を管内に約40カ所...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Monetary developments in the euro area: August 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/md/html/ecb.md2608~406f8d243d.en.html)
   - Quelle: ECB Statistical Press Releases / `rss`
   - Zeit: published `2026-09-25T08:00:00+00:00`, fetched `2026-09-25T08:27:12+00:00`
@@ -344,15 +353,6 @@ _Generiert: 2026-09-25T22:11:45+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Asian stocks and bonds fell as a global bond selloff deepened and inflation fears intensified, with oil prices remaining elevated. Regional indices pointed lower in early trading. Wall Street had finished a volatile session mixed to flat. The S&P 500 edged slightly lower. The Dow Jones Industrial Average dropped 161 points, or 0.3 per cent. […] The post Altcoins are running on real news, Wall Street is running on fe…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]** — Score 8, observation — [Quelle](https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-24T19:55:05+00:00`, fetched `2026-09-25T02:29:29+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
-  - Kurz: メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
