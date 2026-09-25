@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T01:16:10+00:00",
+  "generated_at": "2026-09-25T01:38:52+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -4447,7 +4447,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-25T01:15:52+00:00",
+      "last_seen_at": "2026-09-25T01:38:36+00:00",
       "status": "active"
     },
     {
@@ -4721,6 +4721,23 @@
       "first_seen_at": "2026-09-18T07:51:17+00:00",
       "last_seen_at": "2026-09-18T23:55:00+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_54469ce08846c5562aeb",
+      "title": "ViewSonic vCastにおける複数の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-25T01:15:52+00:00",
+      "last_seen_at": "2026-09-25T01:38:36+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_58f5233cfe81d2f20f2f",
@@ -5131,6 +5148,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d7bfc2a0a8af35a07efb",
+      "title": "Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-25T01:15:52+00:00",
+      "last_seen_at": "2026-09-25T01:38:36+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_dc55b44688df40e1b152",
       "title": "コンテック製PC-HELPERシリーズにおける複数の脆弱性",
       "event_classes": [
@@ -5197,40 +5231,6 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_54469ce08846c5562aeb",
-      "title": "ViewSonic vCastにおける複数の脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T01:15:52+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_d7bfc2a0a8af35a07efb",
-      "title": "Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T01:15:52+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -9398,6 +9398,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_71c945b1845f72572c6c",
+      "title": "The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-25T01:15:52+00:00",
+      "last_seen_at": "2026-09-25T01:38:36+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_7a1785d51dc511810ea5",
       "title": "Multiples vulnérabilités dans Metabase (24 août 2026)",
       "event_classes": [
@@ -9991,23 +10008,6 @@
       "first_seen_at": "2026-09-05T03:23:45+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_71c945b1845f72572c6c",
-      "title": "The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112000.0,
-      "p50_usd": 11200000.0,
-      "p90_usd": 1120000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T01:15:52+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_09036b8b28293de638ea",
@@ -13003,6 +13003,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a3140b3343ccc0817b9c",
+      "title": "The founder’s dilemma: Structured serendipity",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-25T01:38:36+00:00",
+      "last_seen_at": "2026-09-25T01:38:36+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_00999a707b633ec75a8c",
       "title": "Startups should learn to leave bad markets faster",
       "event_classes": [
@@ -13611,7 +13628,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T00:54:32+00:00",
-      "last_seen_at": "2026-09-25T01:15:52+00:00",
+      "last_seen_at": "2026-09-25T01:38:36+00:00",
       "status": "active"
     },
     {
