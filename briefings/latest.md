@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T23:47:17+00:00_
+_Generiert: 2026-09-25T23:54:49+00:00_
 
 ## Kurzlage
 
-95 neue relevante Treffer. Stärkstes Signal: „Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung“ aus heise Security Alerts (Score 24, risk).
+97 neue relevante Treffer. Stärkstes Signal: „Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,6 +57,10 @@ _Generiert: 2026-09-25T23:47:17+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone SURIGAE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **USGS earthquake M5.5 - 61 km ENE of Tadine, New Caledonia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqi)
+  - Quelle: USGS
+  - Zeit: `2026-09-25T23:39:41+00:00`
+  - Kurz: M5.5 - 61 km ENE of Tadine, New Caledonia. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
