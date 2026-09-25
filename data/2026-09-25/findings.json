@@ -137,6 +137,29 @@
     "id": "d70a098913492cbe2a49"
   },
   {
+    "title": "[UPDATE] [niedrig] OpenSC: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1755",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-25T10:10:23+00:00",
+    "fetched_at": "2026-09-25T10:21:32+00:00",
+    "summary": "Ein Angreifer mit physischem Zugriff kann mehrere Schwachstellen in OpenSC ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "17d006032e4831763dad"
+  },
+  {
     "title": "ViewSonic vCastにおける複数の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU96941087/",
     "source": "JVN Japan Vulnerability Notes",

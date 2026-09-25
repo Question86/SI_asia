@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T10:00:42+00:00",
+  "generated_at": "2026-09-25T10:22:04+00:00",
   "topics": {
     "security": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-09-25T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN14353754/"
+      },
+      {
+        "title": "[UPDATE] [niedrig] OpenSC: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:10:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1755"
       },
       {
         "title": "ViewSonic vCastにおける複数の脆弱性",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-25T08:44:23+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1671"
-      },
-      {
-        "title": "[UPDATE] [hoch] Fleet: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T05:49:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3546"
       }
     ],
     "ai": [
