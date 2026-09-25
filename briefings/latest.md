@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T23:18:39+00:00_
+_Generiert: 2026-09-25T23:29:11+00:00_
 
 ## Kurzlage
 
-94 neue relevante Treffer. Stärkstes Signal: „Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung“ aus heise Security Alerts (Score 24, risk).
+94 neue relevante Treffer. Stärkstes Signal: „Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung“ aus heise Security Alerts (Score 24, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -44,7 +44,7 @@ _Generiert: 2026-09-25T23:18:39+00:00_
 - **USGS earthquake M6.6 - 80 km ENE of Tadine, New Caledonia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi)
   - Quelle: USGS
   - Zeit: `2026-09-25T21:23:03+00:00`
-  - Kurz: M6.6 - 80 km ENE of Tadine, New Caledonia. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M6.6 - 80 km ENE of Tadine, New Caledonia. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green notification for tropical cyclone GONZALO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.419 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001328)
   - Quelle: GDACS
   - Zeit: ``
@@ -363,3 +363,7 @@ _Generiert: 2026-09-25T23:18:39+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
