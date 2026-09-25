@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T23:39:42+00:00",
-  "run_id": "2026-09-25T23:39:42+00:00",
+  "generated_at": "2026-09-25T23:47:17+00:00",
+  "run_id": "2026-09-25T23:47:17+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 94
+      "configured_public_sources_only": 95
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 94,
-    "displayed_findings": 94,
+    "new_relevant_findings": 1,
+    "today_file_total": 95,
+    "displayed_findings": 95,
     "high": 1,
     "medium": 35,
-    "observe": 58,
+    "observe": 59,
     "source_errors": 0
   },
   "sections": {
@@ -1920,6 +1920,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "792aa6eb95718fba93fe"
+      },
+      {
+        "title": "Enterprise managed settings in-product validator",
+        "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-25T23:24:57+00:00",
+        "fetched_at": "2026-09-25T23:46:46+00:00",
+        "summary": "You can now use an in-product validator for enterprise managed settings for GitHub Copilot. The validator detects malformed JSON, unsupported configurations, invalid team mappings, and other errors that can prevent… The post Enterprise managed settings in-product validator appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "aa7d8debac2dae3251ab"
       },
       {
         "title": "Usage metrics API adds pull request review stages",
@@ -4190,6 +4211,27 @@
       "id": "792aa6eb95718fba93fe"
     },
     {
+      "title": "Enterprise managed settings in-product validator",
+      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-25T23:24:57+00:00",
+      "fetched_at": "2026-09-25T23:46:46+00:00",
+      "summary": "You can now use an in-product validator for enterprise managed settings for GitHub Copilot. The validator detects malformed JSON, unsupported configurations, invalid team mappings, and other errors that can prevent… The post Enterprise managed settings in-product validator appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aa7d8debac2dae3251ab"
+    },
+    {
       "title": "Usage metrics API adds pull request review stages",
       "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
       "source": "GitHub Changelog Atom",
@@ -4566,7 +4608,29 @@
       "id": "d75d665d4499bebcc2ae"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Enterprise managed settings in-product validator",
+      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-25T23:24:57+00:00",
+      "fetched_at": "2026-09-25T23:46:46+00:00",
+      "summary": "You can now use an in-product validator for enterprise managed settings for GitHub Copilot. The validator detects malformed JSON, unsupported configurations, invalid team mappings, and other errors that can prevent… The post Enterprise managed settings in-product validator appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aa7d8debac2dae3251ab"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
