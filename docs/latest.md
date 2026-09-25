@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T07:00:19+00:00_
+_Generiert: 2026-09-25T07:26:10+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+28 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -113,6 +113,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
   - Kurz: メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Video-Tool VLC: Version 3.0.24 stopft über 130 Sicherheitslecks** — Score 7, observation — [Quelle](https://www.heise.de/news/Video-Tool-VLC-Version-3-0-24-stopft-ueber-130-Sicherheitslecks-11465305.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-25T07:02:00.000+00:00`, fetched `2026-09-25T07:25:41+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Der Videoplayer VLC ist in Version 3.0.24 erschienen. Mehr als 130 Sicherheitslücken soll das Release schließen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Default Enablement of Copilot Features for Copilot Business and Enterprise** — Score 6, risk — [Quelle](https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise)
   - Quelle: GitHub Changelog Atom / `rss`
