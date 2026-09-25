@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T21:56:49+00:00",
-  "run_id": "2026-09-25T21:56:49+00:00",
+  "generated_at": "2026-09-25T22:11:45+00:00",
+  "run_id": "2026-09-25T22:11:45+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 90
+      "configured_public_sources_only": 91
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 90,
-    "displayed_findings": 90,
+    "today_file_total": 91,
+    "displayed_findings": 91,
     "high": 1,
     "medium": 35,
-    "observe": 54,
+    "observe": 55,
     "source_errors": 0
   },
   "sections": {
@@ -2114,6 +2114,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a8355593e98de06f2d85"
+      },
+      {
+        "title": "【結果報告】初めてのAI同人誌、Fable5は「500部刷れ」と言った #生成AIなんでも展示会レポ｜賢木イオ",
+        "url": "https://note.com/studiomasakaki/n/n9bd76032db89",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-24T13:54:21+00:00",
+        "fetched_at": "2026-09-25T22:11:16+00:00",
+        "summary": "「これ、このまま外に置くんでいいですか？たぶん、玄関の中に置くと出入りできなくなっちゃうと思うんですけど…」 と、クロネコヤマトのお兄さんは言った。 「はい、外でいいです」 私は努めて平静に答えた。お兄さんは安心したように、「ありがとうございます。ダンボール箱、全部で7箱あるので、すみませんが受取証も...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "97f5910ec20de66fbf84"
       },
       {
         "title": "vectorize-io/hindsight",
@@ -4284,6 +4305,27 @@
       "id": "a8355593e98de06f2d85"
     },
     {
+      "title": "【結果報告】初めてのAI同人誌、Fable5は「500部刷れ」と言った #生成AIなんでも展示会レポ｜賢木イオ",
+      "url": "https://note.com/studiomasakaki/n/n9bd76032db89",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-24T13:54:21+00:00",
+      "fetched_at": "2026-09-25T22:11:16+00:00",
+      "summary": "「これ、このまま外に置くんでいいですか？たぶん、玄関の中に置くと出入りできなくなっちゃうと思うんですけど…」 と、クロネコヤマトのお兄さんは言った。 「はい、外でいいです」 私は努めて平静に答えた。お兄さんは安心したように、「ありがとうございます。ダンボール箱、全部で7箱あるので、すみませんが受取証も...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "97f5910ec20de66fbf84"
+    },
+    {
       "title": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -4368,24 +4410,25 @@
   ],
   "new_findings": [
     {
-      "title": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
-      "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
-      "source": "GitHub Changelog Atom",
+      "title": "【結果報告】初めてのAI同人誌、Fable5は「500部刷れ」と言った #生成AIなんでも展示会レポ｜賢木イオ",
+      "url": "https://note.com/studiomasakaki/n/n9bd76032db89",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-25T19:05:03+00:00",
-      "fetched_at": "2026-09-25T21:56:20+00:00",
-      "summary": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of your issues. “Relates to” issue relationship… The post Private saved views for repository issues and “Relates to” issue relationship is generally available appeared first on The GitHub Blog .",
+      "published_at": "2026-09-24T13:54:21+00:00",
+      "fetched_at": "2026-09-25T22:11:16+00:00",
+      "summary": "「これ、このまま外に置くんでいいですか？たぶん、玄関の中に置くと出入りできなくなっちゃうと思うんですけど…」 と、クロネコヤマトのお兄さんは言った。 「はい、外でいいです」 私は努めて平静に答えた。お兄さんは安心したように、「ありがとうございます。ダンボール箱、全部で7箱あるので、すみませんが受取証も...",
       "matched_keywords": [
-        "GitHub"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "157e88f4e180e8051dd3"
+      "id": "97f5910ec20de66fbf84"
     }
   ],
   "source_errors": [],
