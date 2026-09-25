@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-25T11:13:12Z",
+  "generated_at": "2026-09-25T11:27:59Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 13,
-      "strong": 15,
-      "watch": 12
+      "krass": 14,
+      "strong": 16,
+      "watch": 10
     },
     "bands_after_gate_recheck": {
       "krass": 5,
-      "strong": 23,
-      "watch": 12
+      "strong": 25,
+      "watch": 10
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3567",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T10:19:23+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3489",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T09:47:09+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3570",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T10:44:23+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3503",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T09:47:09+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1671",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T08:44:23+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security"
@@ -148,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3503",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T09:53:09+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -175,7 +175,7 @@
       "url": "https://jvn.jp/jp/JVN21754394/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T12:00:15+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -199,7 +199,7 @@
       "url": "https://jvn.jp/jp/JVN14353754/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T12:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -223,7 +223,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3575",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T10:54:24+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -248,7 +248,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3574",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T10:54:23+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -272,7 +272,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3573",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T10:54:23+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -296,7 +296,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3572",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T10:49:23+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -320,7 +320,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1755",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T10:10:23+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -344,7 +344,7 @@
       "url": "https://jvn.jp/vu/JVNVU96565230/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:15+09:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -368,7 +368,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3546",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T05:49:23+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -392,7 +392,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3571",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T10:44:24+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -418,7 +418,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3569",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T10:39:23+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -444,7 +444,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3568",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T10:24:23+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -470,7 +470,7 @@
       "url": "https://jvn.jp/vu/JVNVU96941087/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:30+09:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -496,7 +496,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3565",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T09:04:23+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -522,7 +522,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3566",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-25T10:19:23+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -548,7 +548,7 @@
       "url": "https://jvn.jp/vu/JVNVU93222287/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:00+09:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -569,11 +569,38 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "WordPress-Lücke nur Stunden nach Patch attackiert",
+      "url": "https://www.heise.de/news/WordPress-Luecke-nur-Stunden-nach-Patch-attackiert-11466076.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-09-25T11:10:00.000+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch",
+        "security high-signal: kritisch",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "WordPress hat am Dienstag zwei Sicherheitsupdates veröffentlicht. Die kritische Lücke aus dem zweiten wird bereits attackiert."
+    },
+    {
       "title": "The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation",
       "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T01:00:04+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -600,7 +627,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3571",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 27.88,
+      "age_days": 27.89,
       "topics": [
         "security"
       ],
@@ -611,12 +638,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 14.51,
+      "baseline_z_hint": 6.13,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 14.51",
+        "baseline z_hint 6.13",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -2.4 for 27.9d old signal",
@@ -625,11 +652,37 @@
       "summary": ""
     },
     {
+      "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+      "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-09-25T11:20:42+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "high terms: code",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Sicherheitslücken: GitLab-Server mit Schadcode attackierbar",
       "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Server-mit-Schadcode-attackierbar-11465889.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-25T08:55:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security",
@@ -656,7 +709,7 @@
       "url": "https://jvn.jp/jp/JVN21754394/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T03:09:09+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -680,7 +733,7 @@
       "url": "https://jvn.jp/vu/JVNVU96941087/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T01:15:52+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -704,7 +757,7 @@
       "url": "https://jvn.jp/vu/JVNVU96565230/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T01:15:52+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -724,11 +777,39 @@
       "summary": ""
     },
     {
+      "title": "WordPress-Lücke nur Stunden nach Patch attackiert",
+      "url": "https://www.heise.de/news/WordPress-Luecke-nur-Stunden-nach-Patch-attackiert-11466076.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 98.16,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 10.88,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 10.88",
+        "aging penalty -8.0 for 98.2d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Jetzt updaten! Attacken auf Roundcube-Webmail-Instanzen beobachtet",
       "url": "https://www.heise.de/news/Jetzt-updaten-Attacken-auf-Roundcube-Webmail-Instanzen-beobachtet-11465379.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-25T07:31:00.000+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -753,7 +834,7 @@
       "url": "https://www.heise.de/news/Video-Tool-VLC-Version-3-0-24-stopft-ueber-130-Sicherheitslecks-11465305.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-25T07:02:00.000+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -777,7 +858,7 @@
       "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T01:15:52+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -801,7 +882,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-25T04:41:21.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -826,7 +907,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-25T04:42:16+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -850,7 +931,7 @@
       "url": "https://e27.co/altcoins-are-running-on-real-news-wall-street-is-running-on-fear-20260925/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T06:37:52+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -874,7 +955,7 @@
       "url": "https://jvn.jp/vu/JVNVU93222287/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 98.39,
+      "age_days": 98.4,
       "topics": [
         "general"
       ],
@@ -899,7 +980,7 @@
       "url": "https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T09:44:45+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -925,7 +1006,7 @@
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-25T06:37:52+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -943,83 +1024,6 @@
         "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Vision AI expands visibility across remote pipeline corridors",
-      "url": "https://e27.co/vision-ai-expands-visibility-across-remote-pipeline-corridors-20260924/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-25T04:01:41+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "ai",
-        "infra"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "early terms: pipeline",
-        "high terms: remote",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]",
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-25T02:30:04+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "The most expensive links aren’t really links: What 16,625 publisher price lists tell SEA startups",
-      "url": "https://e27.co/the-most-expensive-links-arent-really-links-what-16625-publisher-price-lists-tell-sea-startups-20260923/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-25T02:01:58+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
       ],
       "summary": ""
     }
