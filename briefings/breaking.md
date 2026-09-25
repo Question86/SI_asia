@@ -1,21 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-25T18:50:12+00:00_
-
-## Agentic autofix now uses Copilot Memory
-
-- Ranking Score: `30.0`
-- Raw Network Score: `25.1`
-- Max Monitor Score: `23`
-- Reichweite: `specialist` / `2.5`
-- Early Signal: `ja`
-- Dominanter Emitter: `nein`
-- Quellen: GitHub Changelog Atom
-- Klassen: tier3_specialist
-- Cross-source bestaetigt: nein
-- Momentum: stable (+0)
-- Erste Quelle: https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory
-- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
+_Generiert: 2026-09-25T18:57:59+00:00_
 
 ## Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung
 
