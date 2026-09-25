@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T15:53:57+00:00",
-  "run_id": "2026-09-25T15:53:57+00:00",
+  "generated_at": "2026-09-25T16:01:33+00:00",
+  "run_id": "2026-09-25T16:01:33+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 75,
     "displayed_findings": 75,
     "high": 1,
@@ -3524,44 +3524,7 @@
       "id": "d75d665d4499bebcc2ae"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.2 - 62 km SW of San Antonio, Chile",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txme",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-25T15:52:41.736+00:00",
-      "fetched_at": "2026-09-25T15:53:24+00:00",
-      "summary": "DYFI? - IV Time 2026-09-25 15:29:09 UTC 2026-09-25 15:29:09 UTC at epicenter Location 33.966°S 72.108°W Depth 29.07 km (18.06 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "70e2daedea84c5d217b1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
