@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T10:45:22+00:00_
+_Generated: 2026-09-25T10:53:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `44`
+- findings: `47`
 
 ## Top Signals
 
-### 1. [NEU] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
+### 1. [NEU] [UNGEPATCHT] [mittel] MinIO: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-25T10:44:24+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3571
+- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in MinIO ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
+
+### 2. [NEU] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-25T10:39:23+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3569
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
 
-### 2. [NEU] [UNGEPATCHT] [mittel] MediaWiki (CirrusSearch Extension): Schwachstelle ermöglicht Cross-Site Scripting
+### 3. [NEU] [UNGEPATCHT] [mittel] MediaWiki (CirrusSearch Extension): Schwachstelle ermöglicht Cross-Site Scripting
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-25T10:19:23+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3566
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in MediaWiki (CirrusSearch Extension) ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.
 
-### 3. [NEU] [UNGEPATCHT] [hoch] RPM: Mehrere Schwachstellen ermöglichen Codeausführung
+### 4. [NEU] [UNGEPATCHT] [hoch] RPM: Mehrere Schwachstellen ermöglichen Codeausführung
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-25T10:19:23+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3567
 - summary: Ein Angreifer kann mehrere Schwachstellen in RPM ausnutzen, um beliebigen Programmcode auszuführen.
-
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-09-25T10:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU93222287/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
 ### 5. M 5.0 - 124 km N of Metinaro, Timor Leste
 - source: USGS M4.5+ Earthquakes Past Hour

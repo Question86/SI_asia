@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-25T10:45:22+00:00",
+  "generated_at": "2026-09-25T10:53:34+00:00",
   "topics": {
     "security": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] MinIO: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:44:24+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3571"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -54,28 +61,28 @@
         "url": "https://jvn.jp/jp/JVN14353754/"
       },
       {
-        "title": "[NEU] [mittel] Ansible: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
+        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T10:24:23+00:00",
+        "published_at": "2026-09-25T10:49:23+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3568"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3572"
       },
       {
-        "title": "[UPDATE] [niedrig] OpenSC: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "title": "[NEU] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung und Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-25T10:10:23+00:00",
+        "published_at": "2026-09-25T10:44:23+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1755"
-      },
-      {
-        "title": "ViewSonic vCastにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-25T10:00:30+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU96941087/"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3570"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] MinIO: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:44:24+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3571"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -105,6 +112,20 @@
         "url": "https://github.com/NVIDIA/Model-Optimizer"
       },
       {
+        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:49:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3572"
+      },
+      {
+        "title": "[NEU] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung und Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-25T10:44:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3570"
+      },
+      {
         "title": "[NEU] [mittel] Ansible: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-25T10:24:23+00:00",
@@ -124,20 +145,6 @@
         "published_at": "2026-09-25T04:18:26+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/citi-hsbc-back-ipids-us16m-round-to-make-instant-payments-safer-across-borders-20260925/"
-      },
-      {
-        "title": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-25T03:13:23+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise"
-      },
-      {
-        "title": "The founder’s dilemma: Structured serendipity",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-25T01:30:04+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/the-founders-dilemma-structured-serendipity-20260923/"
       }
     ],
     "ai": [
