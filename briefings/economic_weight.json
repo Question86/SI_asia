@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T21:19:01+00:00",
+  "generated_at": "2026-09-25T21:30:27+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -501,7 +501,7 @@
       "p90_usd": 113600000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T15:37:35+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -553,7 +553,7 @@
       "p90_usd": 113600000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T18:39:25+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -996,7 +996,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T05:30:29+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -1098,7 +1098,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -2598,6 +2598,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_1acdba7b096c23b8737d",
+      "title": "M 5.0 - 13 km N of Xunchang, China",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-25T21:30:10+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_058a0e17878f3797ed5c",
       "title": "M 4.6 - 170 km ESE of Kuril’sk, Russia",
       "event_classes": [
@@ -3462,6 +3479,23 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T23:08:25+00:00",
       "last_seen_at": "2026-08-29T23:58:25+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_7ee24300bc1434d8a8ac",
+      "title": "M 4.6 - 144 km SE of Lata, Solomon Islands",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:18:44+00:00",
       "status": "dormant"
     },
     {
@@ -4468,23 +4502,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_7ee24300bc1434d8a8ac",
-      "title": "M 4.6 - 144 km SE of Lata, Solomon Islands",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-25T21:18:44+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -4498,7 +4515,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -4532,7 +4549,7 @@
       "p90_usd": 2980000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-09-25T03:09:09+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -4583,7 +4600,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -4702,7 +4719,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T09:53:09+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -4821,7 +4838,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T13:34:08+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -4906,7 +4923,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -5331,7 +5348,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -5637,7 +5654,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T18:25:56+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -6708,7 +6725,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T06:37:52+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -6861,7 +6878,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T09:44:45+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -7099,7 +7116,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T18:01:52+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -7201,7 +7218,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T03:09:09+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -7830,7 +7847,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T23:45:37+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -8238,7 +8255,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
@@ -8408,7 +8425,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T11:20:42+00:00",
-      "last_seen_at": "2026-09-25T21:18:44+00:00",
+      "last_seen_at": "2026-09-25T21:30:10+00:00",
       "status": "active"
     },
     {
