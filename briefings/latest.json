@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T01:15:49+00:00",
-  "run_id": "2026-09-25T01:15:49+00:00",
+  "generated_at": "2026-09-25T01:38:34+00:00",
+  "run_id": "2026-09-25T01:38:34+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 5
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 1,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 3,
-    "observe": 2,
+    "observe": 3,
     "source_errors": 0
   },
   "sections": {
@@ -118,6 +118,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "764b8a5e942531b7b425"
+      },
+      {
+        "title": "The founder’s dilemma: Structured serendipity",
+        "url": "https://e27.co/the-founders-dilemma-structured-serendipity-20260923/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-25T01:30:04+00:00",
+        "fetched_at": "2026-09-25T01:38:04+00:00",
+        "summary": "I was sitting in a cafe in Kuala Lumpur recently, sipping an iced mixed coffee with orange, when I realised that the way I organise for trips is exactly how I used to try to “organise” my startup. I was obsessed with the perfect project management software, the flawless internal wiki, and the 18-month roadmap—not […] The post The founder’s dilemma: Structured serendipity appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "792aa6eb95718fba93fe"
       },
       {
         "title": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理",
@@ -232,6 +253,27 @@
       "id": "764b8a5e942531b7b425"
     },
     {
+      "title": "The founder’s dilemma: Structured serendipity",
+      "url": "https://e27.co/the-founders-dilemma-structured-serendipity-20260923/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-25T01:30:04+00:00",
+      "fetched_at": "2026-09-25T01:38:04+00:00",
+      "summary": "I was sitting in a cafe in Kuala Lumpur recently, sipping an iced mixed coffee with orange, when I realised that the way I organise for trips is exactly how I used to try to “organise” my startup. I was obsessed with the perfect project management software, the flawless internal wiki, and the 18-month roadmap—not […] The post The founder’s dilemma: Structured serendipity appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "792aa6eb95718fba93fe"
+    },
+    {
       "title": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理",
       "url": "https://forest.watch.impress.co.jp/docs/news/2142666.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -255,92 +297,25 @@
   ],
   "new_findings": [
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）",
-      "url": "https://jvn.jp/vu/JVNVU93222287/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-25T10:00:00+09:00",
-      "fetched_at": "2026-09-25T01:15:19+00:00",
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9f6f16eab83d2b5a5fe9"
-    },
-    {
-      "title": "ViewSonic vCastにおける複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU96941087/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-25T10:00:30+09:00",
-      "fetched_at": "2026-09-25T01:15:19+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dd83156fc23918bfd47f"
-    },
-    {
-      "title": "Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU96565230/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-25T10:00:15+09:00",
-      "fetched_at": "2026-09-25T01:15:19+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bcc012fd1c506af52bf3"
-    },
-    {
-      "title": "The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation",
-      "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
+      "title": "The founder’s dilemma: Structured serendipity",
+      "url": "https://e27.co/the-founders-dilemma-structured-serendipity-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-25T01:00:04+00:00",
-      "fetched_at": "2026-09-25T01:15:19+00:00",
-      "summary": "Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fallen sharply since 2022. The platforms that remain — KoinWorks among the most prominent — operate inside a […] The post The KoinWorks era: What Indonesia’s SME l…",
+      "published_at": "2026-09-25T01:30:04+00:00",
+      "fetched_at": "2026-09-25T01:38:04+00:00",
+      "summary": "I was sitting in a cafe in Kuala Lumpur recently, sipping an iced mixed coffee with orange, when I realised that the way I organise for trips is exactly how I used to try to “organise” my startup. I was obsessed with the perfect project management software, the flawless internal wiki, and the 18-month roadmap—not […] The post The founder’s dilemma: Structured serendipity appeared first on e27 .",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Open Source"
+        "founder"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "764b8a5e942531b7b425"
+      "id": "792aa6eb95718fba93fe"
     }
   ],
   "source_errors": [],

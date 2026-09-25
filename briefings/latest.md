@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T01:15:49+00:00_
+_Generiert: 2026-09-25T01:38:34+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+6 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -103,6 +103,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fallen sharply since 2022. The platforms that remain — KoinWorks among the most prominent — operate inside a […] The post The KoinWorks era: What Indonesia’s SME l…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The founder’s dilemma: Structured serendipity** — Score 6, observation — [Quelle](https://e27.co/the-founders-dilemma-structured-serendipity-20260923/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-25T01:30:04+00:00`, fetched `2026-09-25T01:38:04+00:00`
+  - Treffer: APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)
+  - Kurz: I was sitting in a cafe in Kuala Lumpur recently, sipping an iced mixed coffee with orange, when I realised that the way I organise for trips is exactly how I used to try to “organise” my startup. I was obsessed with the perfect project management software, the flawless internal wiki, and the 18-month roadmap—not […] The post The founder’s dilemma: Structured serendipity appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2142666.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

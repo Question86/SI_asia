@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T01:15:52+00:00",
+  "generated_at": "2026-09-25T01:38:36+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2810,7 +2810,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）",
-      "updated_at": "2026-09-25T01:15:52+00:00",
+      "updated_at": "2026-09-25T01:38:36+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2840,13 +2840,13 @@
         18.1,
         18.1,
         18.1,
-        18.1,
-        21.1
+        21.1,
+        18.1
       ],
       "rolling_average": 18.2,
       "rolling_peak": 21.1,
-      "last_score": 21.1,
-      "z_hint": 2.9
+      "last_score": 18.1,
+      "z_hint": -0.1
     },
     "github_repo:universal-debloater-alliance/universal-android-debloater-next-generation": {
       "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -46987,47 +46987,62 @@
     },
     "title:python-windows-python-install-manager": {
       "title": "「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理",
-      "updated_at": "2026-09-25T01:15:52+00:00",
+      "updated_at": "2026-09-25T01:38:36+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.1,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:viewsonic-vcast": {
       "title": "ViewSonic vCastにおける複数の脆弱性",
-      "updated_at": "2026-09-25T01:15:52+00:00",
+      "updated_at": "2026-09-25T01:38:36+00:00",
       "network_scores": [
-        19.1
+        19.1,
+        16.1
       ],
-      "rolling_average": 19.1,
+      "rolling_average": 17.6,
       "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
+      "last_score": 16.1,
+      "z_hint": -1.5
     },
     "title:norwegian-cruise-line": {
       "title": "Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性",
-      "updated_at": "2026-09-25T01:15:52+00:00",
+      "updated_at": "2026-09-25T01:38:36+00:00",
       "network_scores": [
-        19.1
+        19.1,
+        16.1
       ],
-      "rolling_average": 19.1,
+      "rolling_average": 17.6,
       "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
+      "last_score": 16.1,
+      "z_hint": -1.5
     },
     "title:koinworks-era-what-indonesia-sme-lending-journey-has": {
       "title": "The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation",
-      "updated_at": "2026-09-25T01:15:52+00:00",
+      "updated_at": "2026-09-25T01:38:36+00:00",
       "network_scores": [
-        15.1
+        15.1,
+        12.1
       ],
-      "rolling_average": 15.1,
+      "rolling_average": 13.6,
       "rolling_peak": 15.1,
-      "last_score": 15.1,
+      "last_score": 12.1,
+      "z_hint": -1.5
+    },
+    "title:founder-dilemma-structured-serendipity": {
+      "title": "The founder’s dilemma: Structured serendipity",
+      "updated_at": "2026-09-25T01:38:36+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
       "z_hint": 0.0
     }
   }
