@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T18:26:20+00:00",
+  "generated_at": "2026-09-25T18:39:43+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -501,7 +501,7 @@
       "p90_usd": 113600000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T15:37:35+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -572,6 +572,23 @@
       "first_seen_at": "2026-09-03T21:22:31+00:00",
       "last_seen_at": "2026-09-03T21:30:23+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_bc9c5f80f499434948f2",
+      "title": "Changes to query results in the GitHub Actions API and UI",
+      "event_classes": [
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 11360000.0,
+      "p50_usd": 1136000000.0,
+      "p90_usd": 113600000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-25T18:39:25+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_4469274d9f642c799f53",
@@ -979,7 +996,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T05:30:29+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -1540,7 +1557,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-25T04:42:16+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -2067,7 +2084,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-25T12:51:23+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -2305,7 +2322,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-18T17:12:50+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -4464,7 +4481,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -4498,7 +4515,7 @@
       "p90_usd": 2980000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-09-25T03:09:09+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -4549,7 +4566,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -4668,7 +4685,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T09:53:09+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -4787,7 +4804,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T13:34:08+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -4872,7 +4889,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -5297,7 +5314,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T01:15:52+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -5590,6 +5607,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_0b8f55a038be7b409784",
+      "title": "Agentic autofix now uses Copilot Memory",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 122400.0,
+      "p50_usd": 12240000.0,
+      "p90_usd": 1224000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_3244f99284aefc15f5e8",
       "title": "Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから",
       "event_classes": [
@@ -5690,23 +5724,6 @@
       "first_seen_at": "2026-09-14T21:00:21+00:00",
       "last_seen_at": "2026-09-14T23:55:11+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_0b8f55a038be7b409784",
-      "title": "Agentic autofix now uses Copilot Memory",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 122400.0,
-      "p50_usd": 12240000.0,
-      "p90_usd": 1224000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-25T18:25:56+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_1dc9bdd21755f73fe1e3",
@@ -6573,7 +6590,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-25T18:25:56+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a71916846dd64406ffc2",
@@ -6674,7 +6691,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T06:37:52+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -6827,7 +6844,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T09:44:45+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -7065,7 +7082,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T18:01:52+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -7167,7 +7184,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T03:09:09+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -8204,7 +8221,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {
@@ -8374,7 +8391,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T11:20:42+00:00",
-      "last_seen_at": "2026-09-25T18:25:56+00:00",
+      "last_seen_at": "2026-09-25T18:39:25+00:00",
       "status": "active"
     },
     {

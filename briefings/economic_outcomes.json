@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T18:26:40+00:00",
+  "generated_at": "2026-09-25T18:40:04+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -500,12 +500,12 @@
     {
       "event_id": "evt_0b8f55a038be7b409784",
       "title": "Agentic autofix now uses Copilot Memory",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -6677,7 +6677,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9ee4a4eefa80fadb5a10",
@@ -7756,6 +7756,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_bc9c5f80f499434948f2",
+      "title": "Changes to query results in the GitHub Actions API and UI",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_bd256228956ce9ef99dd",
