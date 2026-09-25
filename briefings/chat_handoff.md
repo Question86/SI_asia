@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T04:26:17+00:00_
+_Generated: 2026-09-25T04:42:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `21`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-25T04:26:17+00:00_
 - url: https://jvn.jp/vu/JVNVU96941087/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 5. GoodARCH launches AI foot mapping in Malaysia with US$230K healthtech investment
+### 5. M 5.0 - 124 km N of Metinaro, Timor Leste
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-25T04:41:21.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim
+- summary: Time 2026-09-25 04:27:40 UTC 2026-09-25 04:27:40 UTC at epicenter Location 7.404°S 125.699°E Depth 10.00 km (6.21 mi)
+
+### 6. GoodARCH launches AI foot mapping in Malaysia with US$230K healthtech investment
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-25T03:36:46+00:00`
 - url: https://e27.co/goodarch-launches-ai-foot-mapping-in-malaysia-with-us230k-healthtech-investment-20260925/
 - summary: For many people, foot pain is ignored until it starts changing everyday behaviour. They walk less, avoid stairs, switch shoes, or live with knee and back discomfort that seems unrelated. GoodARCH is betting that a five-minute scan can narrow the gap between e…
 
-### 6. The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation
+### 7. The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-25T01:00:04+00:00`
 - url: https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/
 - summary: Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fal…
 
-### 7. Vision AI expands visibility across remote pipeline corridors
+### 8. Vision AI expands visibility across remote pipeline corridors
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-09-25T04:00:11+00:00`
 - url: https://e27.co/vision-ai-expands-visibility-across-remote-pipeline-corridors-20260924/
 - summary: Pipeline operators already receive large volumes of asset data, but physical activity along remote rights-of-way remains difficult to observe continuously. Vision AI is beginning to turn existing infrastructure into an additional layer of operational intellig…
-
-### 8. AI made the first draft easier. It didn’t make client decisions easier
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-09-25T03:30:48+00:00`
-- url: https://e27.co/ai-made-the-first-draft-easier-it-didnt-make-client-decisions-easier-20260924/
-- summary: A few years ago, the early stages of a video project often began almost from zero. We would talk through the client’s direction, work out a script, develop the visual approach and gradually turn a loose idea into something the client could react to. That part…
 
 END OF DOCUMENT
