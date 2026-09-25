@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-25T22:27:02+00:00",
+  "generated_at": "2026-09-25T22:37:10+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -1497,6 +1497,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_255848332fc92c7e6646",
+      "title": "M 5.1 - 78 km ENE of Tadine, New Caledonia",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_25b9c11a80e801bf6b59",
@@ -5027,7 +5038,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_7a1785d51dc511810ea5",
