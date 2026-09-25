@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T03:09:05+00:00_
+_Generiert: 2026-09-25T03:27:56+00:00_
 
 ## Kurzlage
 
@@ -37,6 +37,10 @@ _Generiert: 2026-09-25T03:09:05+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Nigeria
+- **GDACS: Green notification for tropical cyclone GONZALO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.419 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001328)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone GONZALO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.419 million in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Tonga 23/09/2026 14:41 UTC, 1 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1567678)
   - Quelle: GDACS
   - Zeit: ``

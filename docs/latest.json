@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T03:09:05+00:00",
-  "run_id": "2026-09-25T03:09:05+00:00",
+  "generated_at": "2026-09-25T03:27:56+00:00",
+  "run_id": "2026-09-25T03:27:56+00:00",
   "date": "2026-09-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
+    "new_relevant_findings": 0,
     "today_file_total": 15,
     "displayed_findings": 15,
     "high": 0,
@@ -679,115 +679,7 @@
       "id": "a8355593e98de06f2d85"
     }
   ],
-  "new_findings": [
-    {
-      "title": "baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性",
-      "url": "https://jvn.jp/jp/JVN21754394/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-25T12:00:15+09:00",
-      "fetched_at": "2026-09-25T03:08:33+00:00",
-      "summary": "baserCMSユーザー会が提供するbaserCMS用プラグイン「アドオンマイグレーター」 には、信頼できない制御領域からの機能の組み込みに関する脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cd521c2b81d46e1da987"
-    },
-    {
-      "title": "baserCMSにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN14353754/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-25T12:00:00+09:00",
-      "fetched_at": "2026-09-25T03:08:33+00:00",
-      "summary": "baserCMSユーザー会が提供するbaserCMSには複数の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d70a098913492cbe2a49"
-    },
-    {
-      "title": "AI vs agtech: How AI is revolutionising agriculture",
-      "url": "https://e27.co/ai-vs-agtech-how-ai-is-revolutionising-agriculture-20260924/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-25T03:00:31+00:00",
-      "fetched_at": "2026-09-25T03:08:33+00:00",
-      "summary": "AI technology is transforming the agricultural industry, changing how the outside world views farming and creating a data-driven system that ensures precision and maximises yields. Imagine a world where technology tells you remotely how many nutrients are lacking and how plants are showing signs of stress and so on. It’s a beautiful experience, not science […] The post AI vs agtech: How AI is revolutionising agricul…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Markets/Capital Structure"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "953ba2ecb436f81b1676"
-    },
-    {
-      "title": "古川大臣記者会見（令和8年9月25日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260925-01",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-25T03:00:19+00:00",
-      "fetched_at": "2026-09-25T03:08:33+00:00",
-      "summary": "古川大臣記者会見（令和8年9月25日）動画を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5635143074072d28ea2b"
-    },
-    {
-      "title": "「部活で褒めるのが苦手」と言う次女に「観察上手になればいい」と話した - レバテックLAB",
-      "url": "https://levtech.jp/media/detail_931/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-25T01:45:38+00:00",
-      "fetched_at": "2026-09-25T03:08:33+00:00",
-      "summary": "しんざき システムエンジニア、PM、ケーナ奏者、三児の父。南米民族音楽の演奏が趣味。仕事・育児・演奏活動の傍ら、レトロゲーム雑記ブログ「不倒城」を20年程運営している。 @shinzaki ブログ：「不倒城」 著者記事一覧 こんにちは、しんざきです。 他人を褒めるのは苦手なんですが、自分を褒めるのは正直めちゃくち...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9cf1601bfe5d953b86e2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
