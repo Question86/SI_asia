@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-25T05:14:30Z",
+  "generated_at": "2026-09-25T05:30:53Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN21754394/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T12:00:15+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN14353754/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T12:00:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU96565230/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:15+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -87,7 +87,7 @@
       "url": "https://jvn.jp/vu/JVNVU96941087/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:30+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -113,7 +113,7 @@
       "url": "https://jvn.jp/vu/JVNVU93222287/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T10:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -138,7 +138,7 @@
       "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T01:00:04+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -165,7 +165,7 @@
       "url": "https://jvn.jp/jp/JVN21754394/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T03:09:09+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -189,7 +189,7 @@
       "url": "https://jvn.jp/vu/JVNVU96941087/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T01:15:52+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -213,7 +213,7 @@
       "url": "https://jvn.jp/vu/JVNVU96565230/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-25T01:15:52+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -237,7 +237,7 @@
       "url": "https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-25T01:15:52+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -261,7 +261,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-25T04:41:21.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -282,15 +282,15 @@
       "summary": "Time 2026-09-25 04:27:40 UTC 2026-09-25 04:27:40 UTC at epicenter Location 7.404°S 125.699°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）",
-      "url": "https://jvn.jp/vu/JVNVU93222287/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 98.14,
+      "title": "M 5.0 - 124 km N of Metinaro, Timor Leste",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txim",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-25T04:42:16+00:00",
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.0,
+      "dynamics_score": 18.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -301,8 +301,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 98.1d old signal"
+        "momentum delta +3"
       ],
       "summary": ""
     }
