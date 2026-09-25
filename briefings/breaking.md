@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-25T18:39:25+00:00_
+_Generiert: 2026-09-25T18:50:12+00:00_
 
 ## Agentic autofix now uses Copilot Memory
 
@@ -19,7 +19,7 @@ _Generiert: 2026-09-25T18:39:25+00:00_
 
 ## Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung
 
-- Ranking Score: `29.66`
+- Ranking Score: `29.5`
 - Raw Network Score: `34.5`
 - Max Monitor Score: `24`
 - Reichweite: `specialist` / `2.5`
