@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-25T05:00:28+00:00_
+_Generated: 2026-09-25T05:22:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `22`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-25T05:00:28+00:00_
 - url: https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/
 - summary: Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fal…
 
-### 8. Vision AI expands visibility across remote pipeline corridors
+### 8. Same failure, better clothes: Matchmade.io on selling Indonesian finance tech in Singapore
 - source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-09-25T04:00:11+00:00`
-- url: https://e27.co/vision-ai-expands-visibility-across-remote-pipeline-corridors-20260924/
-- summary: Pipeline operators already receive large volumes of asset data, but physical activity along remote rights-of-way remains difficult to observe continuously. Vision AI is beginning to turn existing infrastructure into an additional layer of operational intellig…
+- score: `9`
+- published: `2026-09-25T05:03:30+00:00`
+- url: https://e27.co/same-failure-better-clothes-matchmade-io-on-selling-indonesian-finance-tech-in-singapore-20260925/
+- summary: There is a particular misery that visits finance departments in the last week of every month. The sales figure on the point-of-sale screen says one thing, the bank statement says another, and somebody has to explain the gap before the books close. Gilang Gibr…
 
 END OF DOCUMENT

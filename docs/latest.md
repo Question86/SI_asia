@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T05:00:28+00:00_
+_Generiert: 2026-09-25T05:22:25+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+22 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -78,14 +78,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fallen sharply since 2022. The platforms that remain — KoinWorks among the most prominent — operate inside a […] The post The KoinWorks era: What Indonesia’s SME l…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Vision AI expands visibility across remote pipeline corridors** — Score 8, observation — [Quelle](https://e27.co/vision-ai-expands-visibility-across-remote-pipeline-corridors-20260924/)
+- **Same failure, better clothes: Matchmade.io on selling Indonesian finance tech in Singapore** — Score 9, observation — [Quelle](https://e27.co/same-failure-better-clothes-matchmade-io-on-selling-indonesian-finance-tech-in-singapore-20260925/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-25T04:00:11+00:00`, fetched `2026-09-25T04:01:05+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+  - Zeit: published `2026-09-25T05:03:30+00:00`, fetched `2026-09-25T05:21:57+00:00`
+  - Treffer: APAC Trend Radar, founder
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Pipeline operators already receive large volumes of asset data, but physical activity along remote rights-of-way remains difficult to observe continuously. Vision AI is beginning to turn existing infrastructure into an additional layer of operational intelligence. Midstream operators face a problem created by the infrastructure itself: pipelines can run for hundreds of kilometres through terrain that […] The post Vi…
+  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia (+2.0)
+  - Kurz: There is a particular misery that visits finance departments in the last week of every month. The sales figure on the point-of-sale screen says one thing, the bank statement says another, and somebody has to explain the gap before the books close. Gilang Gibranthama, co-founder of Jakarta-based Matchmade.io, has built a business around that misery. […] The post Same failure, better clothes: Matchmade.io on selling I…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **メモ帳としても便利に使える「GitHub」アプリ、エンジニアだけのツールじゃない [てっぱんアプリ！]** — Score 8, observation — [Quelle](https://k-tai.watch.impress.co.jp/docs/column/teppan/2142991.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
