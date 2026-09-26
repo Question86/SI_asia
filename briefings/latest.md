@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T21:17:38+00:00_
+_Generiert: 2026-09-26T21:28:52+00:00_
 
 ## Kurzlage
 
@@ -41,10 +41,6 @@ _Generiert: 2026-09-26T21:17:38+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.6M, Depth:10km) in Vanuatu 25/09/2026 21:23 UTC, 1 thousand in MMI&gt;=V.
-- **USGS earthquake M6.6 - 80 km ENE of Tadine, New Caledonia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi)
-  - Quelle: USGS
-  - Zeit: `2026-09-25T21:23:03+00:00`
-  - Kurz: M6.6 - 80 km ENE of Tadine, New Caledonia. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:57.78km) in Papua New Guinea 26/09/2026 14:08 UTC, 170 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568187)
   - Quelle: GDACS
   - Zeit: ``
