@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T16:17:49+00:00",
-  "today_file_total": 35,
+  "generated_at": "2026-09-26T16:59:00+00:00",
+  "today_file_total": 36,
   "current_clusters": [
     {
       "key": "domain:note.com",
@@ -70,6 +70,31 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 15.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:m 5.2 - 148 km nw of kilmia, yemen:5.2",
+      "title": "M 5.2 - 148 km NW of Kilmia, Yemen",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtz"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -456,31 +481,6 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrs"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.1 - 68 km ne of tadine, new caledonia:5.1",
-      "title": "M 5.1 - 68 km NE of Tadine, New Caledonia",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrn"
       ],
       "finding_count": 1,
       "max_score": 9,
