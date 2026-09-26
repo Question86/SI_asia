@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T05:08:45+00:00_
+_Generiert: 2026-09-26T05:24:07+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 15 km NNW of Xunchang, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
+8 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 15 km NNW of Xunchang, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
 
 ## Priorität Hoch
 
@@ -61,15 +61,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AI-SQLエンジン「Quail」公開 —⁠—LLMによるデータの絞り込み⁠⁠・結合を効率化 Full Stack Data LabのShreya Shankar氏らは9月24日、Modalとの共同開発によるオープンソースのAI-SQLエンジン「Quail」を公式ブログで発表した。SQLに自然言語で条件を書き、大規模言語モデル（LLM）の判定でデータを絞り込んだり、結び付け...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Ollaya — Run decision models locally.** — Score 8, opportunity — [Quelle](https://ollaya.dev/)
+- **「AIは10億人死ぬ事態起こすほど強力だ」政府が監視をとビル・ゲイツ氏が訴え** — Score 8, observation — [Quelle](https://www.sankei.com/article/20260926-PMOV66XOCNM4TOIJDUOGL2HTIQ/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-25T22:11:27+00:00`, fetched `2026-09-26T02:56:02+00:00`
-  - Treffer: Hatena, hotentry, Open Source
+  - Zeit: published `2026-09-26T02:39:52+00:00`, fetched `2026-09-26T05:23:37+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Run decision models locally.Ask typed questions about any text or JSON and get calibrated answers in milliseconds. Private, open source, on your own hardware.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 米マイクロソフト創業者のビル・ゲイツ氏が、人工知能（AI）は「10億人の死者を出すような事態を引き起こせるほど強力だ」と警告し、政府による規制強化を訴えた。米NBCテレビのインタビューに語った内容として、同局が25日報じた。 それによると、ゲイツ氏は「悪意を持つ人間と最新のAIの組み合わせほど強力な兵器はか...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
