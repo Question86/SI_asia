@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-26T19:36:21Z_
+_Generated: 2026-09-26T19:50:07Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-25T22:11:27+00:00` / age_days `0.89`
+- Published: `2026-09-25T22:11:27+00:00` / age_days `0.9`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-26T02:56:32+00:00` / age_days `0.69`
+- Published: `2026-09-26T02:56:32+00:00` / age_days `0.7`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, early terms: local, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-23T12:27:37+00:00` / age_days `3.3`
+- Published: `2026-09-23T12:27:37+00:00` / age_days `3.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.5`
-- Published: `2026-09-26T14:47:12+00:00` / age_days `0.2`
+- Published: `2026-09-26T14:47:12+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-26T18:57:46.040+00:00` / age_days `0.03`
+- Published: `2026-09-26T18:57:46.040+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-26T11:08:17.040+00:00` / age_days `0.35`
+- Published: `2026-09-26T11:08:17.040+00:00` / age_days `0.36`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-26T06:58:05.040+00:00` / age_days `0.53`
+- Published: `2026-09-26T06:58:05.040+00:00` / age_days `0.54`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,17 +82,27 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-26T00:13:45.040+00:00` / age_days `0.81`
+- Published: `2026-09-26T00:13:45.040+00:00` / age_days `0.82`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql
+
+### M 4.7 - 5 km N of Bowangshan, China
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `18.5`
+- Published: `2026-09-26T19:09:51+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuj
 
 ### M 4.7 - North Indian Ocean
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-26T11:31:44+00:00` / age_days `0.34`
+- Published: `2026-09-26T11:31:44+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-26T07:01:53+00:00` / age_days `0.52`
+- Published: `2026-09-26T07:01:53+00:00` / age_days `0.53`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-26T00:55:10+00:00` / age_days `0.78`
+- Published: `2026-09-26T00:55:10+00:00` / age_days `0.79`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql
-
-### Claude Code クラウドセッション、使ってみて！
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-09-13T17:38:29+00:00` / age_days `13.08`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions
 
 END OF DOCUMENT
