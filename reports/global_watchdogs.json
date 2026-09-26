@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:15:27+00:00",
+  "generated_at": "2026-09-26T14:47:12+00:00",
   "sections": {
     "global_security": [
       {
@@ -110,6 +110,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:57.78km) in Papua New Guinea 26/09/2026 14:08 UTC, 170 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:57.78km) in Papua New Guinea 26/09/2026 14:08 UTC, 170 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568187",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 25/09/2026 23:39 UTC, 2 thousand in MMI IV.",
         "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 25/09/2026 23:39 UTC, 2 thousand in MMI IV.",
         "source": "GDACS",
@@ -139,13 +149,18 @@
       },
       {
         "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone SURIGAE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone SURIGAE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001327",
-        "published_at": "",
-        "metrics": {}
+        "severity": "watch",
+        "title": "USGS earthquake M5.6 - 74 km ESE of Kokopo, Papua New Guinea",
+        "summary": "M5.6 - 74 km ESE of Kokopo, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtc",
+        "published_at": "2026-09-26T14:08:17+00:00",
+        "metrics": {
+          "mag": 5.6,
+          "alert": "green",
+          "sig": 483.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
