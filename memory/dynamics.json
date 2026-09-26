@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-26T10:37:16Z",
+  "generated_at": "2026-09-26T10:49:53Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,13 +9,13 @@
       "extreme": 1,
       "krass": 1,
       "strong": 1,
-      "watch": 29,
-      "quiet": 8
+      "watch": 31,
+      "quiet": 6
     },
     "bands_after_gate_recheck": {
       "strong": 3,
-      "watch": 29,
-      "quiet": 8
+      "watch": 31,
+      "quiet": 6
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://ollaya.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T22:11:27+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "macro"
       ],
@@ -53,7 +53,7 @@
       "url": "https://ollaya.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T02:56:32+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -79,7 +79,7 @@
       "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T12:27:37+00:00",
-      "age_days": 2.92,
+      "age_days": 2.93,
       "topics": [
         "ai"
       ],
@@ -90,12 +90,12 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.1,
+      "baseline_z_hint": 4.7,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 5.10",
+        "baseline z_hint 4.70",
         "high terms: code",
         "single-source AI hype brake -8.0",
         "krass gate: single-source non-official/non-identity signal capped",
@@ -108,23 +108,23 @@
       "url": "https://note.com/npaka/n/n1d86b2196515",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 25.66,
+      "age_days": 25.67,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 19.66,
+      "dynamics_score": 19.37,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 6.63,
+      "baseline_z_hint": 6.37,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 6.63",
+        "baseline z_hint 6.37",
         "single-source AI hype brake -8.0",
         "aging penalty -1.6 for 25.7d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -136,7 +136,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T06:58:05.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -161,7 +161,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T00:13:45.040+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -186,7 +186,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T07:01:53+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -210,7 +210,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T00:55:10+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -234,7 +234,7 @@
       "url": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T17:38:29+00:00",
-      "age_days": 12.71,
+      "age_days": 12.72,
       "topics": [
         "ai"
       ],
@@ -257,11 +257,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.9 - 73 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txse",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-26T10:37:28.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-26 10:21:05 UTC 2026-09-26 10:21:05 UTC at epicenter Location 21.211°S 168.496°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.7 - 71 km ENE of Tadine, New Caledonia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:44:54.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -311,7 +336,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:27:24.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -336,7 +361,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:12:45.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -361,7 +386,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T08:42:00.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -386,7 +411,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T07:48:12.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -411,7 +436,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T07:39:42.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -436,7 +461,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T06:08:40.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -461,7 +486,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txr0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T03:06:32.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -511,7 +536,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:48:55+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -535,7 +560,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:48:55+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -559,7 +584,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:48:55+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -607,7 +632,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T08:50:25+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -631,7 +656,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T07:59:09+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -655,7 +680,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T07:44:03+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -679,7 +704,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T06:32:49+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -703,7 +728,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txr0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T03:12:25+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -727,7 +752,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T01:38:18+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -751,7 +776,7 @@
       "url": "https://www.sankei.com/article/20260926-PMOV66XOCNM4TOIJDUOGL2HTIQ/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T12:34:59+00:00",
-      "age_days": 16.92,
+      "age_days": 16.93,
       "topics": [
         "ai"
       ],
@@ -778,7 +803,7 @@
       "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T06:27:22+00:00",
-      "age_days": 2.17,
+      "age_days": 2.18,
       "topics": [
         "ai"
       ],
@@ -800,15 +825,39 @@
       "summary": "In our Notes from the Field series, Anthropic forward deployed engineers share best practices inspired by real customer deployments. In this article, we share our experience managing large code modernization projects. Code modernizations once scoped as multi-year, all-hands efforts can now finish..."
     },
     {
+      "title": "M 4.9 - 73 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txse",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-26T10:42:07+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Windows 11の更新プログラムに新機能を含めるのはもうやめた方がいいのではないか",
       "url": "https://garumax.com/windows11-update-stop-adding-features",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T22:46:17+00:00",
-      "age_days": 24.49,
+      "age_days": 24.5,
       "topics": [
         "general"
       ],
-      "dynamics_score": 12.48,
+      "dynamics_score": 12.47,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -821,34 +870,6 @@
       "why": [
         "momentum delta +3",
         "aging penalty -1.2 for 24.5d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」",
-      "url": "https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 99.36,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.05,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 5.5,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 5.50",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 99.4d old signal",
-        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -903,11 +924,39 @@
       "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? アラートが鳴った、あるいは「不正アクセスかもしれない」という一報が入った。その瞬間、自分が何を確認し、誰に連絡し、どこまでを自分の判断で動いていいのかが分からない。その..."
     },
     {
+      "title": "メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」",
+      "url": "https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 99.37,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.83,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 5.3,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 5.30",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 99.4d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Claude Code クラウドセッション、使ってみて！",
       "url": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T06:58:56+00:00",
-      "age_days": 1.15,
+      "age_days": 1.16,
       "topics": [
         "ai"
       ],
@@ -933,7 +982,7 @@
       "url": "https://sizu.me/laiso/posts/ut6i125ew44m",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T07:01:53+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -959,7 +1008,7 @@
       "url": "https://qiita.com/yasu1109/items/53b294aa9c288ace8c59",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 99.36,
+      "age_days": 99.37,
       "topics": [
         "general"
       ],
@@ -978,57 +1027,6 @@
         "aging penalty -8.0 for 99.4d old signal"
       ],
       "summary": ""
-    },
-    {
-      "title": "反AIの社会的な居場所が潰されててすげーわ",
-      "url": "https://anond.hatelabo.jp/20260926101532",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-26T03:31:02+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ローカルLLMで使えるWeb検索まとめ｜npaka",
-      "url": "https://note.com/npaka/n/n1d86b2196515",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-26T07:44:27+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ローカルLLMで使えるWeb検索をまとめました。 1. はじめに最近のローカルLLMは、Tool CallingやAIハーネスのWeb検索機能を使って、Webの最新情報を調べる能力も高くなっています。 LLM単体では学習後の最新情報を知ることはできませんが、 検索 → ページを読む → 情報を比較 → 必要なら再検索 → 回答 という仕組みを用意..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
