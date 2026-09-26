@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:40:43+00:00",
+  "generated_at": "2026-09-26T23:48:40+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 47,
@@ -131,44 +131,6 @@
       "first_seen_at": "2026-08-29T08:36:29+00:00"
     },
     {
-      "key": "title:cloudflare-jev",
-      "title": "Cloudflare 上で Jev で作るほぼ0円運用可能な高品質なページ内検索",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://zenn.dev/mazrean/articles/bd9b563ace18db"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 15.1,
-      "ranking_score": 14.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-26T23:40:43+00:00"
-    },
-    {
       "key": "domain:speakerdeck.com",
       "title": "メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」",
       "sources": [
@@ -187,18 +149,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.22,
+      "network_score": 13.19,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 15.2,
-      "ranking_score": 13.22,
+      "ranking_score": 13.19,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.72,
+      "baseline_bonus": 0.69,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -361,6 +323,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-26T14:47:12+00:00"
+    },
+    {
+      "key": "title:cloudflare-jev",
+      "title": "Cloudflare 上で Jev で作るほぼ0円運用可能な高品質なページ内検索",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://zenn.dev/mazrean/articles/bd9b563ace18db"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.1,
+      "ranking_score": 11.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-26T23:40:43+00:00"
     },
     {
       "key": "title:sql-quail-llm-gihyo",
@@ -1438,18 +1438,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 7.05,
+      "network_score": 7.02,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 9.2,
-      "ranking_score": 7.05,
+      "ranking_score": 7.02,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.55,
+      "baseline_bonus": 0.52,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1765,7 +1765,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-26T23:40:43Z",
+    "generated_at": "2026-09-26T23:48:40Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

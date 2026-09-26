@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T23:40:40+00:00",
-  "run_id": "2026-09-26T23:40:40+00:00",
+  "generated_at": "2026-09-26T23:48:37+00:00",
+  "run_id": "2026-09-26T23:48:37+00:00",
   "date": "2026-09-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 47,
     "displayed_findings": 47,
     "high": 0,
@@ -2843,30 +2843,7 @@
       "id": "2c21f436e48259275933"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Cloudflare 上で Jev で作るほぼ0円運用可能な高品質なページ内検索",
-      "url": "https://zenn.dev/mazrean/articles/bd9b563ace18db",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-26T17:18:10+00:00",
-      "fetched_at": "2026-09-26T23:40:09+00:00",
-      "summary": "自分は Go Proposal Weekly Digest というサイトを個人で運用しています。 Go 言語の Proposal と呼ばれる言語機能追加の提案を毎週 Claude Code がまとめるサイトで、公開してからそろそろ 8か月程度が立つものになります。 ありがたいことにユーザーが一定数付いて毎週 200PV 程度が安定してあるのですが、懐事情関係...",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d0fed52cb602785b807f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
