@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T03:12:22+00:00_
+_Generiert: 2026-09-26T03:30:57+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 15 km NNW of Xunchang, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
+7 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 15 km NNW of Xunchang, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
