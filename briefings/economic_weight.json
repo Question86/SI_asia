@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T02:47:53+00:00",
+  "generated_at": "2026-09-26T02:56:50+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1710,7 +1710,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-26T00:55:10+00:00",
-      "last_seen_at": "2026-09-26T02:47:35+00:00",
+      "last_seen_at": "2026-09-26T02:56:32+00:00",
       "status": "active"
     },
     {
@@ -3886,7 +3886,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-26T01:38:18+00:00",
-      "last_seen_at": "2026-09-26T02:47:35+00:00",
+      "last_seen_at": "2026-09-26T02:56:32+00:00",
       "status": "active"
     },
     {
@@ -6708,7 +6708,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T17:38:29+00:00",
-      "last_seen_at": "2026-09-26T02:47:35+00:00",
+      "last_seen_at": "2026-09-26T02:56:32+00:00",
       "status": "active"
     },
     {
@@ -10656,6 +10656,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_9e24091363deed42f602",
+      "title": "AI-SQLエンジン「Quail」公開 ——LLMによるデータの絞り込み・結合を効率化 | gihyo.jp",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 111200.0,
+      "p50_usd": 11120000.0,
+      "p90_usd": 1112000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-26T02:47:35+00:00",
+      "last_seen_at": "2026-09-26T02:56:32+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_a122b74412cb01a77bca",
       "title": "Waymo’s Singapore entry raises the stakes for autonomous mobility in Asia",
       "event_classes": [
@@ -10876,23 +10893,6 @@
       "first_seen_at": "2026-09-11T01:08:28+00:00",
       "last_seen_at": "2026-09-11T13:48:13+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_9e24091363deed42f602",
-      "title": "AI-SQLエンジン「Quail」公開 ——LLMによるデータの絞り込み・結合を効率化 | gihyo.jp",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 111200.0,
-      "p50_usd": 11120000.0,
-      "p90_usd": 1112000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-26T02:47:35+00:00",
-      "last_seen_at": "2026-09-26T02:47:35+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -12355,6 +12355,23 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_a7f17a8605f2f986d4a8",
+      "title": "Ollaya — Run decision models locally.",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-26T02:56:32+00:00",
+      "last_seen_at": "2026-09-26T02:56:32+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_050660578420f6fb8ddb",
