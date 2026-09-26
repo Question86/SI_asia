@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-26T06:49:46Z",
+  "generated_at": "2026-09-26T07:14:01Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 20,
+    "dynamics": 24,
     "bands": {
       "extreme": 1,
       "krass": 1,
       "strong": 1,
-      "watch": 11,
-      "quiet": 6
+      "watch": 13,
+      "quiet": 8
     },
     "bands_after_gate_recheck": {
       "strong": 3,
-      "watch": 11,
-      "quiet": 6
+      "watch": 13,
+      "quiet": 8
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://ollaya.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T22:11:27+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "macro"
       ],
@@ -53,7 +53,7 @@
       "url": "https://ollaya.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T02:56:32+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -79,36 +79,61 @@
       "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T12:27:37+00:00",
-      "age_days": 2.77,
+      "age_days": 2.78,
       "topics": [
         "ai"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "extreme",
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 14.5,
+      "baseline_z_hint": 10.7,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 14.50",
+        "baseline z_hint 10.70",
         "high terms: code",
         "single-source AI hype brake -8.0",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance",
+        "krass gate: single-source non-official/non-identity signal capped",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 4.6 - 25 km W of Roncesvalles, Colombia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-26T06:58:05.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-26 06:38:19 UTC 2026-09-26 06:38:19 UTC at epicenter Location 4.018°N 75.832°W Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "M 5.0 - 15 km NNW of Xunchang, China",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T00:13:45.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -133,7 +158,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T00:55:10+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -157,7 +182,7 @@
       "url": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T17:38:29+00:00",
-      "age_days": 12.55,
+      "age_days": 12.57,
       "topics": [
         "ai"
       ],
@@ -184,7 +209,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T06:08:40.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -209,7 +234,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txr0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T03:06:32.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -234,7 +259,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T01:22:16.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -259,7 +284,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txr0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T03:12:25+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -283,7 +308,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T01:38:18+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -303,11 +328,35 @@
       "summary": ""
     },
     {
+      "title": "M 4.6 - 25 km W of Roncesvalles, Colombia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-26T07:01:53+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "「AIは10億人死ぬ事態起こすほど強力だ」政府が監視をとビル・ゲイツ氏が訴え",
       "url": "https://www.sankei.com/article/20260926-PMOV66XOCNM4TOIJDUOGL2HTIQ/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T12:34:59+00:00",
-      "age_days": 16.76,
+      "age_days": 16.78,
       "topics": [
         "ai"
       ],
@@ -330,11 +379,35 @@
       "summary": ""
     },
     {
+      "title": "M 5.1 - 64 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrf",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-26T06:32:49+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "How to prepare for AI-driven code modernization projects | Claude by Anthropic",
       "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T06:27:22+00:00",
-      "age_days": 2.02,
+      "age_days": 2.03,
       "topics": [
         "ai"
       ],
@@ -356,35 +429,11 @@
       "summary": "In our Notes from the Field series, Anthropic forward deployed engineers share best practices inspired by real customer deployments. In this article, we share our experience managing large code modernization projects. Code modernizations once scoped as multi-year, all-hands efforts can now finish..."
     },
     {
-      "title": "M 5.1 - 64 km ENE of Tadine, New Caledonia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrf",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-26T06:32:49+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "AI-SQLエンジン「Quail」公開 ——LLMによるデータの絞り込み・結合を効率化 | gihyo.jp",
       "url": "https://gihyo.jp/article/2026/09/quail",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T02:47:35+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -410,7 +459,7 @@
       "url": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T06:58:56+00:00",
-      "age_days": 0.99,
+      "age_days": 1.01,
       "topics": [
         "ai"
       ],
@@ -436,7 +485,7 @@
       "url": "https://anond.hatelabo.jp/20260926101532",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T03:31:02+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -462,7 +511,7 @@
       "url": "https://www.sankei.com/article/20260926-PMOV66XOCNM4TOIJDUOGL2HTIQ/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T02:39:52+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -484,11 +533,37 @@
       "summary": "米マイクロソフト創業者のビル・ゲイツ氏が、人工知能（AI）は「10億人の死者を出すような事態を引き起こせるほど強力だ」と警告し、政府による規制強化を訴えた。米NBCテレビのインタビューに語った内容として、同局が25日報じた。 それによると、ゲイツ氏は「悪意を持つ人間と最新のAIの組み合わせほど強力な兵器はか..."
     },
     {
+      "title": "DHHはRailsを捨てたのか？｜laiso",
+      "url": "https://sizu.me/laiso/posts/ut6i125ew44m",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-26T07:01:53+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "反AIの社会的な居場所が潰されててすげーわ",
       "url": "https://anond.hatelabo.jp/20260926101532",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T01:19:22+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -514,7 +589,7 @@
       "url": "https://gihyo.jp/article/2026/09/quail",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T09:40:55+00:00",
-      "age_days": 0.88,
+      "age_days": 0.9,
       "topics": [
         "ai"
       ],
@@ -533,6 +608,31 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "AI-SQLエンジン「Quail」公開 —⁠—LLMによるデータの絞り込み⁠⁠・結合を効率化 Full Stack Data LabのShreya Shankar氏らは9月24日、Modalとの共同開発によるオープンソースのAI-SQLエンジン「Quail」を公式ブログで発表した。SQLに自然言語で条件を書き、大規模言語モデル（LLM）の判定でデータを絞り込んだり、結び付け..."
+    },
+    {
+      "title": "DHHはRailsを捨てたのか？｜laiso",
+      "url": "https://sizu.me/laiso/posts/ut6i125ew44m",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-26T05:33:53+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "DHHという、ドパガキの王みたいなインフルエンサーがいるんですけど、今週、Ruby on Railsのカンファレンス「Rails World」での講演が話題になっていました。観てない方は是非今見てください。日本語字幕もつけられます。 この講演が刺激的だったのは、Railsのカンファレンスでオリジナル作者本人がAIエージェントによる..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
