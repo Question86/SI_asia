@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-26T07:44:03+00:00",
+  "generated_at": "2026-09-26T07:59:09+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 14,
-    "clusters": 14,
+    "findings": 15,
+    "clusters": 15,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
-    "dominance_penalized": 6
+    "dominance_penalized": 7
   },
   "clusters": [
     {
@@ -28,18 +28,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 22.3,
+      "network_score": 22.14,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 19.1,
-      "ranking_score": 22.3,
+      "ranking_score": 22.14,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 3.8,
+      "baseline_bonus": 3.64,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -87,8 +87,8 @@
       "first_seen_at": "2026-09-13T17:38:29+00:00"
     },
     {
-      "key": "earthquake:m 5.0 - 84 km ene of tadine, new caledonia:5.0",
-      "title": "M 5.0 - 84 km ENE of Tadine, New Caledonia",
+      "key": "earthquake:m 5.1 - 68 km ne of tadine, new caledonia:5.1",
+      "title": "M 5.1 - 68 km NE of Tadine, New Caledonia",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -97,7 +97,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrq"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrn"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -125,7 +125,7 @@
       "dominant_emitter": true,
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-09-26T07:44:03+00:00"
+      "first_seen_at": "2026-09-26T07:59:09+00:00"
     },
     {
       "key": "title:sql-quail-llm-gihyo",
@@ -322,6 +322,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-26T02:56:32+00:00"
+    },
+    {
+      "key": "earthquake:m 5.0 - 84 km ene of tadine, new caledonia:5.0",
+      "title": "M 5.0 - 84 km ENE of Tadine, New Caledonia",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrq"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 11.7,
+      "ranking_score": 8.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-26T07:44:03+00:00"
     },
     {
       "key": "earthquake:m 5.1 - 64 km ene of tadine, new caledonia:5.1",
@@ -563,7 +604,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-26T07:44:03Z",
+    "generated_at": "2026-09-26T07:59:09Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
