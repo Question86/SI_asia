@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-26T11:24:02Z",
+  "generated_at": "2026-09-26T11:36:20Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://ollaya.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T22:11:27+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "macro"
       ],
@@ -44,7 +44,7 @@
       "url": "https://ollaya.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T02:56:32+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -81,12 +81,12 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.3,
+      "baseline_z_hint": 3.9,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.30",
+        "baseline z_hint 3.90",
         "high terms: code",
         "single-source AI hype brake -8.0",
         "krass gate: single-source non-official/non-identity signal capped",
@@ -95,39 +95,36 @@
       "summary": ""
     },
     {
-      "title": "ローカルLLMで使えるWeb検索まとめ｜npaka",
-      "url": "https://note.com/npaka/n/n1d86b2196515",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 25.7,
+      "title": "M 4.7 - North Indian Ocean",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsh",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-26T11:08:17.040+00:00",
+      "age_days": 0.02,
       "topics": [
-        "ai"
+        "disaster"
       ],
-      "dynamics_score": 19.07,
+      "dynamics_score": 19.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 6.1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 6.10",
-        "single-source AI hype brake -8.0",
-        "aging penalty -1.6 for 25.7d old signal",
-        "single-source AI cap enforced after phrase recheck"
+        "early terms: earthquake",
+        "high terms: 10"
       ],
-      "summary": ""
+      "summary": "Time 2026-09-26 10:53:15 UTC 2026-09-26 10:53:15 UTC at epicenter Location 1.831°N 89.498°E Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "M 4.6 - 25 km W of Roncesvalles, Colombia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T06:58:05.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -173,11 +170,39 @@
       "summary": "Time 2026-09-25 23:57:33 UTC 2026-09-25 23:57:33 UTC at epicenter Location 28.579°N 104.643°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "ローカルLLMで使えるWeb検索まとめ｜npaka",
+      "url": "https://note.com/npaka/n/n1d86b2196515",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 25.7,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 18.76,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 5.83,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 5.83",
+        "single-source AI hype brake -8.0",
+        "aging penalty -1.6 for 25.7d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.6 - 25 km W of Roncesvalles, Colombia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T07:01:53+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -201,7 +226,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T00:55:10+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -225,7 +250,7 @@
       "url": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T17:38:29+00:00",
-      "age_days": 12.74,
+      "age_days": 12.75,
       "topics": [
         "ai"
       ],
@@ -252,7 +277,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txse",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T10:37:28.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -277,31 +302,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:44:54.040+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-09-26 09:07:19 UTC 2026-09-26 09:07:19 UTC at epicenter Location 21.237°S 168.487°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.8 - 78 km ENE of Tadine, New Caledonia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs3",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-26T09:31:20.040+00:00",
       "age_days": 0.08,
       "topics": [
         "disaster"
@@ -320,7 +320,7 @@
         "early terms: earthquake",
         "high terms: 10"
       ],
-      "summary": "Time 2026-09-26 09:10:31 UTC 2026-09-26 09:10:31 UTC at epicenter Location 21.182°S 168.530°E Depth 10.00 km (6.21 mi)"
+      "summary": "Time 2026-09-26 09:07:19 UTC 2026-09-26 09:07:19 UTC at epicenter Location 21.237°S 168.487°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
