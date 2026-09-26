@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T12:35:34+00:00",
-  "today_file_total": 28,
+  "generated_at": "2026-09-26T12:49:21+00:00",
+  "today_file_total": 29,
   "current_clusters": [
     {
       "key": "domain:claude.com",
@@ -51,8 +51,8 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 5.2 - 79 km ne of tadine, new caledonia:5.2",
-      "title": "M 5.2 - 79 km NE of Tadine, New Caledonia",
+      "key": "earthquake:m 5.2 - 58 km ne of tadine, new caledonia:5.2",
+      "title": "M 5.2 - 58 km NE of Tadine, New Caledonia",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -60,7 +60,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsz"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txt0"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -218,6 +218,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 5.2 - 79 km ne of tadine, new caledonia:5.2",
+      "title": "M 5.2 - 79 km NE of Tadine, New Caledonia",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsz"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 4.9 - 73 km ene of tadine, new caledonia:4.9",
@@ -455,31 +480,6 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txr0"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.3 - 58 km ene of tadine, new caledonia:5.3",
-      "title": "M 5.3 - 58 km ENE of Tadine, New Caledonia",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu"
       ],
       "finding_count": 1,
       "max_score": 9,
