@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T09:49:22+00:00",
-  "candidate_count": 1119,
+  "generated_at": "2026-09-26T09:56:44+00:00",
+  "candidate_count": 1120,
   "candidates": [
     {
       "amount_native": 1755400000000.0,
@@ -22999,6 +22999,24 @@
       "snippet": "core の値は各レベルの確率で重み付けした期待値です。レベル番号そのものではなく、上の例なら 1.05 のような小数が返ります。 公開直後からここまで注目された理由 公開から1週間でここまで盛り上がった理由は、大きく5つに整理できます。 1. 速度と価格の桁が違う 項目 Jev（公称値） レイテンシ 70〜500ms（多くは100ms前後） 入力トークン $0.042 / 100万トークン 出力トークン 無料 対LLM比（速度） 40〜200倍速い 対LLM比（コスト） 入力単価で約5〜240倍安い。自社ワークフロー評価では最大444.6倍安い なお、この倍率は仕分けや採点といった、同社が「System Oneタスク」と呼ぶ用途での比較です。文章を書く速さの話ではありません。 出力トークンが無料なのはLLMの常識からする",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://zenn.dev/unsoluble_sugar/articles/jev-system-one-model-intro"
+    },
+    {
+      "candidate_id": "cand_5765e1023d30afdbdf51",
+      "event_id": "evt_2e9d9ec03302056d3575",
+      "source_url": "https://note.com/npaka/n/n1d86b2196515",
+      "observed_at": "2026-09-26T09:56:39+00:00",
+      "currency": "USD",
+      "amount_native": 0.005,
+      "amount_usd": 0.005,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_2e9d9ec03302056d3575:unclassified",
+      "attribution_probability": null,
+      "snippet": "索APIです。 検索キーワードだけでなく「何を調べたいのか」という目的も渡すことができ、結果はLLMが読みやすい 圧縮された抜粋 として返されます。 ・AIエージェント向けWeb検索 ・検索目的 + キーワードを指定 ・Webページ本文取得 ・LLM向けに圧縮した検索結果 ・Deep Research系APIも提供 Search APIは 1回$0.001〜$0.005 で、毎月$5分の無料クレジットが提供されています。最安のTurboモードなら、 最大5,000回/月 の検索に相当します。 高速・低コストなエージェント向け検索 として注目されているサービスです。 2-6. Perplexity Search API 「 Perplexity Search API 」は、PerplexityのWeb検索部分をAPIとして利用",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 0.0002,

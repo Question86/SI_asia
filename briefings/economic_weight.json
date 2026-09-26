@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T09:49:13+00:00",
+  "generated_at": "2026-09-26T09:56:38+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1710,7 +1710,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-26T00:55:10+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -2475,7 +2475,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-26T07:01:53+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -2968,7 +2968,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-26T07:44:03+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -3295,6 +3295,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_5df51e3ec5bf0992380a",
+      "title": "M 4.8 - 97 km NE of Tadine, New Caledonia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_5dfd470eaa06a58ab60a",
       "title": "M 4.9 - 86 km SSW of Isangel, Vanuatu",
       "event_classes": [
@@ -3393,7 +3410,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-26T03:12:25+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -3478,7 +3495,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-26T06:32:49+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -3720,6 +3737,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8c12eda8e4d3d2db8c9c",
+      "title": "M 4.8 - 78 km ENE of Tadine, New Caledonia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_8c1d2b7c4b74541eb344",
       "title": "M 4.9 - northern Mid-Atlantic Ridge",
       "event_classes": [
@@ -3771,6 +3805,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8e0b4471e911cc258778",
+      "title": "M 4.7 - 71 km ENE of Tadine, New Caledonia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_8ef7dc22a0204f2e2058",
       "title": "M 5.1 - 68 km NE of Tadine, New Caledonia",
       "event_classes": [
@@ -3784,7 +3835,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-26T07:59:09+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -3971,7 +4022,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-26T01:38:18+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -4617,7 +4668,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-26T08:50:25+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -4702,7 +4753,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-26T09:16:37+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -4721,57 +4772,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_8e0b4471e911cc258778",
-      "title": "M 4.7 - 71 km ENE of Tadine, New Caledonia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-26T09:48:55+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_8c12eda8e4d3d2db8c9c",
-      "title": "M 4.8 - 78 km ENE of Tadine, New Caledonia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-26T09:48:55+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_5df51e3ec5bf0992380a",
-      "title": "M 4.8 - 97 km NE of Tadine, New Caledonia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-26T09:48:55+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -6572,7 +6572,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-26T06:32:49+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -6895,7 +6895,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T17:38:29+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -10635,7 +10635,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T10:25:43+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -10856,7 +10856,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-26T02:47:35+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -12081,7 +12081,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-26T02:56:32+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -14376,8 +14376,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-20T22:30:17+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_3798464737d06de06243",
@@ -14461,7 +14461,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -15481,7 +15481,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-26T07:01:53+00:00",
-      "last_seen_at": "2026-09-26T09:48:55+00:00",
+      "last_seen_at": "2026-09-26T09:56:21+00:00",
       "status": "active"
     },
     {
@@ -15771,7 +15771,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-26T03:31:02+00:00",
       "last_seen_at": "2026-09-26T09:48:55+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d261ec3bccdfcf970e31",
