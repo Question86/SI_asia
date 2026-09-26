@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-26T11:36:20Z",
+  "generated_at": "2026-09-26T12:18:56Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,13 +9,13 @@
       "extreme": 1,
       "krass": 1,
       "strong": 1,
-      "watch": 33,
-      "quiet": 4
+      "watch": 35,
+      "quiet": 2
     },
     "bands_after_gate_recheck": {
       "strong": 3,
-      "watch": 33,
-      "quiet": 4
+      "watch": 35,
+      "quiet": 2
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://ollaya.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T22:11:27+00:00",
-      "age_days": 0.56,
+      "age_days": 0.59,
       "topics": [
         "macro"
       ],
@@ -53,7 +53,7 @@
       "url": "https://ollaya.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T02:56:32+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -79,26 +79,25 @@
       "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T12:27:37+00:00",
-      "age_days": 2.96,
+      "age_days": 2.99,
       "topics": [
         "ai"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "krass",
+      "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 3.9,
+      "baseline_z_hint": 2.3,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 3.90",
+        "baseline z_hint 2.30",
         "high terms: code",
         "single-source AI hype brake -8.0",
-        "krass gate: single-source non-official/non-identity signal capped",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -108,7 +107,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T11:08:17.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -133,7 +132,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T06:58:05.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -158,7 +157,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T00:13:45.040+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -179,30 +178,26 @@
       "summary": "Time 2026-09-25 23:57:33 UTC 2026-09-25 23:57:33 UTC at epicenter Location 28.579°N 104.643°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "ローカルLLMで使えるWeb検索まとめ｜npaka",
-      "url": "https://note.com/npaka/n/n1d86b2196515",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 25.7,
+      "title": "M 4.7 - North Indian Ocean",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsh",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-26T11:31:44+00:00",
+      "age_days": 0.03,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 18.76,
+      "dynamics_score": 18.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.83,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 5.83",
-        "single-source AI hype brake -8.0",
-        "aging penalty -1.6 for 25.7d old signal",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -211,7 +206,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T07:01:53+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -235,7 +230,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T00:55:10+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -255,11 +250,39 @@
       "summary": ""
     },
     {
+      "title": "ローカルLLMで使えるWeb検索まとめ｜npaka",
+      "url": "https://note.com/npaka/n/n1d86b2196515",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 25.73,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 17.59,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 4.77,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 4.77",
+        "single-source AI hype brake -8.0",
+        "aging penalty -1.7 for 25.7d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Claude Code クラウドセッション、使ってみて！",
       "url": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T17:38:29+00:00",
-      "age_days": 12.75,
+      "age_days": 12.78,
       "topics": [
         "ai"
       ],
@@ -286,7 +309,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txse",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T10:37:28.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -311,7 +334,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:44:54.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -336,7 +359,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:31:20.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -361,7 +384,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:27:24.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -386,7 +409,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:12:45.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -411,7 +434,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T08:42:00.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -436,7 +459,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T07:48:12.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -461,7 +484,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T07:39:42.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -486,7 +509,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T06:08:40.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -511,7 +534,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txr0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T03:06:32.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -536,7 +559,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T01:22:16.040+00:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -557,11 +580,35 @@
       "summary": "Time 2026-09-26 01:10:19 UTC 2026-09-26 01:10:19 UTC at epicenter Location 21.288°S 168.372°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.9 - 73 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txse",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-26T10:42:07+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.7 - 71 km ENE of Tadine, New Caledonia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:48:55+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -585,7 +632,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:48:55+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -609,7 +656,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:48:55+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -633,7 +680,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:16:37+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -657,7 +704,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T08:50:25+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -681,7 +728,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T07:59:09+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -705,7 +752,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T07:44:03+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -729,7 +776,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T06:32:49+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -753,7 +800,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txr0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T03:12:25+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -777,7 +824,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T01:38:18+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -797,35 +844,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.7 - North Indian Ocean",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsh",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-26T11:31:44+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "「AIは10億人死ぬ事態起こすほど強力だ」政府が監視をとビル・ゲイツ氏が訴え",
       "url": "https://www.sankei.com/article/20260926-PMOV66XOCNM4TOIJDUOGL2HTIQ/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T12:34:59+00:00",
-      "age_days": 16.96,
+      "age_days": 16.99,
       "topics": [
         "ai"
       ],
@@ -848,11 +871,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.9 - 73 km ENE of Tadine, New Caledonia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txse",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-26T10:42:07+00:00",
-      "age_days": 0.04,
+      "title": "妻がベビーカーを押しているときは、変なジジイに絡まれたりババアになれ..",
+      "url": "https://anond.hatelabo.jp/20260926111613",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-26T11:40:55+00:00",
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -862,12 +885,12 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -876,7 +899,7 @@
       "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T06:27:22+00:00",
-      "age_days": 2.21,
+      "age_days": 2.24,
       "topics": [
         "ai"
       ],
@@ -902,11 +925,11 @@
       "url": "https://garumax.com/windows11-update-stop-adding-features",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T22:46:17+00:00",
-      "age_days": 24.53,
+      "age_days": 24.56,
       "topics": [
         "general"
       ],
-      "dynamics_score": 12.46,
+      "dynamics_score": 12.45,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -918,7 +941,33 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -1.2 for 24.5d old signal"
+        "aging penalty -1.2 for 24.6d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Docker、AIコーディングエージェント向けの公式スキル「Docker Skills」を公開 | gihyo.jp",
+      "url": "https://gihyo.jp/article/2026/09/docker-skills",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-26T10:57:38+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -927,7 +976,7 @@
       "url": "https://gihyo.jp/article/2026/09/quail",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T02:47:35+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -953,7 +1002,7 @@
       "url": "https://qiita.com/yasu1109/items/53b294aa9c288ace8c59",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T03:32:28+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -971,60 +1020,6 @@
         "high terms: 10"
       ],
       "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? アラートが鳴った、あるいは「不正アクセスかもしれない」という一報が入った。その瞬間、自分が何を確認し、誰に連絡し、どこまでを自分の判断で動いていいのかが分からない。その..."
-    },
-    {
-      "title": "メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」",
-      "url": "https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 99.4,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 9.39,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 4.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 4.90",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 99.4d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Claude Code クラウドセッション、使ってみて！",
-      "url": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-25T06:58:56+00:00",
-      "age_days": 1.19,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "はじめに Claude Code クラウドセッション、使っていますか？実は、ふだんの対話のセッションもそのままクラウドで動かせます！ クラウドセッションは、Claude CodeをAnthropicのクラウドで動かす機能です。PCやアプリ、ブラウザを閉じても処理が止まらず、Desktopアプリやブラウザ、スマホのどこからでも同じセッション..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
