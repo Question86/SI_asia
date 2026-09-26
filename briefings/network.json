@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-26T09:16:37+00:00",
+  "generated_at": "2026-09-26T09:48:55+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 18,
-    "clusters": 18,
+    "findings": 21,
+    "clusters": 21,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
-    "dominance_penalized": 9
+    "dominance_penalized": 12
   },
   "clusters": [
     {
@@ -28,18 +28,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.34,
+      "network_score": 21.18,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 19.1,
-      "ranking_score": 21.34,
+      "ranking_score": 21.18,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.84,
+      "baseline_bonus": 2.68,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -87,8 +87,8 @@
       "first_seen_at": "2026-09-13T17:38:29+00:00"
     },
     {
-      "key": "earthquake:m 4.7 - 97 km ne of tadine, new caledonia:4.7",
-      "title": "M 4.7 - 97 km NE of Tadine, New Caledonia",
+      "key": "earthquake:m 4.7 - 71 km ene of tadine, new caledonia:4.7",
+      "title": "M 4.7 - 71 km ENE of Tadine, New Caledonia",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -97,7 +97,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrz"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs6"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -125,7 +125,89 @@
       "dominant_emitter": true,
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-09-26T09:16:37+00:00"
+      "first_seen_at": "2026-09-26T09:48:55+00:00"
+    },
+    {
+      "key": "earthquake:m 4.8 - 78 km ene of tadine, new caledonia:4.8",
+      "title": "M 4.8 - 78 km ENE of Tadine, New Caledonia",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs3"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 14.7,
+      "ranking_score": 10.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-26T09:48:55+00:00"
+    },
+    {
+      "key": "earthquake:m 4.8 - 97 km ne of tadine, new caledonia:4.8",
+      "title": "M 4.8 - 97 km NE of Tadine, New Caledonia",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs2"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 14.7,
+      "ranking_score": 10.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-26T09:48:55+00:00"
     },
     {
       "key": "title:sql-quail-llm-gihyo",
@@ -322,6 +404,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-26T02:56:32+00:00"
+    },
+    {
+      "key": "earthquake:m 4.7 - 97 km ne of tadine, new caledonia:4.7",
+      "title": "M 4.7 - 97 km NE of Tadine, New Caledonia",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrz"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 11.7,
+      "ranking_score": 8.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-26T09:16:37+00:00"
     },
     {
       "key": "earthquake:m 5.0 - 78 km ene of tadine, new caledonia:5.0",
@@ -724,7 +847,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-26T09:16:37Z",
+    "generated_at": "2026-09-26T09:48:55Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
