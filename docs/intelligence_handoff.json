@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-26T01:34:47Z",
+  "generated_at": "2026-09-26T01:57:39Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.0 - 15 km NNW of Xunchang, China” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T00:13:45.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -36,11 +36,35 @@
       "summary": "Time 2026-09-25 23:57:33 UTC 2026-09-25 23:57:33 UTC at epicenter Location 28.579°N 104.643°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.0 - 15 km NNW of Xunchang, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-26T00:55:10+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Claude Code クラウドセッション、使ってみて！",
       "url": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T17:38:29+00:00",
-      "age_days": 12.33,
+      "age_days": 12.35,
       "topics": [
         "ai"
       ],
@@ -63,18 +87,43 @@
       "summary": ""
     },
     {
-      "title": "M 5.0 - 15 km NNW of Xunchang, China",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
+      "title": "M 5.3 - 58 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-26T00:55:10+00:00",
-      "age_days": 0.03,
+      "published_at": "2026-09-26T01:22:16.040+00:00",
+      "age_days": 0.02,
       "topics": [
-        "general"
+        "disaster"
       ],
-      "dynamics_score": 13.5,
+      "dynamics_score": 17.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-26 01:10:19 UTC 2026-09-26 01:10:19 UTC at epicenter Location 21.288°S 168.372°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 5.3 - 58 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-26T01:38:18+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 1,
@@ -91,7 +140,7 @@
       "url": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T06:58:56+00:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -122,8 +171,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "watch": 3,
-      "quiet": 1
+      "watch": 4,
+      "quiet": 2
     }
   }
 }
