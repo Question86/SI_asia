@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T13:33:29+00:00",
-  "run_id": "2026-09-26T13:33:29+00:00",
+  "generated_at": "2026-09-26T13:42:12+00:00",
+  "run_id": "2026-09-26T13:42:12+00:00",
   "date": "2026-09-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 31,
     "displayed_findings": 31,
     "high": 0,
@@ -1887,29 +1887,7 @@
       "id": "2c21f436e48259275933"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ナッツを多く食べる人、認知テストで高成績の傾向 豪州チームが1700人以上を分析",
-      "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001711/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-26T03:35:04+00:00",
-      "fetched_at": "2026-09-26T13:32:59+00:00",
-      "summary": "研究チームは、アメリカの健康調査「フラミンガム心臓研究」（FHS）のデータを用い、参加者を脳卒中の経験がないグループと脳卒中生存者のグループに分け、過去の食事データに基づくナッツの平均摂取量と、認知機能のテスト結果、MRIで測定した脳の体積、血液中に含まれる脳神経を保護する成分「BDNF」「VEGF」との関係...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1bf29b0335688bbb8af6"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
