@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T03:12:46+00:00",
+  "generated_at": "2026-09-26T03:31:26+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -4097,12 +4097,12 @@
     {
       "event_id": "evt_654f9319b1fedb1022e2",
       "title": "M 4.5 - Iceland region",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -8658,6 +8658,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d21040fbd1d16af9ac8d",
+      "title": "反AIの社会的な居場所が潰されててすげーわ",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_d2121efc4df84b52774b",
