@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-26T01:11:05Z_
+_Generated: 2026-09-26T01:34:47Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.0 - 15 km NNW of Xunchang, China” 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-26T00:13:45.040+00:00` / age_days `0.04`
+- Published: `2026-09-26T00:13:45.040+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.0 - 15 km NNW of Xunchang, China” 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-13T17:38:29+00:00` / age_days `12.31`
+- Published: `2026-09-13T17:38:29+00:00` / age_days `12.33`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -31,8 +31,8 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.0 - 15 km NNW of Xunchang, China” 
 ### M 5.0 - 15 km NNW of Xunchang, China
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `15.4`
-- Published: `2026-09-26T00:55:10+00:00` / age_days `0.01`
+- Dynamics score: `13.5`
+- Published: `2026-09-26T00:55:10+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.0 - 15 km NNW of Xunchang, China” 
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-09-25T06:58:56+00:00` / age_days `0.76`
+- Published: `2026-09-25T06:58:56+00:00` / age_days `0.77`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
