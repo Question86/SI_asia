@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T11:40:52+00:00",
-  "run_id": "2026-09-26T11:40:52+00:00",
+  "generated_at": "2026-09-26T11:49:00+00:00",
+  "run_id": "2026-09-26T11:49:00+00:00",
   "date": "2026-09-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 27,
     "displayed_findings": 27,
     "high": 0,
@@ -1659,29 +1659,7 @@
       "id": "2c21f436e48259275933"
     }
   ],
-  "new_findings": [
-    {
-      "title": "妻がベビーカーを押しているときは、変なジジイに絡まれたりババアになれ..",
-      "url": "https://anond.hatelabo.jp/20260926111613",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-26T02:19:48+00:00",
-      "fetched_at": "2026-09-26T11:40:22+00:00",
-      "summary": "妻がベビーカーを押しているときは、変なジジイに絡まれたりババアになれなれしくされたりして嫌、ということを言う 俺がベビーカーを押しているときは、特にそんな奴はいないし、エレベーターも道もみんな譲ってくれる これ、思うに、男女差もあるのよね 女性の場合、未婚であればちやほや大事にされるのに、ベビーカー...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3517bb563be6dd8e0026"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
