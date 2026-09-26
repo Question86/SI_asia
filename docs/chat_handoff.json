@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-26T19:55:29+00:00",
+  "generated_at": "2026-09-26T20:05:33+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 1,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
-    "medium": 2,
+    "medium": 3,
     "observe": 37
   },
   "source_errors_count": 0,
@@ -22,6 +22,16 @@
       "relevance_score": 17,
       "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
       "summary": "In our Notes from the Field series, Anthropic forward deployed engineers share best practices inspired by real customer deployments. In this article, we share our experience managing large code modernization projects. Code modernizations once scoped as multi-…",
+      "section": "medium"
+    },
+    {
+      "title": "M 5.0 - 52 km NNW of Ruteng, Indonesia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-26T19:54:46.040+00:00",
+      "relevance_score": 15,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txur",
+      "summary": "Time 2026-09-26 19:37:01 UTC 2026-09-26 19:37:01 UTC at epicenter Location 8.158°S 120.329°E Depth 10.00 km (6.21 mi)",
       "section": "medium"
     },
     {
