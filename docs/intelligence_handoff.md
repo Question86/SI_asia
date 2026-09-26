@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-26T14:39:24Z_
+_Generated: 2026-09-26T14:49:56Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-26T02:56:32+00:00` / age_days `0.49`
+- Published: `2026-09-26T02:56:32+00:00` / age_days `0.5`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, early terms: local, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-23T12:27:37+00:00` / age_days `3.09`
+- Published: `2026-09-23T12:27:37+00:00` / age_days `3.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-26T06:58:05.040+00:00` / age_days `0.32`
+- Published: `2026-09-26T06:58:05.040+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-26T00:13:45.040+00:00` / age_days `0.6`
+- Published: `2026-09-26T00:13:45.040+00:00` / age_days `0.61`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-26T11:31:44+00:00` / age_days `0.13`
+- Published: `2026-09-26T11:31:44+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-26T07:01:53+00:00` / age_days `0.32`
+- Published: `2026-09-26T07:01:53+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,11 +92,21 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-26T00:55:10+00:00` / age_days `0.57`
+- Published: `2026-09-26T00:55:10+00:00` / age_days `0.58`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql
+
+### M 5.6 - 74 km ESE of Kokopo, Papua New Guinea
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.4`
+- Published: `2026-09-26T14:47:12+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtc
 
 ### Claude Code クラウドセッション、使ってみて！
 
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-26T12:42:17.040+00:00` / age_days `0.08`
+- Published: `2026-09-26T12:42:17.040+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txt0
-
-### M 5.2 - 79 km NE of Tadine, New Caledonia
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-09-26T12:31:43.040+00:00` / age_days `0.09`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsz
 
 END OF DOCUMENT
