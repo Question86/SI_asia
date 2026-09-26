@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T01:55:20+00:00",
+  "generated_at": "2026-09-26T02:05:32+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -30423,7 +30423,7 @@
     },
     "title:claude-code": {
       "title": "Claude Code クラウドセッション、使ってみて！",
-      "updated_at": "2026-09-26T01:55:20+00:00",
+      "updated_at": "2026-09-26T02:05:32+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -30437,7 +30437,6 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         16.1,
         13.1,
         13.1,
@@ -30451,15 +30450,16 @@
         13.1,
         13.1,
         16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
         13.1
       ],
-      "rolling_average": 15.47,
+      "rolling_average": 15.3,
       "rolling_peak": 18.1,
       "last_score": 13.1,
-      "z_hint": -2.37
+      "z_hint": -2.2
     },
     "earthquake:m 4.9 - 86 km ssw of isangel, vanuatu:4.9": {
       "title": "M 4.9 - 86 km SSW of Isangel, Vanuatu",
@@ -48948,29 +48948,31 @@
     },
     "earthquake:m 5.0 - 15 km nnw of xunchang, china:5.0": {
       "title": "M 5.0 - 15 km NNW of Xunchang, China",
-      "updated_at": "2026-09-26T01:55:20+00:00",
+      "updated_at": "2026-09-26T02:05:32+00:00",
       "network_scores": [
         16.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 14.45,
+      "rolling_average": 14.3,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "earthquake:m 5.3 - 58 km ene of tadine, new caledonia:5.3": {
       "title": "M 5.3 - 58 km ENE of Tadine, New Caledonia",
-      "updated_at": "2026-09-26T01:55:20+00:00",
+      "updated_at": "2026-09-26T02:05:32+00:00",
       "network_scores": [
         14.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 13.2,
+      "rolling_average": 12.7,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -1.5
+      "z_hint": -1.0
     }
   }
 }
