@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T07:01:49+00:00_
+_Generiert: 2026-09-26T07:22:42+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation).
+13 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,14 +41,14 @@ _Generiert: 2026-09-26T07:01:49+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.6M, Depth:10km) in Vanuatu 25/09/2026 21:23 UTC, 1 thousand in MMI&gt;=V.
-- **GDACS: Green flood alert in Argentina** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104192)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Argentina
 - **GDACS: Green flood alert in Chile** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104190)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Chile
+- **GDACS: Green flood alert in Argentina** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104192)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Argentina
 - **USGS earthquake M6.6 - 80 km ENE of Tadine, New Caledonia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpi)
   - Quelle: USGS
   - Zeit: `2026-09-25T21:23:03+00:00`
