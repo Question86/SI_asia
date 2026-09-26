@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-26T14:54:32+00:00",
-  "run_id": "2026-09-26T14:54:32+00:00",
+  "generated_at": "2026-09-26T15:02:11+00:00",
+  "run_id": "2026-09-26T15:02:11+00:00",
   "date": "2026-09-26",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 33
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 1,
     "observe": 32,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -2036,14 +2036,7 @@
     }
   ],
   "new_findings": [],
-  "source_errors": [
-    {
-      "source_id": "bis_statistics",
-      "source_name": "BIS Statistical Releases",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
