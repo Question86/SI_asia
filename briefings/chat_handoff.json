@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-26T08:40:56+00:00",
+  "generated_at": "2026-09-26T08:50:21+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 1,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 1,
-    "observe": 14
+    "observe": 15
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,13 +55,13 @@
       "section": "observe"
     },
     {
-      "title": "M 5.1 - 68 km NE of Tadine, New Caledonia",
+      "title": "M 5.0 - 78 km ENE of Tadine, New Caledonia",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-26T07:48:12.040+00:00",
+      "published_at": "2026-09-26T08:42:00.040+00:00",
       "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrn",
-      "summary": "Time 2026-09-26 07:08:02 UTC 2026-09-26 07:08:02 UTC at epicenter Location 21.194°S 168.423°E Depth 10.00 km (6.21 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrs",
+      "summary": "Time 2026-09-26 08:24:58 UTC 2026-09-26 08:24:58 UTC at epicenter Location 21.212°S 168.548°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],
