@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T07:02:45+00:00",
+  "generated_at": "2026-09-26T07:23:03+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1710,7 +1710,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-26T00:55:10+00:00",
-      "last_seen_at": "2026-09-26T07:01:53+00:00",
+      "last_seen_at": "2026-09-26T07:22:46+00:00",
       "status": "active"
     },
     {
@@ -2462,6 +2462,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_cbe8ed457c7aa8260eca",
+      "title": "M 4.6 - 25 km W of Roncesvalles, Colombia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-26T07:01:53+00:00",
+      "last_seen_at": "2026-09-26T07:22:46+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_cf1c73144c6d821574a9",
       "title": "M 4.9 - 20 km SSW of Sipí, Colombia",
       "event_classes": [
@@ -2630,23 +2647,6 @@
       "first_seen_at": "2026-08-29T11:40:09+00:00",
       "last_seen_at": "2026-08-29T23:58:25+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_cbe8ed457c7aa8260eca",
-      "title": "M 4.6 - 25 km W of Roncesvalles, Colombia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-26T07:01:53+00:00",
-      "last_seen_at": "2026-09-26T07:01:53+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_058a0e17878f3797ed5c",
@@ -3376,7 +3376,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-26T03:12:25+00:00",
-      "last_seen_at": "2026-09-26T07:01:53+00:00",
+      "last_seen_at": "2026-09-26T07:22:46+00:00",
       "status": "active"
     },
     {
@@ -3461,7 +3461,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-26T06:32:49+00:00",
-      "last_seen_at": "2026-09-26T07:01:53+00:00",
+      "last_seen_at": "2026-09-26T07:22:46+00:00",
       "status": "active"
     },
     {
@@ -3937,7 +3937,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-26T01:38:18+00:00",
-      "last_seen_at": "2026-09-26T07:01:53+00:00",
+      "last_seen_at": "2026-09-26T07:22:46+00:00",
       "status": "active"
     },
     {
@@ -6453,7 +6453,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-26T06:32:49+00:00",
-      "last_seen_at": "2026-09-26T07:01:53+00:00",
+      "last_seen_at": "2026-09-26T07:22:46+00:00",
       "status": "active"
     },
     {
@@ -6776,7 +6776,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T17:38:29+00:00",
-      "last_seen_at": "2026-09-26T07:01:53+00:00",
+      "last_seen_at": "2026-09-26T07:22:46+00:00",
       "status": "active"
     },
     {
@@ -10516,7 +10516,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T10:25:43+00:00",
-      "last_seen_at": "2026-09-26T07:01:53+00:00",
+      "last_seen_at": "2026-09-26T07:22:46+00:00",
       "status": "active"
     },
     {
@@ -10737,7 +10737,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-26T02:47:35+00:00",
-      "last_seen_at": "2026-09-26T07:01:53+00:00",
+      "last_seen_at": "2026-09-26T07:22:46+00:00",
       "status": "active"
     },
     {
@@ -11962,7 +11962,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-26T02:56:32+00:00",
-      "last_seen_at": "2026-09-26T07:01:53+00:00",
+      "last_seen_at": "2026-09-26T07:22:46+00:00",
       "status": "active"
     },
     {
@@ -15349,6 +15349,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ae64ac9919c8519d8fd3",
+      "title": "DHHはRailsを捨てたのか？｜laiso",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-26T07:01:53+00:00",
+      "last_seen_at": "2026-09-26T07:22:46+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_afb1070a2882202d2354",
       "title": "「頭脳だけで正解を探したら、AIに大敗する」川邊健太郎が旅と“ヒュー！”に見いだすもの - エンジニアtype | 転職type",
       "event_classes": [
@@ -15430,8 +15447,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.297,
       "first_seen_at": "2026-09-06T13:20:14+00:00",
-      "last_seen_at": "2026-09-06T19:25:20+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-26T07:22:46+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_be6f9a5fe86fe17df92f",
@@ -15634,7 +15651,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-26T03:31:02+00:00",
-      "last_seen_at": "2026-09-26T07:01:53+00:00",
+      "last_seen_at": "2026-09-26T07:22:46+00:00",
       "status": "active"
     },
     {
@@ -16180,23 +16197,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_ae64ac9919c8519d8fd3",
-      "title": "DHHはRailsを捨てたのか？｜laiso",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-26T07:01:53+00:00",
-      "last_seen_at": "2026-09-26T07:01:53+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
