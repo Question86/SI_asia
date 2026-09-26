@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-26T10:49:53Z",
+  "generated_at": "2026-09-26T11:11:44Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://ollaya.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T22:11:27+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "macro"
       ],
@@ -44,7 +44,7 @@
       "url": "https://ollaya.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T02:56:32+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -70,7 +70,7 @@
       "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T12:27:37+00:00",
-      "age_days": 2.93,
+      "age_days": 2.95,
       "topics": [
         "ai"
       ],
@@ -81,12 +81,12 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.7,
+      "baseline_z_hint": 4.3,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.70",
+        "baseline z_hint 4.30",
         "high terms: code",
         "single-source AI hype brake -8.0",
         "krass gate: single-source non-official/non-identity signal capped",
@@ -99,23 +99,23 @@
       "url": "https://note.com/npaka/n/n1d86b2196515",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 25.67,
+      "age_days": 25.69,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 19.37,
+      "dynamics_score": 19.07,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 6.37,
+      "baseline_z_hint": 6.1,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 6.37",
+        "baseline z_hint 6.10",
         "single-source AI hype brake -8.0",
         "aging penalty -1.6 for 25.7d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -127,7 +127,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T06:58:05.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -152,7 +152,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T00:13:45.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -177,7 +177,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T07:01:53+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -201,7 +201,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T00:55:10+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -225,7 +225,7 @@
       "url": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T17:38:29+00:00",
-      "age_days": 12.72,
+      "age_days": 12.73,
       "topics": [
         "ai"
       ],
@@ -252,7 +252,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txse",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T10:37:28.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -277,7 +277,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:44:54.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -302,7 +302,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txs3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T09:31:20.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
