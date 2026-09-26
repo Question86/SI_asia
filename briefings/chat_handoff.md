@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-26T18:56:59+00:00_
+_Generated: 2026-09-26T19:09:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `38`
+- findings: `39`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-09-26T18:56:59+00:00_
 - url: https://note.com/npaka/n/n1d86b2196515
 - summary: ローカルLLMで使えるWeb検索をまとめました。 1. はじめに最近のローカルLLMは、Tool CallingやAIハーネスのWeb検索機能を使って、Webの最新情報を調べる能力も高くなっています。 LLM単体では学習後の最新情報を知ることはできませんが、 検索 → ページを読む → 情報を比較 → 必要なら再検索 → 回答 という仕組みを用意...
 
-### 5. M 4.7 - North Indian Ocean
+### 5. M 4.7 - 5 km N of Bowangshan, China
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-26T18:57:46.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuj
+- summary: Time 2026-09-26 18:31:42 UTC 2026-09-26 18:31:42 UTC at epicenter Location 28.360°N 105.055°E Depth 10.00 km (6.21 mi)
+
+### 6. M 4.7 - North Indian Ocean
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-26T11:08:17.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsh
 - summary: Time 2026-09-26 10:53:15 UTC 2026-09-26 10:53:15 UTC at epicenter Location 1.831°N 89.498°E Depth 10.00 km (6.21 mi)
-
-### 6. メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-09-26T08:12:20+00:00`
-- url: https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca
-- summary: Platform Engineering Kaigi 2026
 
 END OF DOCUMENT
