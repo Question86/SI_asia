@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T00:02:36+00:00",
+  "generated_at": "2026-09-26T00:55:10+00:00",
   "sections": {
     "global_security": [
       {
@@ -110,6 +110,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 25/09/2026 23:39 UTC, 2 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 25/09/2026 23:39 UTC, 2 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568101",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green notification for tropical cyclone GONZALO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.419 million in Tropical Storm).",
         "summary": "Green notification for tropical cyclone GONZALO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.419 million in Tropical Storm).",
         "source": "GDACS",
@@ -136,21 +146,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001327",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.5 - 61 km ENE of Tadine, New Caledonia",
-        "summary": "M5.5 - 61 km ENE of Tadine, New Caledonia. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqi",
-        "published_at": "2026-09-25T23:39:41+00:00",
-        "metrics": {
-          "mag": 5.5,
-          "alert": "green",
-          "sig": 465.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

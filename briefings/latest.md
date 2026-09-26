@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T00:02:33+00:00_
+_Generiert: 2026-09-26T00:55:07+00:00_
 
 ## Kurzlage
 
-1 neue relevante Treffer. Stärkstes Signal: „Claude Code クラウドセッション、使ってみて！“ aus Hatena Bookmark Hotentry IT (Score 11, observation).
+2 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 15 km NNW of Xunchang, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,6 +45,10 @@ _Generiert: 2026-09-26T00:02:33+00:00_
   - Quelle: USGS
   - Zeit: `2026-09-25T21:23:03+00:00`
   - Kurz: M6.6 - 80 km ENE of Tadine, New Caledonia. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 25/09/2026 23:39 UTC, 2 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568101)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 25/09/2026 23:39 UTC, 2 thousand in MMI IV.
 - **GDACS: Green notification for tropical cyclone GONZALO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.419 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001328)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,10 +61,6 @@ _Generiert: 2026-09-26T00:02:33+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone SURIGAE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.5 - 61 km ENE of Tadine, New Caledonia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqi)
-  - Quelle: USGS
-  - Zeit: `2026-09-25T23:39:41+00:00`
-  - Kurz: M5.5 - 61 km ENE of Tadine, New Caledonia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -81,6 +81,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **M 5.0 - 15 km NNW of Xunchang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-26T00:13:45.040+00:00`, fetched `2026-09-26T00:54:39+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-25 23:57:33 UTC 2026-09-25 23:57:33 UTC at epicenter Location 28.579°N 104.643°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Claude Code クラウドセッション、使ってみて！** — Score 11, observation — [Quelle](https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-25T06:58:56+00:00`, fetched `2026-09-26T00:02:06+00:00`
