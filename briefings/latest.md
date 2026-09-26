@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T15:02:11+00:00_
+_Generiert: 2026-09-26T15:20:16+00:00_
 
 ## Kurzlage
 
@@ -61,10 +61,6 @@ _Generiert: 2026-09-26T15:02:11+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Tonga 23/09/2026 14:41 UTC, 1 thousand in MMI IV.
-- **USGS earthquake M5.6 - 74 km ESE of Kokopo, Papua New Guinea** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtc)
-  - Quelle: USGS
-  - Zeit: `2026-09-26T14:08:17+00:00`
-  - Kurz: M5.6 - 74 km ESE of Kokopo, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
