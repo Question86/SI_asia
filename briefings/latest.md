@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-25T23:54:49+00:00_
+_Generiert: 2026-09-26T00:02:33+00:00_
 
 ## Kurzlage
 
-97 neue relevante Treffer. Stärkstes Signal: „Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung“ aus heise Security Alerts (Score 24, risk).
+1 neue relevante Treffer. Stärkstes Signal: „Claude Code クラウドセッション、使ってみて！“ aus Hatena Bookmark Hotentry IT (Score 11, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -60,7 +60,7 @@ _Generiert: 2026-09-25T23:54:49+00:00_
 - **USGS earthquake M5.5 - 61 km ENE of Tadine, New Caledonia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqi)
   - Quelle: USGS
   - Zeit: `2026-09-25T23:39:41+00:00`
-  - Kurz: M5.5 - 61 km ENE of Tadine, New Caledonia. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - 61 km ENE of Tadine, New Caledonia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -73,296 +73,27 @@ _Generiert: 2026-09-25T23:54:49+00:00_
 
 ## Priorität Hoch
 
-- **Bevorstehender Zero-Day-Angriff: KiteWorks drängt Kunden zur Serverabschaltung** — Score 24, risk — [Quelle](https://www.heise.de/news/Bevorstehender-Zero-Day-Angriff-KiteWorks-draengt-Kunden-zur-Serverabschaltung-11466114.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-25T11:41:00.000+00:00`, fetched `2026-09-25T11:51:13+00:00`
-  - Treffer: Security, Watchgraph:cyber_active_exploitation
-  - Watchgraph: cyber_active_exploitation
-  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: Security (+7.5); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: Man habe konkrete Hinweise von Strafverfolgern auf eine Attacke, schreibt der Hersteller seinen Kunden. Auch hierzulande sind große Unternehmen betroffen.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **Agentic autofix now uses Copilot Memory** — Score 23, observation — [Quelle](https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-25T17:25:50+00:00`, fetched `2026-09-25T18:25:20+00:00`
-  - Treffer: AI Agents, Copilot, GitHub, Public Health, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); Security (+6.0); Public Health (+5.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)
-  - Kurz: Agentic autofix now uses Copilot Memory for customers who’ve enabled it. When you use agentic autofix, it reviews existing memories for context that can help resolve security alerts. When it… The post Agentic autofix now uses Copilot Memory appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1452)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-25T11:59:26+00:00`, fetched `2026-09-25T12:30:54+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und andere, nicht spezifizierte Auswirkungen zu verursachen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0910)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-25T11:39:26+00:00`, fetched `2026-09-25T11:43:35+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [UNGEPATCHT] [mittel] MinIO: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3571)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-25T10:44:24+00:00`, fetched `2026-09-25T10:53:03+00:00`
-  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in MinIO ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **CISA ICS Advisory / ICS Medical Advisory（2026年09月24日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU93222287/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-25T10:00:00+09:00`, fetched `2026-09-25T01:15:19+00:00`
-  - Treffer: advisory, APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier** — Score 16, observation — [Quelle](https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-25T09:43:08+00:00`, fetched `2026-09-25T09:44:13+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region usa: New York, San Francisco (+2.0); watchgraph region south_korea: Seoul (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: San Francisco and New York still lead The Observer‘s inaugural AI Cities Index, but the more consequential finding sits further east. Six of the world’s top 10 AI cities are in East and Southeast Asia, and Seoul ranks first globally for implementation: whether a city has the institutions, systems and practitioners to put AI to work across […] The post Ecosystem Roundup: Seoul tops AI implementation as Singapore join…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **NVIDIA/Model-Optimizer** — Score 16, observation — [Quelle](https://github.com/NVIDIA/Model-Optimizer)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-25T06:37:15+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Climate/Disaster Infrastructure, GitHub Trending, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. https://nvidia.github.io/Model-Optimizer/ NVIDIA Model Optimizer Documentation | Roadmap | Announcement Blogs NVIDIA Model Op…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - 42 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txnq)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-25T20:19:04.040+00:00`, fetched `2026-09-25T20:30:50+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-25 19:39:29 UTC 2026-09-25 19:39:29 UTC at epicenter Location 8.228°S 120.430°E Depth 14.46 km (8.98 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **GitHub Copilot app for Beginners: How to build custom workflows with canvases** — Score 15, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-09-25T18:00:00+00:00`, fetched `2026-09-25T18:01:22+00:00`
-  - Treffer: AI/KI, Content-Chance, Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Content-Chance (+6.2); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.7 - 80 km SW of Labuan, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txkc)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-25T14:33:43.040+00:00`, fetched `2026-09-25T14:35:54+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-25 13:47:26 UTC 2026-09-25 13:47:26 UTC at epicenter Location 6.927°S 105.355°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **OpenAIとClaudeのAgent SDKから学ぶAgentの基本構成 - ぷらすのブログ** — Score 15, observation — [Quelle](https://blog.p1ass.com/posts/agent-foundations/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-25T13:15:56+00:00`, fetched `2026-09-25T19:13:22+00:00`
-  - Treffer: agent, Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
-  - Kurz: こんにちは、ぷらす(@p1ass)です。 最近、Agent を「使う側」ではなく「作る側」に興味を持ち始めています。 色々と新しい学びが多いなぁと感じているので、せっかくなので自分が学んだ Agent の開発について、何回かに分けて記事を書いていこうと思います。 現在予定しているテーマは次の 7 つです。 Agent の基本構成 ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **baserCMS用プラグイン「アドオンマイグレーター」 における信頼できない制御領域からの機能の組み込みに関する脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN21754394/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-25T12:00:15+09:00`, fetched `2026-09-25T03:08:33+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: baserCMSユーザー会が提供するbaserCMS用プラグイン「アドオンマイグレーター」 には、信頼できない制御領域からの機能の組み込みに関する脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **baserCMSにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN14353754/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-25T12:00:00+09:00`, fetched `2026-09-25T03:08:33+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: baserCMSユーザー会が提供するbaserCMSには複数の脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI vs agtech: How AI is revolutionising agriculture** — Score 14, observation — [Quelle](https://e27.co/ai-vs-agtech-how-ai-is-revolutionising-agriculture-20260924/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-25T03:00:31+00:00`, fetched `2026-09-25T03:08:33+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Markets/Capital Structure
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)
-  - Kurz: AI technology is transforming the agricultural industry, changing how the outside world views farming and creating a data-driven system that ensures precision and maximises yields. Imagine a world where technology tells you remotely how many nutrients are lacking and how plants are showing signs of stress and so on. It’s a beautiful experience, not science […] The post AI vs agtech: How AI is revolutionising agricul…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans les produits Cisco (17 septembre 2026)** — Score 14, risk — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1197/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-09-17T00:00:00+00:00`, fetched `2026-09-25T13:33:33+00:00`
-  - Treffer: avis, CERT-FR, Security, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76460 est...
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
-- **Changes to query results in the GitHub Actions API and UI** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-25T18:17:06+00:00`, fetched `2026-09-25T18:38:54+00:00`
-  - Treffer: Actions, GitHub, GitHub Actions
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)
-  - Kurz: Queries for workflow runs in the GitHub Actions API and UI now return a less precise but more accurate count of records when you search by workflow, event, status, branch,… The post Changes to query results in the GitHub Actions API and UI appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-25T09:55:23+00:00`, fetched `2026-09-25T11:20:08+00:00`
-  - Treffer: CodeQL/Dependabot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
-  - Kurz: CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find… The post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Expired GitHub Actions artifacts no longer shown in UI and API** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-24T19:13:02+00:00`, fetched `2026-09-25T15:36:58+00:00`
-  - Treffer: Actions, GitHub, GitHub Actions
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)
-  - Kurz: Expired artifacts are no longer displayed in the GitHub Actions run summary or returned by the REST API. Previously, an expired artifact remained visible with an “Expired” pill, even though… The post Expired GitHub Actions artifacts no longer shown in UI and API appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 13 km N of Xunchang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txpf)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-25T21:18:30.040+00:00`, fetched `2026-09-25T21:29:31+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-25 21:01:27 UTC 2026-09-25 21:01:27 UTC at epicenter Location 28.574°N 104.703°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.2 - 62 km SW of San Antonio, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txme)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-25T15:52:41.736+00:00`, fetched `2026-09-25T15:53:24+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - IV Time 2026-09-25 15:29:09 UTC 2026-09-25 15:29:09 UTC at epicenter Location 33.966°S 72.108°W Depth 29.07 km (18.06 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 72 km E of Thang, India** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txk0)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-25T12:46:43.040+00:00`, fetched `2026-09-25T12:50:45+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-25 11:53:21 UTC 2026-09-25 11:53:21 UTC at epicenter Location 34.843°N 77.576°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **WordPress-Lücke nur Stunden nach Patch attackiert** — Score 11, observation — [Quelle](https://www.heise.de/news/WordPress-Luecke-nur-Stunden-nach-Patch-attackiert-11466076.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-25T11:10:00.000+00:00`, fetched `2026-09-25T11:20:08+00:00`
-  - Treffer: Security, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
-  - Kurz: WordPress hat am Dienstag zwei Sicherheitsupdates veröffentlicht. Die kritische Lücke aus dem zweiten wird bereits attackiert.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Proaction boosts sales 60% and saves 75+ hours with Codex** — Score 10, observation — [Quelle](https://openai.com/index/proaction)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-09-25T19:00:00+00:00`, fetched `2026-09-25T16:24:57+00:00`
-  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+7.5); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **JR西日本、AIが車両整備の計画立案 30年度までに所要時間2時間→10分 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUF1158N0R10C26A9000000/)
+- **Claude Code クラウドセッション、使ってみて！** — Score 11, observation — [Quelle](https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-25T11:27:50+00:00`, fetched `2026-09-25T22:25:51+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
+  - Zeit: published `2026-09-25T06:58:56+00:00`, fetched `2026-09-26T00:02:06+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: JR西日本は車両の整備計画の立案に人工知能（AI）を導入する。約2時間かかる作業を10分程度に短縮できる見通し。所要時間を9割削減し、人手不足問題の緩和につなげる。AI開発のグリッドと共同で、2030年度までの実用化を目指す。JR西は在来線車両の検査や修繕、清掃といった整備業務を手掛ける車両基地を管内に約40カ所...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Monetary developments in the euro area: August 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/md/html/ecb.md2608~406f8d243d.en.html)
-  - Quelle: ECB Statistical Press Releases / `rss`
-  - Zeit: published `2026-09-25T08:00:00+00:00`, fetched `2026-09-25T08:27:12+00:00`
-  - Treffer: euro area, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Monetary developments in the euro area: August 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GoodARCH launches AI foot mapping in Malaysia with US$230K healthtech investment** — Score 10, observation — [Quelle](https://e27.co/goodarch-launches-ai-foot-mapping-in-malaysia-with-us230k-healthtech-investment-20260925/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-25T03:36:46+00:00`, fetched `2026-09-25T03:44:15+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: For many people, foot pain is ignored until it starts changing everyday behaviour. They walk less, avoid stairs, switch shoes, or live with knee and back discomfort that seems unrelated. GoodARCH is betting that a five-minute scan can narrow the gap between early signs and medical attention. The Asian arch support brand, operated by Taiwan-based […] The post GoodARCH launches AI foot mapping in Malaysia with US$230K…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **グーグル「Gemini」に電話代行の新機能 レストラン予約もお任せ** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35252958/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-25T02:26:41+00:00`, fetched `2026-09-25T07:40:32+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: Googleは米国時間9月24日、モバイル版「Gemini」のAI機能を拡張し、日常の電話をユーザーに代わってこなす、新たなAIエージェント機能を発表した。世界中の内向的な人に朗報だ。ただし、細かな利用条件にも目を通しておきたい。Geminiが代わりにできることには限りがあるからだ。 この機能は、スマートフォンでGeminiを...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The KoinWorks era: What Indonesia’s SME lending journey has taught the next generation** — Score 10, observation — [Quelle](https://e27.co/the-koinworks-era-what-indonesias-sme-lending-journey-has-taught-the-next-generation-20260916/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-25T01:00:04+00:00`, fetched `2026-09-25T01:15:19+00:00`
-  - Treffer: APAC Trend Radar, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
-  - Kurz: Indonesia’s SME lending ecosystem looks different in 2026 than it did five years ago. The peer-to-peer lending sector that produced KoinWorks, Investree, Modalku, Akseleran, and dozens of others has consolidated. The number of OJK-licensed P2P lenders has fallen sharply since 2022. The platforms that remain — KoinWorks among the most prominent — operate inside a […] The post The KoinWorks era: What Indonesia’s SME l…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Google Chrome (18 septembre 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1199/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-09-18T00:00:00+00:00`, fetched `2026-09-25T13:33:33+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Altcoins are running on real news, Wall Street is running on fear** — Score 9, observation — [Quelle](https://e27.co/altcoins-are-running-on-real-news-wall-street-is-running-on-fear-20260925/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-25T06:33:26+00:00`, fetched `2026-09-25T06:37:15+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Asian stocks and bonds fell as a global bond selloff deepened and inflation fears intensified, with oil prices remaining elevated. Regional indices pointed lower in early trading. Wall Street had finished a volatile session mixed to flat. The S&P 500 edged slightly lower. The Dow Jones Industrial Average dropped 161 points, or 0.3 per cent. […] The post Altcoins are running on real news, Wall Street is running on fe…
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに Claude Code クラウドセッション、使っていますか？実は、ふだんの対話のセッションもそのままクラウドで動かせます！ クラウドセッションは、Claude CodeをAnthropicのクラウドで動かす機能です。PCやアプリ、ブラウザを閉じても処理が止まらず、Desktopアプリやブラウザ、スマホのどこからでも同じセッション...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
 
 ## Erinnerungskandidaten
 

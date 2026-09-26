@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T23:54:53+00:00",
+  "generated_at": "2026-09-26T00:02:36+00:00",
   "sections": {
     "global_security": [
       {
@@ -141,13 +141,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.5 - 61 km ENE of Tadine, New Caledonia",
-        "summary": "M5.5 - 61 km ENE of Tadine, New Caledonia. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.5 - 61 km ENE of Tadine, New Caledonia. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqi",
         "published_at": "2026-09-25T23:39:41+00:00",
         "metrics": {
           "mag": 5.5,
-          "alert": "",
+          "alert": "green",
           "sig": 465.0,
           "tsunami": 0
         }
