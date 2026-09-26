@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T15:42:40+00:00",
+  "generated_at": "2026-09-26T15:58:13+00:00",
   "fx_as_of": null,
-  "candidate_count": 1121,
+  "candidate_count": 1122,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 1121
+    "pending": 1122
   },
   "coverage_warning": null,
   "candidates": [
@@ -14891,6 +14891,27 @@
       "snippet": "urzu 0 310 Odyssey Design rkendrick25 PRO 2 810 Exploring the Power of Turbo Streams & Action Cable | RailsConf2023 kevinliebholz 37 6.6k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Jamie Indigo - Trashchat’s Guide to Black Boxes: Technical SEO Tactics for LLMs techseoconnect PRO 0 680 Mozcon NYC 2025: Stop Lo",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca"
+    },
+    {
+      "amount_native": 708000.0,
+      "amount_usd": 708000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_5ae9f6c33c98ebd93856",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-26T15:58:08+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:capital_allocation:f5ba441203eb",
+      "review_status": "pending",
+      "snippet": "ongodb 50 10k Avoiding the “Bad Training, Faster” Trap in the Age of AI tmiket 0 250 Google's AI Overviews - The New Search badams 0 1.6k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Keith and Marios Guide to Fast Websites keithpitt 413 23k The Pragmatic Product Professional lauravandoore 37 7.5k Tips & Tricks",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 230000.0,
