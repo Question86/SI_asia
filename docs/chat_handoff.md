@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-26T01:16:08+00:00_
+_Generated: 2026-09-26T01:38:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `3`
 
 ## Top Signals
 
@@ -21,5 +21,12 @@ _Generated: 2026-09-26T01:16:08+00:00_
 - published: `2026-09-25T06:58:56+00:00`
 - url: https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions
 - summary: はじめに Claude Code クラウドセッション、使っていますか？実は、ふだんの対話のセッションもそのままクラウドで動かせます！ クラウドセッションは、Claude CodeをAnthropicのクラウドで動かす機能です。PCやアプリ、ブラウザを閉じても処理が止まらず、Desktopアプリやブラウザ、スマホのどこからでも同じセッション...
+
+### 3. M 5.3 - 58 km ENE of Tadine, New Caledonia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-09-26T01:22:16.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu
+- summary: Time 2026-09-26 01:10:19 UTC 2026-09-26 01:10:19 UTC at epicenter Location 21.288°S 168.372°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
