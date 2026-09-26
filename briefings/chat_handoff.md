@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-26T02:31:30+00:00_
+_Generated: 2026-09-26T02:47:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `4`
 
 ## Top Signals
 
@@ -28,5 +28,12 @@ _Generated: 2026-09-26T02:31:30+00:00_
 - published: `2026-09-26T01:22:16.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txqu
 - summary: Time 2026-09-26 01:10:19 UTC 2026-09-26 01:10:19 UTC at epicenter Location 21.288°S 168.372°E Depth 10.00 km (6.21 mi)
+
+### 4. AI-SQLエンジン「Quail」公開 ——LLMによるデータの絞り込み・結合を効率化 | gihyo.jp
+- source: Hatena Bookmark Hotentry IT
+- score: `9`
+- published: `2026-09-25T09:40:55+00:00`
+- url: https://gihyo.jp/article/2026/09/quail
+- summary: AI-SQLエンジン「Quail」公開 —⁠—LLMによるデータの絞り込み⁠⁠・結合を効率化 Full Stack Data LabのShreya Shankar氏らは9月24日、Modalとの共同開発によるオープンソースのAI-SQLエンジン「Quail」を公式ブログで発表した。SQLに自然言語で条件を書き、大規模言語モデル（LLM）の判定でデータを絞り込んだり、結び付け...
 
 END OF DOCUMENT
