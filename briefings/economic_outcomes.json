@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T10:42:30+00:00",
+  "generated_at": "2026-09-26T10:57:59+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -3745,12 +3745,12 @@
     {
       "event_id": "evt_5d70bb5c472711f628be",
       "title": "M 4.9 - 73 km ENE of Tadine, New Caledonia",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -7117,7 +7117,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a7f209f63f6d6c38835f",
@@ -9659,6 +9659,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e44532bf08e8d4e1e7dd",
+      "title": "Docker、AIコーディングエージェント向けの公式スキル「Docker Skills」を公開 | gihyo.jp",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_e4578b70c236ecccc289",
