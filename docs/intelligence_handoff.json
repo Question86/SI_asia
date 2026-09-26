@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-26T18:51:24Z",
+  "generated_at": "2026-09-26T19:22:27Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://ollaya.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-25T22:11:27+00:00",
-      "age_days": 0.86,
+      "age_days": 0.88,
       "topics": [
         "macro"
       ],
@@ -44,7 +44,7 @@
       "url": "https://ollaya.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T02:56:32+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -70,7 +70,7 @@
       "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T12:27:37+00:00",
-      "age_days": 3.27,
+      "age_days": 3.29,
       "topics": [
         "ai"
       ],
@@ -97,7 +97,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T14:47:12+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -117,11 +117,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.7 - 5 km N of Bowangshan, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-26T18:57:46.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-26 18:31:42 UTC 2026-09-26 18:31:42 UTC at epicenter Location 28.360°N 105.055°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.7 - North Indian Ocean",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T11:08:17.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -146,7 +171,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T06:58:05.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "disaster"
       ],
@@ -171,7 +196,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T00:13:45.040+00:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "disaster"
       ],
@@ -196,7 +221,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T11:31:44+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -220,7 +245,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txrj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T07:01:53+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -244,7 +269,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txql",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-26T00:55:10+00:00",
-      "age_days": 0.75,
+      "age_days": 0.77,
       "topics": [
         "general"
       ],
@@ -268,7 +293,7 @@
       "url": "https://zenn.dev/goat_eat_any/articles/claude-code-cloud-sessions",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T17:38:29+00:00",
-      "age_days": 13.05,
+      "age_days": 13.07,
       "topics": [
         "ai"
       ],
@@ -289,31 +314,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "M 4.8 - 74 km ENE of Tadine, New Caledonia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuf",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-26T18:47:48.040+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-09-26 18:25:23 UTC 2026-09-26 18:25:23 UTC at epicenter Location 21.363°S 168.568°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
