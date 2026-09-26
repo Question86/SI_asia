@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T06:32:49+00:00",
+  "generated_at": "2026-09-26T06:53:09+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,10 +75,30 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "GDACS: Green flood alert in Mexico",
+        "summary": "Green flood alert in Mexico",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104191",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "GDACS: Green earthquake (Magnitude 6.6M, Depth:10km) in Vanuatu 25/09/2026 21:23 UTC, 1 thousand in MMI&gt;=V.",
         "summary": "Green earthquake (Magnitude 6.6M, Depth:10km) in Vanuatu 25/09/2026 21:23 UTC, 1 thousand in MMI&gt;=V.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568087",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Argentina",
+        "summary": "Green flood alert in Argentina",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104192",
         "published_at": "",
         "metrics": {}
       },
