@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T22:19:31+00:00",
+  "generated_at": "2026-09-26T22:30:51+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -2365,7 +2365,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3af8f852f301f8c1d551",
@@ -2909,12 +2909,12 @@
     {
       "event_id": "evt_48994f0c106061b85979",
       "title": "M 4.9 - 78 km ESE of Kokopo, Papua New Guinea",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -3784,7 +3784,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_5da4fa9fc3006de40ffe",
