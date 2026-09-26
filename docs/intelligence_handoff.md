@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-26T15:38:04Z_
+_Generated: 2026-09-26T15:49:22Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-26T02:56:32+00:00` / age_days `0.53`
+- Published: `2026-09-26T02:56:32+00:00` / age_days `0.54`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, early terms: local, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-23T12:27:37+00:00` / age_days `3.13`
+- Published: `2026-09-23T12:27:37+00:00` / age_days `3.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -50,19 +50,19 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 ### 【検証】Google AI Pro 限界まで使い倒したらめちゃくちゃお得 説｜ぶるぺん/blue.pen5805
 
-- Band: `watch` (raw `strong`)
-- Dynamics score: `19.9`
-- Published: `2026-08-31T18:43:10+00:00` / age_days `25.87`
+- Band: `watch` (raw `watch`)
+- Dynamics score: `19.46`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `25.88`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 8.10, single-source AI hype brake -8.0, aging penalty -1.7 for 25.9d old signal, stale single-source cap: max watch after 14d without fresh resonance, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, baseline z_hint 4.69, single-source AI hype brake -8.0, aging penalty -1.7 for 25.9d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://note.com/blue_pen5805/n/nb124b104c28b
 
 ### M 4.7 - North Indian Ocean
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-26T11:08:17.040+00:00` / age_days `0.19`
+- Published: `2026-09-26T11:08:17.040+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-26T06:58:05.040+00:00` / age_days `0.36`
+- Published: `2026-09-26T06:58:05.040+00:00` / age_days `0.37`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-26T00:13:45.040+00:00` / age_days `0.64`
+- Published: `2026-09-26T00:13:45.040+00:00` / age_days `0.65`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-26T11:31:44+00:00` / age_days `0.17`
+- Published: `2026-09-26T11:31:44+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-26T07:01:53+00:00` / age_days `0.36`
+- Published: `2026-09-26T07:01:53+00:00` / age_days `0.37`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ollaya — Run decision models locally.�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-26T00:55:10+00:00` / age_days `0.61`
+- Published: `2026-09-26T00:55:10+00:00` / age_days `0.62`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
