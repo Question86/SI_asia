@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T23:30:46+00:00",
+  "generated_at": "2026-09-26T23:41:16+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -1963,12 +1963,12 @@
     {
       "event_id": "evt_2f871d7129e5e37aa45e",
       "title": "チャットGPT利用者の画像を流出 オープンAI、新たに暴走事案：朝日新聞",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -8118,7 +8118,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_be1f593140a1d57a27ae",
@@ -9417,6 +9417,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_dca8a679c9404ad597c0",
+      "title": "Cloudflare 上で Jev で作るほぼ0円運用可能な高品質なページ内検索",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_dcf7c90d6a10fe7806eb",

@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T23:30:45+00:00",
+  "generated_at": "2026-09-26T23:41:16+00:00",
   "fx_as_of": null,
-  "candidate_count": 1122,
+  "candidate_count": 1126,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 1122
+    "pending": 1126
   },
   "coverage_warning": null,
   "candidates": [
@@ -20389,6 +20389,27 @@
       "source_url": "https://dev.classmethod.jp/articles/jev-guide-with-examples/"
     },
     {
+      "amount_native": 5.0,
+      "amount_usd": 5.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_55b0f3ba0701e8787d92",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_dca8a679c9404ad597c0",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-26T23:41:02+00:00",
+      "overlap_group_suggestion": "evt_dca8a679c9404ad597c0:unknown:f7ec393c3d4f",
+      "review_status": "pending",
+      "snippet": "法の解説記事となります。 概算ではありますが、 検索1回あたり約 $0.0002 のコストになっており、かなり多めに 10PV あたり 1 検索される想定で見積もっても 毎月 $0.016 程度で運用できる計算になります。 一度、数ドルあればおそらく数年は大丈夫と思われるコスト感です。 また、期限付きではありますが TypeSafe AI の無料クレジット $5 がある現状では、金銭負担なしで運用できています [2] 。 Jev とは Jev は TypeSafe AI が提供するモデルで、一般的な LLM と違いテキストを生成せず、型付きの値を確率や confidence とともに返します。 使い方は、コンテキストとなる state とそれに関する質問を送るだけです。 質問の形式は、選択肢から選ぶ Choice、ル",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://zenn.dev/mazrean/articles/bd9b563ace18db",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 4.0,
       "amount_usd": 4.0,
       "attribution_probability": null,
@@ -21584,6 +21605,48 @@
       "snippet": "core の値は各レベルの確率で重み付けした期待値です。レベル番号そのものではなく、上の例なら 1.05 のような小数が返ります。 公開直後からここまで注目された理由 公開から1週間でここまで盛り上がった理由は、大きく5つに整理できます。 1. 速度と価格の桁が違う 項目 Jev（公称値） レイテンシ 70〜500ms（多くは100ms前後） 入力トークン $0.042 / 100万トークン 出力トークン 無料 対LLM比（速度） 40〜200倍速い 対LLM比（コスト） 入力単価で約5〜240倍安い。自社ワークフロー評価では最大444.6倍安い なお、この倍率は仕分けや採点といった、同社が「System Oneタスク」と呼ぶ用途での比較です。文章を書く速さの話ではありません。 出力トークンが無料なのはLLMの常識からする",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://zenn.dev/unsoluble_sugar/articles/jev-system-one-model-intro"
+    },
+    {
+      "amount_native": 0.042,
+      "amount_usd": 0.04,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_d5e51fbbd5f4623b86e1",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_dca8a679c9404ad597c0",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-26T23:41:02+00:00",
+      "overlap_group_suggestion": "evt_dca8a679c9404ad597c0:unknown:763852f11148",
+      "review_status": "pending",
+      "snippet": "率や confidence とともに返します。 使い方は、コンテキストとなる state とそれに関する質問を送るだけです。 質問の形式は、選択肢から選ぶ Choice、ルーブリックで採点する Score、文が真かを 0〜1 で返す Noul の 3 種類です。 最大の魅力は速度とコストで、70〜500 ミリ秒で回答し、価格は入力 100 万トークンあたり $0.042、出力は無料です。 https://typesafe.ai/blog/introducing-system-one-models-and-jev 検索方法設計 jev は高速かつ低コストで、教師データなしの判定問題を処理できるという良さがある一方できることは限られており、今回であれば検索問題を判定問題に落とし込む必要があります。 また、現状コンテキストの制約",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://zenn.dev/mazrean/articles/bd9b563ace18db",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
+      "amount_native": 0.016,
+      "amount_usd": 0.02,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_172c969141807725f82c",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_dca8a679c9404ad597c0",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-26T23:41:02+00:00",
+      "overlap_group_suggestion": "evt_dca8a679c9404ad597c0:unknown:ea4688093123",
+      "review_status": "pending",
+      "snippet": "が出てきて自分も触ってみたくなったため、Cloudflare Vectorize・Workers AI などと組み合わせて低コスト運用可能な検索機能を実装してみました。 今回は実現方法の解説記事となります。 概算ではありますが、 検索1回あたり約 $0.0002 のコストになっており、かなり多めに 10PV あたり 1 検索される想定で見積もっても 毎月 $0.016 程度で運用できる計算になります。 一度、数ドルあればおそらく数年は大丈夫と思われるコスト感です。 また、期限付きではありますが TypeSafe AI の無料クレジット $5 がある現状では、金銭負担なしで運用できています [2] 。 Jev とは Jev は TypeSafe AI が提供するモデルで、一般的な LLM と違いテキストを生成せず、型付きの値",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://zenn.dev/mazrean/articles/bd9b563ace18db",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 0.005,
@@ -23110,6 +23173,27 @@
       "snippet": "have been designated as global systemically important banks (G‑SIBs). The Basel Committee’s sample also includes 43 “Group 2” banks (ie banks that have Tier 1 capital of less than €3 billion or are not internationally active). The values for the previous period may differ slightly from those published in the previous report. This is because, first, some banks have upd",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/media-releases/20260923-basel-iii-risk-based-capital-and-leverage-ratios-are-stable-while-liquidity-indicators-show"
+    },
+    {
+      "amount_native": 0.0002,
+      "amount_usd": 0.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_c705177c63b0128d76cc",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_dca8a679c9404ad597c0",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-26T23:41:02+00:00",
+      "overlap_group_suggestion": "evt_dca8a679c9404ad597c0:unknown:74b3d1b56925",
+      "review_status": "pending",
+      "snippet": "が、最近記事が増えてきたことで検索機能が欲しくなってきていました [1] 。 このタイミングでちょうど jev が出てきて自分も触ってみたくなったため、Cloudflare Vectorize・Workers AI などと組み合わせて低コスト運用可能な検索機能を実装してみました。 今回は実現方法の解説記事となります。 概算ではありますが、 検索1回あたり約 $0.0002 のコストになっており、かなり多めに 10PV あたり 1 検索される想定で見積もっても 毎月 $0.016 程度で運用できる計算になります。 一度、数ドルあればおそらく数年は大丈夫と思われるコスト感です。 また、期限付きではありますが TypeSafe AI の無料クレジット $5 がある現状では、金銭負担なしで運用できています [2] 。 Jev とは J",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://zenn.dev/mazrean/articles/bd9b563ace18db",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     }
   ]
 }
