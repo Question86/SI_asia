@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-27T20:40:59Z_
+_Generated: 2026-09-27T20:49:57Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `28.0`
-- Published: `2026-09-27T19:40:52+00:00` / age_days `0.04`
+- Published: `2026-09-27T19:40:52+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: active, exploitation, critical, security high-signal: active, exploitation, critical, unauthenticated
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T07:39:37+00:00` / age_days `100.54`
+- Published: `2026-06-19T07:39:37+00:00` / age_days `100.55`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: zero-day, rce, citrix, security high-signal: zero-day, rce, citrix, aging penalty -8.0 for 100.5d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-27T11:34:00.000+00:00` / age_days `0.38`
+- Published: `2026-09-27T11:34:00.000+00:00` / age_days `0.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: zero-day, active, exploitation, security high-signal: zero-day, active, exploitation, ausgenutzt, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-09-27T17:18:42+00:00` / age_days `0.14`
+- Published: `2026-09-27T17:18:42+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-27T17:01:19.040+00:00` / age_days `0.15`
+- Published: `2026-09-27T17:01:19.040+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-27T07:59:00.764+00:00` / age_days `0.53`
+- Published: `2026-09-27T07:59:00.764+00:00` / age_days `0.54`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
