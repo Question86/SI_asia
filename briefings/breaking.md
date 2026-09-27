@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-09-27T11:42:29+00:00_
+_Generiert: 2026-09-27T11:50:31+00:00_
 
 ## Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?
 
-- Ranking Score: `32.0`
-- Raw Network Score: `29.1`
+- Ranking Score: `29.5`
+- Raw Network Score: `26.1`
 - Max Monitor Score: `24`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `nein`
@@ -13,7 +13,7 @@ _Generiert: 2026-09-27T11:42:29+00:00_
 - Quellen: heise Security Alerts
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html
 - Handlung: HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.
 
