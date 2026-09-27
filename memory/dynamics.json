@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-27T13:37:17Z",
+  "generated_at": "2026-09-27T13:49:29Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,13 +9,13 @@
       "extreme": 1,
       "krass": 1,
       "strong": 3,
-      "watch": 16,
-      "quiet": 19
+      "watch": 15,
+      "quiet": 20
     },
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 16,
-      "quiet": 19
+      "watch": 15,
+      "quiet": 20
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-27T06:34:48+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -52,7 +52,7 @@
       "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-27T06:35:22+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -77,7 +77,7 @@
       "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 100.25,
+      "age_days": 100.26,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
         "momentum delta +3",
         "high terms: zero-day, rce, citrix",
         "security high-signal: zero-day, rce, citrix",
-        "aging penalty -8.0 for 100.2d old signal",
+        "aging penalty -8.0 for 100.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -131,7 +131,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924930",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:31:05+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -155,7 +155,7 @@
       "url": "https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T04:09:57+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -180,7 +180,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:59:00.764+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -254,7 +254,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:07:27+00:00",
-      "age_days": 14.02,
+      "age_days": 14.03,
       "topics": [
         "general"
       ],
@@ -278,7 +278,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T05:17:35.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -303,7 +303,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T02:38:54.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -328,7 +328,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T01:31:08.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -353,7 +353,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T05:24:28+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -401,7 +401,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T01:47:15+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -425,7 +425,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924930",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:25:51.824+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -445,36 +445,11 @@
       "summary": "PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-27 07:01:41 UTC 2026-09-27 07:01:41 UTC at epicenter Location 38.932°N 115.308°W Depth 4.43 km (2.75 mi)"
     },
     {
-      "title": "はてブコメントで攻撃的なやつをJevで隠す拡張機能 - 本しゃぶり",
-      "url": "https://honeshabri.hatenablog.com/entry/hatebu-veil",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T10:28:36+00:00",
-      "age_days": 28.13,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -2.5 for 28.1d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.6 - Rat Islands, Aleutian Islands, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txxm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T08:05:41.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -494,15 +469,41 @@
       "summary": "ShakeMap - III Time 2026-09-27 07:48:11 UTC 2026-09-27 07:48:11 UTC at epicenter Location 50.904°N 179.322°E Depth 46.52 km (28.91 mi)"
     },
     {
+      "title": "5年前に盗まれたギターがアメリカから帰ってきた話｜TAKU",
+      "url": "https://note.com/takuinsist/n/n7d2b265d707b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 26.8,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.72,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 1.59,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 1.59",
+        "aging penalty -2.0 for 26.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "リモートワークを続けるためにやるべきこと - モヒカン技術ブログ",
       "url": "https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T09:54:14+00:00",
-      "age_days": 22.15,
+      "age_days": 22.16,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.6,
+      "dynamics_score": 13.59,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -519,37 +520,11 @@
       "summary": ""
     },
     {
-      "title": "5年前に盗まれたギターがアメリカから帰ってきた話｜TAKU",
-      "url": "https://note.com/takuinsist/n/n7d2b265d707b",
+      "title": "はてブコメントで攻撃的なやつをJevで隠す拡張機能 - 本しゃぶり",
+      "url": "https://honeshabri.hatenablog.com/entry/hatebu-veil",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 26.79,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.44,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 1.33,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 1.33",
-        "aging penalty -2.0 for 26.8d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "「SuicaがJR東海エリアで使えない」問題、ついに解消か JR東海社長「勉強している」",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T10:02:00+00:00",
-      "age_days": 28.15,
+      "published_at": "2026-08-30T10:28:36+00:00",
+      "age_days": 28.14,
       "topics": [
         "general"
       ],
@@ -570,11 +545,36 @@
       "summary": ""
     },
     {
+      "title": "「SuicaがJR東海エリアで使えない」問題、ついに解消か JR東海社長「勉強している」",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-30T10:02:00+00:00",
+      "age_days": 28.16,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.49,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -2.5 for 28.2d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.0 - Rat Islands, Aleutian Islands, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 100.96,
+      "age_days": 100.97,
       "topics": [
         "general"
       ],
@@ -599,7 +599,7 @@
       "url": "https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T01:20:17+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -625,7 +625,7 @@
       "url": "https://togetter.com/li/2751108",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T07:54:06+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -649,7 +649,7 @@
       "url": "https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T07:03:07+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -673,7 +673,7 @@
       "url": "https://togetter.com/li/2750963",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T01:03:59+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "ai"
       ],
@@ -699,7 +699,7 @@
       "url": "https://togetter.com/li/2751108",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T14:52:13+00:00",
-      "age_days": 99.95,
+      "age_days": 99.96,
       "topics": [
         "general"
       ],
@@ -715,7 +715,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 99.9d old signal"
+        "aging penalty -8.0 for 100.0d old signal"
       ],
       "summary": ""
     },
@@ -724,7 +724,7 @@
       "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T09:34:19+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -767,7 +767,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 100.0d old signal",
+        "aging penalty -8.0 for 100.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -802,7 +802,7 @@
       "url": "https://honeshabri.hatenablog.com/entry/hatebu-veil",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T12:26:03+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -874,7 +874,7 @@
       "url": "https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T12:06:17+00:00",
-      "age_days": 1.06,
+      "age_days": 1.07,
       "topics": [
         "ai",
         "macro"
@@ -901,7 +901,7 @@
       "url": "https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T10:09:00+00:00",
-      "age_days": 1.14,
+      "age_days": 1.15,
       "topics": [
         "ai"
       ],
@@ -926,7 +926,7 @@
       "url": "https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T14:30:51+00:00",
-      "age_days": 0.96,
+      "age_days": 0.97,
       "topics": [
         "ai"
       ],
@@ -952,7 +952,7 @@
       "url": "https://note.com/npaka/n/n0ee92a316be3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T04:00:05+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -977,7 +977,7 @@
       "url": "https://note.com/saki_reset/n/nd6d383ce0c75",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T14:33:16+00:00",
-      "age_days": 0.96,
+      "age_days": 0.97,
       "topics": [
         "ai"
       ],
@@ -1002,7 +1002,7 @@
       "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T02:25:14+00:00",
-      "age_days": 6.47,
+      "age_days": 6.48,
       "topics": [
         "ai"
       ],
