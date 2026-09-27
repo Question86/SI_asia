@@ -1,16 +1,16 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-27T05:13:52Z",
+  "generated_at": "2026-09-27T05:29:35Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 14,
+    "dynamics": 16,
     "bands": {
-      "watch": 7,
+      "watch": 9,
       "quiet": 7
     },
     "bands_after_gate_recheck": {
-      "watch": 7,
+      "watch": 9,
       "quiet": 7
     }
   },
@@ -20,7 +20,7 @@
       "url": "https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T04:09:57+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -45,7 +45,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T04:35:37.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -70,7 +70,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:07:27+00:00",
-      "age_days": 13.67,
+      "age_days": 13.68,
       "topics": [
         "general"
       ],
@@ -90,11 +90,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.9 - 159 km ESE of Gizo, Solomon Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-27T05:17:35.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-27 04:59:48 UTC 2026-09-27 04:59:48 UTC at epicenter Location 8.893°S 158.053°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.1 - 90 km ENE of Tadine, New Caledonia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T02:38:54.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -119,7 +144,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T01:31:08.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -144,7 +169,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T02:54:18+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -168,7 +193,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T01:47:15+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -188,30 +213,26 @@
       "summary": ""
     },
     {
-      "title": "ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する",
-      "url": "https://togetter.com/li/2750963",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 99.7,
+      "title": "M 4.9 - 159 km ESE of Gizo, Solomon Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-27T05:24:28+00:00",
+      "age_days": 0.0,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 10.03,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 4.57,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 4.57",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 99.7d old signal",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -220,7 +241,7 @@
       "url": "https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T01:20:17+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -245,8 +266,36 @@
       "title": "ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する",
       "url": "https://togetter.com/li/2750963",
       "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T12:31:48+00:00",
+      "age_days": 99.71,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.76,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 4.33,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 4.33",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 99.7d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する",
+      "url": "https://togetter.com/li/2750963",
+      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T01:03:59+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -272,7 +321,7 @@
       "url": "https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 100.14,
+      "age_days": 100.15,
       "topics": [
         "general"
       ],
@@ -297,7 +346,7 @@
       "url": "https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T12:06:17+00:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "ai",
         "macro"
@@ -324,7 +373,7 @@
       "url": "https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T10:09:00+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
@@ -349,7 +398,7 @@
       "url": "https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T14:30:51+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "ai"
       ],
