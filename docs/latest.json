@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T14:35:41+00:00",
-  "run_id": "2026-09-27T14:35:41+00:00",
+  "generated_at": "2026-09-27T14:44:19+00:00",
+  "run_id": "2026-09-27T14:44:19+00:00",
   "date": "2026-09-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "new_relevant_findings": 1,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 1,
-    "medium": 1,
+    "medium": 2,
     "observe": 19,
     "source_errors": 0
   },
@@ -63,6 +63,52 @@
       }
     ],
     "medium": [
+      {
+        "title": "AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由｜npaka",
+        "url": "https://note.com/npaka/n/n557fb948c3cf",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-27T07:32:58+00:00",
+        "fetched_at": "2026-09-27T14:43:51+00:00",
+        "summary": "AIデバッグはなぜ収束しないのかについてまとめました。 1. はじめにCodexなどのAIコーディングエージェントでは、 レビュー → 問題を修正 → 再レビュー というデバッグを繰り返すことができます。 Codexを使ったコードレビューでは、発見した問題を「P0〜P3」のような優先度で整理することがあります。 ・P0 : 最優先。...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "93b6c04230a96ee7587a"
+      },
       {
         "title": "tensorflow/tensorflow",
         "url": "https://github.com/tensorflow/tensorflow",
@@ -661,6 +707,52 @@
       "id": "9eb8fbcba1193edd1e77"
     },
     {
+      "title": "AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由｜npaka",
+      "url": "https://note.com/npaka/n/n557fb948c3cf",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-27T07:32:58+00:00",
+      "fetched_at": "2026-09-27T14:43:51+00:00",
+      "summary": "AIデバッグはなぜ収束しないのかについてまとめました。 1. はじめにCodexなどのAIコーディングエージェントでは、 レビュー → 問題を修正 → 再レビュー というデバッグを繰り返すことができます。 Codexを使ったコードレビューでは、発見した問題を「P0〜P3」のような優先度で整理することがあります。 ・P0 : 最優先。...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "93b6c04230a96ee7587a"
+    },
+    {
       "title": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -1220,7 +1312,54 @@
       "id": "5c7f0fcf16d2c5ce5667"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由｜npaka",
+      "url": "https://note.com/npaka/n/n557fb948c3cf",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-27T07:32:58+00:00",
+      "fetched_at": "2026-09-27T14:43:51+00:00",
+      "summary": "AIデバッグはなぜ収束しないのかについてまとめました。 1. はじめにCodexなどのAIコーディングエージェントでは、 レビュー → 問題を修正 → 再レビュー というデバッグを繰り返すことができます。 Codexを使ったコードレビューでは、発見した問題を「P0〜P3」のような優先度で整理することがあります。 ・P0 : 最優先。...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "93b6c04230a96ee7587a"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
