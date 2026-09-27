@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T11:32:33+00:00",
-  "run_id": "2026-09-27T11:32:33+00:00",
+  "generated_at": "2026-09-27T11:42:25+00:00",
+  "run_id": "2026-09-27T11:42:25+00:00",
   "date": "2026-09-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,15 +19,49 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 18,
-    "displayed_findings": 18,
-    "high": 0,
+    "today_file_total": 19,
+    "displayed_findings": 19,
+    "high": 1,
     "medium": 1,
     "observe": 17,
     "source_errors": 0
   },
   "sections": {
-    "high": [],
+    "high": [
+      {
+        "title": "Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?",
+        "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-09-27T11:34:00.000+00:00",
+        "fetched_at": "2026-09-27T11:41:53+00:00",
+        "summary": "Der Sicherheitsforscher Kevin Beaumont und ein Threat-Intelligence-Unternehmen mahnen: Neue Exploits würden aktiv ausgenutzt. Offizielle Informationen fehlen.",
+        "matched_keywords": [
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 24,
+        "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: zero-day"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "9eb8fbcba1193edd1e77"
+      }
+    ],
     "medium": [
       {
         "title": "tensorflow/tensorflow",
@@ -552,6 +586,39 @@
   },
   "findings": [
     {
+      "title": "Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?",
+      "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-27T11:34:00.000+00:00",
+      "fetched_at": "2026-09-27T11:41:53+00:00",
+      "summary": "Der Sicherheitsforscher Kevin Beaumont und ein Threat-Intelligence-Unternehmen mahnen: Neue Exploits würden aktiv ausgenutzt. Offizielle Informationen fehlen.",
+      "matched_keywords": [
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 24,
+      "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: zero-day"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "9eb8fbcba1193edd1e77"
+    },
+    {
       "title": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -1071,25 +1138,37 @@
   ],
   "new_findings": [
     {
-      "title": "ローカルLLMのためのメモリ基礎知識｜npaka",
-      "url": "https://note.com/npaka/n/n0ee92a316be3",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?",
+      "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-09-27T04:00:05+00:00",
-      "fetched_at": "2026-09-27T11:32:03+00:00",
-      "summary": "ローカルLLMのためのメモリ基礎知識をまとめました。 1. CPU・GPU とメモリ1-1. CPU・GPU・RAM・VRAMの役割PCのスペックでは、 CPU / GPU / RAM / VRAM という4つの言葉がよく出てきます。 まず押さえておきたいのは、これらは同じ種類の部品ではないということです。 ・CPU・GPU → 計算を行う装置 ・RAM・VRAM → 計算に...",
+      "published_at": "2026-09-27T11:34:00.000+00:00",
+      "fetched_at": "2026-09-27T11:41:53+00:00",
+      "summary": "Der Sicherheitsforscher Kevin Beaumont und ein Threat-Intelligence-Unternehmen mahnen: Neue Exploits würden aktiv ausgenutzt. Offizielle Informationen fehlen.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8d259545ee0d509f23ad"
+      "relevance_score": 24,
+      "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: zero-day"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "9eb8fbcba1193edd1e77"
     }
   ],
   "source_errors": [],
