@@ -1,30 +1,56 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-27T17:37:04Z",
+  "generated_at": "2026-09-27T17:49:44Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 1,
+      "krass": 2,
       "strong": 4,
-      "watch": 17,
-      "quiet": 17
+      "watch": 18,
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
+      "krass": 1,
       "strong": 6,
-      "watch": 17,
-      "quiet": 17
+      "watch": 18,
+      "quiet": 15
     }
   },
   "top_dynamics": [
+    {
+      "title": "2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-014/",
+      "source": "CERT-EU Security Advisories",
+      "published_at": "2026-09-27T19:40:52+00:00",
+      "age_days": 0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 28.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, exploitation, critical",
+        "security high-signal: active, exploitation, critical, unauthenticated"
+      ],
+      "summary": "On 27 September 2026, Citrix published a security bulletin addressing 8 vulnerabilities affecting customer-managed Citrix NetScaler ADC and Citrix NetScaler Gateway, among which 2 critical unauthenticated Remote Code Execution (RCE) vulnerabilities. Citrix has confirmed active exploitation of these 2 critical vulnerab…"
+    },
     {
       "title": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-27T06:34:48+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -52,7 +78,7 @@
       "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-27T06:35:22+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -77,7 +103,7 @@
       "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 100.41,
+      "age_days": 100.42,
       "topics": [
         "security"
       ],
@@ -105,7 +131,7 @@
       "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-27T11:34:00.000+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -131,22 +157,22 @@
       "url": "https://www.sunafuki.com/entry/chatgpt_English",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T17:18:42+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 21.5,
+      "dynamics_score": 21.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -155,7 +181,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924930",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:31:05+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -175,11 +201,39 @@
       "summary": ""
     },
     {
+      "title": "2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-014/",
+      "source": "CERT-EU Security Advisories",
+      "published_at": "2026-09-10T08:29:02+00:00",
+      "age_days": 17.39,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "krass",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 1.93,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 1.93",
+        "high terms: critical, citrix",
+        "krass gate: single-source non-official/non-identity signal capped",
+        "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "自宅KubernetesをTalos Linux + Cloudflareベースに刷新した",
       "url": "https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T04:09:57+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -204,7 +258,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T17:01:19.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -229,7 +283,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:59:00.764+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -254,7 +308,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T04:35:37.040+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "disaster"
       ],
@@ -275,30 +329,26 @@
       "summary": "Time 2026-09-27 04:14:44 UTC 2026-09-27 04:14:44 UTC at epicenter Location 37.136°S 75.190°W Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由｜npaka",
-      "url": "https://note.com/npaka/n/n557fb948c3cf",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 26.95,
+      "title": "M 5.0 - 191 km NW of Oula Xiuma, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-27T17:18:42+00:00",
+      "age_days": 0.02,
       "topics": [
-        "ai"
+        "general"
       ],
       "dynamics_score": 18.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.08,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 5.08",
-        "single-source AI hype brake -8.0",
-        "aging penalty -2.1 for 27.0d old signal",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -307,7 +357,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txxm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T08:27:03+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -331,7 +381,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:07:27+00:00",
-      "age_days": 14.19,
+      "age_days": 14.2,
       "topics": [
         "general"
       ],
@@ -351,11 +401,39 @@
       "summary": ""
     },
     {
+      "title": "AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由｜npaka",
+      "url": "https://note.com/npaka/n/n557fb948c3cf",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 26.96,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 17.69,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 4.34,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 4.34",
+        "single-source AI hype brake -8.0",
+        "aging penalty -2.1 for 27.0d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.9 - 159 km ESE of Gizo, Solomon Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T05:17:35.040+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "disaster"
       ],
@@ -380,7 +458,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T02:38:54.040+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "disaster"
       ],
@@ -405,7 +483,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T01:31:08.040+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "disaster"
       ],
@@ -430,7 +508,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T05:24:28+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -454,7 +532,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T02:54:18+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "general"
       ],
@@ -478,7 +556,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T01:47:15+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "general"
       ],
@@ -502,7 +580,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924930",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:25:51.824+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -526,7 +604,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txxm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T08:05:41.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -550,11 +628,11 @@
       "url": "https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T09:54:14+00:00",
-      "age_days": 22.32,
+      "age_days": 22.33,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.54,
+      "dynamics_score": 13.53,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -571,39 +649,15 @@
       "summary": ""
     },
     {
-      "title": "M 5.0 - 191 km NW of Oula Xiuma, China",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-27T17:18:42+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "はてブコメントで攻撃的なやつをJevで隠す拡張機能 - 本しゃぶり",
       "url": "https://honeshabri.hatenablog.com/entry/hatebu-veil",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T10:28:36+00:00",
-      "age_days": 28.3,
+      "age_days": 28.31,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.45,
+      "dynamics_score": 11.44,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -649,7 +703,7 @@
       "url": "https://note.com/npaka/n/n557fb948c3cf",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T07:32:58+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -675,7 +729,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 101.13,
+      "age_days": 101.14,
       "topics": [
         "general"
       ],
@@ -700,7 +754,7 @@
       "url": "https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T01:20:17+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -726,7 +780,7 @@
       "url": "https://togetter.com/li/2751108",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T07:54:06+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -750,7 +804,7 @@
       "url": "https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T07:03:07+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -774,7 +828,7 @@
       "url": "https://togetter.com/li/2750963",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T01:03:59+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -800,7 +854,7 @@
       "url": "https://zenn.dev/algoartis/articles/73f4da4aa13dcc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T16:37:33+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -826,7 +880,7 @@
       "url": "https://togetter.com/li/2751108",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T14:52:13+00:00",
-      "age_days": 100.11,
+      "age_days": 100.12,
       "topics": [
         "general"
       ],
@@ -877,7 +931,7 @@
       "url": "https://togetter.com/li/2750963",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 100.21,
+      "age_days": 100.22,
       "topics": [
         "ai"
       ],
@@ -904,7 +958,7 @@
       "url": "https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 100.65,
+      "age_days": 100.66,
       "topics": [
         "general"
       ],
@@ -953,7 +1007,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T09:10:52+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -971,56 +1025,7 @@
         "no strong comparative reason"
       ],
       "summary": "鉄道会社間の広域利用が依然として課題となっている中、JR東海の丹羽俊介社長は会見で他社とのまたがり利用実現に向け模索しているとのコメントを発表した。現状、どのような課題があるのかを含め、整理してお伝えする。 境界の非対応区間を解消 Suicaエリア一体化による広域乗車と自由度の進化 JR東日本では、交通系IC..."
-    },
-    {
-      "title": "5年前に盗まれたギターがアメリカから帰ってきた話｜TAKU",
-      "url": "https://note.com/takuinsist/n/n7d2b265d707b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-27T04:21:51+00:00",
-      "age_days": 0.55,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "こんにちは。今日はちょっと長い話を書いてみようと思います。 SNS等で当時発表もしてたので、 ご存知の方もいらっしゃるかと思いますが、 僕は2021年にギターを2本盗まれました。 そのうちの1本がギブソンES-335 シリアルナンバーは182568です。 そして、2026年なんと盗まれてから約5年経って、そのギターがアメリカで..."
-    },
-    {
-      "title": "ChatGPTの英語学習効果とは？ 最新の研究や依存の注意点も紹介・おすすめの学習ロードマップも完全解説 - ポリグロットライフ | 言語まなび∞ラボ",
-      "url": "https://www.sunafuki.com/entry/chatgpt_English",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-27T10:01:52+00:00",
-      "age_days": 0.32,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "はじめに 今回はChatGPTが急速な進化を続けるなかで、ChatGPTを使った英語学習の効果や問題点を第二言語習得研究の理論と照らし合わせつつ、私自身の使用経験を踏まえて、今後のAIとの付き合い方を考えていきたいと思います。 巷では、ChatGPTへのプロンプトは時代遅れだと言われており、AIをエージェントとして格上げす..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0."
 }
