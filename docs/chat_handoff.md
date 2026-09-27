@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-27T05:07:17+00:00_
+_Generated: 2026-09-27T05:24:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `8`
 
 ## Top Signals
 
@@ -22,18 +22,18 @@ _Generated: 2026-09-27T05:07:17+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk
 - summary: Time 2026-09-27 04:14:44 UTC 2026-09-27 04:14:44 UTC at epicenter Location 37.136°S 75.190°W Depth 10.00 km (6.21 mi)
 
-### 3. M 5.1 - 90 km ENE of Tadine, New Caledonia
+### 3. M 4.9 - 159 km ESE of Gizo, Solomon Islands
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-09-27T05:17:35.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy
+- summary: Time 2026-09-27 04:59:48 UTC 2026-09-27 04:59:48 UTC at epicenter Location 8.893°S 158.053°E Depth 10.00 km (6.21 mi)
+
+### 4. M 5.1 - 90 km ENE of Tadine, New Caledonia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-27T02:38:54.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5
 - summary: Time 2026-09-27 02:22:10 UTC 2026-09-27 02:22:10 UTC at epicenter Location 21.286°S 168.707°E Depth 10.00 km (6.21 mi)
-
-### 4. M 5.0 - 61 km ENE of Tadine, New Caledonia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-27T01:31:08.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu
-- summary: Time 2026-09-27 01:18:25 UTC 2026-09-27 01:18:25 UTC at epicenter Location 21.430°S 168.457°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
