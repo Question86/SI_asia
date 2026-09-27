@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-26T23:56:46+00:00_
+_Generiert: 2026-09-27T00:35:17+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „How to prepare for AI-driven code modernization projects | Claude by Anthropic“ aus Hatena Bookmark Hotentry IT (Score 17, observation).
+Keine neuen relevanten Treffer aus den konfigurierten öffentlichen Quellen. 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,96 +69,20 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **How to prepare for AI-driven code modernization projects | Claude by Anthropic** — Score 17, observation — [Quelle](https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-24T06:27:22+00:00`, fetched `2026-09-26T06:32:18+00:00`
-  - Treffer: AI/KI, Content-Chance, Hatena, hotentry, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0)
-  - Kurz: In our Notes from the Field series, Anthropic forward deployed engineers share best practices inspired by real customer deployments. In this article, we share our experience managing large code modernization projects. Code modernizations once scoped as multi-year, all-hands efforts can now finish...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 52 km NNW of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txur)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-26T19:54:46.040+00:00`, fetched `2026-09-26T20:05:01+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-26 19:37:01 UTC 2026-09-26 19:37:01 UTC at epicenter Location 8.158°S 120.329°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **【検証】Google AI Pro 限界まで使い倒したらめちゃくちゃお得 説｜ぶるぺん/blue.pen5805** — Score 15, observation — [Quelle](https://note.com/blue_pen5805/n/nb124b104c28b)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-26T06:52:37+00:00`, fetched `2026-09-26T15:31:20+00:00`
-  - Treffer: AI/KI, Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: みなさん ChatGPT とか Claude とか使ってますか？ はい、そうですね Gemini は使ってないですね 今回はそんな Gemini の有料サブスクの中で 最も一般的なプランである Google AI Pro （月額 2,900円）について 全特典の価値をすべて計算したら実はめちゃくちゃお得なのでは？ という説について検証していきます なお、...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
-- **M 5.6 - 74 km ESE of Kokopo, Papua New Guinea** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txtc)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-26T14:43:05.720+00:00`, fetched `2026-09-26T14:46:41+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - II Time 2026-09-26 14:08:17 UTC 2026-09-26 14:08:17 UTC at epicenter Location 4.695°S 152.838°E Depth 57.78 km (35.90 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **ローカルLLMで使えるWeb検索まとめ｜npaka** — Score 13, observation — [Quelle](https://note.com/npaka/n/n1d86b2196515)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-26T07:44:27+00:00`, fetched `2026-09-26T09:55:46+00:00`
-  - Treffer: AI Agents, Hatena, hotentry, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: ローカルLLMで使えるWeb検索をまとめました。 1. はじめに最近のローカルLLMは、Tool CallingやAIハーネスのWeb検索機能を使って、Webの最新情報を調べる能力も高くなっています。 LLM単体では学習後の最新情報を知ることはできませんが、 検索 → ページを読む → 情報を比較 → 必要なら再検索 → 回答 という仕組みを用意...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.7 - 5 km N of Bowangshan, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuj)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-26T18:57:46.040+00:00`, fetched `2026-09-26T19:09:17+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-26 18:31:42 UTC 2026-09-26 18:31:42 UTC at epicenter Location 28.360°N 105.055°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.7 - North Indian Ocean** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txsh)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-26T11:08:17.040+00:00`, fetched `2026-09-26T11:31:08+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-26 10:53:15 UTC 2026-09-26 10:53:15 UTC at epicenter Location 1.831°N 89.498°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **チャットGPT利用者の画像を流出 オープンAI、新たに暴走事案：朝日新聞** — Score 11, observation — [Quelle](https://www.asahi.com/articles/ASV9V2V4JV9VULZU001M.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-26T09:53:04+00:00`, fetched `2026-09-26T23:29:39+00:00`
-  - Treffer: Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 米オープンAIは25日、対話型AI（人工知能）サービス「ChatGPT（チャットGPT）」の利用者が対話で使用した画像を、同社のAIが勝手に外部に流出させていたことを明らかにした。ロイター通信などが…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」** — Score 11, observation — [Quelle](https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-26T08:12:20+00:00`, fetched `2026-09-26T10:22:17+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Platform Engineering Kaigi 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+Keine neuen Beobachtungssignale.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
 
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f754e865950>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
