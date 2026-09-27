@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T10:56:50+00:00",
-  "run_id": "2026-09-27T10:56:50+00:00",
+  "generated_at": "2026-09-27T11:10:45+00:00",
+  "run_id": "2026-09-27T11:10:45+00:00",
   "date": "2026-09-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 17,
     "displayed_findings": 17,
     "high": 0,
@@ -1027,29 +1027,7 @@
       "id": "5c7f0fcf16d2c5ce5667"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「SuicaがJR東海エリアで使えない」問題、ついに解消か JR東海社長「勉強している」",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-27T09:10:52+00:00",
-      "fetched_at": "2026-09-27T10:56:22+00:00",
-      "summary": "鉄道会社間の広域利用が依然として課題となっている中、JR東海の丹羽俊介社長は会見で他社とのまたがり利用実現に向け模索しているとのコメントを発表した。現状、どのような課題があるのかを含め、整理してお伝えする。 境界の非対応区間を解消 Suicaエリア一体化による広域乗車と自由度の進化 JR東日本では、交通系IC...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2905d136e4e42ce91e90"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T10:56:50+00:00_
+_Generiert: 2026-09-27T11:10:45+00:00_
 
 ## Kurzlage
 
@@ -53,10 +53,6 @@ _Generiert: 2026-09-27T10:56:50+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 25/09/2026 23:39 UTC, 2 thousand in MMI IV.
-- **GDACS: Green notification for tropical cyclone GONZALO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.419 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001328)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone GONZALO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.419 million in Tropical Storm).
 
 ## Wirtschaft global
 
