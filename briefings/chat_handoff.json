@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-27T17:41:07+00:00",
+  "generated_at": "2026-09-27T17:47:32+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "new_relevant_findings": 1,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 1,
     "medium": 2,
-    "observe": 22
+    "observe": 23
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,13 +75,13 @@
       "section": "observe"
     },
     {
-      "title": "M 5.0 - 191 km NW of Oula Xiuma, China",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway",
+      "source": "CERT-EU Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-27T17:01:19.040+00:00",
+      "published_at": "2026-09-27T19:40:52+00:00",
       "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj",
-      "summary": "Time 2026-09-27 16:43:10 UTC 2026-09-27 16:43:10 UTC at epicenter Location 35.386°N 99.554°E Depth 10.00 km (6.21 mi)",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-014/",
+      "summary": "On 27 September 2026, Citrix published a security bulletin addressing 8 vulnerabilities affecting customer-managed Citrix NetScaler ADC and Citrix NetScaler Gateway, among which 2 critical unauthenticated Remote Code Execution (RCE) vulnerabilities. Citrix ha…",
       "section": "observe"
     }
   ],

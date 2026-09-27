@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-27T17:41:07+00:00_
+_Generated: 2026-09-27T17:47:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `26`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-09-27T17:41:07+00:00_
 - url: https://togetter.com/li/2750963
 - summary: Rootport🔥 @rootport 無料版Geminiの性能は本当にひどい。（最低でも）月額20ドルをChatGPTやClaudeに課金できる人だけが正しい検索結果にたどり着くことができ、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされる。Googleはグーテンベルク以前の世界へと時計の針を戻すつもりか…？ 2026-...
 
-### 7. M 5.0 - 191 km NW of Oula Xiuma, China
-- source: USGS M4.5+ Earthquakes Past Hour
+### 7. 2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway
+- source: CERT-EU Security Advisories
 - score: `11`
-- published: `2026-09-27T17:01:19.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj
-- summary: Time 2026-09-27 16:43:10 UTC 2026-09-27 16:43:10 UTC at epicenter Location 35.386°N 99.554°E Depth 10.00 km (6.21 mi)
+- published: `2026-09-27T19:40:52+00:00`
+- url: https://cert.europa.eu/publications/security-advisories/2026-014/
+- summary: On 27 September 2026, Citrix published a security bulletin addressing 8 vulnerabilities affecting customer-managed Citrix NetScaler ADC and Citrix NetScaler Gateway, among which 2 critical unauthenticated Remote Code Execution (RCE) vulnerabilities. Citrix ha…
 
 END OF DOCUMENT

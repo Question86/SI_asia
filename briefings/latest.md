@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T17:41:07+00:00_
+_Generiert: 2026-09-27T17:47:32+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?“ aus heise Security Alerts (Score 24, risk).
+26 neue relevante Treffer. Stärkstes Signal: „Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -125,6 +125,15 @@ _Generiert: 2026-09-27T17:41:07+00:00_
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Rootport🔥 @rootport 無料版Geminiの性能は本当にひどい。（最低でも）月額20ドルをChatGPTやClaudeに課金できる人だけが正しい検索結果にたどり着くことができ、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされる。Googleはグーテンベルク以前の世界へと時計の針を戻すつもりか…？ 2026-...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway** — Score 11, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-014/)
+  - Quelle: CERT-EU Security Advisories / `rss`
+  - Zeit: published `2026-09-27T19:40:52+00:00`, fetched `2026-09-27T17:47:04+00:00`
+  - Treffer: CERT-EU, Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: On 27 September 2026, Citrix published a security bulletin addressing 8 vulnerabilities affecting customer-managed Citrix NetScaler ADC and Citrix NetScaler Gateway, among which 2 critical unauthenticated Remote Code Execution (RCE) vulnerabilities. Citrix has confirmed active exploitation of these 2 critical vulnerabilities in the wild. CERT-EU recommends updating affected software and running a compromise assessme…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 191 km NW of Oula Xiuma, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-27T17:01:19.040+00:00`, fetched `2026-09-27T17:18:10+00:00`
