@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T12:24:43+00:00",
-  "run_id": "2026-09-27T12:24:43+00:00",
+  "generated_at": "2026-09-27T12:43:04+00:00",
+  "run_id": "2026-09-27T12:43:04+00:00",
   "date": "2026-09-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 1,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 1,
     "medium": 1,
-    "observe": 17,
+    "observe": 18,
     "source_errors": 0
   },
   "sections": {
@@ -429,6 +429,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fc9e0f148b329ba6ff7a"
+      },
+      {
+        "title": "リモートワークを続けるためにやるべきこと - モヒカン技術ブログ",
+        "url": "https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-27T07:03:07+00:00",
+        "fetched_at": "2026-09-27T12:42:31+00:00",
+        "summary": "コロナ禍が明け、リモートワークから出社への回帰が少しずつ増えている。 私個人としては労働者として「リモート最高！リモートしか勝たん」という気持ちと、管理職として「とは言え難しさがあるよね」という気持ちなので、それらを踏まえてリモートワークを続けたいなら労働者も一定の工夫をすると良い、という話をする...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9751be1e455cb9a689e8"
       },
       {
         "title": "5年前に盗まれたギターがアメリカから帰ってきた話｜TAKU",
@@ -984,6 +1005,27 @@
       "id": "fc9e0f148b329ba6ff7a"
     },
     {
+      "title": "リモートワークを続けるためにやるべきこと - モヒカン技術ブログ",
+      "url": "https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-27T07:03:07+00:00",
+      "fetched_at": "2026-09-27T12:42:31+00:00",
+      "summary": "コロナ禍が明け、リモートワークから出社への回帰が少しずつ増えている。 私個人としては労働者として「リモート最高！リモートしか勝たん」という気持ちと、管理職として「とは言え難しさがあるよね」という気持ちなので、それらを踏まえてリモートワークを続けたいなら労働者も一定の工夫をすると良い、という話をする...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9751be1e455cb9a689e8"
+    },
+    {
       "title": "5年前に盗まれたギターがアメリカから帰ってきた話｜TAKU",
       "url": "https://note.com/takuinsist/n/n7d2b265d707b",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1136,7 +1178,29 @@
       "id": "5c7f0fcf16d2c5ce5667"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "リモートワークを続けるためにやるべきこと - モヒカン技術ブログ",
+      "url": "https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-27T07:03:07+00:00",
+      "fetched_at": "2026-09-27T12:42:31+00:00",
+      "summary": "コロナ禍が明け、リモートワークから出社への回帰が少しずつ増えている。 私個人としては労働者として「リモート最高！リモートしか勝たん」という気持ちと、管理職として「とは言え難しさがあるよね」という気持ちなので、それらを踏まえてリモートワークを続けたいなら労働者も一定の工夫をすると良い、という話をする...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9751be1e455cb9a689e8"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
