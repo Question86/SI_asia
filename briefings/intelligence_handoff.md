@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-27T22:27:14Z_
+_Generated: 2026-09-27T22:40:05Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-27T06:34:48+00:00` / age_days `0.66`
+- Published: `2026-09-27T06:34:48+00:00` / age_days `0.67`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-27T06:35:22+00:00` / age_days `0.66`
+- Published: `2026-09-27T06:35:22+00:00` / age_days `0.67`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T07:39:37+00:00` / age_days `100.62`
+- Published: `2026-06-19T07:39:37+00:00` / age_days `100.63`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: zero-day, rce, citrix, security high-signal: zero-day, rce, citrix, aging penalty -8.0 for 100.6d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-27T11:34:00.000+00:00` / age_days `0.45`
+- Published: `2026-09-27T11:34:00.000+00:00` / age_days `0.46`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: zero-day, active, exploitation, security high-signal: zero-day, active, exploitation, ausgenutzt, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-09-27T17:18:42+00:00` / age_days `0.21`
+- Published: `2026-09-27T17:18:42+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.5`
-- Published: `2026-09-27T07:31:05+00:00` / age_days `0.62`
+- Published: `2026-09-27T07:31:05+00:00` / age_days `0.63`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,27 +82,17 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `watch` (raw `strong`)
 - Dynamics score: `19.9`
-- Published: `2026-09-10T08:29:02+00:00` / age_days `17.58`
+- Published: `2026-09-10T08:29:02+00:00` / age_days `17.59`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: critical, citrix, stale single-source cap: max watch after 14d without fresh resonance
 - Quelle: https://cert.europa.eu/publications/security-advisories/2026-014/
 
-### ChatGPTに「この文献にあります」と言われて目を通したが書いてなかったのでそう伝えたら「3版以前を読んでませんか？ 4版で追加された記述です」と正論で殴られた話
-
-- Band: `watch` (raw `strong`)
-- Dynamics score: `19.9`
-- Published: `2026-06-19T12:31:48+00:00` / age_days `100.41`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 4.93, aging penalty -8.0 for 100.4d old signal, stale single-source cap: max watch after 14d without fresh resonance
-- Quelle: https://togetter.com/li/2751313
-
 ### 自宅KubernetesをTalos Linux + Cloudflareベースに刷新した
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-27T04:09:57+00:00` / age_days `0.76`
+- Published: `2026-09-27T04:09:57+00:00` / age_days `0.77`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: kubernetes
@@ -112,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-27T19:06:22.040+00:00` / age_days `0.14`
+- Published: `2026-09-27T19:06:22.040+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -122,10 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-27T17:01:19.040+00:00` / age_days `0.23`
+- Published: `2026-09-27T17:01:19.040+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj
+
+### M 5.0 - Rat Islands, Aleutian Islands, Alaska
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `19.0`
+- Published: `2026-09-27T07:59:00.764+00:00` / age_days `0.61`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve
 
 END OF DOCUMENT
