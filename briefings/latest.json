@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T18:59:32+00:00",
-  "run_id": "2026-09-27T18:59:32+00:00",
+  "generated_at": "2026-09-27T19:16:48+00:00",
+  "run_id": "2026-09-27T19:16:48+00:00",
   "date": "2026-09-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 27
+      "configured_public_sources_only": 28
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 1,
     "medium": 2,
-    "observe": 24,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -249,6 +249,42 @@
           "S"
         ],
         "id": "9d8947d614971316ec1e"
+      },
+      {
+        "title": "M 4.5 - 78 km N of Daocheng, China",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzx",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-27T19:06:22.040+00:00",
+        "fetched_at": "2026-09-27T19:16:18+00:00",
+        "summary": "Time 2026-09-27 18:30:09 UTC 2026-09-27 18:30:09 UTC at epicenter Location 29.744°N 100.266°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "fbdbf33e3a14eb47540d"
       },
       {
         "title": "M 5.0 - 191 km NW of Oula Xiuma, China",
@@ -1026,6 +1062,42 @@
       "id": "9d8947d614971316ec1e"
     },
     {
+      "title": "M 4.5 - 78 km N of Daocheng, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-27T19:06:22.040+00:00",
+      "fetched_at": "2026-09-27T19:16:18+00:00",
+      "summary": "Time 2026-09-27 18:30:09 UTC 2026-09-27 18:30:09 UTC at epicenter Location 29.744°N 100.266°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "fbdbf33e3a14eb47540d"
+    },
+    {
       "title": "M 5.0 - 191 km NW of Oula Xiuma, China",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1582,25 +1654,40 @@
   ],
   "new_findings": [
     {
-      "title": "JevでXのタイムラインを浄化する拡張機能を作った",
-      "url": "https://zenn.dev/midorisawa07/articles/58411e9ee7e990",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.5 - 78 km N of Daocheng, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-27T15:17:24+00:00",
-      "fetched_at": "2026-09-27T18:59:00+00:00",
-      "summary": "昨今のXのタイムラインがドブ川の様相を呈していることは、皆さんご存じのとおりです。 Xのアルゴリズムは、ユーザーに対して「今日はこの話題で怒りましょう」と義憤を煽り、「今日はこの人を嘲笑しましょう」とマウント欲を刺激する。義憤もマウント欲も太古から備わるヒトの本能であるため、アルゴリズムの誘いに乗っ...",
+      "published_at": "2026-09-27T19:06:22.040+00:00",
+      "fetched_at": "2026-09-27T19:16:18+00:00",
+      "summary": "Time 2026-09-27 18:30:09 UTC 2026-09-27 18:30:09 UTC at epicenter Location 29.744°N 100.266°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6d25bf0d46508b79b92b"
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "fbdbf33e3a14eb47540d"
     }
   ],
   "source_errors": [],

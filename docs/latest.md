@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T18:59:32+00:00_
+_Generiert: 2026-09-27T19:16:48+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?“ aus heise Security Alerts (Score 24, risk).
+28 neue relevante Treffer. Stärkstes Signal: „Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?“ aus heise Security Alerts (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -77,6 +77,15 @@ _Generiert: 2026-09-27T18:59:32+00:00_
   - Warum relevant: Security (+6.0); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: On 27 September 2026, Citrix published a security bulletin addressing 8 vulnerabilities affecting customer-managed Citrix NetScaler ADC and Citrix NetScaler Gateway, among which 2 critical unauthenticated Remote Code Execution (RCE) vulnerabilities. Citrix has confirmed active exploitation of these 2 critical vulnerabilities in the wild. CERT-EU recommends updating affected software and running a compromise assessme…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.5 - 78 km N of Daocheng, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzx)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-27T19:06:22.040+00:00`, fetched `2026-09-27T19:16:18+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-27 18:30:09 UTC 2026-09-27 18:30:09 UTC at epicenter Location 29.744°N 100.266°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 191 km NW of Oula Xiuma, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-27T17:01:19.040+00:00`, fetched `2026-09-27T17:18:10+00:00`
@@ -85,15 +94,6 @@ _Generiert: 2026-09-27T18:59:32+00:00_
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-27 16:43:10 UTC 2026-09-27 16:43:10 UTC at epicenter Location 35.386°N 99.554°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - Rat Islands, Aleutian Islands, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txxm)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-27T08:05:41.040+00:00`, fetched `2026-09-27T08:26:28+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - III Time 2026-09-27 07:48:11 UTC 2026-09-27 07:48:11 UTC at epicenter Location 50.904°N 179.322°E Depth 46.52 km (28.91 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI が書く Go コードの品質を劇的に向上させる Linter: “declscope”** — Score 9, observation — [Quelle](https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
