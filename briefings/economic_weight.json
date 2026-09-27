@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T00:35:35+00:00",
+  "generated_at": "2026-09-27T01:20:35+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -11335,6 +11335,23 @@
       "first_seen_at": "2026-09-11T01:08:28+00:00",
       "last_seen_at": "2026-09-11T13:48:13+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1154ef324f49cecbf918",
+      "title": "AI が書く Go コードの品質を劇的に向上させる Linter: “declscope”",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 111200.0,
+      "p50_usd": 11120000.0,
+      "p90_usd": 1112000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-27T01:20:17+00:00",
+      "last_seen_at": "2026-09-27T01:20:17+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_014823216e5b4b658b61",
