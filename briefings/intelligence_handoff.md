@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-27T11:25:15Z_
+_Generated: 2026-09-27T11:37:01Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-27T06:34:48+00:00` / age_days `0.2`
+- Published: `2026-09-27T06:34:48+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-27T06:35:22+00:00` / age_days `0.2`
+- Published: `2026-09-27T06:35:22+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.5`
-- Published: `2026-09-27T07:31:05+00:00` / age_days `0.16`
+- Published: `2026-09-27T07:31:05+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-27T04:09:57+00:00` / age_days `0.3`
+- Published: `2026-09-27T04:09:57+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: kubernetes
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-27T07:59:00.764+00:00` / age_days `0.14`
+- Published: `2026-09-27T07:59:00.764+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-27T04:35:37.040+00:00` / age_days `0.28`
+- Published: `2026-09-27T04:35:37.040+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-27T08:27:03+00:00` / age_days `0.12`
+- Published: `2026-09-27T08:27:03+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-13T13:07:27+00:00` / age_days `13.93`
+- Published: `2026-09-13T13:07:27+00:00` / age_days `13.94`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,20 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-27T01:31:08.040+00:00` / age_days `0.41`
+- Published: `2026-09-27T01:31:08.040+00:00` / age_days `0.42`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu
 
-### M 4.9 - 159 km ESE of Gizo, Solomon Islands
+### 5年前に盗まれたギターがアメリカから帰ってきた話｜TAKU
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `16.5`
-- Published: `2026-09-27T05:24:28+00:00` / age_days `0.25`
+- Dynamics score: `16.66`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `26.7`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy
+- Warum: momentum delta +3, baseline z_hint 1.96, aging penalty -2.0 for 26.7d old signal
+- Quelle: https://note.com/takuinsist/n/n7d2b265d707b
 
 END OF DOCUMENT
