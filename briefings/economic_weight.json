@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T22:58:00+00:00",
+  "generated_at": "2026-09-27T23:15:26+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1472,7 +1472,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-27T07:31:05+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -1965,7 +1965,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-27T17:18:42+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -2084,7 +2084,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-27T19:16:50+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -2135,7 +2135,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T02:44:16+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -2628,7 +2628,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-13T13:07:27+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -2662,7 +2662,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-27T08:27:03+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -2734,6 +2734,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f13861cd9c97df0a3805",
+      "title": "M 4.6 - 19 km SW of Sipí, Colombia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f76b04666ca9d54aa23a",
       "title": "M 4.9 - 124 km N of Aksu, China",
       "event_classes": [
@@ -2766,23 +2783,6 @@
       "first_seen_at": "2026-08-29T11:40:09+00:00",
       "last_seen_at": "2026-08-29T23:58:25+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_f13861cd9c97df0a3805",
-      "title": "M 4.6 - 19 km SW of Sipí, Colombia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-27T22:57:43+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_058a0e17878f3797ed5c",
@@ -2968,7 +2968,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-27T22:01:44+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -2985,7 +2985,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-27T05:24:28+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -3155,7 +3155,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-27T01:47:15+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -3189,7 +3189,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T07:23:48+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -3410,7 +3410,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-27T22:20:07+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -4294,7 +4294,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-27T02:54:18+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -7626,7 +7626,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T08:29:02+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -7966,7 +7966,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-27T06:35:22+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -8935,7 +8935,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -9105,7 +9105,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-27T17:18:42+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -11111,7 +11111,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-27T01:20:17+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -14750,7 +14750,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
@@ -14852,7 +14852,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-27T22:57:43+00:00",
+      "last_seen_at": "2026-09-27T23:15:06+00:00",
       "status": "active"
     },
     {
