@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-27T17:49:44Z",
+  "generated_at": "2026-09-27T18:16:45Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -40,7 +40,7 @@
       "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-27T06:34:48+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -68,7 +68,7 @@
       "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-27T06:35:22+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -93,7 +93,7 @@
       "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 100.42,
+      "age_days": 100.44,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-27T11:34:00.000+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -147,7 +147,7 @@
       "url": "https://www.sunafuki.com/entry/chatgpt_English",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T17:18:42+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -171,7 +171,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924930",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:31:05+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -195,25 +195,23 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-014/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-09-10T08:29:02+00:00",
-      "age_days": 17.39,
+      "age_days": 17.41,
       "topics": [
         "general"
       ],
       "dynamics_score": 19.9,
-      "raw_band": "krass",
+      "raw_band": "strong",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.93,
+      "baseline_z_hint": 0.0,
       "security_high_signal": true,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.93",
         "high terms: critical, citrix",
-        "krass gate: single-source non-official/non-identity signal capped",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
@@ -223,7 +221,7 @@
       "url": "https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T04:09:57+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "general"
       ],
@@ -248,7 +246,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T17:01:19.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -273,7 +271,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:59:00.764+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -298,7 +296,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T04:35:37.040+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
