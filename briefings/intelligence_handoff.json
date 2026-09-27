@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-27T04:16:19Z",
+  "generated_at": "2026-09-27T04:41:59Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.1 - 90 km ENE of Tadine, New Caledonia” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=17.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T02:38:54.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -40,7 +40,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T01:31:08.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -61,36 +61,11 @@
       "summary": "Time 2026-09-27 01:18:25 UTC 2026-09-27 01:18:25 UTC at epicenter Location 21.430°S 168.457°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "自宅KubernetesをTalos Linux + Cloudflareベースに刷新した",
-      "url": "https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-27T04:09:57+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "high terms: kubernetes"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 5.1 - 90 km ENE of Tadine, New Caledonia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T02:54:18+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -114,7 +89,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T01:47:15+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -134,27 +109,52 @@
       "summary": ""
     },
     {
+      "title": "自宅KubernetesをTalos Linux + Cloudflareベースに刷新した",
+      "url": "https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-27T04:09:57+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: kubernetes"
+      ],
+      "summary": ""
+    },
+    {
       "title": "ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する",
       "url": "https://togetter.com/li/2750963",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 99.66,
+      "age_days": 99.67,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 11.05,
+      "dynamics_score": 10.8,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.5,
+      "baseline_z_hint": 5.27,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 5.50",
+        "baseline z_hint 5.27",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 99.7d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -166,7 +166,7 @@
       "url": "https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T01:20:17+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -192,7 +192,7 @@
       "url": "https://togetter.com/li/2750963",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T01:03:59+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -218,7 +218,7 @@
       "url": "https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 100.1,
+      "age_days": 100.11,
       "topics": [
         "general"
       ],
@@ -243,7 +243,7 @@
       "url": "https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T12:06:17+00:00",
-      "age_days": 0.67,
+      "age_days": 0.69,
       "topics": [
         "ai",
         "macro"
@@ -270,7 +270,7 @@
       "url": "https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T10:09:00+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
@@ -295,7 +295,7 @@
       "url": "https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T14:30:51+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
