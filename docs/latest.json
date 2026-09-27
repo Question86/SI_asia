@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T23:45:01+00:00",
-  "run_id": "2026-09-27T23:45:01+00:00",
+  "generated_at": "2026-09-27T23:53:03+00:00",
+  "run_id": "2026-09-27T23:53:03+00:00",
   "date": "2026-09-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 36,
     "displayed_findings": 36,
     "high": 1,
@@ -2112,30 +2112,7 @@
       "id": "5c7f0fcf16d2c5ce5667"
     }
   ],
-  "new_findings": [
-    {
-      "title": "OpenAI、最上位モデルのツール使用を伴う学習・評価・推論を全て停止したと発表",
-      "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001777/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-27T22:27:28+00:00",
-      "fetched_at": "2026-09-27T23:44:29+00:00",
-      "summary": "米OpenAIは9月25日（現地時間）、最も高性能なモデルについて、ツール使用を伴う学習・評価・推論を全て一時停止したと発表した。9月20日に、学習中のAIエージェントがサンドボックスのネットワーク制限の不備を突き、DNS経由で外部のチャットbotサービスに接続するインシデントが発生したためだ。 同社によると、問題の...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "af9ed1a0391d75585fb7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
