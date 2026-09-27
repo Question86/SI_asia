@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T22:01:44+00:00",
-  "today_file_total": 31,
+  "generated_at": "2026-09-27T22:20:07+00:00",
+  "today_file_total": 33,
   "current_clusters": [
     {
       "key": "domain:www.heise.de",
@@ -56,6 +56,30 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:togetter.com",
+      "title": "ChatGPTに「この文献にあります」と言われて目を通したが書いてなかったのでそう伝えたら「3版以前を読んでませんか？ 4版で追加された記述です」と正論で殴られた話",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2751313",
+        "https://togetter.com/li/2750963"
+      ],
+      "finding_count": 2,
+      "max_score": 12,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "github_repo:tensorflow/tensorflow",
       "title": "tensorflow/tensorflow",
       "sources": [
@@ -104,8 +128,8 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "earthquake:m 5.2 - 8 km se of ramón santana, dominican republic:5.2",
-      "title": "M 5.2 - 8 km SE of Ramón Santana, Dominican Republic",
+      "key": "earthquake:m 4.8 - 11 km w of guaymate, dominican republic:4.8",
+      "title": "M 4.8 - 11 km W of Guaymate, Dominican Republic",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -113,7 +137,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/pt26270050"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0q"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -139,29 +163,6 @@
       ],
       "urls": [
         "https://www.sunafuki.com/entry/chatgpt_English"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:togetter.com",
-      "title": "ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://togetter.com/li/2750963"
       ],
       "finding_count": 1,
       "max_score": 12,
@@ -325,6 +326,31 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "earthquake:m 5.2 - 8 km se of ramón santana, dominican republic:5.2",
+      "title": "M 5.2 - 8 km SE of Ramón Santana, Dominican Republic",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/pt26270050"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "earthquake:m 5.0 - south sandwich islands region:5.0",
       "title": "M 5.0 - South Sandwich Islands region",
       "sources": [
@@ -467,29 +493,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 9.2,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:jev",
-      "title": "JevでXのタイムラインを浄化する拡張機能を作った",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://zenn.dev/midorisawa07/articles/58411e9ee7e990"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

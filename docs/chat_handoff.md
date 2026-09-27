@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-27T22:01:41+00:00_
+_Generated: 2026-09-27T22:20:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `31`
+- findings: `33`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-09-27T22:01:41+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/nn00924930
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-27 07:01:41 UTC 2026-09-27 07:01:41 UTC at epicenter Location 38.932°N 115.308°W Depth 4.43 km (2.75 mi)
 
-### 5. ChatGPTの英語学習効果とは？ 最新の研究や依存の注意点も紹介・おすすめの学習ロードマップも完全解説 - ポリグロットライフ | 言語まなび∞ラボ
+### 5. ChatGPTに「この文献にあります」と言われて目を通したが書いてなかったのでそう伝えたら「3版以前を読んでませんか？ 4版で追加された記述です」と正論で殴られた話
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-09-27T17:27:38+00:00`
+- url: https://togetter.com/li/2751313
+- summary: しえろ🍆 @4_____el ChatGPT「文献 xxx に書いてありますよ」 わたし「目通したけど書いてないよ」 ChatGPT「3 版以前を読んでません？ 4 版で新しい研究成果として追加された記述なのでそっち読んでもらわないと。てか普通最新版チェックしませんか？」 わたし「うう……」（書いてあった） 2026-09-26 19:07:18
+
+### 6. ChatGPTの英語学習効果とは？ 最新の研究や依存の注意点も紹介・おすすめの学習ロードマップも完全解説 - ポリグロットライフ | 言語まなび∞ラボ
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-09-27T10:01:52+00:00`
 - url: https://www.sunafuki.com/entry/chatgpt_English
 - summary: はじめに 今回はChatGPTが急速な進化を続けるなかで、ChatGPTを使った英語学習の効果や問題点を第二言語習得研究の理論と照らし合わせつつ、私自身の使用経験を踏まえて、今後のAIとの付き合い方を考えていきたいと思います。 巷では、ChatGPTへのプロンプトは時代遅れだと言われており、AIをエージェントとして格上げす...
 
-### 6. ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する
+### 7. ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-09-27T01:03:59+00:00`
 - url: https://togetter.com/li/2750963
 - summary: Rootport🔥 @rootport 無料版Geminiの性能は本当にひどい。（最低でも）月額20ドルをChatGPTやClaudeに課金できる人だけが正しい検索結果にたどり着くことができ、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされる。Googleはグーテンベルク以前の世界へと時計の針を戻すつもりか…？ 2026-...
-
-### 7. 2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway
-- source: CERT-EU Security Advisories
-- score: `11`
-- published: `2026-09-27T19:40:52+00:00`
-- url: https://cert.europa.eu/publications/security-advisories/2026-014/
-- summary: On 27 September 2026, Citrix published a security bulletin addressing 8 vulnerabilities affecting customer-managed Citrix NetScaler ADC and Citrix NetScaler Gateway, among which 2 critical unauthenticated Remote Code Execution (RCE) vulnerabilities. Citrix ha…
 
 END OF DOCUMENT

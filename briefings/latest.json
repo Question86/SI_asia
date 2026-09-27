@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T22:01:41+00:00",
-  "run_id": "2026-09-27T22:01:41+00:00",
+  "generated_at": "2026-09-27T22:20:05+00:00",
+  "run_id": "2026-09-27T22:20:05+00:00",
   "date": "2026-09-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 31
+      "configured_public_sources_only": 33
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "new_relevant_findings": 2,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 1,
     "medium": 2,
-    "observe": 28,
+    "observe": 30,
     "source_errors": 0
   },
   "sections": {
@@ -171,6 +171,28 @@
           "LOW"
         ],
         "id": "c8057419921e6f0257e3"
+      },
+      {
+        "title": "ChatGPTに「この文献にあります」と言われて目を通したが書いてなかったのでそう伝えたら「3版以前を読んでませんか？ 4版で追加された記述です」と正論で殴られた話",
+        "url": "https://togetter.com/li/2751313",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-27T17:27:38+00:00",
+        "fetched_at": "2026-09-27T22:19:32+00:00",
+        "summary": "しえろ🍆 @4_____el ChatGPT「文献 xxx に書いてありますよ」 わたし「目通したけど書いてないよ」 ChatGPT「3 版以前を読んでません？ 4 版で新しい研究成果として追加された記述なのでそっち読んでもらわないと。てか普通最新版チェックしませんか？」 わたし「うう……」（書いてあった） 2026-09-26 19:07:18",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2f04fd4c451387781cfd"
       },
       {
         "title": "ChatGPTの英語学習効果とは？ 最新の研究や依存の注意点も紹介・おすすめの学習ロードマップも完全解説 - ポリグロットライフ | 言語まなび∞ラボ",
@@ -431,6 +453,42 @@
           "LOW"
         ],
         "id": "ea6bfce19653e20c8267"
+      },
+      {
+        "title": "M 4.8 - 11 km W of Guaymate, Dominican Republic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0q",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-27T22:19:51.667+00:00",
+        "fetched_at": "2026-09-27T22:19:32+00:00",
+        "summary": "DYFI? - IV Time 2026-09-27 21:49:47 UTC 2026-09-27 21:49:47 UTC at epicenter Location 18.607°N 69.086°W Depth 107.39 km (66.73 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "8b9469cb6a5a65e0e102"
       },
       {
         "title": "M 5.2 - 8 km SE of Ramón Santana, Dominican Republic",
@@ -1077,6 +1135,28 @@
       "id": "c8057419921e6f0257e3"
     },
     {
+      "title": "ChatGPTに「この文献にあります」と言われて目を通したが書いてなかったのでそう伝えたら「3版以前を読んでませんか？ 4版で追加された記述です」と正論で殴られた話",
+      "url": "https://togetter.com/li/2751313",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-27T17:27:38+00:00",
+      "fetched_at": "2026-09-27T22:19:32+00:00",
+      "summary": "しえろ🍆 @4_____el ChatGPT「文献 xxx に書いてありますよ」 わたし「目通したけど書いてないよ」 ChatGPT「3 版以前を読んでません？ 4 版で新しい研究成果として追加された記述なのでそっち読んでもらわないと。てか普通最新版チェックしませんか？」 わたし「うう……」（書いてあった） 2026-09-26 19:07:18",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2f04fd4c451387781cfd"
+    },
+    {
       "title": "ChatGPTの英語学習効果とは？ 最新の研究や依存の注意点も紹介・おすすめの学習ロードマップも完全解説 - ポリグロットライフ | 言語まなび∞ラボ",
       "url": "https://www.sunafuki.com/entry/chatgpt_English",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1335,6 +1415,42 @@
         "LOW"
       ],
       "id": "ea6bfce19653e20c8267"
+    },
+    {
+      "title": "M 4.8 - 11 km W of Guaymate, Dominican Republic",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0q",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-27T22:19:51.667+00:00",
+      "fetched_at": "2026-09-27T22:19:32+00:00",
+      "summary": "DYFI? - IV Time 2026-09-27 21:49:47 UTC 2026-09-27 21:49:47 UTC at epicenter Location 18.607°N 69.086°W Depth 107.39 km (66.73 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8b9469cb6a5a65e0e102"
     },
     {
       "title": "M 5.2 - 8 km SE of Ramón Santana, Dominican Republic",
@@ -1840,13 +1956,35 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.2 - 8 km SE of Ramón Santana, Dominican Republic",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26270050",
+      "title": "ChatGPTに「この文献にあります」と言われて目を通したが書いてなかったのでそう伝えたら「3版以前を読んでませんか？ 4版で追加された記述です」と正論で殴られた話",
+      "url": "https://togetter.com/li/2751313",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-27T17:27:38+00:00",
+      "fetched_at": "2026-09-27T22:19:32+00:00",
+      "summary": "しえろ🍆 @4_____el ChatGPT「文献 xxx に書いてありますよ」 わたし「目通したけど書いてないよ」 ChatGPT「3 版以前を読んでません？ 4 版で新しい研究成果として追加された記述なのでそっち読んでもらわないと。てか普通最新版チェックしませんか？」 わたし「うう……」（書いてあった） 2026-09-26 19:07:18",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2f04fd4c451387781cfd"
+    },
+    {
+      "title": "M 4.8 - 11 km W of Guaymate, Dominican Republic",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-27T21:59:01.021+00:00",
-      "fetched_at": "2026-09-27T22:01:10+00:00",
-      "summary": "DYFI? - IV Time 2026-09-27 21:49:46 UTC 2026-09-27 21:49:46 UTC at epicenter Location 18.483°N 69.134°W Depth 109.00 km (67.73 mi)",
+      "published_at": "2026-09-27T22:19:51.667+00:00",
+      "fetched_at": "2026-09-27T22:19:32+00:00",
+      "summary": "DYFI? - IV Time 2026-09-27 21:49:47 UTC 2026-09-27 21:49:47 UTC at epicenter Location 18.607°N 69.086°W Depth 107.39 km (66.73 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -1873,7 +2011,7 @@
         "HD",
         "LOW"
       ],
-      "id": "c02a00399b3397a176e5"
+      "id": "8b9469cb6a5a65e0e102"
     }
   ],
   "source_errors": [],
