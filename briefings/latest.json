@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T07:13:41+00:00",
-  "run_id": "2026-09-27T07:13:41+00:00",
+  "generated_at": "2026-09-27T07:31:02+00:00",
+  "run_id": "2026-09-27T07:31:02+00:00",
   "date": "2026-09-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 1,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 1,
-    "observe": 9,
+    "observe": 10,
     "source_errors": 0
   },
   "sections": {
@@ -54,6 +54,44 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 4.8 - 21 km W of Preston, Nevada",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924930",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-27T07:25:51.824+00:00",
+        "fetched_at": "2026-09-27T07:30:16+00:00",
+        "summary": "PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-27 07:01:41 UTC 2026-09-27 07:01:41 UTC at epicenter Location 38.932°N 115.308°W Depth 4.43 km (2.75 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "c8057419921e6f0257e3"
+      },
       {
         "title": "ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する",
         "url": "https://togetter.com/li/2750963",
@@ -333,6 +371,44 @@
       "id": "b2695312a69a84053a15"
     },
     {
+      "title": "M 4.8 - 21 km W of Preston, Nevada",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924930",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-27T07:25:51.824+00:00",
+      "fetched_at": "2026-09-27T07:30:16+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-27 07:01:41 UTC 2026-09-27 07:01:41 UTC at epicenter Location 38.932°N 115.308°W Depth 4.43 km (2.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c8057419921e6f0257e3"
+    },
+    {
       "title": "ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する",
       "url": "https://togetter.com/li/2750963",
       "source": "Hatena Bookmark Hotentry IT",
@@ -585,7 +661,46 @@
       "id": "5c7f0fcf16d2c5ce5667"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 4.8 - 21 km W of Preston, Nevada",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924930",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-27T07:25:51.824+00:00",
+      "fetched_at": "2026-09-27T07:30:16+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-27 07:01:41 UTC 2026-09-27 07:01:41 UTC at epicenter Location 38.932°N 115.308°W Depth 4.43 km (2.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c8057419921e6f0257e3"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

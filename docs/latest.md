@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T07:13:41+00:00_
+_Generiert: 2026-09-27T07:31:02+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „tensorflow/tensorflow“ aus GitHub Trending RSS All Languages Daily (Score 14, opportunity).
+11 neue relevante Treffer. Stärkstes Signal: „tensorflow/tensorflow“ aus GitHub Trending RSS All Languages Daily (Score 14, opportunity).
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 4.8 - 21 km W of Preston, Nevada** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nn00924930)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-27T07:25:51.824+00:00`, fetched `2026-09-27T07:30:16+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-27 07:01:41 UTC 2026-09-27 07:01:41 UTC at epicenter Location 38.932°N 115.308°W Depth 4.43 km (2.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する** — Score 12, observation — [Quelle](https://togetter.com/li/2750963)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-27T01:03:59+00:00`, fetched `2026-09-27T02:36:43+00:00`
@@ -50,15 +59,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-27 04:59:48 UTC 2026-09-27 04:59:48 UTC at epicenter Location 8.893°S 158.053°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - 90 km ENE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-27T02:38:54.040+00:00`, fetched `2026-09-27T02:53:44+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-27 02:22:10 UTC 2026-09-27 02:22:10 UTC at epicenter Location 21.286°S 168.707°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI が書く Go コードの品質を劇的に向上させる Linter: “declscope”** — Score 9, observation — [Quelle](https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
