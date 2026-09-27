@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-27T05:42:32Z_
+_Generated: 2026-09-27T05:51:28Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “自宅KubernetesをTalos Linux + Cloudfl
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-27T04:09:57+00:00` / age_days `0.06`
+- Published: `2026-09-27T04:09:57+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: kubernetes
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “自宅KubernetesをTalos Linux + Cloudfl
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-13T13:07:27+00:00` / age_days `13.69`
+- Published: `2026-09-13T13:07:27+00:00` / age_days `13.7`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “自宅KubernetesをTalos Linux + Cloudfl
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-27T01:31:08.040+00:00` / age_days `0.17`
+- Published: `2026-09-27T01:31:08.040+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “自宅KubernetesをTalos Linux + Cloudfl
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-27T01:47:15+00:00` / age_days `0.16`
+- Published: `2026-09-27T01:47:15+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -90,19 +90,19 @@ Stärkste Dynamik nach Gate-Recheck: “自宅KubernetesをTalos Linux + Cloudfl
 
 ### M 4.9 - 159 km ESE of Gizo, Solomon Islands
 
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.5`
-- Published: `2026-09-27T05:24:28+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.0`
+- Published: `2026-09-27T05:24:28+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
+- Warum: momentum delta +2
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy
 
 ### AI が書く Go コードの品質を劇的に向上させる Linter: “declscope”
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-09-27T01:20:17+00:00` / age_days `0.18`
+- Published: `2026-09-27T01:20:17+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -111,18 +111,18 @@ Stärkste Dynamik nach Gate-Recheck: “自宅KubernetesをTalos Linux + Cloudfl
 ### ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `9.51`
+- Dynamics score: `9.26`
 - Published: `2026-06-19T12:31:48+00:00` / age_days `99.72`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 4.10, single-source AI hype brake -8.0, aging penalty -8.0 for 99.7d old signal, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, baseline z_hint 3.87, single-source AI hype brake -8.0, aging penalty -8.0 for 99.7d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://togetter.com/li/2750963
 
 ### ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-09-27T01:03:59+00:00` / age_days `0.19`
+- Published: `2026-09-27T01:03:59+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: root, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
