@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-27T19:11:54Z_
+_Generated: 2026-09-27T19:22:53Z_
 
 ## Lageurteil
 
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T07:39:37+00:00` / age_days `100.48`
+- Published: `2026-06-19T07:39:37+00:00` / age_days `100.49`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: zero-day, rce, citrix, security high-signal: zero-day, rce, citrix, aging penalty -8.0 for 100.5d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-27T11:34:00.000+00:00` / age_days `0.32`
+- Published: `2026-09-27T11:34:00.000+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: zero-day, active, exploitation, security high-signal: zero-day, active, exploitation, ausgenutzt, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-09-27T17:18:42+00:00` / age_days `0.08`
+- Published: `2026-09-27T17:18:42+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -98,11 +98,21 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 - Warum: momentum delta +3, high terms: kubernetes
 - Quelle: https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/
 
+### M 4.5 - 78 km N of Daocheng, China
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `19.0`
+- Published: `2026-09-27T19:06:22.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzx
+
 ### M 5.0 - 191 km NW of Oula Xiuma, China
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-27T17:01:19.040+00:00` / age_days `0.09`
+- Published: `2026-09-27T17:01:19.040+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -117,15 +127,5 @@ Stärkste Dynamik nach Gate-Recheck: “2026-014: Critical Vulnerabilities in Ci
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve
-
-### M 4.5 - 145 km WNW of Lebu, Chile
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `19.0`
-- Published: `2026-09-27T04:35:37.040+00:00` / age_days `0.61`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk
 
 END OF DOCUMENT
