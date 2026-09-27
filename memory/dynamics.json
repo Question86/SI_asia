@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-27T12:45:29Z",
+  "generated_at": "2026-09-27T13:12:43Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 38,
@@ -24,7 +24,7 @@
       "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-27T06:34:48+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -52,7 +52,7 @@
       "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-27T06:35:22+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -77,7 +77,7 @@
       "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 100.21,
+      "age_days": 100.23,
       "topics": [
         "security"
       ],
@@ -105,7 +105,7 @@
       "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-27T11:34:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -131,7 +131,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924930",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:31:05+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -151,37 +151,11 @@
       "summary": ""
     },
     {
-      "title": "リモートワークを続けるためにやるべきこと - モヒカン技術ブログ",
-      "url": "https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-05T09:54:14+00:00",
-      "age_days": 22.12,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.3,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -0.4 for 22.1d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "自宅KubernetesをTalos Linux + Cloudflareベースに刷新した",
       "url": "https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T04:09:57+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -206,7 +180,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:59:00.764+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -231,7 +205,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T04:35:37.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -256,7 +230,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txxm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T08:27:03+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -280,7 +254,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:07:27+00:00",
-      "age_days": 13.98,
+      "age_days": 14.0,
       "topics": [
         "general"
       ],
@@ -304,7 +278,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T05:17:35.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -329,7 +303,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T02:38:54.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -354,7 +328,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T01:31:08.040+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "disaster"
       ],
@@ -379,7 +353,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T05:24:28+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -403,7 +377,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T02:54:18+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -427,7 +401,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T01:47:15+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -451,7 +425,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924930",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:25:51.824+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -475,7 +449,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txxm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T08:05:41.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -495,27 +469,52 @@
       "summary": "ShakeMap - III Time 2026-09-27 07:48:11 UTC 2026-09-27 07:48:11 UTC at epicenter Location 50.904°N 179.322°E Depth 46.52 km (28.91 mi)"
     },
     {
-      "title": "5年前に盗まれたギターがアメリカから帰ってきた話｜TAKU",
-      "url": "https://note.com/takuinsist/n/n7d2b265d707b",
+      "title": "リモートワークを続けるためにやるべきこと - モヒカン技術ブログ",
+      "url": "https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 26.75,
+      "published_at": "2026-09-05T09:54:14+00:00",
+      "age_days": 22.14,
       "topics": [
         "general"
       ],
-      "dynamics_score": 12.29,
+      "dynamics_score": 13.6,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.27,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.27",
+        "aging penalty -0.4 for 22.1d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "5年前に盗まれたギターがアメリカから帰ってきた話｜TAKU",
+      "url": "https://note.com/takuinsist/n/n7d2b265d707b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 26.77,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.86,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.8,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 0.80",
         "aging penalty -2.0 for 26.8d old signal"
       ],
       "summary": ""
@@ -525,11 +524,11 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T10:02:00+00:00",
-      "age_days": 28.11,
+      "age_days": 28.13,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.51,
+      "dynamics_score": 11.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -550,7 +549,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 100.92,
+      "age_days": 100.94,
       "topics": [
         "general"
       ],
@@ -575,7 +574,7 @@
       "url": "https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T01:20:17+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -601,7 +600,7 @@
       "url": "https://togetter.com/li/2751108",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T07:54:06+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -625,7 +624,7 @@
       "url": "https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T07:03:07+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -649,7 +648,7 @@
       "url": "https://togetter.com/li/2750963",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T01:03:59+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -675,7 +674,7 @@
       "url": "https://togetter.com/li/2751108",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T14:52:13+00:00",
-      "age_days": 99.91,
+      "age_days": 99.93,
       "topics": [
         "general"
       ],
@@ -700,7 +699,7 @@
       "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T09:34:19+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -726,7 +725,7 @@
       "url": "https://togetter.com/li/2750963",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 100.01,
+      "age_days": 100.03,
       "topics": [
         "ai"
       ],
@@ -753,7 +752,7 @@
       "url": "https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 100.45,
+      "age_days": 100.47,
       "topics": [
         "general"
       ],
@@ -769,7 +768,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 100.4d old signal"
+        "aging penalty -8.0 for 100.5d old signal"
       ],
       "summary": ""
     },
@@ -778,7 +777,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T09:10:52+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -802,7 +801,7 @@
       "url": "https://note.com/takuinsist/n/n7d2b265d707b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T04:21:51+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -826,7 +825,7 @@
       "url": "https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T12:06:17+00:00",
-      "age_days": 1.03,
+      "age_days": 1.05,
       "topics": [
         "ai",
         "macro"
@@ -853,7 +852,7 @@
       "url": "https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T10:09:00+00:00",
-      "age_days": 1.11,
+      "age_days": 1.13,
       "topics": [
         "ai"
       ],
@@ -878,7 +877,7 @@
       "url": "https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T14:30:51+00:00",
-      "age_days": 0.93,
+      "age_days": 0.95,
       "topics": [
         "ai"
       ],
@@ -904,7 +903,7 @@
       "url": "https://note.com/npaka/n/n0ee92a316be3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T04:00:05+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -929,7 +928,7 @@
       "url": "https://note.com/saki_reset/n/nd6d383ce0c75",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T14:33:16+00:00",
-      "age_days": 0.93,
+      "age_days": 0.94,
       "topics": [
         "ai"
       ],
@@ -954,7 +953,7 @@
       "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T02:25:14+00:00",
-      "age_days": 6.43,
+      "age_days": 6.45,
       "topics": [
         "ai"
       ],
