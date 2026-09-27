@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T18:27:23+00:00_
+_Generiert: 2026-09-27T18:59:32+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?“ aus heise Security Alerts (Score 24, risk).
+27 neue relevante Treffer. Stärkstes Signal: „Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?“ aus heise Security Alerts (Score 24, risk).
 
 ## Priorität Hoch
 
