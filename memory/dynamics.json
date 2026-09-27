@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-27T21:37:11Z",
+  "generated_at": "2026-09-27T21:50:11Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,14 +9,14 @@
       "extreme": 1,
       "krass": 2,
       "strong": 4,
-      "watch": 21,
-      "quiet": 12
+      "watch": 23,
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
       "krass": 1,
       "strong": 6,
-      "watch": 21,
-      "quiet": 12
+      "watch": 23,
+      "quiet": 10
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-014/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-09-27T19:40:52+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-27T06:34:48+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -78,7 +78,7 @@
       "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-27T06:35:22+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -103,7 +103,7 @@
       "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 100.58,
+      "age_days": 100.59,
       "topics": [
         "security"
       ],
@@ -131,7 +131,7 @@
       "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-27T11:34:00.000+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -157,7 +157,7 @@
       "url": "https://www.sunafuki.com/entry/chatgpt_English",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T17:18:42+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -181,7 +181,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924930",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:31:05+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -205,7 +205,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-014/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-09-10T08:29:02+00:00",
-      "age_days": 17.55,
+      "age_days": 17.56,
       "topics": [
         "general"
       ],
@@ -231,7 +231,7 @@
       "url": "https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T04:09:57+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "general"
       ],
@@ -256,7 +256,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T19:06:22.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -281,7 +281,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T17:01:19.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -306,7 +306,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:59:00.764+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "disaster"
       ],
@@ -331,7 +331,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T04:35:37.040+00:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "disaster"
       ],
@@ -356,7 +356,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T19:16:50+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -380,7 +380,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T17:18:42+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -404,7 +404,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txxm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T08:27:03+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -428,7 +428,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:07:27+00:00",
-      "age_days": 14.35,
+      "age_days": 14.36,
       "topics": [
         "general"
       ],
@@ -452,7 +452,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T05:17:35.040+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "disaster"
       ],
@@ -477,7 +477,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T02:38:54.040+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "disaster"
       ],
@@ -502,7 +502,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T01:31:08.040+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "disaster"
       ],
@@ -551,7 +551,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T02:54:18+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "general"
       ],
@@ -575,7 +575,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T01:47:15+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "general"
       ],
@@ -599,7 +599,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924930",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T07:25:51.824+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "disaster"
       ],
@@ -619,11 +619,36 @@
       "summary": "PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-27 07:01:41 UTC 2026-09-27 07:01:41 UTC at epicenter Location 38.932°N 115.308°W Depth 4.43 km (2.75 mi)"
     },
     {
+      "title": "M 5.0 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0j",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-04T07:23:48+00:00",
+      "age_days": 23.6,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.59,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -0.9 for 23.6d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "JevでXのタイムラインを浄化する拡張機能を作った",
       "url": "https://zenn.dev/midorisawa07/articles/58411e9ee7e990",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T14:18:56+00:00",
-      "age_days": 8.3,
+      "age_days": 8.31,
       "topics": [
         "general"
       ],
@@ -647,7 +672,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txxm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T08:05:41.040+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -671,7 +696,7 @@
       "url": "https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T09:54:14+00:00",
-      "age_days": 22.49,
+      "age_days": 22.5,
       "topics": [
         "general"
       ],
@@ -696,11 +721,11 @@
       "url": "https://note.com/npaka/n/n557fb948c3cf",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 27.12,
+      "age_days": 27.13,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 12.86,
+      "dynamics_score": 12.85,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -719,15 +744,39 @@
       "summary": ""
     },
     {
+      "title": "M 5.0 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0j",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-27T21:32:11.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-09-27 21:13:31 UTC 2026-09-27 21:13:31 UTC at epicenter Location 59.136°S 25.935°W Depth 87.66 km (54.47 mi)"
+    },
+    {
       "title": "はてブコメントで攻撃的なやつをJevで隠す拡張機能 - 本しゃぶり",
       "url": "https://honeshabri.hatenablog.com/entry/hatebu-veil",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T10:28:36+00:00",
-      "age_days": 28.46,
+      "age_days": 28.47,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.39,
+      "dynamics_score": 11.38,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -748,7 +797,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T10:02:00+00:00",
-      "age_days": 28.48,
+      "age_days": 28.49,
       "topics": [
         "general"
       ],
@@ -773,7 +822,7 @@
       "url": "https://note.com/npaka/n/n557fb948c3cf",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T07:32:58+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -799,7 +848,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 101.29,
+      "age_days": 101.3,
       "topics": [
         "general"
       ],
@@ -850,7 +899,7 @@
       "url": "https://togetter.com/li/2751108",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T07:54:06+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -874,7 +923,7 @@
       "url": "https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T07:03:07+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "general"
       ],
@@ -898,7 +947,7 @@
       "url": "https://togetter.com/li/2750963",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T01:03:59+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "ai"
       ],
@@ -924,7 +973,7 @@
       "url": "https://zenn.dev/algoartis/articles/73f4da4aa13dcc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T16:37:33+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -942,31 +991,6 @@
         "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ITなんて何も分からない父親に「寺の業務システムを作りたい」と言われたので概念図を書いてもらったら、一発でこれが出てきてすごい",
-      "url": "https://togetter.com/li/2751108",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T14:52:13+00:00",
-      "age_days": 100.28,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 100.3d old signal"
       ],
       "summary": ""
     },
@@ -975,7 +999,7 @@
       "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T09:34:19+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -992,33 +1016,6 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する",
-      "url": "https://togetter.com/li/2750963",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 100.38,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 100.4d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
