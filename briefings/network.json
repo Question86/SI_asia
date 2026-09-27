@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T13:32:02+00:00",
+  "generated_at": "2026-09-27T13:41:50+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 21,
@@ -329,44 +329,6 @@
       "first_seen_at": "2026-09-13T13:07:27+00:00"
     },
     {
-      "key": "domain:honeshabri.hatenablog.com",
-      "title": "はてブコメントで攻撃的なやつをJevで隠す拡張機能 - 本しゃぶり",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://honeshabri.hatenablog.com/entry/hatebu-veil"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-30T10:28:36+00:00"
-    },
-    {
       "key": "earthquake:m 4.9 - 159 km ese of gizo, solomon islands:4.9",
       "title": "M 4.9 - 159 km ESE of Gizo, Solomon Islands",
       "sources": [
@@ -509,18 +471,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 7.03,
+      "network_score": 7.14,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 11.3,
-      "ranking_score": 7.03,
+      "ranking_score": 7.14,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.53,
+      "baseline_bonus": 0.64,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -528,6 +490,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-31T18:43:10+00:00"
+    },
+    {
+      "key": "domain:honeshabri.hatenablog.com",
+      "title": "はてブコメントで攻撃的なやつをJevで隠す拡張機能 - 本しゃぶり",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://honeshabri.hatenablog.com/entry/hatebu-veil"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-30T10:28:36+00:00"
     },
     {
       "key": "title:suica",
@@ -762,7 +762,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-27T13:32:02Z",
+    "generated_at": "2026-09-27T13:41:51Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
