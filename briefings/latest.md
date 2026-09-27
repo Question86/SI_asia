@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T08:42:00+00:00_
+_Generiert: 2026-09-27T08:59:49+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „tensorflow/tensorflow“ aus GitHub Trending RSS All Languages Daily (Score 14, opportunity).
+14 neue relevante Treffer. Stärkstes Signal: „tensorflow/tensorflow“ aus GitHub Trending RSS All Languages Daily (Score 14, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
