@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T03:46:28+00:00_
+_Generiert: 2026-09-27T04:09:55+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する“ aus Hatena Bookmark Hotentry IT (Score 12, observation).
+6 neue relevante Treffer. Stärkstes Signal: „ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する“ aus Hatena Bookmark Hotentry IT (Score 12, observation).
 
 ## Priorität Hoch
 
@@ -52,14 +52,14 @@ Keine neuen mittleren Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 旧題: 「Go のフラットなパッケージにファイル単位の private を持ち込む Linter “declscope”」 はじめに Go は「誰が書いても同じようになる」言語 Go には表現の選択肢が多くありません。三項演算子もなければ例外もなく，メタプログラミングで遊ぶ文化も薄い。 if err != nil を延々と書き，for を回し，構造体を素直...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **2026年9月25日に発表された新しい Microsoft Copilot についての整理 - Qiita** — Score 4, observation — [Quelle](https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3)
+- **自宅KubernetesをTalos Linux + Cloudflareベースに刷新した** — Score 5, observation — [Quelle](https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-26T14:30:51+00:00`, fetched `2026-09-27T01:46:30+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
+  - Zeit: published `2026-09-26T12:06:17+00:00`, fetched `2026-09-27T04:09:27+00:00`
+  - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph demote autopilot (x0.45)
-  - Kurz: はじめに 2026年9月25日、Microsoft は Copilot の大規模アップデートを発表しました。 Introducing the new Copilot with Home, Code and Autopilot 今回の発表を一言でまとめると、 Microsoft Copilot は「質問に答える AI」から、「仕事を実行する AI プラットフォーム」へ進化しようとしている。 ということになりま...
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 自宅KubernetesをTalos Linux + Cloudflareベースに刷新した 2026/09/26 / whywaita / 0 Comments こんにちは、whywrite.it 自宅サーバ班のwhywaita です。 自宅の Kubernetes クラスタを作り直しました。このブログ（blog.whywrite.it）もいまは新しいクラスタの上で動いています。 これで数年ぐらいは戦えるかなという...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
