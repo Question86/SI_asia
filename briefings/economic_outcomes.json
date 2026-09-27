@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T06:35:49+00:00",
+  "generated_at": "2026-09-27T06:57:30+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -1958,7 +1958,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_2f1ef3717d5acdd7d843",
@@ -4020,12 +4020,12 @@
     {
       "event_id": "evt_60edfdb28f0dcfff9358",
       "title": "tensorflow/tensorflow",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
