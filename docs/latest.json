@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T06:56:59+00:00",
-  "run_id": "2026-09-27T06:56:59+00:00",
+  "generated_at": "2026-09-27T07:13:41+00:00",
+  "run_id": "2026-09-27T07:13:41+00:00",
   "date": "2026-09-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 10,
     "displayed_findings": 10,
     "high": 0,
@@ -585,29 +585,7 @@
       "id": "5c7f0fcf16d2c5ce5667"
     }
   ],
-  "new_findings": [
-    {
-      "title": "5年前に盗まれたギターがアメリカから帰ってきた話｜TAKU",
-      "url": "https://note.com/takuinsist/n/n7d2b265d707b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-27T04:21:51+00:00",
-      "fetched_at": "2026-09-27T06:56:28+00:00",
-      "summary": "こんにちは。今日はちょっと長い話を書いてみようと思います。 SNS等で当時発表もしてたので、 ご存知の方もいらっしゃるかと思いますが、 僕は2021年にギターを2本盗まれました。 そのうちの1本がギブソンES-335 シリアルナンバーは182568です。 そして、2026年なんと盗まれてから約5年経って、そのギターがアメリカで...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "86bc7eafd3078390dc3f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
