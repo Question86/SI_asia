@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T01:20:17+00:00",
+  "generated_at": "2026-09-27T01:47:15+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3603,10 +3603,9 @@
       "z_hint": 0.0
     },
     "domain:qiita.com": {
-      "title": "インシデントが起きた瞬間、自分が何をすべきか分からない人へ。CSIRTの動き方まで見渡せる教科書 - Qiita",
-      "updated_at": "2026-09-26T23:56:49+00:00",
+      "title": "2026年9月25日に発表された新しい Microsoft Copilot についての整理 - Qiita",
+      "updated_at": "2026-09-27T01:47:15+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -3635,12 +3634,13 @@
         9.2,
         9.2,
         9.2,
-        9.2
+        9.2,
+        9.1
       ],
-      "rolling_average": 7.97,
+      "rolling_average": 8.04,
       "rolling_peak": 12.2,
-      "last_score": 9.2,
-      "z_hint": 1.23
+      "last_score": 9.1,
+      "z_hint": 1.06
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -50272,13 +50272,25 @@
     },
     "title:linter-declscope": {
       "title": "AI が書く Go コードの品質を劇的に向上させる Linter: “declscope”",
-      "updated_at": "2026-09-27T01:20:17+00:00",
+      "updated_at": "2026-09-27T01:47:15+00:00",
       "network_scores": [
-        14.1
+        14.1,
+        11.1
       ],
-      "rolling_average": 14.1,
+      "rolling_average": 12.6,
       "rolling_peak": 14.1,
-      "last_score": 14.1,
+      "last_score": 11.1,
+      "z_hint": -1.5
+    },
+    "earthquake:m 5.0 - 61 km ene of tadine, new caledonia:5.0": {
+      "title": "M 5.0 - 61 km ENE of Tadine, New Caledonia",
+      "updated_at": "2026-09-27T01:47:15+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
       "z_hint": 0.0
     }
   }
