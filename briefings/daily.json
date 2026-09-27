@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-27T08:00:35+00:00",
-  "today_file_total": 12,
+  "generated_at": "2026-09-27T08:27:03+00:00",
+  "today_file_total": 13,
   "current_clusters": [
     {
-      "key": "earthquake:alaska:5.0",
-      "title": "M 5.0 - Rat Islands, Aleutian Islands, Alaska",
+      "key": "earthquake:alaska:4.6",
+      "title": "M 4.6 - Rat Islands, Aleutian Islands, Alaska",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -12,7 +12,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txxm"
       ],
       "finding_count": 1,
       "max_score": 11,
@@ -97,6 +97,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:alaska:5.0",
+      "title": "M 5.0 - Rat Islands, Aleutian Islands, Alaska",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:chile:4.5",
