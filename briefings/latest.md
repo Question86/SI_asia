@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T22:42:34+00:00_
+_Generiert: 2026-09-27T22:57:39+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?“ aus heise Security Alerts (Score 24, risk).
+34 neue relevante Treffer. Stärkstes Signal: „Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -126,6 +126,15 @@ _Generiert: 2026-09-27T22:42:34+00:00_
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Rootport🔥 @rootport 無料版Geminiの性能は本当にひどい。（最低でも）月額20ドルをChatGPTやClaudeに課金できる人だけが正しい検索結果にたどり着くことができ、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされる。Googleはグーテンベルク以前の世界へと時計の針を戻すつもりか…？ 2026-...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 19 km SW of Sipí, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0u)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-27T22:44:50.040+00:00`, fetched `2026-09-27T22:57:05+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-27 21:57:52 UTC 2026-09-27 21:57:52 UTC at epicenter Location 4.531°N 76.775°W Depth 70.50 km (43.80 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway** — Score 11, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-014/)
   - Quelle: CERT-EU Security Advisories / `rss`
   - Zeit: published `2026-09-27T19:40:52+00:00`, fetched `2026-09-27T17:47:04+00:00`
@@ -143,15 +152,6 @@ _Generiert: 2026-09-27T22:42:34+00:00_
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-27 18:30:09 UTC 2026-09-27 18:30:09 UTC at epicenter Location 29.744°N 100.266°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - 191 km NW of Oula Xiuma, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txzj)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-27T17:01:19.040+00:00`, fetched `2026-09-27T17:18:10+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-27 16:43:10 UTC 2026-09-27 16:43:10 UTC at epicenter Location 35.386°N 99.554°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
