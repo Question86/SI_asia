@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T17:47:32+00:00",
-  "run_id": "2026-09-27T17:47:32+00:00",
+  "generated_at": "2026-09-27T17:55:00+00:00",
+  "run_id": "2026-09-27T17:55:00+00:00",
   "date": "2026-09-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 26,
     "displayed_findings": 26,
     "high": 1,
@@ -1538,42 +1538,7 @@
       "id": "5c7f0fcf16d2c5ce5667"
     }
   ],
-  "new_findings": [
-    {
-      "title": "2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway",
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-014/",
-      "source": "CERT-EU Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-27T19:40:52+00:00",
-      "fetched_at": "2026-09-27T17:47:04+00:00",
-      "summary": "On 27 September 2026, Citrix published a security bulletin addressing 8 vulnerabilities affecting customer-managed Citrix NetScaler ADC and Citrix NetScaler Gateway, among which 2 critical unauthenticated Remote Code Execution (RCE) vulnerabilities. Citrix has confirmed active exploitation of these 2 critical vulnerabilities in the wild. CERT-EU recommends updating affected software and running a compromise assessme…",
-      "matched_keywords": [
-        "CERT-EU",
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: RCE"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "9d8947d614971316ec1e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

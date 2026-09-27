@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-27T17:47:32+00:00",
+  "generated_at": "2026-09-27T17:55:00+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 26,
     "displayed_findings": 26,
     "high": 1,
@@ -90,145 +90,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “tensorflow/tensorflow” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=39.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "tensorflow/tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-09-27T06:34:48+00:00",
-        "age_days": 0.47,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 39.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "An Open Source Machine Learning Framework for Everyone https://tensorflow.org Documentation TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools , libraries , and community resources that lets researchers push the state-of-the-art in ML and develope…"
-      },
-      {
-        "title": "2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway",
-        "url": "https://cert.europa.eu/publications/security-advisories/2026-014/",
-        "source": "CERT-EU Security Advisories",
-        "published_at": "2026-09-27T19:40:52+00:00",
-        "age_days": 0,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, critical",
-          "security high-signal: active, exploitation, critical, unauthenticated"
-        ],
-        "summary": "On 27 September 2026, Citrix published a security bulletin addressing 8 vulnerabilities affecting customer-managed Citrix NetScaler ADC and Citrix NetScaler Gateway, among which 2 critical unauthenticated Remote Code Execution (RCE) vulnerabilities. Citrix has confirmed active exploitation of these 2 critical vulnerab…"
-      },
-      {
-        "title": "tensorflow/tensorflow",
-        "url": "https://github.com/tensorflow/tensorflow",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-09-27T06:35:22+00:00",
-        "age_days": 0.47,
-        "topics": [
-          "axiom"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?",
-        "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
-        "source": "heise Security Alerts",
-        "published_at": "2026-06-19T07:39:37+00:00",
-        "age_days": 100.42,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: zero-day, rce, citrix",
-          "security high-signal: zero-day, rce, citrix",
-          "aging penalty -8.0 for 100.4d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?",
-        "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-27T11:34:00.000+00:00",
-        "age_days": 0.26,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: zero-day, active, exploitation",
-          "security high-signal: zero-day, active, exploitation, ausgenutzt",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": "Der Sicherheitsforscher Kevin Beaumont und ein Threat-Intelligence-Unternehmen mahnen: Neue Exploits würden aktiv ausgenutzt. Offizielle Informationen fehlen."
-      }
-    ]
-  }
+  ]
 }
