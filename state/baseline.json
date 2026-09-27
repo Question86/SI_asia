@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T04:29:50+00:00",
+  "generated_at": "2026-09-27T04:46:41+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3604,9 +3604,8 @@
     },
     "domain:qiita.com": {
       "title": "2026年9月25日に発表された新しい Microsoft Copilot についての整理 - Qiita",
-      "updated_at": "2026-09-27T04:29:50+00:00",
+      "updated_at": "2026-09-27T04:46:41+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -3635,12 +3634,13 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 7.77,
+      "rolling_average": 7.74,
       "rolling_peak": 12.2,
       "last_score": 6.1,
-      "z_hint": -1.67
+      "z_hint": -1.64
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -5023,9 +5023,8 @@
     },
     "domain:togetter.com": {
       "title": "ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する",
-      "updated_at": "2026-09-27T04:29:50+00:00",
+      "updated_at": "2026-09-27T04:46:41+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -5054,12 +5053,13 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 8.83,
+      "rolling_average": 9.07,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": 5.27
+      "z_hint": 5.03
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -30342,8 +30342,8 @@
       "z_hint": 0.0
     },
     "earthquake:chile:4.5": {
-      "title": "M 4.5 - 85 km WNW of Cartagena, Chile",
-      "updated_at": "2026-09-13T23:52:59+00:00",
+      "title": "M 4.5 - 145 km WNW of Lebu, Chile",
+      "updated_at": "2026-09-27T04:46:41+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -30374,12 +30374,12 @@
         13.7,
         13.7,
         13.7,
-        13.7
+        16.7
       ],
-      "rolling_average": 13.7,
-      "rolling_peak": 13.7,
-      "last_score": 13.7,
-      "z_hint": 0.0
+      "rolling_average": 13.8,
+      "rolling_peak": 16.7,
+      "last_score": 16.7,
+      "z_hint": 2.9
     },
     "title:aox": {
       "title": "id:aox に名指しされたので",
@@ -50272,7 +50272,7 @@
     },
     "title:linter-declscope": {
       "title": "AI が書く Go コードの品質を劇的に向上させる Linter: “declscope”",
-      "updated_at": "2026-09-27T04:29:50+00:00",
+      "updated_at": "2026-09-27T04:46:41+00:00",
       "network_scores": [
         14.1,
         11.1,
@@ -50283,16 +50283,17 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.4,
+      "rolling_average": 11.37,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "earthquake:m 5.0 - 61 km ene of tadine, new caledonia:5.0": {
       "title": "M 5.0 - 61 km ENE of Tadine, New Caledonia",
-      "updated_at": "2026-09-27T04:29:50+00:00",
+      "updated_at": "2026-09-27T04:46:41+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -50302,40 +50303,43 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.03,
+      "rolling_average": 12.0,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "earthquake:m 5.1 - 90 km ene of tadine, new caledonia:5.1": {
       "title": "M 5.1 - 90 km ENE of Tadine, New Caledonia",
-      "updated_at": "2026-09-27T04:29:50+00:00",
+      "updated_at": "2026-09-27T04:46:41+00:00",
       "network_scores": [
         14.7,
         11.7,
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.2,
+      "rolling_average": 12.13,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:kubernetes-talos-linux-cloudflare": {
       "title": "自宅KubernetesをTalos Linux + Cloudflareベースに刷新した",
-      "updated_at": "2026-09-27T04:29:50+00:00",
+      "updated_at": "2026-09-27T04:46:41+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.1,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     }
   }
 }
