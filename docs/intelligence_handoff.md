@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-27T14:38:10Z_
+_Generated: 2026-09-27T14:49:54Z_
 
 ## Lageurteil
 
@@ -32,17 +32,27 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T07:39:37+00:00` / age_days `100.29`
+- Published: `2026-06-19T07:39:37+00:00` / age_days `100.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: zero-day, rce, citrix, security high-signal: zero-day, rce, citrix, aging penalty -8.0 for 100.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html
 
+### AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由｜npaka
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `26.84`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: momentum delta +3, baseline z_hint 14.62, high terms: rce, security high-signal: rce, aging penalty -2.0 for 26.8d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://note.com/npaka/n/n557fb948c3cf
+
 ### Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-27T11:34:00.000+00:00` / age_days `0.13`
+- Published: `2026-09-27T11:34:00.000+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: zero-day, active, exploitation, security high-signal: zero-day, active, exploitation, ausgenutzt, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-27T07:59:00.764+00:00` / age_days `0.28`
+- Published: `2026-09-27T07:59:00.764+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-27T04:35:37.040+00:00` / age_days `0.42`
+- Published: `2026-09-27T04:35:37.040+00:00` / age_days `0.43`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-27T08:27:03+00:00` / age_days `0.26`
+- Published: `2026-09-27T08:27:03+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-13T13:07:27+00:00` / age_days `14.06`
+- Published: `2026-09-13T13:07:27+00:00` / age_days `14.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “tensorflow/tensorflow” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-27T05:17:35.040+00:00` / age_days `0.39`
+- Published: `2026-09-27T05:17:35.040+00:00` / age_days `0.4`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy
-
-### M 5.1 - 90 km ENE of Tadine, New Caledonia
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-09-27T02:38:54.040+00:00` / age_days `0.5`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txw5
 
 END OF DOCUMENT
