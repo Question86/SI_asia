@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-09-26T23:50:17Z",
+  "generated_at": "2026-09-27T00:42:35Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -21,31 +21,5 @@
       "text": "Security terms such as actively exploited, unauthenticated RCE, CVSS 9.8/10, domain controller, firewall, VPN, Ivanti, PAN-OS, Exchange should outrank AI hype when exposure is plausible."
     }
   ],
-  "current_dynamic_memory_candidates": [
-    {
-      "title": "Ollaya — Run decision models locally.",
-      "band": "extreme",
-      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
-    },
-    {
-      "title": "Ollaya — Run decision models locally.",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "How to prepare for AI-driven code modernization projects | Claude by Anthropic",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "M 5.0 - 52 km NNW of Ruteng, Indonesia",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "M 5.6 - 74 km ESE of Kokopo, Papua New Guinea",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    }
-  ]
+  "current_dynamic_memory_candidates": []
 }
