@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T02:05:26+00:00_
+_Generiert: 2026-09-27T02:37:15+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 61 km ENE of Tadine, New Caledonia“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
+4 neue relevante Treffer. Stärkstes Signal: „ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する“ aus Hatena Bookmark Hotentry IT (Score 12, observation).
 
 ## Priorität Hoch
 
@@ -16,6 +16,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する** — Score 12, observation — [Quelle](https://togetter.com/li/2750963)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-27T01:03:59+00:00`, fetched `2026-09-27T02:36:43+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Rootport🔥 @rootport 無料版Geminiの性能は本当にひどい。（最低でも）月額20ドルをChatGPTやClaudeに課金できる人だけが正しい検索結果にたどり着くことができ、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされる。Googleはグーテンベルク以前の世界へと時計の針を戻すつもりか…？ 2026-...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 61 km ENE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txvu)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-27T01:31:08.040+00:00`, fetched `2026-09-27T01:46:30+00:00`
