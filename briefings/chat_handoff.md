@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-27T07:52:26+00:00_
+_Generated: 2026-09-27T08:00:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `11`
+- findings: `12`
 
 ## Top Signals
 
@@ -29,18 +29,18 @@ _Generated: 2026-09-27T07:52:26+00:00_
 - url: https://togetter.com/li/2750963
 - summary: Rootport🔥 @rootport 無料版Geminiの性能は本当にひどい。（最低でも）月額20ドルをChatGPTやClaudeに課金できる人だけが正しい検索結果にたどり着くことができ、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされる。Googleはグーテンベルク以前の世界へと時計の針を戻すつもりか…？ 2026-...
 
-### 4. M 4.5 - 145 km WNW of Lebu, Chile
+### 4. M 5.0 - Rat Islands, Aleutian Islands, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-27T07:59:00.764+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdlmve
+- summary: ShakeMap - III Time 2026-09-27 07:48:12 UTC 2026-09-27 07:48:12 UTC at epicenter Location 50.908°N 179.335°E Depth 34.10 km (21.19 mi)
+
+### 5. M 4.5 - 145 km WNW of Lebu, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-27T04:35:37.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk
 - summary: Time 2026-09-27 04:14:44 UTC 2026-09-27 04:14:44 UTC at epicenter Location 37.136°S 75.190°W Depth 10.00 km (6.21 mi)
-
-### 5. M 4.9 - 159 km ESE of Gizo, Solomon Islands
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-27T05:17:35.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwy
-- summary: Time 2026-09-27 04:59:48 UTC 2026-09-27 04:59:48 UTC at epicenter Location 8.893°S 158.053°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
