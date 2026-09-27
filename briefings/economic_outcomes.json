@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T22:43:08+00:00",
+  "generated_at": "2026-09-27T22:58:12+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -6688,7 +6688,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9829beb8b530d4809b35",
@@ -10616,6 +10616,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_f13861cd9c97df0a3805",
+      "title": "M 4.6 - 19 km SW of Sipí, Colombia",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_f13dfb622f60664b8777",
