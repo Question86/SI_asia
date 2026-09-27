@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T11:23:30+00:00",
-  "run_id": "2026-09-27T11:23:30+00:00",
+  "generated_at": "2026-09-27T11:32:33+00:00",
+  "run_id": "2026-09-27T11:32:33+00:00",
   "date": "2026-09-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 17
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 1,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
     "medium": 1,
-    "observe": 16,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -416,6 +416,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "86bc7eafd3078390dc3f"
+      },
+      {
+        "title": "ローカルLLMのためのメモリ基礎知識｜npaka",
+        "url": "https://note.com/npaka/n/n0ee92a316be3",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-27T04:00:05+00:00",
+        "fetched_at": "2026-09-27T11:32:03+00:00",
+        "summary": "ローカルLLMのためのメモリ基礎知識をまとめました。 1. CPU・GPU とメモリ1-1. CPU・GPU・RAM・VRAMの役割PCのスペックでは、 CPU / GPU / RAM / VRAM という4つの言葉がよく出てきます。 まず押さえておきたいのは、これらは同じ種類の部品ではないということです。 ・CPU・GPU → 計算を行う装置 ・RAM・VRAM → 計算に...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8d259545ee0d509f23ad"
       },
       {
         "title": "成長できない職場にはフィードバックが存在しない｜Saki@AI駆動人生",
@@ -917,6 +938,27 @@
       "id": "86bc7eafd3078390dc3f"
     },
     {
+      "title": "ローカルLLMのためのメモリ基礎知識｜npaka",
+      "url": "https://note.com/npaka/n/n0ee92a316be3",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-27T04:00:05+00:00",
+      "fetched_at": "2026-09-27T11:32:03+00:00",
+      "summary": "ローカルLLMのためのメモリ基礎知識をまとめました。 1. CPU・GPU とメモリ1-1. CPU・GPU・RAM・VRAMの役割PCのスペックでは、 CPU / GPU / RAM / VRAM という4つの言葉がよく出てきます。 まず押さえておきたいのは、これらは同じ種類の部品ではないということです。 ・CPU・GPU → 計算を行う装置 ・RAM・VRAM → 計算に...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8d259545ee0d509f23ad"
+    },
+    {
       "title": "成長できない職場にはフィードバックが存在しない｜Saki@AI駆動人生",
       "url": "https://note.com/saki_reset/n/nd6d383ce0c75",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1027,7 +1069,29 @@
       "id": "5c7f0fcf16d2c5ce5667"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ローカルLLMのためのメモリ基礎知識｜npaka",
+      "url": "https://note.com/npaka/n/n0ee92a316be3",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-27T04:00:05+00:00",
+      "fetched_at": "2026-09-27T11:32:03+00:00",
+      "summary": "ローカルLLMのためのメモリ基礎知識をまとめました。 1. CPU・GPU とメモリ1-1. CPU・GPU・RAM・VRAMの役割PCのスペックでは、 CPU / GPU / RAM / VRAM という4つの言葉がよく出てきます。 まず押さえておきたいのは、これらは同じ種類の部品ではないということです。 ・CPU・GPU → 計算を行う装置 ・RAM・VRAM → 計算に...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8d259545ee0d509f23ad"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
