@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T06:35:19+00:00_
+_Generiert: 2026-09-27T06:56:59+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „tensorflow/tensorflow“ aus GitHub Trending RSS All Languages Daily (Score 14, opportunity).
+10 neue relevante Treffer. Stärkstes Signal: „tensorflow/tensorflow“ aus GitHub Trending RSS All Languages Daily (Score 14, opportunity).
 
 ## Priorität Hoch
 
@@ -69,14 +69,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 旧題: 「Go のフラットなパッケージにファイル単位の private を持ち込む Linter “declscope”」 はじめに Go は「誰が書いても同じようになる」言語 Go には表現の選択肢が多くありません。三項演算子もなければ例外もなく，メタプログラミングで遊ぶ文化も薄い。 if err != nil を延々と書き，for を回し，構造体を素直...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **自宅KubernetesをTalos Linux + Cloudflareベースに刷新した** — Score 5, observation — [Quelle](https://blog.whywrite.it/2026/09/26/migrate-homelab-kubernetes-talos-cloudflare/)
+- **5年前に盗まれたギターがアメリカから帰ってきた話｜TAKU** — Score 5, observation — [Quelle](https://note.com/takuinsist/n/n7d2b265d707b)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-26T12:06:17+00:00`, fetched `2026-09-27T04:09:27+00:00`
+  - Zeit: published `2026-09-27T04:21:51+00:00`, fetched `2026-09-27T06:56:28+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 自宅KubernetesをTalos Linux + Cloudflareベースに刷新した 2026/09/26 / whywaita / 0 Comments こんにちは、whywrite.it 自宅サーバ班のwhywaita です。 自宅の Kubernetes クラスタを作り直しました。このブログ（blog.whywrite.it）もいまは新しいクラスタの上で動いています。 これで数年ぐらいは戦えるかなという...
+  - Kurz: こんにちは。今日はちょっと長い話を書いてみようと思います。 SNS等で当時発表もしてたので、 ご存知の方もいらっしゃるかと思いますが、 僕は2021年にギターを2本盗まれました。 そのうちの1本がギブソンES-335 シリアルナンバーは182568です。 そして、2026年なんと盗まれてから約5年経って、そのギターがアメリカで...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
