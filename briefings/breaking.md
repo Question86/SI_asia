@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-27T14:26:08+00:00_
+_Generiert: 2026-09-27T14:35:45+00:00_
 
 ## Sicherheitsforscher warnen: Neue Zero-Day-Exploits in Citrix Netscaler?
 
