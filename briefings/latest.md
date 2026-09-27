@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-27T21:46:54+00:00_
+_Generiert: 2026-09-27T21:54:26+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-09-27T21:46:54+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-88772 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-27`
+  - Kurz: Known exploited vulnerability. Added 2026-09-27. Due 2026-09-30. Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability
+- **CISA KEV: CVE-2026-88771 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-27`
+  - Kurz: Known exploited vulnerability. Added 2026-09-27. Due 2026-09-30. Citrix NetScaler Improper Input Validation Vulnerability
 - **CISA KEV: CVE-2026-67279 MikroTik RouterOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-25`
@@ -21,14 +29,6 @@ _Generiert: 2026-09-27T21:46:54+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-25`
   - Kurz: Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. WordPress Core Remote File Inclusion Vulnerability
-- **CISA KEV: CVE-2026-5430 WSO2 Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-24`
-  - Kurz: Known exploited vulnerability. Added 2026-09-24. Due 2026-09-27. WSO2 Multiple Products Path Traversal Vulnerability 
-- **CISA KEV: CVE-2026-71362 Adobe Commerce and Magento** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-24`
-  - Kurz: Known exploited vulnerability. Added 2026-09-24. Due 2026-09-27. Adobe Commerce and Magento Incorrect Authorization Vulnerability 
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
