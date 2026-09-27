@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T01:47:35+00:00",
+  "generated_at": "2026-09-27T02:05:46+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -3023,6 +3023,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_2e4744ac840d5c2c6cda",
+      "title": "M 5.0 - 61 km ENE of Tadine, New Caledonia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-27T01:47:15+00:00",
+      "last_seen_at": "2026-09-27T02:05:29+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_306789910b1216045fea",
       "title": "M 4.9 - 69 km N of Isangel, Vanuatu",
       "event_classes": [
@@ -4976,23 +4993,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_2e4744ac840d5c2c6cda",
-      "title": "M 5.0 - 61 km ENE of Tadine, New Caledonia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-27T01:47:15+00:00",
-      "last_seen_at": "2026-09-27T01:47:15+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -10924,7 +10924,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-27T01:20:17+00:00",
-      "last_seen_at": "2026-09-27T01:47:15+00:00",
+      "last_seen_at": "2026-09-27T02:05:29+00:00",
       "status": "active"
     },
     {
@@ -14750,7 +14750,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-27T01:47:15+00:00",
+      "last_seen_at": "2026-09-27T02:05:29+00:00",
       "status": "active"
     },
     {
