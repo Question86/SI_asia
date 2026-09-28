@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-28T13:26:58+00:00`
+Generated: `2026-09-28T13:43:24+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -15,6 +15,7 @@ Generated: `2026-09-28T13:26:58+00:00`
 | ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました | $0 | — | 0 | 0 | dormant |
 | 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
+| M 5.4 - north of Svalbard | $0 | — | 0 | 0 | active |
 | Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性 | $0 | — | 0 | 0 | dormant |
 | BuilderIO/agent-native | $0 | — | 0 | 0 | dormant |
 | OpenAI’s GPT-6 Sol and GPT-6 Luna now available | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-28T13:26:58+00:00`
 | Bitcoin drops to US$76,796.54 as 91% S&P 500 correlation exposes crypto’s macro trap | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | $0 | — | 0 | 0 | dormant |
 | M 4.7 - 40 km SSW of Sipí, Colombia | $0 | — | 0 | 0 | dormant |
-| 「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々 | $0 | — | 0 | 0 | dormant |
