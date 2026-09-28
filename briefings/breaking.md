@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-28T19:42:36+00:00_
+_Generiert: 2026-09-28T19:58:10+00:00_
 
 ## How we found 24 Android vulnerabilities using our open source AI security agent
 

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T19:42:34+00:00_
+_Generiert: 2026-09-28T19:58:07+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „How we found 24 Android vulnerabilities using our open source AI security agent“ aus GitHub Blog Atom (Score 23, opportunity).
+80 neue relevante Treffer. Stärkstes Signal: „How we found 24 Android vulnerabilities using our open source AI security agent“ aus GitHub Blog Atom (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -231,6 +231,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: For years, Southeast Asia’s insurtech promise has rested on a simple idea: insurance should be bought where people already spend, borrow, shop, travel or top up their phones. The harder part has been turning that distribution advantage into a business that can scale without burning ever larger amounts of capital. Singapore-headquartered Igloo is now trying […] The post Igloo narrows FY2025 loss as embedded insurance…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Self-hosted runner version enforcement date has moved** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-28T19:22:46+00:00`, fetched `2026-09-28T19:57:39+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.0); recent (+1.0)
+  - Kurz: The enforcement date for GitHub Actions minimum version requirements for self-hosted runners on GitHub Enterprise Cloud has changed. The change ships Monday, September 28, 2026, and full enforcement now begins… The post Self-hosted runner version enforcement date has moved appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Version 1.0: Citrix NetScaler - Systeme werden über ZeroDay-Schwachstellen angegriffen** — Score 10, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289305-1032_bits.html)
   - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
   - Zeit: published `2026-09-28T12:15:00+00:00`, fetched `2026-09-28T13:42:19+00:00`
@@ -267,15 +276,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: London (+2.0)
   - Kurz: Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the Annual Dinner of the Society of Professional Economists, London, 22 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Discount window modernization and treasury market functioning** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20260928-discount-window-modernization-and-treasury-market-functioning)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-28T00:00:00+00:00`, fetched `2026-09-28T14:03:19+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0)
-  - Kurz: Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the 2026 US Treasury Market Conference, organised by the Federal Reserve Bank of New York, New York City, 22 September 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
