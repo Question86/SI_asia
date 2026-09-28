@@ -1,31 +1,54 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-28T00:00:41+00:00",
+  "generated_at": "2026-09-28T01:03:07+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 0,
-    "displayed_findings": 0,
+    "new_relevant_findings": 3,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
-    "medium": 0,
-    "observe": 0
+    "medium": 1,
+    "observe": 2
   },
   "source_errors_count": 0,
-  "top_signals": [],
+  "top_signals": [
+    {
+      "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-28T09:15:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU96520526/",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "section": "medium"
+    },
+    {
+      "title": "「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-27T22:17:34+00:00",
+      "relevance_score": 5,
+      "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001592/",
+      "summary": "飲食店で、客が自分のスマートフォンで料理などを注文する「モバイルオーダー」、いわゆる“スマホ注文”が広がっている。一方で、注文を客のスマホに委ねながら、来店客向けのWi-Fiは用意していない店も少なくない。SNSでは「店の都合でスマホ注文にしているのに、なぜ客が通信を負担するのか」という不満が繰り返し拡散...",
+      "section": "observe"
+    },
+    {
+      "title": "SIA has scaled AI. Aviation must now govern the point of action",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-28T01:00:39+00:00",
+      "relevance_score": 4,
+      "url": "https://e27.co/sia-has-scaled-ai-aviation-must-now-govern-the-point-of-action-20260924/",
+      "summary": "Singapore Airlines’ expanding artificial intelligence (AI) portfolio shows that adoption is no longer the main issue. The harder question is what an AI system should be permitted to do. The Business Times reported on 18 August that Singapore Airlines, or SIA,…",
+      "section": "observe"
+    }
+  ],
   "next_read_order": [
     "briefings/chat_handoff.json",
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Keine verwertbaren Dynamiken im aktuellen Run.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": []
-  }
+  ]
 }
