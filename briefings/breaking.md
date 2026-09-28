@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-09-28T14:48:15+00:00_
+_Generiert: 2026-09-28T14:58:59+00:00_
 
 ## Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00
 
-- Ranking Score: `24.5`
+- Ranking Score: `24.34`
 - Raw Network Score: `24.3`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`

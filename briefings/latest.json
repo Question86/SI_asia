@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T14:48:12+00:00",
-  "run_id": "2026-09-28T14:48:12+00:00",
+  "generated_at": "2026-09-28T14:58:56+00:00",
+  "run_id": "2026-09-28T14:58:56+00:00",
   "date": "2026-09-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 70,
     "displayed_findings": 70,
     "high": 0,
@@ -3545,28 +3545,7 @@
       "id": "3cc6044740c627cc2068"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Has Europe fully digested the new geoeconomic realities - and does it have the energy to cope with them",
-      "url": "https://www.bis.org/speeches/20260928-has-europe-fully-digested-new-geoeconomic-realities-and-does-it-have-energy-cope-them",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-28T00:00:00+00:00",
-      "fetched_at": "2026-09-28T14:47:43+00:00",
-      "summary": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the Annual Dinner of the Society of Professional Economists, London, 22 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: London (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a99ff33adbdd1fa801cc"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
