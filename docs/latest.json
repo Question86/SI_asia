@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T02:59:17+00:00",
-  "run_id": "2026-09-28T02:59:17+00:00",
+  "generated_at": "2026-09-28T03:30:19+00:00",
+  "run_id": "2026-09-28T03:30:19+00:00",
   "date": "2026-09-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 1,
-    "observe": 5,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
@@ -174,6 +174,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3421e012dd52ca4a4807"
+      },
+      {
+        "title": "The credential trap: Why outsiders are winning in signal intelligence",
+        "url": "https://e27.co/the-credential-trap-why-outsiders-are-winning-in-signal-intelligence-20260927/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-28T03:00:23+00:00",
+        "fetched_at": "2026-09-28T03:29:50+00:00",
+        "summary": "The information advantage has a shelf life measured in hours, not years. Yet most people still get their signals third-hand—after hedge funds, after Bloomberg terminals, after institutional analysts have already moved. This gap is not a market inefficiency anymore. It is a design choice. In 2026, the democratisation of market data is reshaping who wins. […] The post The credential trap: Why outsiders are winning in…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Public Health"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph demote demo (x0.45)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "32da54885d6e6bdb374c"
       },
       {
         "title": "SIA has scaled AI. Aviation must now govern the point of action",
@@ -344,6 +365,27 @@
       "id": "3421e012dd52ca4a4807"
     },
     {
+      "title": "The credential trap: Why outsiders are winning in signal intelligence",
+      "url": "https://e27.co/the-credential-trap-why-outsiders-are-winning-in-signal-intelligence-20260927/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-28T03:00:23+00:00",
+      "fetched_at": "2026-09-28T03:29:50+00:00",
+      "summary": "The information advantage has a shelf life measured in hours, not years. Yet most people still get their signals third-hand—after hedge funds, after Bloomberg terminals, after institutional analysts have already moved. This gap is not a market inefficiency anymore. It is a design choice. In 2026, the democratisation of market data is reshaping who wins. […] The post The credential trap: Why outsiders are winning in…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Public Health"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "32da54885d6e6bdb374c"
+    },
+    {
       "title": "SIA has scaled AI. Aviation must now govern the point of action",
       "url": "https://e27.co/sia-has-scaled-ai-aviation-must-now-govern-the-point-of-action-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -367,25 +409,25 @@
   ],
   "new_findings": [
     {
-      "title": "Jevのオープンソース版「Laya」を使ってみた：考えずに、直感で即答する元祖「System One Models」 - GMOインターネットグループ グループ研究開発本部",
-      "url": "https://recruit.group.gmo/engineer/jisedai/blog/jev-system-one-model/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "The credential trap: Why outsiders are winning in signal intelligence",
+      "url": "https://e27.co/the-credential-trap-why-outsiders-are-winning-in-signal-intelligence-20260927/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-26T14:58:00+00:00",
-      "fetched_at": "2026-09-28T02:58:43+00:00",
-      "summary": "2026.09.25 Jevのオープンソース版「Laya」を使ってみた：考えずに、直感で即答する元祖「System One Models」 TL;DR Convai Innovations の Nandakishor Mukkunnoth 氏が公開したオープンソースの意思決定モデル Laya は、状態 (State) と型付きの質問 (Choice / Score / Noul) を受け取り、テキストを生成せずに較正さ...",
+      "published_at": "2026-09-28T03:00:23+00:00",
+      "fetched_at": "2026-09-28T03:29:50+00:00",
+      "summary": "The information advantage has a shelf life measured in hours, not years. Yet most people still get their signals third-hand—after hedge funds, after Bloomberg terminals, after institutional analysts have already moved. This gap is not a market inefficiency anymore. It is a design choice. In 2026, the democratisation of market data is reshaping who wins. […] The post The credential trap: Why outsiders are winning in…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Public Health"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3421e012dd52ca4a4807"
+      "id": "32da54885d6e6bdb374c"
     }
   ],
   "source_errors": [],

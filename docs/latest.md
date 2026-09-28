@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T02:59:17+00:00_
+_Generiert: 2026-09-28T03:30:19+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+7 neue relevante Treffer. Stärkstes Signal: „Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 ## Priorität Hoch
 
@@ -60,15 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026.09.25 Jevのオープンソース版「Laya」を使ってみた：考えずに、直感で即答する元祖「System One Models」 TL;DR Convai Innovations の Nandakishor Mukkunnoth 氏が公開したオープンソースの意思決定モデル Laya は、状態 (State) と型付きの質問 (Choice / Score / Noul) を受け取り、テキストを生成せずに較正さ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SIA has scaled AI. Aviation must now govern the point of action** — Score 4, observation — [Quelle](https://e27.co/sia-has-scaled-ai-aviation-must-now-govern-the-point-of-action-20260924/)
+- **The credential trap: Why outsiders are winning in signal intelligence** — Score 4, risk — [Quelle](https://e27.co/the-credential-trap-why-outsiders-are-winning-in-signal-intelligence-20260927/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-28T01:00:39+00:00`, fetched `2026-09-28T01:02:32+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+  - Zeit: published `2026-09-28T03:00:23+00:00`, fetched `2026-09-28T03:29:50+00:00`
+  - Treffer: APAC Trend Radar, Public Health
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph demote portfolio (x0.45)
-  - Kurz: Singapore Airlines’ expanding artificial intelligence (AI) portfolio shows that adoption is no longer the main issue. The harder question is what an AI system should be permitted to do. The Business Times reported on 18 August that Singapore Airlines, or SIA, has deployed more than 160 AI applications and identified over 550 potential generative-AI use […] The post SIA has scaled AI. Aviation must now govern the poi…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph demote demo (x0.45)
+  - Kurz: The information advantage has a shelf life measured in hours, not years. Yet most people still get their signals third-hand—after hedge funds, after Bloomberg terminals, after institutional analysts have already moved. This gap is not a market inefficiency anymore. It is a design choice. In 2026, the democratisation of market data is reshaping who wins. […] The post The credential trap: Why outsiders are winning in…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
