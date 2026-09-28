@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T01:03:07+00:00_
+_Generiert: 2026-09-28T01:42:59+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+4 neue relevante Treffer. Stärkstes Signal: „Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,6 +73,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab** — Score 12, observation — [Quelle](https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-28T01:30:40+00:00`, fetched `2026-09-28T01:42:21+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia, Watchgraph:agriculture_food_fertilizer
+  - Watchgraph: agriculture_food_fertilizer
+  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
+  - Kurz: For almost two decades, the startup creation playbook for Southeast Asia has been largely predictable: build a super app, raise hundreds of millions of dollars, staff thousands of employees, operate in dozens of markets and scale to dominate the region. Firms like Grab, Sea Group and GoTo have since been synonymous with the region’s ability […] The post One-person company: Why Southeast Asia’s next unicorn may look…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/28/2000001592/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-27T22:17:34+00:00`, fetched `2026-09-28T01:02:32+00:00`
