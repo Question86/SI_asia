@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T17:20:07+00:00_
+_Generiert: 2026-09-28T17:32:31+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
+74 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
   - Kurz: Opening remarks by Mr Vitai Ratanakorn, Governor of the Bank of Thailand, at the International Monetary Fund Economic Review Conference “Power, markets, and strategy in a changing global order”, Bangkok, 11 June 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Cook, An Update on AI and the Economy** — Score 16, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-09-28T17:25:00+00:00`, fetched `2026-09-28T17:32:02+00:00`
+  - Treffer: AI/KI, Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At the Oakland Tech Week Opening Keynote, cohosted by the Kapor Center, Oakland, California
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Thailand targets US$80B semiconductor push as it moves beyond assembly** — Score 16, observation — [Quelle](https://e27.co/thailand-targets-us80b-semiconductor-push-as-it-moves-beyond-assembly-20260928/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-28T07:53:24+00:00`, fetched `2026-09-28T08:05:48+00:00`

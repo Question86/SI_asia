@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-28T17:20:07+00:00_
+_Generated: 2026-09-28T17:32:31+00:00_
 
 ## Status
 - status: `normal`
-- findings: `72`
+- findings: `74`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-28T17:20:07+00:00_
 - url: https://www.bis.org/speeches/20260928-power-markets-and-strategy-changing-global-order
 - summary: Opening remarks by Mr Vitai Ratanakorn, Governor of the Bank of Thailand, at the International Monetary Fund Economic Review Conference “Power, markets, and strategy in a changing global order”, Bangkok, 11 June 2026.
 
-### 3. Thailand targets US$80B semiconductor push as it moves beyond assembly
+### 3. Cook, An Update on AI and the Economy
+- source: Federal Reserve Speeches and Testimony
+- score: `16`
+- published: `2026-09-28T17:25:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm
+- summary: Speech At the Oakland Tech Week Opening Keynote, cohosted by the Kapor Center, Oakland, California
+
+### 4. Thailand targets US$80B semiconductor push as it moves beyond assembly
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-09-28T07:53:24+00:00`
 - url: https://e27.co/thailand-targets-us80b-semiconductor-push-as-it-moves-beyond-assembly-20260928/
 - summary: Nine months ago, Thailand unveiled its first national semiconductor roadmap, a 25-year plan to graduate from backend electronics work to high-value chipmaking. This month, Bangkok approved its first national semiconductor and advanced electronics strategy, ag…
-
-### 4. [UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-09-28T07:21:30+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514
-- summary: Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um möglicherweise beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, Spoofing-Angriffe durchzuführen oder Denial-of-Serv…
 
 ### 5. Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00
 - source: ECB Open Market Operations and Communication
