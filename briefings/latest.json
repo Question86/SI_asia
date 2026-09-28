@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T02:04:34+00:00",
-  "run_id": "2026-09-28T02:04:34+00:00",
+  "generated_at": "2026-09-28T02:39:45+00:00",
+  "run_id": "2026-09-28T02:39:45+00:00",
   "date": "2026-09-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 5,
     "displayed_findings": 5,
     "high": 0,
@@ -323,52 +323,7 @@
       "id": "3cc6044740c627cc2068"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Your startup may be competing with a VC’s existing portfolio",
-      "url": "https://e27.co/your-startup-may-be-competing-with-a-vcs-existing-portfolio-20260927/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-28T02:00:45+00:00",
-      "fetched_at": "2026-09-28T02:04:02+00:00",
-      "summary": "Founders raising a venture round tend to watch other startups. Who has just closed? Who is talking to the same funds? Who is setting the price for the next deal? The fund across the table has another comparison to make. At portfolio level, it also has to weigh opening new positions against preserving capital for […] The post Your startup may be competing with a VC’s existing portfolio appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "founder",
-        "Public Health",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.8); Public Health (+5.0); founder (+2.0); recent (+1.0); watchgraph region europe: Paris (+2.0); watchgraph modules capitals_power_centers (+3.0); watchgraph demote portfolio (x0.45)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "9c13ba0a8344220cad41"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

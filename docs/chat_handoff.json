@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-28T02:04:34+00:00",
+  "generated_at": "2026-09-28T02:39:45+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 5,
     "displayed_findings": 5,
     "high": 0,
@@ -70,134 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96520526/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-28T09:15:00+09:00",
-        "age_days": 0.1,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96520526/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-28T01:03:09+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +2"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab",
-        "url": "https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-28T01:43:02+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 21.5,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Your startup may be competing with a VC’s existing portfolio",
-        "url": "https://e27.co/your-startup-may-be-competing-with-a-vcs-existing-portfolio-20260927/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-28T02:04:37+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 14.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情",
-        "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001592/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-28T01:03:09+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 11.5,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +2"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
