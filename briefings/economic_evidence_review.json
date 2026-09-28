@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T10:03:16+00:00",
+  "generated_at": "2026-09-28T10:27:51+00:00",
   "fx_as_of": null,
-  "candidate_count": 1344,
+  "candidate_count": 1345,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 1344
+    "pending": 1345
   },
   "coverage_warning": null,
   "candidates": [
@@ -17741,6 +17741,27 @@
       "snippet": "mong individual EMDE countries, the largest cross-border bank credit inflows in Q4 2025 went to Brazil ($14 billion), Saudi Arabia ($7.5 billion), Türkiye ($6 billion) and Poland ($5 billion). In contrast, cross-border credit to China contracted by 15% yoy. Graph 3 Click for an interactive version of this graph Graph 3 Open the interactive graph The BIS consolidated b",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/publications/202604-commentary-ibs-gli"
+    },
+    {
+      "amount_native": 4000000000.0,
+      "amount_usd": 4000000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_bb5866c1140b25d7bb92",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_cc17b4bd401d2aacd3f1",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-28T10:27:41+00:00",
+      "overlap_group_suggestion": "evt_cc17b4bd401d2aacd3f1:unknown:7d8efa73c03d",
+      "review_status": "pending",
+      "snippet": "ly has been) to a more specialized product offering,” Miller told Rest of World . Selling chips to Nvidia, OpenAI SK Hynix is deepening ties with the U.S. AI industry, including a $4 billion advanced packaging facility in Indiana, where it broke ground in August. Samsung, too, has been slowly and steadily getting its foot in the American door. Here’s a brief timeline",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 2000000000.0,
