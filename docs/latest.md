@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T18:59:36+00:00_
+_Generiert: 2026-09-28T19:30:28+00:00_
 
 ## Kurzlage
 
-78 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
+79 neue relevante Treffer. Stärkstes Signal: „How we found 24 Android vulnerabilities using our open source AI security agent“ aus GitHub Blog Atom (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **How we found 24 Android vulnerabilities using our open source AI security agent** — Score 23, opportunity — [Quelle](https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-09-28T19:00:00+00:00`, fetched `2026-09-28T19:29:55+00:00`
+  - Treffer: AI/KI, Content-Chance, GitHub, Open Source, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Security (+7.5); Open Source (+3.8); Content-Chance (+5.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom** — Score 20, observation — [Quelle](https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-09-28T10:00:00+00:00`, fetched `2026-09-28T10:26:46+00:00`
@@ -270,8 +279,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten

@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-28T18:59:36+00:00",
+  "generated_at": "2026-09-28T19:30:28+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-28T19:00:00+00:00",
+        "relevance_score": 23,
+        "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/"
+      },
       {
         "title": "South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom",
         "source": "Rest of World Global Tech Feed",
@@ -66,13 +73,129 @@
         "published_at": "2026-09-28T13:30:00+00:00",
         "relevance_score": 12,
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html"
+      }
+    ],
+    "security": [
+      {
+        "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-28T19:00:00+00:00",
+        "relevance_score": 23,
+        "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/"
       },
       {
-        "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-09-28T07:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T07:21:30+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T04:11:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579"
+      },
+      {
+        "title": "バッファロー製Wi-Fi製品における複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-28T13:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94863997/"
+      },
+      {
+        "title": "[NEU] [mittel] Velero: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T11:51:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3607"
+      },
+      {
+        "title": "[NEU] [mittel] X.Org X11: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T11:46:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3606"
+      },
+      {
+        "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T11:31:36+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2459"
+      },
+      {
+        "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T11:31:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2906"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T10:46:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3604"
+      },
+      {
+        "title": "[NEU] [mittel] FreeRDP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T10:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3603"
+      }
+    ],
+    "github": [
+      {
+        "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-28T19:00:00+00:00",
+        "relevance_score": 23,
+        "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/"
+      },
+      {
+        "title": "Angriffe auf Microsoft-SharePoint-Schwachstelle",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-28T12:37:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Angriffe-auf-Microsoft-SharePoint-Schwachstelle-11468081.html"
+      },
+      {
+        "title": "Claude Sonnet 5.5 in GitHub Copilot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-28T18:03:57+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot"
+      },
+      {
+        "title": "Highlights from Git 2.56",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-28T17:23:33+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/open-source/git/highlights-from-git-2-56/"
+      },
+      {
+        "title": "vercel-labs/scriptc",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/vercel-labs/scriptc"
+      },
+      {
+        "title": "InfinityLoop1308/PipePipe",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/InfinityLoop1308/PipePipe"
+      },
+      {
+        "title": "SIA has scaled AI. Aviation must now govern the point of action",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-28T01:00:39+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/sia-has-scaled-ai-aviation-must-now-govern-the-point-of-action-20260924/"
       }
     ],
     "economy": [
@@ -219,78 +342,6 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3595"
       }
     ],
-    "security": [
-      {
-        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T07:21:30+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T04:11:29+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579"
-      },
-      {
-        "title": "バッファロー製Wi-Fi製品における複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-28T13:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94863997/"
-      },
-      {
-        "title": "[NEU] [mittel] Velero: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T11:51:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3607"
-      },
-      {
-        "title": "[NEU] [mittel] X.Org X11: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T11:46:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3606"
-      },
-      {
-        "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T11:31:36+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2459"
-      },
-      {
-        "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T11:31:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2906"
-      },
-      {
-        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T10:46:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3604"
-      },
-      {
-        "title": "[NEU] [mittel] FreeRDP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T10:41:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3603"
-      },
-      {
-        "title": "[NEU] [hoch] Kiteworks Secure File Sharing & Transfer: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T10:41:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3602"
-      }
-    ],
     "general": [
       {
         "title": "M 4.9 - 124 km SE of Pondaguitan, Philippines",
@@ -361,50 +412,6 @@
         "published_at": "2026-09-28T05:07:12.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2y"
-      }
-    ],
-    "github": [
-      {
-        "title": "Angriffe auf Microsoft-SharePoint-Schwachstelle",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-28T12:37:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Angriffe-auf-Microsoft-SharePoint-Schwachstelle-11468081.html"
-      },
-      {
-        "title": "Claude Sonnet 5.5 in GitHub Copilot",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-28T18:03:57+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot"
-      },
-      {
-        "title": "Highlights from Git 2.56",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-09-28T17:23:33+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/open-source/git/highlights-from-git-2-56/"
-      },
-      {
-        "title": "vercel-labs/scriptc",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/vercel-labs/scriptc"
-      },
-      {
-        "title": "InfinityLoop1308/PipePipe",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/InfinityLoop1308/PipePipe"
-      },
-      {
-        "title": "SIA has scaled AI. Aviation must now govern the point of action",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-28T01:00:39+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/sia-has-scaled-ai-aviation-must-now-govern-the-point-of-action-20260924/"
       }
     ]
   }

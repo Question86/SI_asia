@@ -1,19 +1,19 @@
 # Senna Breaking
 
-_Generiert: 2026-09-28T18:59:40+00:00_
+_Generiert: 2026-09-28T19:30:30+00:00_
 
-## Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00
+## How we found 24 Android vulnerabilities using our open source AI security agent
 
-- Ranking Score: `22.06`
-- Raw Network Score: `24.3`
-- Max Monitor Score: `12`
-- Reichweite: `institutional` / `5.0`
-- Early Signal: `nein`
-- Dominanter Emitter: `ja`
-- Quellen: ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews
-- Klassen: central_bank, tier3_specialist
-- Cross-source bestaetigt: ja
-- Momentum: stable (+0)
-- Erste Quelle: http://www.ecb.europa.eu/mopo/implement/omo/html/20260086.en.html
-- Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
+- Ranking Score: `32.5`
+- Raw Network Score: `28.1`
+- Max Monitor Score: `23`
+- Reichweite: `specialist` / `2.5`
+- Early Signal: `ja`
+- Dominanter Emitter: `nein`
+- Quellen: GitHub Blog Atom
+- Klassen: tier3_specialist
+- Cross-source bestaetigt: nein
+- Momentum: increasing (+1)
+- Erste Quelle: https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/
+- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
