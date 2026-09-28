@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T03:52:43+00:00",
+  "generated_at": "2026-09-28T04:01:52+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -826,7 +826,7 @@
       "p90_usd": 107200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-28T01:03:09+00:00",
-      "last_seen_at": "2026-09-28T03:52:26+00:00",
+      "last_seen_at": "2026-09-28T04:01:32+00:00",
       "status": "active"
     },
     {
@@ -5110,8 +5110,8 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T04:22:59+00:00",
-      "last_seen_at": "2026-09-12T20:47:11+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-28T04:01:32+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_fd28464ef32989fe5518",
@@ -5148,6 +5148,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_fe8dfc9d7db2b012409c",
+      "title": "M 5.3 - 69 km NE of Tadine, New Caledonia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-28T03:52:26+00:00",
+      "last_seen_at": "2026-09-28T04:01:32+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_ffdc6e7c9aa410c0d39e",
       "title": "M 5.4 - southern East Pacific Rise",
       "event_classes": [
@@ -5163,23 +5180,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_fe8dfc9d7db2b012409c",
-      "title": "M 5.3 - 69 km NE of Tadine, New Caledonia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-28T03:52:26+00:00",
-      "last_seen_at": "2026-09-28T03:52:26+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -6028,7 +6028,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-28T01:03:09+00:00",
-      "last_seen_at": "2026-09-28T03:52:26+00:00",
+      "last_seen_at": "2026-09-28T04:01:32+00:00",
       "status": "active"
     },
     {
@@ -8697,7 +8697,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-28T01:43:02+00:00",
-      "last_seen_at": "2026-09-28T03:52:26+00:00",
+      "last_seen_at": "2026-09-28T04:01:32+00:00",
       "status": "active"
     },
     {
@@ -13101,7 +13101,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-28T02:04:37+00:00",
-      "last_seen_at": "2026-09-28T03:52:26+00:00",
+      "last_seen_at": "2026-09-28T04:01:32+00:00",
       "status": "active"
     },
     {
@@ -14886,7 +14886,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-28T01:03:09+00:00",
-      "last_seen_at": "2026-09-28T03:52:26+00:00",
+      "last_seen_at": "2026-09-28T04:01:32+00:00",
       "status": "active"
     },
     {
@@ -16144,7 +16144,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-28T02:59:19+00:00",
-      "last_seen_at": "2026-09-28T03:52:26+00:00",
+      "last_seen_at": "2026-09-28T04:01:32+00:00",
       "status": "active"
     },
     {
@@ -16654,7 +16654,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T01:14:13+00:00",
-      "last_seen_at": "2026-09-28T03:52:26+00:00",
+      "last_seen_at": "2026-09-28T04:01:32+00:00",
       "status": "active"
     },
     {
@@ -17352,7 +17352,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-28T03:30:22+00:00",
-      "last_seen_at": "2026-09-28T03:52:26+00:00",
+      "last_seen_at": "2026-09-28T04:01:32+00:00",
       "status": "active"
     },
     {
@@ -17388,6 +17388,23 @@
       "first_seen_at": "2026-09-23T04:56:56+00:00",
       "last_seen_at": "2026-09-23T05:42:29+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6e32e3c8dfbda3d0678c",
+      "title": "Bitcoin dominance at 58.5% and the 55% line that still blocks altseason",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-28T04:01:32+00:00",
+      "last_seen_at": "2026-09-28T04:01:32+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
