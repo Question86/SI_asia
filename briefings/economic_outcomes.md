@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-28T06:00:19+00:00`
+Generated: `2026-09-28T06:50:59+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -12,6 +12,7 @@ Generated: `2026-09-28T06:00:19+00:00`
 | ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明 | $0 | — | 0 | 0 | dormant |
 | anthropics/financial-services | $0 | — | 0 | 0 | dormant |
 | Can Ethereum clear US$2,672 this week and unlock a run to US$3,000? | $0 | — | 0 | 0 | dormant |
+| ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました | $0 | — | 0 | 0 | active |
 | 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
 | Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性 | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-28T06:00:19+00:00`
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | $0 | — | 0 | 0 | dormant |
 | M 4.7 - 40 km SSW of Sipí, Colombia | $0 | — | 0 | 0 | dormant |
 | 「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々 | $0 | — | 0 | 0 | dormant |
-| M 5.0 - 53 km W of Cafayate, Argentina | $0 | — | 0 | 0 | dormant |
