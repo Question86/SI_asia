@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T17:33:11+00:00",
+  "generated_at": "2026-09-28T17:45:36+00:00",
   "fx_as_of": null,
   "candidate_count": 1358,
   "promoted_count": 0,
@@ -15,20 +15,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.88,
       "candidate_id": "cand_8e563f6c12f448661c61",
+      "component_confidence": 0.55,
       "component_suggestion": "capital_allocation",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_624a2e3ce3ccd3efe095",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-09-28T17:33:05+00:00",
       "overlap_group_suggestion": "evt_624a2e3ce3ccd3efe095:capital_allocation:76f729495de1",
       "review_status": "pending",
       "snippet": ", increased AI investment could introduce price pressure to those other sectors. And even more investment is in the pipeline, and companies have only spent a small fraction of the $2 trillion in announced plans. 5 Further, a large portion of the rise in equity prices over the past few years can be attributed to enthusiasm about AI, and that added wealth appears to be f",
       "source_priority": "primary_hint",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm",
-      "component_confidence": 0.55,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm"
     },
     {
       "amount_native": 430000000000.0,
