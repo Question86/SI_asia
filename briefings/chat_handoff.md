@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-28T10:02:43+00:00_
+_Generated: 2026-09-28T10:27:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `38`
+- findings: `42`
 
 ## Top Signals
 
-### 1. Thailand targets US$80B semiconductor push as it moves beyond assembly
+### 1. South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom
+- source: Rest of World Global Tech Feed
+- score: `20`
+- published: `2026-09-28T10:00:00+00:00`
+- url: https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+- summary: Samsung and SK Hynix dominate the high-bandwidth memory market. Now they are competing to become indispensable to Nvidia, OpenAI, and other U.S. AI companies.
+
+### 2. Thailand targets US$80B semiconductor push as it moves beyond assembly
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-09-28T07:53:24+00:00`
 - url: https://e27.co/thailand-targets-us80b-semiconductor-push-as-it-moves-beyond-assembly-20260928/
 - summary: Nine months ago, Thailand unveiled its first national semiconductor roadmap, a 25-year plan to graduate from backend electronics work to high-value chipmaking. This month, Bangkok approved its first national semiconductor and advanced electronics strategy, ag…
 
-### 2. [UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen
+### 3. [UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-28T07:21:30+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514
 - summary: Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um möglicherweise beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, Spoofing-Angriffe durchzuführen oder Denial-of-Serv…
 
-### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-28T04:11:29+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579
 - summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Zustand herbeizuführen oder nicht näher spezifizierten Angriff durchzuführen.
-
-### 4. M 5.4 - 231 km WSW of Port McNeill, Canada
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-28T05:00:04.995+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2u
-- summary: PAGER - GREEN ShakeMap - I Time 2026-09-28 04:41:21 UTC 2026-09-28 04:41:21 UTC at epicenter Location 50.053°N 130.221°W Depth 10.00 km (6.21 mi)
 
 ### 5. One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab
 - source: e27 Asia Startup and Tech Feed

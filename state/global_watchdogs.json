@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-09-28T10:02:45+00:00",
+  "generated_at": "2026-09-28T10:27:19+00:00",
   "sections": {
     "global_security": [
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "USGS earthquake M5.2 - 190 km WSW of Port McNeill, Canada",
-        "summary": "M5.2 - 190 km WSW of Port McNeill, Canada. PAGER alert: none. Tsunami flag: 1.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty43",
-        "published_at": "2026-09-28T09:13:39+00:00",
-        "metrics": {
-          "mag": 5.2,
-          "alert": "",
-          "sig": 416.0,
-          "tsunami": 1
-        }
-      },
       {
         "domain": "security",
         "severity": "high",

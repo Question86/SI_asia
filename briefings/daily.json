@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T10:02:45+00:00",
-  "today_file_total": 38,
+  "generated_at": "2026-09-28T10:27:19+00:00",
+  "today_file_total": 42,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -14,20 +14,45 @@
       "urls": [
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3594",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3595",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2717",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3587",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3316",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3285"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3587"
       ],
-      "finding_count": 6,
+      "finding_count": 8,
       "max_score": 16,
-      "credibility_total": 6.3,
+      "credibility_total": 8.4,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 38.8,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:restofworld.org",
+      "title": "South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom",
+      "sources": [
+        "Rest of World Global Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      ],
+      "finding_count": 1,
+      "max_score": 20,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 31.6,
+      "network_score": 25.1,
       "hot": true,
-      "watchgraph_modules": [],
+      "watchgraph_modules": [
+        "chips_compute_datacenters"
+      ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
@@ -442,47 +467,24 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:www.heise.de",
-      "title": "Sicherheitslücken in Wireshark: Profilimport kann Schadcode mitschleppen",
+      "key": "title:web",
+      "title": "タイムズカーWebシステムへの不正アクセスに関する調査結果および今後の対応について（第2報）｜パーク２４株式会社",
       "sources": [
-        "heise Security Alerts"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.heise.de/news/Sicherheitsluecken-in-Wireshark-Profilimport-kann-Schadcode-mitschleppen-11467554.html"
+        "https://www.park24.co.jp/news/2026/09/20260928-1.html"
       ],
       "finding_count": 1,
-      "max_score": 7,
+      "max_score": 5,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:ifc-joins-boost-cap-table-20m-bet-digital",
-      "title": "IFC joins Boost’s cap table with US$20M bet on digital lending",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/ifc-joins-boosts-cap-table-with-us20m-bet-on-digital-lending-20260928/"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
