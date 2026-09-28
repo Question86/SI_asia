@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T07:52:23+00:00_
+_Generiert: 2026-09-28T08:06:18+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+31 neue relevante Treffer. Stärkstes Signal: „Thailand targets US$80B semiconductor push as it moves beyond assembly“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -65,6 +65,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Thailand targets US$80B semiconductor push as it moves beyond assembly** — Score 16, observation — [Quelle](https://e27.co/thailand-targets-us80b-semiconductor-push-as-it-moves-beyond-assembly-20260928/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-28T07:53:24+00:00`, fetched `2026-09-28T08:05:48+00:00`
+  - Treffer: APAC Trend Radar, Markets/Capital Structure, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.8); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
+  - Kurz: Nine months ago, Thailand unveiled its first national semiconductor roadmap, a 25-year plan to graduate from backend electronics work to high-value chipmaking. This month, Bangkok approved its first national semiconductor and advanced electronics strategy, again. The headline number has grown, though: roughly US$80 billion in cumulative investment and more than 230,000 new jobs by 2050. […] The post Thailand targets…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-28T07:21:30+00:00`, fetched `2026-09-28T07:51:51+00:00`
