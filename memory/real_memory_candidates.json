@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-09-28T13:17:06Z",
+  "generated_at": "2026-09-28T14:17:13Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -22,6 +22,11 @@
     }
   ],
   "current_dynamic_memory_candidates": [
+    {
+      "title": "Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00",
+      "band": "extreme",
+      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
+    },
     {
       "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
       "band": "krass",
@@ -54,11 +59,6 @@
     },
     {
       "title": "[UPDATE] [mittel] OpenClaw: Mehrere Schwachstellen",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[UPDATE] [hoch] Kyverno: Mehrere Schwachstellen",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     }

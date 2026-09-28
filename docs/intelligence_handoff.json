@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-28T13:17:06Z",
+  "generated_at": "2026-09-28T14:17:13Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T07:21:30+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3587",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T08:36:29+00:00",
-      "age_days": 0.19,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3316",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T06:16:29+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -86,35 +86,66 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenClaw ausnutzen, um erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
     },
     {
-      "title": "バッファロー製Wi-Fi製品における複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU94863997/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-28T13:30:00+09:00",
-      "age_days": 0.37,
+      "title": "Version 1.0: Citrix NetScaler - Systeme werden über ZeroDay-Schwachstellen angegriffen",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289305-1032_bits.html",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "published_at": "2026-09-28T12:15:00+00:00",
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 27.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10, citrix",
+        "security high-signal: 10, citrix"
+      ],
+      "summary": "Version 1.0: Citrix NetScaler - Systeme werden über ZeroDay-Schwachstellen angegriffen"
+    },
+    {
+      "title": "Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260086.en.html",
+      "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 101.99,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 2,
+      "momentum_delta": 3,
+      "baseline_z_hint": 13.82,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: jvn, security"
+        "source breadth +2",
+        "momentum delta +3",
+        "baseline z_hint 13.82",
+        "high terms: rce, 10",
+        "security high-signal: rce, 10",
+        "aging penalty -8.0 for 102.0d old signal",
+        "extreme gate recheck: insufficient independent/current evidence"
       ],
-      "summary": "株式会社バッファローが提供する複数のWi-Fi製品の設定画面には、複数の脆弱性が存在します。"
+      "summary": ""
     },
     {
       "title": "vercel-labs/scriptc",
       "url": "https://github.com/vercel-labs/scriptc",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-28T06:50:23+00:00",
-      "age_days": 0.27,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -141,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3607",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T11:51:29+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -167,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3594",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:21:29+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -193,7 +224,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3595",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T10:21:29+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -219,7 +250,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3285",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T06:16:29+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -245,7 +276,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T04:11:29+00:00",
-      "age_days": 0.38,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -270,7 +301,7 @@
       "url": "https://e27.co/astar-and-edb-unveil-sg-semiconductor-as-partnerships-target-ai-era-chis-20260928/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T06:50:23+00:00",
-      "age_days": 0.27,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -291,34 +322,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "Angriffe auf Microsoft-SharePoint-Schwachstelle",
-      "url": "https://www.heise.de/news/Angriffe-auf-Microsoft-SharePoint-Schwachstelle-11468081.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 101.23,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "krass",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: angriffe, sharepoint",
-        "security high-signal: angriffe, sharepoint",
-        "aging penalty -8.0 for 101.2d old signal",
-        "stale single-source cap after 30d: no current exploitation phrase"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -330,9 +333,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 3,
-      "strong": 8,
-      "watch": 1
+      "krass": 4,
+      "strong": 8
     }
   }
 }
