@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T10:27:51+00:00",
+  "generated_at": "2026-09-28T11:00:57+00:00",
   "candidate_count": 1345,
   "candidates": [
     {
@@ -17851,22 +17851,25 @@
       "source_url": "https://www.bis.org/publications/202604-commentary-ibs-gli"
     },
     {
-      "candidate_id": "cand_bb5866c1140b25d7bb92",
-      "event_id": "evt_cc17b4bd401d2aacd3f1",
-      "source_url": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "observed_at": "2026-09-28T10:27:41+00:00",
-      "currency": "USD",
       "amount_native": 4000000000.0,
       "amount_usd": 4000000000.0,
-      "conversion_status": "not_required",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_cc17b4bd401d2aacd3f1:unclassified",
       "attribution_probability": null,
-      "snippet": "ly has been) to a more specialized product offering,” Miller told Rest of World . Selling chips to Nvidia, OpenAI SK Hynix is deepening ties with the U.S. AI industry, including a $4 billion advanced packaging facility in Indiana, where it broke ground in August. Samsung, too, has been slowly and steadily getting its foot in the American door. Here’s a brief timeline",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.35,
-      "review_status": "pending"
+      "candidate_id": "cand_bb5866c1140b25d7bb92",
+      "component_confidence": 0.0,
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_cc17b4bd401d2aacd3f1",
+      "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
+      "observed_at": "2026-09-28T10:27:41+00:00",
+      "overlap_group_suggestion": "evt_cc17b4bd401d2aacd3f1:unknown:7d8efa73c03d",
+      "review_status": "pending",
+      "snippet": "ly has been) to a more specialized product offering,” Miller told Rest of World . Selling chips to Nvidia, OpenAI SK Hynix is deepening ties with the U.S. AI industry, including a $4 billion advanced packaging facility in Indiana, where it broke ground in August. Samsung, too, has been slowly and steadily getting its foot in the American door. Here’s a brief timeline",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
     },
     {
       "amount_native": 3000000000.0,
