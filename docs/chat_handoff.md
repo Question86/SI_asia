@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-28T01:42:59+00:00_
+_Generated: 2026-09-28T02:04:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `5`
 
 ## Top Signals
 
@@ -22,14 +22,21 @@ _Generated: 2026-09-28T01:42:59+00:00_
 - url: https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/
 - summary: For almost two decades, the startup creation playbook for Southeast Asia has been largely predictable: build a super app, raise hundreds of millions of dollars, staff thousands of employees, operate in dozens of markets and scale to dominate the region. Firms…
 
-### 3. 「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情
+### 3. Your startup may be competing with a VC’s existing portfolio
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-09-28T02:00:45+00:00`
+- url: https://e27.co/your-startup-may-be-competing-with-a-vcs-existing-portfolio-20260927/
+- summary: Founders raising a venture round tend to watch other startups. Who has just closed? Who is talking to the same funds? Who is setting the price for the next deal? The fund across the table has another comparison to make. At portfolio level, it also has to weig…
+
+### 4. 「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-27T22:17:34+00:00`
 - url: https://www.itmedia.co.jp/news/article/2609/28/2000001592/
 - summary: 飲食店で、客が自分のスマートフォンで料理などを注文する「モバイルオーダー」、いわゆる“スマホ注文”が広がっている。一方で、注文を客のスマホに委ねながら、来店客向けのWi-Fiは用意していない店も少なくない。SNSでは「店の都合でスマホ注文にしているのに、なぜ客が通信を負担するのか」という不満が繰り返し拡散...
 
-### 4. SIA has scaled AI. Aviation must now govern the point of action
+### 5. SIA has scaled AI. Aviation must now govern the point of action
 - source: e27 Asia Startup and Tech Feed
 - score: `4`
 - published: `2026-09-28T01:00:39+00:00`
