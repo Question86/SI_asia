@@ -152,6 +152,29 @@
     "id": "f304c268d8674cb97f2e"
   },
   {
+    "title": "[NEU] [kritisch] Citrix NetScaler ADC und Citrix NetScaler Gateway: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3587",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-28T08:36:29+00:00",
+    "fetched_at": "2026-09-28T08:41:02+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Citrix NetScaler ADC und Citrix NetScaler Gateway ausnutzen, um beliebigen Code auszuführen, einen Denial-of-Service-Zustand auszulösen, Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen und weitere, nicht näher bezeichnete Auswirkungen zu erzielen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0eb2b20764383be2d84e"
+  },
+  {
     "title": "[UPDATE] [mittel] OpenClaw: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3316",
     "source": "BSI CERT-Bund Security Advisories",
@@ -540,6 +563,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "91fd6af5f3c0cf4f9393"
+  },
+  {
+    "title": "IFC joins Boost’s cap table with US$20M bet on digital lending",
+    "url": "https://e27.co/ifc-joins-boosts-cap-table-with-us20m-bet-on-digital-lending-20260928/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-28T08:07:42+00:00",
+    "fetched_at": "2026-09-28T08:41:02+00:00",
+    "summary": "Boost has secured a US$20 million equity investment from the International Finance Corporation (IFC), bringing the World Bank Group’s private-sector investment arm onto its cap table as the Malaysian fintech looks to deepen its digital lending and financial services business. The deal gives Boost a development finance institution as a strategic shareholder at a time […] The post IFC joins Boost’s cap table with US$2…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c12872e324f6f2bdfc1d"
   },
   {
     "title": "塩崎デジタル副大臣のプロフィールを掲載しました",
