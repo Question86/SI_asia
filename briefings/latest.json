@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T18:01:16+00:00",
-  "run_id": "2026-09-28T18:01:16+00:00",
+  "generated_at": "2026-09-28T18:29:10+00:00",
+  "run_id": "2026-09-28T18:29:10+00:00",
   "date": "2026-09-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 76
+      "configured_public_sources_only": 77
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "new_relevant_findings": 1,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 0,
     "medium": 27,
-    "observe": 49,
+    "observe": 50,
     "source_errors": 0
   },
   "sections": {
@@ -1469,6 +1469,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "26732f3b884785e8a797"
+      },
+      {
+        "title": "Claude Sonnet 5.5 in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-28T18:03:57+00:00",
+        "fetched_at": "2026-09-28T18:28:38+00:00",
+        "summary": "Claude Sonnet 5.5, Anthropic’s newest Sonnet model, is now generally available in GitHub Copilot. It is designed for well-scoped everyday work like building features and fixing bugs. In our early… The post Claude Sonnet 5.5 in GitHub Copilot appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a81f317218e4f59b0f84"
       },
       {
         "title": "Highlights from Git 2.56",
@@ -3388,6 +3409,27 @@
       "id": "26732f3b884785e8a797"
     },
     {
+      "title": "Claude Sonnet 5.5 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-28T18:03:57+00:00",
+      "fetched_at": "2026-09-28T18:28:38+00:00",
+      "summary": "Claude Sonnet 5.5, Anthropic’s newest Sonnet model, is now generally available in GitHub Copilot. It is designed for well-scoped everyday work like building features and fixing bugs. In our early… The post Claude Sonnet 5.5 in GitHub Copilot appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a81f317218e4f59b0f84"
+    },
+    {
       "title": "Highlights from Git 2.56",
       "url": "https://github.blog/open-source/git/highlights-from-git-2-56/",
       "source": "GitHub Blog Atom",
@@ -3865,61 +3907,25 @@
   ],
   "new_findings": [
     {
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "source": "OpenAI News RSS",
+      "title": "Claude Sonnet 5.5 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-09-28T07:00:00+00:00",
-      "fetched_at": "2026-09-28T18:00:46+00:00",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "published_at": "2026-09-28T18:03:57+00:00",
+      "fetched_at": "2026-09-28T18:28:38+00:00",
+      "summary": "Claude Sonnet 5.5, Anthropic’s newest Sonnet model, is now generally available in GitHub Copilot. It is designed for well-scoped everyday work like building features and fixing bugs. In our early… The post Claude Sonnet 5.5 in GitHub Copilot appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
+        "Copilot",
+        "GitHub"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "87bbc81fe80e56a3a4fe"
-    },
-    {
-      "title": "M 4.8 - 155 km NNW of Kilmia, Yemen",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty71",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-28T17:51:48.040+00:00",
-      "fetched_at": "2026-09-28T18:00:46+00:00",
-      "summary": "Time 2026-09-28 17:37:55 UTC 2026-09-28 17:37:55 UTC at epicenter Location 13.388°N 51.494°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "58309b2abdadcd6ea7c6"
+      "id": "a81f317218e4f59b0f84"
     }
   ],
   "source_errors": [],
