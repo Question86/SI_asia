@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-28T18:49:16+00:00_
+_Generated: 2026-09-28T18:59:36+00:00_
 
 ## Status
 - status: `normal`
-- findings: `77`
+- findings: `78`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-28T18:49:16+00:00_
 - url: https://e27.co/thailand-targets-us80b-semiconductor-push-as-it-moves-beyond-assembly-20260928/
 - summary: Nine months ago, Thailand unveiled its first national semiconductor roadmap, a 25-year plan to graduate from backend electronics work to high-value chipmaking. This month, Bangkok approved its first national semiconductor and advanced electronics strategy, ag…
 
-### 5. Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00
+### 5. M 4.6 - 36 km SE of Hualien City, Taiwan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-09-28T18:53:00.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty73
+- summary: Time 2026-09-28 18:20:44 UTC 2026-09-28 18:20:44 UTC at epicenter Location 23.702°N 121.806°E Depth 19.01 km (11.81 mi)
+
+### 6. Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-09-28T14:55:17+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260086.en.html
 - summary: Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00
 
-### 6. Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30
+### 7. Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-09-28T14:40:21+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260085.en.html
 - summary: Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30
 
-### 7. Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
+### 8. Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
 - source: ECB Press Releases Speeches Interviews
 - score: `12`
 - published: `2026-09-28T13:30:00+00:00`
 - url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html
 - summary: Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
-
-### 8. The Lenfest Institute grows landmark program with expanded OpenAI support
-- source: OpenAI News RSS
-- score: `12`
-- published: `2026-09-28T07:00:00+00:00`
-- url: https://openai.com/index/lenfest-ai-collaborative-expansion
-- summary: OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.
 
 END OF DOCUMENT
