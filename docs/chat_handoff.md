@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-28T17:44:51+00:00_
+_Generated: 2026-09-28T18:01:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `74`
+- findings: `76`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-28T17:44:51+00:00_
 - url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html
 - summary: Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
 
-### 8. One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab
-- source: e27 Asia Startup and Tech Feed
+### 8. The Lenfest Institute grows landmark program with expanded OpenAI support
+- source: OpenAI News RSS
 - score: `12`
-- published: `2026-09-28T01:30:40+00:00`
-- url: https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/
-- summary: For almost two decades, the startup creation playbook for Southeast Asia has been largely predictable: build a super app, raise hundreds of millions of dollars, staff thousands of employees, operate in dozens of markets and scale to dominate the region. Firms…
+- published: `2026-09-28T07:00:00+00:00`
+- url: https://openai.com/index/lenfest-ai-collaborative-expansion
+- summary: OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.
 
 END OF DOCUMENT
