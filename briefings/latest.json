@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T14:28:47+00:00",
-  "run_id": "2026-09-28T14:28:47+00:00",
+  "generated_at": "2026-09-28T14:48:12+00:00",
+  "run_id": "2026-09-28T14:48:12+00:00",
   "date": "2026-09-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 69
+      "configured_public_sources_only": 70
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 69,
-    "displayed_findings": 69,
+    "new_relevant_findings": 1,
+    "today_file_total": 70,
+    "displayed_findings": 70,
     "high": 0,
     "medium": 25,
-    "observe": 44,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -1229,6 +1229,26 @@
           "EWZ"
         ],
         "id": "9c13ba0a8344220cad41"
+      },
+      {
+        "title": "Has Europe fully digested the new geoeconomic realities - and does it have the energy to cope with them",
+        "url": "https://www.bis.org/speeches/20260928-has-europe-fully-digested-new-geoeconomic-realities-and-does-it-have-energy-cope-them",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-28T00:00:00+00:00",
+        "fetched_at": "2026-09-28T14:47:43+00:00",
+        "summary": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the Annual Dinner of the Society of Professional Economists, London, 22 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: London (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a99ff33adbdd1fa801cc"
       },
       {
         "title": "Discount window modernization and treasury market functioning",
@@ -2969,6 +2989,26 @@
       "id": "9c13ba0a8344220cad41"
     },
     {
+      "title": "Has Europe fully digested the new geoeconomic realities - and does it have the energy to cope with them",
+      "url": "https://www.bis.org/speeches/20260928-has-europe-fully-digested-new-geoeconomic-realities-and-does-it-have-energy-cope-them",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "fetched_at": "2026-09-28T14:47:43+00:00",
+      "summary": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the Annual Dinner of the Society of Professional Economists, London, 22 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: London (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a99ff33adbdd1fa801cc"
+    },
+    {
       "title": "Discount window modernization and treasury market functioning",
       "url": "https://www.bis.org/speeches/20260928-discount-window-modernization-and-treasury-market-functioning",
       "source": "BIS Central Bankers Speeches",
@@ -3507,45 +3547,24 @@
   ],
   "new_findings": [
     {
-      "title": "Artificial intelligence - the new frontiers of risk",
-      "url": "https://www.bis.org/speeches/20260928-artificial-intelligence-new-frontiers-risk",
+      "title": "Has Europe fully digested the new geoeconomic realities - and does it have the energy to cope with them",
+      "url": "https://www.bis.org/speeches/20260928-has-europe-fully-digested-new-geoeconomic-realities-and-does-it-have-energy-cope-them",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-09-28T00:00:00+00:00",
-      "fetched_at": "2026-09-28T14:28:11+00:00",
-      "summary": "Speech by Mr Denis Beau, First Deputy Governor of the Bank of France, to the Association des avocats en droit boursier, Paris, 9 September 2026.",
+      "fetched_at": "2026-09-28T14:47:43+00:00",
+      "summary": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the Annual Dinner of the Society of Professional Economists, London, 22 September 2026.",
       "matched_keywords": [
-        "AI/KI",
         "Macro/Policy"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)",
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: London (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d2fe314a2e7ba593ed9b"
-    },
-    {
-      "title": "We are raising the policy rate to dampen inflation",
-      "url": "https://www.bis.org/speeches/20260928-we-are-raising-policy-rate-dampen-inflation",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-28T00:00:00+00:00",
-      "fetched_at": "2026-09-28T14:28:11+00:00",
-      "summary": "Introductory statement by Ms Ida Wolden Bache, Governor of Norges Bank (Central Bank of Norway), at the press conference following Norway's announcement of the policy rate, Oslo, 24 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "26732f3b884785e8a797"
+      "id": "a99ff33adbdd1fa801cc"
     }
   ],
   "source_errors": [],
