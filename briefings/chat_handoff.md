@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-28T13:26:18+00:00_
+_Generated: 2026-09-28T13:42:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `56`
+- findings: `61`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-28T13:26:18+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579
 - summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Zustand herbeizuführen oder nicht näher spezifizierten Angriff durchzuführen.
 
-### 5. One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab
+### 5. Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-09-28T14:40:21+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260085.en.html
+- summary: Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30
+
+### 6. Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
+- source: ECB Press Releases Speeches Interviews
+- score: `12`
+- published: `2026-09-28T13:30:00+00:00`
+- url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html
+- summary: Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
+
+### 7. One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-28T01:30:40+00:00`
 - url: https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/
 - summary: For almost two decades, the startup creation playbook for Southeast Asia has been largely predictable: build a super app, raise hundreds of millions of dollars, staff thousands of employees, operate in dozens of markets and scale to dominate the region. Firms…
 
-### 6. Multiples vulnérabilités dans WordPress (18 septembre 2026)
+### 8. Multiples vulnérabilités dans WordPress (18 septembre 2026)
 - source: CERT-FR Avis de sécurité
 - score: `12`
 - published: `2026-09-18T00:00:00+00:00`
 - url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/
 - summary: De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.
-
-### 7. M 5.2 - 190 km WSW of Port McNeill, Canada
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-28T09:30:37.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty43
-- summary: Time 2026-09-28 09:13:39 UTC 2026-09-28 09:13:39 UTC at epicenter Location 50.171°N 129.679°W Depth 10.00 km (6.21 mi)
-
-### 8. Igloo narrows FY2025 loss as embedded insurance bet edges closer to breakeven
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-09-28T05:28:18+00:00`
-- url: https://e27.co/igloo-narrows-fy2025-loss-as-embedded-insurance-bet-edges-closer-to-breakeven-20260928/
-- summary: For years, Southeast Asia’s insurtech promise has rested on a simple idea: insurance should be bought where people already spend, borrow, shop, travel or top up their phones. The harder part has been turning that distribution advantage into a business that ca…
 
 END OF DOCUMENT
