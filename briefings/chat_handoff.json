@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-28T03:30:19+00:00",
+  "generated_at": "2026-09-28T03:52:22+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 2,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
     "medium": 1,
-    "observe": 6
+    "observe": 8
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "observe"
     },
     {
+      "title": "M 5.3 - 69 km NE of Tadine, New Caledonia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-28T03:39:27.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2b",
+      "summary": "Time 2026-09-28 03:25:06 UTC 2026-09-28 03:25:06 UTC at epicenter Location 21.196°S 168.441°E Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
       "title": "Your startup may be competing with a VC’s existing portfolio",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -45,23 +55,13 @@
       "section": "observe"
     },
     {
-      "title": "「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情",
+      "title": "「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-27T22:17:34+00:00",
+      "published_at": "2026-09-28T01:08:53+00:00",
       "relevance_score": 5,
-      "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001592/",
-      "summary": "飲食店で、客が自分のスマートフォンで料理などを注文する「モバイルオーダー」、いわゆる“スマホ注文”が広がっている。一方で、注文を客のスマホに委ねながら、来店客向けのWi-Fiは用意していない店も少なくない。SNSでは「店の都合でスマホ注文にしているのに、なぜ客が通信を負担するのか」という不満が繰り返し拡散...",
-      "section": "observe"
-    },
-    {
-      "title": "Jevのオープンソース版「Laya」を使ってみた：考えずに、直感で即答する元祖「System One Models」 - GMOインターネットグループ グループ研究開発本部",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-26T14:58:00+00:00",
-      "relevance_score": 5,
-      "url": "https://recruit.group.gmo/engineer/jisedai/blog/jev-system-one-model/",
-      "summary": "2026.09.25 Jevのオープンソース版「Laya」を使ってみた：考えずに、直感で即答する元祖「System One Models」 TL;DR Convai Innovations の Nandakishor Mukkunnoth 氏が公開したオープンソースの意思決定モデル Laya は、状態 (State) と型付きの質問 (Choice / Score / Noul) を受け取り、テキストを生成せずに較正さ...",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2143595.html",
+      "summary": "「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」",
       "section": "observe"
     }
   ],
