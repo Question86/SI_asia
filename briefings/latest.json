@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T21:23:53+00:00",
-  "run_id": "2026-09-28T21:23:53+00:00",
+  "generated_at": "2026-09-28T21:33:42+00:00",
+  "run_id": "2026-09-28T21:33:42+00:00",
   "date": "2026-09-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 84,
     "displayed_findings": 84,
     "high": 0,
@@ -4321,73 +4321,7 @@
       "id": "3cc6044740c627cc2068"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Are you a Codex Original?",
-      "url": "https://openai.com/form/codex-originals",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-28T00:00:00+00:00",
-      "fetched_at": "2026-09-28T21:23:24+00:00",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "matched_keywords": [
-        "OpenAI",
-        "Public Health",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "OpenAI (+7.5); Public Health (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "d2b98a8eb5ea7cc0cad9"
-    },
-    {
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-28T00:00:00+00:00",
-      "fetched_at": "2026-09-28T21:23:24+00:00",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5fb447e4f61a20aaae83"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
