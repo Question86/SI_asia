@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-28T02:39:45+00:00_
+_Generated: 2026-09-28T02:59:17+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `6`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-09-28T02:39:45+00:00_
 - url: https://www.itmedia.co.jp/news/article/2609/28/2000001592/
 - summary: 飲食店で、客が自分のスマートフォンで料理などを注文する「モバイルオーダー」、いわゆる“スマホ注文”が広がっている。一方で、注文を客のスマホに委ねながら、来店客向けのWi-Fiは用意していない店も少なくない。SNSでは「店の都合でスマホ注文にしているのに、なぜ客が通信を負担するのか」という不満が繰り返し拡散...
 
-### 5. SIA has scaled AI. Aviation must now govern the point of action
-- source: e27 Asia Startup and Tech Feed
-- score: `4`
-- published: `2026-09-28T01:00:39+00:00`
-- url: https://e27.co/sia-has-scaled-ai-aviation-must-now-govern-the-point-of-action-20260924/
-- summary: Singapore Airlines’ expanding artificial intelligence (AI) portfolio shows that adoption is no longer the main issue. The harder question is what an AI system should be permitted to do. The Business Times reported on 18 August that Singapore Airlines, or SIA,…
+### 5. Jevのオープンソース版「Laya」を使ってみた：考えずに、直感で即答する元祖「System One Models」 - GMOインターネットグループ グループ研究開発本部
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-09-26T14:58:00+00:00`
+- url: https://recruit.group.gmo/engineer/jisedai/blog/jev-system-one-model/
+- summary: 2026.09.25 Jevのオープンソース版「Laya」を使ってみた：考えずに、直感で即答する元祖「System One Models」 TL;DR Convai Innovations の Nandakishor Mukkunnoth 氏が公開したオープンソースの意思決定モデル Laya は、状態 (State) と型付きの質問 (Choice / Score / Noul) を受け取り、テキストを生成せずに較正さ...
 
 END OF DOCUMENT
