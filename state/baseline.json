@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T13:42:51+00:00",
+  "generated_at": "2026-09-28T13:55:12+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -59,7 +59,7 @@
     },
     "earthquake:m 4.9 - south sandwich islands region:4.9": {
       "title": "M 4.9 - South Sandwich Islands region",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -68,8 +68,8 @@
         11.7,
         11.7,
         11.7,
-        11.7,
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -909,8 +909,8 @@
       "z_hint": 0.0
     },
     "domain:www.bis.org": {
-      "title": "L'Europe, C'est Nous",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "title": "Power, markets, and strategy in a changing global order",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         34.0,
         34.0,
@@ -940,13 +940,13 @@
         34.0,
         34.0,
         34.0,
-        34.0,
-        11.1
+        11.1,
+        35.4
       ],
-      "rolling_average": 33.24,
-      "rolling_peak": 34.0,
-      "last_score": 11.1,
-      "z_hint": -22.14
+      "rolling_average": 33.28,
+      "rolling_peak": 35.4,
+      "last_score": 35.4,
+      "z_hint": 2.12
     },
     "domain:www.federalreserve.gov": {
       "title": "Barr, A Long-Term View on the Costs of Shelter",
@@ -990,7 +990,7 @@
     },
     "domain:www.ecb.europa.eu": {
       "title": "Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -1020,13 +1020,13 @@
         12.1,
         12.1,
         12.1,
-        12.1,
-        28.2
+        28.2,
+        22.2
       ],
-      "rolling_average": 12.64,
+      "rolling_average": 12.97,
       "rolling_peak": 28.2,
-      "last_score": 28.2,
-      "z_hint": 15.56
+      "last_score": 22.2,
+      "z_hint": 9.23
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -2686,9 +2686,8 @@
     },
     "domain:restofworld.org": {
       "title": "South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
-        8.1,
         8.1,
         8.1,
         8.1,
@@ -2717,12 +2716,13 @@
         22.1,
         22.1,
         22.1,
+        22.1,
         22.1
       ],
-      "rolling_average": 12.4,
+      "rolling_average": 12.87,
       "rolling_peak": 25.1,
       "last_score": 22.1,
-      "z_hint": 9.7
+      "z_hint": 9.23
     },
     "domain:trends.google.com": {
       "title": "축구중계",
@@ -4263,9 +4263,8 @@
     },
     "domain:www.heise.de": {
       "title": "Angriffe auf Microsoft-SharePoint-Schwachstelle",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
-        26.1,
         26.1,
         26.1,
         26.1,
@@ -4294,12 +4293,13 @@
         9.1,
         14.2,
         11.2,
+        11.2,
         11.2
       ],
-      "rolling_average": 16.88,
+      "rolling_average": 16.38,
       "rolling_peak": 26.1,
       "last_score": 11.2,
-      "z_hint": -5.68
+      "z_hint": -5.18
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -4390,8 +4390,8 @@
       "z_hint": 0.0
     },
     "domain:japan.cnet.com": {
-      "title": "グーグル「Gemini」に電話代行の新機能 レストラン予約もお任せ",
-      "updated_at": "2026-09-25T23:54:53+00:00",
+      "title": "広がる「AIで人類滅亡」論、サム・アルトマン氏が語ったこと--2日後に先端モデルの訓練停止も公表",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -4422,12 +4422,12 @@
         12.1,
         12.1,
         12.1,
-        12.1
+        21.1
       ],
-      "rolling_average": 12.1,
-      "rolling_peak": 12.1,
-      "last_score": 12.1,
-      "z_hint": -0.0
+      "rolling_average": 12.4,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
+      "z_hint": 8.7
     },
     "domain:kawarimidoll.com": {
       "title": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com",
@@ -5125,7 +5125,7 @@
     },
     "earthquake:m 4.7 - fiji region:4.7": {
       "title": "M 4.7 - Fiji region",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -5152,8 +5152,8 @@
         11.7,
         11.7,
         11.7,
-        11.7,
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7
@@ -5675,14 +5675,14 @@
     },
     "earthquake:m 5.1 - south sandwich islands region:5.1": {
       "title": "M 5.1 - South Sandwich Islands region",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         11.7,
         11.7,
         11.7,
         11.7,
-        11.7,
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -5781,9 +5781,8 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
-        58.0,
         58.0,
         58.0,
         58.0,
@@ -5812,12 +5811,13 @@
         49.6,
         49.6,
         49.6,
+        49.6,
         49.6
       ],
-      "rolling_average": 38.25,
+      "rolling_average": 37.97,
       "rolling_peak": 58.3,
       "last_score": 49.6,
-      "z_hint": 11.35
+      "z_hint": 11.63
     },
     "title:why-every-warehouse-singapore-will-run-safety-monitoring": {
       "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
@@ -8602,7 +8602,7 @@
     },
     "title:yahoo": {
       "title": "中国、治安維持向けロボット開発 警棒や盾装備し威圧感、試験運用（共同通信） - Yahoo!ニュース",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -8615,8 +8615,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -14272,7 +14272,7 @@
     },
     "domain:www.bsi.bund.de": {
       "title": "Version 1.0: Citrix NetScaler - Systeme werden über ZeroDay-Schwachstellen angegriffen",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -14302,13 +14302,13 @@
         9.1,
         9.1,
         9.1,
-        9.1,
-        15.1
+        15.1,
+        12.1
       ],
-      "rolling_average": 9.3,
+      "rolling_average": 9.4,
       "rolling_peak": 15.1,
-      "last_score": 15.1,
-      "z_hint": 5.8
+      "last_score": 12.1,
+      "z_hint": 2.7
     },
     "domain:lycorptech-jp.connpass.com": {
       "title": "ローカルLLMでどこまでコードが書けるか -LLM基礎知識 / How much code can be written on a local LLM - fundamental knowledge",
@@ -29739,9 +29739,8 @@
     },
     "title:web": {
       "title": "タイムズカーWebシステムへの不正アクセスに関する調査結果および今後の対応について（第2報）｜パーク２４株式会社",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
-        10.1,
         10.1,
         10.1,
         10.1,
@@ -29770,12 +29769,13 @@
         9.2,
         9.2,
         9.2,
+        9.2,
         9.2
       ],
-      "rolling_average": 9.96,
+      "rolling_average": 9.93,
       "rolling_peak": 12.2,
       "last_score": 9.2,
-      "z_hint": -0.76
+      "z_hint": -0.73
     },
     "url:https://www.yomiuri.co.jp/science/20260912-gyt1t00169/": {
       "title": "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
@@ -39158,7 +39158,7 @@
     },
     "title:newsjp": {
       "title": "オムロン、祖業を売却 電子部品事業「重い決断」 | NEWSjp",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -39186,15 +39186,15 @@
         10.1,
         10.1,
         10.1,
-        10.1,
+        7.1,
         7.1,
         7.1,
         7.1
       ],
-      "rolling_average": 9.8,
+      "rolling_average": 9.7,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -2.7
+      "z_hint": -2.6
     },
     "domain:forbesjapan.com": {
       "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
@@ -42195,13 +42195,13 @@
     },
     "title:excel": {
       "title": "「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -48010,7 +48010,7 @@
     },
     "domain:x.org": {
       "title": "[NEU] [mittel] X.Org X11: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -48036,8 +48036,8 @@
         16.1,
         16.1,
         16.1,
-        16.1,
         19.1,
+        16.1,
         16.1,
         16.1,
         16.1,
@@ -48880,7 +48880,7 @@
     },
     "earthquake:m 5.1 - 78 km ene of tadine, new caledonia:5.1": {
       "title": "M 5.1 - 78 km ENE of Tadine, New Caledonia",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -48910,12 +48910,13 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.91,
+      "rolling_average": 11.9,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "title:usage-metrics-api-adds-pull-request-review-stages": {
       "title": "Usage metrics API adds pull request review stages",
@@ -50853,7 +50854,7 @@
     },
     "title:android-readwise-reader": {
       "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -50893,7 +50894,7 @@
     },
     "url:https://www.itmedia.co.jp/news/article/2609/28/2000001592/": {
       "title": "「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -50933,7 +50934,7 @@
     },
     "title:sia-has-scaled-aviation-must-now-govern-point": {
       "title": "SIA has scaled AI. Aviation must now govern the point of action",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -50973,7 +50974,7 @@
     },
     "title:one-person-company-why-southeast-asia-next-unicorn": {
       "title": "One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -51013,9 +51014,9 @@
     },
     "title:your-startup-may-competing-existing-portfolio": {
       "title": "Your startup may be competing with a VC’s existing portfolio",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
-        13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -51046,14 +51047,14 @@
         10.1,
         10.1
       ],
-      "rolling_average": 10.2,
-      "rolling_peak": 13.1,
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
       "last_score": 10.1,
-      "z_hint": -0.1
+      "z_hint": 0.0
     },
     "title:jev-laya-system-one-models-gmo": {
       "title": "Jevのオープンソース版「Laya」を使ってみた：考えずに、直感で即答する元祖「System One Models」 - GMOインターネットグループ グループ研究開発本部",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -51082,18 +51083,20 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.21,
+      "rolling_average": 7.2,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.11
+      "z_hint": -0.1
     },
     "title:credential-trap-why-outsiders-are-winning-signal-intelligence": {
       "title": "The credential trap: Why outsiders are winning in signal intelligence",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         9.1,
+        6.1,
         6.1,
         6.1,
         6.1,
@@ -51128,7 +51131,7 @@
     },
     "earthquake:m 5.3 - 69 km ne of tadine, new caledonia:5.3": {
       "title": "M 5.3 - 69 km NE of Tadine, New Caledonia",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -51155,18 +51158,20 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.82,
+      "rolling_average": 11.81,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "title:bitcoin-dominance-line-that-still-blocks-altseason": {
       "title": "Bitcoin dominance at 58.5% and the 55% line that still blocks altseason",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         9.1,
+        6.1,
         6.1,
         6.1,
         6.1,
@@ -51199,9 +51204,10 @@
     },
     "url:https://gendai.media/articles/-/171505": {
       "title": "豪州に亡命した元「政治領事」の中国外交官が暴露する「浸透工作の実態」",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -51233,7 +51239,7 @@
     },
     "earthquake:m 5.4 - 231 km wsw of port mcneill, canada:5.4": {
       "title": "M 5.4 - 231 km WSW of Port McNeill, Canada",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         20.7,
         17.7,
@@ -51257,18 +51263,20 @@
         17.7,
         17.7,
         17.7,
+        17.7,
         17.7
       ],
-      "rolling_average": 17.83,
+      "rolling_average": 17.82,
       "rolling_peak": 20.7,
       "last_score": 17.7,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "url:https://jvn.jp/vu/jvnvu94863997/": {
       "title": "バッファロー製Wi-Fi製品における複数の脆弱性",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1,
         16.1,
         16.1,
@@ -51299,7 +51307,7 @@
     },
     "earthquake:m 4.6 - northwest of the kuril islands:4.6": {
       "title": "M 4.6 - northwest of the Kuril Islands",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -51323,18 +51331,20 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.83,
+      "rolling_average": 11.82,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:igloo-narrows-fy2025-loss-embedded-insurance-bet-edges": {
       "title": "Igloo narrows FY2025 loss as embedded insurance bet edges closer to breakeven",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -51363,7 +51373,7 @@
     },
     "title:star-edb-unveil-semiconductor-partnerships-target-era-chis": {
       "title": "A*STAR and EDB unveil SG Semiconductor as partnerships target AI-era chis",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -51382,16 +51392,17 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.27,
+      "rolling_average": 12.26,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "url:https://www.digital.go.jp/contact": {
       "title": "ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -51410,16 +51421,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.27,
+      "rolling_average": 8.26,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "github_repo:vercel-labs/scriptc": {
       "title": "vercel-labs/scriptc",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -51438,16 +51450,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.27,
+      "rolling_average": 7.26,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "github_repo:infinityloop1308/pipepipe": {
       "title": "InfinityLoop1308/PipePipe",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -51466,16 +51479,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.27,
+      "rolling_average": 7.26,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "url:https://www.digital.go.jp/about/member/shiozakiakihisa": {
       "title": "塩崎デジタル副大臣のプロフィールを掲載しました",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -51492,16 +51506,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.29,
+      "rolling_average": 8.28,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "url:https://www.digital.go.jp/about/member/akamatsuken": {
       "title": "赤松デジタル大臣政務官のプロフィールを掲載しました",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -51518,16 +51533,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.29,
+      "rolling_average": 8.28,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:thailand-targets-80b-semiconductor-push-moves-beyond-assembly": {
       "title": "Thailand targets US$80B semiconductor push as it moves beyond assembly",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         21.1,
         18.1,
@@ -51543,16 +51559,17 @@
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 18.3,
+      "rolling_average": 18.29,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:ifc-joins-boost-cap-table-20m-bet-digital": {
       "title": "IFC joins Boost’s cap table with US$20M bet on digital lending",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -51567,16 +51584,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.31,
+      "rolling_average": 8.3,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "title:vuln-rabilit-dans-palo-alto-networks-globalprotect-avril": {
       "title": "[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -51590,16 +51608,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.33,
+      "rolling_average": 16.31,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:multiples-vuln-rabilit-dans-wordpress-septembre-2026": {
       "title": "Multiples vulnérabilités dans WordPress (18 septembre 2026)",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -51613,16 +51632,17 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.33,
+      "rolling_average": 14.31,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:vuln-rabilit-dans-kaspersky-secure-mail-gateway-septembre": {
       "title": "Vulnérabilité dans Kaspersky Secure Mail Gateway (18 septembre 2026)",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -51636,16 +51656,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.33,
+      "rolling_average": 10.31,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "earthquake:m 5.2 - 190 km wsw of port mcneill, canada:5.2": {
       "title": "M 5.2 - 190 km WSW of Port McNeill, Canada",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -51658,16 +51679,17 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 13.95,
+      "rolling_average": 13.93,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "title:660": {
       "title": "「タイムズカー」会員情報約660万件漏えい 運転免許画像など 不正アクセスで",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -51675,23 +51697,25 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.53,
+      "rolling_average": 7.48,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "earthquake:m 5.4 - north of svalbard:5.4": {
       "title": "M 5.4 - north of Svalbard",
-      "updated_at": "2026-09-28T13:42:51+00:00",
+      "updated_at": "2026-09-28T13:55:12+00:00",
       "network_scores": [
-        14.7
+        14.7,
+        11.7
       ],
-      "rolling_average": 14.7,
+      "rolling_average": 13.2,
       "rolling_peak": 14.7,
-      "last_score": 14.7,
-      "z_hint": 0.0
+      "last_score": 11.7,
+      "z_hint": -1.5
     }
   }
 }
