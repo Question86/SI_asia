@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T19:43:15+00:00",
+  "generated_at": "2026-09-28T19:58:54+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -6820,7 +6820,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9776f41391ef5319de5a",
@@ -10231,6 +10231,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e3c041dfdd9586cb4cd3",
+      "title": "Self-hosted runner version enforcement date has moved",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_e3d2c52dc5b9bdf7f078",
