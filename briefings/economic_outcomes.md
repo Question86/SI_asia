@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-28T17:45:37+00:00`
+Generated: `2026-09-28T18:01:56+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -15,7 +15,7 @@ Generated: `2026-09-28T17:45:37+00:00`
 | ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました | $0 | — | 0 | 0 | dormant |
 | 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
-| M 5.4 - north of Svalbard | $0 | — | 0 | 0 | active |
+| M 5.4 - north of Svalbard | $0 | — | 0 | 0 | dormant |
 | Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性 | $0 | — | 0 | 0 | dormant |
 | BuilderIO/agent-native | $0 | — | 0 | 0 | dormant |
 | OpenAI’s GPT-6 Sol and GPT-6 Luna now available | $0 | — | 0 | 0 | dormant |
