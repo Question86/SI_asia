@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T09:53:44+00:00_
+_Generiert: 2026-09-28T10:02:43+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „Thailand targets US$80B semiconductor push as it moves beyond assembly“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+38 neue relevante Treffer. Stärkstes Signal: „Thailand targets US$80B semiconductor push as it moves beyond assembly“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社バッファローが提供する複数のWi-Fi製品の設定画面には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Perl: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2717)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-28T09:56:29+00:00`, fetched `2026-09-28T10:02:14+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann eine Schwachstelle in Perl ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96520526/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-28T09:15:00+09:00`, fetched `2026-09-28T01:02:32+00:00`
@@ -66,15 +75,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [kritisch] Citrix NetScaler ADC und Citrix NetScaler Gateway: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3587)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-28T08:36:29+00:00`, fetched `2026-09-28T08:41:02+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Citrix NetScaler ADC und Citrix NetScaler Gateway ausnutzen, um beliebigen Code auszuführen, einen Denial-of-Service-Zustand auszulösen, Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen und weitere, nicht näher bezeichnete Auswirkungen zu erzielen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)** — Score 14, risk — [Quelle](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/)
   - Quelle: CERT-FR Alertes / `rss`
   - Zeit: published `2024-04-12T00:00:00+00:00`, fetched `2026-09-28T08:59:47+00:00`
