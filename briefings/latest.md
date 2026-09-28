@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T14:03:49+00:00_
+_Generiert: 2026-09-28T14:28:47+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
+69 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -203,6 +203,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: For almost two decades, the startup creation playbook for Southeast Asia has been largely predictable: build a super app, raise hundreds of millions of dollars, staff thousands of employees, operate in dozens of markets and scale to dominate the region. Firms like Grab, Sea Group and GoTo have since been synonymous with the region’s ability […] The post One-person company: Why Southeast Asia’s next unicorn may look…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Artificial intelligence - the new frontiers of risk** — Score 12, observation — [Quelle](https://www.bis.org/speeches/20260928-artificial-intelligence-new-frontiers-risk)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-28T00:00:00+00:00`, fetched `2026-09-28T14:28:11+00:00`
+  - Treffer: AI/KI, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)
+  - Kurz: Speech by Mr Denis Beau, First Deputy Governor of the Bank of France, to the Association des avocats en droit boursier, Paris, 9 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans WordPress (18 septembre 2026)** — Score 12, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-09-18T00:00:00+00:00`, fetched `2026-09-28T08:59:47+00:00`
@@ -292,15 +301,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Die CISA warnt vor beobachteten Angriffen auf eine hochriskante SharePoint-Lücke und auf Mikrotik-Router.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Sicherheitslücken in Wireshark: Profilimport kann Schadcode mitschleppen** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-in-Wireshark-Profilimport-kann-Schadcode-mitschleppen-11467554.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-28T07:01:00.000+00:00`, fetched `2026-09-28T07:17:44+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Updates schließen 19 Lücken im Netzwerkanalysetool Wireshark. Über präparierte Profile kann Schadcode auf PCs gelangen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

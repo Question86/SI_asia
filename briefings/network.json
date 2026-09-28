@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-09-28T14:03:52+00:00",
+  "generated_at": "2026-09-28T14:28:51+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 67,
+    "findings": 69,
     "clusters": 44,
     "cross_source_confrmed": 1,
     "hot": 1,
     "early_signals": 0,
-    "dominance_penalized": 10
+    "dominance_penalized": 9
   },
   "clusters": [
     {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00",
+      "key": "domain:www.bis.org",
+      "title": "Power, markets, and strategy in a changing global order",
       "sources": [
-        "ECB Open Market Operations and Communication",
-        "ECB Press Releases Speeches Interviews"
+        "BIS Central Bankers Speeches"
       ],
       "source_classes": [
         "central_bank",
         "tier3_specialist"
       ],
       "urls": [
-        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260086.en.html",
-        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260085.en.html",
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html"
+        "https://www.bis.org/speeches/20260928-power-markets-and-strategy-changing-global-order",
+        "https://www.bis.org/speeches/20260928-artificial-intelligence-new-frontiers-risk",
+        "https://www.bis.org/speeches/20260928-discount-window-modernization-and-treasury-market-functioning",
+        "https://www.bis.org/speeches/20260928-we-are-raising-policy-rate-dampen-inflation",
+        "https://www.bis.org/speeches/20260928-opening-remarks-trust-and-innovation-future-finance",
+        "https://www.bis.org/speeches/20260928-leurope-cest-nous"
       ],
-      "finding_count": 3,
-      "max_score": 12,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": true,
-      "momentum_delta": 1,
+      "finding_count": 7,
+      "max_score": 18,
+      "credibility_total": 7.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
       "momentum_status": "increasing",
-      "network_score": 28.0,
-      "hot": true,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 27.3,
-      "ranking_score": 28.0,
+      "network_score": 28.14,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 38.7,
+      "ranking_score": 28.14,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
-      "breadth_bonus": 5.5,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 5.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 5.0,
+      "baseline_bonus": 2.14,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -72,20 +72,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 25.01,
+      "network_score": 24.82,
       "hot": false,
       "watchgraph_modules": [
         "chips_compute_datacenters"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 22.1,
-      "ranking_score": 25.01,
+      "ranking_score": 24.82,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 3.51,
+      "baseline_bonus": 3.32,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -93,6 +93,50 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00",
+      "sources": [
+        "ECB Open Market Operations and Communication",
+        "ECB Press Releases Speeches Interviews"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260086.en.html",
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260085.en.html",
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html"
+      ],
+      "finding_count": 3,
+      "max_score": 12,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": true,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 24.66,
+      "hot": true,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 24.3,
+      "ranking_score": 24.66,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 5.5,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 4.16,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "domain:wid.cert-bund.de",
@@ -117,18 +161,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 22.26,
+      "network_score": 22.38,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 49.6,
-      "ranking_score": 22.26,
+      "ranking_score": 22.38,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 4.76,
+      "baseline_bonus": 4.88,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -136,49 +180,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "Power, markets, and strategy in a changing global order",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20260928-power-markets-and-strategy-changing-global-order",
-        "https://www.bis.org/speeches/20260928-discount-window-modernization-and-treasury-market-functioning",
-        "https://www.bis.org/speeches/20260928-opening-remarks-trust-and-innovation-future-finance",
-        "https://www.bis.org/speeches/20260928-leurope-cest-nous",
-        "https://www.bis.org/speeches/20260928-back-school-passing-europes-triple-test"
-      ],
-      "finding_count": 5,
-      "max_score": 18,
-      "credibility_total": 5.25,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 31.5,
-      "ranking_score": 20.5,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "domain:japan.cnet.com",
@@ -198,18 +199,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 19.7,
+      "network_score": 19.62,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 18.1,
-      "ranking_score": 19.7,
+      "ranking_score": 19.62,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.2,
+      "baseline_bonus": 2.12,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -528,44 +529,6 @@
       "first_seen_at": "2026-09-28T09:00:17+00:00"
     },
     {
-      "key": "domain:www.bsi.bund.de",
-      "title": "Version 1.0: Citrix NetScaler - Systeme werden über ZeroDay-Schwachstellen angegriffen",
-      "sources": [
-        "BSI CERT-Bund Cyber-Sicherheitswarnungen"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289305-1032_bits.html"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.54,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.1,
-      "ranking_score": 12.54,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.04,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-02T15:24:15+00:00"
-    },
-    {
       "key": "title:igloo-narrows-fy2025-loss-embedded-insurance-bet-edges",
       "title": "Igloo narrows FY2025 loss as embedded insurance bet edges closer to breakeven",
       "sources": [
@@ -604,6 +567,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-28T05:40:45+00:00"
+    },
+    {
+      "key": "domain:www.bsi.bund.de",
+      "title": "Version 1.0: Citrix NetScaler - Systeme werden über ZeroDay-Schwachstellen angegriffen",
+      "sources": [
+        "BSI CERT-Bund Cyber-Sicherheitswarnungen"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289305-1032_bits.html"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.1,
+      "ranking_score": 12.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-02T15:24:15+00:00"
     },
     {
       "key": "title:star-edb-unveil-semiconductor-partnerships-target-era-chis",
@@ -1738,7 +1739,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-28T14:03:53Z",
+    "generated_at": "2026-09-28T14:28:52Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
