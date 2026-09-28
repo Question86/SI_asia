@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-28T03:52:22+00:00",
+  "generated_at": "2026-09-28T04:01:29+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 1,
-    "observe": 8
+    "observe": 10
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "observe"
     },
     {
+      "title": "M 5.1 - South Sandwich Islands region",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-28T03:57:02.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2e",
+      "summary": "Time 2026-09-28 03:43:44 UTC 2026-09-28 03:43:44 UTC at epicenter Location 57.670°S 25.279°W Depth 35.00 km (21.75 mi)",
+      "section": "observe"
+    },
+    {
       "title": "M 5.3 - 69 km NE of Tadine, New Caledonia",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -53,16 +63,6 @@
       "url": "https://e27.co/your-startup-may-be-competing-with-a-vcs-existing-portfolio-20260927/",
       "summary": "Founders raising a venture round tend to watch other startups. Who has just closed? Who is talking to the same funds? Who is setting the price for the next deal? The fund across the table has another comparison to make. At portfolio level, it also has to weig…",
       "section": "observe"
-    },
-    {
-      "title": "「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-28T01:08:53+00:00",
-      "relevance_score": 5,
-      "url": "https://forest.watch.impress.co.jp/docs/news/2143595.html",
-      "summary": "「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -70,135 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96520526/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-28T09:15:00+09:00",
-        "age_days": 0.16,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96520526/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-28T01:03:09+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab",
-        "url": "https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-28T01:43:02+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 21.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」",
-        "url": "https://forest.watch.impress.co.jp/docs/news/2143595.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-22T01:14:13+00:00",
-        "age_days": 6.11,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.69,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.9,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.90"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Your startup may be competing with a VC’s existing portfolio",
-        "url": "https://e27.co/your-startup-may-be-competing-with-a-vcs-existing-portfolio-20260927/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-28T02:04:37+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

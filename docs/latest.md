@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T03:52:22+00:00_
+_Generiert: 2026-09-28T04:01:29+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+11 neue relevante Treffer. Stärkstes Signal: „Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: For almost two decades, the startup creation playbook for Southeast Asia has been largely predictable: build a super app, raise hundreds of millions of dollars, staff thousands of employees, operate in dozens of markets and scale to dominate the region. Firms like Grab, Sea Group and GoTo have since been synonymous with the region’s ability […] The post One-person company: Why Southeast Asia’s next unicorn may look…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2e)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-28T03:57:02.040+00:00`, fetched `2026-09-28T04:00:57+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-28 03:43:44 UTC 2026-09-28 03:43:44 UTC at epicenter Location 57.670°S 25.279°W Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.3 - 69 km NE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2b)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-28T03:39:27.040+00:00`, fetched `2026-09-28T03:51:51+00:00`
@@ -78,15 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026.09.25 Jevのオープンソース版「Laya」を使ってみた：考えずに、直感で即答する元祖「System One Models」 TL;DR Convai Innovations の Nandakishor Mukkunnoth 氏が公開したオープンソースの意思決定モデル Laya は、状態 (State) と型付きの質問 (Choice / Score / Noul) を受け取り、テキストを生成せずに較正さ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The credential trap: Why outsiders are winning in signal intelligence** — Score 4, risk — [Quelle](https://e27.co/the-credential-trap-why-outsiders-are-winning-in-signal-intelligence-20260927/)
+- **Bitcoin dominance at 58.5% and the 55% line that still blocks altseason** — Score 4, observation — [Quelle](https://e27.co/bitcoin-dominance-at-58-5-and-the-55-line-that-still-blocks-altseason-20260928/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-28T03:00:23+00:00`, fetched `2026-09-28T03:29:50+00:00`
-  - Treffer: APAC Trend Radar, Public Health
+  - Zeit: published `2026-09-28T03:57:39+00:00`, fetched `2026-09-28T04:00:57+00:00`
+  - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph demote demo (x0.45)
-  - Kurz: The information advantage has a shelf life measured in hours, not years. Yet most people still get their signals third-hand—after hedge funds, after Bloomberg terminals, after institutional analysts have already moved. This gap is not a market inefficiency anymore. It is a design choice. In 2026, the democratisation of market data is reshaping who wins. […] The post The credential trap: Why outsiders are winning in…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Bitcoin trades around US$84,200 to US$84,550 on Monday, September 28, 2026. It is not exploding higher today. Most sources show a modest move, slightly up or down 0.2 per cent to 0.5 per cent, as it consolidates after last week’s sharp rally. The bigger picture is that Bitcoin has rebounded strongly from mid-September lows near […] The post Bitcoin dominance at 58.5% and the 55% line that still blocks altseason appe…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
