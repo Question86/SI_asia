@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T10:27:16+00:00_
+_Generiert: 2026-09-28T11:00:19+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
+48 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -66,14 +66,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社バッファローが提供する複数のWi-Fi製品の設定画面には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [kritisch] vm2: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3594)
+- **[NEU] [mittel] vllm: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3604)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-28T10:21:29+00:00`, fetched `2026-09-28T10:26:46+00:00`
+  - Zeit: published `2026-09-28T10:46:29+00:00`, fetched `2026-09-28T10:59:48+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in vm2 ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen und einen Denial-of-Service-Zustand auszulösen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um Informationen offenzulegen, und um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96520526/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年09月28日 2026年9月25日に公表いたしました「タイムズカーWebサイトへの不正アクセスによる個人情報漏えいの可能性について（第1報）」に関し、その後の調査により現時点で判明している内容をご報告いたします。 ※第1報はこちら 「タイムズカーWebサイトへの不正アクセスによる個人情報漏えいの可能性について（第...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「タイムズカーWebサイト」への不正アクセスに関する調査結果および今後の対応について（第2報） | カーシェアリングのタイムズカー** — Score 5, observation — [Quelle](https://share.timescar.jp/news/2026/0928/1815.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-28T07:07:10+00:00`, fetched `2026-09-28T10:59:48+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年9月25日に公表いたしました『「タイムズカーWebサイト」への不正アクセスによる個人情報漏えいの可能性について（第1報）』に関し、その後の調査により現時点で判明している内容をご報告いたします。 第1報はこちら 会員の皆様ならびに関係者の皆様に、多大なるご迷惑とご心配をお掛けしておりますことを、改めて...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **豪州に亡命した元「政治領事」の中国外交官が暴露する「浸透工作の実態」** — Score 5, observation — [Quelle](https://gendai.media/articles/-/171505)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-28T01:24:39+00:00`, fetched `2026-09-28T04:29:40+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 中国の外交官が好戦的なわけ──陳さんは1968年生まれで、天安門事件の際に北京の外交学院（中国外交部所属の大学）で大学生だった世代です。つまり、著名なベテラン世代の外交官たちとほぼ同世代になりますね。 陳：ええ。むかしの同僚で、大使や総領事になっている連中が大勢いますよ。元外交部長の秦剛（2023年7月失脚...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2143595.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-28T01:08:53+00:00`, fetched `2026-09-28T03:51:51+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

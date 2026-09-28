@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-28T10:27:16+00:00",
+  "generated_at": "2026-09-28T11:00:19+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-09-28T07:53:24+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/thailand-targets-us80b-semiconductor-push-as-it-moves-beyond-assembly-20260928/"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T10:46:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3604"
       },
       {
         "title": "[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-26T14:58:00+00:00",
         "relevance_score": 5,
         "url": "https://recruit.group.gmo/engineer/jisedai/blog/jev-system-one-model/"
-      },
-      {
-        "title": "vercel-labs/scriptc",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/vercel-labs/scriptc"
       }
     ],
     "economy": [
@@ -128,6 +128,41 @@
         "url": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       },
       {
+        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T10:46:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3604"
+      },
+      {
+        "title": "[NEU] [mittel] FreeRDP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T10:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3603"
+      },
+      {
+        "title": "[NEU] [hoch] Kiteworks Secure File Sharing & Transfer: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T10:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3602"
+      },
+      {
+        "title": "[NEU] [hoch] ESRI ArcGIS: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T10:36:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3601"
+      },
+      {
+        "title": "[NEU] [mittel] Coolify: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T10:31:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3600"
+      },
+      {
         "title": "[NEU] [kritisch] vm2: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-28T10:21:29+00:00",
@@ -172,6 +207,41 @@
         "url": "https://jvn.jp/vu/JVNVU94863997/"
       },
       {
+        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T10:46:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3604"
+      },
+      {
+        "title": "[NEU] [mittel] FreeRDP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T10:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3603"
+      },
+      {
+        "title": "[NEU] [hoch] Kiteworks Secure File Sharing & Transfer: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T10:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3602"
+      },
+      {
+        "title": "[NEU] [hoch] ESRI ArcGIS: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T10:36:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3601"
+      },
+      {
+        "title": "[NEU] [mittel] Coolify: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T10:31:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3600"
+      },
+      {
         "title": "[NEU] [kritisch] vm2: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-28T10:21:29+00:00",
@@ -184,41 +254,6 @@
         "published_at": "2026-09-28T10:21:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3595"
-      },
-      {
-        "title": "[UPDATE] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T09:56:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2717"
-      },
-      {
-        "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-28T09:15:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU96520526/"
-      },
-      {
-        "title": "[NEU] [kritisch] Citrix NetScaler ADC und Citrix NetScaler Gateway: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T08:36:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3587"
-      },
-      {
-        "title": "[UPDATE] [mittel] OpenClaw: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T06:16:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3316"
-      },
-      {
-        "title": "[UPDATE] [hoch] Kyverno: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T06:16:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3285"
       }
     ],
     "general": [
