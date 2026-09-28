@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T23:31:50+00:00",
+  "generated_at": "2026-09-28T23:43:13+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -59,7 +59,7 @@
     },
     "earthquake:m 4.9 - south sandwich islands region:4.9": {
       "title": "M 4.9 - South Sandwich Islands region",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "Are you a Codex Original?",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
-        12.1,
         12.1,
         12.1,
         12.1,
@@ -130,12 +129,13 @@
         22.3,
         22.3,
         22.3,
+        22.3,
         22.3
       ],
-      "rolling_average": 16.74,
+      "rolling_average": 17.08,
       "rolling_peak": 28.3,
       "last_score": 22.3,
-      "z_hint": 5.56
+      "z_hint": 5.22
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -910,7 +910,7 @@
     },
     "domain:www.bis.org": {
       "title": "Power, markets, and strategy in a changing global order",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         34.8,
         34.8,
@@ -950,9 +950,8 @@
     },
     "domain:www.federalreserve.gov": {
       "title": "Cook, An Update on AI and the Economy",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
-        14.1,
         14.1,
         14.1,
         14.1,
@@ -981,16 +980,17 @@
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 17.13,
+      "rolling_average": 17.27,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": 0.97
+      "z_hint": 0.83
     },
     "domain:www.ecb.europa.eu": {
       "title": "Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         24.3,
         24.3,
@@ -2686,7 +2686,7 @@
     },
     "domain:restofworld.org": {
       "title": "South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         22.1,
         22.1,
@@ -4263,7 +4263,7 @@
     },
     "domain:www.heise.de": {
       "title": "Angriffe auf Microsoft-SharePoint-Schwachstelle",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         11.2,
         11.2,
@@ -4391,7 +4391,7 @@
     },
     "domain:japan.cnet.com": {
       "title": "広がる「AIで人類滅亡」論、サム・アルトマン氏が語ったこと--2日後に先端モデルの訓練停止も公表",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -5023,9 +5023,8 @@
     },
     "domain:togetter.com": {
       "title": "UIの本に「長押しの機能はユーザが気づきにくいよ」って書いてあって、ふ～んって思いながら部屋の照明のボタン長押ししたら、白からオレンジになった「お前もかよ」",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
-        14.1,
         14.1,
         14.1,
         14.1,
@@ -5054,12 +5053,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 13.39,
+      "rolling_average": 13.16,
       "rolling_peak": 19.2,
       "last_score": 7.1,
-      "z_hint": -6.29
+      "z_hint": -6.06
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -5125,7 +5125,7 @@
     },
     "earthquake:m 4.7 - fiji region:4.7": {
       "title": "M 4.7 - Fiji region",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -5558,7 +5558,7 @@
     },
     "earthquake:japan:4.9": {
       "title": "M 4.9 - 2 km SW of Sakai, Japan",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         20.7,
         20.7,
@@ -5577,7 +5577,7 @@
         20.7,
         20.7,
         20.7,
-        20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -5591,10 +5591,10 @@
         17.7,
         17.7
       ],
-      "rolling_average": 19.5,
+      "rolling_average": 19.4,
       "rolling_peak": 20.7,
       "last_score": 17.7,
-      "z_hint": -1.8
+      "z_hint": -1.7
     },
     "earthquake:philippines:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:35km) in Philippines 19/06/2026 18:38 UTC, 210 thousand in 100km.",
@@ -5675,7 +5675,7 @@
     },
     "earthquake:m 5.1 - south sandwich islands region:5.1": {
       "title": "M 5.1 - South Sandwich Islands region",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -5781,7 +5781,7 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         49.6,
         49.6,
@@ -8602,7 +8602,7 @@
     },
     "title:yahoo": {
       "title": "中国、治安維持向けロボット開発 警棒や盾装備し威圧感、試験運用（共同通信） - Yahoo!ニュース",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -9002,10 +9002,10 @@
     },
     "earthquake:philippines:4.9": {
       "title": "M 4.9 - 124 km SE of Pondaguitan, Philippines",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -14272,7 +14272,7 @@
     },
     "domain:www.bsi.bund.de": {
       "title": "Version 1.0: Citrix NetScaler - Systeme werden über ZeroDay-Schwachstellen angegriffen",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -29739,7 +29739,7 @@
     },
     "title:web": {
       "title": "タイムズカーWebシステムへの不正アクセスに関する調査結果および今後の対応について（第2報）｜パーク２４株式会社",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         9.2,
         9.2,
@@ -30713,7 +30713,7 @@
     },
     "earthquake:taiwan:4.6": {
       "title": "M 4.6 - 36 km SE of Hualien City, Taiwan",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         18.7,
         15.7,
@@ -30737,12 +30737,13 @@
         15.7,
         15.7,
         15.7,
+        15.7,
         15.7
       ],
-      "rolling_average": 15.96,
+      "rolling_average": 15.95,
       "rolling_peak": 18.7,
       "last_score": 15.7,
-      "z_hint": -0.26
+      "z_hint": -0.25
     },
     "domain:blog.p1ass.com": {
       "title": "OpenAIとClaudeのAgent SDKから学ぶAgentの基本構成 - ぷらすのブログ",
@@ -36986,9 +36987,8 @@
     },
     "domain:syu-m-5151.hatenablog.com": {
       "title": "Codexを使うなら、/goalとサイドチャットを押さえておきたい - じゃあ、おうちで学べる",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
-        16.1,
         16.1,
         16.1,
         16.1,
@@ -37017,12 +37017,13 @@
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 19.6,
+      "rolling_average": 19.67,
       "rolling_peak": 28.1,
       "last_score": 18.1,
-      "z_hint": -1.5
+      "z_hint": -1.57
     },
     "title:multiples-vuln-rabilit-dans-noyau-linux-suse-septembre": {
       "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (11 septembre 2026)",
@@ -39175,7 +39176,7 @@
     },
     "title:newsjp": {
       "title": "オムロン、祖業を売却 電子部品事業「重い決断」 | NEWSjp",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -42212,7 +42213,7 @@
     },
     "title:excel": {
       "title": "「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -48027,7 +48028,7 @@
     },
     "domain:x.org": {
       "title": "[NEU] [mittel] X.Org X11: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -48897,7 +48898,7 @@
     },
     "earthquake:m 5.1 - 78 km ene of tadine, new caledonia:5.1": {
       "title": "M 5.1 - 78 km ENE of Tadine, New Caledonia",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -50871,7 +50872,7 @@
     },
     "title:android-readwise-reader": {
       "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -50911,7 +50912,7 @@
     },
     "url:https://www.itmedia.co.jp/news/article/2609/28/2000001592/": {
       "title": "「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -50951,7 +50952,7 @@
     },
     "title:sia-has-scaled-aviation-must-now-govern-point": {
       "title": "SIA has scaled AI. Aviation must now govern the point of action",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -50991,7 +50992,7 @@
     },
     "title:one-person-company-why-southeast-asia-next-unicorn": {
       "title": "One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -51031,7 +51032,7 @@
     },
     "title:your-startup-may-competing-existing-portfolio": {
       "title": "Your startup may be competing with a VC’s existing portfolio",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -51071,7 +51072,7 @@
     },
     "title:jev-laya-system-one-models-gmo": {
       "title": "Jevのオープンソース版「Laya」を使ってみた：考えずに、直感で即答する元祖「System One Models」 - GMOインターネットグループ グループ研究開発本部",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -51111,7 +51112,7 @@
     },
     "title:credential-trap-why-outsiders-are-winning-signal-intelligence": {
       "title": "The credential trap: Why outsiders are winning in signal intelligence",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -51151,7 +51152,7 @@
     },
     "earthquake:m 5.3 - 69 km ne of tadine, new caledonia:5.3": {
       "title": "M 5.3 - 69 km NE of Tadine, New Caledonia",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -51191,7 +51192,7 @@
     },
     "title:bitcoin-dominance-line-that-still-blocks-altseason": {
       "title": "Bitcoin dominance at 58.5% and the 55% line that still blocks altseason",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -51231,7 +51232,7 @@
     },
     "url:https://gendai.media/articles/-/171505": {
       "title": "豪州に亡命した元「政治領事」の中国外交官が暴露する「浸透工作の実態」",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -51271,7 +51272,7 @@
     },
     "earthquake:m 5.4 - 231 km wsw of port mcneill, canada:5.4": {
       "title": "M 5.4 - 231 km WSW of Port McNeill, Canada",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -51311,7 +51312,7 @@
     },
     "url:https://jvn.jp/vu/jvnvu94863997/": {
       "title": "バッファロー製Wi-Fi製品における複数の脆弱性",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -51351,7 +51352,7 @@
     },
     "earthquake:m 4.6 - northwest of the kuril islands:4.6": {
       "title": "M 4.6 - northwest of the Kuril Islands",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -51391,7 +51392,7 @@
     },
     "title:igloo-narrows-fy2025-loss-embedded-insurance-bet-edges": {
       "title": "Igloo narrows FY2025 loss as embedded insurance bet edges closer to breakeven",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         13.1,
         13.1,
@@ -51431,7 +51432,7 @@
     },
     "title:star-edb-unveil-semiconductor-partnerships-target-era-chis": {
       "title": "A*STAR and EDB unveil SG Semiconductor as partnerships target AI-era chis",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -51471,7 +51472,7 @@
     },
     "url:https://www.digital.go.jp/contact": {
       "title": "ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -51511,7 +51512,7 @@
     },
     "github_repo:vercel-labs/scriptc": {
       "title": "vercel-labs/scriptc",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -51551,7 +51552,7 @@
     },
     "github_repo:infinityloop1308/pipepipe": {
       "title": "InfinityLoop1308/PipePipe",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -51591,7 +51592,7 @@
     },
     "url:https://www.digital.go.jp/about/member/shiozakiakihisa": {
       "title": "塩崎デジタル副大臣のプロフィールを掲載しました",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -51631,7 +51632,7 @@
     },
     "url:https://www.digital.go.jp/about/member/akamatsuken": {
       "title": "赤松デジタル大臣政務官のプロフィールを掲載しました",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -51671,7 +51672,7 @@
     },
     "title:thailand-targets-80b-semiconductor-push-moves-beyond-assembly": {
       "title": "Thailand targets US$80B semiconductor push as it moves beyond assembly",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -51711,7 +51712,7 @@
     },
     "title:ifc-joins-boost-cap-table-20m-bet-digital": {
       "title": "IFC joins Boost’s cap table with US$20M bet on digital lending",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -51751,7 +51752,7 @@
     },
     "title:vuln-rabilit-dans-palo-alto-networks-globalprotect-avril": {
       "title": "[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -51791,7 +51792,7 @@
     },
     "title:multiples-vuln-rabilit-dans-wordpress-septembre-2026": {
       "title": "Multiples vulnérabilités dans WordPress (18 septembre 2026)",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -51831,7 +51832,7 @@
     },
     "title:vuln-rabilit-dans-kaspersky-secure-mail-gateway-septembre": {
       "title": "Vulnérabilité dans Kaspersky Secure Mail Gateway (18 septembre 2026)",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -51871,7 +51872,7 @@
     },
     "earthquake:m 5.2 - 190 km wsw of port mcneill, canada:5.2": {
       "title": "M 5.2 - 190 km WSW of Port McNeill, Canada",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -51911,7 +51912,7 @@
     },
     "title:660": {
       "title": "「タイムズカー」会員情報約660万件漏えい 運転免許画像など 不正アクセスで",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -51951,7 +51952,7 @@
     },
     "earthquake:m 5.4 - north of svalbard:5.4": {
       "title": "M 5.4 - north of Svalbard",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -51991,9 +51992,10 @@
     },
     "title:yahoo-yahoo-yahoo": {
       "title": "Yahoo!きっずサービス終了のお知らせ - Yahoo!きっずからのお知らせ - Yahoo!きっず",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -52025,7 +52027,7 @@
     },
     "title:highlights-git": {
       "title": "Highlights from Git 2.56",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -52048,16 +52050,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.24,
+      "rolling_average": 8.23,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.14
+      "z_hint": -0.13
     },
     "earthquake:m 4.8 - 155 km nnw of kilmia, yemen:4.8": {
       "title": "M 4.8 - 155 km NNW of Kilmia, Yemen",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -52078,16 +52081,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.85,
+      "rolling_average": 11.84,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "title:claude-sonnet-github-copilot": {
       "title": "Claude Sonnet 5.5 in GitHub Copilot",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -52107,16 +52111,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.26,
+      "rolling_average": 8.25,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "title:found-android-vulnerabilities-using-our-open-source-security": {
       "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         28.1,
         25.1,
@@ -52133,16 +52138,17 @@
         25.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.29,
+      "rolling_average": 25.28,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:self-hosted-runner-version-enforcement-date-has-moved": {
       "title": "Self-hosted runner version enforcement date has moved",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -52157,16 +52163,17 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.31,
+      "rolling_average": 12.3,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "domain:blog.cloudflare.com": {
       "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -52179,24 +52186,37 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.35,
+      "rolling_average": 16.33,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "title:web-piyolog": {
       "title": "タイムズカーWebサイトへの不正アクセスについてまとめてみた - piyolog",
-      "updated_at": "2026-09-28T23:31:50+00:00",
+      "updated_at": "2026-09-28T23:43:13+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.1,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
+    },
+    "url:https://www.nipponrentacar.co.jp/info/202609.html": {
+      "title": "NRアプリへの不正アクセスによる会員情報漏えいに関するお詫びとお知らせ|ニッポンレンタカー",
+      "updated_at": "2026-09-28T23:43:13+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
     }
   }
 }
