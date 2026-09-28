@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T17:32:31+00:00",
-  "run_id": "2026-09-28T17:32:31+00:00",
+  "generated_at": "2026-09-28T17:44:51+00:00",
+  "run_id": "2026-09-28T17:44:51+00:00",
   "date": "2026-09-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 74,
     "displayed_findings": 74,
     "high": 0,
@@ -3749,52 +3749,7 @@
       "id": "3cc6044740c627cc2068"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Cook, An Update on AI and the Economy",
-      "url": "https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm",
-      "source": "Federal Reserve Speeches and Testimony",
-      "source_type": "rss",
-      "published_at": "2026-09-28T17:25:00+00:00",
-      "fetched_at": "2026-09-28T17:32:02+00:00",
-      "summary": "Speech At the Oakland Tech Week Opening Keynote, cohosted by the Kapor Center, Oakland, California",
-      "matched_keywords": [
-        "AI/KI",
-        "Macro/Policy",
-        "speech",
-        "testimony"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5af7f37cb032618883b2"
-    },
-    {
-      "title": "Highlights from Git 2.56",
-      "url": "https://github.blog/open-source/git/highlights-from-git-2-56/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-28T17:23:33+00:00",
-      "fetched_at": "2026-09-28T17:32:02+00:00",
-      "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub",
-        "Open Source"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Open Source (+3.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "346378926b2a4e0d6a45"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
