@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T11:00:19+00:00_
+_Generiert: 2026-09-28T11:21:49+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
+49 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -257,6 +257,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「タイムズカー」会員情報約660万件漏えい 運転免許画像など 不正アクセスで** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/28/2000001808/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-28T08:04:36+00:00`, fetched `2026-09-28T11:21:20+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: カーシェアリングサービス「タイムズカー」を運営するタイムズモビリティ（パーク24グループ）は9月28日、不正アクセスを受けたシステムから、会員情報約660万件が漏えいしたと発表した。漏えいした情報には、運転免許証画像などの本人確認書類情報も含まれている。 対象は、タイムズカー会員と退会済みの人、タイムズビ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **タイムズカーWebシステムへの不正アクセスに関する調査結果および今後の対応について（第2報）｜パーク２４株式会社** — Score 5, observation — [Quelle](https://www.park24.co.jp/news/2026/09/20260928-1.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-28T07:35:53+00:00`, fetched `2026-09-28T10:26:46+00:00`
@@ -274,15 +283,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年9月25日に公表いたしました『「タイムズカーWebサイト」への不正アクセスによる個人情報漏えいの可能性について（第1報）』に関し、その後の調査により現時点で判明している内容をご報告いたします。 第1報はこちら 会員の皆様ならびに関係者の皆様に、多大なるご迷惑とご心配をお掛けしておりますことを、改めて...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **豪州に亡命した元「政治領事」の中国外交官が暴露する「浸透工作の実態」** — Score 5, observation — [Quelle](https://gendai.media/articles/-/171505)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-28T01:24:39+00:00`, fetched `2026-09-28T04:29:40+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 中国の外交官が好戦的なわけ──陳さんは1968年生まれで、天安門事件の際に北京の外交学院（中国外交部所属の大学）で大学生だった世代です。つまり、著名なベテラン世代の外交官たちとほぼ同世代になりますね。 陳：ええ。むかしの同僚で、大使や総領事になっている連中が大勢いますよ。元外交部長の秦剛（2023年7月失脚...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
