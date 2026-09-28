@@ -221,6 +221,30 @@
     "id": "90730b981b0144e95959"
   },
   {
+    "title": "[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)",
+    "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/",
+    "source": "CERT-FR Alertes",
+    "source_type": "rss",
+    "published_at": "2024-04-12T00:00:00+00:00",
+    "fetched_at": "2026-09-28T08:59:47+00:00",
+    "summary": "\\[Mise à jour du 10 mai 2024\\] Le CERT-FR est intervenu pour le traitement d'une compromission par rançongiciel au sein d'une entité française. Dans le cadre de cette attaque, la vulnérabilité a été exploitée pour ensuite réaliser une latéralisation dans le système d'information de la victime et...",
+    "matched_keywords": [
+      "alerte",
+      "attaque",
+      "CERT-FR",
+      "Security",
+      "vulnérabilité"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); CERT-FR (+2.0); alerte (+2.0); attaque (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "eec9b09d7cb74511a1ea"
+  },
+  {
     "title": "One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab",
     "url": "https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -255,6 +279,30 @@
       "soy"
     ],
     "id": "3c68e1121dc0b994a917"
+  },
+  {
+    "title": "Multiples vulnérabilités dans WordPress (18 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-18T00:00:00+00:00",
+    "fetched_at": "2026-09-28T08:59:47+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité",
+      "Webentwicklung"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Webentwicklung (+3.8); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5399972248a9c71cac36"
   },
   {
     "title": "Igloo narrows FY2025 loss as embedded insurance bet edges closer to breakeven",
@@ -543,6 +591,29 @@
       "EWZ"
     ],
     "id": "9c13ba0a8344220cad41"
+  },
+  {
+    "title": "Vulnérabilité dans Kaspersky Secure Mail Gateway (18 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1201/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-18T00:00:00+00:00",
+    "fetched_at": "2026-09-28T08:59:47+00:00",
+    "summary": "Une vulnérabilité a été découverte dans Kaspersky Secure Mail Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ff21414500041aabb6cf"
   },
   {
     "title": "Sicherheitslücken in Wireshark: Profilimport kann Schadcode mitschleppen",

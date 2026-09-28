@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T08:41:36+00:00_
+_Generiert: 2026-09-28T09:00:15+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Thailand targets US$80B semiconductor push as it moves beyond assembly“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+36 neue relevante Treffer. Stärkstes Signal: „Thailand targets US$80B semiconductor push as it moves beyond assembly“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Citrix NetScaler ADC und Citrix NetScaler Gateway ausnutzen, um beliebigen Code auszuführen, einen Denial-of-Service-Zustand auszulösen, Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen und weitere, nicht näher bezeichnete Auswirkungen zu erzielen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)** — Score 14, risk — [Quelle](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/)
+  - Quelle: CERT-FR Alertes / `rss`
+  - Zeit: published `2024-04-12T00:00:00+00:00`, fetched `2026-09-28T08:59:47+00:00`
+  - Treffer: alerte, attaque, CERT-FR, Security, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); attaque (+2.0); vulnérabilité (+2.5)
+  - Kurz: \[Mise à jour du 10 mai 2024\] Le CERT-FR est intervenu pour le traitement d'une compromission par rançongiciel au sein d'une entité française. Dans le cadre de cette attaque, la vulnérabilité a été exploitée pour ensuite réaliser une latéralisation dans le système d'information de la victime et...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -86,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: For almost two decades, the startup creation playbook for Southeast Asia has been largely predictable: build a super app, raise hundreds of millions of dollars, staff thousands of employees, operate in dozens of markets and scale to dominate the region. Firms like Grab, Sea Group and GoTo have since been synonymous with the region’s ability […] The post One-person company: Why Southeast Asia’s next unicorn may look…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans WordPress (18 septembre 2026)** — Score 12, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-18T00:00:00+00:00`, fetched `2026-09-28T08:59:47+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.8); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Igloo narrows FY2025 loss as embedded insurance bet edges closer to breakeven** — Score 11, observation — [Quelle](https://e27.co/igloo-narrows-fy2025-loss-as-embedded-insurance-bet-edges-closer-to-breakeven-20260928/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -132,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-28 04:42:56 UTC 2026-09-28 04:42:56 UTC at epicenter Location 49.026°N 151.571°E Depth 258.71 km (160.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Vulnérabilité dans Kaspersky Secure Mail Gateway (18 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1201/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-18T00:00:00+00:00`, fetched `2026-09-28T08:59:47+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans Kaspersky Secure Mail Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitslücken in Wireshark: Profilimport kann Schadcode mitschleppen** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-in-Wireshark-Profilimport-kann-Schadcode-mitschleppen-11467554.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-28T07:01:00.000+00:00`, fetched `2026-09-28T07:17:44+00:00`
@@ -194,24 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 【北京共同】中国で暴動対策など治安部門での活用を見据えた人型ロボットの開発が進んでいる。北京で8月に開かれた「世界ロボット大会」では、警棒や盾を装備した威圧感のある人型ロボットが登場。開発関係者によると、現在は試験運用の段階で、将来的には武装警察と共に警備やパトロールをすることを想定している。 【...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **vercel-labs/scriptc** — Score 5, observation — [Quelle](https://github.com/vercel-labs/scriptc)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-28T06:49:48+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: TypeScript-to-Native Compiler https://scriptc.dev scriptc scriptc compiles TypeScript and JavaScript to typed IR, readable C, textual LLVM IR, native assembly and objects, native executables, and WebAssembly modules. It uses the TypeScript compiler for parsing and type checking. Source outputs require only Node. On macOS 15+ arm64, ordinary LLVM-tier executables use scriptc's bundled helper and precompiled runtime p…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **InfinityLoop1308/PipePipe** — Score 5, observation — [Quelle](https://github.com/InfinityLoop1308/PipePipe)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-28T06:49:48+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: An open-source Android app to let you browse YouTube and other services freely. https://pipepipe.dev PipePipe NewPipe, reimagined: faster, more stable, and packed with more features. Beyond NewPipe YouTube Enhancements Integrate SponsorBlock for skipping sponsored segments (YouTube & BiliBili) Restore YouTube dislikes with ReturnYouTubeDislike Show original titles on YouTube (non-localized) Log in to access restrict…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
