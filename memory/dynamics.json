@@ -1,12 +1,167 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-28T00:42:29Z",
+  "generated_at": "2026-09-28T01:22:59Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 0,
-    "bands": {},
-    "bands_after_gate_recheck": {}
+    "dynamics": 6,
+    "bands": {
+      "strong": 2,
+      "quiet": 4
+    },
+    "bands_after_gate_recheck": {
+      "strong": 2,
+      "quiet": 4
+    }
   },
-  "top_dynamics": []
+  "top_dynamics": [
+    {
+      "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96520526/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-28T09:15:00+09:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+    },
+    {
+      "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96520526/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-28T01:03:09+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情",
+      "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001592/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-28T01:03:09+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情",
+      "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001592/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-27T22:17:34+00:00",
+      "age_days": 0.13,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "飲食店で、客が自分のスマートフォンで料理などを注文する「モバイルオーダー」、いわゆる“スマホ注文”が広がっている。一方で、注文を客のスマホに委ねながら、来店客向けのWi-Fiは用意していない店も少なくない。SNSでは「店の都合でスマホ注文にしているのに、なぜ客が通信を負担するのか」という不満が繰り返し拡散..."
+    },
+    {
+      "title": "SIA has scaled AI. Aviation must now govern the point of action",
+      "url": "https://e27.co/sia-has-scaled-ai-aviation-must-now-govern-the-point-of-action-20260924/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-28T01:03:09+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "SIA has scaled AI. Aviation must now govern the point of action",
+      "url": "https://e27.co/sia-has-scaled-ai-aviation-must-now-govern-the-point-of-action-20260924/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-28T01:00:39+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Singapore Airlines’ expanding artificial intelligence (AI) portfolio shows that adoption is no longer the main issue. The harder question is what an AI system should be permitted to do. The Business Times reported on 18 August that Singapore Airlines, or SIA, has deployed more than 160 AI applications and identified o…"
+    }
+  ],
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
