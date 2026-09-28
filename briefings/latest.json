@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T12:40:15+00:00",
-  "run_id": "2026-09-28T12:40:15+00:00",
+  "generated_at": "2026-09-28T13:00:59+00:00",
+  "run_id": "2026-09-28T13:00:59+00:00",
   "date": "2026-09-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 55
+      "configured_public_sources_only": 56
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 55,
-    "displayed_findings": 55,
+    "new_relevant_findings": 1,
+    "today_file_total": 56,
+    "displayed_findings": 56,
     "high": 0,
     "medium": 23,
-    "observe": 32,
+    "observe": 33,
     "source_errors": 0
   },
   "sections": {
@@ -1041,6 +1041,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ff21414500041aabb6cf"
+      },
+      {
+        "title": "Angriffe auf Microsoft-SharePoint-Schwachstelle",
+        "url": "https://www.heise.de/news/Angriffe-auf-Microsoft-SharePoint-Schwachstelle-11468081.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-09-28T12:37:00.000+00:00",
+        "fetched_at": "2026-09-28T13:00:25+00:00",
+        "summary": "Die CISA warnt vor beobachteten Angriffen auf eine hochriskante SharePoint-Lücke und auf Mikrotik-Router.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "737459ed1ea7ba6d79ae"
       },
       {
         "title": "Sicherheitslücken in Wireshark: Profilimport kann Schadcode mitschleppen",
@@ -2450,6 +2470,26 @@
       "id": "ff21414500041aabb6cf"
     },
     {
+      "title": "Angriffe auf Microsoft-SharePoint-Schwachstelle",
+      "url": "https://www.heise.de/news/Angriffe-auf-Microsoft-SharePoint-Schwachstelle-11468081.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-28T12:37:00.000+00:00",
+      "fetched_at": "2026-09-28T13:00:25+00:00",
+      "summary": "Die CISA warnt vor beobachteten Angriffen auf eine hochriskante SharePoint-Lücke und auf Mikrotik-Router.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "737459ed1ea7ba6d79ae"
+    },
+    {
       "title": "Sicherheitslücken in Wireshark: Profilimport kann Schadcode mitschleppen",
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Wireshark-Profilimport-kann-Schadcode-mitschleppen-11467554.html",
       "source": "heise Security Alerts",
@@ -2845,61 +2885,24 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.7 - Fiji region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty4w",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Angriffe auf Microsoft-SharePoint-Schwachstelle",
+      "url": "https://www.heise.de/news/Angriffe-auf-Microsoft-SharePoint-Schwachstelle-11468081.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-09-28T12:32:25.040+00:00",
-      "fetched_at": "2026-09-28T12:39:46+00:00",
-      "summary": "Time 2026-09-28 12:14:24 UTC 2026-09-28 12:14:24 UTC at epicenter Location 20.693°S 178.497°W Depth 573.11 km (356.12 mi)",
+      "published_at": "2026-09-28T12:37:00.000+00:00",
+      "fetched_at": "2026-09-28T13:00:25+00:00",
+      "summary": "Die CISA warnt vor beobachteten Angriffen auf eine hochriskante SharePoint-Lücke und auf Mikrotik-Router.",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Security"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "acff01e39cfdc8211cc8"
-    },
-    {
-      "title": "オムロン、祖業を売却 電子部品事業「重い決断」 | NEWSjp",
-      "url": "https://news.jp/i/1477171752691761383",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-28T08:11:38+00:00",
-      "fetched_at": "2026-09-28T12:39:46+00:00",
-      "summary": "オムロンが、祖業の電子部品事業を10月1日付で米投資ファンドに売却する。中国勢の台頭で競争が激化し「大変重い決断だったが、グループとしての企業価値向上のために必要」（辻永順太社長）としている。主力の制御機器事業を中心に、データビジネスと親和性の高い分野に経営資源を集中し収益力を高める。 電子部品事業...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "36d97eb4d096356ab369"
+      "id": "737459ed1ea7ba6d79ae"
     }
   ],
   "source_errors": [],

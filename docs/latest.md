@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T12:40:15+00:00_
+_Generiert: 2026-09-28T13:00:59+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
+56 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: Une vulnérabilité a été découverte dans Kaspersky Secure Mail Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Angriffe auf Microsoft-SharePoint-Schwachstelle** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Microsoft-SharePoint-Schwachstelle-11468081.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-28T12:37:00.000+00:00`, fetched `2026-09-28T13:00:25+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die CISA warnt vor beobachteten Angriffen auf eine hochriskante SharePoint-Lücke und auf Mikrotik-Router.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitslücken in Wireshark: Profilimport kann Schadcode mitschleppen** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-in-Wireshark-Profilimport-kann-Schadcode-mitschleppen-11467554.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-28T07:01:00.000+00:00`, fetched `2026-09-28T07:17:44+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: カーシェアリングサービス「タイムズカー」を運営するタイムズモビリティ（パーク24グループ）は9月28日、不正アクセスを受けたシステムから、会員情報約660万件が漏えいしたと発表した。漏えいした情報には、運転免許証画像などの本人確認書類情報も含まれている。 対象は、タイムズカー会員と退会済みの人、タイムズビ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **タイムズカーWebシステムへの不正アクセスに関する調査結果および今後の対応について（第2報）｜パーク２４株式会社** — Score 5, observation — [Quelle](https://www.park24.co.jp/news/2026/09/20260928-1.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-28T07:35:53+00:00`, fetched `2026-09-28T10:26:46+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2026年09月28日 2026年9月25日に公表いたしました「タイムズカーWebサイトへの不正アクセスによる個人情報漏えいの可能性について（第1報）」に関し、その後の調査により現時点で判明している内容をご報告いたします。 ※第1報はこちら 「タイムズカーWebサイトへの不正アクセスによる個人情報漏えいの可能性について（第...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
