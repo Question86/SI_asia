@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T19:58:07+00:00_
+_Generiert: 2026-09-28T20:18:12+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „How we found 24 Android vulnerabilities using our open source AI security agent“ aus GitHub Blog Atom (Score 23, opportunity).
+81 neue relevante Treffer. Stärkstes Signal: „How we found 24 Android vulnerabilities using our open source AI security agent“ aus GitHub Blog Atom (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -84,6 +84,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Zustand herbeizuführen oder nicht näher spezifizierten Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 2 km SW of Sakai, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty7u)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-28T20:14:31.194+00:00`, fetched `2026-09-28T20:17:42+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - IV Time 2026-09-28 19:45:07 UTC 2026-09-28 19:45:07 UTC at epicenter Location 36.081°N 139.778°E Depth 70.97 km (44.10 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 124 km SE of Pondaguitan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty5m)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-28T15:28:15.040+00:00`, fetched `2026-09-28T15:48:36+00:00`
