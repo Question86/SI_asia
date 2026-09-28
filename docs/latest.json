@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T19:30:28+00:00",
-  "run_id": "2026-09-28T19:30:28+00:00",
+  "generated_at": "2026-09-28T19:42:34+00:00",
+  "run_id": "2026-09-28T19:42:34+00:00",
   "date": "2026-09-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 79,
     "displayed_findings": 79,
     "high": 0,
@@ -4027,32 +4027,7 @@
       "id": "3cc6044740c627cc2068"
     }
   ],
-  "new_findings": [
-    {
-      "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
-      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-28T19:00:00+00:00",
-      "fetched_at": "2026-09-28T19:29:55+00:00",
-      "summary": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "Content-Chance",
-        "GitHub",
-        "Open Source",
-        "Security"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "AI/KI (+3.8); Security (+7.5); Open Source (+3.8); Content-Chance (+5.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7bf924b63778a8331725"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
