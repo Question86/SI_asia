@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-28T05:35:17Z",
+  "generated_at": "2026-09-28T06:33:42Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU94863997/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-28T13:30:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU96520526/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-28T09:15:00+09:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T04:11:29+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -88,22 +88,22 @@
       "url": "https://jvn.jp/vu/JVNVU94863997/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-28T05:01:03+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
-      "dynamics_score": 23.5,
+      "dynamics_score": 23.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -112,7 +112,7 @@
       "url": "https://jvn.jp/vu/JVNVU96520526/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-28T01:03:09+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -136,7 +136,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-28T05:00:04.995+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -157,11 +157,35 @@
       "summary": "PAGER - GREEN ShakeMap - I Time 2026-09-28 04:41:21 UTC 2026-09-28 04:41:21 UTC at epicenter Location 50.053°N 130.221°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.4 - 231 km WSW of Port McNeill, Canada",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2u",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-28T05:01:03+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 22.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Bitcoin dominance at 58.5% and the 55% line that still blocks altseason",
       "url": "https://e27.co/bitcoin-dominance-at-58-5-and-the-55-line-that-still-blocks-altseason-20260928/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T03:57:39+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -186,7 +210,7 @@
       "url": "https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T01:43:02+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -210,7 +234,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 30.64,
+      "age_days": 30.68,
       "topics": [
         "security"
       ],
@@ -226,17 +250,17 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "aging penalty -3.4 for 30.6d old signal",
+        "aging penalty -3.4 for 30.7d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
     },
     {
-      "title": "M 5.4 - 231 km WSW of Port McNeill, Canada",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2u",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-28T05:01:03+00:00",
-      "age_days": 0.02,
+      "title": "Igloo narrows FY2025 loss as embedded insurance bet edges closer to breakeven",
+      "url": "https://e27.co/igloo-narrows-fy2025-loss-as-embedded-insurance-bet-edges-closer-to-breakeven-20260928/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-28T05:40:45+00:00",
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -246,12 +270,12 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -260,7 +284,7 @@
       "url": "https://e27.co/your-startup-may-be-competing-with-a-vcs-existing-portfolio-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T02:04:37+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -278,31 +302,6 @@
         "momentum delta +3"
       ],
       "summary": ""
-    },
-    {
-      "title": "M 5.3 - 69 km NE of Tadine, New Caledonia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2b",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-28T03:39:27.040+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-09-28 03:25:06 UTC 2026-09-28 03:25:06 UTC at epicenter Location 21.196°S 168.441°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
@@ -314,8 +313,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 8,
-      "watch": 4
+      "strong": 9,
+      "watch": 3
     }
   }
 }
