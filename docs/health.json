@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-28T22:42:43+00:00",
-  "status": "warning",
+  "generated_at": "2026-09-28T22:58:24+00:00",
+  "status": "normal",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "limited",
+  "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 0,
     "today_file_total": 86,
@@ -11,15 +11,8 @@
     "high": 0,
     "medium": 32,
     "observe": 54,
-    "source_errors": 1
+    "source_errors": 0
   },
-  "source_errors": [
-    {
-      "source_id": "usgs_m45_earthquakes_hour",
-      "source_name": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-    }
-  ],
+  "source_errors": [],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
