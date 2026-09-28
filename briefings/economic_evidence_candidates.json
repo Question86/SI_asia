@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T02:40:07+00:00",
-  "candidate_count": 1330,
+  "generated_at": "2026-09-28T02:59:42+00:00",
+  "candidate_count": 1331,
   "candidates": [
     {
       "amount_native": 1755400000000.0,
@@ -26971,6 +26971,24 @@
       "snippet": "率や confidence とともに返します。 使い方は、コンテキストとなる state とそれに関する質問を送るだけです。 質問の形式は、選択肢から選ぶ Choice、ルーブリックで採点する Score、文が真かを 0〜1 で返す Noul の 3 種類です。 最大の魅力は速度とコストで、70〜500 ミリ秒で回答し、価格は入力 100 万トークンあたり $0.042、出力は無料です。 https://typesafe.ai/blog/introducing-system-one-models-and-jev 検索方法設計 jev は高速かつ低コストで、教師データなしの判定問題を処理できるという良さがある一方できることは限られており、今回であれば検索問題を判定問題に落とし込む必要があります。 また、現状コンテキストの制約",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://zenn.dev/mazrean/articles/bd9b563ace18db"
+    },
+    {
+      "candidate_id": "cand_37eae2d311270e8968f8",
+      "event_id": "evt_b2cceafbc8286a4ca784",
+      "source_url": "https://recruit.group.gmo/engineer/jisedai/blog/jev-system-one-model/",
+      "observed_at": "2026-09-28T02:59:42+00:00",
+      "currency": "USD",
+      "amount_native": 0.042,
+      "amount_usd": 0.042,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_b2cceafbc8286a4ca784:unclassified",
+      "attribution_probability": null,
+      "snippet": "プンウェイトでローカルで実行可能な点がJevと異なる特徴です。推論速度に関しても、Jev以上の高速化が報告されています。以下はGitHubレポジトリで報告されているLayaとJevの性能比較の図です。速度に関して、Layaは32.8 msに対して、Jevは、236-276 msとLayaが7.8倍と圧倒的に高速です。そしてコストについては、Jevが低コスト $0.042/1M tokensに対して、セルフホストであるLayaは無料で利用可能です。 LayaとJevの性能比較（図は、GitHubのLayaリポジトリ( https://github.com/NandhaKishorM/laya )より引用） オープンソースですので、Layaをベースとした移植や派生モデルの開発、カスタマイズが容易です。Laya-MLX( htt",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 0.016,
