@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-28T05:40:41+00:00_
+_Generated: 2026-09-28T05:52:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `19`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-28T05:40:41+00:00_
 - url: https://e27.co/igloo-narrows-fy2025-loss-as-embedded-insurance-bet-edges-closer-to-breakeven-20260928/
 - summary: For years, Southeast Asia’s insurtech promise has rested on a simple idea: insurance should be bought where people already spend, borrow, shop, travel or top up their phones. The harder part has been turning that distribution advantage into a business that ca…
 
-### 7. M 4.9 - South Sandwich Islands region
+### 7. M 5.1 - 78 km ENE of Tadine, New Caledonia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-09-28T05:48:28.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty33
+- summary: Time 2026-09-28 05:28:08 UTC 2026-09-28 05:28:08 UTC at epicenter Location 21.207°S 168.546°E Depth 10.00 km (6.21 mi)
+
+### 8. M 4.9 - South Sandwich Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-28T05:07:12.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2y
 - summary: Time 2026-09-28 04:41:33 UTC 2026-09-28 04:41:33 UTC at epicenter Location 57.650°S 25.347°W Depth 35.00 km (21.75 mi)
-
-### 8. M 4.6 - northwest of the Kuril Islands
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-28T04:57:49.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2w
-- summary: Time 2026-09-28 04:42:56 UTC 2026-09-28 04:42:56 UTC at epicenter Location 49.026°N 151.571°E Depth 258.71 km (160.75 mi)
 
 END OF DOCUMENT

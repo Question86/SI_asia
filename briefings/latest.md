@@ -1,18 +1,14 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T05:40:41+00:00_
+_Generiert: 2026-09-28T05:52:25+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+19 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M5.4 - 231 km WSW of Port McNeill, Canada** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2u)
-  - Quelle: USGS
-  - Zeit: `2026-09-28T04:41:21+00:00`
-  - Kurz: M5.4 - 231 km WSW of Port McNeill, Canada. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-88772 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-27`
@@ -122,6 +118,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: For years, Southeast Asia’s insurtech promise has rested on a simple idea: insurance should be bought where people already spend, borrow, shop, travel or top up their phones. The harder part has been turning that distribution advantage into a business that can scale without burning ever larger amounts of capital. Singapore-headquartered Igloo is now trying […] The post Igloo narrows FY2025 loss as embedded insurance…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 78 km ENE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty33)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-28T05:48:28.040+00:00`, fetched `2026-09-28T05:51:53+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-28 05:28:08 UTC 2026-09-28 05:28:08 UTC at epicenter Location 21.207°S 168.546°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2y)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-28T05:07:12.040+00:00`, fetched `2026-09-28T05:26:54+00:00`
@@ -139,15 +144,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-28 04:42:56 UTC 2026-09-28 04:42:56 UTC at epicenter Location 49.026°N 151.571°E Depth 258.71 km (160.75 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2e)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-28T03:57:02.040+00:00`, fetched `2026-09-28T04:00:57+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-28 03:43:44 UTC 2026-09-28 03:43:44 UTC at epicenter Location 57.670°S 25.279°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Your startup may be competing with a VC’s existing portfolio** — Score 8, observation — [Quelle](https://e27.co/your-startup-may-be-competing-with-a-vcs-existing-portfolio-20260927/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
