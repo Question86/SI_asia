@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-28T05:00:59+00:00",
+  "generated_at": "2026-09-28T05:27:25+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 1,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 4,
-    "observe": 12
+    "observe": 13
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "M 4.9 - South Sandwich Islands region",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-28T05:07:12.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2y",
+      "summary": "Time 2026-09-28 04:41:33 UTC 2026-09-28 04:41:33 UTC at epicenter Location 57.650°S 25.347°W Depth 35.00 km (21.75 mi)",
+      "section": "observe"
+    },
+    {
       "title": "M 4.6 - northwest of the Kuril Islands",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2e",
       "summary": "Time 2026-09-28 03:43:44 UTC 2026-09-28 03:43:44 UTC at epicenter Location 57.670°S 25.279°W Depth 35.00 km (21.75 mi)",
       "section": "observe"
-    },
-    {
-      "title": "M 5.3 - 69 km NE of Tadine, New Caledonia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-28T03:39:27.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2b",
-      "summary": "Time 2026-09-28 03:25:06 UTC 2026-09-28 03:25:06 UTC at epicenter Location 21.196°S 168.441°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,135 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T04:11:29+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory"
-        ],
-        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Zustand herbeizuführen oder nicht näher spezifizierten Angriff durchzuführen."
-      },
-      {
-        "title": "バッファロー製Wi-Fi製品における複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU94863997/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-28T13:30:00+09:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "株式会社バッファローが提供する複数のWi-Fi製品の設定画面には、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96520526/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-28T09:15:00+09:00",
-        "age_days": 0.21,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "Bitcoin dominance at 58.5% and the 55% line that still blocks altseason",
-        "url": "https://e27.co/bitcoin-dominance-at-58-5-and-the-55-line-that-still-blocks-altseason-20260928/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-28T03:57:39+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 21.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "Bitcoin trades around US$84,200 to US$84,550 on Monday, September 28, 2026. It is not exploding higher today. Most sources show a modest move, slightly up or down 0.2 per cent to 0.5 per cent, as it consolidates after last week’s sharp rally. The bigger picture is that Bitcoin has rebounded strongly from mid-September…"
-      },
-      {
-        "title": "バッファロー製Wi-Fi製品における複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU94863997/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-28T05:01:03+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
