@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-28T13:55:10+00:00",
+  "generated_at": "2026-09-28T14:03:49+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 65,
-    "displayed_findings": 65,
+    "new_relevant_findings": 2,
+    "today_file_total": 67,
+    "displayed_findings": 67,
     "high": 0,
     "medium": 25,
-    "observe": 40
+    "observe": 42
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-09-28T14:55:17+00:00",
+      "relevance_score": 12,
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260086.en.html",
+      "summary": "Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00",
+      "section": "observe"
+    },
+    {
       "title": "Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30",
       "source": "ECB Open Market Operations and Communication",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/",
       "summary": "For almost two decades, the startup creation playbook for Southeast Asia has been largely predictable: build a super app, raise hundreds of millions of dollars, staff thousands of employees, operate in dozens of markets and scale to dominate the region. Firms…",
-      "section": "observe"
-    },
-    {
-      "title": "Multiples vulnérabilités dans WordPress (18 septembre 2026)",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "relevance_score": 12,
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
       "section": "observe"
     }
   ],

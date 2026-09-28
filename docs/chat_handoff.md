@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-28T13:55:10+00:00_
+_Generated: 2026-09-28T14:03:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `65`
+- findings: `67`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-28T13:55:10+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514
 - summary: Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um möglicherweise beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, Spoofing-Angriffe durchzuführen oder Denial-of-Serv…
 
-### 5. Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30
+### 5. Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-09-28T14:55:17+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260086.en.html
+- summary: Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00
+
+### 6. Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-09-28T14:40:21+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260085.en.html
 - summary: Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30
 
-### 6. Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
+### 7. Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
 - source: ECB Press Releases Speeches Interviews
 - score: `12`
 - published: `2026-09-28T13:30:00+00:00`
 - url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html
 - summary: Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament
 
-### 7. One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab
+### 8. One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-28T01:30:40+00:00`
 - url: https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/
 - summary: For almost two decades, the startup creation playbook for Southeast Asia has been largely predictable: build a super app, raise hundreds of millions of dollars, staff thousands of employees, operate in dozens of markets and scale to dominate the region. Firms…
-
-### 8. Multiples vulnérabilités dans WordPress (18 septembre 2026)
-- source: CERT-FR Avis de sécurité
-- score: `12`
-- published: `2026-09-18T00:00:00+00:00`
-- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/
-- summary: De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.
 
 END OF DOCUMENT

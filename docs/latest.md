@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T13:55:10+00:00_
+_Generiert: 2026-09-28T14:03:49+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
+67 neue relevante Treffer. Stärkstes Signal: „South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260086.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-09-28T14:55:17+00:00`, fetched `2026-09-28T14:03:19+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260086 (LTRO,liquidity providing), for 84 days deadline 10:00
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260085 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260085.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-09-28T14:40:21+00:00`, fetched `2026-09-28T13:42:19+00:00`
@@ -204,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-28 12:14:24 UTC 2026-09-28 12:14:24 UTC at epicenter Location 20.693°S 178.497°W Depth 573.11 km (356.12 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Discount window modernization and treasury market functioning** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20260928-discount-window-modernization-and-treasury-market-functioning)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-28T00:00:00+00:00`, fetched `2026-09-28T14:03:19+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0)
+  - Kurz: Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the 2026 US Treasury Market Conference, organised by the Federal Reserve Bank of New York, New York City, 22 September 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Vulnérabilité dans Kaspersky Secure Mail Gateway (18 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1201/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-09-18T00:00:00+00:00`, fetched `2026-09-28T08:59:47+00:00`
@@ -230,24 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Updates schließen 19 Lücken im Netzwerkanalysetool Wireshark. Über präparierte Profile kann Schadcode auf PCs gelangen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **塩崎デジタル副大臣のプロフィールを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/member/shiozakiakihisa)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-28T07:30:53+00:00`, fetched `2026-09-28T07:51:51+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 塩崎デジタル副大臣のプロフィールを掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **赤松デジタル大臣政務官のプロフィールを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/member/akamatsuken)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-28T07:30:45+00:00`, fetched `2026-09-28T07:51:51+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 赤松デジタル大臣政務官のプロフィールを掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
