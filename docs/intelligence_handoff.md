@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-28T05:15:59Z_
+_Generated: 2026-09-28T05:35:17Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-28T13:30:00+09:00` / age_days `0.03`
+- Published: `2026-09-28T13:30:00+09:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,37 +22,37 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-28T09:15:00+09:00` / age_days `0.21`
+- Published: `2026-09-28T09:15:00+09:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
 - Quelle: https://jvn.jp/vu/JVNVU96520526/
 
-### バッファロー製Wi-Fi製品における複数の脆弱性
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-09-28T05:01:03+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://jvn.jp/vu/JVNVU94863997/
-
 ### [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-28T04:11:29+00:00` / age_days `0.04`
+- Published: `2026-09-28T04:11:29+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579
 
+### バッファロー製Wi-Fi製品における複数の脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.5`
+- Published: `2026-09-28T05:01:03+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://jvn.jp/vu/JVNVU94863997/
+
 ### Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-28T01:03:09+00:00` / age_days `0.18`
+- Published: `2026-09-28T01:03:09+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-28T05:00:04.995+00:00` / age_days `0.01`
+- Published: `2026-09-28T05:00:04.995+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-09-28T03:57:39+00:00` / age_days `0.05`
+- Published: `2026-09-28T03:57:39+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-09-28T01:43:02+00:00` / age_days `0.15`
+- Published: `2026-09-28T01:43:02+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `watch` (raw `strong`)
 - Dynamics score: `19.9`
-- Published: `2026-08-28T14:08:37+00:00` / age_days `30.63`
+- Published: `2026-08-28T14:08:37+00:00` / age_days `30.64`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -3.4 for 30.6d old signal, stale single-source cap: max watch after 14d without fresh resonance
@@ -101,8 +101,8 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 ### M 5.4 - 231 km WSW of Port McNeill, Canada
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `19.4`
-- Published: `2026-09-28T05:01:03+00:00` / age_days `0.01`
+- Dynamics score: `17.5`
+- Published: `2026-09-28T05:01:03+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-28T02:04:37+00:00` / age_days `0.13`
+- Published: `2026-09-28T02:04:37+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “バッファロー製Wi-Fi製品にお�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-28T03:39:27.040+00:00` / age_days `0.07`
+- Published: `2026-09-28T03:39:27.040+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
