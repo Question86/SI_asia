@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-28T11:34:55+00:00",
+  "generated_at": "2026-09-28T12:06:10+00:00",
   "topics": {
     "ai": [
       {
@@ -128,6 +128,20 @@
         "url": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       },
       {
+        "title": "[NEU] [mittel] Velero: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T11:51:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3607"
+      },
+      {
+        "title": "[NEU] [mittel] X.Org X11: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T11:46:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3606"
+      },
+      {
         "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-28T10:46:29+00:00",
@@ -175,13 +189,6 @@
         "published_at": "2026-09-28T10:21:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3595"
-      },
-      {
-        "title": "[NEU] [kritisch] Citrix NetScaler ADC und Citrix NetScaler Gateway: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T08:36:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3587"
       }
     ],
     "security": [
@@ -205,6 +212,20 @@
         "published_at": "2026-09-28T13:30:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU94863997/"
+      },
+      {
+        "title": "[NEU] [mittel] Velero: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T11:51:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3607"
+      },
+      {
+        "title": "[NEU] [mittel] X.Org X11: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-28T11:46:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3606"
       },
       {
         "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
@@ -240,20 +261,6 @@
         "published_at": "2026-09-28T10:41:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3602"
-      },
-      {
-        "title": "[NEU] [hoch] ESRI ArcGIS: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T10:36:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3601"
-      },
-      {
-        "title": "[NEU] [mittel] Coolify: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-28T10:31:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3600"
       }
     ],
     "general": [
