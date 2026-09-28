@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-28T06:50:20+00:00",
+  "generated_at": "2026-09-28T07:18:12+00:00",
   "topics": {
     "security": [
       {
@@ -38,6 +38,13 @@
         "published_at": "2026-09-28T06:16:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3285"
+      },
+      {
+        "title": "Sicherheitslücken in Wireshark: Profilimport kann Schadcode mitschleppen",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-28T07:01:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Sicherheitsluecken-in-Wireshark-Profilimport-kann-Schadcode-mitschleppen-11467554.html"
       }
     ],
     "general": [

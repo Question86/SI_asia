@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T06:50:20+00:00_
+_Generiert: 2026-09-28T07:18:12+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+27 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-28 04:42:56 UTC 2026-09-28 04:42:56 UTC at epicenter Location 49.026°N 151.571°E Depth 258.71 km (160.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Sicherheitslücken in Wireshark: Profilimport kann Schadcode mitschleppen** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-in-Wireshark-Profilimport-kann-Schadcode-mitschleppen-11467554.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-28T07:01:00.000+00:00`, fetched `2026-09-28T07:17:44+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Updates schließen 19 Lücken im Netzwerkanalysetool Wireshark. Über präparierte Profile kann Schadcode auf PCs gelangen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/contact)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-28T06:00:00+00:00`, fetched `2026-09-28T06:49:48+00:00`
