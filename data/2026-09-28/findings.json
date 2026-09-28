@@ -1,5 +1,29 @@
 [
   {
+    "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-28T07:21:30+00:00",
+    "fetched_at": "2026-09-28T07:51:51+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um möglicherweise beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, Spoofing-Angriffe durchzuführen oder Denial-of-Service-Zustände herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b157ad154e56759c062d"
+  },
+  {
     "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579",
     "source": "BSI CERT-Bund Security Advisories",
@@ -494,6 +518,46 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "91fd6af5f3c0cf4f9393"
+  },
+  {
+    "title": "塩崎デジタル副大臣のプロフィールを掲載しました",
+    "url": "https://www.digital.go.jp/about/member/shiozakiakihisa",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-28T07:30:53+00:00",
+    "fetched_at": "2026-09-28T07:51:51+00:00",
+    "summary": "塩崎デジタル副大臣のプロフィールを掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2d5686f342c5e160a39d"
+  },
+  {
+    "title": "赤松デジタル大臣政務官のプロフィールを掲載しました",
+    "url": "https://www.digital.go.jp/about/member/akamatsuken",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-28T07:30:45+00:00",
+    "fetched_at": "2026-09-28T07:51:51+00:00",
+    "summary": "赤松デジタル大臣政務官のプロフィールを掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "02464e27956c398701a9"
   },
   {
     "title": "ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました",

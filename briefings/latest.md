@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-28T07:18:12+00:00_
+_Generiert: 2026-09-28T07:52:23+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+30 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -65,6 +65,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-28T07:21:30+00:00`, fetched `2026-09-28T07:51:51+00:00`
+  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um möglicherweise beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, Spoofing-Angriffe durchzuführen oder Denial-of-Service-Zustände herbeizuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-28T04:11:29+00:00`, fetched `2026-09-28T04:29:40+00:00`
@@ -109,15 +118,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in OpenClaw ausnutzen, um erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Kyverno: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3285)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-28T06:16:29+00:00`, fetched `2026-09-28T06:49:48+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Kyverno ausnutzen, um Sicherheitsmaßnahmen zu umgehen, SSRF auszuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren und unter bestimmten Umständen seine Berechtigungen auf Cluster-Administrator zu erweitern.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -184,6 +184,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Updates schließen 19 Lücken im Netzwerkanalysetool Wireshark. Über präparierte Profile kann Schadcode auf PCs gelangen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **塩崎デジタル副大臣のプロフィールを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/member/shiozakiakihisa)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-28T07:30:53+00:00`, fetched `2026-09-28T07:51:51+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 塩崎デジタル副大臣のプロフィールを掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **赤松デジタル大臣政務官のプロフィールを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/member/akamatsuken)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-28T07:30:45+00:00`, fetched `2026-09-28T07:51:51+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 赤松デジタル大臣政務官のプロフィールを掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/contact)
   - Quelle: Japan Digital Agency News RSS / `rss`

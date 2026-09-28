@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-28T07:18:12+00:00_
+_Generated: 2026-09-28T07:52:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `30`
 
 ## Top Signals
 
-### 1. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+### 1. [UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-28T07:21:30+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514
+- summary: Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um möglicherweise beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, Spoofing-Angriffe durchzuführen oder Denial-of-Serv…
+
+### 2. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-28T04:11:29+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579
 - summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Zustand herbeizuführen oder nicht näher spezifizierten Angriff durchzuführen.
 
-### 2. M 5.4 - 231 km WSW of Port McNeill, Canada
+### 3. M 5.4 - 231 km WSW of Port McNeill, Canada
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-09-28T05:00:04.995+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2u
 - summary: PAGER - GREEN ShakeMap - I Time 2026-09-28 04:41:21 UTC 2026-09-28 04:41:21 UTC at epicenter Location 50.053°N 130.221°W Depth 10.00 km (6.21 mi)
 
-### 3. バッファロー製Wi-Fi製品における複数の脆弱性
+### 4. バッファロー製Wi-Fi製品における複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-28T13:30:00+09:00`
 - url: https://jvn.jp/vu/JVNVU94863997/
 - summary: 株式会社バッファローが提供する複数のWi-Fi製品の設定画面には、複数の脆弱性が存在します。
-
-### 4. Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-28T09:15:00+09:00`
-- url: https://jvn.jp/vu/JVNVU96520526/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab
 - source: e27 Asia Startup and Tech Feed
