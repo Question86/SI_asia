@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T01:03:29+00:00",
+  "generated_at": "2026-09-28T01:43:20+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -826,7 +826,7 @@
       "p90_usd": 107200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-28T01:03:09+00:00",
-      "last_seen_at": "2026-09-28T01:03:09+00:00",
+      "last_seen_at": "2026-09-28T01:43:02+00:00",
       "status": "active"
     },
     {
@@ -5998,6 +5998,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d3d9a3967b112ba3fba0",
+      "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-28T01:03:09+00:00",
+      "last_seen_at": "2026-09-28T01:43:02+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_d7bfc2a0a8af35a07efb",
       "title": "Norwegian Cruise Lineのドアアクセスコントローラにおける認証不備の脆弱性",
       "event_classes": [
@@ -6081,23 +6098,6 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_d3d9a3967b112ba3fba0",
-      "title": "Androidアプリ「Readwise Reader」における複数のクロスサイトスクリプティングの脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-28T01:03:09+00:00",
-      "last_seen_at": "2026-09-28T01:03:09+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -9175,6 +9175,23 @@
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_2eac90e7a977405ab4fc",
+      "title": "One-person company: Why Southeast Asia’s next unicorn may look nothing like Grab",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-28T01:43:02+00:00",
+      "last_seen_at": "2026-09-28T01:43:02+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0794940ba82f2ab5dd23",
@@ -14822,6 +14839,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_26619ef56c543d198fcd",
+      "title": "「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-28T01:03:09+00:00",
+      "last_seen_at": "2026-09-28T01:43:02+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_277f7d44ddb50aadfc8b",
       "title": "増田はなぜ「はてブ」になったか - Nightflight",
       "event_classes": [
@@ -16877,23 +16911,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_26619ef56c543d198fcd",
-      "title": "「スマホ注文なのに客用Wi-Fiがない」のはなぜか？ 導入しない飲食店側の事情",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-28T01:03:09+00:00",
-      "last_seen_at": "2026-09-28T01:03:09+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
