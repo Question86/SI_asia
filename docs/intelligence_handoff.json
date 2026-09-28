@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-28T10:16:15Z",
+  "generated_at": "2026-09-28T10:42:20Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T07:21:30+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3587",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T08:36:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3316",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T06:16:29+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://jvn.jp/vu/JVNVU94863997/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-28T13:30:00+09:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -114,7 +114,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2717",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T09:56:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -138,7 +138,7 @@
       "url": "https://jvn.jp/vu/JVNVU96520526/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-28T09:15:00+09:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -158,38 +158,11 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
-      "title": "InfinityLoop1308/PipePipe",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-28T06:49:48+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 25.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: local",
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "An open-source Android app to let you browse YouTube and other services freely. https://pipepipe.dev PipePipe NewPipe, reimagined: faster, more stable, and packed with more features. Beyond NewPipe YouTube Enhancements Integrate SponsorBlock for skipping sponsored segments (YouTube & BiliBili) Restore YouTube dislikes…"
-    },
-    {
       "title": "vercel-labs/scriptc",
       "url": "https://github.com/vercel-labs/scriptc",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-28T06:50:23+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -212,11 +185,63 @@
       "summary": ""
     },
     {
+      "title": "[NEU] [kritisch] vm2: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3594",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-28T10:21:29+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, code",
+        "security high-signal: kritisch, code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in vm2 ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen und einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
+      "title": "[NEU] [hoch] IBM QRadar SIEM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3595",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-28T10:21:29+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM QRadar SIEM ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen und um Sicher…"
+    },
+    {
       "title": "[UPDATE] [hoch] Kyverno: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3285",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T06:16:29+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -242,7 +267,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3579",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-28T04:11:29+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -267,7 +292,7 @@
       "url": "https://e27.co/astar-and-edb-unveil-sg-semiconductor-as-partnerships-target-ai-era-chis-20260928/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-28T06:50:23+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -286,34 +311,6 @@
         "AXI0M/User-Yps identity hit",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3514",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 30.84,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -3.4 for 30.8d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
     }
