@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-28T05:27:25+00:00_
+_Generated: 2026-09-28T05:40:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `18`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-28T05:27:25+00:00_
 - url: https://e27.co/one-person-company-why-southeast-asias-next-unicorn-may-look-nothing-like-grab-20260927/
 - summary: For almost two decades, the startup creation playbook for Southeast Asia has been largely predictable: build a super app, raise hundreds of millions of dollars, staff thousands of employees, operate in dozens of markets and scale to dominate the region. Firms…
 
-### 6. M 4.9 - South Sandwich Islands region
+### 6. Igloo narrows FY2025 loss as embedded insurance bet edges closer to breakeven
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-09-28T05:28:18+00:00`
+- url: https://e27.co/igloo-narrows-fy2025-loss-as-embedded-insurance-bet-edges-closer-to-breakeven-20260928/
+- summary: For years, Southeast Asia’s insurtech promise has rested on a simple idea: insurance should be bought where people already spend, borrow, shop, travel or top up their phones. The harder part has been turning that distribution advantage into a business that ca…
+
+### 7. M 4.9 - South Sandwich Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-28T05:07:12.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2y
 - summary: Time 2026-09-28 04:41:33 UTC 2026-09-28 04:41:33 UTC at epicenter Location 57.650°S 25.347°W Depth 35.00 km (21.75 mi)
 
-### 7. M 4.6 - northwest of the Kuril Islands
+### 8. M 4.6 - northwest of the Kuril Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-28T04:57:49.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2w
 - summary: Time 2026-09-28 04:42:56 UTC 2026-09-28 04:42:56 UTC at epicenter Location 49.026°N 151.571°E Depth 258.71 km (160.75 mi)
-
-### 8. M 5.1 - South Sandwich Islands region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-28T03:57:02.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2e
-- summary: Time 2026-09-28 03:43:44 UTC 2026-09-28 03:43:44 UTC at epicenter Location 57.670°S 25.279°W Depth 35.00 km (21.75 mi)
 
 END OF DOCUMENT
