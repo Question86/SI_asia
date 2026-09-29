@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T14:42:58+00:00_
+_Generiert: 2026-09-29T15:02:02+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+81 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -159,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)
   - Kurz: Open-source, low-cost 10.5 GHz PLFM phased array RADAR system AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) modulation. Available in two versions (3km and 20km range), it's designed for researchers, drone developers, and serious SDR enthusiasts who want to explore and e…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Bowman, Opening Remarks** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-09-29T15:00:00+00:00`, fetched `2026-09-29T15:01:31+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At the Community Bank Cyber Workshop, Denver, Colorado (via pre-recorded video)
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Blue Fire AI closes US$9M round with AM-One stake under Mizuho partnership** — Score 12, opportunity — [Quelle](https://e27.co/blue-fire-ai-closes-us9m-round-with-am-one-stake-under-mizuho-partnership-20260929/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-29T07:15:44+00:00`, fetched `2026-09-29T07:32:36+00:00`
@@ -239,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIで地図アプリをたくさん作ったので話を聞いてほしい 地図好きが作る自分が本当に使いたかったアプリの数々** — Score 8, observation — [Quelle](https://dailyportalz.jp/kiji/ai-chizu-app-tsukutta)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-29T02:40:12+00:00`, fetched `2026-09-29T05:28:04+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: こんにちは。ライターの西村です。 最近、僕がAIで作ったwebアプリについて、プログラマーでライターの三土さん、デイリーポータルZ編集長の林さん、編集の石川さんに話を聞いてもらいました。 それではどうぞ。 まったく何もわからなくてもなんか作れるのすげえな 左から、筆者の西村、石川さん、三土さん、林さんです...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

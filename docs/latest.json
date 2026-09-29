@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T14:42:58+00:00",
-  "run_id": "2026-09-29T14:42:58+00:00",
+  "generated_at": "2026-09-29T15:02:02+00:00",
+  "run_id": "2026-09-29T15:02:02+00:00",
   "date": "2026-09-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 79
+      "configured_public_sources_only": 81
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "new_relevant_findings": 2,
+    "today_file_total": 81,
+    "displayed_findings": 81,
     "high": 0,
     "medium": 33,
-    "observe": 46,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -942,6 +942,28 @@
         "id": "71536efe2ba5cd59a4bc"
       },
       {
+        "title": "Bowman, Opening Remarks",
+        "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm",
+        "source": "Federal Reserve Speeches and Testimony",
+        "source_type": "rss",
+        "published_at": "2026-09-29T15:00:00+00:00",
+        "fetched_at": "2026-09-29T15:01:31+00:00",
+        "summary": "Speech At the Community Bank Cyber Workshop, Denver, Colorado (via pre-recorded video)",
+        "matched_keywords": [
+          "Macro/Policy",
+          "speech",
+          "testimony"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "647c73dd51696700deb5"
+      },
+      {
         "title": "Blue Fire AI closes US$9M round with AM-One stake under Mizuho partnership",
         "url": "https://e27.co/blue-fire-ai-closes-us9m-round-with-am-one-stake-under-mizuho-partnership-20260929/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1547,6 +1569,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e922f225ca22c7e6a1e4"
+      },
+      {
+        "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+        "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-29T15:00:00+00:00",
+        "fetched_at": "2026-09-29T15:01:31+00:00",
+        "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Open Source"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Open Source (+3.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1bdc6b16cd09f543cf5c"
       },
       {
         "title": "令和8年度「病院情報システム等の刷新に向けた協議会」の構成員の追加募集（分科会C）を開始しました",
@@ -2831,6 +2874,28 @@
       "id": "71536efe2ba5cd59a4bc"
     },
     {
+      "title": "Bowman, Opening Remarks",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
+      "source_type": "rss",
+      "published_at": "2026-09-29T15:00:00+00:00",
+      "fetched_at": "2026-09-29T15:01:31+00:00",
+      "summary": "Speech At the Community Bank Cyber Workshop, Denver, Colorado (via pre-recorded video)",
+      "matched_keywords": [
+        "Macro/Policy",
+        "speech",
+        "testimony"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "647c73dd51696700deb5"
+    },
+    {
       "title": "Blue Fire AI closes US$9M round with AM-One stake under Mizuho partnership",
       "url": "https://e27.co/blue-fire-ai-closes-us9m-round-with-am-one-stake-under-mizuho-partnership-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -3438,6 +3503,27 @@
       "id": "e922f225ca22c7e6a1e4"
     },
     {
+      "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-29T15:00:00+00:00",
+      "fetched_at": "2026-09-29T15:01:31+00:00",
+      "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Open Source"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Open Source (+3.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1bdc6b16cd09f543cf5c"
+    },
+    {
       "title": "令和8年度「病院情報システム等の刷新に向けた協議会」の構成員の追加募集（分科会C）を開始しました",
       "url": "https://www.digital.go.jp/news/19b45883-978f-4424-929a-ee8fa5bc20e6",
       "source": "Japan Digital Agency News RSS",
@@ -3807,7 +3893,51 @@
       "id": "f6352974874c9512bf28"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Bowman, Opening Remarks",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
+      "source_type": "rss",
+      "published_at": "2026-09-29T15:00:00+00:00",
+      "fetched_at": "2026-09-29T15:01:31+00:00",
+      "summary": "Speech At the Community Bank Cyber Workshop, Denver, Colorado (via pre-recorded video)",
+      "matched_keywords": [
+        "Macro/Policy",
+        "speech",
+        "testimony"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "647c73dd51696700deb5"
+    },
+    {
+      "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-29T15:00:00+00:00",
+      "fetched_at": "2026-09-29T15:01:31+00:00",
+      "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Open Source"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Open Source (+3.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1bdc6b16cd09f543cf5c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
