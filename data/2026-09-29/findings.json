@@ -441,6 +441,43 @@
     "id": "578c8e27c0fc0bc53b6f"
   },
   {
+    "title": "M 4.7 - 49 km N of Dicabisagan, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyf0",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-29T21:12:11.040+00:00",
+    "fetched_at": "2026-09-29T21:25:46+00:00",
+    "summary": "Time 2026-09-29 20:45:50 UTC 2026-09-29 20:45:50 UTC at epicenter Location 17.527°N 122.414°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "1c20f8f17de588741f8b"
+  },
+  {
     "title": "PFU製Image Scanner Driver for Linuxにおける複数の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU96968110/",
     "source": "JVN Japan Vulnerability Notes",
@@ -1594,6 +1631,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "624d556bbf6412c7a4ff"
+  },
+  {
+    "title": "「Microsoft Learn」の公開ドキュメントリポジトリ、多くが年内に終了へ／廃止対象では「GitHub」経由の修正提案ができなくなる",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2143945.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-29T10:57:35+00:00",
+    "fetched_at": "2026-09-29T21:25:46+00:00",
+    "summary": "「Microsoft Learn」の公開ドキュメントリポジトリ、多くが年内に終了へ／廃止対象では「GitHub」経由の修正提案ができなくなる",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c1e59c80c3f4f6e91011"
   },
   {
     "title": "AIで地図アプリをたくさん作ったので話を聞いてほしい 地図好きが作る自分が本当に使いたかったアプリの数々",

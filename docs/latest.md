@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T21:10:42+00:00_
+_Generiert: 2026-09-29T21:26:14+00:00_
 
 ## Kurzlage
 
-90 neue relevante Treffer. Stärkstes Signal: „Waller, Payments in the Age of AI Agents“ aus Federal Reserve Speeches and Testimony (Score 25, opportunity).
+92 neue relevante Treffer. Stärkstes Signal: „Waller, Payments in the Age of AI Agents“ aus Federal Reserve Speeches and Testimony (Score 25, opportunity).
 
 ## Priorität Hoch
 
@@ -119,6 +119,15 @@ _Generiert: 2026-09-29T21:10:42+00:00_
   - Warum relevant: Macro/Policy (+6.2); Content-Chance (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB amends monetary policy implementation guidelines as part of regular review
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 49 km N of Dicabisagan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyf0)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-29T21:12:11.040+00:00`, fetched `2026-09-29T21:25:46+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-29 20:45:50 UTC 2026-09-29 20:45:50 UTC at epicenter Location 17.527°N 122.414°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **PFU製Image Scanner Driver for Linuxにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96968110/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-29T15:00:00+09:00`, fetched `2026-09-29T06:09:09+00:00`
@@ -146,15 +155,6 @@ _Generiert: 2026-09-29T21:10:42+00:00_
   - Warum relevant: OpenAI (+7.5); AI Agents (+5.0); recent (+1.0)
   - Kurz: Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Authlibライブラリにおける署名検証が回避される脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU99151548/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-29T09:15:00+09:00`, fetched `2026-09-29T00:56:45+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
