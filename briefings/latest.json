@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T14:08:22+00:00",
-  "run_id": "2026-09-29T14:08:22+00:00",
+  "generated_at": "2026-09-29T14:27:26+00:00",
+  "run_id": "2026-09-29T14:27:26+00:00",
   "date": "2026-09-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 78
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 78,
-    "displayed_findings": 78,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
     "medium": 33,
-    "observe": 45,
+    "observe": 46,
     "source_errors": 0
   },
   "sections": {
@@ -1751,6 +1751,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c50629293ee6ff4d84c5"
+      },
+      {
+        "title": "箱はよくできているのに羊がいないはてなパークスの現状について - 関内関外日記",
+        "url": "https://goldhead.hatenablog.com/entry/2026/09/29/125355",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-29T04:00:21+00:00",
+        "fetched_at": "2026-09-29T14:26:56+00:00",
+        "summary": "p.hatena.ne.jp みんなはてなパークス使っているか？ 759ブクマもされているじゃないか。はてなの、満を持しての新サービスだぞ。たくさんのはてなーたちがこぞって書き込み、大盛況、新しいウェブの居場所だ、ってなってなきゃいけないんじゃいのか。 それなのに、今のはてなパークスときたらジャングリアより羊がいな...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f2d25af9485cd9f6dee0"
       },
       {
         "title": "Google、ChromeOSを2034年に廃止へ。既定方針ながらおおっぴらに告知しない理由とは？【やじうまWatch】",
@@ -3621,6 +3642,27 @@
       "id": "c50629293ee6ff4d84c5"
     },
     {
+      "title": "箱はよくできているのに羊がいないはてなパークスの現状について - 関内関外日記",
+      "url": "https://goldhead.hatenablog.com/entry/2026/09/29/125355",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-29T04:00:21+00:00",
+      "fetched_at": "2026-09-29T14:26:56+00:00",
+      "summary": "p.hatena.ne.jp みんなはてなパークス使っているか？ 759ブクマもされているじゃないか。はてなの、満を持しての新サービスだぞ。たくさんのはてなーたちがこぞって書き込み、大盛況、新しいウェブの居場所だ、ってなってなきゃいけないんじゃいのか。 それなのに、今のはてなパークスときたらジャングリアより羊がいな...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f2d25af9485cd9f6dee0"
+    },
+    {
       "title": "Google、ChromeOSを2034年に廃止へ。既定方針ながらおおっぴらに告知しない理由とは？【やじうまWatch】",
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2143988.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3767,25 +3809,25 @@
   ],
   "new_findings": [
     {
-      "title": "An update on AI and the economy",
-      "url": "https://www.bis.org/speeches/20260929-update-ai-and-economy",
-      "source": "BIS Central Bankers Speeches",
+      "title": "箱はよくできているのに羊がいないはてなパークスの現状について - 関内関外日記",
+      "url": "https://goldhead.hatenablog.com/entry/2026/09/29/125355",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-29T00:00:00+00:00",
-      "fetched_at": "2026-09-29T14:07:54+00:00",
-      "summary": "Opening keynote by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the Oakland Tech Week, cohosted by the Kapor Center, Oakland, California, 28 September 2026.",
+      "published_at": "2026-09-29T04:00:21+00:00",
+      "fetched_at": "2026-09-29T14:26:56+00:00",
+      "summary": "p.hatena.ne.jp みんなはてなパークス使っているか？ 759ブクマもされているじゃないか。はてなの、満を持しての新サービスだぞ。たくさんのはてなーたちがこぞって書き込み、大盛況、新しいウェブの居場所だ、ってなってなきゃいけないんじゃいのか。 それなのに、今のはてなパークスときたらジャングリアより羊がいな...",
       "matched_keywords": [
-        "AI/KI",
-        "Macro/Policy"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "af16d88ce414128a3ee4"
+      "id": "f2d25af9485cd9f6dee0"
     }
   ],
   "source_errors": [],

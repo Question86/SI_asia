@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T14:08:22+00:00_
+_Generiert: 2026-09-29T14:27:26+00:00_
 
 ## Kurzlage
 
-78 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+79 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-86950 Apple Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-29`
+  - Kurz: Known exploited vulnerability. Added 2026-09-29. Due 2026-10-02. Apple Multiple Products Out-of-Bounds Write Vulnerability
 - **CISA KEV: CVE-2026-88772 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-27`
@@ -25,10 +29,6 @@ _Generiert: 2026-09-29T14:08:22+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-25`
   - Kurz: Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. Microsoft SharePoint Code Injection Vulnerability
-- **CISA KEV: CVE-2026-87902 WordPress Core** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-25`
-  - Kurz: Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. WordPress Core Remote File Inclusion Vulnerability
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
