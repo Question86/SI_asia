@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T19:18:49+00:00",
+  "generated_at": "2026-09-29T19:32:37+00:00",
   "topics": {
     "ai": [
       {
@@ -147,58 +147,14 @@
         "url": "https://www.bis.org/speeches/20260928-opening-speech-12th-edition-ermas-conference"
       }
     ],
-    "github": [
-      {
-        "title": "GPT-6.1 Sol in GitHub Copilot",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-29T17:02:27+00:00",
-        "relevance_score": 18,
-        "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot"
-      },
-      {
-        "title": "byoungd/up",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/byoungd/up"
-      },
-      {
-        "title": "NawfalMotii79/PLFM_RADAR",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
-      },
-      {
-        "title": "cs341-illinois/coursebook",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/cs341-illinois/coursebook"
-      },
-      {
-        "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-28T23:36:42+00:00",
-        "relevance_score": 7,
-        "url": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu"
-      },
-      {
-        "title": "Developer policy update: Transparency, state policy, and what’s ahead",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-09-29T15:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/"
-      },
-      {
-        "title": "Bring business context with external custom properties",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-29T18:40:27+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties"
-      }
-    ],
     "security": [
+      {
+        "title": "Repository custom runner settings for Dependabot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-29T19:10:00+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot"
+      },
       {
         "title": "Can Bitcoin hold US$82,000? Inside the security fear and macro storm",
         "source": "e27 Asia Startup and Tech Feed",
@@ -261,13 +217,64 @@
         "published_at": "2026-09-29T07:46:29+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3605"
+      }
+    ],
+    "github": [
+      {
+        "title": "Repository custom runner settings for Dependabot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-29T19:10:00+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot"
       },
       {
-        "title": "PFU製Image Scanner Driver for Linuxにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-29T15:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU96968110/"
+        "title": "GPT-6.1 Sol in GitHub Copilot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-29T17:02:27+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot"
+      },
+      {
+        "title": "byoungd/up",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/byoungd/up"
+      },
+      {
+        "title": "NawfalMotii79/PLFM_RADAR",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+      },
+      {
+        "title": "cs341-illinois/coursebook",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/cs341-illinois/coursebook"
+      },
+      {
+        "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-28T23:36:42+00:00",
+        "relevance_score": 7,
+        "url": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu"
+      },
+      {
+        "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-29T15:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/"
+      },
+      {
+        "title": "Bring business context with external custom properties",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-29T18:40:27+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties"
       }
     ],
     "geopolitics": [

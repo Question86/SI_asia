@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T19:18:52+00:00",
-  "today_file_total": 88,
+  "generated_at": "2026-09-29T19:32:40+00:00",
+  "today_file_total": 90,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -48,9 +48,9 @@
       "max_score": 25,
       "credibility_total": 3.15,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 34.3,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 31.3,
       "hot": true,
       "watchgraph_modules": [
         "ai_agents_workflow"
@@ -113,6 +113,29 @@
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "title:repository-custom-runner-settings-dependabot",
+      "title": "Repository custom runner settings for Dependabot",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot"
+      ],
+      "finding_count": 1,
+      "max_score": 18,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 23.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:vietnam-gains-samsung-electro-mechanics-substrate-expansion-plan",
@@ -301,6 +324,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "domain:gigazine.net",
+      "title": "無料でJev互換の小型高速意思決定モデル「Jeff」、ローカル環境で約22～28ミリ秒と爆速",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://gigazine.net/news/20260929-jeff/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "earthquake:m 4.7 - 100 km w of petrolia, ca:4.7",
       "title": "M 4.7 - 100 km W of Petrolia, CA",
       "sources": [
@@ -437,54 +483,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 14.4,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:blue-fire-closes-round-one-stake-under-mizuho",
-      "title": "Blue Fire AI closes US$9M round with AM-One stake under Mizuho partnership",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/blue-fire-ai-closes-us9m-round-with-am-one-stake-under-mizuho-partnership-20260929/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
-    },
-    {
-      "key": "earthquake:m 4.5 - 96 km ene of alianza cristiana, peru:4.5",
-      "title": "M 4.5 - 96 km ENE of Alianza Cristiana, Peru",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybk"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"

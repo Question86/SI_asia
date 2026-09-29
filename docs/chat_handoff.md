@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-29T19:18:49+00:00_
+_Generated: 2026-09-29T19:32:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `88`
+- findings: `90`
 
 ## Top Signals
 
@@ -22,26 +22,26 @@ _Generated: 2026-09-29T19:18:49+00:00_
 - url: https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/
 - summary: Samsung Electro-Mechanics is making its largest single-product investment to date, committing US$4.9 billion to expand production of chip-packaging substrates in South Korea and Vietnam as the artificial intelligence boom reshapes demand across the semiconduc…
 
-### 3. GPT-6.1 Sol in GitHub Copilot
+### 3. Repository custom runner settings for Dependabot
+- source: GitHub Changelog Atom
+- score: `18`
+- published: `2026-09-29T19:10:00+00:00`
+- url: https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot
+- summary: As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already… The post Repository custom runner settings for D…
+
+### 4. GPT-6.1 Sol in GitHub Copilot
 - source: GitHub Changelog Atom
 - score: `18`
 - published: `2026-09-29T17:02:27+00:00`
 - url: https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot
 - summary: GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog .
 
-### 4. Can Bitcoin hold US$82,000? Inside the security fear and macro storm
+### 5. Can Bitcoin hold US$82,000? Inside the security fear and macro storm
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-09-29T02:37:41+00:00`
 - url: https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/
 - summary: Bitcoin is down 1.05 per cent to US$83,491.07 in 24 hours. The total crypto market has fallen 1.49 per cent to US$2.86 trillion. My view is that this decline is not one single story. It is a two-part selloff in which a major security breach and a broader macr…
-
-### 5. Towards safety cases for frontier AI training
-- source: OpenAI News RSS
-- score: `18`
-- published: `2026-09-28T19:00:00+00:00`
-- url: https://openai.com/index/towards-safety-cases-for-frontier-ai-training
-- summary: Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents
 
 ### 6. Barr, Economic Conditions and Monetary Policy
 - source: Federal Reserve Speeches and Testimony

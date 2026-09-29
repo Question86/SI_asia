@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T19:18:49+00:00",
-  "run_id": "2026-09-29T19:18:49+00:00",
+  "generated_at": "2026-09-29T19:32:37+00:00",
+  "run_id": "2026-09-29T19:32:37+00:00",
   "date": "2026-09-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 88
+      "configured_public_sources_only": 90
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 88,
-    "displayed_findings": 88,
+    "new_relevant_findings": 2,
+    "today_file_total": 90,
+    "displayed_findings": 90,
     "high": 1,
-    "medium": 36,
-    "observe": 51,
+    "medium": 37,
+    "observe": 52,
     "source_errors": 0
   },
   "sections": {
@@ -99,6 +99,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8ff85276d00fa33ecf03"
+      },
+      {
+        "title": "Repository custom runner settings for Dependabot",
+        "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-29T19:10:00+00:00",
+        "fetched_at": "2026-09-29T19:32:08+00:00",
+        "summary": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already… The post Repository custom runner settings for Dependabot appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "CodeQL/Dependabot",
+          "GitHub",
+          "Security"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4dedaf62ba2315e5d45a"
       },
       {
         "title": "GPT-6.1 Sol in GitHub Copilot",
@@ -1210,6 +1232,28 @@
         "id": "af16d88ce414128a3ee4"
       },
       {
+        "title": "無料でJev互換の小型高速意思決定モデル「Jeff」、ローカル環境で約22～28ミリ秒と爆速",
+        "url": "https://gigazine.net/news/20260929-jeff/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-29T13:04:44+00:00",
+        "fetched_at": "2026-09-29T19:32:08+00:00",
+        "summary": "ChatGPTの共同開発者であるがディオゴ・アルメイダ氏がCEOを務めるTypeSafe AIが開発した、意思決定モデルの「Jev」と同じように、リクエスト形式でコードに組み込むことができる小型の意思決定モデルが「Jeff」です。RTX PRO 6000の場合は1回の意思決定当たり約22ミリ秒、 AppleのM4 Maxの場合は1回の意思決定当たり約2...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4efd652e297cc42bb64d"
+      },
+      {
         "title": "M 4.5 - 96 km ENE of Alianza Cristiana, Peru",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybk",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2232,6 +2276,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "8ff85276d00fa33ecf03"
+    },
+    {
+      "title": "Repository custom runner settings for Dependabot",
+      "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-29T19:10:00+00:00",
+      "fetched_at": "2026-09-29T19:32:08+00:00",
+      "summary": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already… The post Repository custom runner settings for Dependabot appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "CodeQL/Dependabot",
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4dedaf62ba2315e5d45a"
     },
     {
       "title": "GPT-6.1 Sol in GitHub Copilot",
@@ -3341,6 +3407,28 @@
       "id": "af16d88ce414128a3ee4"
     },
     {
+      "title": "無料でJev互換の小型高速意思決定モデル「Jeff」、ローカル環境で約22～28ミリ秒と爆速",
+      "url": "https://gigazine.net/news/20260929-jeff/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-29T13:04:44+00:00",
+      "fetched_at": "2026-09-29T19:32:08+00:00",
+      "summary": "ChatGPTの共同開発者であるがディオゴ・アルメイダ氏がCEOを務めるTypeSafe AIが開発した、意思決定モデルの「Jev」と同じように、リクエスト形式でコードに組み込むことができる小型の意思決定モデルが「Jeff」です。RTX PRO 6000の場合は1回の意思決定当たり約22ミリ秒、 AppleのM4 Maxの場合は1回の意思決定当たり約2...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4efd652e297cc42bb64d"
+    },
+    {
       "title": "M 4.5 - 96 km ENE of Alianza Cristiana, Peru",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4294,52 +4382,48 @@
   ],
   "new_findings": [
     {
-      "title": "Waller, Payments in the Age of AI Agents",
-      "url": "https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm",
-      "source": "Federal Reserve Speeches and Testimony",
+      "title": "Repository custom runner settings for Dependabot",
+      "url": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-09-29T19:00:00+00:00",
-      "fetched_at": "2026-09-29T19:18:20+00:00",
-      "summary": "Speech At Sibos 2026, Miami, Florida",
+      "published_at": "2026-09-29T19:10:00+00:00",
+      "fetched_at": "2026-09-29T19:32:08+00:00",
+      "summary": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already… The post Repository custom runner settings for Dependabot appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "Macro/Policy",
-        "speech",
-        "testimony",
-        "Watchgraph:ai_agents_workflow"
+        "CodeQL/Dependabot",
+        "GitHub",
+        "Security"
       ],
-      "relevance_score": 25,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
+      "relevance_score": 18,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4dedaf62ba2315e5d45a"
+    },
+    {
+      "title": "無料でJev互換の小型高速意思決定モデル「Jeff」、ローカル環境で約22～28ミリ秒と爆速",
+      "url": "https://gigazine.net/news/20260929-jeff/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-29T13:04:44+00:00",
+      "fetched_at": "2026-09-29T19:32:08+00:00",
+      "summary": "ChatGPTの共同開発者であるがディオゴ・アルメイダ氏がCEOを務めるTypeSafe AIが開発した、意思決定モデルの「Jev」と同じように、リクエスト形式でコードに組み込むことができる小型の意思決定モデルが「Jeff」です。RTX PRO 6000の場合は1回の意思決定当たり約22ミリ秒、 AppleのM4 Maxの場合は1回の意思決定当たり約2...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
       ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "5674c2e3a03025d50f23"
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4efd652e297cc42bb64d"
     }
   ],
   "source_errors": [],
