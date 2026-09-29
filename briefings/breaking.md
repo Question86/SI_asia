@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-29T08:00:57+00:00_
+_Generiert: 2026-09-29T08:32:12+00:00_
 
 ## Autonomous A2Z bets on driverless shuttles as self-driving technology gets practical
 
