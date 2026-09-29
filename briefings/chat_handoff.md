@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-29T03:22:12+00:00_
+_Generated: 2026-09-29T03:41:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `11`
+- findings: `12`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-09-29T03:22:12+00:00_
 - url: https://openai.com/index/how-we-will-do-better-for-australia
 - summary: OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
 
-### 6. What I have learned watching foreign tech companies build in Singapore
-- source: e27 Asia Startup and Tech Feed
+### 6. M 5.3 - 76 km NE of Tadine, New Caledonia
+- source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-09-29T02:30:05+00:00`
-- url: https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/
-- summary: When foreign technology companies first speak to me about Singapore, the conversation usually starts with one of three things: customers, talent or tax. Government funding often comes much later. That surprises me because Singapore has a sizeable ecosystem of…
+- published: `2026-09-29T03:39:38.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5
+- summary: Time 2026-09-29 03:23:54 UTC 2026-09-29 03:23:54 UTC at epicenter Location 21.072°S 168.409°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
