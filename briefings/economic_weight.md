@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-29T01:58:48+00:00`
+Generated: `2026-09-29T02:26:28+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -11,6 +11,7 @@ Generated: `2026-09-29T01:58:48+00:00`
 | GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. | regulation, conflict | $120.00M | $12.00B | $1.20T | 0.31 |
 | anomalyco/opencode | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | npm extends recovery-code security holds to all accounts | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
+| Passing 1.5°C global warming: Performative ESG is no longer acceptable | conflict | $114.40M | $11.44B | $1.14T | 0.31 |
 | Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Schools and universities face rising ransomware costs as attackers target identities | exploit, conflict | $113.60M | $11.36B | $1.14T | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-29T01:58:48+00:00`
 | The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T | regulation | $11.92M | $1.19B | $119.20B | 0.31 |
 | bilawalsidhu/gods-eye-view | regulation, natural_disaster | $11.92M | $1.19B | $119.20B | 0.31 |
 | Who’s building AI for the way Southeast Asia actually speaks? | regulation | $11.84M | $1.18B | $118.40B | 0.31 |
-| Workflow execution protections in GitHub Actions generally available | regulation | $11.76M | $1.18B | $117.60B | 0.31 |
 
 ## Interpretation
 
