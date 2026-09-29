@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T04:27:51+00:00_
+_Generiert: 2026-09-29T05:11:09+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „Can Bitcoin hold US$82,000? Inside the security fear and macro storm“ aus e27 Asia Startup and Tech Feed (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+15 neue relevante Treffer. Stärkstes Signal: „Can Bitcoin hold US$82,000? Inside the security fear and macro storm“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Bitcoin is down 1.05 per cent to US$83,491.07 in 24 hours. The total crypto market has fallen 1.49 per cent to US$2.86 trillion. My view is that this decline is not one single story. It is a two-part selloff in which a major security breach and a broader macroeconomic risk-off shift have collided. The Bitget […] The post Can Bitcoin hold US$82,000? Inside the security fear and macro storm appeared first on e27 .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Pgpool-IIにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN22475874/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-09-29T14:00:00+09:00`, fetched `2026-09-29T05:10:35+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Authlibライブラリにおける署名検証が回避される脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU99151548/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-29T09:15:00+09:00`, fetched `2026-09-29T00:56:45+00:00`
@@ -117,6 +126,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Webentwicklung (+3.0); recent (+1.0); watchgraph region australia: Australia (+2.0)
   - Kurz: OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyab)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-29T04:33:51.040+00:00`, fetched `2026-09-29T05:10:35+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-29 04:16:27 UTC 2026-09-29 04:16:27 UTC at epicenter Location 55.316°S 28.210°W Depth 35.08 km (21.80 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.3 - 76 km NE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-29T03:39:38.040+00:00`, fetched `2026-09-29T03:40:30+00:00`
@@ -179,7 +197,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
