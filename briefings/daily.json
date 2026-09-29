@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T03:41:06+00:00",
-  "today_file_total": 12,
+  "generated_at": "2026-09-29T03:54:07+00:00",
+  "today_file_total": 13,
   "current_clusters": [
     {
       "key": "title:can-bitcoin-hold-000-inside-security-fear-macro",
@@ -95,31 +95,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 5.3 - 76 km ne of tadine, new caledonia:5.3",
-      "title": "M 5.3 - 76 km NE of Tadine, New Caledonia",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
       "key": "domain:openai.com",
       "title": "How we will do better for Australia",
       "sources": [
@@ -143,6 +118,31 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "earthquake:m 5.3 - 76 km ne of tadine, new caledonia:5.3",
+      "title": "M 5.3 - 76 km NE of Tadine, New Caledonia",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "title:what-have-learned-watching-foreign-tech-companies-build",
       "title": "What I have learned watching foreign tech companies build in Singapore",
       "sources": [
@@ -164,6 +164,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+    },
+    {
+      "key": "url:https://www.digital.go.jp/speech/minister-260929-01",
+      "title": "古川大臣記者会見（令和8年9月29日）動画を追加しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/speech/minister-260929-01"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 11.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:jujutsu-git",
