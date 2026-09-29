@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-29T01:58:28+00:00",
+  "generated_at": "2026-09-29T02:26:09+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 2,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 1,
-    "observe": 4
+    "observe": 6
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -23,6 +23,16 @@
       "url": "https://jvn.jp/vu/JVNVU99151548/",
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "section": "medium"
+    },
+    {
+      "title": "Passing 1.5°C global warming: Performative ESG is no longer acceptable",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-29T02:00:32+00:00",
+      "relevance_score": 13,
+      "url": "https://e27.co/passing-1-5c-global-warming-performative-esg-is-no-longer-acceptable-20260927/",
+      "summary": "The planet has already passed 1.5°C of warming against pre-industrial levels, or it’s very near. This isn’t fiction or a scam; it’s science and it’s existential. The 1.5°C target was set at the 2015 Paris Agreement after intense pressure from vulnerable islan…",
+      "section": "observe"
     },
     {
       "title": "AI governance is moving from promises to proof",
@@ -45,23 +55,13 @@
       "section": "observe"
     },
     {
-      "title": "普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？",
+      "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-28T22:05:37+00:00",
-      "relevance_score": 5,
-      "url": "https://internet.watch.impress.co.jp/docs/special/2143427.html",
-      "summary": "普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？",
-      "section": "observe"
-    },
-    {
-      "title": "AIでクオリティが落ちた外注さんが、自分では気づけてないという怖い話｜片山良平＠Eldipa代表、paiza創業者",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-28T03:45:29+00:00",
-      "relevance_score": 5,
-      "url": "https://note.com/rk611/n/n56e6db823eb1",
-      "summary": "先日会食で聞いた怖い話。 ある企業から依頼している外注さんが、AIを使い始めてから明らかにクオリティが下がっており、AIを使うなとも言いづらいし、修正依頼するもいまいち噛み合わず、やりづらいので終了しようと思う、という話でした。 気になったのはその先で、話を聞く限り、どうもその外注の方はAI使ってクオリ...",
+      "published_at": "2026-09-28T23:36:42+00:00",
+      "relevance_score": 7,
+      "url": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu",
+      "summary": "2026 年、初めて自分の意思で VCS を選択した ふりかえると私にとって VCS（バージョン管理システム）は、会社に指定されたものを使ってきただけでした。それまでの会社では社内にサーバを立てて Subversion を使うことが多かった中、2011 年から働き出した会社では GitHub が導入されており、そのため個々のエンジニア...",
       "section": "observe"
     }
   ],
@@ -70,140 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Authlibライブラリにおける署名検証が回避される脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU99151548/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-29T09:15:00+09:00",
-        "age_days": 0.09,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "How we will do better for Australia",
-        "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-09-29T01:00:00+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 24.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: bsi"
-        ],
-        "summary": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
-      },
-      {
-        "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU99151548/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-29T00:57:15+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +2",
-          "high terms: auth",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "How we will do better for Australia",
-        "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-06-17T20:44:40+00:00",
-        "age_days": 103.23,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 15.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "aging penalty -8.0 for 103.2d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "AI governance is moving from promises to proof",
-        "url": "https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-29T01:29:35+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 14.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
