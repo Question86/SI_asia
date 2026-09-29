@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-29T02:26:09+00:00",
+  "generated_at": "2026-09-29T02:45:31+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
-    "medium": 1,
-    "observe": 6
+    "medium": 2,
+    "observe": 7
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Can Bitcoin hold US$82,000? Inside the security fear and macro storm",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-29T02:37:41+00:00",
+      "relevance_score": 18,
+      "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
+      "summary": "Bitcoin is down 1.05 per cent to US$83,491.07 in 24 hours. The total crypto market has fallen 1.49 per cent to US$2.86 trillion. My view is that this decline is not one single story. It is a two-part selloff in which a major security breach and a broader macr…",
+      "section": "medium"
+    },
     {
       "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
       "source": "JVN Japan Vulnerability Notes",
@@ -55,13 +65,13 @@
       "section": "observe"
     },
     {
-      "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "What I have learned watching foreign tech companies build in Singapore",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-28T23:36:42+00:00",
-      "relevance_score": 7,
-      "url": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu",
-      "summary": "2026 年、初めて自分の意思で VCS を選択した ふりかえると私にとって VCS（バージョン管理システム）は、会社に指定されたものを使ってきただけでした。それまでの会社では社内にサーバを立てて Subversion を使うことが多かった中、2011 年から働き出した会社では GitHub が導入されており、そのため個々のエンジニア...",
+      "published_at": "2026-09-29T02:30:05+00:00",
+      "relevance_score": 9,
+      "url": "https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/",
+      "summary": "When foreign technology companies first speak to me about Singapore, the conversation usually starts with one of three things: customers, talent or tax. Government funding often comes much later. That surprises me because Singapore has a sizeable ecosystem of…",
       "section": "observe"
     }
   ],
