@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T16:25:31+00:00_
+_Generiert: 2026-09-29T16:40:32+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+82 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -167,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Barr, Economic Conditions and Monetary Policy** — Score 13, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-09-29T16:40:00+00:00`, fetched `2026-09-29T16:40:00+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At the Detroit Economic Club, Detroit, Michigan
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 100 km W of Petrolia, CA** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nc75444322)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-29T12:05:05.040+00:00`, fetched `2026-09-29T12:05:58+00:00`
@@ -293,15 +302,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-29 13:06:10 UTC 2026-09-29 13:06:10 UTC at epicenter Location 35.204°S 16.186°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました** — Score 9, observation — [Quelle](https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-29T06:00:00+00:00`, fetched `2026-09-29T06:09:09+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

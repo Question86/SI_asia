@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-29T16:25:31+00:00_
+_Generated: 2026-09-29T16:40:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `81`
+- findings: `82`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-29T16:25:31+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3539
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WordPress ausnutzen, um beliebigen Programmcode auszuführen.
 
-### 5. M 4.7 - 100 km W of Petrolia, CA
+### 5. Barr, Economic Conditions and Monetary Policy
+- source: Federal Reserve Speeches and Testimony
+- score: `13`
+- published: `2026-09-29T16:40:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm
+- summary: Speech At the Detroit Economic Club, Detroit, Michigan
+
+### 6. M 4.7 - 100 km W of Petrolia, CA
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-09-29T12:05:05.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/nc75444322
 - summary: PAGER - GREEN ShakeMap - II DYFI? - II Time 2026-09-29 11:36:37 UTC 2026-09-29 11:36:37 UTC at epicenter Location 40.433°N 125.460°W Depth 2.28 km (1.42 mi)
 
-### 6. Passing 1.5°C global warming: Performative ESG is no longer acceptable
+### 7. Passing 1.5°C global warming: Performative ESG is no longer acceptable
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-09-29T02:00:32+00:00`
 - url: https://e27.co/passing-1-5c-global-warming-performative-esg-is-no-longer-acceptable-20260927/
 - summary: The planet has already passed 1.5°C of warming against pre-industrial levels, or it’s very near. This isn’t fiction or a scam; it’s science and it’s existential. The 1.5°C target was set at the 2015 Paris Agreement after intense pressure from vulnerable islan…
 
-### 7. AI governance is moving from promises to proof
+### 8. AI governance is moving from promises to proof
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-09-29T01:00:42+00:00`
 - url: https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/
 - summary: For much of the past three years, the politics of artificial intelligence (AI) has revolved around relatively familiar questions. Will AI take jobs? Who owns the copyright to the material on which models are trained? Can companies protect personal data? And w…
-
-### 8. byoungd/up
-- source: GitHub Trending RSS All Languages Daily
-- score: `13`
-- published: `None`
-- url: https://github.com/byoungd/up
-- summary: An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 https://biezou.com title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-09-02 人生进阶指南 中文 |…
 
 END OF DOCUMENT

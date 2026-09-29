@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-29T16:25:31+00:00",
+  "generated_at": "2026-09-29T16:40:32+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "new_relevant_findings": 1,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
     "medium": 33,
-    "observe": 48
+    "observe": 49
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "Barr, Economic Conditions and Monetary Policy",
+      "source": "Federal Reserve Speeches and Testimony",
+      "source_type": "rss",
+      "published_at": "2026-09-29T16:40:00+00:00",
+      "relevance_score": 13,
+      "url": "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
+      "summary": "Speech At the Detroit Economic Club, Detroit, Michigan",
+      "section": "observe"
+    },
+    {
       "title": "M 4.7 - 100 km W of Petrolia, CA",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 13,
       "url": "https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/",
       "summary": "For much of the past three years, the politics of artificial intelligence (AI) has revolved around relatively familiar questions. Will AI take jobs? Who owns the copyright to the material on which models are trained? Can companies protect personal data? And w…",
-      "section": "observe"
-    },
-    {
-      "title": "byoungd/up",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 13,
-      "url": "https://github.com/byoungd/up",
-      "summary": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 https://biezou.com title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-09-02 人生进阶指南 中文 |…",
       "section": "observe"
     }
   ],
