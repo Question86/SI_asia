@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T12:06:26+00:00_
+_Generiert: 2026-09-29T12:38:44+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+67 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -239,6 +239,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-29 10:22:14 UTC 2026-09-29 10:22:14 UTC at epicenter Location 3.121°S 75.641°W Depth 134.76 km (83.74 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Multiples vulnérabilités dans le noyau Linux de SUSE (18 septembre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1202/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-18T00:00:00+00:00`, fetched `2026-09-29T12:38:14+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The open-source AI platforms vying to become China’s Hugging Face** — Score 10, observation — [Quelle](https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-09-29T10:00:00+00:00`, fetched `2026-09-29T10:01:23+00:00`
@@ -292,15 +301,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Ein Update schließt diverse Lücken in Zimbra, die etwa die Kontoübernahme oder das Unterschieben von Schadcode ermöglichen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **WatchGuard AP: Befehlsschmuggel-Lücken und umgehbare Authentifizierung** — Score 7, observation — [Quelle](https://www.heise.de/news/WatchGuard-AP-Befehlsschmuggel-Luecken-und-umgehbare-Authentifizierung-11468944.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-29T05:57:00.000+00:00`, fetched `2026-09-29T06:09:09+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: WatchGuard warnt vor teils kritischen Sicherheitslücken in seinen Access-Points. Angreifer können die Authentifizierung umgehen und Befehle einschleusen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

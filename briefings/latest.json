@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T12:06:26+00:00",
-  "run_id": "2026-09-29T12:06:26+00:00",
+  "generated_at": "2026-09-29T12:38:44+00:00",
+  "run_id": "2026-09-29T12:38:44+00:00",
   "date": "2026-09-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 66
+      "configured_public_sources_only": 67
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 9,
-    "today_file_total": 66,
-    "displayed_findings": 66,
+    "new_relevant_findings": 1,
+    "today_file_total": 67,
+    "displayed_findings": 67,
     "high": 0,
     "medium": 33,
-    "observe": 33,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -1019,6 +1019,30 @@
           "LOW"
         ],
         "id": "0e157feb98aeb00a8894"
+      },
+      {
+        "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (18 septembre 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1202/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-09-18T00:00:00+00:00",
+        "fetched_at": "2026-09-29T12:38:14+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "Linux",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3f3be589a73d312f7b22"
       },
       {
         "title": "The open-source AI platforms vying to become China’s Hugging Face",
@@ -2608,6 +2632,30 @@
       "id": "0e157feb98aeb00a8894"
     },
     {
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (18 septembre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1202/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "fetched_at": "2026-09-29T12:38:14+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "Linux",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3f3be589a73d312f7b22"
+    },
+    {
       "title": "The open-source AI platforms vying to become China’s Hugging Face",
       "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -3205,238 +3253,28 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] Zabbix: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3632",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (18 septembre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1202/",
+      "source": "CERT-FR Avis de sécurité",
       "source_type": "rss",
-      "published_at": "2026-09-29T11:46:29+00:00",
-      "fetched_at": "2026-09-29T12:05:58+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Zabbix ausnutzen, um Informationen offenzulegen.",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "fetched_at": "2026-09-29T12:38:14+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Patch",
-        "Schwachstelle",
-        "Security"
+        "avis",
+        "CERT-FR",
+        "Linux",
+        "sécurité",
+        "vulnérabilité"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "62194845f24406415734"
-    },
-    {
-      "title": "[NEU] [hoch] DENX U-Boot: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3631",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-29T11:41:29+00:00",
-      "fetched_at": "2026-09-29T12:05:58+00:00",
-      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in DENX U-Boot ausnutzen, um beliebigen Programmcode auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f0329ed650f3b57c7562"
-    },
-    {
-      "title": "[NEU] [hoch] Apache Airflow Providers: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3630",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-29T11:41:29+00:00",
-      "fetched_at": "2026-09-29T12:05:58+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Apache Airflow Providern ausnutzen, um Dateien zu manipulieren, um einen SQL-Injection Angriff durchzuführen, um Informationen offenzulegen und um Sicherheitsvorkehrungen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "02507ef5e284f17b03fc"
-    },
-    {
-      "title": "[NEU] [hoch] Froxlor: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3629",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-29T11:41:29+00:00",
-      "fetched_at": "2026-09-29T12:05:58+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Froxlor ausnutzen, um Cross-Site-Scripting-Angriffe durchzuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren und möglicherweise erweiterte Berechtigungen zu erlangen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7761e31d9c89f88a8a07"
-    },
-    {
-      "title": "[NEU] [hoch] Ghostscript: Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3628",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-29T11:36:29+00:00",
-      "fetched_at": "2026-09-29T12:05:58+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Ghostscript ausnutzen, um seine Privilegien zu erhöhen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0dfbcf023e3c2055fb67"
-    },
-    {
-      "title": "[NEU] [mittel] FasterXML Jackson Databind: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3627",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-29T11:36:29+00:00",
-      "fetched_at": "2026-09-29T12:05:58+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FasterXML Jackson Databind ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8f299f8cfbce71529be1"
-    },
-    {
-      "title": "M 4.7 - 100 km W of Petrolia, CA",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444322",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-29T12:05:05.040+00:00",
-      "fetched_at": "2026-09-29T12:05:58+00:00",
-      "summary": "PAGER - GREEN ShakeMap - II DYFI? - II Time 2026-09-29 11:36:37 UTC 2026-09-29 11:36:37 UTC at epicenter Location 40.433°N 125.460°W Depth 2.28 km (1.42 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "3dba9e60a1ff2a7bf362"
-    },
-    {
-      "title": "M 4.8 - 98 km SW of Port-Vila, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybs",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-29T11:45:45.040+00:00",
-      "fetched_at": "2026-09-29T12:05:58+00:00",
-      "summary": "Time 2026-09-29 11:27:48 UTC 2026-09-29 11:27:48 UTC at epicenter Location 18.231°S 167.545°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "0221f16508a817781704"
-    },
-    {
-      "title": "ChromeOSの後継Googlebook OSはウンコ💩やで",
-      "url": "https://anond.hatelabo.jp/20260925135223",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-29T07:57:49+00:00",
-      "fetched_at": "2026-09-29T12:05:58+00:00",
-      "summary": "先日こんな記事を書いていたんだけど、最近話題になってるChromeOSとAndroidの基盤統合（いわゆるGooglebook OS構想）と、ChromeOS 147からデフォルトになった新アーキテクチャ「Baguette」 の話をLinuxギーク目線でするわ。 世間やガジェットメディアは「新GooglebookでAndroidアプリがもっとサクサク動くようになるね...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8cd164cb4c82d0b40010"
+      "id": "3f3be589a73d312f7b22"
     }
   ],
   "source_errors": [],
