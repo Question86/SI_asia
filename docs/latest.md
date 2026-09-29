@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T07:33:06+00:00_
+_Generiert: 2026-09-29T07:51:08+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+33 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -39,6 +39,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Content-Chance (+5.0); safety (+2.5); recent (+1.0)
   - Kurz: Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Autonomous A2Z bets on driverless shuttles as self-driving technology gets practical** — Score 17, risk — [Quelle](https://e27.co/autonomous-a2z-bets-on-driverless-shuttles-as-self-driving-technology-gets-practical-20260929/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-29T05:09:29+00:00`, fetched `2026-09-29T07:50:39+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Public Health, Watchgraph:storms_floods_weather
+  - Watchgraph: storms_floods_weather
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, XOM, CVX
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules storms_floods_weather (+3.0)
+  - Kurz: For much of the past decade, autonomous driving has been a story of bold promises followed by hard resets. Robotaxis were meant to flood cities by now. Instead, the industry has learned that driving without a human behind the wheel is not one problem, but thousands of edge cases stitched together: pedestrians who cross unpredictably, […] The post Autonomous A2Z bets on driverless shuttles as self-driving technology…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Red Hat Enterprise Linux (rhc): Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3605)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-29T07:46:29+00:00`, fetched `2026-09-29T07:50:39+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (rhc) ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PFU製Image Scanner Driver for Linuxにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96968110/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-29T15:00:00+09:00`, fetched `2026-09-29T06:09:09+00:00`
@@ -66,6 +84,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] NoMachine: Schwachstelle ermöglicht Codeausführung und Privilegieneskalation** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1891)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-29T07:36:29+00:00`, fetched `2026-09-29T07:50:39+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in NoMachine ausnutzen, um möglicherweise beliebigen Code auszuführen, Daten offenzulegen oder zu verändern oder andere, nicht näher genannte Auswirkungen zu erreichen. Eine Privilegieneskalation auf root ist ebenfalls möglich.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 

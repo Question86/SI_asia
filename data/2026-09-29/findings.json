@@ -67,6 +67,78 @@
     "id": "1e8e0f96d887c2b18b5c"
   },
   {
+    "title": "Autonomous A2Z bets on driverless shuttles as self-driving technology gets practical",
+    "url": "https://e27.co/autonomous-a2z-bets-on-driverless-shuttles-as-self-driving-technology-gets-practical-20260929/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-29T05:09:29+00:00",
+    "fetched_at": "2026-09-29T07:50:39+00:00",
+    "summary": "For much of the past decade, autonomous driving has been a story of bold promises followed by hard resets. Robotaxis were meant to flood cities by now. Instead, the industry has learned that driving without a human behind the wheel is not one problem, but thousands of edge cases stitched together: pedestrians who cross unpredictably, […] The post Autonomous A2Z bets on driverless shuttles as self-driving technology…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Public Health",
+      "Watchgraph:storms_floods_weather"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules storms_floods_weather (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "storms_floods_weather"
+    ],
+    "watchgraph_reasons": [
+      "storms_floods_weather: flood"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW",
+      "XOM",
+      "CVX",
+      "SHEL",
+      "TTE",
+      "BP",
+      "ENB",
+      "SU",
+      "EQNR",
+      "CCJ",
+      "URA"
+    ],
+    "id": "557db71f64d47b2ba7db"
+  },
+  {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (rhc): Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3605",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T07:46:29+00:00",
+    "fetched_at": "2026-09-29T07:50:39+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (rhc) ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "578c8e27c0fc0bc53b6f"
+  },
+  {
     "title": "PFU製Image Scanner Driver for Linuxにおける複数の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU96968110/",
     "source": "JVN Japan Vulnerability Notes",
@@ -131,6 +203,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c0acaaaa49280ffaae93"
+  },
+  {
+    "title": "[UPDATE] [hoch] NoMachine: Schwachstelle ermöglicht Codeausführung und Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1891",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T07:36:29+00:00",
+    "fetched_at": "2026-09-29T07:50:39+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in NoMachine ausnutzen, um möglicherweise beliebigen Code auszuführen, Daten offenzulegen oder zu verändern oder andere, nicht näher genannte Auswirkungen zu erreichen. Eine Privilegieneskalation auf root ist ebenfalls möglich.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "45102bab8fa50d860e31"
   },
   {
     "title": "Passing 1.5°C global warming: Performative ESG is no longer acceptable",

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-29T07:33:06+00:00_
+_Generated: 2026-09-29T07:51:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `33`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-29T07:33:06+00:00_
 - url: https://openai.com/index/towards-safety-cases-for-frontier-ai-training
 - summary: Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents
 
-### 4. PFU製Image Scanner Driver for Linuxにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-29T15:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU96968110/
-- summary: 株式会社PFUが提供するImage Scanner Driver for Linuxには、複数の脆弱性が存在します。
+### 4. Autonomous A2Z bets on driverless shuttles as self-driving technology gets practical
+- source: e27 Asia Startup and Tech Feed
+- score: `17`
+- published: `2026-09-29T05:09:29+00:00`
+- url: https://e27.co/autonomous-a2z-bets-on-driverless-shuttles-as-self-driving-technology-gets-practical-20260929/
+- summary: For much of the past decade, autonomous driving has been a story of bold promises followed by hard resets. Robotaxis were meant to flood cities by now. Instead, the industry has learned that driving without a human behind the wheel is not one problem, but tho…
 
 ### 5. Passing 1.5°C global warming: Performative ESG is no longer acceptable
 - source: e27 Asia Startup and Tech Feed

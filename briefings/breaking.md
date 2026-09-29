@@ -1,19 +1,19 @@
 # Senna Breaking
 
-_Generiert: 2026-09-29T07:33:09+00:00_
+_Generiert: 2026-09-29T07:51:11+00:00_
 
-## Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan
+## Autonomous A2Z bets on driverless shuttles as self-driving technology gets practical
 
-- Ranking Score: `29.0`
+- Ranking Score: `28.5`
 - Raw Network Score: `22.1`
-- Max Monitor Score: `20`
+- Max Monitor Score: `17`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
 - Dominanter Emitter: `nein`
 - Quellen: e27 Asia Startup and Tech Feed
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: stable (+0)
-- Erste Quelle: https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/
+- Momentum: increasing (+1)
+- Erste Quelle: https://e27.co/autonomous-a2z-bets-on-driverless-shuttles-as-self-driving-technology-gets-practical-20260929/
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
