@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T23:31:29+00:00",
+  "generated_at": "2026-09-29T23:42:19+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -528,7 +528,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0b3c3c21d8d5ad2ae5e2",
@@ -7558,6 +7558,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_a008f4b82f096d3a4a92",
+      "title": "GitHub - mizchi/explainer",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_a0a48f18e523a40ddacf",
