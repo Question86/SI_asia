@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T11:32:48+00:00",
+  "generated_at": "2026-09-29T12:06:26+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-09-29T10:26:29+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3617"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Airflow Providers: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-29T11:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3630"
       },
       {
         "title": "Passing 1.5°C global warming: Performative ESG is no longer acceptable",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-29T01:00:00+00:00",
         "relevance_score": 12,
         "url": "https://openai.com/index/how-we-will-do-better-for-australia"
-      },
-      {
-        "title": "The open-source AI platforms vying to become China’s Hugging Face",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-09-29T10:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       }
     ],
     "economy": [
@@ -119,6 +119,13 @@
         "published_at": "2026-09-29T08:49:43+00:00",
         "relevance_score": 17,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3539"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Zabbix: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-29T11:46:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3632"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [niedrig] GNU libc: Schwachstelle ermöglicht Denial of Service",
@@ -168,13 +175,6 @@
         "published_at": "2026-09-29T14:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN22475874/"
-      },
-      {
-        "title": "[UPDATE] [hoch] FreeRDP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T11:21:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0111"
       }
     ],
     "geopolitics": [
@@ -184,6 +184,13 @@
         "published_at": "2026-09-28T19:00:00+00:00",
         "relevance_score": 18,
         "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Zabbix: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-29T11:46:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3632"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [niedrig] GNU libc: Schwachstelle ermöglicht Denial of Service",
@@ -221,32 +228,25 @@
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html"
       },
       {
-        "title": "[NEU] [hoch] IBM DataPower Gateway: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Froxlor: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T11:21:29+00:00",
+        "published_at": "2026-09-29T11:41:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3623"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3629"
       },
       {
-        "title": "[NEU] [mittel] PCRE (Perl Compatible Regular Expressions): Schwachstelle ermöglicht Codeausführung",
+        "title": "[NEU] [hoch] DENX U-Boot: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T10:41:29+00:00",
+        "published_at": "2026-09-29T11:41:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3622"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3631"
       },
       {
-        "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Apache Airflow Providers: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T10:41:29+00:00",
+        "published_at": "2026-09-29T11:41:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3621"
-      },
-      {
-        "title": "[NEU] [hoch] GeoServer: Schwachstelle ermöglicht Codeausführung und Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T10:41:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3620"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3630"
       }
     ],
     "general": [
@@ -258,11 +258,25 @@
         "url": "https://e27.co/autonomous-a2z-bets-on-driverless-shuttles-as-self-driving-technology-gets-practical-20260929/"
       },
       {
+        "title": "M 4.7 - 100 km W of Petrolia, CA",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-29T12:05:05.040+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444322"
+      },
+      {
         "title": "M 4.5 - 96 km ENE of Alianza Cristiana, Peru",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-29T10:47:49.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybk"
+      },
+      {
+        "title": "M 4.8 - 98 km SW of Port-Vila, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-29T11:45:45.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybs"
       },
       {
         "title": "M 5.0 - 77 km ENE of Tadine, New Caledonia",
@@ -305,20 +319,6 @@
         "published_at": "2026-09-29T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/policies/digital_promotion_staff"
-      },
-      {
-        "title": "古川大臣記者会見（令和8年9月29日）動画を追加しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-09-29T03:44:02+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/speech/minister-260929-01"
-      },
-      {
-        "title": "免許証画像が漏れると何が“ヤバい”のか タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-29T07:41:33+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/mobile/articles/2609/29/news085.html"
       }
     ],
     "github": [
