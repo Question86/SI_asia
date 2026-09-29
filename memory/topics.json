@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T10:59:22+00:00",
+  "generated_at": "2026-09-29T11:20:30+00:00",
   "topics": {
     "ai": [
       {
@@ -170,11 +170,11 @@
         "url": "https://jvn.jp/jp/JVN22475874/"
       },
       {
-        "title": "[NEU] [mittel] PCRE (Perl Compatible Regular Expressions): Schwachstelle ermöglicht Codeausführung",
+        "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T10:41:29+00:00",
+        "published_at": "2026-09-29T11:16:32+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3622"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3547"
       }
     ],
     "geopolitics": [
@@ -265,6 +265,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybk"
       },
       {
+        "title": "M 5.0 - 77 km ENE of Tadine, New Caledonia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-29T10:59:19.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybr"
+      },
+      {
         "title": "M 4.8 - South Sandwich Islands region",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-29T06:58:22.040+00:00",
@@ -312,13 +319,6 @@
         "published_at": "2026-09-29T07:41:33+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/mobile/articles/2609/29/news085.html"
-      },
-      {
-        "title": "Google、ChromeOSを2034年に廃止へ。既定方針ながらおおっぴらに告知しない理由とは？【やじうまWatch】",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-29T03:51:35+00:00",
-        "relevance_score": 5,
-        "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2143988.html"
       }
     ],
     "github": [

@@ -323,6 +323,29 @@
     "id": "4e3665ee545360827654"
   },
   {
+    "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3547",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T11:16:32+00:00",
+    "fetched_at": "2026-09-29T11:19:59+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Wireshark ausnutzen, um einen Denial of Service herbeizuführen und potenziell um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9d6210635c42dde7cf18"
+  },
+  {
     "title": "[NEU] [mittel] PCRE (Perl Compatible Regular Expressions): Schwachstelle ermöglicht Codeausführung",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3622",
     "source": "BSI CERT-Bund Security Advisories",
@@ -764,6 +787,42 @@
     "id": "ecdd3f9de85cad51be68"
   },
   {
+    "title": "M 5.0 - 77 km ENE of Tadine, New Caledonia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybr",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-29T10:59:19.040+00:00",
+    "fetched_at": "2026-09-29T11:19:59+00:00",
+    "summary": "Time 2026-09-29 10:42:57 UTC 2026-09-29 10:42:57 UTC at epicenter Location 21.345°S 168.592°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "c1272196b93cdae9593b"
+  },
+  {
     "title": "M 4.8 - South Sandwich Islands region",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyat",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1183,6 +1242,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ebb67ab90d94bfec36d2"
+  },
+  {
+    "title": "Ecosystem Roundup: Anthropic’s IPO filing: 12x revenue, US$8B loss and an extinction risk",
+    "url": "https://e27.co/ecosystem-roundup-anthropics-ipo-filing-12x-revenue-us8b-loss-and-an-extinction-risk-20260929/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-29T11:00:10+00:00",
+    "fetched_at": "2026-09-29T11:19:59+00:00",
+    "summary": "Anthropic has told prospective investors that it is growing at a pace few companies have matched, losing money at a scale few could survive, and building a product that could pose an existential threat to humanity. The prospectus behind what could become the largest IPO on record shows revenue rising twelvefold to nearly US$4.6 billion in 2025, […] The post Ecosystem Roundup: Anthropic’s IPO filing: 12x revenue, US$…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bee7fad434c96dddbb65"
   },
   {
     "title": "1982 Ventures joins Limited’s US$18.5M seed round to simplify cross-border business banking",

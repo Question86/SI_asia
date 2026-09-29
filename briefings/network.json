@@ -1,15 +1,58 @@
 {
-  "generated_at": "2026-09-29T10:59:26+00:00",
+  "generated_at": "2026-09-29T11:20:33+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 52,
-    "clusters": 34,
+    "findings": 55,
+    "clusters": 36,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
-    "dominance_penalized": 4
+    "dominance_penalized": 5
   },
   "clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [kritisch] WordPress: Schwachstelle ermöglicht Codeausführung",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3539",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3618",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3616",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3617",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3614",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3605"
+      ],
+      "finding_count": 17,
+      "max_score": 17,
+      "credibility_total": 17.85,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 25.61,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 55.7,
+      "ranking_score": 25.61,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 4.61,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
     {
       "key": "title:vietnam-gains-samsung-electro-mechanics-substrate-expansion-plan",
       "title": "Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan",
@@ -47,49 +90,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-29T06:42:56+00:00"
-    },
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [kritisch] WordPress: Schwachstelle ermöglicht Codeausführung",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3539",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3618",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3616",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3617",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3614",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3605"
-      ],
-      "finding_count": 16,
-      "max_score": 17,
-      "credibility_total": 16.8,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.15,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 50.6,
-      "ranking_score": 21.15,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 2.65,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "domain:openai.com",
@@ -590,6 +590,47 @@
       "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
+      "key": "earthquake:m 5.0 - 77 km ene of tadine, new caledonia:5.0",
+      "title": "M 5.0 - 77 km ENE of Tadine, New Caledonia",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybr"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 14.7,
+      "ranking_score": 10.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-29T11:20:33+00:00"
+    },
+    {
       "key": "url:https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495",
       "title": "第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
       "sources": [
@@ -941,6 +982,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-29T03:41:06+00:00"
+    },
+    {
+      "key": "title:ecosystem-roundup-anthropic-ipo-filing-12x-revenue-loss",
+      "title": "Ecosystem Roundup: Anthropic’s IPO filing: 12x revenue, US$8B loss and an extinction risk",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/ecosystem-roundup-anthropics-ipo-filing-12x-revenue-us8b-loss-and-an-extinction-risk-20260929/"
+      ],
+      "finding_count": 1,
+      "max_score": 4,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 8.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.1,
+      "ranking_score": 8.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-29T11:20:33+00:00"
     },
     {
       "key": "url:https://www.digital.go.jp/news/19b45883-978f-4424-929a-ee8fa5bc20e6",
@@ -1325,7 +1404,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-29T10:59:26Z",
+    "generated_at": "2026-09-29T11:20:33Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
