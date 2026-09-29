@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-29T10:14:59Z",
+  "generated_at": "2026-09-29T10:34:05Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Apple iOS, iPadOS, macOS Tahoe und Sequoia: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3609",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T09:56:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1891",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T07:36:29+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-29T07:05:58+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -93,7 +93,7 @@
       "url": "https://github.com/cs341-illinois/coursebook",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-29T07:05:58+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -121,7 +121,7 @@
       "url": "https://jvn.jp/vu/JVNVU96968110/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T15:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -143,11 +143,37 @@
       "summary": "株式会社PFUが提供するImage Scanner Driver for Linuxには、複数の脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [hoch] IBM WebSphere Application Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2001",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-29T10:16:30+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, und um seine Privilegien zu erhöhen."
+    },
+    {
       "title": "[NEU] [mittel] Hazelcast: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3608",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T09:36:29+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -173,7 +199,7 @@
       "url": "https://jvn.jp/vu/JVNVU99151548/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T09:15:00+09:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -199,7 +225,7 @@
       "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:37:41+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security",
         "macro",
@@ -222,11 +248,36 @@
       "summary": "Bitcoin is down 1.05 per cent to US$83,491.07 in 24 hours. The total crypto market has fallen 1.49 per cent to US$2.86 trillion. My view is that this decline is not one single story. It is a two-part selloff in which a major security breach and a broader macroeconomic risk-off shift have collided. The Bitget […] The p…"
     },
     {
+      "title": "[NEU] [UNGEPATCHT] [niedrig] Keycloak (Micrometer): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3614",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-29T10:16:29+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (rhc): Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3605",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T07:46:29+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -250,60 +301,8 @@
       "title": "The open-source AI platforms vying to become China’s Hugging Face",
       "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
-      "published_at": "2026-09-29T10:00:00+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai",
-        "infra"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce, firewall",
-        "security high-signal: rce, firewall",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "AI model platforms ModelScope and MoArk are competing to serve Chinese-speaking developers behind the Great Firewall."
-    },
-    {
-      "title": "NawfalMotii79/PLFM_RADAR",
-      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-29T07:06:28+00:00",
-      "age_days": 0.13,
-      "topics": [],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "The open-source AI platforms vying to become China’s Hugging Face",
-      "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 102.34,
+      "age_days": 102.36,
       "topics": [
         "ai"
       ],
@@ -321,7 +320,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 102.3d old signal",
+        "aging penalty -8.0 for 102.4d old signal",
         "stale single-source cap after 30d: no current exploitation phrase"
       ],
       "summary": ""
