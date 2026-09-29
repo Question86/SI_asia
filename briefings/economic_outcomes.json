@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T13:28:06+00:00",
+  "generated_at": "2026-09-29T13:44:51+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -1067,7 +1067,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_19101db02e02c4445f29",
@@ -3886,6 +3886,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_592391b35562928dedcf",
+      "title": "M 5.6 - southern Mid-Atlantic Ridge",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_597f585749518ee22672",
       "title": "「おっぱい」の話ができるSNSと、できないSNS",
       "deduplicated_buckets": 0,
@@ -3927,7 +3938,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_5aab90b0cdfb10faa840",
@@ -9361,7 +9372,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_cd235612936165e1060d",
