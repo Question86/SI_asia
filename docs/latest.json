@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T23:41:37+00:00",
-  "run_id": "2026-09-29T23:41:37+00:00",
+  "generated_at": "2026-09-29T23:49:28+00:00",
+  "run_id": "2026-09-29T23:49:28+00:00",
   "date": "2026-09-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 96
+      "configured_public_sources_only": 97
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 96,
-    "displayed_findings": 96,
+    "today_file_total": 97,
+    "displayed_findings": 97,
     "high": 1,
     "medium": 39,
-    "observe": 56,
+    "observe": 57,
     "source_errors": 0
   },
   "sections": {
@@ -2077,6 +2077,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "beec5877b6713caa5a52"
+      },
+      {
+        "title": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2144293.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-29T21:36:55+00:00",
+        "fetched_at": "2026-09-29T23:48:58+00:00",
+        "summary": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ad7f0ccdbeec07077ca0"
       },
       {
         "title": "「タイムズカーWebサイト」への不正アクセスに関する調査結果および今後の対応について（第3報） | カーシェアリングのタイムズカー",
@@ -4418,6 +4439,27 @@
       "id": "beec5877b6713caa5a52"
     },
     {
+      "title": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2144293.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-29T21:36:55+00:00",
+      "fetched_at": "2026-09-29T23:48:58+00:00",
+      "summary": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ad7f0ccdbeec07077ca0"
+    },
+    {
       "title": "「タイムズカーWebサイト」への不正アクセスに関する調査結果および今後の対応について（第3報） | カーシェアリングのタイムズカー",
       "url": "https://share.timescar.jp/news/2026/0929/1816.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4710,30 +4752,25 @@
   ],
   "new_findings": [
     {
-      "title": "GitHub - mizchi/explainer",
-      "url": "https://github.com/mizchi/explainer",
+      "title": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2144293.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-29T19:12:08+00:00",
-      "fetched_at": "2026-09-29T23:41:07+00:00",
-      "summary": "English | 日本語 Skills and tools for explaining concepts from an AI to a human. Coding agents now write faster than people can understand what they wrote (Geoffrey Litt, Understanding is the new bottleneck). This repository is for writing, for one reader, only what that reader does not already k...",
+      "published_at": "2026-09-29T21:36:55+00:00",
+      "fetched_at": "2026-09-29T23:48:58+00:00",
+      "summary": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
       "matched_keywords": [
-        "agent",
-        "AI Agents",
-        "AI/KI",
-        "Content-Chance",
-        "GitHub",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.0); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ea771fccdc469e83a1ec"
+      "id": "ad7f0ccdbeec07077ca0"
     }
   ],
   "source_errors": [],
