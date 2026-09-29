@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-29T03:17:34Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Passing 1.5°C global warming: Performative ESG is no longer acceptable” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
+  "generated_at": "2026-09-29T03:45:03Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “What I have learned watching foreign tech companies build in Singapore” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,26 +11,26 @@
   ],
   "top_dynamics": [
     {
-      "title": "Passing 1.5°C global warming: Performative ESG is no longer acceptable",
-      "url": "https://e27.co/passing-1-5c-global-warming-performative-esg-is-no-longer-acceptable-20260927/",
+      "title": "What I have learned watching foreign tech companies build in Singapore",
+      "url": "https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-29T02:26:11+00:00",
+      "published_at": "2026-09-29T02:45:34+00:00",
       "age_days": 0.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 25.0,
+      "topics": [],
+      "dynamics_score": 26.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
       ],
       "summary": ""
     },
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU99151548/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T09:15:00+09:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:37:41+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security",
         "macro",
@@ -92,7 +92,7 @@
       "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:45:34+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security",
         "disaster"
@@ -103,12 +103,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
         "security high-signal: security",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
@@ -119,7 +119,7 @@
       "url": "https://jvn.jp/vu/JVNVU99151548/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T00:57:15+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -145,7 +145,7 @@
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-29T01:00:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security"
@@ -166,35 +166,60 @@
       "summary": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
     },
     {
-      "title": "What I have learned watching foreign tech companies build in Singapore",
-      "url": "https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/",
+      "title": "Passing 1.5°C global warming: Performative ESG is no longer acceptable",
+      "url": "https://e27.co/passing-1-5c-global-warming-performative-esg-is-no-longer-acceptable-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-29T02:45:34+00:00",
-      "age_days": 0.02,
-      "topics": [],
-      "dynamics_score": 21.0,
+      "published_at": "2026-09-29T02:26:11+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 22.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
+        "momentum delta +3"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 5.3 - 76 km NE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-29T03:39:38.040+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-29 03:23:54 UTC 2026-09-29 03:23:54 UTC at epicenter Location 21.072°S 168.409°E Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "What I have learned watching foreign tech companies build in Singapore",
       "url": "https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:30:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -216,11 +241,35 @@
       "summary": "When foreign technology companies first speak to me about Singapore, the conversation usually starts with one of three things: customers, talent or tax. Government funding often comes much later. That surprises me because Singapore has a sizeable ecosystem of grants, tax incentives and investment support available to…"
     },
     {
+      "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
+      "url": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-29T02:26:11+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AI governance is moving from promises to proof",
       "url": "https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T01:29:35+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -246,7 +295,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/special/2143427.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-29T00:57:15+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -262,56 +311,6 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
-      "url": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-29T02:26:11+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 103.27,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 103.3d old signal",
-        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     }

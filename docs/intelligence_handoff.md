@@ -1,28 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-29T03:17:34Z_
+_Generated: 2026-09-29T03:45:03Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Passing 1.5°C global warming: Performative ESG is no longer acceptable” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.
+Stärkste Dynamik nach Gate-Recheck: “What I have learned watching foreign tech companies build in Singapore” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
 
-### Passing 1.5°C global warming: Performative ESG is no longer acceptable
+### What I have learned watching foreign tech companies build in Singapore
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `25.0`
-- Published: `2026-09-29T02:26:11+00:00` / age_days `0.04`
+- Dynamics score: `26.0`
+- Published: `2026-09-29T02:45:34+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2
-- Quelle: https://e27.co/passing-1-5c-global-warming-performative-esg-is-no-longer-acceptable-20260927/
+- Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
+- Quelle: https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/
 
 ### Authlibライブラリにおける署名検証が回避される脆弱性
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T09:15:00+09:00` / age_days `0.13`
+- Published: `2026-09-29T09:15:00+09:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Passing 1.5°C global warming: Performat
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T02:37:41+00:00` / age_days `0.03`
+- Published: `2026-09-29T02:37:41+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,17 +42,17 @@ Stärkste Dynamik nach Gate-Recheck: “Passing 1.5°C global warming: Performat
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T02:45:34+00:00` / age_days `0.02`
+- Published: `2026-09-29T02:45:34+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +1, security high-signal: security, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, security high-signal: security, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/
 
 ### Authlibライブラリにおける署名検証が回避される脆弱性
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T00:57:15+00:00` / age_days `0.1`
+- Published: `2026-09-29T00:57:15+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: auth, krass gate: single-source non-official/non-identity signal capped
@@ -62,37 +62,57 @@ Stärkste Dynamik nach Gate-Recheck: “Passing 1.5°C global warming: Performat
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-09-29T01:00:00+00:00` / age_days `0.1`
+- Published: `2026-09-29T01:00:00+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: bsi
 - Quelle: https://openai.com/index/how-we-will-do-better-for-australia
 
-### What I have learned watching foreign tech companies build in Singapore
+### Passing 1.5°C global warming: Performative ESG is no longer acceptable
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `21.0`
-- Published: `2026-09-29T02:45:34+00:00` / age_days `0.02`
+- Dynamics score: `22.0`
+- Published: `2026-09-29T02:26:11+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
-- Quelle: https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/
+- Warum: momentum delta +3
+- Quelle: https://e27.co/passing-1-5c-global-warming-performative-esg-is-no-longer-acceptable-20260927/
+
+### M 5.3 - 76 km NE of Tadine, New Caledonia
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-09-29T03:39:38.040+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5
 
 ### What I have learned watching foreign tech companies build in Singapore
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-29T02:30:05+00:00` / age_days `0.03`
+- Published: `2026-09-29T02:30:05+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/
 
+### Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `16.0`
+- Published: `2026-09-29T02:26:11+00:00` / age_days `0.05`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu
+
 ### AI governance is moving from promises to proof
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-29T01:29:35+00:00` / age_days `0.07`
+- Published: `2026-09-29T01:29:35+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Passing 1.5°C global warming: Performat
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-29T00:57:15+00:00` / age_days `0.1`
+- Published: `2026-09-29T00:57:15+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://internet.watch.impress.co.jp/docs/special/2143427.html
-
-### Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `13.5`
-- Published: `2026-09-29T02:26:11+00:00` / age_days `0.04`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2
-- Quelle: https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu
-
-### How we will do better for Australia
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `13.0`
-- Published: `2026-06-17T20:44:40+00:00` / age_days `103.27`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, aging penalty -8.0 for 103.3d old signal, single-source AI cap enforced after phrase recheck
-- Quelle: https://openai.com/index/how-we-will-do-better-for-australia
 
 END OF DOCUMENT
