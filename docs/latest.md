@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T23:30:53+00:00_
+_Generiert: 2026-09-29T23:41:37+00:00_
 
 ## Kurzlage
 
-95 neue relevante Treffer. Stärkstes Signal: „Waller, Payments in the Age of AI Agents“ aus Federal Reserve Speeches and Testimony (Score 25, opportunity).
+96 neue relevante Treffer. Stärkstes Signal: „Waller, Payments in the Age of AI Agents“ aus Federal Reserve Speeches and Testimony (Score 25, opportunity).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ _Generiert: 2026-09-29T23:30:53+00:00_
 
 ## Priorität Mittel
 
+- **GitHub - mizchi/explainer** — Score 23, observation — [Quelle](https://github.com/mizchi/explainer)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-29T19:12:08+00:00`, fetched `2026-09-29T23:41:07+00:00`
+  - Treffer: agent, AI Agents, AI/KI, Content-Chance, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.0); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: English | 日本語 Skills and tools for explaining concepts from an AI to a human. Coding agents now write faster than people can understand what they wrote (Geoffrey Litt, Understanding is the new bottleneck). This repository is for writing, for one reader, only what that reader does not already k...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan** — Score 20, risk — [Quelle](https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-29T06:22:38+00:00`, fetched `2026-09-29T06:42:23+00:00`
@@ -146,15 +155,6 @@ _Generiert: 2026-09-29T23:30:53+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Introducing GPT-6.1 Sol** — Score 14, observation — [Quelle](https://openai.com/index/introducing-gpt-6-1-sol)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-09-29T10:00:00+00:00`, fetched `2026-09-29T18:05:06+00:00`
-  - Treffer: AI Agents, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); AI Agents (+5.0); recent (+1.0)
-  - Kurz: Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -297,8 +297,8 @@ _Generiert: 2026-09-29T23:30:53+00:00_
 ## Empfehlungen
 
 - Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 

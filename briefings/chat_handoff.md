@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-29T23:30:53+00:00_
+_Generated: 2026-09-29T23:41:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `95`
+- findings: `96`
 
 ## Top Signals
 
@@ -15,33 +15,33 @@ _Generated: 2026-09-29T23:30:53+00:00_
 - url: https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm
 - summary: Speech At Sibos 2026, Miami, Florida
 
-### 2. Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan
+### 2. GitHub - mizchi/explainer
+- source: Hatena Bookmark Hotentry IT
+- score: `23`
+- published: `2026-09-29T19:12:08+00:00`
+- url: https://github.com/mizchi/explainer
+- summary: English | 日本語 Skills and tools for explaining concepts from an AI to a human. Coding agents now write faster than people can understand what they wrote (Geoffrey Litt, Understanding is the new bottleneck). This repository is for writing, for one reader, only…
+
+### 3. Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-09-29T06:22:38+00:00`
 - url: https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/
 - summary: Samsung Electro-Mechanics is making its largest single-product investment to date, committing US$4.9 billion to expand production of chip-packaging substrates in South Korea and Vietnam as the artificial intelligence boom reshapes demand across the semiconduc…
 
-### 3. Repository custom runner settings for Dependabot
+### 4. Repository custom runner settings for Dependabot
 - source: GitHub Changelog Atom
 - score: `18`
 - published: `2026-09-29T19:10:00+00:00`
 - url: https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot
 - summary: As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already… The post Repository custom runner settings for D…
 
-### 4. GPT-6.1 Sol in GitHub Copilot
+### 5. GPT-6.1 Sol in GitHub Copilot
 - source: GitHub Changelog Atom
 - score: `18`
 - published: `2026-09-29T17:02:27+00:00`
 - url: https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot
 - summary: GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog .
-
-### 5. Can Bitcoin hold US$82,000? Inside the security fear and macro storm
-- source: e27 Asia Startup and Tech Feed
-- score: `18`
-- published: `2026-09-29T02:37:41+00:00`
-- url: https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/
-- summary: Bitcoin is down 1.05 per cent to US$83,491.07 in 24 hours. The total crypto market has fallen 1.49 per cent to US$2.86 trillion. My view is that this decline is not one single story. It is a two-part selloff in which a major security breach and a broader macr…
 
 ### 6. Barr, Economic Conditions and Monetary Policy
 - source: Federal Reserve Speeches and Testimony

@@ -1,6 +1,19 @@
 # Senna Breaking
 
-_Generiert: 2026-09-29T23:30:55+00:00_
+_Generiert: 2026-09-29T23:41:39+00:00_
 
-Keine Breaking-Signale. Kleine Signale bleiben im Network Hub sichtbar.
+## GitHub - mizchi/explainer
+
+- Ranking Score: `32.5`
+- Raw Network Score: `28.1`
+- Max Monitor Score: `23`
+- Reichweite: `specialist` / `2.5`
+- Early Signal: `ja`
+- Dominanter Emitter: `nein`
+- Quellen: Hatena Bookmark Hotentry IT
+- Klassen: tier3_specialist
+- Cross-source bestaetigt: nein
+- Momentum: increasing (+1)
+- Erste Quelle: https://github.com/mizchi/explainer
+- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
