@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T13:27:30+00:00",
-  "today_file_total": 69,
+  "generated_at": "2026-09-29T13:44:14+00:00",
+  "today_file_total": 77,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -26,6 +26,34 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 69.5,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "Quantitative tightening - the next chapter",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20260929-quantitative-tightening-next-chapter",
+        "https://www.bis.org/speeches/20260929-welcoming-address-30th-anniversary-fast",
+        "https://www.bis.org/speeches/20260928-opening-remarks-2026-green-fintech-symposium",
+        "https://www.bis.org/speeches/20260928-statement-2026-innovation-financial-forum",
+        "https://www.bis.org/speeches/20260928-opening-speech-12th-edition-ermas-conference",
+        "https://www.bis.org/speeches/20260929-introductory-remarks-governing-board-swiss-national-bank-news-conference"
+      ],
+      "finding_count": 6,
+      "max_score": 12,
+      "credibility_total": 6.3,
+      "cross_source_confirmed": false,
+      "momentum_delta": 6,
+      "momentum_status": "increasing",
+      "network_score": 42.6,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -335,6 +363,31 @@
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     },
     {
+      "key": "earthquake:mid-atlantic ridge:5.6",
+      "title": "M 5.6 - southern Mid-Atlantic Ridge",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc3"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "earthquake:m 4.8 - south sandwich islands region:4.8",
       "title": "M 4.8 - South Sandwich Islands region",
       "sources": [
@@ -430,54 +483,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:restofworld.org",
-      "title": "The open-source AI platforms vying to become China’s Hugging Face",
-      "sources": [
-        "Rest of World Global Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:m 5.4 - 99 km sse of pangai, tonga:5.4",
-      "title": "M 5.4 - 99 km SSE of Pangai, Tonga",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc1"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     }
   ]
 }
