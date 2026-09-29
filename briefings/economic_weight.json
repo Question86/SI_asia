@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T05:56:23+00:00",
+  "generated_at": "2026-09-29T06:10:01+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -105,7 +105,7 @@
       "p90_usd": 1144000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-29T02:26:11+00:00",
-      "last_seen_at": "2026-09-29T05:55:30+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
       "status": "active"
     },
     {
@@ -2951,7 +2951,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-29T05:11:11+00:00",
-      "last_seen_at": "2026-09-29T05:55:30+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
       "status": "active"
     },
     {
@@ -4379,7 +4379,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-29T03:41:06+00:00",
-      "last_seen_at": "2026-09-29T05:55:30+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
       "status": "active"
     },
     {
@@ -5875,7 +5875,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-29T00:57:15+00:00",
-      "last_seen_at": "2026-09-29T05:55:30+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
       "status": "active"
     },
     {
@@ -6079,7 +6079,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-29T05:11:11+00:00",
-      "last_seen_at": "2026-09-29T05:55:30+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
       "status": "active"
     },
     {
@@ -6319,6 +6319,23 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_94c593f47294bdb87bb7",
+      "title": "PFU製Image Scanner Driver for Linuxにおける複数の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-29T06:09:43+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -7082,7 +7099,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-29T02:45:34+00:00",
-      "last_seen_at": "2026-09-29T05:55:30+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
       "status": "active"
     },
     {
@@ -7592,7 +7609,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-29T05:55:30+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
       "status": "active"
     },
     {
@@ -8782,7 +8799,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-29T01:29:35+00:00",
-      "last_seen_at": "2026-09-29T05:55:30+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
       "status": "active"
     },
     {
@@ -9326,8 +9343,8 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-28T13:26:21+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_aded2857bce4fe598bda",
@@ -11944,7 +11961,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-29T02:45:34+00:00",
-      "last_seen_at": "2026-09-29T05:55:30+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
       "status": "active"
     },
     {
@@ -12015,6 +12032,23 @@
       "first_seen_at": "2026-09-11T01:08:28+00:00",
       "last_seen_at": "2026-09-11T13:48:13+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e10bdd804f8de185ea7c",
+      "title": "第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 111200.0,
+      "p50_usd": 11120000.0,
+      "p90_usd": 1112000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-29T06:09:43+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -13509,7 +13543,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-29T05:28:39+00:00",
-      "last_seen_at": "2026-09-29T05:55:30+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
       "status": "active"
     },
     {
@@ -13577,7 +13611,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-29T02:26:11+00:00",
-      "last_seen_at": "2026-09-29T05:55:30+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
       "status": "active"
     },
     {
@@ -14699,7 +14733,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-29T03:54:07+00:00",
-      "last_seen_at": "2026-09-29T05:55:30+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
       "status": "active"
     },
     {
@@ -14958,6 +14992,40 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_80c43a3fe8f8a005051b",
+      "title": "令和8年度「病院情報システム等の刷新に向けた協議会」の構成員の追加募集（分科会C）を開始しました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-29T06:09:43+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_834887134ed718b7e6aa",
+      "title": "デジタル推進委員の取組について「ご協力いただいている企業・団体等の一覧」「地域で開催される講習会等の情報」を更新しました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-29T06:09:43+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_00999a707b633ec75a8c",
       "title": "Startups should learn to leave bad markets faster",
       "event_classes": [
@@ -15022,7 +15090,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-29T00:57:15+00:00",
-      "last_seen_at": "2026-09-29T05:55:30+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
       "status": "active"
     },
     {
@@ -15481,7 +15549,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-29T05:55:30+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
       "status": "active"
     },
     {
@@ -17419,7 +17487,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-29T03:22:15+00:00",
-      "last_seen_at": "2026-09-29T05:55:30+00:00",
+      "last_seen_at": "2026-09-29T06:09:43+00:00",
       "status": "active"
     },
     {
@@ -17794,7 +17862,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-29T05:28:39+00:00",
       "last_seen_at": "2026-09-29T05:55:30+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5c64d6dc8a71c6d72b83",
@@ -17879,7 +17947,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-29T03:22:15+00:00",
       "last_seen_at": "2026-09-29T05:55:30+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_947acb7ba1d3ee0b4b6f",
