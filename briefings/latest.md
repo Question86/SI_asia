@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T15:02:02+00:00_
+_Generiert: 2026-09-29T15:23:58+00:00_
 
 ## Kurzlage
 
@@ -49,10 +49,6 @@ _Generiert: 2026-09-29T15:02:02+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Volcanic eruption is on going for Etna in Italy
-- **GDACS: Green notification for tropical cyclone RACHEL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001329)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone RACHEL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
