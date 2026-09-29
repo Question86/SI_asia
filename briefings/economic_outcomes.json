@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T19:33:22+00:00",
+  "generated_at": "2026-09-29T19:44:42+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -1633,12 +1633,12 @@
     {
       "event_id": "evt_2435f818a57175ba52b4",
       "title": "Repository custom runner settings for Dependabot",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -1837,7 +1837,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_28d372a7de61eb91a1dd",
@@ -4862,7 +4862,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_6b875d443009efa690df",
