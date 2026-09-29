@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-29T01:29:33+00:00_
+_Generated: 2026-09-29T01:58:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `5`
 
 ## Top Signals
 
@@ -22,14 +22,21 @@ _Generated: 2026-09-29T01:29:33+00:00_
 - url: https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/
 - summary: For much of the past three years, the politics of artificial intelligence (AI) has revolved around relatively familiar questions. Will AI take jobs? Who owns the copyright to the material on which models are trained? Can companies protect personal data? And w…
 
-### 3. 普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？
+### 3. How we will do better for Australia
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-09-29T01:00:00+00:00`
+- url: https://openai.com/index/how-we-will-do-better-for-australia
+- summary: OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
+
+### 4. 普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-28T22:05:37+00:00`
 - url: https://internet.watch.impress.co.jp/docs/special/2143427.html
 - summary: 普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？
 
-### 4. AIでクオリティが落ちた外注さんが、自分では気づけてないという怖い話｜片山良平＠Eldipa代表、paiza創業者
+### 5. AIでクオリティが落ちた外注さんが、自分では気づけてないという怖い話｜片山良平＠Eldipa代表、paiza創業者
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-28T03:45:29+00:00`

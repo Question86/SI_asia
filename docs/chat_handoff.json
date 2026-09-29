@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-29T01:29:33+00:00",
+  "generated_at": "2026-09-29T01:58:28+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
     "medium": 1,
-    "observe": 3
+    "observe": 4
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -32,6 +32,16 @@
       "relevance_score": 13,
       "url": "https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/",
       "summary": "For much of the past three years, the politics of artificial intelligence (AI) has revolved around relatively familiar questions. Will AI take jobs? Who owns the copyright to the material on which models are trained? Can companies protect personal data? And w…",
+      "section": "observe"
+    },
+    {
+      "title": "How we will do better for Australia",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-29T01:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "summary": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "section": "observe"
     },
     {
@@ -60,138 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Authlibライブラリにおける署名検証が回避される脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU99151548/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-29T09:15:00+09:00",
-        "age_days": 0.07,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU99151548/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-29T00:57:15+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "high terms: auth",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "AI governance is moving from promises to proof",
-        "url": "https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-29T01:29:35+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？",
-        "url": "https://internet.watch.impress.co.jp/docs/special/2143427.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-29T00:57:15+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 9.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "AI governance is moving from promises to proof",
-        "url": "https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-29T01:00:42+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 5.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "For much of the past three years, the politics of artificial intelligence (AI) has revolved around relatively familiar questions. Will AI take jobs? Who owns the copyright to the material on which models are trained? Can companies protect personal data? And who should be responsible when an algorithm causes harm? Brit…"
-      }
-    ]
-  }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T01:29:35+00:00",
+  "generated_at": "2026-09-29T01:58:31+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -98,10 +98,9 @@
       "z_hint": 0.0
     },
     "domain:openai.com": {
-      "title": "Are you a Codex Original?",
-      "updated_at": "2026-09-28T23:58:45+00:00",
+      "title": "How we will do better for Australia",
+      "updated_at": "2026-09-29T01:58:31+00:00",
       "network_scores": [
-        12.1,
         12.1,
         12.1,
         12.1,
@@ -130,12 +129,13 @@
         22.3,
         22.3,
         22.3,
-        22.3
+        22.3,
+        17.1
       ],
-      "rolling_average": 17.42,
+      "rolling_average": 17.59,
       "rolling_peak": 28.3,
-      "last_score": 22.3,
-      "z_hint": 4.88
+      "last_score": 17.1,
+      "z_hint": -0.49
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -10162,7 +10162,7 @@
     },
     "domain:note.com": {
       "title": "AIでクオリティが落ちた外注さんが、自分では気づけてないという怖い話｜片山良平＠Eldipa代表、paiza創業者",
-      "updated_at": "2026-09-29T01:29:35+00:00",
+      "updated_at": "2026-09-29T01:58:31+00:00",
       "network_scores": [
         22.4,
         22.4,
@@ -10191,14 +10191,14 @@
         22.4,
         22.4,
         22.4,
-        22.4,
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 21.48,
+      "rolling_average": 20.97,
       "rolling_peak": 22.4,
       "last_score": 7.1,
-      "z_hint": -14.38
+      "z_hint": -13.87
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -52230,38 +52230,41 @@
     },
     "title:authlib": {
       "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
-      "updated_at": "2026-09-29T01:29:35+00:00",
+      "updated_at": "2026-09-29T01:58:31+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.6,
+      "rolling_average": 17.1,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "url:https://internet.watch.impress.co.jp/docs/special/2143427.html": {
       "title": "普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？",
-      "updated_at": "2026-09-29T01:29:35+00:00",
+      "updated_at": "2026-09-29T01:58:31+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.1,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:governance-moving-promises-proof": {
       "title": "AI governance is moving from promises to proof",
-      "updated_at": "2026-09-29T01:29:35+00:00",
+      "updated_at": "2026-09-29T01:58:31+00:00",
       "network_scores": [
-        18.1
+        18.1,
+        15.1
       ],
-      "rolling_average": 18.1,
+      "rolling_average": 16.6,
       "rolling_peak": 18.1,
-      "last_score": 18.1,
-      "z_hint": 0.0
+      "last_score": 15.1,
+      "z_hint": -1.5
     }
   }
 }
