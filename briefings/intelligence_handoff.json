@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-29T06:57:55Z",
+  "generated_at": "2026-09-29T07:28:07Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Pgpool-IIにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN22475874/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T14:00:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -35,35 +35,67 @@
       "summary": "Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。"
     },
     {
-      "title": "What I have learned watching foreign tech companies build in Singapore",
-      "url": "https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-29T02:45:34+00:00",
-      "age_days": 0.18,
-      "topics": [],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "title": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-29T07:05:58+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
+        "high terms: rce, 10",
+        "security high-signal: rce, 10",
         "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
       ],
-      "summary": ""
+      "summary": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) modulation. Available in two versions (3km and 20km range), it…"
+    },
+    {
+      "title": "cs341-illinois/coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-29T07:05:58+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Open Source Introductory Systems Programming Textbook for the University of Illinois https://cs341.cs.illinois.edu/coursebook Coursebook Welcome to the systems programming coursebook! This repository houses a high-quality, open-source introductory systems programming textbook used by the CS 341: System Programming cou…"
     },
     {
       "title": "PFU製Image Scanner Driver for Linuxにおける複数の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU96968110/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T15:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -89,7 +121,7 @@
       "url": "https://jvn.jp/vu/JVNVU99151548/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T09:15:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -115,7 +147,7 @@
       "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:37:41+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security",
         "macro",
@@ -138,11 +170,65 @@
       "summary": "Bitcoin is down 1.05 per cent to US$83,491.07 in 24 hours. The total crypto market has fallen 1.49 per cent to US$2.86 trillion. My view is that this decline is not one single story. It is a two-part selloff in which a major security breach and a broader macroeconomic risk-off shift have collided. The Bitget […] The p…"
     },
     {
+      "title": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-29T07:06:28+00:00",
+      "age_days": 0.02,
+      "topics": [],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-06-17T20:44:40+00:00",
+      "age_days": 103.45,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 6.88,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 6.88",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 103.4d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Can Bitcoin hold US$82,000? Inside the security fear and macro storm",
       "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:45:34+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security",
         "disaster"
@@ -169,7 +255,7 @@
       "url": "https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T06:22:38+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security",
@@ -195,64 +281,11 @@
       "summary": "Samsung Electro-Mechanics is making its largest single-product investment to date, committing US$4.9 billion to expand production of chip-packaging substrates in South Korea and Vietnam as the artificial intelligence boom reshapes demand across the semiconductor supply chain. In two filings with the Korea Exchange dat…"
     },
     {
-      "title": "Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan",
-      "url": "https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-29T06:42:56+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU99151548/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-29T00:57:15+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: auth",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": ""
-    },
-    {
       "title": "How we will do better for Australia",
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-29T01:00:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "security"
@@ -277,7 +310,7 @@
       "url": "https://www.heise.de/news/Groupware-Zimbra-Update-schliesst-zahlreiche-Sicherheitsluecken-11468996.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-29T06:31:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -296,31 +329,6 @@
         "security high-signal: code"
       ],
       "summary": "Ein Update schließt diverse Lücken in Zimbra, die etwa die Kontoübernahme oder das Unterschieben von Schadcode ermöglichen."
-    },
-    {
-      "title": "WatchGuard AP: Befehlsschmuggel-Lücken und umgehbare Authentifizierung",
-      "url": "https://www.heise.de/news/WatchGuard-AP-Befehlsschmuggel-Luecken-und-umgehbare-Authentifizierung-11468944.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-09-29T05:57:00.000+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: kritisch, auth",
-        "security high-signal: kritisch, auth"
-      ],
-      "summary": "WatchGuard warnt vor teils kritischen Sicherheitslücken in seinen Access-Points. Angreifer können die Authentifizierung umgehen und Befehle einschleusen."
     }
   ],
   "read_order": [
