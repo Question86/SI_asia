@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T23:49:28+00:00",
-  "run_id": "2026-09-29T23:49:28+00:00",
+  "generated_at": "2026-09-29T23:56:46+00:00",
+  "run_id": "2026-09-29T23:56:46+00:00",
   "date": "2026-09-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 97
+      "configured_public_sources_only": 98
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 97,
-    "displayed_findings": 97,
+    "today_file_total": 98,
+    "displayed_findings": 98,
     "high": 1,
     "medium": 39,
-    "observe": 57,
+    "observe": 58,
     "source_errors": 0
   },
   "sections": {
@@ -1185,6 +1185,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "71536efe2ba5cd59a4bc"
+      },
+      {
+        "title": "OpenAI DevDay 2026 発表まとめ",
+        "url": "https://zenn.dev/schroneko/articles/openai-devday-2026",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-29T21:28:47+00:00",
+        "fetched_at": "2026-09-29T23:56:17+00:00",
+        "summary": "tl;dr OpenAI DevDay 2026 がサンフランシスコで開催されたよ サンフランシスコ現地から情報をお送りするよ ひと通りのリソースをまとめたけど、まずは Recap ページを見るといいよ 24 時間常時稼働のエージェント dots が発表されたよ GPT-6 Astra に近い性能を低コストで使える GPT-6.1 Sol が公開されたよ 高速にトー...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "779bc66ba79010a11a39"
       },
       {
         "title": "OpenAI、「24時間働く」エージェント「dots」発表 Astra搭載、クラウド上で常時稼働",
@@ -3547,6 +3569,28 @@
       "id": "71536efe2ba5cd59a4bc"
     },
     {
+      "title": "OpenAI DevDay 2026 発表まとめ",
+      "url": "https://zenn.dev/schroneko/articles/openai-devday-2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-29T21:28:47+00:00",
+      "fetched_at": "2026-09-29T23:56:17+00:00",
+      "summary": "tl;dr OpenAI DevDay 2026 がサンフランシスコで開催されたよ サンフランシスコ現地から情報をお送りするよ ひと通りのリソースをまとめたけど、まずは Recap ページを見るといいよ 24 時間常時稼働のエージェント dots が発表されたよ GPT-6 Astra に近い性能を低コストで使える GPT-6.1 Sol が公開されたよ 高速にトー...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "779bc66ba79010a11a39"
+    },
+    {
       "title": "OpenAI、「24時間働く」エージェント「dots」発表 Astra搭載、クラウド上で常時稼働",
       "url": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4752,25 +4796,26 @@
   ],
   "new_findings": [
     {
-      "title": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2144293.html",
+      "title": "OpenAI DevDay 2026 発表まとめ",
+      "url": "https://zenn.dev/schroneko/articles/openai-devday-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-29T21:36:55+00:00",
-      "fetched_at": "2026-09-29T23:48:58+00:00",
-      "summary": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
+      "published_at": "2026-09-29T21:28:47+00:00",
+      "fetched_at": "2026-09-29T23:56:17+00:00",
+      "summary": "tl;dr OpenAI DevDay 2026 がサンフランシスコで開催されたよ サンフランシスコ現地から情報をお送りするよ ひと通りのリソースをまとめたけど、まずは Recap ページを見るといいよ 24 時間常時稼働のエージェント dots が発表されたよ GPT-6 Astra に近い性能を低コストで使える GPT-6.1 Sol が公開されたよ 高速にトー...",
       "matched_keywords": [
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "OpenAI"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ad7f0ccdbeec07077ca0"
+      "id": "779bc66ba79010a11a39"
     }
   ],
   "source_errors": [],
