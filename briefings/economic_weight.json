@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T00:57:32+00:00",
+  "generated_at": "2026-09-29T01:29:52+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -5811,6 +5811,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_74daf2a30a31b01e35a5",
+      "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-29T00:57:15+00:00",
+      "last_seen_at": "2026-09-29T01:29:35+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_7b74784a2435d9a8bda0",
       "title": "baserCMS用プラグイン「BurgerEditor」における複数の脆弱性",
       "event_classes": [
@@ -6234,23 +6251,6 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_74daf2a30a31b01e35a5",
-      "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-29T00:57:15+00:00",
-      "last_seen_at": "2026-09-29T00:57:15+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -8835,6 +8835,23 @@
       "first_seen_at": "2026-09-09T08:08:20+00:00",
       "last_seen_at": "2026-09-09T23:54:37+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_a7471d09d66dd93f4a47",
+      "title": "AI governance is moving from promises to proof",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-29T01:29:35+00:00",
+      "last_seen_at": "2026-09-29T01:29:35+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_03c35d005070efd2a4d6",
@@ -14839,6 +14856,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_04ff675a06bf1bdc4dd8",
+      "title": "普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-29T00:57:15+00:00",
+      "last_seen_at": "2026-09-29T01:29:35+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_05e942d062d6ba3c45b9",
       "title": "「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々",
       "event_classes": [
@@ -15294,7 +15328,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-29T00:57:15+00:00",
+      "last_seen_at": "2026-09-29T01:29:35+00:00",
       "status": "active"
     },
     {
@@ -17370,23 +17404,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_04ff675a06bf1bdc4dd8",
-      "title": "普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-29T00:57:15+00:00",
-      "last_seen_at": "2026-09-29T00:57:15+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
