@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T14:09:15+00:00",
+  "generated_at": "2026-09-29T14:28:09+00:00",
   "fx_as_of": null,
   "candidate_count": 1385,
   "promoted_count": 0,
@@ -702,20 +702,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.63,
       "candidate_id": "cand_f25b024775cb3f4d2c29",
+      "component_confidence": 0.55,
       "component_suggestion": "capital_allocation",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_5a8609c38e0d544999d3",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-09-29T14:09:02+00:00",
       "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:capital_allocation:76f729495de1",
       "review_status": "pending",
       "snippet": ", increased AI investment could introduce price pressure to those other sectors. And even more investment is in the pipeline, and companies have only spent a small fraction of the $2 trillion in announced plans. 5 Further, a large portion of the rise in equity prices over the past few years can be attributed to enthusiasm about AI, and that added wealth appears to be f",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://www.bis.org/speeches/20260929-update-ai-and-economy",
-      "component_confidence": 0.55,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://www.bis.org/speeches/20260929-update-ai-and-economy"
     },
     {
       "amount_native": 8000000000.0,
