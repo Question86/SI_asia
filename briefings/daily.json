@@ -1,31 +1,7 @@
 {
-  "generated_at": "2026-09-29T07:51:11+00:00",
+  "generated_at": "2026-09-29T08:00:57+00:00",
   "today_file_total": 33,
   "current_clusters": [
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (rhc): Schwachstelle ermöglicht Denial of Service",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3605",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1891"
-      ],
-      "finding_count": 2,
-      "max_score": 16,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 26.2,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
     {
       "key": "domain:openai.com",
       "title": "Towards safety cases for frontier AI training",
@@ -74,29 +50,28 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:autonomous-a2z-bets-driverless-shuttles-self-driving-technology",
-      "title": "Autonomous A2Z bets on driverless shuttles as self-driving technology gets practical",
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (rhc): Schwachstelle ermöglicht Denial of Service",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "BSI CERT-Bund Security Advisories"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/autonomous-a2z-bets-on-driverless-shuttles-as-self-driving-technology-gets-practical-20260929/"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3605",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1891"
       ],
-      "finding_count": 1,
-      "max_score": 17,
-      "credibility_total": 1.05,
+      "finding_count": 2,
+      "max_score": 16,
+      "credibility_total": 2.1,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 22.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 20.2,
       "hot": false,
-      "watchgraph_modules": [
-        "storms_floods_weather"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:can-bitcoin-hold-000-inside-security-fear-macro",
@@ -119,6 +94,31 @@
       "network_score": 20.1,
       "hot": false,
       "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:autonomous-a2z-bets-driverless-shuttles-self-driving-technology",
+      "title": "Autonomous A2Z bets on driverless shuttles as self-driving technology gets practical",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/autonomous-a2z-bets-on-driverless-shuttles-as-self-driving-technology-gets-practical-20260929/"
+      ],
+      "finding_count": 1,
+      "max_score": 17,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "storms_floods_weather"
+      ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
