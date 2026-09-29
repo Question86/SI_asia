@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T14:27:26+00:00",
-  "run_id": "2026-09-29T14:27:26+00:00",
+  "generated_at": "2026-09-29T14:42:58+00:00",
+  "run_id": "2026-09-29T14:42:58+00:00",
   "date": "2026-09-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 79,
     "displayed_findings": 79,
     "high": 0,
@@ -3807,29 +3807,7 @@
       "id": "f6352974874c9512bf28"
     }
   ],
-  "new_findings": [
-    {
-      "title": "箱はよくできているのに羊がいないはてなパークスの現状について - 関内関外日記",
-      "url": "https://goldhead.hatenablog.com/entry/2026/09/29/125355",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-29T04:00:21+00:00",
-      "fetched_at": "2026-09-29T14:26:56+00:00",
-      "summary": "p.hatena.ne.jp みんなはてなパークス使っているか？ 759ブクマもされているじゃないか。はてなの、満を持しての新サービスだぞ。たくさんのはてなーたちがこぞって書き込み、大盛況、新しいウェブの居場所だ、ってなってなきゃいけないんじゃいのか。 それなのに、今のはてなパークスときたらジャングリアより羊がいな...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f2d25af9485cd9f6dee0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
