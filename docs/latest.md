@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T10:01:50+00:00_
+_Generiert: 2026-09-29T10:24:34+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+43 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules storms_floods_weather (+3.0)
   - Kurz: For much of the past decade, autonomous driving has been a story of bold promises followed by hard resets. Robotaxis were meant to flood cities by now. Instead, the industry has learned that driving without a human behind the wheel is not one problem, but thousands of edge cases stitched together: pedestrians who cross unpredictably, […] The post Autonomous A2Z bets on driverless shuttles as self-driving technology…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [UNGEPATCHT] [niedrig] Keycloak (Micrometer): Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3614)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-29T10:16:29+00:00`, fetched `2026-09-29T10:24:05+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ECB amends monetary policy implementation guidelines as part of regular review** — Score 16, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-09-29T08:00:00+00:00`, fetched `2026-09-29T08:31:32+00:00`
@@ -93,15 +102,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [hoch] Apple iOS, iPadOS, macOS Tahoe und Sequoia: Schwachstelle ermöglicht Codeausführung** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3609)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-29T09:56:29+00:00`, fetched `2026-09-29T10:01:23+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apple iOS und iPadOS sowie in macOS Tahoe und Sequoia ausnutzen, um beliebigen Programmcode auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Authlibライブラリにおける署名検証が回避される脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU99151548/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-29T09:15:00+09:00`, fetched `2026-09-29T00:56:45+00:00`

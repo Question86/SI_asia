@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T10:01:50+00:00",
-  "run_id": "2026-09-29T10:01:50+00:00",
+  "generated_at": "2026-09-29T10:24:34+00:00",
+  "run_id": "2026-09-29T10:24:34+00:00",
   "date": "2026-09-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 41
+      "configured_public_sources_only": 43
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 41,
-    "displayed_findings": 41,
+    "new_relevant_findings": 2,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 0,
-    "medium": 15,
+    "medium": 17,
     "observe": 26,
     "source_errors": 0
   },
@@ -169,6 +169,30 @@
         "id": "557db71f64d47b2ba7db"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [niedrig] Keycloak (Micrometer): Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3614",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-29T10:16:29+00:00",
+        "fetched_at": "2026-09-29T10:24:05+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Patch",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dfbd02991614d38f96d5"
+      },
+      {
         "title": "ECB amends monetary policy implementation guidelines as part of regular review",
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
         "source": "ECB Press Releases Speeches Interviews",
@@ -256,6 +280,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4e3665ee545360827654"
+      },
+      {
+        "title": "[UPDATE] [hoch] IBM WebSphere Application Server: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2001",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-29T10:16:30+00:00",
+        "fetched_at": "2026-09-29T10:24:05+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, und um seine Privilegien zu erhöhen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9763a7eedaa81bd8d15a"
       },
       {
         "title": "[NEU] [hoch] Apple iOS, iPadOS, macOS Tahoe und Sequoia: Schwachstelle ermöglicht Codeausführung",
@@ -1132,6 +1179,30 @@
       "id": "557db71f64d47b2ba7db"
     },
     {
+      "title": "[NEU] [UNGEPATCHT] [niedrig] Keycloak (Micrometer): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3614",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-29T10:16:29+00:00",
+      "fetched_at": "2026-09-29T10:24:05+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dfbd02991614d38f96d5"
+    },
+    {
       "title": "ECB amends monetary policy implementation guidelines as part of regular review",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
       "source": "ECB Press Releases Speeches Interviews",
@@ -1219,6 +1290,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "4e3665ee545360827654"
+    },
+    {
+      "title": "[UPDATE] [hoch] IBM WebSphere Application Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2001",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-29T10:16:30+00:00",
+      "fetched_at": "2026-09-29T10:24:05+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, und um seine Privilegien zu erhöhen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9763a7eedaa81bd8d15a"
     },
     {
       "title": "[NEU] [hoch] Apple iOS, iPadOS, macOS Tahoe und Sequoia: Schwachstelle ermöglicht Codeausführung",
@@ -1953,13 +2047,37 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Apple iOS, iPadOS, macOS Tahoe und Sequoia: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3609",
+      "title": "[NEU] [UNGEPATCHT] [niedrig] Keycloak (Micrometer): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3614",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-29T09:56:29+00:00",
-      "fetched_at": "2026-09-29T10:01:23+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apple iOS und iPadOS sowie in macOS Tahoe und Sequoia ausnutzen, um beliebigen Programmcode auszuführen.",
+      "published_at": "2026-09-29T10:16:29+00:00",
+      "fetched_at": "2026-09-29T10:24:05+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dfbd02991614d38f96d5"
+    },
+    {
+      "title": "[UPDATE] [hoch] IBM WebSphere Application Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2001",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-29T10:16:30+00:00",
+      "fetched_at": "2026-09-29T10:24:05+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, und um seine Privilegien zu erhöhen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1973,49 +2091,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e5955de859f5d4caa9be"
-    },
-    {
-      "title": "The open-source AI platforms vying to become China’s Hugging Face",
-      "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-29T10:00:00+00:00",
-      "fetched_at": "2026-09-29T10:01:23+00:00",
-      "summary": "AI model platforms ModelScope and MoArk are competing to serve Chinese-speaking developers behind the Great Firewall.",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ecdd3f9de85cad51be68"
-    },
-    {
-      "title": "Google、ChromeOSを2034年に廃止へ。既定方針ながらおおっぴらに告知しない理由とは？【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2143988.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-29T03:51:35+00:00",
-      "fetched_at": "2026-09-29T10:01:23+00:00",
-      "summary": "Google、ChromeOSを2034年に廃止へ。既定方針ながらおおっぴらに告知しない理由とは？【やじうまWatch】",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "befbf7acd02ac822b706"
+      "id": "9763a7eedaa81bd8d15a"
     }
   ],
   "source_errors": [],

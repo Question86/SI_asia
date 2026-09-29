@@ -139,6 +139,30 @@
     "id": "557db71f64d47b2ba7db"
   },
   {
+    "title": "[NEU] [UNGEPATCHT] [niedrig] Keycloak (Micrometer): Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3614",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T10:16:29+00:00",
+    "fetched_at": "2026-09-29T10:24:05+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Patch",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dfbd02991614d38f96d5"
+  },
+  {
     "title": "ECB amends monetary policy implementation guidelines as part of regular review",
     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
     "source": "ECB Press Releases Speeches Interviews",
@@ -226,6 +250,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4e3665ee545360827654"
+  },
+  {
+    "title": "[UPDATE] [hoch] IBM WebSphere Application Server: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2001",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T10:16:30+00:00",
+    "fetched_at": "2026-09-29T10:24:05+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, und um seine Privilegien zu erhöhen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9763a7eedaa81bd8d15a"
   },
   {
     "title": "[NEU] [hoch] Apple iOS, iPadOS, macOS Tahoe und Sequoia: Schwachstelle ermöglicht Codeausführung",
