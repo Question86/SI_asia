@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-29T06:42:52+00:00",
+  "generated_at": "2026-09-29T07:06:26+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 5,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
-    "medium": 5,
-    "observe": 19
+    "medium": 6,
+    "observe": 23
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "Towards safety cases for frontier AI training",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-28T19:00:00+00:00",
+      "relevance_score": 18,
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "section": "medium"
+    },
+    {
       "title": "PFU製Image Scanner Driver for Linuxにおける複数の脆弱性",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 14,
       "url": "https://jvn.jp/vu/JVNVU96968110/",
       "summary": "株式会社PFUが提供するImage Scanner Driver for Linuxには、複数の脆弱性が存在します。",
-      "section": "medium"
-    },
-    {
-      "title": "Pgpool-IIにおける複数の脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-29T14:00:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/jp/JVN22475874/",
-      "summary": "Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。",
       "section": "medium"
     },
     {
@@ -75,23 +75,23 @@
       "section": "observe"
     },
     {
-      "title": "How we will do better for Australia",
-      "source": "OpenAI News RSS",
+      "title": "byoungd/up",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-09-29T01:00:00+00:00",
-      "relevance_score": 12,
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "summary": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "published_at": null,
+      "relevance_score": 13,
+      "url": "https://github.com/byoungd/up",
+      "summary": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 https://biezou.com title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-09-02 人生进阶指南 中文 |…",
       "section": "observe"
     },
     {
-      "title": "第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
-      "source": "Japan Digital Agency News RSS",
+      "title": "NawfalMotii79/PLFM_RADAR",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-09-29T06:00:00+00:00",
-      "relevance_score": 9,
-      "url": "https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495",
-      "summary": "第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
+      "published_at": null,
+      "relevance_score": 13,
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "summary": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) mo…",
       "section": "observe"
     }
   ],
@@ -100,141 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “PFU製Image Scanner Driver for Linuxにおける複数の脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "PFU製Image Scanner Driver for Linuxにおける複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96968110/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-29T15:00:00+09:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "株式会社PFUが提供するImage Scanner Driver for Linuxには、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU99151548/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-29T09:15:00+09:00",
-        "age_days": 0.28,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "Can Bitcoin hold US$82,000? Inside the security fear and macro storm",
-        "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-29T02:37:41+00:00",
-        "age_days": 0.18,
-        "topics": [
-          "security",
-          "macro",
-          "disaster"
-        ],
-        "dynamics_score": 30.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security"
-        ],
-        "summary": "Bitcoin is down 1.05 per cent to US$83,491.07 in 24 hours. The total crypto market has fallen 1.49 per cent to US$2.86 trillion. My view is that this decline is not one single story. It is a two-part selloff in which a major security breach and a broader macroeconomic risk-off shift have collided. The Bitget […] The p…"
-      },
-      {
-        "title": "Pgpool-IIにおける複数の脆弱性",
-        "url": "https://jvn.jp/jp/JVN22475874/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-29T14:00:00+09:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "Can Bitcoin hold US$82,000? Inside the security fear and macro storm",
-        "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-29T02:45:34+00:00",
-        "age_days": 0.18,
-        "topics": [
-          "security",
-          "disaster"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "security high-signal: security",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
