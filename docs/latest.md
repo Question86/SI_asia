@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T09:42:37+00:00_
+_Generiert: 2026-09-29T10:01:50+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+41 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -93,14 +93,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [mittel] Hazelcast: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3608)
+- **[NEU] [hoch] Apple iOS, iPadOS, macOS Tahoe und Sequoia: Schwachstelle ermöglicht Codeausführung** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3609)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-29T09:36:29+00:00`, fetched `2026-09-29T09:42:09+00:00`
+  - Zeit: published `2026-09-29T09:56:29+00:00`, fetched `2026-09-29T10:01:23+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Hazelcast ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apple iOS und iPadOS sowie in macOS Tahoe und Sequoia ausnutzen, um beliebigen Programmcode auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Authlibライブラリにおける署名検証が回避される脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU99151548/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -167,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); Webentwicklung (+3.0); recent (+1.0); watchgraph region australia: Australia (+2.0)
   - Kurz: OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The open-source AI platforms vying to become China’s Hugging Face** — Score 10, observation — [Quelle](https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-09-29T10:00:00+00:00`, fetched `2026-09-29T10:01:23+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: AI model platforms ModelScope and MoArk are competing to serve Chinese-speaking developers behind the Great Firewall.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyat)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -239,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: WatchGuard warnt vor teils kritischen Sicherheitslücken in seinen Access-Points. Angreifer können die Authentifizierung umgehen und Befehle einschleusen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由** — Score 7, observation — [Quelle](https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-28T23:36:42+00:00`, fetched `2026-09-29T02:25:42+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: 2026 年、初めて自分の意思で VCS を選択した ふりかえると私にとって VCS（バージョン管理システム）は、会社に指定されたものを使ってきただけでした。それまでの会社では社内にサーバを立てて Subversion を使うことが多かった中、2011 年から働き出した会社では GitHub が導入されており、そのため個々のエンジニア...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
