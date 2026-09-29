@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T16:40:32+00:00",
-  "run_id": "2026-09-29T16:40:32+00:00",
+  "generated_at": "2026-09-29T16:53:07+00:00",
+  "run_id": "2026-09-29T16:53:07+00:00",
   "date": "2026-09-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 82,
     "displayed_findings": 82,
     "high": 0,
@@ -3937,30 +3937,7 @@
       "id": "f6352974874c9512bf28"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Barr, Economic Conditions and Monetary Policy",
-      "url": "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
-      "source": "Federal Reserve Speeches and Testimony",
-      "source_type": "rss",
-      "published_at": "2026-09-29T16:40:00+00:00",
-      "fetched_at": "2026-09-29T16:40:00+00:00",
-      "summary": "Speech At the Detroit Economic Club, Detroit, Michigan",
-      "matched_keywords": [
-        "Macro/Policy",
-        "speech",
-        "testimony"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5382c232bf09792a3a80"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
