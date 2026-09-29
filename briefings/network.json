@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T18:59:48+00:00",
+  "generated_at": "2026-09-29T19:18:52+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 87,
+    "findings": 88,
     "clusters": 50,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -11,48 +11,47 @@
   },
   "clusters": [
     {
-      "key": "domain:openai.com",
-      "title": "Towards safety cases for frontier AI training",
+      "key": "domain:www.federalreserve.gov",
+      "title": "Waller, Payments in the Age of AI Agents",
       "sources": [
-        "OpenAI News RSS"
+        "Federal Reserve Speeches and Testimony"
       ],
       "source_classes": [
+        "central_bank",
         "tier3_specialist"
       ],
       "urls": [
-        "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-        "https://openai.com/index/devday-2026-recap",
-        "https://openai.com/index/introducing-gpt-6-1-sol",
-        "https://openai.com/index/how-we-will-do-better-for-australia",
-        "https://openai.com/index/introducing-dots"
+        "https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm",
+        "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
+        "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm"
       ],
-      "finding_count": 5,
-      "max_score": 18,
-      "credibility_total": 5.25,
+      "finding_count": 3,
+      "max_score": 25,
+      "credibility_total": 3.15,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.56,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 32.5,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 28.5,
-      "ranking_score": 21.56,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
+      "raw_network_score": 34.3,
+      "ranking_score": 32.5,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 2.06,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 5.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:vietnam-gains-samsung-electro-mechanics-substrate-expansion-plan",
@@ -91,6 +90,50 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-29T06:42:56+00:00"
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Towards safety cases for frontier AI training",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+        "https://openai.com/index/devday-2026-recap",
+        "https://openai.com/index/introducing-gpt-6-1-sol",
+        "https://openai.com/index/how-we-will-do-better-for-australia",
+        "https://openai.com/index/introducing-dots"
+      ],
+      "finding_count": 5,
+      "max_score": 18,
+      "credibility_total": 5.25,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 21.48,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 28.5,
+      "ranking_score": 21.48,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.98,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "title:gpt-sol-github-copilot",
@@ -191,18 +234,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 19.09,
+      "network_score": 18.92,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 69.5,
-      "ranking_score": 19.09,
+      "ranking_score": 18.92,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.59,
+      "baseline_bonus": 0.42,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -593,46 +636,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-29T07:33:09+00:00"
-    },
-    {
-      "key": "domain:www.federalreserve.gov",
-      "title": "Barr, Economic Conditions and Monetary Policy",
-      "sources": [
-        "Federal Reserve Speeches and Testimony"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
-        "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm"
-      ],
-      "finding_count": 2,
-      "max_score": 13,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.01,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 17.2,
-      "ranking_score": 13.01,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.01,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:multiples-vuln-rabilit-dans-noyau-linux-suse-septembre",
@@ -1465,44 +1468,6 @@
       "first_seen_at": "2026-09-29T03:54:07+00:00"
     },
     {
-      "key": "title:bring-business-context-external-custom-properties",
-      "title": "Bring business context with external custom properties",
-      "sources": [
-        "GitHub Changelog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties"
-      ],
-      "finding_count": 1,
-      "max_score": 3,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 7.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 8.1,
-      "ranking_score": 7.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-29T18:59:48+00:00"
-    },
-    {
       "key": "title:web",
       "title": "「タイムズカーWebサイト」への不正アクセスに関する調査結果および今後の対応について（第3報） | カーシェアリングのタイムズカー",
       "sources": [
@@ -1957,11 +1922,49 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-29T03:22:15+00:00"
+    },
+    {
+      "key": "title:bring-business-context-external-custom-properties",
+      "title": "Bring business context with external custom properties",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties"
+      ],
+      "finding_count": 1,
+      "max_score": 3,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 4.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 5.1,
+      "ranking_score": 4.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-29T18:59:48+00:00"
     }
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-29T18:59:49Z",
+    "generated_at": "2026-09-29T19:18:52Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
