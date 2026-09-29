@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T07:06:26+00:00_
+_Generiert: 2026-09-29T07:33:06+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+30 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -162,6 +162,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)
   - Kurz: Open-source, low-cost 10.5 GHz PLFM phased array RADAR system AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) modulation. Available in two versions (3km and 20km range), it's designed for researchers, drone developers, and serious SDR enthusiasts who want to explore and e…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Blue Fire AI closes US$9M round with AM-One stake under Mizuho partnership** — Score 12, opportunity — [Quelle](https://e27.co/blue-fire-ai-closes-us9m-round-with-am-one-stake-under-mizuho-partnership-20260929/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-29T07:15:44+00:00`, fetched `2026-09-29T07:32:36+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Automatisierung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Artificial intelligence is moving deeper into asset management, but not only through chatbots, research summaries or back-office automation. The bigger question is whether AI can help investment firms do what has become increasingly difficult in public markets: find differentiated returns at scale. Blue Fire AI, a technology company focused on AI-driven investment management, is making […] The post Blue Fire AI clos…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **How we will do better for Australia** — Score 12, observation — [Quelle](https://openai.com/index/how-we-will-do-better-for-australia)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-09-29T01:00:00+00:00`, fetched `2026-09-29T01:57:58+00:00`
@@ -207,15 +216,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-29 03:23:54 UTC 2026-09-29 03:23:54 UTC at epicenter Location 21.072°S 168.409°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **What I have learned watching foreign tech companies build in Singapore** — Score 9, opportunity — [Quelle](https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-29T02:30:05+00:00`, fetched `2026-09-29T02:44:57+00:00`
-  - Treffer: APAC Trend Radar, funding
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: When foreign technology companies first speak to me about Singapore, the conversation usually starts with one of three things: customers, talent or tax. Government funding often comes much later. That surprises me because Singapore has a sizeable ecosystem of grants, tax incentives and investment support available to companies building substantive operations here. But there is […] The post What I have learned watchi…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **AIで地図アプリをたくさん作ったので話を聞いてほしい 地図好きが作る自分が本当に使いたかったアプリの数々** — Score 8, observation — [Quelle](https://dailyportalz.jp/kiji/ai-chizu-app-tsukutta)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-29T02:40:12+00:00`, fetched `2026-09-29T05:28:04+00:00`

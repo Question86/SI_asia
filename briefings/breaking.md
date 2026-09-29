@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-29T07:06:28+00:00_
+_Generiert: 2026-09-29T07:33:09+00:00_
 
 ## Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan
 
