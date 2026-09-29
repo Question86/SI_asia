@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T22:23:36+00:00",
+  "generated_at": "2026-09-29T22:35:27+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -528,7 +528,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_0b3c3c21d8d5ad2ae5e2",
@@ -8607,13 +8607,13 @@
     {
       "event_id": "evt_b9e2035b72777801567e",
       "title": "M 4.5 - 15 km SW of San Antonio, Colombia",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b9e960be7e69171ce774",
