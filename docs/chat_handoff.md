@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-29T06:09:39+00:00_
+_Generated: 2026-09-29T06:42:52+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `24`
 
 ## Top Signals
 
-### 1. Can Bitcoin hold US$82,000? Inside the security fear and macro storm
+### 1. Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan
+- source: e27 Asia Startup and Tech Feed
+- score: `20`
+- published: `2026-09-29T06:22:38+00:00`
+- url: https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/
+- summary: Samsung Electro-Mechanics is making its largest single-product investment to date, committing US$4.9 billion to expand production of chip-packaging substrates in South Korea and Vietnam as the artificial intelligence boom reshapes demand across the semiconduc…
+
+### 2. Can Bitcoin hold US$82,000? Inside the security fear and macro storm
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-09-29T02:37:41+00:00`
 - url: https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/
 - summary: Bitcoin is down 1.05 per cent to US$83,491.07 in 24 hours. The total crypto market has fallen 1.49 per cent to US$2.86 trillion. My view is that this decline is not one single story. It is a two-part selloff in which a major security breach and a broader macr…
 
-### 2. PFU製Image Scanner Driver for Linuxにおける複数の脆弱性
+### 3. PFU製Image Scanner Driver for Linuxにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-29T15:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU96968110/
 - summary: 株式会社PFUが提供するImage Scanner Driver for Linuxには、複数の脆弱性が存在します。
 
-### 3. Pgpool-IIにおける複数の脆弱性
+### 4. Pgpool-IIにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-29T14:00:00+09:00`
 - url: https://jvn.jp/jp/JVN22475874/
 - summary: Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。
-
-### 4. Authlibライブラリにおける署名検証が回避される脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-29T09:15:00+09:00`
-- url: https://jvn.jp/vu/JVNVU99151548/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. Passing 1.5°C global warming: Performative ESG is no longer acceptable
 - source: e27 Asia Startup and Tech Feed

@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-09-29T06:09:43+00:00",
-  "today_file_total": 22,
+  "generated_at": "2026-09-29T06:42:56+00:00",
+  "today_file_total": 24,
   "current_clusters": [
+    {
+      "key": "title:vietnam-gains-samsung-electro-mechanics-substrate-expansion-plan",
+      "title": "Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/"
+      ],
+      "finding_count": 1,
+      "max_score": 20,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 25.1,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
     {
       "key": "title:can-bitcoin-hold-000-inside-security-fear-macro",
       "title": "Can Bitcoin hold US$82,000? Inside the security fear and macro storm",
@@ -41,9 +64,9 @@
       "max_score": 14,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 19.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
@@ -141,6 +164,30 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:www.heise.de",
+      "title": "Groupware Zimbra: Update schließt zahlreiche Sicherheitslücken",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Groupware-Zimbra-Update-schliesst-zahlreiche-Sicherheitsluecken-11468996.html",
+        "https://www.heise.de/news/WatchGuard-AP-Befehlsschmuggel-Luecken-und-umgehbare-Authentifizierung-11468944.html"
+      ],
+      "finding_count": 2,
+      "max_score": 7,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "domain:openai.com",
       "title": "How we will do better for Australia",
       "sources": [
@@ -159,52 +206,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495",
-      "title": "第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:www.heise.de",
-      "title": "WatchGuard AP: Befehlsschmuggel-Lücken und umgehbare Authentifizierung",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/WatchGuard-AP-Befehlsschmuggel-Luecken-und-umgehbare-Authentifizierung-11468944.html"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -260,6 +261,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "url:https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495",
+      "title": "第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:what-have-learned-watching-foreign-tech-companies-build",
       "title": "What I have learned watching foreign tech companies build in Singapore",
       "sources": [
@@ -281,52 +305,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/news/19b45883-978f-4424-929a-ee8fa5bc20e6",
-      "title": "令和8年度「病院情報システム等の刷新に向けた協議会」の構成員の追加募集（分科会C）を開始しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/news/19b45883-978f-4424-929a-ee8fa5bc20e6"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/policies/digital_promotion_staff",
-      "title": "デジタル推進委員の取組について「ご協力いただいている企業・団体等の一覧」「地域で開催される講習会等の情報」を更新しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/policies/digital_promotion_staff"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "url:https://dailyportalz.jp/kiji/ai-chizu-app-tsukutta",
@@ -370,6 +348,52 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 9.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://www.digital.go.jp/news/19b45883-978f-4424-929a-ee8fa5bc20e6",
+      "title": "令和8年度「病院情報システム等の刷新に向けた協議会」の構成員の追加募集（分科会C）を開始しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/news/19b45883-978f-4424-929a-ee8fa5bc20e6"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://www.digital.go.jp/policies/digital_promotion_staff",
+      "title": "デジタル推進委員の取組について「ご協力いただいている企業・団体等の一覧」「地域で開催される講習会等の情報」を更新しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/policies/digital_promotion_staff"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -431,29 +455,6 @@
       ],
       "urls": [
         "https://internet.watch.impress.co.jp/docs/special/2143427.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:note.com",
-      "title": "AIでクオリティが落ちた外注さんが、自分では気づけてないという怖い話｜片山良平＠Eldipa代表、paiza創業者",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://note.com/rk611/n/n56e6db823eb1"
       ],
       "finding_count": 1,
       "max_score": 5,

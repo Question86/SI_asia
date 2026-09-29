@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T06:09:39+00:00_
+_Generiert: 2026-09-29T06:42:52+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „Can Bitcoin hold US$82,000? Inside the security fear and macro storm“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
+24 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan** — Score 20, risk — [Quelle](https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-29T06:22:38+00:00`, fetched `2026-09-29T06:42:23+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Supply Chain Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region south_korea: South Korea, Samsung (+2.0); watchgraph region southeast_asia: Vietnam (+2.0)
+  - Kurz: Samsung Electro-Mechanics is making its largest single-product investment to date, committing US$4.9 billion to expand production of chip-packaging substrates in South Korea and Vietnam as the artificial intelligence boom reshapes demand across the semiconductor supply chain. In two filings with the Korea Exchange dated September 28, the Samsung Electronics affiliate said it will spend about […] The post Vietnam gai…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Can Bitcoin hold US$82,000? Inside the security fear and macro storm** — Score 18, risk — [Quelle](https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-29T02:37:41+00:00`, fetched `2026-09-29T02:44:57+00:00`
@@ -122,6 +131,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは。ライターの西村です。 最近、僕がAIで作ったwebアプリについて、プログラマーでライターの三土さん、デイリーポータルZ編集長の林さん、編集の石川さんに話を聞いてもらいました。 それではどうぞ。 まったく何もわからなくてもなんか作れるのすげえな 左から、筆者の西村、石川さん、三土さん、林さんです...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Groupware Zimbra: Update schließt zahlreiche Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Groupware-Zimbra-Update-schliesst-zahlreiche-Sicherheitsluecken-11468996.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-29T06:31:00.000+00:00`, fetched `2026-09-29T06:42:23+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Ein Update schließt diverse Lücken in Zimbra, die etwa die Kontoübernahme oder das Unterschieben von Schadcode ermöglichen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **WatchGuard AP: Befehlsschmuggel-Lücken und umgehbare Authentifizierung** — Score 7, observation — [Quelle](https://www.heise.de/news/WatchGuard-AP-Befehlsschmuggel-Luecken-und-umgehbare-Authentifizierung-11468944.html)
   - Quelle: heise Security Alerts / `rss`
