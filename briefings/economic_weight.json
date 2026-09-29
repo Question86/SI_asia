@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T23:59:04+00:00",
+  "generated_at": "2026-09-29T00:57:32+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -123,7 +123,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b244f715f95f7b5ca2e1",
@@ -1014,7 +1014,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T05:39:36+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4a0d93e16aedc502c780",
@@ -1048,7 +1048,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-31T04:36:22+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_74f0f1c56f8e7f996c36",
@@ -1218,7 +1218,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-28T05:01:03+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d52e61c16fa1407a436a",
@@ -1388,7 +1388,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-13T23:05:13+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_50b3c3060f979d361e39",
@@ -5298,7 +5298,7 @@
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_09434b47a53a3966aade",
@@ -5502,7 +5502,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T09:53:09+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1a224f45daaefbf195d6",
@@ -6131,7 +6131,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-28T01:03:09+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d5c5a3abe2e5829315e1",
@@ -6148,7 +6148,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-28T05:01:03+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d7bfc2a0a8af35a07efb",
@@ -6234,6 +6234,23 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_74daf2a30a31b01e35a5",
+      "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-29T00:57:15+00:00",
+      "last_seen_at": "2026-09-29T00:57:15+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -6437,7 +6454,7 @@
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_286c3df7e2f2f93926a3",
@@ -6522,7 +6539,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-28T19:30:30+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_55bf431fc184f598da38",
@@ -7338,7 +7355,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-28T08:06:21+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_18b9f1bdacf89b6fa84a",
@@ -7491,7 +7508,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a71916846dd64406ffc2",
@@ -8256,7 +8273,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-28T21:08:07+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_7b1d452be927fe300f4c",
@@ -8273,7 +8290,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-28T09:00:17+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8da0efe66ac852dfd45e",
@@ -8409,7 +8426,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T12:27:55+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e3d2c52dc5b9bdf7f078",
@@ -8885,7 +8902,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-28T01:43:02+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_33f17c9d023e2256cff7",
@@ -10143,7 +10160,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d44ba16b5cae98333f94",
@@ -10993,7 +11010,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a4cc9e8a7b9fde761d52",
@@ -11503,7 +11520,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
       "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_574beed208af3af2acc2",
@@ -15277,8 +15294,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-27T23:53:06+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-29T00:57:15+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_3798464737d06de06243",
@@ -17353,6 +17370,23 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_04ff675a06bf1bdc4dd8",
+      "title": "普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-29T00:57:15+00:00",
+      "last_seen_at": "2026-09-29T00:57:15+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",

@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-28T23:59:25+00:00`
+Generated: `2026-09-29T00:57:36+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -24,8 +24,8 @@ Generated: `2026-09-28T23:59:25+00:00`
 | GitHub - minorun365/minorun-marp-skill: Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール | $0 | — | 0 | 0 | dormant |
 | How we use AI to turn one article into audience-specific versions | $0 | — | 0 | 0 | dormant |
 | WebMCPがアツいので見てほしい \| DevelopersIO | $0 | — | 0 | 0 | dormant |
+| 普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？ | $0 | — | 0 | 0 | active |
 | Why Kyoto, not Tokyo, is Japan’s real deeptech bet | $0 | — | 0 | 0 | dormant |
 | M 6.2 - South Sandwich Islands region | $0 | — | 0 | 0 | dormant |
 | Bitcoin drops to US$76,796.54 as 91% S&P 500 correlation exposes crypto’s macro trap | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | $0 | — | 0 | 0 | dormant |
-| M 4.7 - 40 km SSW of Sipí, Colombia | $0 | — | 0 | 0 | dormant |
