@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T04:01:34+00:00_
+_Generiert: 2026-09-29T04:27:51+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „Can Bitcoin hold US$82,000? Inside the security fear and macro storm“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
+13 neue relevante Treffer. Stärkstes Signal: „Can Bitcoin hold US$82,000? Inside the security fear and macro storm“ aus e27 Asia Startup and Tech Feed (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -179,3 +179,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
