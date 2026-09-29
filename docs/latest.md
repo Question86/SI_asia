@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T17:55:13+00:00_
+_Generiert: 2026-09-29T18:05:38+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+86 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region south_korea: South Korea, Samsung (+2.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: Samsung Electro-Mechanics is making its largest single-product investment to date, committing US$4.9 billion to expand production of chip-packaging substrates in South Korea and Vietnam as the artificial intelligence boom reshapes demand across the semiconductor supply chain. In two filings with the Korea Exchange dated September 28, the Samsung Electronics affiliate said it will spend about […] The post Vietnam gai…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **GPT-6.1 Sol in GitHub Copilot** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-29T17:02:27+00:00`, fetched `2026-09-29T18:05:06+00:00`
+  - Treffer: AI Agents, Copilot, GitHub, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Can Bitcoin hold US$82,000? Inside the security fear and macro storm** — Score 18, risk — [Quelle](https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-29T02:37:41+00:00`, fetched `2026-09-29T02:44:57+00:00`
@@ -75,6 +84,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann eine Schwachstelle in GNU libc ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **DevDay 2026 Recap** — Score 16, observation — [Quelle](https://openai.com/index/devday-2026-recap)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-29T10:00:00+00:00`, fetched `2026-09-29T18:05:06+00:00`
+  - Treffer: OpenAI, Security, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); Security (+6.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ECB amends monetary policy implementation guidelines as part of regular review** — Score 16, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-09-29T08:00:00+00:00`, fetched `2026-09-29T08:31:32+00:00`
@@ -102,6 +120,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Introducing GPT-6.1 Sol** — Score 14, observation — [Quelle](https://openai.com/index/introducing-gpt-6-1-sol)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-29T10:00:00+00:00`, fetched `2026-09-29T18:05:06+00:00`
+  - Treffer: AI Agents, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI Agents (+5.0); recent (+1.0)
+  - Kurz: Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Authlibライブラリにおける署名検証が回避される脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU99151548/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-29T09:15:00+09:00`, fetched `2026-09-29T00:56:45+00:00`

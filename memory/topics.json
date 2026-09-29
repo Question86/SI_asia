@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T17:55:13+00:00",
+  "generated_at": "2026-09-29T18:05:38+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-29T06:22:38+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/"
+      },
+      {
+        "title": "GPT-6.1 Sol in GitHub Copilot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-29T17:02:27+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot"
       },
       {
         "title": "Towards safety cases for frontier AI training",
@@ -26,11 +33,25 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3617"
       },
       {
+        "title": "DevDay 2026 Recap",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-09-29T10:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://openai.com/index/devday-2026-recap"
+      },
+      {
         "title": "[NEU] [hoch] Apache Airflow Providers: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-29T11:41:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3630"
+      },
+      {
+        "title": "Introducing GPT-6.1 Sol",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-09-29T10:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://openai.com/index/introducing-gpt-6-1-sol"
       },
       {
         "title": "Passing 1.5°C global warming: Performative ESG is no longer acceptable",
@@ -52,27 +73,6 @@
         "published_at": null,
         "relevance_score": 13,
         "url": "https://github.com/byoungd/up"
-      },
-      {
-        "title": "NawfalMotii79/PLFM_RADAR",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
-      },
-      {
-        "title": "Blue Fire AI closes US$9M round with AM-One stake under Mizuho partnership",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-29T07:15:44+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/blue-fire-ai-closes-us9m-round-with-am-one-stake-under-mizuho-partnership-20260929/"
-      },
-      {
-        "title": "How we will do better for Australia",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-09-29T01:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://openai.com/index/how-we-will-do-better-for-australia"
       }
     ],
     "economy": [
@@ -147,6 +147,50 @@
         "url": "https://www.bis.org/speeches/20260928-opening-speech-12th-edition-ermas-conference"
       }
     ],
+    "github": [
+      {
+        "title": "GPT-6.1 Sol in GitHub Copilot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-29T17:02:27+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot"
+      },
+      {
+        "title": "byoungd/up",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/byoungd/up"
+      },
+      {
+        "title": "NawfalMotii79/PLFM_RADAR",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+      },
+      {
+        "title": "cs341-illinois/coursebook",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/cs341-illinois/coursebook"
+      },
+      {
+        "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-28T23:36:42+00:00",
+        "relevance_score": 7,
+        "url": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu"
+      },
+      {
+        "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-29T15:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/"
+      }
+    ],
     "security": [
       {
         "title": "Can Bitcoin hold US$82,000? Inside the security fear and macro storm",
@@ -198,6 +242,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3614"
       },
       {
+        "title": "DevDay 2026 Recap",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-09-29T10:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://openai.com/index/devday-2026-recap"
+      },
+      {
         "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (rhc): Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-29T07:46:29+00:00",
@@ -210,13 +261,6 @@
         "published_at": "2026-09-29T15:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96968110/"
-      },
-      {
-        "title": "Pgpool-IIにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-29T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN22475874/"
       }
     ],
     "geopolitics": [
@@ -361,43 +405,6 @@
         "published_at": "2026-09-29T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/news/19b45883-978f-4424-929a-ee8fa5bc20e6"
-      }
-    ],
-    "github": [
-      {
-        "title": "byoungd/up",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/byoungd/up"
-      },
-      {
-        "title": "NawfalMotii79/PLFM_RADAR",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
-      },
-      {
-        "title": "cs341-illinois/coursebook",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/cs341-illinois/coursebook"
-      },
-      {
-        "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-28T23:36:42+00:00",
-        "relevance_score": 7,
-        "url": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu"
-      },
-      {
-        "title": "Developer policy update: Transparency, state policy, and what’s ahead",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-09-29T15:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/"
       }
     ]
   }

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-29T17:55:13+00:00",
+  "generated_at": "2026-09-29T18:05:38+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 82,
-    "displayed_findings": 82,
+    "new_relevant_findings": 4,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
-    "medium": 33,
-    "observe": 49
+    "medium": 36,
+    "observe": 50
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 20,
       "url": "https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/",
       "summary": "Samsung Electro-Mechanics is making its largest single-product investment to date, committing US$4.9 billion to expand production of chip-packaging substrates in South Korea and Vietnam as the artificial intelligence boom reshapes demand across the semiconduc…",
+      "section": "medium"
+    },
+    {
+      "title": "GPT-6.1 Sol in GitHub Copilot",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-29T17:02:27+00:00",
+      "relevance_score": 18,
+      "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+      "summary": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog .",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 18,
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [kritisch] WordPress: Schwachstelle ermöglicht Codeausführung",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-29T08:49:43+00:00",
-      "relevance_score": 17,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3539",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WordPress ausnutzen, um beliebigen Programmcode auszuführen.",
       "section": "medium"
     },
     {

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-29T17:55:13+00:00_
+_Generated: 2026-09-29T18:05:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `82`
+- findings: `86`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-29T17:55:13+00:00_
 - url: https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/
 - summary: Samsung Electro-Mechanics is making its largest single-product investment to date, committing US$4.9 billion to expand production of chip-packaging substrates in South Korea and Vietnam as the artificial intelligence boom reshapes demand across the semiconduc…
 
-### 2. Can Bitcoin hold US$82,000? Inside the security fear and macro storm
+### 2. GPT-6.1 Sol in GitHub Copilot
+- source: GitHub Changelog Atom
+- score: `18`
+- published: `2026-09-29T17:02:27+00:00`
+- url: https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot
+- summary: GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep… The post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog .
+
+### 3. Can Bitcoin hold US$82,000? Inside the security fear and macro storm
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-09-29T02:37:41+00:00`
 - url: https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/
 - summary: Bitcoin is down 1.05 per cent to US$83,491.07 in 24 hours. The total crypto market has fallen 1.49 per cent to US$2.86 trillion. My view is that this decline is not one single story. It is a two-part selloff in which a major security breach and a broader macr…
 
-### 3. Towards safety cases for frontier AI training
+### 4. Towards safety cases for frontier AI training
 - source: OpenAI News RSS
 - score: `18`
 - published: `2026-09-28T19:00:00+00:00`
 - url: https://openai.com/index/towards-safety-cases-for-frontier-ai-training
 - summary: Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents
-
-### 4. [UPDATE] [kritisch] WordPress: Schwachstelle ermöglicht Codeausführung
-- source: BSI CERT-Bund Security Advisories
-- score: `17`
-- published: `2026-09-29T08:49:43+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3539
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WordPress ausnutzen, um beliebigen Programmcode auszuführen.
 
 ### 5. Barr, Economic Conditions and Monetary Policy
 - source: Federal Reserve Speeches and Testimony
