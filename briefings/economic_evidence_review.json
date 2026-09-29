@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T06:10:20+00:00",
+  "generated_at": "2026-09-29T06:43:34+00:00",
   "fx_as_of": null,
-  "candidate_count": 1372,
+  "candidate_count": 1375,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 1372
+    "pending": 1375
   },
   "coverage_warning": null,
   "candidates": [
@@ -14829,6 +14829,48 @@
       "source_url": "https://e27.co/1982-ventures-joins-limiteds-us18-5m-seed-round-to-simplify-cross-border-business-banking-20260929/"
     },
     {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_fc2c5d71a25221fbfac5",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_e888df3c1f2ae3be6152",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-29T06:43:16+00:00",
+      "overlap_group_suggestion": "evt_e888df3c1f2ae3be6152:capital_allocation:16a051a7b684",
+      "review_status": "pending",
+      "snippet": "data Defi E-Commerce Hardware Retail Artificial Intelligence Cryptocurrency Education Healthtech Software As A Service View all Startups --> POSTS STARTUPS Tech Innovators secured $50 million in funding from Venture Capitalist Alpha, paving the way for groundbreaking advancements in artificial intelligence. Discover the power of AI in transforming your daily tasks! Wit",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_2740c48533a118ca3f11",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_e888df3c1f2ae3be6152",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-29T06:43:16+00:00",
+      "overlap_group_suggestion": "evt_e888df3c1f2ae3be6152:capital_allocation:f3a8ffe32888",
+      "review_status": "pending",
+      "snippet": "cial intelligence. Discover the power of AI in transforming your daily tasks! With intelligent algorithms, we enhance productivity and streamline workflows. AI Innovations Secures $50 Million in Funding from Visionary Investor Experience the future with AI-driven solutions that simplify complex processes and boost efficiency in your work environment. View all Posts Xam",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 44000000.0,
       "amount_usd": 44000000.0,
       "attribution_probability": null,
@@ -21499,6 +21541,27 @@
       "snippet": "。 集計の共通部分 combined 形式は nginx・Apache ともフィールド位置が同じなので、同じ awk がそのまま使えます。 203.0.113.10 - - [10/Sep/2026:07:12:33 +0900] \"POST /wp-login.php HTTP/1.1\" 200 1234 \"-\" \"curl/8.5.0\" $1 $2$3 $4 $5 $6 $7 $8 $9 $10 $11 $12 $1 = 送信元 IP、 $6 = メソッド(先頭に \" が付く)、 $7 = パス、 $9 = ステータス、 $10 = 応答サイズ。ローテート済みの過去分も見たいので、対象を変数にまとめます。GNU の zcat -f は非圧縮ファイルもそのまま流すので、 .gz と生ログを混ぜて渡せます。 LOG",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6"
+    },
+    {
+      "amount_native": 4.0,
+      "amount_usd": 4.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_78f98aff9a149297ea01",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_e888df3c1f2ae3be6152",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-29T06:43:16+00:00",
+      "overlap_group_suggestion": "evt_e888df3c1f2ae3be6152:unknown:a496c87dc5af",
+      "review_status": "pending",
+      "snippet": "Vietnam gains from Samsung Electro-Mechanics's US$4.9B AI substrate expansion plan | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email address Go to Edit Profile Send Em",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 3.28,
