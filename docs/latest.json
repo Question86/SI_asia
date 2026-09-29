@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T02:58:00+00:00",
-  "run_id": "2026-09-29T02:58:00+00:00",
+  "generated_at": "2026-09-29T03:22:12+00:00",
+  "run_id": "2026-09-29T03:22:12+00:00",
   "date": "2026-09-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 9
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 2,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 2,
-    "observe": 7,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
@@ -183,6 +183,27 @@
         "id": "e922f225ca22c7e6a1e4"
       },
       {
+        "title": "エンジニアに抽象的に考える力が必要な理由ー課題を見つけるための私の習慣 - MonotaRO Tech Blog",
+        "url": "https://tech-blog.monotaro.com/entry/2026/09/29/090000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-29T00:17:38+00:00",
+        "fetched_at": "2026-09-29T03:21:41+00:00",
+        "summary": "こんにちは。MonotaROでWeb広告運用を効率化・自動化するためのシステム開発を担当している、広告システムチームの早川です。 会社で目標設定を行っている方、あるいは問題提起や仮説の検討に取り組んでいる方の中には、考えていることをうまく言語化できずに苦戦している方も少なからずいらっしゃるのではないでしょう...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2b2db3609c8df422e9f3"
+      },
+      {
         "title": "普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？",
         "url": "https://internet.watch.impress.co.jp/docs/special/2143427.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -223,6 +244,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ebb67ab90d94bfec36d2"
+      },
+      {
+        "title": "Zuckerberg’s Muse Charm doesn’t care about your ad budget",
+        "url": "https://e27.co/zuckerbergs-muse-charm-doesnt-care-about-your-ad-budget-20260927/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-29T03:00:11+00:00",
+        "fetched_at": "2026-09-29T03:21:41+00:00",
+        "summary": "This week at Meta Connect, Mark Zuckerberg held up something that looked like a toy. The Muse Charm is a keychain-sized gadget with a little animated avatar on its screen. You press it, talk to it, and your Muse agent gets to work. Meta says it will ship by December. The Muse agent behind it […] The post Zuckerberg’s Muse Charm doesn’t care about your ad budget appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f6352974874c9512bf28"
       }
     ]
   },
@@ -379,6 +420,27 @@
       "id": "e922f225ca22c7e6a1e4"
     },
     {
+      "title": "エンジニアに抽象的に考える力が必要な理由ー課題を見つけるための私の習慣 - MonotaRO Tech Blog",
+      "url": "https://tech-blog.monotaro.com/entry/2026/09/29/090000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-29T00:17:38+00:00",
+      "fetched_at": "2026-09-29T03:21:41+00:00",
+      "summary": "こんにちは。MonotaROでWeb広告運用を効率化・自動化するためのシステム開発を担当している、広告システムチームの早川です。 会社で目標設定を行っている方、あるいは問題提起や仮説の検討に取り組んでいる方の中には、考えていることをうまく言語化できずに苦戦している方も少なからずいらっしゃるのではないでしょう...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2b2db3609c8df422e9f3"
+    },
+    {
       "title": "普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？",
       "url": "https://internet.watch.impress.co.jp/docs/special/2143427.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -419,9 +481,71 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ebb67ab90d94bfec36d2"
+    },
+    {
+      "title": "Zuckerberg’s Muse Charm doesn’t care about your ad budget",
+      "url": "https://e27.co/zuckerbergs-muse-charm-doesnt-care-about-your-ad-budget-20260927/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-29T03:00:11+00:00",
+      "fetched_at": "2026-09-29T03:21:41+00:00",
+      "summary": "This week at Meta Connect, Mark Zuckerberg held up something that looked like a toy. The Muse Charm is a keychain-sized gadget with a little animated avatar on its screen. You press it, talk to it, and your Muse agent gets to work. Meta says it will ship by December. The Muse agent behind it […] The post Zuckerberg’s Muse Charm doesn’t care about your ad budget appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f6352974874c9512bf28"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "エンジニアに抽象的に考える力が必要な理由ー課題を見つけるための私の習慣 - MonotaRO Tech Blog",
+      "url": "https://tech-blog.monotaro.com/entry/2026/09/29/090000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-29T00:17:38+00:00",
+      "fetched_at": "2026-09-29T03:21:41+00:00",
+      "summary": "こんにちは。MonotaROでWeb広告運用を効率化・自動化するためのシステム開発を担当している、広告システムチームの早川です。 会社で目標設定を行っている方、あるいは問題提起や仮説の検討に取り組んでいる方の中には、考えていることをうまく言語化できずに苦戦している方も少なからずいらっしゃるのではないでしょう...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2b2db3609c8df422e9f3"
+    },
+    {
+      "title": "Zuckerberg’s Muse Charm doesn’t care about your ad budget",
+      "url": "https://e27.co/zuckerbergs-muse-charm-doesnt-care-about-your-ad-budget-20260927/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-29T03:00:11+00:00",
+      "fetched_at": "2026-09-29T03:21:41+00:00",
+      "summary": "This week at Meta Connect, Mark Zuckerberg held up something that looked like a toy. The Muse Charm is a keychain-sized gadget with a little animated avatar on its screen. You press it, talk to it, and your Muse agent gets to work. Meta says it will ship by December. The Muse agent behind it […] The post Zuckerberg’s Muse Charm doesn’t care about your ad budget appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f6352974874c9512bf28"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

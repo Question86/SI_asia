@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-29T02:58:02+00:00_
+_Generiert: 2026-09-29T03:22:15+00:00_
 
 ## Can Bitcoin hold US$82,000? Inside the security fear and macro storm
 
