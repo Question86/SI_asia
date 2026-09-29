@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-29T08:51:56+00:00",
+  "generated_at": "2026-09-29T09:01:10+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "new_relevant_findings": 3,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
-    "medium": 10,
+    "medium": 13,
     "observe": 24
   },
   "source_errors_count": 0,
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "Autonomous A2Z bets on driverless shuttles as self-driving technology gets practical",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "[UPDATE] [kritisch] WordPress: Schwachstelle ermöglicht Codeausführung",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-29T05:09:29+00:00",
+      "published_at": "2026-09-29T08:49:43+00:00",
       "relevance_score": 17,
-      "url": "https://e27.co/autonomous-a2z-bets-on-driverless-shuttles-as-self-driving-technology-gets-practical-20260929/",
-      "summary": "For much of the past decade, autonomous driving has been a story of bold promises followed by hard resets. Robotaxis were meant to flood cities by now. Instead, the industry has learned that driving without a human behind the wheel is not one problem, but tho…",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3539",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WordPress ausnutzen, um beliebigen Programmcode auszuführen.",
       "section": "medium"
     },
     {

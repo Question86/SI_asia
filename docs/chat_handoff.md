@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-29T08:51:56+00:00_
+_Generated: 2026-09-29T09:01:10+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `37`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-29T08:51:56+00:00_
 - url: https://openai.com/index/towards-safety-cases-for-frontier-ai-training
 - summary: Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents
 
-### 4. Autonomous A2Z bets on driverless shuttles as self-driving technology gets practical
-- source: e27 Asia Startup and Tech Feed
+### 4. [UPDATE] [kritisch] WordPress: Schwachstelle ermöglicht Codeausführung
+- source: BSI CERT-Bund Security Advisories
 - score: `17`
-- published: `2026-09-29T05:09:29+00:00`
-- url: https://e27.co/autonomous-a2z-bets-on-driverless-shuttles-as-self-driving-technology-gets-practical-20260929/
-- summary: For much of the past decade, autonomous driving has been a story of bold promises followed by hard resets. Robotaxis were meant to flood cities by now. Instead, the industry has learned that driving without a human behind the wheel is not one problem, but tho…
+- published: `2026-09-29T08:49:43+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3539
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WordPress ausnutzen, um beliebigen Programmcode auszuführen.
 
 ### 5. Passing 1.5°C global warming: Performative ESG is no longer acceptable
 - source: e27 Asia Startup and Tech Feed
