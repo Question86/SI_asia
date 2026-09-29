@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T13:44:51+00:00",
+  "generated_at": "2026-09-29T14:09:15+00:00",
   "fx_as_of": null,
-  "candidate_count": 1384,
+  "candidate_count": 1385,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 1384
+    "pending": 1385
   },
   "coverage_warning": null,
   "candidates": [
@@ -695,6 +695,27 @@
       "snippet": "ags behind the United States. [ 6 ] [ 7 ] In parallel, European initiatives like InvestAI and the Scaleup Europe Fund can help mobilise additional investment in AI infrastructure. €30 billion for AI Gigafactories – to develop advanced AI in the EU – is a good start. At the same time, AI investment activity will also depend on what happens in financial markets, and whet",
       "source_priority": "primary_hint",
       "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html"
+    },
+    {
+      "amount_native": 2000000000000.0,
+      "amount_usd": 2000000000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.63,
+      "candidate_id": "cand_f25b024775cb3f4d2c29",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-29T14:09:02+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:capital_allocation:76f729495de1",
+      "review_status": "pending",
+      "snippet": ", increased AI investment could introduce price pressure to those other sectors. And even more investment is in the pipeline, and companies have only spent a small fraction of the $2 trillion in announced plans. 5 Further, a large portion of the rise in equity prices over the past few years can be attributed to enthusiasm about AI, and that added wealth appears to be f",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20260929-update-ai-and-economy",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 8000000000.0,
