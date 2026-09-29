@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-29T13:55:52Z_
+_Generated: 2026-09-29T14:14:53Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] DENX U-Boot: Schwachstelle 
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-09-29T11:41:29+00:00` / age_days `0.09`
+- Published: `2026-09-29T11:41:29+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] DENX U-Boot: Schwachstelle 
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-09-29T11:21:29+00:00` / age_days `0.11`
+- Published: `2026-09-29T11:21:29+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -32,27 +32,17 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] DENX U-Boot: Schwachstelle 
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-09-29T10:41:29+00:00` / age_days `0.13`
+- Published: `2026-09-29T10:41:29+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, auth, security high-signal: code, auth
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3622
 
-### [NEU] [hoch] GeoServer: Schwachstelle ermöglicht Codeausführung und Offenlegung von Informationen
-
-- Band: `krass` (raw `krass`)
-- Dynamics score: `31.0`
-- Published: `2026-09-29T10:41:29+00:00` / age_days `0.13`
-- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3620
-
 ### [NEU] [hoch] Langflow: Mehrere Schwachstellen
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T10:26:29+00:00` / age_days `0.15`
+- Published: `2026-09-29T10:26:29+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, auth, security high-signal: code, auth, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -62,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] DENX U-Boot: Schwachstelle 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T07:05:58+00:00` / age_days `0.28`
+- Published: `2026-09-29T07:05:58+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -72,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] DENX U-Boot: Schwachstelle 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T10:26:29+00:00` / age_days `0.15`
+- Published: `2026-09-29T10:26:29+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -82,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] DENX U-Boot: Schwachstelle 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T07:05:58+00:00` / age_days `0.28`
+- Published: `2026-09-29T07:05:58+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -92,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] DENX U-Boot: Schwachstelle 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T15:00:00+09:00` / age_days `0.33`
+- Published: `2026-09-29T15:00:00+09:00` / age_days `0.34`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -102,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] DENX U-Boot: Schwachstelle 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T11:41:29+00:00` / age_days `0.09`
+- Published: `2026-09-29T11:41:29+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, auth, security high-signal: angriffe, auth, official security but no high-signal phrase: capped at strong
@@ -112,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] DENX U-Boot: Schwachstelle 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T11:21:29+00:00` / age_days `0.11`
+- Published: `2026-09-29T11:21:29+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code, official security but no high-signal phrase: capped at strong
@@ -122,10 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] DENX U-Boot: Schwachstelle 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-29T11:16:32+00:00` / age_days `0.11`
+- Published: `2026-09-29T11:16:32+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3547
+
+### Quantitative tightening - the next chapter
+
+- Band: `watch` (raw `krass`)
+- Dynamics score: `19.9`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `102.99`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -8.0 for 103.0d old signal, stale single-source cap after 30d: no current exploitation phrase
+- Quelle: https://www.bis.org/speeches/20260929-quantitative-tightening-next-chapter
 
 END OF DOCUMENT

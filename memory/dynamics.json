@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-29T13:55:52Z",
+  "generated_at": "2026-09-29T14:14:53Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
-      "krass": 25,
-      "strong": 13
+      "krass": 26,
+      "strong": 12
     },
     "bands_after_gate_recheck": {
       "krass": 7,
-      "strong": 32,
-      "watch": 1
+      "strong": 31,
+      "watch": 2
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3631",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T11:41:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0111",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T11:21:29+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3622",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T10:41:29+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3620",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T10:41:29+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3615",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T10:26:29+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -147,7 +147,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3609",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T09:56:29+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -172,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1891",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T07:36:29+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -197,7 +197,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3616",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T10:26:29+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -225,7 +225,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3539",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 31.99,
+      "age_days": 32.0,
       "topics": [
         "security"
       ],
@@ -236,15 +236,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 20.96,
+      "baseline_z_hint": 20.3,
       "security_high_signal": true,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 20.96",
+        "baseline z_hint 20.30",
         "high terms: kritisch, rce, code",
         "security high-signal: kritisch, rce, code",
-        "aging penalty -3.8 for 32.0d old signal",
+        "aging penalty -3.9 for 32.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -254,7 +254,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3539",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T08:49:43+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -280,7 +280,7 @@
       "url": "https://jvn.jp/jp/JVN22475874/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T14:00:00+09:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -304,7 +304,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3630",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T11:41:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security"
@@ -329,7 +329,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3627",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T11:36:29+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -353,7 +353,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3628",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T11:36:29+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -377,7 +377,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3621",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T10:41:29+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -401,7 +401,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3541",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T08:49:43+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -425,7 +425,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3475",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T08:49:42+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -449,7 +449,7 @@
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-29T07:05:58+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -477,7 +477,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3617",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T10:26:29+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -504,7 +504,7 @@
       "url": "https://github.com/cs341-illinois/coursebook",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-29T07:05:58+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -532,7 +532,7 @@
       "url": "https://jvn.jp/vu/JVNVU96968110/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T15:00:00+09:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -558,7 +558,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3629",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T11:41:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -584,7 +584,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3623",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T11:21:29+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -610,7 +610,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3547",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T11:16:32+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -636,7 +636,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2001",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T10:16:30+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -662,7 +662,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3608",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T09:36:29+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -688,7 +688,7 @@
       "url": "https://jvn.jp/vu/JVNVU99151548/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T09:15:00+09:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "security"
       ],
@@ -714,7 +714,7 @@
       "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:37:41+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security",
         "macro",
@@ -741,7 +741,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3632",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T11:46:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -766,7 +766,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3618",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T10:31:29+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -791,7 +791,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3614",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T10:16:29+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -816,7 +816,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3605",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-29T07:46:29+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -841,7 +841,7 @@
       "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-29T10:00:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "infra"
@@ -868,7 +868,7 @@
       "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-29T07:06:28+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -893,7 +893,7 @@
       "url": "https://e27.co/blue-fire-ai-closes-us9m-round-with-am-one-stake-under-mizuho-partnership-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T07:33:09+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -916,40 +916,11 @@
       "summary": ""
     },
     {
-      "title": "Quantitative tightening - the next chapter",
-      "url": "https://www.bis.org/speeches/20260929-quantitative-tightening-next-chapter",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 102.97,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 6,
-      "baseline_z_hint": 7.54,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +6",
-        "baseline z_hint 7.54",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 103.0d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Can Bitcoin hold US$82,000? Inside the security fear and macro storm",
       "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:45:34+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security",
         "disaster"
@@ -976,7 +947,7 @@
       "url": "https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T06:22:38+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "security",
@@ -1006,7 +977,7 @@
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-29T01:00:00+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "ai",
         "security"
@@ -1027,11 +998,39 @@
       "summary": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
     },
     {
+      "title": "Quantitative tightening - the next chapter",
+      "url": "https://www.bis.org/speeches/20260929-quantitative-tightening-next-chapter",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 102.99,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "krass",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 103.0d old signal",
+        "stale single-source cap after 30d: no current exploitation phrase"
+      ],
+      "summary": ""
+    },
+    {
       "title": "The open-source AI platforms vying to become China’s Hugging Face",
       "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 102.5,
+      "age_days": 102.51,
       "topics": [
         "ai"
       ],
