@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-29T18:31:42+00:00",
+  "generated_at": "2026-09-29T18:50:09+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,7 +99,7 @@
     },
     "domain:openai.com": {
       "title": "Towards safety cases for frontier AI training",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         22.2,
         22.2,
@@ -128,14 +128,14 @@
         22.2,
         22.2,
         22.2,
-        22.2,
         37.5,
+        28.5,
         28.5
       ],
-      "rolling_average": 22.92,
+      "rolling_average": 23.13,
       "rolling_peak": 37.5,
       "last_score": 28.5,
-      "z_hint": 5.58
+      "z_hint": 5.37
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -910,9 +910,8 @@
     },
     "domain:www.bis.org": {
       "title": "Quantitative tightening - the next chapter",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
-        34.8,
         34.8,
         34.8,
         34.8,
@@ -941,18 +940,18 @@
         26.7,
         26.7,
         26.7,
+        26.7,
         26.7
       ],
-      "rolling_average": 30.3,
+      "rolling_average": 30.03,
       "rolling_peak": 42.6,
       "last_score": 26.7,
-      "z_hint": -3.6
+      "z_hint": -3.33
     },
     "domain:www.federalreserve.gov": {
       "title": "Barr, Economic Conditions and Monetary Policy",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
-        18.1,
         18.1,
         18.1,
         18.1,
@@ -981,16 +980,17 @@
         17.2,
         17.2,
         17.2,
+        17.2,
         17.2
       ],
-      "rolling_average": 17.23,
+      "rolling_average": 17.2,
       "rolling_peak": 20.2,
       "last_score": 17.2,
-      "z_hint": -0.03
+      "z_hint": 0.0
     },
     "domain:www.ecb.europa.eu": {
       "title": "ECB amends monetary policy implementation guidelines as part of regular review",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2686,9 +2686,9 @@
     },
     "domain:restofworld.org": {
       "title": "The open-source AI platforms vying to become China’s Hugging Face",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
-        15.1,
+        12.1,
         12.1,
         12.1,
         12.1,
@@ -2719,10 +2719,10 @@
         12.1,
         12.1
       ],
-      "rolling_average": 12.2,
-      "rolling_peak": 15.1,
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
       "last_score": 12.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "domain:trends.google.com": {
       "title": "축구중계",
@@ -4263,7 +4263,7 @@
     },
     "domain:www.heise.de": {
       "title": "Groupware Zimbra: Update schließt zahlreiche Sicherheitslücken",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         11.2,
         11.2,
@@ -5781,9 +5781,8 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[UPDATE] [kritisch] WordPress: Schwachstelle ermöglicht Codeausführung",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
-        34.7,
         41.9,
         56.3,
         59.6,
@@ -5812,12 +5811,13 @@
         69.5,
         69.5,
         69.5,
+        69.5,
         69.5
       ],
-      "rolling_average": 65.94,
+      "rolling_average": 67.1,
       "rolling_peak": 87.5,
       "last_score": 69.5,
-      "z_hint": 3.56
+      "z_hint": 2.4
     },
     "title:why-every-warehouse-singapore-will-run-safety-monitoring": {
       "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
@@ -10162,7 +10162,7 @@
     },
     "domain:note.com": {
       "title": "AIでクオリティが落ちた外注さんが、自分では気づけてないという怖い話｜片山良平＠Eldipa代表、paiza創業者",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -15851,7 +15851,7 @@
     },
     "domain:tech-blog.monotaro.com": {
       "title": "エンジニアに抽象的に考える力が必要な理由ー課題を見つけるための私の習慣 - MonotaRO Tech Blog",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -29739,9 +29739,8 @@
     },
     "title:web": {
       "title": "「タイムズカーWebサイト」への不正アクセスに関する調査結果および今後の対応について（第3報） | カーシェアリングのタイムズカー",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
-        9.2,
         9.2,
         9.2,
         9.2,
@@ -29770,12 +29769,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.97,
+      "rolling_average": 7.9,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.87
+      "z_hint": -0.8
     },
     "url:https://www.yomiuri.co.jp/science/20260912-gyt1t00169/": {
       "title": "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
@@ -37028,7 +37028,7 @@
     },
     "title:multiples-vuln-rabilit-dans-noyau-linux-suse-septembre": {
       "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (18 septembre 2026)",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         13.1,
         13.1,
@@ -37037,8 +37037,8 @@
         13.1,
         13.1,
         13.1,
-        13.1,
         16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -51913,11 +51913,11 @@
     },
     "title:660": {
       "title": "免許証画像が漏れると何が“ヤバい”のか タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -52230,7 +52230,7 @@
     },
     "title:authlib": {
       "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -52270,7 +52270,7 @@
     },
     "url:https://internet.watch.impress.co.jp/docs/special/2143427.html": {
       "title": "普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -52310,7 +52310,7 @@
     },
     "title:governance-moving-promises-proof": {
       "title": "AI governance is moving from promises to proof",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         15.1,
         15.1,
@@ -52350,7 +52350,7 @@
     },
     "title:passing-global-warming-performative-esg-longer-acceptable": {
       "title": "Passing 1.5°C global warming: Performative ESG is no longer acceptable",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         15.1,
         15.1,
@@ -52390,7 +52390,7 @@
     },
     "title:jujutsu-git": {
       "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -52430,7 +52430,7 @@
     },
     "title:can-bitcoin-hold-000-inside-security-fear-macro": {
       "title": "Can Bitcoin hold US$82,000? Inside the security fear and macro storm",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         20.1,
         20.1,
@@ -52470,7 +52470,7 @@
     },
     "title:what-have-learned-watching-foreign-tech-companies-build": {
       "title": "What I have learned watching foreign tech companies build in Singapore",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         11.1,
         11.1,
@@ -52510,7 +52510,7 @@
     },
     "title:zuckerberg-muse-charm-doesn-care-about-your-budget": {
       "title": "Zuckerberg’s Muse Charm doesn’t care about your ad budget",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -52550,7 +52550,7 @@
     },
     "earthquake:m 5.3 - 76 km ne of tadine, new caledonia:5.3": {
       "title": "M 5.3 - 76 km NE of Tadine, New Caledonia",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -52590,7 +52590,7 @@
     },
     "url:https://www.digital.go.jp/speech/minister-260929-01": {
       "title": "古川大臣記者会見（令和8年9月29日）動画を追加しました",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -52630,7 +52630,7 @@
     },
     "title:pgpool": {
       "title": "Pgpool-IIにおける複数の脆弱性",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -52670,7 +52670,7 @@
     },
     "earthquake:m 4.8 - south sandwich islands region:4.8": {
       "title": "M 4.8 - South Sandwich Islands region",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         14.4,
         14.4,
@@ -52710,7 +52710,7 @@
     },
     "url:https://dailyportalz.jp/kiji/ai-chizu-app-tsukutta": {
       "title": "AIで地図アプリをたくさん作ったので話を聞いてほしい 地図好きが作る自分が本当に使いたかったアプリの数々",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -52750,7 +52750,7 @@
     },
     "title:1982-ventures-joins-limited-seed-round-simplify-cross": {
       "title": "1982 Ventures joins Limited’s US$18.5M seed round to simplify cross-border business banking",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -52790,7 +52790,7 @@
     },
     "title:pfu-image-scanner-driver-linux": {
       "title": "PFU製Image Scanner Driver for Linuxにおける複数の脆弱性",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -52830,7 +52830,7 @@
     },
     "url:https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495": {
       "title": "第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         11.1,
         11.1,
@@ -52870,7 +52870,7 @@
     },
     "url:https://www.digital.go.jp/news/19b45883-978f-4424-929a-ee8fa5bc20e6": {
       "title": "令和8年度「病院情報システム等の刷新に向けた協議会」の構成員の追加募集（分科会C）を開始しました",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -52910,7 +52910,7 @@
     },
     "url:https://www.digital.go.jp/policies/digital_promotion_staff": {
       "title": "デジタル推進委員の取組について「ご協力いただいている企業・団体等の一覧」「地域で開催される講習会等の情報」を更新しました",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -52950,7 +52950,7 @@
     },
     "title:vietnam-gains-samsung-electro-mechanics-substrate-expansion-plan": {
       "title": "Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         22.1,
         22.1,
@@ -52990,7 +52990,7 @@
     },
     "github_repo:byoungd/up": {
       "title": "byoungd/up",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         15.1,
         15.1,
@@ -53030,7 +53030,7 @@
     },
     "github_repo:nawfalmotii79/plfm_radar": {
       "title": "NawfalMotii79/PLFM_RADAR",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         15.1,
         15.1,
@@ -53070,7 +53070,7 @@
     },
     "github_repo:cs341-illinois/coursebook": {
       "title": "cs341-illinois/coursebook",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -53110,7 +53110,7 @@
     },
     "title:blue-fire-closes-round-one-stake-under-mizuho": {
       "title": "Blue Fire AI closes US$9M round with AM-One stake under Mizuho partnership",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -53150,7 +53150,7 @@
     },
     "title:autonomous-a2z-bets-driverless-shuttles-self-driving-technology": {
       "title": "Autonomous A2Z bets on driverless shuttles as self-driving technology gets practical",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         19.1,
         19.1,
@@ -53190,9 +53190,9 @@
     },
     "title:google-chromeos-2034-watch": {
       "title": "Google、ChromeOSを2034年に廃止へ。既定方針ながらおおっぴらに告知しない理由とは？【やじうまWatch】",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
-        10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -53223,16 +53223,17 @@
         7.1,
         7.1
       ],
-      "rolling_average": 7.2,
-      "rolling_peak": 10.1,
+      "rolling_average": 7.1,
+      "rolling_peak": 7.1,
       "last_score": 7.1,
-      "z_hint": -0.1
+      "z_hint": 0.0
     },
     "earthquake:m 4.5 - 96 km ene of alianza cristiana, peru:4.5": {
       "title": "M 4.5 - 96 km ENE of Alianza Cristiana, Peru",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         16.7,
+        13.7,
         13.7,
         13.7,
         13.7,
@@ -53267,9 +53268,10 @@
     },
     "earthquake:m 5.0 - 77 km ene of tadine, new caledonia:5.0": {
       "title": "M 5.0 - 77 km ENE of Tadine, New Caledonia",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -53302,9 +53304,10 @@
     },
     "title:ecosystem-roundup-anthropic-ipo-filing-12x-revenue-loss": {
       "title": "Ecosystem Roundup: Anthropic’s IPO filing: 12x revenue, US$8B loss and an extinction risk",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         9.1,
+        6.1,
         6.1,
         6.1,
         6.1,
@@ -53337,7 +53340,7 @@
     },
     "earthquake:m 4.7 - 100 km w of petrolia, ca:4.7": {
       "title": "M 4.7 - 100 km W of Petrolia, CA",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         18.7,
         15.7,
@@ -53361,18 +53364,20 @@
         15.7,
         15.7,
         15.7,
+        15.7,
         15.7
       ],
-      "rolling_average": 15.83,
+      "rolling_average": 15.82,
       "rolling_peak": 18.7,
       "last_score": 15.7,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "earthquake:m 4.8 - 98 km sw of port-vila, vanuatu:4.8": {
       "title": "M 4.8 - 98 km SW of Port-Vila, Vanuatu",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -53396,14 +53401,14 @@
         11.7,
         11.7
       ],
-      "rolling_average": 11.83,
+      "rolling_average": 11.82,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:chromeos-googlebook": {
       "title": "ChromeOSの後継Googlebook OSはウンコ💩やで",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -53427,18 +53432,20 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.23,
+      "rolling_average": 7.22,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "earthquake:m 5.4 - 99 km sse of pangai, tonga:5.4": {
       "title": "M 5.4 - 99 km SSE of Pangai, Tonga",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -53467,9 +53474,10 @@
     },
     "title:iij-web": {
       "title": "IIJ、新人エンジニア向け研修教材を無料公開 Web技術の基礎から生成AI活用まで20講義超",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -53498,7 +53506,7 @@
     },
     "earthquake:mid-atlantic ridge:5.6": {
       "title": "M 5.6 - southern Mid-Atlantic Ridge",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -53518,16 +53526,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.86,
+      "rolling_average": 11.85,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "domain:goldhead.hatenablog.com": {
       "title": "箱はよくできているのに羊がいないはてなパークスの現状について - 関内関外日記",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -53545,16 +53554,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.28,
+      "rolling_average": 7.27,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "title:developer-policy-update-transparency-state-policy-what-ahead": {
       "title": "Developer policy update: Transparency, state policy, and what’s ahead",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -53570,24 +53580,26 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.3,
+      "rolling_average": 8.29,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:gpt-sol-github-copilot": {
       "title": "GPT-6.1 Sol in GitHub Copilot",
-      "updated_at": "2026-09-29T18:31:42+00:00",
+      "updated_at": "2026-09-29T18:50:09+00:00",
       "network_scores": [
         23.1,
+        20.1,
         20.1
       ],
-      "rolling_average": 21.6,
+      "rolling_average": 21.1,
       "rolling_peak": 23.1,
       "last_score": 20.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     }
   }
 }
