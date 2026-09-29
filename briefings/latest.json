@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T23:00:05+00:00",
-  "run_id": "2026-09-29T23:00:05+00:00",
+  "generated_at": "2026-09-29T23:20:08+00:00",
+  "run_id": "2026-09-29T23:20:08+00:00",
   "date": "2026-09-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 93
+      "configured_public_sources_only": 94
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 93,
-    "displayed_findings": 93,
+    "new_relevant_findings": 1,
+    "today_file_total": 94,
+    "displayed_findings": 94,
     "high": 1,
     "medium": 38,
-    "observe": 54,
+    "observe": 55,
     "source_errors": 0
   },
   "sections": {
@@ -1159,6 +1159,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "71536efe2ba5cd59a4bc"
+      },
+      {
+        "title": "OpenAI、「24時間働く」エージェント「dots」発表 Astra搭載、クラウド上で常時稼働",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-29T18:51:02+00:00",
+        "fetched_at": "2026-09-29T23:19:38+00:00",
+        "summary": "米OpenAIは9月29日（現地時間）、常時稼働エージェント機能「dots」を発表した。同社のAIモデル「GPT-6 Astra」を搭載し、ユーザーが設定した目標に応じて、クラウド上のコンピュータで24時間自律的に稼働するとうたう。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a4f999d7aa97cde7fc0b"
       },
       {
         "title": "Bowman, Opening Remarks",
@@ -3431,6 +3453,28 @@
       "id": "71536efe2ba5cd59a4bc"
     },
     {
+      "title": "OpenAI、「24時間働く」エージェント「dots」発表 Astra搭載、クラウド上で常時稼働",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-29T18:51:02+00:00",
+      "fetched_at": "2026-09-29T23:19:38+00:00",
+      "summary": "米OpenAIは9月29日（現地時間）、常時稼働エージェント機能「dots」を発表した。同社のAIモデル「GPT-6 Astra」を搭載し、ユーザーが設定した目標に応じて、クラウド上のコンピュータで24時間自律的に稼働するとうたう。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a4f999d7aa97cde7fc0b"
+    },
+    {
       "title": "Bowman, Opening Remarks",
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm",
       "source": "Federal Reserve Speeches and Testimony",
@@ -4570,7 +4614,30 @@
       "id": "8c1e2d18022a183f2362"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "OpenAI、「24時間働く」エージェント「dots」発表 Astra搭載、クラウド上で常時稼働",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-29T18:51:02+00:00",
+      "fetched_at": "2026-09-29T23:19:38+00:00",
+      "summary": "米OpenAIは9月29日（現地時間）、常時稼働エージェント機能「dots」を発表した。同社のAIモデル「GPT-6 Astra」を搭載し、ユーザーが設定した目標に応じて、クラウド上のコンピュータで24時間自律的に稼働するとうたう。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a4f999d7aa97cde7fc0b"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
