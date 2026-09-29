@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-29T05:55:28+00:00_
+_Generated: 2026-09-29T06:09:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `22`
 
 ## Top Signals
 
@@ -15,46 +15,53 @@ _Generated: 2026-09-29T05:55:28+00:00_
 - url: https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/
 - summary: Bitcoin is down 1.05 per cent to US$83,491.07 in 24 hours. The total crypto market has fallen 1.49 per cent to US$2.86 trillion. My view is that this decline is not one single story. It is a two-part selloff in which a major security breach and a broader macr…
 
-### 2. Pgpool-IIにおける複数の脆弱性
+### 2. PFU製Image Scanner Driver for Linuxにおける複数の脆弱性
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-09-29T15:00:00+09:00`
+- url: https://jvn.jp/vu/JVNVU96968110/
+- summary: 株式会社PFUが提供するImage Scanner Driver for Linuxには、複数の脆弱性が存在します。
+
+### 3. Pgpool-IIにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-29T14:00:00+09:00`
 - url: https://jvn.jp/jp/JVN22475874/
 - summary: Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。
 
-### 3. Authlibライブラリにおける署名検証が回避される脆弱性
+### 4. Authlibライブラリにおける署名検証が回避される脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-29T09:15:00+09:00`
 - url: https://jvn.jp/vu/JVNVU99151548/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 4. Passing 1.5°C global warming: Performative ESG is no longer acceptable
+### 5. Passing 1.5°C global warming: Performative ESG is no longer acceptable
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-09-29T02:00:32+00:00`
 - url: https://e27.co/passing-1-5c-global-warming-performative-esg-is-no-longer-acceptable-20260927/
 - summary: The planet has already passed 1.5°C of warming against pre-industrial levels, or it’s very near. This isn’t fiction or a scam; it’s science and it’s existential. The 1.5°C target was set at the 2015 Paris Agreement after intense pressure from vulnerable islan…
 
-### 5. AI governance is moving from promises to proof
+### 6. AI governance is moving from promises to proof
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-09-29T01:00:42+00:00`
 - url: https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/
 - summary: For much of the past three years, the politics of artificial intelligence (AI) has revolved around relatively familiar questions. Will AI take jobs? Who owns the copyright to the material on which models are trained? Can companies protect personal data? And w…
 
-### 6. How we will do better for Australia
+### 7. How we will do better for Australia
 - source: OpenAI News RSS
 - score: `12`
 - published: `2026-09-29T01:00:00+00:00`
 - url: https://openai.com/index/how-we-will-do-better-for-australia
 - summary: OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.
 
-### 7. M 4.8 - South Sandwich Islands region
-- source: USGS M4.5+ Earthquakes Past Hour
+### 8. 第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました
+- source: Japan Digital Agency News RSS
 - score: `9`
-- published: `2026-09-29T04:33:51.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyab
-- summary: Time 2026-09-29 04:16:27 UTC 2026-09-29 04:16:27 UTC at epicenter Location 55.316°S 28.210°W Depth 35.08 km (21.80 mi)
+- published: `2026-09-29T06:00:00+00:00`
+- url: https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495
+- summary: 第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました
 
 END OF DOCUMENT
