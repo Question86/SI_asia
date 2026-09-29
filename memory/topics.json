@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-29T11:20:30+00:00",
+  "generated_at": "2026-09-29T11:32:48+00:00",
   "topics": {
     "ai": [
       {
@@ -170,11 +170,11 @@
         "url": "https://jvn.jp/jp/JVN22475874/"
       },
       {
-        "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen",
+        "title": "[UPDATE] [hoch] FreeRDP: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T11:16:32+00:00",
+        "published_at": "2026-09-29T11:21:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3547"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0111"
       }
     ],
     "geopolitics": [
@@ -221,6 +221,13 @@
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html"
       },
       {
+        "title": "[NEU] [hoch] IBM DataPower Gateway: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-29T11:21:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3623"
+      },
+      {
         "title": "[NEU] [mittel] PCRE (Perl Compatible Regular Expressions): Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-29T10:41:29+00:00",
@@ -240,13 +247,6 @@
         "published_at": "2026-09-29T10:41:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3620"
-      },
-      {
-        "title": "[NEU] [mittel] Octopus Deploy: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-29T10:26:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3615"
       }
     ],
     "general": [
