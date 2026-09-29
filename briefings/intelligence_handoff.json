@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-29T04:55:45Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “What I have learned watching foreign tech companies build in Singapore” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-09-29T05:15:46Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Pgpool-IIにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,59 @@
   ],
   "top_dynamics": [
     {
+      "title": "Pgpool-IIにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN22475874/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-29T14:00:00+09:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。"
+    },
+    {
+      "title": "Pgpool-IIにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN22475874/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-29T05:11:11+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "What I have learned watching foreign tech companies build in Singapore",
       "url": "https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:45:34+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [],
       "dynamics_score": 26.0,
       "raw_band": "strong",
@@ -39,7 +87,7 @@
       "url": "https://jvn.jp/vu/JVNVU99151548/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T09:15:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -65,7 +113,7 @@
       "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:37:41+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security",
         "macro",
@@ -92,7 +140,7 @@
       "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:45:34+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security",
         "disaster"
@@ -119,7 +167,7 @@
       "url": "https://jvn.jp/vu/JVNVU99151548/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T00:57:15+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -145,7 +193,7 @@
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-29T01:00:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -170,7 +218,7 @@
       "url": "https://e27.co/passing-1-5c-global-warming-performative-esg-is-no-longer-acceptable-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:26:11+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -190,11 +238,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.8 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyab",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-29T04:33:51.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-29 04:16:27 UTC 2026-09-29 04:16:27 UTC at epicenter Location 55.316°S 28.210°W Depth 35.08 km (21.80 mi)"
+    },
+    {
       "title": "M 5.3 - 76 km NE of Tadine, New Caledonia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-29T03:39:38.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -219,7 +292,7 @@
       "url": "https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:30:05+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -239,80 +312,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "When foreign technology companies first speak to me about Singapore, the conversation usually starts with one of three things: customers, talent or tax. Government funding often comes much later. That surprises me because Singapore has a sizeable ecosystem of grants, tax incentives and investment support available to…"
-    },
-    {
-      "title": "M 5.3 - 76 km NE of Tadine, New Caledonia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-29T03:41:06+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
-      "url": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-29T02:26:11+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AI governance is moving from promises to proof",
-      "url": "https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-29T01:29:35+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -324,8 +323,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 5
+      "strong": 9,
+      "watch": 3
     }
   }
 }
