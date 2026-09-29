@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-29T05:52:49Z",
+  "generated_at": "2026-09-29T06:25:34Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 34,
+    "dynamics": 40,
     "bands": {
-      "krass": 2,
-      "strong": 7,
-      "watch": 12,
+      "krass": 3,
+      "strong": 9,
+      "watch": 15,
       "quiet": 13
     },
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 12,
+      "strong": 12,
+      "watch": 15,
       "quiet": 13
     }
   },
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN22475874/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T14:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -43,11 +43,11 @@
       "summary": "Pgpool Global Development Groupが提供するPgpool-IIには、複数の脆弱性が存在します。"
     },
     {
-      "title": "Pgpool-IIにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN22475874/",
+      "title": "PFU製Image Scanner Driver for Linuxにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96968110/",
       "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-29T05:11:11+00:00",
-      "age_days": 0.03,
+      "published_at": "2026-09-29T06:09:43+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
@@ -57,12 +57,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -71,7 +71,7 @@
       "url": "https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:45:34+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [],
       "dynamics_score": 26.0,
       "raw_band": "strong",
@@ -91,11 +91,37 @@
       "summary": ""
     },
     {
+      "title": "PFU製Image Scanner Driver for Linuxにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96968110/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-29T15:00:00+09:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "株式会社PFUが提供するImage Scanner Driver for Linuxには、複数の脆弱性が存在します。"
+    },
+    {
       "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
       "url": "https://jvn.jp/vu/JVNVU99151548/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T09:15:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -121,7 +147,7 @@
       "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:37:41+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security",
         "macro",
@@ -148,7 +174,7 @@
       "url": "https://e27.co/can-bitcoin-hold-us82000-inside-the-security-fear-and-macro-storm-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:45:34+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security",
         "disaster"
@@ -175,7 +201,7 @@
       "url": "https://jvn.jp/vu/JVNVU99151548/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-29T00:57:15+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -201,7 +227,7 @@
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-29T01:00:00+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "security"
@@ -222,11 +248,60 @@
       "summary": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
     },
     {
+      "title": "WatchGuard AP: Befehlsschmuggel-Lücken und umgehbare Authentifizierung",
+      "url": "https://www.heise.de/news/WatchGuard-AP-Befehlsschmuggel-Luecken-und-umgehbare-Authentifizierung-11468944.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-09-29T05:57:00.000+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, auth",
+        "security high-signal: kritisch, auth"
+      ],
+      "summary": "WatchGuard warnt vor teils kritischen Sicherheitslücken in seinen Access-Points. Angreifer können die Authentifizierung umgehen und Befehle einschleusen."
+    },
+    {
+      "title": "Pgpool-IIにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN22475874/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-29T05:11:11+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Passing 1.5°C global warming: Performative ESG is no longer acceptable",
       "url": "https://e27.co/passing-1-5c-global-warming-performative-esg-is-no-longer-acceptable-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:26:11+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -250,7 +325,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyab",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-29T04:33:51.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -275,7 +350,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-29T03:39:38.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -300,7 +375,7 @@
       "url": "https://e27.co/what-i-have-learned-watching-foreign-tech-companies-build-in-singapore-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:30:05+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -322,11 +397,11 @@
       "summary": "When foreign technology companies first speak to me about Singapore, the conversation usually starts with one of three things: customers, talent or tax. Government funding often comes much later. That surprises me because Singapore has a sizeable ecosystem of grants, tax incentives and investment support available to…"
     },
     {
-      "title": "M 5.3 - 76 km NE of Tadine, New Caledonia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5",
+      "title": "M 4.8 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyab",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-29T03:41:06+00:00",
-      "age_days": 0.09,
+      "published_at": "2026-09-29T05:11:11+00:00",
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -346,11 +421,62 @@
       "summary": ""
     },
     {
+      "title": "M 5.3 - 76 km NE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tya5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-29T03:41:06+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "WatchGuard AP: Befehlsschmuggel-Lücken und umgehbare Authentifizierung",
+      "url": "https://www.heise.de/news/WatchGuard-AP-Befehlsschmuggel-Luecken-und-umgehbare-Authentifizierung-11468944.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 101.95,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.46,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.87,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 0.87",
+        "high terms: auth",
+        "aging penalty -8.0 for 101.9d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
       "url": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-29T02:26:11+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -374,7 +500,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260929-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-29T03:54:07+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -398,7 +524,7 @@
       "url": "https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T01:29:35+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -420,35 +546,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.8 - South Sandwich Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyab",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-29T05:11:11+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？",
       "url": "https://internet.watch.impress.co.jp/docs/special/2143427.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-29T00:57:15+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -472,7 +574,7 @@
       "url": "https://openai.com/index/how-we-will-do-better-for-australia",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 103.38,
+      "age_days": 103.4,
       "topics": [
         "general"
       ],
@@ -498,7 +600,7 @@
       "url": "https://e27.co/zuckerbergs-muse-charm-doesnt-care-about-your-ad-budget-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T03:22:15+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -518,11 +620,59 @@
       "summary": ""
     },
     {
+      "title": "令和8年度「病院情報システム等の刷新に向けた協議会」の構成員の追加募集（分科会C）を開始しました",
+      "url": "https://www.digital.go.jp/news/19b45883-978f-4424-929a-ee8fa5bc20e6",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-29T06:09:43+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "デジタル推進委員の取組について「ご協力いただいている企業・団体等の一覧」「地域で開催される講習会等の情報」を更新しました",
+      "url": "https://www.digital.go.jp/policies/digital_promotion_staff",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-29T06:09:43+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "エンジニアに抽象的に考える力が必要な理由ー課題を見つけるための私の習慣 - MonotaRO Tech Blog",
       "url": "https://tech-blog.monotaro.com/entry/2026/09/29/090000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T12:18:37+00:00",
-      "age_days": 25.73,
+      "age_days": 25.75,
       "topics": [
         "general"
       ],
@@ -538,7 +688,59 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -1.7 for 25.7d old signal"
+        "aging penalty -1.7 for 25.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "AIで地図アプリをたくさん作ったので話を聞いてほしい 地図好きが作る自分が本当に使いたかったアプリの数々",
+      "url": "https://dailyportalz.jp/kiji/ai-chizu-app-tsukutta",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-29T05:28:39+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
+      "url": "https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-29T06:09:43+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -547,7 +749,7 @@
       "url": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-28T23:36:42+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -567,37 +769,59 @@
       "summary": "2026 年、初めて自分の意思で VCS を選択した ふりかえると私にとって VCS（バージョン管理システム）は、会社に指定されたものを使ってきただけでした。それまでの会社では社内にサーバを立てて Subversion を使うことが多かった中、2011 年から働き出した会社では GitHub が導入されており、そのため個々のエンジニア..."
     },
     {
-      "title": "1982 Ventures joins Limited’s US$18.5M seed round to simplify cross-border business banking",
-      "url": "https://e27.co/1982-ventures-joins-limiteds-us18-5m-seed-round-to-simplify-cross-border-business-banking-20260929/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-29T05:28:39+00:00",
+      "title": "令和8年度「病院情報システム等の刷新に向けた協議会」の構成員の追加募集（分科会C）を開始しました",
+      "url": "https://www.digital.go.jp/news/19b45883-978f-4424-929a-ee8fa5bc20e6",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-29T06:00:00+00:00",
       "age_days": 0.02,
       "topics": [
-        "ai"
+        "general"
       ],
       "dynamics_score": 6.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "no strong comparative reason"
       ],
-      "summary": ""
+      "summary": "令和8年度「病院情報システム等の刷新に向けた協議会」の構成員の追加募集（分科会C）を開始しました"
+    },
+    {
+      "title": "デジタル推進委員の取組について「ご協力いただいている企業・団体等の一覧」「地域で開催される講習会等の情報」を更新しました",
+      "url": "https://www.digital.go.jp/policies/digital_promotion_staff",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-29T06:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "デジタル推進委員の取組について「ご協力いただいている企業・団体等の一覧」「地域で開催される講習会等の情報」を更新しました"
     },
     {
       "title": "古川大臣記者会見（令和8年9月29日）動画を追加しました",
       "url": "https://www.digital.go.jp/speech/minister-260929-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-29T03:44:02+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -617,11 +841,37 @@
       "summary": "古川大臣記者会見（令和8年9月29日）動画を追加しました"
     },
     {
+      "title": "1982 Ventures joins Limited’s US$18.5M seed round to simplify cross-border business banking",
+      "url": "https://e27.co/1982-ventures-joins-limiteds-us18-5m-seed-round-to-simplify-cross-border-business-banking-20260929/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-29T05:28:39+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Passing 1.5°C global warming: Performative ESG is no longer acceptable",
       "url": "https://e27.co/passing-1-5c-global-warming-performative-esg-is-no-longer-acceptable-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T02:00:32+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -646,7 +896,7 @@
       "url": "https://e27.co/ai-governance-is-moving-from-promises-to-proof-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T01:00:42+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -671,7 +921,7 @@
       "url": "https://tech-blog.monotaro.com/entry/2026/09/29/090000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-29T00:17:38+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -695,7 +945,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/special/2143427.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-28T22:05:37+00:00",
-      "age_days": 0.32,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -715,37 +965,11 @@
       "summary": "普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？"
     },
     {
-      "title": "AIで地図アプリをたくさん作ったので話を聞いてほしい 地図好きが作る自分が本当に使いたかったアプリの数々",
-      "url": "https://dailyportalz.jp/kiji/ai-chizu-app-tsukutta",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-29T05:28:39+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "1982 Ventures joins Limited’s US$18.5M seed round to simplify cross-border business banking",
       "url": "https://e27.co/1982-ventures-joins-limiteds-us18-5m-seed-round-to-simplify-cross-border-business-banking-20260929/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-29T05:24:48+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "infra"
@@ -773,11 +997,11 @@
       "url": "https://note.com/rk611/n/n56e6db823eb1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 28.47,
+      "age_days": 28.49,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 3.39,
+      "dynamics_score": 3.38,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -794,82 +1018,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "AIで地図アプリをたくさん作ったので話を聞いてほしい 地図好きが作る自分が本当に使いたかったアプリの数々",
-      "url": "https://dailyportalz.jp/kiji/ai-chizu-app-tsukutta",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-29T02:40:12+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "こんにちは。ライターの西村です。 最近、僕がAIで作ったwebアプリについて、プログラマーでライターの三土さん、デイリーポータルZ編集長の林さん、編集の石川さんに話を聞いてもらいました。 それではどうぞ。 まったく何もわからなくてもなんか作れるのすげえな 左から、筆者の西村、石川さん、三土さん、林さんです..."
-    },
-    {
-      "title": "AIでクオリティが落ちた外注さんが、自分では気づけてないという怖い話｜片山良平＠Eldipa代表、paiza創業者",
-      "url": "https://note.com/rk611/n/n56e6db823eb1",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-28T03:45:29+00:00",
-      "age_days": 1.09,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "先日会食で聞いた怖い話。 ある企業から依頼している外注さんが、AIを使い始めてから明らかにクオリティが下がっており、AIを使うなとも言いづらいし、修正依頼するもいまいち噛み合わず、やりづらいので終了しようと思う、という話でした。 気になったのはその先で、話を聞く限り、どうもその外注の方はAI使ってクオリ..."
-    },
-    {
-      "title": "Zuckerberg’s Muse Charm doesn’t care about your ad budget",
-      "url": "https://e27.co/zuckerbergs-muse-charm-doesnt-care-about-your-ad-budget-20260927/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-29T03:00:11+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: chain",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "This week at Meta Connect, Mark Zuckerberg held up something that looked like a toy. The Muse Charm is a keychain-sized gadget with a little animated avatar on its screen. You press it, talk to it, and your Muse agent gets to work. Meta says it will ship by December. The Muse agent behind it […] The post Zuckerberg’s…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Pgpool-IIにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
