@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-29T13:44:12+00:00_
+_Generiert: 2026-09-29T14:08:22+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+78 neue relevante Treffer. Stärkstes Signal: „Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,6 +37,10 @@ _Generiert: 2026-09-29T13:44:12+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568614)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, [unknown].
 - **GDACS: Green notification for tropical cyclone HANNA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001330)
   - Quelle: GDACS
   - Zeit: ``
@@ -49,10 +53,6 @@ _Generiert: 2026-09-29T13:44:12+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone RACHEL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.6 - southern Mid-Atlantic Ridge** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc3)
-  - Quelle: USGS
-  - Zeit: `2026-09-29T13:06:10+00:00`
-  - Kurz: M5.6 - southern Mid-Atlantic Ridge. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -243,6 +243,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); banking (+2.0); macro (+2.0); recent (+1.0); watchgraph region europe: London (+2.0)
   - Kurz: Speech by Sir David Ramsden, Deputy Governor for Markets and Banking of the Bank of England, at the Bank of England, co-hosted by the Money, Macro and Finance Society, London, 28 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **An update on AI and the economy** — Score 12, observation — [Quelle](https://www.bis.org/speeches/20260929-update-ai-and-economy)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-29T00:00:00+00:00`, fetched `2026-09-29T14:07:54+00:00`
+  - Treffer: AI/KI, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Opening keynote by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the Oakland Tech Week, cohosted by the Kapor Center, Oakland, California, 28 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 96 km ENE of Alianza Cristiana, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tybk)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-29T10:47:49.040+00:00`, fetched `2026-09-29T10:50:12+00:00`
@@ -296,15 +305,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは。ライターの西村です。 最近、僕がAIで作ったwebアプリについて、プログラマーでライターの三土さん、デイリーポータルZ編集長の林さん、編集の石川さんに話を聞いてもらいました。 それではどうぞ。 まったく何もわからなくてもなんか作れるのすげえな 左から、筆者の西村、石川さん、三土さん、林さんです...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Welcoming address - 30th anniversary of FAST** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260929-welcoming-address-30th-anniversary-fast)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-29T00:00:00+00:00`, fetched `2026-09-29T13:43:42+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: Welcoming address of Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), delivered by Mr Marzunisham Omar, Deputy Governor, at the Industry Appreciation Dinner commemorating the 30th anniversary of FAST, Kuala Lumpur, 9 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

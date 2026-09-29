@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T13:44:14+00:00",
+  "generated_at": "2026-09-29T14:08:24+00:00",
   "sections": {
     "global_security": [
       {
@@ -85,6 +85,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, [unknown].",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568614",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green notification for tropical cyclone HANNA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "summary": "Green notification for tropical cyclone HANNA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
@@ -111,21 +121,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001329",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.6 - southern Mid-Atlantic Ridge",
-        "summary": "M5.6 - southern Mid-Atlantic Ridge. PAGER alert: none. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyc3",
-        "published_at": "2026-09-29T13:06:10+00:00",
-        "metrics": {
-          "mag": 5.6,
-          "alert": "",
-          "sig": 482.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
