@@ -228,6 +228,29 @@
     "id": "4e3665ee545360827654"
   },
   {
+    "title": "[NEU] [mittel] Hazelcast: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3608",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-29T09:36:29+00:00",
+    "fetched_at": "2026-09-29T09:42:09+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Hazelcast ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ad50b15be779e5827139"
+  },
+  {
     "title": "Authlibライブラリにおける署名検証が回避される脆弱性",
     "url": "https://jvn.jp/vu/JVNVU99151548/",
     "source": "JVN Japan Vulnerability Notes",
