@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-30T02:38:54+00:00_
+_Generiert: 2026-09-30T02:57:23+00:00_
 
 ## A 20% stablecoin APY may be less magical than it sounds
 
