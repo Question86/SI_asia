@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-30T11:19:27+00:00",
+  "generated_at": "2026-09-30T11:31:57+00:00",
   "topics": {
     "ai": [
       {
@@ -114,11 +114,39 @@
         "url": "https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/"
       },
       {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (pki-core und dogtag-pki): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T11:16:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3662"
+      },
+      {
         "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-30T10:51:29+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3657"
+      },
+      {
+        "title": "[NEU] [mittel] OpenBSD: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T11:26:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3663"
+      },
+      {
+        "title": "[NEU] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T11:26:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3664"
+      },
+      {
+        "title": "[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Codeausführung und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T11:16:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3661"
       },
       {
         "title": "[NEU] [hoch] DENX U-Boot: Mehrere Schwachstellen",
@@ -140,34 +168,6 @@
         "published_at": "2026-09-30T10:51:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3656"
-      },
-      {
-        "title": "[NEU] [hoch] Hitachi Energy RTU500: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T10:51:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3658"
-      },
-      {
-        "title": "[UPDATE] [mittel] Ruby (CGI und URI gem): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T10:27:20+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0438"
-      },
-      {
-        "title": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-09-30T08:15:18+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html"
-      },
-      {
-        "title": "Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-30T00:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.bis.org/speeches/20260930-hearing-committee-economic-and-monetary-affairs-european-parliament"
       }
     ],
     "general": [
@@ -177,6 +177,13 @@
         "published_at": "2026-09-30T05:22:01.020+00:00",
         "relevance_score": 19,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk"
+      },
+      {
+        "title": "M 5.0 - 27 km N of Kupang, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-30T11:29:44.285+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyjb"
       },
       {
         "title": "M 4.5 - 112 km SSW of Banda Aceh, Indonesia",
@@ -233,16 +240,16 @@
         "published_at": "2026-09-30T01:35:08.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq"
-      },
-      {
-        "title": "令和8年熊本地震に関する対応状況について（9月30日）",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-09-30T09:19:45+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/news/8ee2e00d-6a81-452a-9191-7796fba0ae77"
       }
     ],
     "security": [
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (pki-core und dogtag-pki): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T11:16:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3662"
+      },
       {
         "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
@@ -279,39 +286,32 @@
         "url": "https://jvn.jp/vu/JVNVU90160989/"
       },
       {
+        "title": "[NEU] [mittel] OpenBSD: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T11:26:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3663"
+      },
+      {
+        "title": "[NEU] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T11:26:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3664"
+      },
+      {
+        "title": "[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Codeausführung und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T11:16:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3661"
+      },
+      {
         "title": "[NEU] [hoch] DENX U-Boot: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-30T11:01:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3660"
-      },
-      {
-        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T10:51:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3659"
-      },
-      {
-        "title": "[NEU] [mittel] CPython: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T10:51:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3656"
-      },
-      {
-        "title": "[NEU] [hoch] Hitachi Energy RTU500: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T10:51:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3658"
-      },
-      {
-        "title": "[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T10:27:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1472"
       }
     ],
     "economy": [
