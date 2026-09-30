@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T10:37:29+00:00_
+_Generiert: 2026-09-30T10:50:27+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+55 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -286,7 +286,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_taiwan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW
