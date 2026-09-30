@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T21:56:42+00:00_
+_Generiert: 2026-09-30T22:10:13+00:00_
 
 ## Kurzlage
 
-96 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+97 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,6 +61,10 @@ _Generiert: 2026-09-30T21:56:42+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone HANNA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **USGS earthquake M5.6 - 84 km SW of Tamarindo, Costa Rica** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tymj)
+  - Quelle: USGS
+  - Zeit: `2026-09-30T21:55:27+00:00`
+  - Kurz: M5.6 - 84 km SW of Tamarindo, Costa Rica. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
