@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T08:32:18+00:00_
+_Generiert: 2026-09-30T08:52:49+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+45 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -315,7 +315,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_japan_hot` (rss): 503 Server Error: Service Unavailable for url: https://trends.google.co.jp/trending/rss?geo=JP
