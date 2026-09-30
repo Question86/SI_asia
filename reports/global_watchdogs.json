@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-30T17:03:28+00:00",
+  "generated_at": "2026-09-30T17:23:29+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-76504 Cisco Catalyst SD-WAN Manager",
+        "summary": "Known exploited vulnerability. Added 2026-09-30. Due 2026-10-03. Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-30",
+        "metrics": {
+          "cve": "CVE-2026-76504"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -48,18 +60,6 @@
         "published_at": "2026-09-25",
         "metrics": {
           "cve": "CVE-2026-67279"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-65660 Microsoft SharePoint",
-        "summary": "Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. Microsoft SharePoint Code Injection Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-25",
-        "metrics": {
-          "cve": "CVE-2026-65660"
         }
       },
       {

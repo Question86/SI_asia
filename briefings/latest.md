@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T17:03:25+00:00_
+_Generiert: 2026-09-30T17:23:26+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+85 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-76504 Cisco Catalyst SD-WAN Manager** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-30`
+  - Kurz: Known exploited vulnerability. Added 2026-09-30. Due 2026-10-03. Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability
 - **CISA KEV: CVE-2026-86950 Apple Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-29`
@@ -25,10 +29,6 @@ _Generiert: 2026-09-30T17:03:25+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-25`
   - Kurz: Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability
-- **CISA KEV: CVE-2026-65660 Microsoft SharePoint** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-25`
-  - Kurz: Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. Microsoft SharePoint Code Injection Vulnerability
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
@@ -251,6 +251,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Japan’s education companies are increasingly looking beyond a home market shaped by a shrinking population. Kawaijuku, one of the country’s larger private education providers, is taking a venture-capital route into Vietnam. KJ Holdings, the holding company of the Japanese education group, has invested in Do Ventures Fund II, a fund managed by Ho Chi Minh […] The post Japan’s Kawaijuku backs Do Ventures to enter Viet…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Advanced Security trials for GitHub Team** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-30T16:48:24+00:00`, fetched `2026-09-30T17:22:54+00:00`
+  - Treffer: GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); GitHub (+2.5); recent (+1.0)
+  - Kurz: GitHub Team customers can now start self-serve trials of GitHub Advanced Security to evaluate GitHub Code Security and GitHub Secret Protection. Start a trial from your organization’s Overview page, Billing… The post GitHub Advanced Security trials for GitHub Team appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Helping small businesses put AI to work** — Score 11, observation — [Quelle](https://openai.com/index/helping-small-businesses-put-ai-to-work)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-09-30T10:00:00+00:00`, fetched `2026-09-30T16:02:32+00:00`
@@ -331,15 +340,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
   - Kurz: Special address by Dr Poonam Gupta, Deputy Governor of the Reserve Bank of India, at the 13th SBI (State Bank of India) Banking and Economics Conclave, Mumbai, 23 September 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans les produits Mattermost (21 septembre 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1207/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-09-21T00:00:00+00:00`, fetched `2026-09-30T13:00:34+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
