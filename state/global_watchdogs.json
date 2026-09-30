@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:51:02+00:00",
+  "generated_at": "2026-09-30T22:58:43+00:00",
   "sections": {
     "global_security": [
       {
@@ -95,8 +95,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 20 thousand in 100km.",
-        "summary": "Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 20 thousand in 100km.",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 40 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 40 thousand in MMI IV.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568826",
         "published_at": "",
@@ -141,21 +141,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568614",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.6 - 94 km SW of Tamarindo, Costa Rica",
-        "summary": "M5.6 - 94 km SW of Tamarindo, Costa Rica. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tymj",
-        "published_at": "2026-09-30T21:55:26+00:00",
-        "metrics": {
-          "mag": 5.6,
-          "alert": "green",
-          "sig": 483.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
