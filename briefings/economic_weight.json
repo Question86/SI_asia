@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-30T01:19:08+00:00",
+  "generated_at": "2026-09-30T01:49:43+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -5489,6 +5489,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ad5303aa2494fa4b2764",
+      "title": "M 4.8 - 75 km NE of Tadine, New Caledonia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-30T01:49:27+00:00",
+      "last_seen_at": "2026-09-30T01:49:27+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -5587,7 +5604,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-30T01:18:49+00:00",
+      "last_seen_at": "2026-09-30T01:49:27+00:00",
       "status": "active"
     },
     {
@@ -8787,6 +8804,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ee3208ff8adcb47c8f60",
+      "title": "The cross-border due diligence questions most founders cannot answer",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-30T01:18:49+00:00",
+      "last_seen_at": "2026-09-30T01:49:27+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f03fd6fe5f7cf036777d",
       "title": "OpenAI hires former Elastic and Snowflake exec Sanjay Deshmukh to lead Asia Pacific sales",
       "event_classes": [
@@ -8802,23 +8836,6 @@
       "first_seen_at": "2026-09-15T05:35:26+00:00",
       "last_seen_at": "2026-09-15T23:55:14+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_ee3208ff8adcb47c8f60",
-      "title": "The cross-border due diligence questions most founders cannot answer",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 115200.0,
-      "p50_usd": 11520000.0,
-      "p90_usd": 1152000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-30T01:18:49+00:00",
-      "last_seen_at": "2026-09-30T01:18:49+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",
@@ -10126,7 +10143,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T00:30:10+00:00",
-      "last_seen_at": "2026-09-30T01:18:49+00:00",
+      "last_seen_at": "2026-09-30T01:49:27+00:00",
       "status": "active"
     },
     {
@@ -11879,6 +11896,23 @@
       "first_seen_at": "2026-09-28T06:50:23+00:00",
       "last_seen_at": "2026-09-28T18:49:20+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_44dac8b624fa73687a4d",
+      "title": "Why AI could unbundle the beauty industry",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-30T01:49:27+00:00",
+      "last_seen_at": "2026-09-30T01:49:27+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_09036b8b28293de638ea",
@@ -15788,8 +15822,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-09-27T23:53:06+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-30T01:49:27+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_22f46873227d88b36a11",
