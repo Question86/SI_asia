@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T05:49:53+00:00",
-  "run_id": "2026-09-30T05:49:53+00:00",
+  "generated_at": "2026-09-30T05:58:28+00:00",
+  "run_id": "2026-09-30T05:58:28+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 1,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
     "medium": 8,
-    "observe": 12,
+    "observe": 13,
     "source_errors": 0
   },
   "sections": {
@@ -349,6 +349,27 @@
           "EWZ"
         ],
         "id": "9966489f99dfac44acce"
+      },
+      {
+        "title": "MoneyHero shareholder urges board to explore sale after stock slump",
+        "url": "https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-30T05:51:23+00:00",
+        "fetched_at": "2026-09-30T05:58:00+00:00",
+        "summary": "MoneyHero Limited is facing a public push from its largest unaffiliated shareholder to consider a sale, as the Singapore-based personal finance platform contends with leadership uncertainty, stalled revenue growth and a sharp fall in its Nasdaq-listed shares. Jonathan Honig, who says he beneficially owns about 9 per cent of MoneyHero’s outstanding Class A ordinary shares, […] The post MoneyHero shareholder urges boa…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Public Health"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6b4e7257fe5d2ade41db"
       },
       {
         "title": "オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab",
@@ -912,6 +933,27 @@
       "id": "9966489f99dfac44acce"
     },
     {
+      "title": "MoneyHero shareholder urges board to explore sale after stock slump",
+      "url": "https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-30T05:51:23+00:00",
+      "fetched_at": "2026-09-30T05:58:00+00:00",
+      "summary": "MoneyHero Limited is facing a public push from its largest unaffiliated shareholder to consider a sale, as the Singapore-based personal finance platform contends with leadership uncertainty, stalled revenue growth and a sharp fall in its Nasdaq-listed shares. Jonathan Honig, who says he beneficially owns about 9 per cent of MoneyHero’s outstanding Class A ordinary shares, […] The post MoneyHero shareholder urges boa…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Public Health"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6b4e7257fe5d2ade41db"
+    },
+    {
       "title": "オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab",
       "url": "https://tech-lab.sios.jp/archives/54936",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1151,7 +1193,29 @@
       "id": "d656d83316676b7ff635"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "MoneyHero shareholder urges board to explore sale after stock slump",
+      "url": "https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-30T05:51:23+00:00",
+      "fetched_at": "2026-09-30T05:58:00+00:00",
+      "summary": "MoneyHero Limited is facing a public push from its largest unaffiliated shareholder to consider a sale, as the Singapore-based personal finance platform contends with leadership uncertainty, stalled revenue growth and a sharp fall in its Nasdaq-listed shares. Jonathan Honig, who says he beneficially owns about 9 per cent of MoneyHero’s outstanding Class A ordinary shares, […] The post MoneyHero shareholder urges boa…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Public Health"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6b4e7257fe5d2ade41db"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

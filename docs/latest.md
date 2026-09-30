@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T05:49:53+00:00_
+_Generiert: 2026-09-30T05:58:28+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 74 km S of Yonakuni, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+21 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 74 km S of Yonakuni, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Japan’s education companies are increasingly looking beyond a home market shaped by a shrinking population. Kawaijuku, one of the country’s larger private education providers, is taking a venture-capital route into Vietnam. KJ Holdings, the holding company of the Japanese education group, has invested in Do Ventures Fund II, a fund managed by Ho Chi Minh […] The post Japan’s Kawaijuku backs Do Ventures to enter Viet…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **MoneyHero shareholder urges board to explore sale after stock slump** — Score 11, observation — [Quelle](https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-30T05:51:23+00:00`, fetched `2026-09-30T05:58:00+00:00`
+  - Treffer: APAC Trend Radar, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: MoneyHero Limited is facing a public push from its largest unaffiliated shareholder to consider a sale, as the Singapore-based personal finance platform contends with leadership uncertainty, stalled revenue growth and a sharp fall in its Nasdaq-listed shares. Jonathan Honig, who says he beneficially owns about 9 per cent of MoneyHero’s outstanding Class A ordinary shares, […] The post MoneyHero shareholder urges boa…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab** — Score 11, observation — [Quelle](https://tech-lab.sios.jp/archives/54936)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-29T23:26:36+00:00`, fetched `2026-09-30T00:29:35+00:00`
@@ -113,15 +122,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)
   - Kurz: A new beauty brand no longer needs to look much like a traditional beauty company. It does not need its own factory, a large product-development department or a nationwide retail network. Specialist manufacturers can formulate, produce and package cosmetics for outside brands, while e-commerce provides access to customers without building physical distribution from scratch. AI […] The post Why AI could unbundle the…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push** — Score 9, observation — [Quelle](https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-30T04:43:04+00:00`, fetched `2026-09-30T04:48:39+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: Malaysia Digital Economy Corporation (MDEC) CEO Anuar Fariz Fadzil will leave the national digital-economy agency when his current contract ends on 2 October 2026, closing a two-year tenure marked by a sharper focus on artificial intelligence, high-value investment and measurable economic outcomes. MDEC said in a statement that Anuar had informed its board he would […] The post MDEC chief Anuar Fariz Fadzil to exit…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 75 km NE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

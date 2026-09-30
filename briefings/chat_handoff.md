@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T05:49:53+00:00_
+_Generated: 2026-09-30T05:58:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `21`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-30T05:49:53+00:00_
 - url: https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/
 - summary: Japan’s education companies are increasingly looking beyond a home market shaped by a shrinking population. Kawaijuku, one of the country’s larger private education providers, is taking a venture-capital route into Vietnam. KJ Holdings, the holding company of…
 
-### 7. オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
+### 7. MoneyHero shareholder urges board to explore sale after stock slump
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-09-30T05:51:23+00:00`
+- url: https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/
+- summary: MoneyHero Limited is facing a public push from its largest unaffiliated shareholder to consider a sale, as the Singapore-based personal finance platform contends with leadership uncertainty, stalled revenue growth and a sharp fall in its Nasdaq-listed shares.…
+
+### 8. オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-29T23:26:36+00:00`
 - url: https://tech-lab.sios.jp/archives/54936
 - summary: 手元のボタンを見るだけで、どの Claude Code が作業中で、どれが確認待ちで、どれが終わったのかが一目で分かる。 ボタンを押せば、そのターミナルに一発で飛べる。 作業が終わったら、ずんだもんが「何をやって、次に何をすればいいか」を声で教えてくれる。 そんな作業環境をStream Deckとherdr、ローカルLLM、そして...
-
-### 8. Why AI could unbundle the beauty industry
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-09-30T01:30:28+00:00`
-- url: https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/
-- summary: A new beauty brand no longer needs to look much like a traditional beauty company. It does not need its own factory, a large product-development department or a nationwide retail network. Specialist manufacturers can formulate, produce and package cosmetics f…
 
 END OF DOCUMENT
