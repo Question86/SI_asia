@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-30T05:42:01Z_
+_Generated: 2026-09-30T05:53:14Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “富士フイルムビジネスイノベ�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-30T12:30:00+09:00` / age_days `0.09`
+- Published: `2026-09-30T12:30:00+09:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “富士フイルムビジネスイノベ�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-30T02:08:50+00:00` / age_days `0.15`
+- Published: `2026-09-30T02:08:50+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “富士フイルムビジネスイノベ�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-30T03:19:39+00:00` / age_days `0.1`
+- Published: `2026-09-30T03:19:39+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “富士フイルムビジネスイノベ�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-30T09:00:00+09:00` / age_days `0.24`
+- Published: `2026-09-30T09:00:00+09:00` / age_days `0.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “富士フイルムビジネスイノベ�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-30T01:30:28+00:00` / age_days `0.17`
+- Published: `2026-09-30T01:30:28+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “富士フイルムビジネスイノベ�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-30T02:00:34+00:00` / age_days `0.15`
+- Published: `2026-09-30T02:00:34+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “富士フイルムビジネスイノベ�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-30T02:57:23+00:00` / age_days `0.11`
+- Published: `2026-09-30T02:57:23+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, krass gate: single-source non-official/non-identity signal capped
@@ -82,17 +82,27 @@ Stärkste Dynamik nach Gate-Recheck: “富士フイルムビジネスイノベ�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-30T05:22:01.020+00:00` / age_days `0.01`
+- Published: `2026-09-30T05:22:01.020+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, krass gate: single-source non-official/non-identity signal capped
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk
+
+### M 5.6 - 74 km S of Yonakuni, Japan
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `24.0`
+- Published: `2026-09-30T05:23:03+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +2
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk
 
 ### Why social commerce seeding is replacing upfront influencer retainers
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-30T03:00:25+00:00` / age_days `0.11`
+- Published: `2026-09-30T03:00:25+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “富士フイルムビジネスイノベ�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-30T03:41:38+00:00` / age_days `0.08`
+- Published: `2026-09-30T03:41:38+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “富士フイルムビジネスイノベ�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-30T01:18:49+00:00` / age_days `0.18`
+- Published: `2026-09-30T01:18:49+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/
-
-### M 4.5 - 104 km SSE of Sarangani, Philippines
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-09-30T02:52:39.040+00:00` / age_days `0.12`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz
 
 END OF DOCUMENT
