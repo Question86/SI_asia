@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T01:18:46+00:00_
+_Generated: 2026-09-30T01:49:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `6`
 
 ## Top Signals
 
@@ -28,5 +28,26 @@ _Generated: 2026-09-30T01:18:46+00:00_
 - published: `2026-09-29T23:26:36+00:00`
 - url: https://tech-lab.sios.jp/archives/54936
 - summary: 手元のボタンを見るだけで、どの Claude Code が作業中で、どれが確認待ちで、どれが終わったのかが一目で分かる。 ボタンを押せば、そのターミナルに一発で飛べる。 作業が終わったら、ずんだもんが「何をやって、次に何をすればいいか」を声で教えてくれる。 そんな作業環境をStream Deckとherdr、ローカルLLM、そして...
+
+### 4. Why AI could unbundle the beauty industry
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-09-30T01:30:28+00:00`
+- url: https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/
+- summary: A new beauty brand no longer needs to look much like a traditional beauty company. It does not need its own factory, a large product-development department or a nationwide retail network. Specialist manufacturers can formulate, produce and package cosmetics f…
+
+### 5. M 4.8 - 75 km NE of Tadine, New Caledonia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-09-30T01:35:08.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq
+- summary: Time 2026-09-30 01:17:47 UTC 2026-09-30 01:17:47 UTC at epicenter Location 21.009°S 168.328°E Depth 10.00 km (6.21 mi)
+
+### 6. タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-09-29T23:47:03+00:00`
+- url: https://togetter.com/li/2752131
+- summary: AIと人事に苦しむマーモット @Duetousandyou トッパン「タイムズがデカいのやらかしたぞ！！ 今のうちにリリースしろ！！」 レゴランド「俺も！」 日本郵便「俺も！」 京王グループ「俺も！」 東京メトロ「俺も！」 イープラス「俺も！」 ニッポンレンタカー「俺も！」 スターツ出版「俺も！」 セコマ「俺も！」 集英社...
 
 END OF DOCUMENT

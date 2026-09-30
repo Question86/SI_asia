@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-30T01:18:49+00:00",
+  "generated_at": "2026-09-30T01:49:27+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2810,7 +2810,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）",
-      "updated_at": "2026-09-30T01:18:49+00:00",
+      "updated_at": "2026-09-30T01:49:27+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2839,8 +2839,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1
       ],
       "rolling_average": 18.2,
@@ -5022,10 +5022,9 @@
       "z_hint": 0.0
     },
     "domain:togetter.com": {
-      "title": "UIの本に「長押しの機能はユーザが気づきにくいよ」って書いてあって、ふ～んって思いながら部屋の照明のボタン長押ししたら、白からオレンジになった「お前もかよ」",
-      "updated_at": "2026-09-28T23:58:45+00:00",
+      "title": "タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」",
+      "updated_at": "2026-09-30T01:49:27+00:00",
       "network_scores": [
-        14.1,
         14.1,
         14.1,
         14.1,
@@ -5054,12 +5053,13 @@
         7.1,
         7.1,
         7.1,
-        7.1
+        7.1,
+        10.1
       ],
-      "rolling_average": 12.92,
+      "rolling_average": 12.79,
       "rolling_peak": 19.2,
-      "last_score": 7.1,
-      "z_hint": -5.82
+      "last_score": 10.1,
+      "z_hint": -2.69
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -53914,25 +53914,49 @@
     },
     "title:claude-code-stream-deck-herdr-sios-tech-lab": {
       "title": "オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab",
-      "updated_at": "2026-09-30T01:18:49+00:00",
+      "updated_at": "2026-09-30T01:49:27+00:00",
       "network_scores": [
         16.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 14.6,
+      "rolling_average": 14.1,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:cross-border-due-diligence-questions-most-founders-cannot": {
       "title": "The cross-border due diligence questions most founders cannot answer",
-      "updated_at": "2026-09-30T01:18:49+00:00",
+      "updated_at": "2026-09-30T01:49:27+00:00",
       "network_scores": [
-        19.1
+        19.1,
+        16.1
       ],
-      "rolling_average": 19.1,
+      "rolling_average": 17.6,
       "rolling_peak": 19.1,
-      "last_score": 19.1,
+      "last_score": 16.1,
+      "z_hint": -1.5
+    },
+    "title:why-could-unbundle-beauty-industry": {
+      "title": "Why AI could unbundle the beauty industry",
+      "updated_at": "2026-09-30T01:49:27+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "earthquake:m 4.8 - 75 km ne of tadine, new caledonia:4.8": {
+      "title": "M 4.8 - 75 km NE of Tadine, New Caledonia",
+      "updated_at": "2026-09-30T01:49:27+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
       "z_hint": 0.0
     }
   }

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T01:18:46+00:00_
+_Generiert: 2026-09-30T01:49:25+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+6 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -94,6 +94,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 手元のボタンを見るだけで、どの Claude Code が作業中で、どれが確認待ちで、どれが終わったのかが一目で分かる。 ボタンを押せば、そのターミナルに一発で飛べる。 作業が終わったら、ずんだもんが「何をやって、次に何をすればいいか」を声で教えてくれる。 そんな作業環境をStream Deckとherdr、ローカルLLM、そして...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why AI could unbundle the beauty industry** — Score 10, observation — [Quelle](https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-30T01:30:28+00:00`, fetched `2026-09-30T01:48:57+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)
+  - Kurz: A new beauty brand no longer needs to look much like a traditional beauty company. It does not need its own factory, a large product-development department or a nationwide retail network. Specialist manufacturers can formulate, produce and package cosmetics for outside brands, while e-commerce provides access to customers without building physical distribution from scratch. AI […] The post Why AI could unbundle the…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 75 km NE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-30T01:35:08.040+00:00`, fetched `2026-09-30T01:48:57+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-30 01:17:47 UTC 2026-09-30 01:17:47 UTC at epicenter Location 21.009°S 168.328°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」** — Score 5, observation — [Quelle](https://togetter.com/li/2752131)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-29T23:47:03+00:00`, fetched `2026-09-30T01:48:57+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: AIと人事に苦しむマーモット @Duetousandyou トッパン「タイムズがデカいのやらかしたぞ！！ 今のうちにリリースしろ！！」 レゴランド「俺も！」 日本郵便「俺も！」 京王グループ「俺も！」 東京メトロ「俺も！」 イープラス「俺も！」 ニッポンレンタカー「俺も！」 スターツ出版「俺も！」 セコマ「俺も！」 集英社...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
