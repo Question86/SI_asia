@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-30T10:34:02Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “富士フイルムビジネスイノベーション製およびシャープ製複合機（MFP）におけるパストラバーサルの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-09-30T10:52:59Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,35 +11,11 @@
   ],
   "top_dynamics": [
     {
-      "title": "富士フイルムビジネスイノベーション製およびシャープ製複合機（MFP）におけるパストラバーサルの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU90160989/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-30T12:30:00+09:00",
-      "age_days": 0.29,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "富士フイルムビジネスイノベーション製およびシャープ製の複合機（MFP）には、パストラバーサルの脆弱性が存在します。"
-    },
-    {
       "title": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 103.83,
+      "age_days": 103.85,
       "topics": [
         "general"
       ],
@@ -50,13 +26,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 6.67,
+      "baseline_z_hint": 6.4,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 6.67",
+        "baseline z_hint 6.40",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 103.8d old signal",
@@ -69,7 +45,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html",
       "source": "TWCERT/CC Security News RSS, TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 102.96,
+      "age_days": 102.98,
       "topics": [
         "general"
       ],
@@ -80,13 +56,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.08,
+      "baseline_z_hint": 6.4,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 7.08",
+        "baseline z_hint 6.40",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 103.0d old signal",
@@ -99,7 +75,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-30T07:34:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -127,7 +103,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3588",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T10:10:13+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -153,7 +129,7 @@
       "url": "https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T03:19:39+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -180,7 +156,7 @@
       "url": "https://restofworld.org/2026/ai-safety-independent-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-30T10:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -202,11 +178,36 @@
       "summary": "At a Rest of World event in New York last week, speakers explored how countries sidelined by the U.S.-China race can retain some control over safety standards as they adopt models from OpenAI, Anthropic, and others."
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0461",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-30T10:27:21+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und um nicht näher spezifizierte Auswirkungen zu erzielen."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）",
       "url": "https://jvn.jp/vu/JVNVU93754811/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T09:00:00+09:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -231,7 +232,7 @@
       "url": "https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:30:28+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -257,7 +258,7 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T07:01:07+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -284,7 +285,7 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T07:00:37+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -310,7 +311,7 @@
       "url": "https://www.bis.org/speeches/20260930-hearing-committee-economic-and-monetary-affairs-european-parliament",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 103.83,
+      "age_days": 103.85,
       "topics": [
         "ai"
       ],
@@ -321,12 +322,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.25,
+      "baseline_z_hint": 2.04,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.25",
+        "baseline z_hint 2.04",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 103.8d old signal",
