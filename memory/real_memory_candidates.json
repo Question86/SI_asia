@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-09-30T08:48:19Z",
+  "generated_at": "2026-09-30T09:15:59Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -23,12 +23,12 @@
   ],
   "current_dynamic_memory_candidates": [
     {
-      "title": "PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行",
+      "title": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
       "band": "extreme",
       "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
     },
     {
-      "title": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
+      "title": "PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行",
       "band": "extreme",
       "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
     },
@@ -43,12 +43,12 @@
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
-      "title": "Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）",
+      "title": "Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
@@ -59,8 +59,8 @@
     },
     {
       "title": "NVIDIA/OpenShell",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+      "band": "extreme",
+      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
     }
   ]
 }
