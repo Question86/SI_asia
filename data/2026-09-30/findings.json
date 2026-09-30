@@ -156,6 +156,28 @@
     "id": "b7ece181adf7b457b97f"
   },
   {
+    "title": "富士フイルムビジネスイノベーション製およびシャープ製複合機（MFP）におけるパストラバーサルの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU90160989/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-09-30T12:30:00+09:00",
+    "fetched_at": "2026-09-30T03:41:03+00:00",
+    "summary": "富士フイルムビジネスイノベーション製およびシャープ製の複合機（MFP）には、パストラバーサルの脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bc51af9f3b65410ee923"
+  },
+  {
     "title": "The cross-border due diligence questions most founders cannot answer",
     "url": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -319,6 +341,27 @@
     "id": "e09de1dfc9f88a9df15f"
   },
   {
+    "title": "ドラッグ＆ドロップ操作ミスで……TOPPAN、損保ジャパン契約者17万人分のデータを他社に誤送付",
+    "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001870/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-29T23:54:48+00:00",
+    "fetched_at": "2026-09-30T03:41:03+00:00",
+    "summary": "誤送付されたデータは、カナ氏名と、保険料控除用証券番号、業務IDの3項目。証券番号は損保ジャパン固有の識別番号で、第三者がこの番号だけで個人や契約内容を特定・照会できない。業務IDは、控除証明書の発行年、損害保険会社の識別番号、対象契約の証券番号を組み合わせた、証明書単位のユニークキー。 漢字氏名や住...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "575846eda4feb8d6a846"
+  },
+  {
     "title": "タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」",
     "url": "https://togetter.com/li/2752131",
     "source": "Hatena Bookmark Hotentry IT",
@@ -338,5 +381,40 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ec5e9405fc29e393725a"
+  },
+  {
+    "title": "The sovereign shift: Why nation states are trading gold for Bitcoin",
+    "url": "https://e27.co/the-sovereign-shift-why-nation-states-are-trading-gold-for-bitcoin-20260930/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-30T03:38:35+00:00",
+    "fetched_at": "2026-09-30T03:41:03+00:00",
+    "summary": "Bitcoin shifts from a speculative retail asset to an institutional cornerstone of global finance. Recent developments in sovereign wealth fund allocations, the creation of institutional financial products, and massive ETF inflows demonstrate a profound structural shift. The data reveals a market maturing rapidly, even as it grapples with inherent tensions between traditional financial co-option and […] The post The…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Watchgraph:agriculture_food_fertilizer"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "agriculture_food_fertilizer"
+    ],
+    "watchgraph_reasons": [
+      "agriculture_food_fertilizer: corn"
+    ],
+    "market_context": [
+      "ADM",
+      "BG",
+      "DE",
+      "NTR",
+      "CF",
+      "MOS",
+      "wheat",
+      "corn",
+      "soy"
+    ],
+    "id": "d656d83316676b7ff635"
   }
 ]
