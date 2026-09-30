@@ -1,12 +1,13 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-30T06:35:00+00:00`
+Generated: `2026-09-30T07:01:24+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
 | Event | Class | P10 | P50 | P90 | Confidence |
 |---|---|---:|---:|---:|---:|
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | natural_disaster, conflict | $122.40M | $12.24B | $1.22T | 0.31 |
+| mvschwarz/openrig | conflict | $122.40M | $12.24B | $1.22T | 0.31 |
 | Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software | conflict | $121.60M | $12.16B | $1.22T | 0.31 |
 | GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. | regulation, conflict | $120.00M | $12.00B | $1.20T | 0.31 |
 | anomalyco/opencode | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-30T06:35:00+00:00`
 | Gitlawb/openclaude | regulation | $12.00M | $1.20B | $120.00B | 0.31 |
 | The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T | regulation | $11.92M | $1.19B | $119.20B | 0.31 |
 | bilawalsidhu/gods-eye-view | regulation, natural_disaster | $11.92M | $1.19B | $119.20B | 0.31 |
-| Who’s building AI for the way Southeast Asia actually speaks? | regulation | $11.84M | $1.18B | $118.40B | 0.31 |
 
 ## Interpretation
 
