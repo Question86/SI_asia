@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T06:34:37+00:00_
+_Generated: 2026-09-30T07:01:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `28`
 
 ## Top Signals
 
-### 1. M 5.6 - 74 km S of Yonakuni, Japan
+### 1. mvschwarz/openrig
+- source: GitHub Trending RSS All Languages Daily
+- score: `23`
+- published: `None`
+- url: https://github.com/mvschwarz/openrig
+- summary: Multi-agent harness that runs Claude Code and Codex together as one system https://openrig.dev OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, manage…
+
+### 2. NVIDIA/OpenShell
+- source: GitHub Trending RSS All Languages Daily
+- score: `21`
+- published: `None`
+- url: https://github.com/NVIDIA/OpenShell
+- summary: OpenShell is the safe, private runtime for autonomous AI agents. https://docs.nvidia.com/openshell/latest/ Important New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrad…
+
+### 3. M 5.6 - 74 km S of Yonakuni, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-09-30T05:22:01.020+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-30 05:00:24 UTC 2026-09-30 05:00:24 UTC at epicenter Location 23.803°N 122.915°E Depth 10.79 km (6.71 mi)
 
-### 2. A 20% stablecoin APY may be less magical than it sounds
+### 4. A 20% stablecoin APY may be less magical than it sounds
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-09-30T02:00:34+00:00`
 - url: https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/
 - summary: CPF Ordinary Account pays 2.5 per cent, and Singaporeans queue for Treasury bills when yields rise. So when anyone quotes a 20 per cent annual percentage yield on stablecoins, a sensible person should ask one question first: who is paying it, and why? I ask b…
-
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-09-30T09:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU93754811/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. M 4.5 - 112 km SSW of Banda Aceh, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-30T03:01:50.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0
-- summary: Time 2026-09-30 02:35:50 UTC 2026-09-30 02:35:50 UTC at epicenter Location 4.649°N 94.852°E Depth 33.87 km (21.05 mi)
 
 ### 5. M 5.4 - Balleny Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
