@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-30T08:20:41Z",
+  "generated_at": "2026-09-30T08:48:19Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "extreme": 2,
-      "krass": 4,
-      "strong": 23,
-      "watch": 11
+      "extreme": 3,
+      "krass": 5,
+      "strong": 24,
+      "watch": 8
     },
     "bands_after_gate_recheck": {
-      "strong": 29,
-      "watch": 11
+      "strong": 31,
+      "watch": 9
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T05:23:03+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -46,7 +46,7 @@
       "url": "https://jvn.jp/vu/JVNVU90160989/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T12:30:00+09:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -70,7 +70,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11248-91041-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-30T07:38:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T02:08:50+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -115,35 +115,11 @@
       "summary": ""
     },
     {
-      "title": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-30T07:01:07+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 25.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html",
-      "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 103.74,
+      "title": "PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行",
+      "url": "https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html",
+      "source": "TWCERT/CC Security News RSS, TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-06-19T11:28:55+00:00",
+      "age_days": 102.89,
       "topics": [
         "general"
       ],
@@ -154,16 +130,46 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 10.76,
+      "baseline_z_hint": 15.46,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 10.76",
+        "baseline z_hint 15.46",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 103.7d old signal",
+        "aging penalty -8.0 for 102.9d old signal",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html",
+      "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 103.76,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 2,
+      "momentum_delta": 3,
+      "baseline_z_hint": 7.63,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "source breadth +2",
+        "momentum delta +3",
+        "baseline z_hint 7.63",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 103.8d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -173,7 +179,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-30T07:34:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -201,7 +207,7 @@
       "url": "https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T03:19:39+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -228,7 +234,7 @@
       "url": "https://jvn.jp/vu/JVNVU93754811/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T09:00:00+09:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -253,7 +259,7 @@
       "url": "https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:30:28+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -279,7 +285,7 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T07:00:37+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -301,69 +307,11 @@
       "summary": "OpenShell is the safe, private runtime for autonomous AI agents. https://docs.nvidia.com/openshell/latest/ Important New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide . OpenShell is the safe, private runtime for fleets…"
     },
     {
-      "title": "Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-      "url": "https://www.bis.org/speeches/20260930-hearing-committee-economic-and-monetary-affairs-european-parliament",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 103.74,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 6,
-      "baseline_z_hint": 14.4,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +6",
-        "baseline z_hint 14.40",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 103.7d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行",
-      "url": "https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html",
-      "source": "TWCERT/CC Security News RSS",
-      "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 102.87,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 5.8,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 5.80",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 102.9d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
       "title": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T07:00:37+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -390,7 +338,7 @@
       "url": "https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T02:00:34+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -413,11 +361,62 @@
       "summary": "CPF Ordinary Account pays 2.5 per cent, and Singaporeans queue for Treasury bills when yields rise. So when anyone quotes a 20 per cent annual percentage yield on stablecoins, a sensible person should ask one question first: who is paying it, and why? I ask because I once paid for not asking. In 2022, I […] The post A…"
     },
     {
+      "title": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-30T07:01:07+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +2",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T07:01:07+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +2",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-30T07:01:07+00:00",
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -427,12 +426,38 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "はてな匿名ダイアリーがChatGPTから使えるようになりました - はてラボ 開発者ブログ",
+      "url": "https://labo.hatenastaff.com/entry/2026/09/30/151500",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-24T07:48:35+00:00",
+      "age_days": 6.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 9.67,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 9.67",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
@@ -442,7 +467,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:57:23+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -468,7 +493,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T05:22:01.020+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -494,7 +519,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/electronic-medical-record",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-30T06:00:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -519,7 +544,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/pmh-medical-expense-subsidies",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-30T06:00:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -544,7 +569,7 @@
       "url": "https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T03:00:25+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -570,7 +595,7 @@
       "url": "https://jvn.jp/vu/JVNVU90160989/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T03:41:38+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -594,7 +619,7 @@
       "url": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:18:49+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -618,7 +643,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:52:39.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -643,7 +668,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:02:17.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -664,37 +689,59 @@
       "summary": "Time 2026-09-30 01:34:05 UTC 2026-09-30 01:34:05 UTC at epicenter Location 13.092°N 120.473°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-30T07:01:07+00:00",
-      "age_days": 0.06,
+      "title": "鼎新數智｜EasyFlow .NET - 存在5個漏洞",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11237-c9189-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-09-30T09:43:00+00:00",
+      "age_days": 0,
       "topics": [
-        "ai"
+        "security"
       ],
-      "dynamics_score": 22.5,
+      "dynamics_score": 22.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "security high-signal: security"
       ],
-      "summary": ""
+      "summary": "鼎新數智｜EasyFlow .NET - 存在5個漏洞"
+    },
+    {
+      "title": "鼎新數智｜EasyFlow .NET - Arbitrary File Upload",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11240-0fa1b-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "age_days": 0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "鼎新數智｜EasyFlow .NET - Arbitrary File Upload"
     },
     {
       "title": "M 5.4 - Balleny Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T05:20:19.774+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -719,7 +766,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T05:23:03+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -743,7 +790,7 @@
       "url": "https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T05:58:30+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -763,11 +810,40 @@
       "summary": ""
     },
     {
+      "title": "Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+      "url": "https://www.bis.org/speeches/20260930-hearing-committee-economic-and-monetary-affairs-european-parliament",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 103.76,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "krass",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 1.44,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 1.44",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 103.8d old signal",
+        "stale single-source cap after 30d: no current exploitation phrase"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.5 - 112 km SSW of Banda Aceh, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:22:32+00:00",
-      "age_days": 25.04,
+      "age_days": 25.06,
       "topics": [
         "general"
       ],
@@ -783,7 +859,7 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "aging penalty -1.4 for 25.0d old signal",
+        "aging penalty -1.4 for 25.1d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
@@ -793,7 +869,7 @@
       "url": "https://www.bis.org/speeches/20260928-tending-public-garden-accountable-today-stewarding-tomorrow",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-30T00:00:00+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -821,11 +897,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:55:03+00:00",
-      "age_days": 32.06,
+      "age_days": 32.08,
       "topics": [
         "general"
       ],
-      "dynamics_score": 18.63,
+      "dynamics_score": 18.62,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -842,35 +918,11 @@
       "summary": ""
     },
     {
-      "title": "共通機能の標準仕様に係る仕様書最新版のリンク集を更新しました",
-      "url": "https://www.digital.go.jp/policies/local_governments/common-feature-specification",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-30T06:34:39+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 18.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push",
       "url": "https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T04:49:10+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -894,7 +946,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T03:01:50.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -918,7 +970,7 @@
       "url": "https://jvn.jp/vu/JVNVU93754811/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 103.27,
+      "age_days": 103.28,
       "topics": [
         "general"
       ],
@@ -943,7 +995,7 @@
       "url": "https://tech-lab.sios.jp/archives/54936",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T00:30:10+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -970,7 +1022,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyik",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T07:42:11.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -989,55 +1041,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-09-30 07:07:16 UTC 2026-09-30 07:07:16 UTC at epicenter Location 63.562°S 171.414°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.8 - 75 km NE of Tadine, New Caledonia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-30T01:35:08.040+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-09-30 01:17:47 UTC 2026-09-30 01:17:47 UTC at epicenter Location 21.009°S 168.328°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.8 - 75 km NE of Tadine, New Caledonia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-30T01:49:27+00:00",
-      "age_days": 0.27,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.6 - 74 km S of Yonakuni, Japan” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5."
