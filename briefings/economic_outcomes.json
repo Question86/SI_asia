@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-30T08:01:31+00:00",
+  "generated_at": "2026-09-30T08:33:10+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -1961,6 +1961,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_2bbc0961ed646ad07650",
+      "title": "M 5.1 - 121 km S of Kokopo, Papua New Guinea",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_2bf1e7d57306cb9b7c1c",
       "title": "2026-011: Critical Vulnerabilities in SAP Kernel and NetWeaver Message Server",
       "deduplicated_buckets": 0,
@@ -3091,7 +3102,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4512fa395af62a547753",
@@ -4801,13 +4812,13 @@
     {
       "event_id": "evt_68027456a6011be90089",
       "title": "M 5.2 - Balleny Islands region",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_68115014683bc42e8e99",
@@ -7491,7 +7502,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9c3134e419f64fd8323f",
