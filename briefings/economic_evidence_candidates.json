@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-30T09:54:27+00:00",
-  "candidate_count": 1419,
+  "generated_at": "2026-09-30T10:01:51+00:00",
+  "candidate_count": 1421,
   "candidates": [
     {
       "amount_native": 2000000000000.0,
@@ -18819,6 +18819,24 @@
       "source_url": "https://www.bis.org/speeches/20260907-address-56th-session-committee-finance-state-budget-and-control-public-spending"
     },
     {
+      "candidate_id": "cand_69f5677ee2923aa71098",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20260930-indian-economy-ever-more-volatile-and-complex-world",
+      "observed_at": "2026-09-30T10:01:28+00:00",
+      "currency": "USD",
+      "amount_native": 23600000000.0,
+      "amount_usd": 23600000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "ed CAD temporarily higher. In addition, in the last two years, capital account surplus has fallen short of CAD, resulting in a negative BOP of about US$ 5.0 billion in 2024-25 and US$ 23.6 billion in 2025-26. Against these developments, the rupee has cumulatively depreciated by 13.0 percent (on a point-to-point basis) from March 31, 2025 to September 17, 2026. 3 The questio",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 17000000000.0,
       "amount_usd": 17000000000.0,
       "attribution_probability": null,
@@ -19067,6 +19085,24 @@
       "snippet": "mong individual EMDE countries, the largest cross-border bank credit inflows in Q4 2025 went to Brazil ($14 billion), Saudi Arabia ($7.5 billion), Türkiye ($6 billion) and Poland ($5 billion). In contrast, cross-border credit to China contracted by 15% yoy. Graph 3 Click for an interactive version of this graph Graph 3 Open the interactive graph The BIS consolidated b",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/publications/202604-commentary-ibs-gli"
+    },
+    {
+      "candidate_id": "cand_152c9c39082b5f21b432",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20260930-indian-economy-ever-more-volatile-and-complex-world",
+      "observed_at": "2026-09-30T10:01:28+00:00",
+      "currency": "USD",
+      "amount_native": 5000000000.0,
+      "amount_usd": 5000000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "and gold price shocks have pushed CAD temporarily higher. In addition, in the last two years, capital account surplus has fallen short of CAD, resulting in a negative BOP of about US$ 5.0 billion in 2024-25 and US$ 23.6 billion in 2025-26. Against these developments, the rupee has cumulatively depreciated by 13.0 percent (on a point-to-point basis) from March 31, 2025 to S",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 4000000000.0,
