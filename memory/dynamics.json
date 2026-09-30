@@ -1,20 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-30T06:57:51Z",
+  "generated_at": "2026-09-30T07:29:12Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 3,
-      "strong": 15,
-      "watch": 17,
-      "quiet": 5
+      "krass": 4,
+      "strong": 19,
+      "watch": 17
     },
     "bands_after_gate_recheck": {
-      "strong": 18,
-      "watch": 17,
-      "quiet": 5
+      "strong": 23,
+      "watch": 17
     }
   },
   "top_dynamics": [
@@ -23,7 +21,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T05:23:03+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -47,7 +45,7 @@
       "url": "https://jvn.jp/vu/JVNVU90160989/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T12:30:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -71,7 +69,7 @@
       "url": "https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T02:08:50+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -95,7 +93,7 @@
       "url": "https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T03:19:39+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -122,7 +120,7 @@
       "url": "https://jvn.jp/vu/JVNVU93754811/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T09:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -147,7 +145,7 @@
       "url": "https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:30:28+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -169,11 +167,64 @@
       "summary": "A new beauty brand no longer needs to look much like a traditional beauty company. It does not need its own factory, a large product-development department or a nationwide retail network. Specialist manufacturers can formulate, produce and package cosmetics for outside brands, while e-commerce provides access to custo…"
     },
     {
+      "title": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-30T07:00:37+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "OpenShell is the safe, private runtime for autonomous AI agents. https://docs.nvidia.com/openshell/latest/ Important New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide . OpenShell is the safe, private runtime for fleets…"
+    },
+    {
+      "title": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-30T07:00:37+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: rce, code",
+        "security high-signal: rce, code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Multi-agent harness that runs Claude Code and Codex together as one system https://openrig.dev OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig turns AI coding agents from a pile…"
+    },
+    {
       "title": "A 20% stablecoin APY may be less magical than it sounds",
       "url": "https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T02:00:34+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "macro"
@@ -196,11 +247,87 @@
       "summary": "CPF Ordinary Account pays 2.5 per cent, and Singaporeans queue for Treasury bills when yields rise. So when anyone quotes a 20 per cent annual percentage yield on stablecoins, a sensible person should ask one question first: who is paying it, and why? I ask because I once paid for not asking. In 2022, I […] The post A…"
     },
     {
+      "title": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-30T07:01:07+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-30T07:01:07+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-30T07:01:07+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.5 - 104 km SSE of Sarangani, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:57:23+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -226,7 +353,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T05:22:01.020+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -252,7 +379,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/electronic-medical-record",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-30T06:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -277,7 +404,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/pmh-medical-expense-subsidies",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-30T06:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -302,7 +429,7 @@
       "url": "https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T03:00:25+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -328,7 +455,7 @@
       "url": "https://jvn.jp/vu/JVNVU90160989/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T03:41:38+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -352,7 +479,7 @@
       "url": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:18:49+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -376,7 +503,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:52:39.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -401,7 +528,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:02:17.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -426,7 +553,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T05:20:19.774+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -451,7 +578,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T05:23:03+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -475,7 +602,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:22:32+00:00",
-      "age_days": 24.98,
+      "age_days": 25.0,
       "topics": [
         "general"
       ],
@@ -501,11 +628,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:55:03+00:00",
-      "age_days": 32.0,
+      "age_days": 32.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 18.65,
+      "dynamics_score": 18.64,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -522,35 +649,11 @@
       "summary": ""
     },
     {
-      "title": "共通機能の標準仕様に係る仕様書最新版のリンク集を更新しました",
-      "url": "https://www.digital.go.jp/policies/local_governments/common-feature-specification",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-30T06:34:39+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 18.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push",
       "url": "https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T04:49:10+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -574,7 +677,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T03:01:50.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -594,11 +697,11 @@
       "summary": "Time 2026-09-30 02:35:50 UTC 2026-09-30 02:35:50 UTC at epicenter Location 4.649°N 94.852°E Depth 33.87 km (21.05 mi)"
     },
     {
-      "title": "自治体が実施する健康・医療・介護分野の事業のデジタル化（PMH）ー医療費助成に関するダッシュボードを公開しました",
-      "url": "https://www.digital.go.jp/resources/govdashboard/pmh-medical-expense-subsidies",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-11T23:53:56+00:00",
-      "age_days": 18.29,
+      "title": "MoneyHero shareholder urges board to explore sale after stock slump",
+      "url": "https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-30T05:58:30+00:00",
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -608,12 +711,12 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -622,7 +725,7 @@
       "url": "https://jvn.jp/vu/JVNVU93754811/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 103.21,
+      "age_days": 103.23,
       "topics": [
         "general"
       ],
@@ -647,7 +750,7 @@
       "url": "https://tech-lab.sios.jp/archives/54936",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T00:30:10+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -674,7 +777,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T01:35:08.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -699,7 +802,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T01:49:27+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -719,15 +822,15 @@
       "summary": ""
     },
     {
-      "title": "MoneyHero shareholder urges board to explore sale after stock slump",
-      "url": "https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-30T05:58:30+00:00",
+      "title": "共通機能の標準仕様に係る仕様書最新版のリンク集を更新しました",
+      "url": "https://www.digital.go.jp/policies/local_governments/common-feature-specification",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-30T06:34:39+00:00",
       "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.0,
+      "dynamics_score": 16.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -743,11 +846,35 @@
       "summary": ""
     },
     {
+      "title": "自治体が実施する健康・医療・介護分野の事業のデジタル化（PMH）ー医療費助成に関するダッシュボードを公開しました",
+      "url": "https://www.digital.go.jp/resources/govdashboard/pmh-medical-expense-subsidies",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-11T23:53:56+00:00",
+      "age_days": 18.32,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に",
       "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001873/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T02:38:54+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -771,7 +898,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001870/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T03:41:38+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -795,7 +922,7 @@
       "url": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:00:22+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "macro"
       ],
@@ -819,7 +946,7 @@
       "url": "https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T04:30:07+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -846,7 +973,7 @@
       "url": "https://e27.co/the-sovereign-shift-why-nation-states-are-trading-gold-for-bitcoin-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T03:41:38+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -866,118 +993,18 @@
       "summary": ""
     },
     {
-      "title": "電子カルテの導入状況に関するダッシュボードを公開しました",
-      "url": "https://www.digital.go.jp/resources/govdashboard/electronic-medical-record",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-30T06:34:39+00:00",
+      "title": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-30T07:00:37+00:00",
       "age_days": 0.02,
       "topics": [
-        "general"
+        "ai"
       ],
-      "dynamics_score": 12.5,
+      "dynamics_score": 13.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Why AI could unbundle the beauty industry",
-      "url": "https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-30T01:49:27+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "地方公共団体におけるアナログ規制の見直しの取組紹介「和歌山県における衛星データとAIの活用事例」を掲載しました",
-      "url": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/local-government",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-30T06:34:39+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "共通機能の標準仕様に係る仕様書最新版のリンク集を更新しました",
-      "url": "https://www.digital.go.jp/policies/local_governments/common-feature-specification",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-30T06:00:00+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: local"
-      ],
-      "summary": "共通機能の標準仕様に係る仕様書最新版のリンク集を更新しました"
-    },
-    {
-      "title": "オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab",
-      "url": "https://tech-lab.sios.jp/archives/54936",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-29T23:26:36+00:00",
-      "age_days": 0.31,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 0,
@@ -985,35 +1012,11 @@
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "high terms: code",
+        "high terms: 10",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "手元のボタンを見るだけで、どの Claude Code が作業中で、どれが確認待ちで、どれが終わったのかが一目で分かる。 ボタンを押せば、そのターミナルに一発で飛べる。 作業が終わったら、ずんだもんが「何をやって、次に何をすればいいか」を声で教えてくれる。 そんな作業環境をStream Deckとherdr、ローカルLLM、そして..."
-    },
-    {
-      "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-09-30T02:20:00+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness"
+      "summary": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 https://dbxio…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.6 - 74 km S of Yonakuni, Japan” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5."

@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-30T06:57:51Z_
+_Generated: 2026-09-30T07:29:12Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.6 - 74 km S of Yonakuni, Japan” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.5`
-- Published: `2026-09-30T05:23:03+00:00` / age_days `0.07`
+- Published: `2026-09-30T05:23:03+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.6 - 74 km S of Yonakuni, Japan” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-30T12:30:00+09:00` / age_days `0.14`
+- Published: `2026-09-30T12:30:00+09:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.6 - 74 km S of Yonakuni, Japan” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-30T02:08:50+00:00` / age_days `0.2`
+- Published: `2026-09-30T02:08:50+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.6 - 74 km S of Yonakuni, Japan” �
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-30T03:19:39+00:00` / age_days `0.15`
+- Published: `2026-09-30T03:19:39+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.6 - 74 km S of Yonakuni, Japan” �
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-30T09:00:00+09:00` / age_days `0.29`
+- Published: `2026-09-30T09:00:00+09:00` / age_days `0.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -62,47 +62,47 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.6 - 74 km S of Yonakuni, Japan” �
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-30T01:30:28+00:00` / age_days `0.23`
+- Published: `2026-09-30T01:30:28+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/
 
+### NVIDIA/OpenShell
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-30T07:00:37+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Quelle: https://github.com/NVIDIA/OpenShell
+
+### mvschwarz/openrig
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-09-30T07:00:37+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, code, security high-signal: rce, code, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://github.com/mvschwarz/openrig
+
 ### A 20% stablecoin APY may be less magical than it sounds
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-30T02:00:34+00:00` / age_days `0.21`
+- Published: `2026-09-30T02:00:34+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/
 
-### M 4.5 - 104 km SSE of Sarangani, Philippines
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-30T02:57:23+00:00` / age_days `0.17`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, high terms: 10, krass gate: single-source non-official/non-identity signal capped
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz
-
-### M 5.6 - 74 km S of Yonakuni, Japan
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-30T05:22:01.020+00:00` / age_days `0.07`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10, krass gate: single-source non-official/non-identity signal capped
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk
-
 ### 電子カルテの導入状況に関するダッシュボードを公開しました
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-30T06:00:00+00:00` / age_days `0.04`
+- Published: `2026-09-30T06:00:00+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.6 - 74 km S of Yonakuni, Japan” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-30T06:00:00+00:00` / age_days `0.04`
+- Published: `2026-09-30T06:00:00+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.6 - 74 km S of Yonakuni, Japan” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-30T03:00:25+00:00` / age_days `0.16`
+- Published: `2026-09-30T03:00:25+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
