@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T12:39:17+00:00_
+_Generated: 2026-09-30T13:01:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `74`
+- findings: `78`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-30T12:39:17+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhi
 - summary: PAGER - GREEN ShakeMap - I Time 2026-09-30 04:48:06 UTC 2026-09-30 04:48:06 UTC at epicenter Location 63.009°S 169.216°E Depth 10.00 km (6.21 mi)
 
-### 6. Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45
+### 6. Multiples vulnérabilités dans Microsoft Edge (21 septembre 2026)
+- source: CERT-FR Avis de sécurité
+- score: `13`
+- published: `2026-09-21T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1208/
+- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.
+
+### 7. Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-09-30T08:15:18+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html
 - summary: Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 7. はてな匿名ダイアリーがChatGPTから使えるようになりました - はてラボ 開発者ブログ
+### 8. はてな匿名ダイアリーがChatGPTから使えるようになりました - はてラボ 開発者ブログ
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-09-30T06:22:41+00:00`
 - url: https://labo.hatenastaff.com/entry/2026/09/30/151500
 - summary: 先日、はてな匿名ダイアリーの20周年をお知らせした際に、今後も新しい取り組みを進めていくことをご案内しました。 そのひとつとして、このたび実験的に、はてな匿名ダイアリーがChatGPTから使えるようになりましたことをお知らせします。 ChatGPTとの会話の中から、はてな匿名ダイアリーの投稿を探したり、読んだり、...
-
-### 8. Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-09-30T04:23:12+00:00`
-- url: https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/
-- summary: Japan’s education companies are increasingly looking beyond a home market shaped by a shrinking population. Kawaijuku, one of the country’s larger private education providers, is taking a venture-capital route into Vietnam. KJ Holdings, the holding company of…
 
 END OF DOCUMENT

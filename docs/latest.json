@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T12:39:17+00:00",
-  "run_id": "2026-09-30T12:39:17+00:00",
+  "generated_at": "2026-09-30T13:01:08+00:00",
+  "run_id": "2026-09-30T13:01:08+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 74
+      "configured_public_sources_only": 78
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 74,
-    "displayed_findings": 74,
+    "new_relevant_findings": 4,
+    "today_file_total": 78,
+    "displayed_findings": 78,
     "high": 0,
     "medium": 35,
-    "observe": 39,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -1021,6 +1021,31 @@
         "id": "23b2b1bca5d9b1b98b15"
       },
       {
+        "title": "Multiples vulnérabilités dans Microsoft Edge (21 septembre 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1208/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-09-21T00:00:00+00:00",
+        "fetched_at": "2026-09-30T13:00:34+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "Microsoft",
+          "sécurité",
+          "vulnérabilité",
+          "éditeur"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "457ca71c5afd460854e6"
+      },
+      {
         "title": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
         "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html",
         "source": "ECB Open Market Operations and Communication",
@@ -1299,6 +1324,30 @@
         "id": "2c9fb9fb3b10c4cedf9b"
       },
       {
+        "title": "Multiples vulnérabilités dans les produits Mattermost (21 septembre 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1207/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-09-21T00:00:00+00:00",
+        "fetched_at": "2026-09-30T13:00:34+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité",
+          "éditeur"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f09ff7acc187b7c38100"
+      },
+      {
         "title": "M 5.1 - 121 km S of Kokopo, Papua New Guinea",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyit",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1507,6 +1556,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2c2bfa9f8fe9cc3985ef"
+      },
+      {
+        "title": "Vulnérabilité dans les produits Moxa (18 septembre 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1205/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-09-18T00:00:00+00:00",
+        "fetched_at": "2026-09-30T13:00:34+00:00",
+        "summary": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9d86a714d2b0fdfe9cb0"
+      },
+      {
+        "title": "Multiples vulnérabilités dans les produits IBM (18 septembre 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1206/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-09-18T00:00:00+00:00",
+        "fetched_at": "2026-09-30T13:00:34+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "83b592803e8ba36557e6"
       },
       {
         "title": "令和8年熊本地震に関する対応状況について（9月30日）",
@@ -2904,6 +2999,31 @@
       "id": "23b2b1bca5d9b1b98b15"
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (21 septembre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1208/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "fetched_at": "2026-09-30T13:00:34+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "Microsoft",
+        "sécurité",
+        "vulnérabilité",
+        "éditeur"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "457ca71c5afd460854e6"
+    },
+    {
       "title": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html",
       "source": "ECB Open Market Operations and Communication",
@@ -3182,6 +3302,30 @@
       "id": "2c9fb9fb3b10c4cedf9b"
     },
     {
+      "title": "Multiples vulnérabilités dans les produits Mattermost (21 septembre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1207/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "fetched_at": "2026-09-30T13:00:34+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité",
+        "éditeur"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f09ff7acc187b7c38100"
+    },
+    {
       "title": "M 5.1 - 121 km S of Kokopo, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyit",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3390,6 +3534,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "2c2bfa9f8fe9cc3985ef"
+    },
+    {
+      "title": "Vulnérabilité dans les produits Moxa (18 septembre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1205/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "fetched_at": "2026-09-30T13:00:34+00:00",
+      "summary": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9d86a714d2b0fdfe9cb0"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits IBM (18 septembre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1206/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "fetched_at": "2026-09-30T13:00:34+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "83b592803e8ba36557e6"
     },
     {
       "title": "令和8年熊本地震に関する対応状況について（9月30日）",
@@ -3797,25 +3987,99 @@
   ],
   "new_findings": [
     {
-      "title": "タイムズカー情報漏洩 集団訴訟｜参加希望者受付中",
-      "url": "https://timescar-lawsuit.com/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (21 septembre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1208/",
+      "source": "CERT-FR Avis de sécurité",
       "source_type": "rss",
-      "published_at": "2026-09-30T00:05:51+00:00",
-      "fetched_at": "2026-09-30T12:38:45+00:00",
-      "summary": "タイムズカー 情報漏洩 集団訴訟 会員の方、退会済みの方は、まずご登録ください。 2026年9月に公表された不正アクセスによる会員情報の漏えいについて、被害を受けた会員が共同で運営会社等に損害賠償を求める訴訟です。",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "fetched_at": "2026-09-30T13:00:34+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "avis",
+        "CERT-FR",
+        "Microsoft",
+        "sécurité",
+        "vulnérabilité",
+        "éditeur"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 13,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cb5be9d39c0d88fe7ab8"
+      "id": "457ca71c5afd460854e6"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Mattermost (21 septembre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1207/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "fetched_at": "2026-09-30T13:00:34+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité",
+        "éditeur"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f09ff7acc187b7c38100"
+    },
+    {
+      "title": "Vulnérabilité dans les produits Moxa (18 septembre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1205/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "fetched_at": "2026-09-30T13:00:34+00:00",
+      "summary": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9d86a714d2b0fdfe9cb0"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits IBM (18 septembre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1206/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "fetched_at": "2026-09-30T13:00:34+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "83b592803e8ba36557e6"
     }
   ],
   "source_errors": [],
