@@ -1,28 +1,18 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-30T02:32:33Z_
+_Generated: 2026-09-30T02:59:00Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “The cross-border due diligence questions most founders cannot answer” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
 
 ## Top Dynamics
-
-### The cross-border due diligence questions most founders cannot answer
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-09-30T01:18:49+00:00` / age_days `0.05`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2
-- Quelle: https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/
 
 ### CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-30T09:00:00+09:00` / age_days `0.11`
+- Published: `2026-09-30T09:00:00+09:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -32,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “The cross-border due diligence questions
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-30T01:30:28+00:00` / age_days `0.04`
+- Published: `2026-09-30T01:30:28+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “The cross-border due diligence questions
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-30T02:00:34+00:00` / age_days `0.02`
+- Published: `2026-09-30T02:00:34+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,17 +42,47 @@ Stärkste Dynamik nach Gate-Recheck: “The cross-border due diligence questions
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-30T02:08:50+00:00` / age_days `0.02`
+- Published: `2026-09-30T02:08:50+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, krass gate: single-source non-official/non-identity signal capped
+- Warum: momentum delta +2, krass gate: single-source non-official/non-identity signal capped
 - Quelle: https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/
+
+### M 4.5 - 104 km SSE of Sarangani, Philippines
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `24.4`
+- Published: `2026-09-30T02:57:23+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz
+
+### The cross-border due diligence questions most founders cannot answer
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.0`
+- Published: `2026-09-30T01:18:49+00:00` / age_days `0.07`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/
+
+### M 4.5 - 104 km SSE of Sarangani, Philippines
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.0`
+- Published: `2026-09-30T02:52:39.040+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz
 
 ### M 4.8 - 18 km SW of Tayaman, Philippines
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-30T02:02:17.040+00:00` / age_days `0.02`
+- Published: `2026-09-30T02:02:17.040+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -70,19 +90,19 @@ Stärkste Dynamik nach Gate-Recheck: “The cross-border due diligence questions
 
 ### M 4.8 - 18 km SW of Tayaman, Philippines
 
-- Band: `watch` (raw `strong`)
-- Dynamics score: `19.9`
-- Published: `2026-08-29T06:55:03+00:00` / age_days `31.82`
+- Band: `watch` (raw `watch`)
+- Dynamics score: `18.71`
+- Published: `2026-08-29T06:55:03+00:00` / age_days `31.84`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 2.90, aging penalty -3.8 for 31.8d old signal, stale single-source cap: max watch after 14d without fresh resonance
+- Warum: momentum delta +3, aging penalty -3.8 for 31.8d old signal
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygs
 
 ### CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `103.02`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `103.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 103.0d old signal
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “The cross-border due diligence questions
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-30T00:30:10+00:00` / age_days `0.08`
+- Published: `2026-09-30T00:30:10+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “The cross-border due diligence questions
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-30T01:35:08.040+00:00` / age_days `0.04`
+- Published: `2026-09-30T01:35:08.040+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq
-
-### The cross-border due diligence questions most founders cannot answer
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-09-30T01:00:22+00:00` / age_days `0.06`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/
-
-### M 4.8 - 75 km NE of Tadine, New Caledonia
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.5`
-- Published: `2026-09-30T01:49:27+00:00` / age_days `0.03`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq
 
 END OF DOCUMENT
