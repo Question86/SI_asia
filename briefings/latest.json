@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T12:02:05+00:00",
-  "run_id": "2026-09-30T12:02:05+00:00",
+  "generated_at": "2026-09-30T12:39:17+00:00",
+  "run_id": "2026-09-30T12:39:17+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 73
+      "configured_public_sources_only": 74
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "new_relevant_findings": 1,
+    "today_file_total": 74,
+    "displayed_findings": 74,
     "high": 0,
     "medium": 35,
-    "observe": 38,
+    "observe": 39,
     "source_errors": 0
   },
   "sections": {
@@ -1812,6 +1812,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e09de1dfc9f88a9df15f"
+      },
+      {
+        "title": "タイムズカー情報漏洩 集団訴訟｜参加希望者受付中",
+        "url": "https://timescar-lawsuit.com/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-30T00:05:51+00:00",
+        "fetched_at": "2026-09-30T12:38:45+00:00",
+        "summary": "タイムズカー 情報漏洩 集団訴訟 会員の方、退会済みの方は、まずご登録ください。 2026年9月に公表された不正アクセスによる会員情報の漏えいについて、被害を受けた会員が共同で運営会社等に損害賠償を求める訴訟です。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cb5be9d39c0d88fe7ab8"
       },
       {
         "title": "ドラッグ＆ドロップ操作ミスで……TOPPAN、損保ジャパン契約者17万人分のデータを他社に誤送付",
@@ -3676,6 +3697,27 @@
       "id": "e09de1dfc9f88a9df15f"
     },
     {
+      "title": "タイムズカー情報漏洩 集団訴訟｜参加希望者受付中",
+      "url": "https://timescar-lawsuit.com/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-30T00:05:51+00:00",
+      "fetched_at": "2026-09-30T12:38:45+00:00",
+      "summary": "タイムズカー 情報漏洩 集団訴訟 会員の方、退会済みの方は、まずご登録ください。 2026年9月に公表された不正アクセスによる会員情報の漏えいについて、被害を受けた会員が共同で運営会社等に損害賠償を求める訴訟です。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cb5be9d39c0d88fe7ab8"
+    },
+    {
       "title": "ドラッグ＆ドロップ操作ミスで……TOPPAN、損保ジャパン契約者17万人分のデータを他社に誤送付",
       "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001870/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3755,143 +3797,25 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3672",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "タイムズカー情報漏洩 集団訴訟｜参加希望者受付中",
+      "url": "https://timescar-lawsuit.com/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-30T11:51:29+00:00",
-      "fetched_at": "2026-09-30T12:01:33+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsmechanismen zu umgehen, um Informationen offenzulegen oder zu manipulieren, sowie um einen Denial of Service herbeizuführen.",
+      "published_at": "2026-09-30T00:05:51+00:00",
+      "fetched_at": "2026-09-30T12:38:45+00:00",
+      "summary": "タイムズカー 情報漏洩 集団訴訟 会員の方、退会済みの方は、まずご登録ください。 2026年9月に公表された不正アクセスによる会員情報の漏えいについて、被害を受けた会員が共同で運営会社等に損害賠償を求める訴訟です。",
       "matched_keywords": [
-        "Automatisierung",
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "Security (+6.0); Automatisierung (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bac5d28aeed8e7d30052"
-    },
-    {
-      "title": "[NEU] [niedrig] poppler: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3674",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-30T11:56:29+00:00",
-      "fetched_at": "2026-09-30T12:01:33+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in poppler ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b5cff259aa29d36a7835"
-    },
-    {
-      "title": "[NEU] [mittel] OpenClaw: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3673",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-30T11:51:29+00:00",
-      "fetched_at": "2026-09-30T12:01:33+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenClaw ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f6c9b3840e22c211a646"
-    },
-    {
-      "title": "[NEU] [mittel] Moodle: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3671",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-30T11:51:29+00:00",
-      "fetched_at": "2026-09-30T12:01:33+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Moodle ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um eine SQL-Injection auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "db40425a364305c7dfeb"
-    },
-    {
-      "title": "[NEU] [hoch] TeamViewer: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3670",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-30T11:46:29+00:00",
-      "fetched_at": "2026-09-30T12:01:33+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in TeamViewer ausnutzen, um seine Privilegien zu erhöhen, um Daten zu manipulieren oder offenzulegen, sowie um einen Denial of Service herbeizuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "21d548986833926da04f"
-    },
-    {
-      "title": "[NEU] [niedrig] Gitea: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3669",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-30T11:46:29+00:00",
-      "fetched_at": "2026-09-30T12:01:33+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Gitea ausnutzen, um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "da9b64944c7f09347e88"
+      "id": "cb5be9d39c0d88fe7ab8"
     }
   ],
   "source_errors": [],
