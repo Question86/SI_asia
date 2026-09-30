@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T05:58:28+00:00_
+_Generiert: 2026-09-30T06:34:37+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 74 km S of Yonakuni, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+25 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 74 km S of Yonakuni, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,10 +61,6 @@ _Generiert: 2026-09-30T05:58:28+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone HANNA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.6 - 74 km S of Yonakuni, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk)
-  - Quelle: USGS
-  - Zeit: `2026-09-30T05:00:24+00:00`
-  - Kurz: M5.6 - 74 km S of Yonakuni, Japan. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -209,6 +205,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Frank Elderson: Supervisory risk appetite, efficiency and effectiveness
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **電子カルテの導入状況に関するダッシュボードを公開しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/electronic-medical-record)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-30T06:00:00+00:00`, fetched `2026-09-30T06:34:09+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 電子カルテの導入状況に関するダッシュボードを公開しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **自治体が実施する健康・医療・介護分野の事業のデジタル化（PMH）ー医療費助成に関するダッシュボードを公開しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/pmh-medical-expense-subsidies)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-30T06:00:00+00:00`, fetched `2026-09-30T06:34:09+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 自治体が実施する健康・医療・介護分野の事業のデジタル化（PMH）ー医療費助成に関するダッシュボードを公開しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **地方公共団体におけるアナログ規制の見直しの取組紹介「和歌山県における衛星データとAIの活用事例」を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/local-government)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-30T06:00:00+00:00`, fetched `2026-09-30T06:34:09+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 地方公共団体におけるアナログ規制の見直しの取組紹介「和歌山県における衛星データとAIの活用事例」を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/30/2000001873/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
