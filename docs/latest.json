@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T14:00:10+00:00",
-  "run_id": "2026-09-30T14:00:10+00:00",
+  "generated_at": "2026-09-30T14:31:13+00:00",
+  "run_id": "2026-09-30T14:31:13+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 78
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 78,
-    "displayed_findings": 78,
+    "new_relevant_findings": 2,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
     "medium": 35,
-    "observe": 43,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -1604,6 +1604,26 @@
         "id": "83b592803e8ba36557e6"
       },
       {
+        "title": "Jetzt patchen: Angreifer umgehen Anmeldung bei Cisco Catalyst SD-WAN Manager",
+        "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-umgehen-Anmeldung-bei-Cisco-Catalyst-SD-WAN-Manager-11471591.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-09-30T14:23:00.000+00:00",
+        "fetched_at": "2026-09-30T14:30:44+00:00",
+        "summary": "Cyberkriminelle nützen eine Lücke im Anmeldesystem für Admin-Privilegien aus. Admins sollten die Geräte patchen und weitere Maßnahmen ergreifen.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "85227917fe171bdacf07"
+      },
+      {
         "title": "令和8年熊本地震に関する対応状況について（9月30日）",
         "url": "https://www.digital.go.jp/news/8ee2e00d-6a81-452a-9191-7796fba0ae77",
         "source": "Japan Digital Agency News RSS",
@@ -1865,6 +1885,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "449a6a4aa94324a721f4"
+      },
+      {
+        "title": "一休もお漏らしかよ",
+        "url": "https://anond.hatelabo.jp/20260930121339",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-30T03:14:47+00:00",
+        "fetched_at": "2026-09-30T14:30:44+00:00",
+        "summary": "平素より 一休.com をご愛顧賜りまして、誠にありがとうございます。 弊社にて発生した掲題の事象について重要なご連絡があり、本メールをお送りしております。 このたび、弊社の開発用データベース（一休.comサービスの開発に使用するデータのみを格納したデータベース）に対し、 第三者による不正アクセスが発生いたし...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "56aab8e35a6c6863d441"
       },
       {
         "title": "タイムズカーの不正アクセスで免許証画像が流出した人へ：考えられる被害と今日からできる対策",
@@ -3582,6 +3623,26 @@
       "id": "83b592803e8ba36557e6"
     },
     {
+      "title": "Jetzt patchen: Angreifer umgehen Anmeldung bei Cisco Catalyst SD-WAN Manager",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-umgehen-Anmeldung-bei-Cisco-Catalyst-SD-WAN-Manager-11471591.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-30T14:23:00.000+00:00",
+      "fetched_at": "2026-09-30T14:30:44+00:00",
+      "summary": "Cyberkriminelle nützen eine Lücke im Anmeldesystem für Admin-Privilegien aus. Admins sollten die Geräte patchen und weitere Maßnahmen ergreifen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "85227917fe171bdacf07"
+    },
+    {
       "title": "令和8年熊本地震に関する対応状況について（9月30日）",
       "url": "https://www.digital.go.jp/news/8ee2e00d-6a81-452a-9191-7796fba0ae77",
       "source": "Japan Digital Agency News RSS",
@@ -3845,6 +3906,27 @@
       "id": "449a6a4aa94324a721f4"
     },
     {
+      "title": "一休もお漏らしかよ",
+      "url": "https://anond.hatelabo.jp/20260930121339",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-30T03:14:47+00:00",
+      "fetched_at": "2026-09-30T14:30:44+00:00",
+      "summary": "平素より 一休.com をご愛顧賜りまして、誠にありがとうございます。 弊社にて発生した掲題の事象について重要なご連絡があり、本メールをお送りしております。 このたび、弊社の開発用データベース（一休.comサービスの開発に使用するデータのみを格納したデータベース）に対し、 第三者による不正アクセスが発生いたし...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "56aab8e35a6c6863d441"
+    },
+    {
       "title": "タイムズカーの不正アクセスで免許証画像が流出した人へ：考えられる被害と今日からできる対策",
       "url": "https://zenn.dev/gzer0/articles/timescar-leak-countermeasures",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3985,7 +4067,49 @@
       "id": "d656d83316676b7ff635"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Jetzt patchen: Angreifer umgehen Anmeldung bei Cisco Catalyst SD-WAN Manager",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-umgehen-Anmeldung-bei-Cisco-Catalyst-SD-WAN-Manager-11471591.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-30T14:23:00.000+00:00",
+      "fetched_at": "2026-09-30T14:30:44+00:00",
+      "summary": "Cyberkriminelle nützen eine Lücke im Anmeldesystem für Admin-Privilegien aus. Admins sollten die Geräte patchen und weitere Maßnahmen ergreifen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "85227917fe171bdacf07"
+    },
+    {
+      "title": "一休もお漏らしかよ",
+      "url": "https://anond.hatelabo.jp/20260930121339",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-30T03:14:47+00:00",
+      "fetched_at": "2026-09-30T14:30:44+00:00",
+      "summary": "平素より 一休.com をご愛顧賜りまして、誠にありがとうございます。 弊社にて発生した掲題の事象について重要なご連絡があり、本メールをお送りしております。 このたび、弊社の開発用データベース（一休.comサービスの開発に使用するデータのみを格納したデータベース）に対し、 第三者による不正アクセスが発生いたし...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "56aab8e35a6c6863d441"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

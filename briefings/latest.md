@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T14:00:10+00:00_
+_Generiert: 2026-09-30T14:31:13+00:00_
 
 ## Kurzlage
 
-78 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+80 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
