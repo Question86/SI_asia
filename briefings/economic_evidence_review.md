@@ -1,9 +1,9 @@
 # Economic Evidence Review
 
-Generated: `2026-09-30T10:01:51+00:00`
+Generated: `2026-09-30T10:25:07+00:00`
 FX as of: `None`
 
-- Candidates: **1421**
+- Candidates: **1422**
 - Promoted: **0**
 
 | Candidate | Event | USD | Component | Status |
@@ -45,6 +45,6 @@ FX as of: `None`
 | `cand_7c5a314f4832b9edbc8e` | `evt_43856848b80264610146` | — | capital_allocation | pending |
 | `cand_f25b024775cb3f4d2c29` | `evt_5a8609c38e0d544999d3` | $2,000,000,000,000 | capital_allocation | pending |
 | `cand_2fa214c8fe552e56a28a` | `evt_cc17b4bd401d2aacd3f1` | $8,000,000,000 | real_resource | pending |
+| `cand_eca6305045e1ad21801d` | `evt_cc17b4bd401d2aacd3f1` | $1,000,000,000 | valuation | pending |
 | `cand_5d7f47597efd5d383162` | `evt_cc17b4bd401d2aacd3f1` | $444,000,000 | capital_allocation | pending |
 | `cand_0805ce45f5ef6d8ab94e` | `evt_cc17b4bd401d2aacd3f1` | $255,000,000 | capital_allocation | pending |
-| `cand_ee733174164747c6be68` | `evt_5a8609c38e0d544999d3` | — | real_resource | pending |
