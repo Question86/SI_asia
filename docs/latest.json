@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T00:30:06+00:00",
-  "run_id": "2026-09-30T00:30:06+00:00",
+  "generated_at": "2026-09-30T01:18:46+00:00",
+  "run_id": "2026-09-30T01:18:46+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 3
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 1,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
-    "medium": 1,
+    "medium": 2,
     "observe": 1,
     "source_errors": 0
   },
@@ -51,6 +51,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f4b3b758c04488bd0aba"
+      },
+      {
+        "title": "The cross-border due diligence questions most founders cannot answer",
+        "url": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-30T01:00:22+00:00",
+        "fetched_at": "2026-09-30T01:18:15+00:00",
+        "summary": "A founder pitched me earlier this year on his semiconductor company. The deck was clean. The market was real. The technology was genuinely differentiated. The Singapore entity was properly incorporated, the cap table looked orderly, and the revenue was growing. Then I asked him three questions. Where does your intellectual property legally sit? Who owns […] The post The cross-border due diligence questions most foun…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Public Health"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f00682278c324ed0f687"
       }
     ],
     "observe": [
@@ -103,6 +125,28 @@
       "id": "f4b3b758c04488bd0aba"
     },
     {
+      "title": "The cross-border due diligence questions most founders cannot answer",
+      "url": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-30T01:00:22+00:00",
+      "fetched_at": "2026-09-30T01:18:15+00:00",
+      "summary": "A founder pitched me earlier this year on his semiconductor company. The deck was clean. The market was real. The technology was genuinely differentiated. The Singapore entity was properly incorporated, the cap table looked orderly, and the revenue was growing. Then I asked him three questions. Where does your intellectual property legally sit? Who owns […] The post The cross-border due diligence questions most foun…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Public Health"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f00682278c324ed0f687"
+    },
+    {
       "title": "オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab",
       "url": "https://tech-lab.sios.jp/archives/54936",
       "source": "Hatena Bookmark Hotentry IT",
@@ -127,49 +171,26 @@
   ],
   "new_findings": [
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）",
-      "url": "https://jvn.jp/vu/JVNVU93754811/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "The cross-border due diligence questions most founders cannot answer",
+      "url": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-30T09:00:00+09:00",
-      "fetched_at": "2026-09-30T00:29:35+00:00",
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "published_at": "2026-09-30T01:00:22+00:00",
+      "fetched_at": "2026-09-30T01:18:15+00:00",
+      "summary": "A founder pitched me earlier this year on his semiconductor company. The deck was clean. The market was real. The technology was genuinely differentiated. The Singapore entity was properly incorporated, the cap table looked orderly, and the revenue was growing. Then I asked him three questions. Where does your intellectual property legally sit? Who owns […] The post The cross-border due diligence questions most foun…",
       "matched_keywords": [
-        "advisory",
         "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "founder",
+        "Public Health"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f4b3b758c04488bd0aba"
-    },
-    {
-      "title": "オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab",
-      "url": "https://tech-lab.sios.jp/archives/54936",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-29T23:26:36+00:00",
-      "fetched_at": "2026-09-30T00:29:35+00:00",
-      "summary": "手元のボタンを見るだけで、どの Claude Code が作業中で、どれが確認待ちで、どれが終わったのかが一目で分かる。 ボタンを押せば、そのターミナルに一発で飛べる。 作業が終わったら、ずんだもんが「何をやって、次に何をすればいいか」を声で教えてくれる。 そんな作業環境をStream Deckとherdr、ローカルLLM、そして...",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "09403eaf2aae7938de03"
+      "id": "f00682278c324ed0f687"
     }
   ],
   "source_errors": [],

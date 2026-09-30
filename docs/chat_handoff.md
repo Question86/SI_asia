@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T00:30:06+00:00_
+_Generated: 2026-09-30T01:18:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `3`
 
 ## Top Signals
 
@@ -15,7 +15,14 @@ _Generated: 2026-09-30T00:30:06+00:00_
 - url: https://jvn.jp/vu/JVNVU93754811/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
+### 2. The cross-border due diligence questions most founders cannot answer
+- source: e27 Asia Startup and Tech Feed
+- score: `14`
+- published: `2026-09-30T01:00:22+00:00`
+- url: https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/
+- summary: A founder pitched me earlier this year on his semiconductor company. The deck was clean. The market was real. The technology was genuinely differentiated. The Singapore entity was properly incorporated, the cap table looked orderly, and the revenue was growin…
+
+### 3. オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-29T23:26:36+00:00`
