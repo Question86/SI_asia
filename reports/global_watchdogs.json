@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T05:23:03+00:00",
+  "generated_at": "2026-09-30T05:36:28+00:00",
   "sections": {
     "global_security": [
       {
@@ -95,6 +95,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10.792km) in Japan 30/09/2026 05:00 UTC, 2 thousand in MMI&gt;=III.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:10.792km) in Japan 30/09/2026 05:00 UTC, 2 thousand in MMI&gt;=III.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568726",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green notification for tropical cyclone TWENTYSIX-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "summary": "Green notification for tropical cyclone TWENTYSIX-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
@@ -143,7 +153,7 @@
         "metrics": {
           "mag": 5.6,
           "alert": "green",
-          "sig": 483.0,
+          "sig": 485.0,
           "tsunami": 0
         }
       }
