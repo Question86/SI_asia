@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-30T02:57:23+00:00",
-  "today_file_total": 11,
+  "generated_at": "2026-09-30T03:19:39+00:00",
+  "today_file_total": 13,
   "current_clusters": [
     {
-      "key": "earthquake:philippines:4.5",
-      "title": "M 4.5 - 104 km SSE of Sarangani, Philippines",
+      "key": "earthquake:indonesia:4.5",
+      "title": "M 4.5 - 112 km SSW of Banda Aceh, Indonesia",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -12,7 +12,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0"
       ],
       "finding_count": 1,
       "max_score": 15,
@@ -71,6 +71,31 @@
       "network_score": 18.1,
       "hot": false,
       "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:philippines:4.5",
+      "title": "M 4.5 - 104 km SSE of Sarangani, Philippines",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
@@ -191,6 +216,29 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:why-social-commerce-seeding-replacing-upfront-influencer-retainers",
+      "title": "Why social commerce seeding is replacing upfront influencer retainers",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 11.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "domain:www.ecb.europa.eu",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T02:57:20+00:00_
+_Generiert: 2026-09-30T03:19:37+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „A 20% stablecoin APY may be less magical than it sounds“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+13 neue relevante Treffer. Stärkstes Signal: „A 20% stablecoin APY may be less magical than it sounds“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.5 - 112 km SSW of Banda Aceh, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-30T03:01:50.040+00:00`, fetched `2026-09-30T03:19:08+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-30 02:35:50 UTC 2026-09-30 02:35:50 UTC at epicenter Location 4.649°N 94.852°E Depth 33.87 km (21.05 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 104 km SSE of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-30T02:52:39.040+00:00`, fetched `2026-09-30T02:56:48+00:00`
@@ -152,6 +161,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Frank Elderson: Supervisory risk appetite, efficiency and effectiveness
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why social commerce seeding is replacing upfront influencer retainers** — Score 6, observation — [Quelle](https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-30T03:00:25+00:00`, fetched `2026-09-30T03:19:08+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
+  - Kurz: Consumer brands across Southeast Asia and global e-commerce hubs face an unforgiving mathematical reality in their paid media accounts. Customer acquisition costs across Meta, TikTok, and Google climbed between 60 and 80 per cent over the past 18 months, while the conversion efficiency of traditional influencer sponsorships collapsed. For years, marketing teams wired guaranteed upfront […] The post Why social commer…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/30/2000001873/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

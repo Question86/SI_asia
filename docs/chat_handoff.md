@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T02:57:20+00:00_
+_Generated: 2026-09-30T03:19:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `11`
+- findings: `13`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-30T02:57:20+00:00_
 - url: https://jvn.jp/vu/JVNVU93754811/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. M 4.5 - 104 km SSE of Sarangani, Philippines
+### 3. M 4.5 - 112 km SSW of Banda Aceh, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-09-30T03:01:50.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0
+- summary: Time 2026-09-30 02:35:50 UTC 2026-09-30 02:35:50 UTC at epicenter Location 4.649°N 94.852°E Depth 33.87 km (21.05 mi)
+
+### 4. M 4.5 - 104 km SSE of Sarangani, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-09-30T02:52:39.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz
 - summary: Time 2026-09-30 02:30:44 UTC 2026-09-30 02:30:44 UTC at epicenter Location 4.502°N 125.747°E Depth 156.85 km (97.46 mi)
-
-### 4. M 4.8 - 18 km SW of Tayaman, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-30T02:02:17.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygs
-- summary: Time 2026-09-30 01:34:05 UTC 2026-09-30 01:34:05 UTC at epicenter Location 13.092°N 120.473°E Depth 10.00 km (6.21 mi)
 
 ### 5. オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
 - source: Hatena Bookmark Hotentry IT
