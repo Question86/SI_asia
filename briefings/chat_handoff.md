@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T04:04:10+00:00_
+_Generated: 2026-09-30T04:30:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `17`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-30T04:04:10+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz
 - summary: Time 2026-09-30 02:30:44 UTC 2026-09-30 02:30:44 UTC at epicenter Location 4.502°N 125.747°E Depth 156.85 km (97.46 mi)
 
-### 5. オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
+### 5. Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-09-30T04:23:12+00:00`
+- url: https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/
+- summary: Japan’s education companies are increasingly looking beyond a home market shaped by a shrinking population. Kawaijuku, one of the country’s larger private education providers, is taking a venture-capital route into Vietnam. KJ Holdings, the holding company of…
+
+### 6. オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-29T23:26:36+00:00`
 - url: https://tech-lab.sios.jp/archives/54936
 - summary: 手元のボタンを見るだけで、どの Claude Code が作業中で、どれが確認待ちで、どれが終わったのかが一目で分かる。 ボタンを押せば、そのターミナルに一発で飛べる。 作業が終わったら、ずんだもんが「何をやって、次に何をすればいいか」を声で教えてくれる。 そんな作業環境をStream Deckとherdr、ローカルLLM、そして...
 
-### 6. Why AI could unbundle the beauty industry
+### 7. Why AI could unbundle the beauty industry
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-30T01:30:28+00:00`
 - url: https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/
 - summary: A new beauty brand no longer needs to look much like a traditional beauty company. It does not need its own factory, a large product-development department or a nationwide retail network. Specialist manufacturers can formulate, produce and package cosmetics f…
 
-### 7. M 4.8 - 75 km NE of Tadine, New Caledonia
+### 8. M 4.8 - 75 km NE of Tadine, New Caledonia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-30T01:35:08.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq
 - summary: Time 2026-09-30 01:17:47 UTC 2026-09-30 01:17:47 UTC at epicenter Location 21.009°S 168.328°E Depth 10.00 km (6.21 mi)
-
-### 8. Frank Elderson: Supervisory risk appetite, efficiency and effectiveness
-- source: ECB Press Releases Speeches Interviews
-- score: `8`
-- published: `2026-09-30T02:20:00+00:00`
-- url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html
-- summary: Frank Elderson: Supervisory risk appetite, efficiency and effectiveness
 
 END OF DOCUMENT

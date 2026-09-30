@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T04:04:10+00:00_
+_Generiert: 2026-09-30T04:30:03+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „A 20% stablecoin APY may be less magical than it sounds“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+17 neue relevante Treffer. Stärkstes Signal: „A 20% stablecoin APY may be less magical than it sounds“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -135,6 +135,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market** — Score 12, observation — [Quelle](https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-30T04:23:12+00:00`, fetched `2026-09-30T04:29:32+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Japan’s education companies are increasingly looking beyond a home market shaped by a shrinking population. Kawaijuku, one of the country’s larger private education providers, is taking a venture-capital route into Vietnam. KJ Holdings, the holding company of the Japanese education group, has invested in Do Ventures Fund II, a fund managed by Ho Chi Minh […] The post Japan’s Kawaijuku backs Do Ventures to enter Viet…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab** — Score 11, observation — [Quelle](https://tech-lab.sios.jp/archives/54936)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-29T23:26:36+00:00`, fetched `2026-09-30T00:29:35+00:00`
@@ -197,15 +206,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 誤送付されたデータは、カナ氏名と、保険料控除用証券番号、業務IDの3項目。証券番号は損保ジャパン固有の識別番号で、第三者がこの番号だけで個人や契約内容を特定・照会できない。業務IDは、控除証明書の発行年、損害保険会社の識別番号、対象契約の証券番号を組み合わせた、証明書単位のユニークキー。 漢字氏名や住...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The sovereign shift: Why nation states are trading gold for Bitcoin** — Score 4, observation — [Quelle](https://e27.co/the-sovereign-shift-why-nation-states-are-trading-gold-for-bitcoin-20260930/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-30T03:38:35+00:00`, fetched `2026-09-30T03:41:03+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:agriculture_food_fertilizer
-  - Watchgraph: agriculture_food_fertilizer
-  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0); watchgraph demote demo (x0.45)
-  - Kurz: Bitcoin shifts from a speculative retail asset to an institutional cornerstone of global finance. Recent developments in sovereign wealth fund allocations, the creation of institutional financial products, and massive ETF inflows demonstrate a profound structural shift. The data reveals a market maturing rapidly, even as it grapples with inherent tensions between traditional financial co-option and […] The post The…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
