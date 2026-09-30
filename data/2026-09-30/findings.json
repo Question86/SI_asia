@@ -372,6 +372,43 @@
     "id": "7e85e8c4ac50b0fd8205"
   },
   {
+    "title": "M 4.6 - 131 km SE of Itoman, Japan",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tym9",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-30T21:53:25.040+00:00",
+    "fetched_at": "2026-09-30T21:56:11+00:00",
+    "summary": "Time 2026-09-30 21:11:57 UTC 2026-09-30 21:11:57 UTC at epicenter Location 25.217°N 128.508°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "dd38722bafb1b2df9d25"
+  },
+  {
     "title": "[NEU] [hoch] OWASP ModSecurity: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3666",
     "source": "BSI CERT-Bund Security Advisories",
