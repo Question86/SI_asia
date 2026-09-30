@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T09:40:51+00:00",
-  "run_id": "2026-09-30T09:40:51+00:00",
+  "generated_at": "2026-09-30T09:53:35+00:00",
+  "run_id": "2026-09-30T09:53:35+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 48,
     "displayed_findings": 48,
     "high": 0,
@@ -2573,28 +2573,7 @@
       "id": "d656d83316676b7ff635"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Digital innovation - hindrance or booster for banks’ business models?",
-      "url": "https://www.bis.org/speeches/20260930-digital-innovation-hindrance-or-booster-banks-business-models",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-30T00:00:00+00:00",
-      "fetched_at": "2026-09-30T09:40:23+00:00",
-      "summary": "Keynote speech by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the, annual Foreign Bankers’ Association of the Netherlands conference, Amsterdam, 22 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "705fbd0fae0154138b16"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
