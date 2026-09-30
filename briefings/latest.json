@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T21:36:25+00:00",
-  "run_id": "2026-09-30T21:36:25+00:00",
+  "generated_at": "2026-09-30T21:47:46+00:00",
+  "run_id": "2026-09-30T21:47:46+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 94
+      "configured_public_sources_only": 95
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 94,
-    "displayed_findings": 94,
+    "today_file_total": 95,
+    "displayed_findings": 95,
     "high": 0,
-    "medium": 35,
+    "medium": 36,
     "observe": 59,
     "source_errors": 0
   },
@@ -163,6 +163,31 @@
           "LOW"
         ],
         "id": "c4d910f69041acdebdf4"
+      },
+      {
+        "title": "Gemini 4 Argon: our next era of frontier intelligence",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-30T20:28:49+00:00",
+        "fetched_at": "2026-09-30T21:47:19+00:00",
+        "summary": "Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security...",
+        "matched_keywords": [
+          "AI/KI",
+          "developer",
+          "Hatena",
+          "hotentry",
+          "Security",
+          "technology"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "AI/KI (+3.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); developer (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a4fb7ba70e547bebdeea"
       },
       {
         "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
@@ -2528,6 +2553,31 @@
       "id": "c4d910f69041acdebdf4"
     },
     {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-30T20:28:49+00:00",
+      "fetched_at": "2026-09-30T21:47:19+00:00",
+      "summary": "Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security...",
+      "matched_keywords": [
+        "AI/KI",
+        "developer",
+        "Hatena",
+        "hotentry",
+        "Security",
+        "technology"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "AI/KI (+3.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); developer (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a4fb7ba70e547bebdeea"
+    },
+    {
       "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3672",
       "source": "BSI CERT-Bund Security Advisories",
@@ -4753,25 +4803,29 @@
   ],
   "new_findings": [
     {
-      "title": "アンケート結果をダウンロードしたら他社の従業員情報が…… ベネフィット・ワン、1万3460人分漏えい",
-      "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001908/",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-30T13:38:46+00:00",
-      "fetched_at": "2026-09-30T21:35:57+00:00",
-      "summary": "福利厚生サービスを手掛けるベネフィット・ワンは9月30日、企業・団体の担当者向けサービス「ベネワン・プラットフォーム」で個人情報が漏えいしたと発表した。対象は2322企業・団体の1万3460人。担当者がアンケート結果をダウンロードする際、本来アクセスできない他社などの従業員情報が表示される状態になっていたと...",
+      "published_at": "2026-09-30T20:28:49+00:00",
+      "fetched_at": "2026-09-30T21:47:19+00:00",
+      "summary": "Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security...",
       "matched_keywords": [
+        "AI/KI",
+        "developer",
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "Security",
+        "technology"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 18,
+      "relevance_reason": "AI/KI (+3.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); developer (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3a5ed89ea637f7ec4c6a"
+      "id": "a4fb7ba70e547bebdeea"
     }
   ],
   "source_errors": [],

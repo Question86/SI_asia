@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T21:36:25+00:00_
+_Generated: 2026-09-30T21:47:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `94`
+- findings: `95`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-30T21:36:25+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-30 05:00:24 UTC 2026-09-30 05:00:24 UTC at epicenter Location 23.803°N 122.915°E Depth 10.79 km (6.71 mi)
 
-### 4. [NEU] [hoch] n8n: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
+### 4. Gemini 4 Argon: our next era of frontier intelligence
+- source: Hatena Bookmark Hotentry IT
 - score: `18`
-- published: `2026-09-30T11:51:29+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3672
-- summary: Ein Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsmechanismen zu umgehen, um Informationen offenzulegen oder zu manipulieren, sowie um einen Denial of Service herbeizuführen.
+- published: `2026-09-30T20:28:49+00:00`
+- url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
+- summary: Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Clou…
 
 ### 5. M 5.4 - Balleny Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
