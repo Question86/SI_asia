@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T08:00:46+00:00_
+_Generated: 2026-09-30T08:32:18+00:00_
 
 ## Status
-- status: `normal`
-- findings: `39`
+- status: `warning`
+- findings: `45`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-30T08:00:46+00:00_
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html
 - summary: Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 7. Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market
+### 7. はてな匿名ダイアリーがChatGPTから使えるようになりました - はてラボ 開発者ブログ
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-09-30T06:22:41+00:00`
+- url: https://labo.hatenastaff.com/entry/2026/09/30/151500
+- summary: 先日、はてな匿名ダイアリーの20周年をお知らせした際に、今後も新しい取り組みを進めていくことをご案内しました。 そのひとつとして、このたび実験的に、はてな匿名ダイアリーがChatGPTから使えるようになりましたことをお知らせします。 ChatGPTとの会話の中から、はてな匿名ダイアリーの投稿を探したり、読んだり、...
+
+### 8. Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-30T04:23:12+00:00`
 - url: https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/
 - summary: Japan’s education companies are increasingly looking beyond a home market shaped by a shrinking population. Kawaijuku, one of the country’s larger private education providers, is taking a venture-capital route into Vietnam. KJ Holdings, the holding company of…
-
-### 8. PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行
-- source: TWCERT/CC Security News RSS
-- score: `11`
-- published: `2026-09-30T07:34:00+00:00`
-- url: https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html
-- summary: Cyera Research於2026年9月1日公開研究報告，揭露PostgreSQL邏輯解碼（Logical Decoding）功能存在一項漏洞，編號為CVE-2026-6471，CVSS分數為7.2，並命名為「PostGREShell」。具REPLICATION權限的非超級使用者（non-superuser）可利用此漏洞執行任意程式碼。PostgreSQL Global Development Group已於2026年8月13日釋出修補版本。截至2026年9月9日，公開資料未載明已有實際攻擊事件。 漏洞源自邏…
 
 END OF DOCUMENT
