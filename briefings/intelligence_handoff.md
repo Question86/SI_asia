@@ -1,18 +1,38 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-30T01:21:53Z_
+_Generated: 2026-09-30T01:58:12Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “The cross-border due diligence questions most founders cannot answer” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
 
 ## Top Dynamics
+
+### CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-30T09:00:00+09:00` / age_days `0.08`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
+- Quelle: https://jvn.jp/vu/JVNVU93754811/
+
+### Why AI could unbundle the beauty industry
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-30T01:30:28+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/
 
 ### The cross-border due diligence questions most founders cannot answer
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-09-30T01:18:49+00:00` / age_days `0.0`
+- Dynamics score: `23.5`
+- Published: `2026-09-30T01:18:49+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
@@ -20,52 +40,92 @@ Stärkste Dynamik nach Gate-Recheck: “The cross-border due diligence questions
 
 ### CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-30T09:00:00+09:00` / age_days `0.06`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
-- Quelle: https://jvn.jp/vu/JVNVU93754811/
-
-### CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）
-
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `102.97`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `103.0`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 103.0d old signal
 - Quelle: https://jvn.jp/vu/JVNVU93754811/
 
+### M 4.8 - 75 km NE of Tadine, New Caledonia
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-09-30T01:35:08.040+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq
+
+### オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.5`
+- Published: `2026-09-30T00:30:10+00:00` / age_days `0.06`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +2, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://tech-lab.sios.jp/archives/54936
+
 ### The cross-border due diligence questions most founders cannot answer
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-30T01:00:22+00:00` / age_days `0.01`
+- Published: `2026-09-30T01:00:22+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/
 
-### オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
+### M 4.8 - 75 km NE of Tadine, New Caledonia
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `12.0`
-- Published: `2026-09-30T00:30:10+00:00` / age_days `0.04`
+- Dynamics score: `13.4`
+- Published: `2026-09-30T01:49:27+00:00` / age_days `0.01`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq
+
+### Why AI could unbundle the beauty industry
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `8.5`
+- Published: `2026-09-30T01:49:27+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://tech-lab.sios.jp/archives/54936
+- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/
+
+### タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `8.5`
+- Published: `2026-06-19T12:31:48+00:00` / age_days `102.56`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, aging penalty -8.0 for 102.6d old signal
+- Quelle: https://togetter.com/li/2752131
 
 ### オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-09-29T23:26:36+00:00` / age_days `0.08`
+- Published: `2026-09-29T23:26:36+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://tech-lab.sios.jp/archives/54936
+
+### タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-09-29T23:47:03+00:00` / age_days `0.09`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://togetter.com/li/2752131
 
 END OF DOCUMENT
