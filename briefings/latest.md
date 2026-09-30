@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T22:58:40+00:00_
+_Generiert: 2026-09-30T23:18:49+00:00_
 
 ## Kurzlage
 
-98 neue relevante Treffer. Stärkstes Signal: „GitHub - nanaism/yomiyasu: AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+101 neue relevante Treffer. Stärkstes Signal: „GitHub - nanaism/yomiyasu: AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -140,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: CPF Ordinary Account pays 2.5 per cent, and Singaporeans queue for Treasury bills when yields rise. So when anyone quotes a 20 per cent annual percentage yield on stablecoins, a sensible person should ask one question first: who is paying it, and why? I ask because I once paid for not asking. In 2022, I […] The post A 20% stablecoin APY may be less magical than it sounds appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Codexを使うなら、/recap・/copy・/exportを押さえておきたい - じゃあ、おうちで学べる** — Score 16, observation — [Quelle](https://syu-m-5151.hatenablog.com/entry/2026/09/29/161928)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-30T13:28:33+00:00`, fetched `2026-09-30T23:18:14+00:00`
+  - Treffer: Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: はじめに Codex CLIには、会話を要約する /recap、出力をコピーする /copy、会話全体を書き出す /export があります。いずれも会話に蓄積された情報を扱う機能ですが、対象と用途が異なります。 この記事では、3つのコマンドの役割と、関連する /compact・/status・/diff との違いを整理します。要約、コピー、保存で何...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [hoch] Red Hat Enterprise Linux (pki-core und dogtag-pki): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3662)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-30T11:16:29+00:00`, fetched `2026-09-30T11:31:26+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: At a Rest of World event in New York last week, speakers explored how countries sidelined by the U.S.-China race can retain some control over safety standards as they adopt models from OpenAI, Anthropic, and others.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **富士フイルムビジネスイノベーション製およびシャープ製複合機（MFP）におけるパストラバーサルの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90160989/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-30T12:30:00+09:00`, fetched `2026-09-30T03:41:03+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 富士フイルムビジネスイノベーション製およびシャープ製の複合機（MFP）には、パストラバーサルの脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
