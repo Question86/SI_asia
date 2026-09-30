@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:10:16+00:00",
+  "generated_at": "2026-09-30T22:27:40+00:00",
   "sections": {
     "global_security": [
       {
@@ -95,6 +95,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Costa Rica 30/09/2026 21:55 UTC, 100 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Costa Rica 30/09/2026 21:55 UTC, 100 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568826",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10.792km) in Japan 30/09/2026 05:00 UTC, 2 thousand in MMI&gt;=III.",
         "summary": "Green earthquake (Magnitude 5.6M, Depth:10.792km) in Japan 30/09/2026 05:00 UTC, 2 thousand in MMI&gt;=III.",
         "source": "GDACS",
@@ -134,26 +144,16 @@
       },
       {
         "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone HANNA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone HANNA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001330",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.6 - 84 km SW of Tamarindo, Costa Rica",
-        "summary": "M5.6 - 84 km SW of Tamarindo, Costa Rica. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.6 - 84 km SW of Tamarindo, Costa Rica. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tymj",
         "published_at": "2026-09-30T21:55:27+00:00",
         "metrics": {
           "mag": 5.6,
-          "alert": "",
-          "sig": 482.0,
+          "alert": "green",
+          "sig": 483.0,
           "tsunami": 0
         }
       }
