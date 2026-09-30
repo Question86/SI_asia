@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T07:01:05+00:00_
+_Generated: 2026-09-30T08:00:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `39`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-30T07:01:05+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhi
 - summary: PAGER - GREEN ShakeMap - I Time 2026-09-30 04:48:06 UTC 2026-09-30 04:48:06 UTC at epicenter Location 63.009°S 169.216°E Depth 10.00 km (6.21 mi)
 
-### 6. Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market
+### 6. Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-09-30T08:15:18+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html
+- summary: Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45
+
+### 7. Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-30T04:23:12+00:00`
 - url: https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/
 - summary: Japan’s education companies are increasingly looking beyond a home market shaped by a shrinking population. Kawaijuku, one of the country’s larger private education providers, is taking a venture-capital route into Vietnam. KJ Holdings, the holding company of…
 
-### 7. MoneyHero shareholder urges board to explore sale after stock slump
-- source: e27 Asia Startup and Tech Feed
+### 8. PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行
+- source: TWCERT/CC Security News RSS
 - score: `11`
-- published: `2026-09-30T05:51:23+00:00`
-- url: https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/
-- summary: MoneyHero Limited is facing a public push from its largest unaffiliated shareholder to consider a sale, as the Singapore-based personal finance platform contends with leadership uncertainty, stalled revenue growth and a sharp fall in its Nasdaq-listed shares.…
-
-### 8. オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-09-29T23:26:36+00:00`
-- url: https://tech-lab.sios.jp/archives/54936
-- summary: 手元のボタンを見るだけで、どの Claude Code が作業中で、どれが確認待ちで、どれが終わったのかが一目で分かる。 ボタンを押せば、そのターミナルに一発で飛べる。 作業が終わったら、ずんだもんが「何をやって、次に何をすればいいか」を声で教えてくれる。 そんな作業環境をStream Deckとherdr、ローカルLLM、そして...
+- published: `2026-09-30T07:34:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html
+- summary: Cyera Research於2026年9月1日公開研究報告，揭露PostgreSQL邏輯解碼（Logical Decoding）功能存在一項漏洞，編號為CVE-2026-6471，CVSS分數為7.2，並命名為「PostGREShell」。具REPLICATION權限的非超級使用者（non-superuser）可利用此漏洞執行任意程式碼。PostgreSQL Global Development Group已於2026年8月13日釋出修補版本。截至2026年9月9日，公開資料未載明已有實際攻擊事件。 漏洞源自邏…
 
 END OF DOCUMENT

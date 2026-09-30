@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-09-30T07:01:07+00:00_
+_Generiert: 2026-09-30T08:00:50+00:00_
 
 ## mvschwarz/openrig
 
-- Ranking Score: `32.5`
-- Raw Network Score: `28.1`
+- Ranking Score: `30.0`
+- Raw Network Score: `25.1`
 - Max Monitor Score: `23`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
@@ -13,14 +13,14 @@ _Generiert: 2026-09-30T07:01:07+00:00_
 - Quellen: GitHub Trending RSS All Languages Daily
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://github.com/mvschwarz/openrig
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
 ## NVIDIA/OpenShell
 
-- Ranking Score: `30.5`
-- Raw Network Score: `26.1`
+- Ranking Score: `28.0`
+- Raw Network Score: `23.1`
 - Max Monitor Score: `21`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
@@ -28,22 +28,22 @@ _Generiert: 2026-09-30T07:01:07+00:00_
 - Quellen: GitHub Trending RSS All Languages Daily
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://github.com/NVIDIA/OpenShell
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
-## t8y2/dbx
+## Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45
 
-- Ranking Score: `25.5`
-- Raw Network Score: `21.1`
-- Max Monitor Score: `16`
-- Reichweite: `specialist` / `2.5`
-- Early Signal: `ja`
-- Dominanter Emitter: `nein`
-- Quellen: GitHub Trending RSS All Languages Daily
-- Klassen: tier3_specialist
-- Cross-source bestaetigt: nein
+- Ranking Score: `27.3`
+- Raw Network Score: `25.2`
+- Max Monitor Score: `12`
+- Reichweite: `institutional` / `5.0`
+- Early Signal: `nein`
+- Dominanter Emitter: `ja`
+- Quellen: ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews
+- Klassen: central_bank, tier3_specialist
+- Cross-source bestaetigt: ja
 - Momentum: increasing (+1)
-- Erste Quelle: https://github.com/t8y2/dbx
-- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
+- Erste Quelle: http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html
+- Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 

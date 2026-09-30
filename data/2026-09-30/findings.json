@@ -420,6 +420,28 @@
     "id": "23b2b1bca5d9b1b98b15"
   },
   {
+    "title": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
+    "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html",
+    "source": "ECB Open Market Operations and Communication",
+    "source_type": "rss",
+    "published_at": "2026-09-30T08:15:18+00:00",
+    "fetched_at": "2026-09-30T08:00:10+00:00",
+    "summary": "Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45",
+    "matched_keywords": [
+      "liquidity",
+      "Macro/Policy",
+      "open market operations"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0266b8b7a27033a64bac"
+  },
+  {
     "title": "Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market",
     "url": "https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -462,6 +484,27 @@
     "id": "9966489f99dfac44acce"
   },
   {
+    "title": "PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行",
+    "url": "https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html",
+    "source": "TWCERT/CC Security News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-30T07:34:00+00:00",
+    "fetched_at": "2026-09-30T08:00:10+00:00",
+    "summary": "Cyera Research於2026年9月1日公開研究報告，揭露PostgreSQL邏輯解碼（Logical Decoding）功能存在一項漏洞，編號為CVE-2026-6471，CVSS分數為7.2，並命名為「PostGREShell」。具REPLICATION權限的非超級使用者（non-superuser）可利用此漏洞執行任意程式碼。PostgreSQL Global Development Group已於2026年8月13日釋出修補版本。截至2026年9月9日，公開資料未載明已有實際攻擊事件。 漏洞源自邏輯解碼外掛載入機制 邏輯解碼是PostgreSQL將預寫式日誌（Write-Ahead Log, WAL）中的資料變更轉換為外部系統可讀格式的機制，常用於資料複寫與變更資料擷取。PostgreSQL 自 2014 年發布的 9.4 版本起正式支援此功能，意味該漏洞在被發現前可能已存在12年。 此漏洞源於PostgreS…",
+    "matched_keywords": [
+      "Security",
+      "TWCERT"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "010bad3ff2b056c326f8"
+  },
+  {
     "title": "MoneyHero shareholder urges board to explore sale after stock slump",
     "url": "https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -481,6 +524,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6b4e7257fe5d2ade41db"
+  },
+  {
+    "title": "Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+    "url": "https://www.bis.org/speeches/20260930-hearing-committee-economic-and-monetary-affairs-european-parliament",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-30T00:00:00+00:00",
+    "fetched_at": "2026-09-30T08:00:10+00:00",
+    "summary": "Speech by Ms Christine Lagarde, President of the European Central Bank, at the Hearing of the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 28 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: parliament"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "bc6fb4d6b608428c6395"
   },
   {
     "title": "オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab",
@@ -524,6 +609,63 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "502a9c3fcbcfe94fd840"
+  },
+  {
+    "title": "M 5.2 - Balleny Islands region",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyik",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-30T07:42:11.040+00:00",
+    "fetched_at": "2026-09-30T08:00:10+00:00",
+    "summary": "Time 2026-09-30 07:07:16 UTC 2026-09-30 07:07:16 UTC at epicenter Location 63.562°S 171.414°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "9a9acbfa551bec05c423"
+  },
+  {
+    "title": "CISA更新Medusa勒索軟體安全防護指引：揭露新型勒索手法與入侵指標",
+    "url": "https://www.twcert.org.tw/tw/cp-104-11248-91041-1.html",
+    "source": "TWCERT/CC Security News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-30T07:38:00+00:00",
+    "fetched_at": "2026-09-30T08:00:10+00:00",
+    "summary": "美國聯邦調查局（FBI）、網路安全和基礎設施安全局（CISA）及衛生及公共服務部(HHS)近日聯合發布針對勒索軟體「Medusa」的安全防護指引更新。報告指出，截至2026年4月，該勒索軟體在全球已造成超過500家機構受害，受影響範圍涵蓋醫療、教育、製造及科技等多個關鍵基礎設施領域。 Medusa自2021年6月首度被發現，近年演變為採用「勒索軟體即服務」(RaaS)的加盟營運模式，其主要的入侵手法與技術特徵如下： 1. 結合初期存取仲介（IAB）：攻擊者常於網路犯罪論壇向初期存取仲介購買受害機構的內網存取權限。 2. 快速利用已知資安漏洞：攻擊者密切關注新發布的漏洞訊息，最快能在漏洞公開後的24小時內迅速發動攻擊，鎖定尚未完成安全性修補的系統。 3. 雙重勒索機制：除將受害者裝置內的檔案加密外，還會威脅若不支付贖金，便會將竊取的資料公布在特設的洩密網站上。 此次更新中特別揭露一起重複索賠案例：受害者在支付贖金後，隨即遭到另一…",
+    "matched_keywords": [
+      "Security",
+      "TWCERT"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d51eaebb494c4680c180"
   },
   {
     "title": "MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push",
@@ -601,6 +743,46 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6ae5acbffcdd8c1eb40b"
+  },
+  {
+    "title": "Keynote speech - Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum",
+    "url": "https://www.bis.org/speeches/20260930-keynote-speech-hong-kong-green-finance-association-hkgfa-gba-green-finance-alliance-annual-forum-gfa-annual-forum",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-30T00:00:00+00:00",
+    "fetched_at": "2026-09-30T08:00:10+00:00",
+    "summary": "Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum, Hong Kong, 7 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8b672a9d1aa46053092a"
+  },
+  {
+    "title": "Good practices of green finance in Southeast Asia",
+    "url": "https://www.bis.org/speeches/20260930-good-practices-green-finance-southeast-asia",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-30T00:00:00+00:00",
+    "fetched_at": "2026-09-30T08:00:10+00:00",
+    "summary": "Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Bank of China (Hong Kong) Green Forum 2026 and Sharing Workshop “Good practices of green finance in Southeast Asia”, Hong Kong, 7 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: China, Hong Kong (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2c2bfa9f8fe9cc3985ef"
   },
   {
     "title": "電子カルテの導入状況に関するダッシュボードを公開しました",
@@ -702,6 +884,87 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1915d81b3dca68a67e3b"
+  },
+  {
+    "title": "Tending the public garden - accountable for today, stewarding for tomorrow",
+    "url": "https://www.bis.org/speeches/20260928-tending-public-garden-accountable-today-stewarding-tomorrow",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-30T00:00:00+00:00",
+    "fetched_at": "2026-09-30T08:00:10+00:00",
+    "summary": "Remarks by Mr Colm Kincaid, Deputy Governor of the Bank of Ireland, to the DPER (Department of Public Expenditure and Reform) Management Conference, Dublin, 10 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e04291d23bebcc0f3f23"
+  },
+  {
+    "title": "Statement - base rate of the National Bank of Kazakhstan",
+    "url": "https://www.bis.org/speeches/20260930-statement-base-rate-national-bank-kazakhstan",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-30T00:00:00+00:00",
+    "fetched_at": "2026-09-30T08:00:10+00:00",
+    "summary": "Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 24 July 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "89221315d25d96feb7e4"
+  },
+  {
+    "title": "Speech - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion",
+    "url": "https://www.bis.org/speeches/20260930-speech-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-30T00:00:00+00:00",
+    "fetched_at": "2026-09-30T08:00:10+00:00",
+    "summary": "Speech by Ms Soraya Hakuziyaremye, Governor of the National Bank of Rwanda, at the 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion (AFI), Port Morseby, 2 September 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d16ef5ebb25e4cfd68fa"
+  },
+  {
+    "title": "タイムズカー、退会者の免許証画像も「7年」保存していた理由 パーク24に聞いた",
+    "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001877/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-30T04:55:05+00:00",
+    "fetched_at": "2026-09-30T08:00:10+00:00",
+    "summary": "カーシェア「タイムズカー」で、退会者を含む約660万アカウントの情報が漏えいした問題をめぐり、パーク24は取材に対して、漏えいの対象となった退会者の個人情報を、退会後7年間保存していた理由について、「法人税法に基づく取引記録の保管義務のため」と説明した。ただ免許証画像の保存は法人税法に根拠はなく、「な...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "449a6a4aa94324a721f4"
   },
   {
     "title": "免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に",

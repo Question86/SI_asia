@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T07:01:05+00:00_
+_Generiert: 2026-09-30T08:00:46+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+39 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - I Time 2026-09-30 04:48:06 UTC 2026-09-30 04:48:06 UTC at epicenter Location 63.009°S 169.216°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-09-30T08:15:18+00:00`, fetched `2026-09-30T08:00:10+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market** — Score 12, observation — [Quelle](https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-30T04:23:12+00:00`, fetched `2026-09-30T04:29:32+00:00`
@@ -123,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Japan’s education companies are increasingly looking beyond a home market shaped by a shrinking population. Kawaijuku, one of the country’s larger private education providers, is taking a venture-capital route into Vietnam. KJ Holdings, the holding company of the Japanese education group, has invested in Do Ventures Fund II, a fund managed by Ho Chi Minh […] The post Japan’s Kawaijuku backs Do Ventures to enter Viet…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行** — Score 11, observation — [Quelle](https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-09-30T07:34:00+00:00`, fetched `2026-09-30T08:00:10+00:00`
+  - Treffer: Security, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0)
+  - Kurz: Cyera Research於2026年9月1日公開研究報告，揭露PostgreSQL邏輯解碼（Logical Decoding）功能存在一項漏洞，編號為CVE-2026-6471，CVSS分數為7.2，並命名為「PostGREShell」。具REPLICATION權限的非超級使用者（non-superuser）可利用此漏洞執行任意程式碼。PostgreSQL Global Development Group已於2026年8月13日釋出修補版本。截至2026年9月9日，公開資料未載明已有實際攻擊事件。 漏洞源自邏輯解碼外掛載入機制 邏輯解碼是PostgreSQL將預寫式日誌（Write-Ahead Log, WAL）中的資料變更轉換為外部系統可讀格式的機制，常用於資料複寫與變更資料擷取。PostgreSQL 自 2014 年發布的 9.4 版本起正式支援此功能，意味該漏洞在被發現前可能已存在12年。 此漏洞源於PostgreS…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **MoneyHero shareholder urges board to explore sale after stock slump** — Score 11, observation — [Quelle](https://e27.co/moneyhero-shareholder-urges-board-to-explore-sale-after-stock-slump-20260930/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-30T05:51:23+00:00`, fetched `2026-09-30T05:58:00+00:00`
@@ -131,6 +149,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: MoneyHero Limited is facing a public push from its largest unaffiliated shareholder to consider a sale, as the Singapore-based personal finance platform contends with leadership uncertainty, stalled revenue growth and a sharp fall in its Nasdaq-listed shares. Jonathan Honig, who says he beneficially owns about 9 per cent of MoneyHero’s outstanding Class A ordinary shares, […] The post MoneyHero shareholder urges boa…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Hearing of the Committee on Economic and Monetary Affairs of the European Parliament** — Score 11, observation — [Quelle](https://www.bis.org/speeches/20260930-hearing-committee-economic-and-monetary-affairs-european-parliament)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-30T00:00:00+00:00`, fetched `2026-09-30T08:00:10+00:00`
+  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Speech by Ms Christine Lagarde, President of the European Central Bank, at the Hearing of the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 28 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab** — Score 11, observation — [Quelle](https://tech-lab.sios.jp/archives/54936)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -150,6 +177,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)
   - Kurz: A new beauty brand no longer needs to look much like a traditional beauty company. It does not need its own factory, a large product-development department or a nationwide retail network. Specialist manufacturers can formulate, produce and package cosmetics for outside brands, while e-commerce provides access to customers without building physical distribution from scratch. AI […] The post Why AI could unbundle the…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - Balleny Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyik)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-30T07:42:11.040+00:00`, fetched `2026-09-30T08:00:10+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-30 07:07:16 UTC 2026-09-30 07:07:16 UTC at epicenter Location 63.562°S 171.414°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **CISA更新Medusa勒索軟體安全防護指引：揭露新型勒索手法與入侵指標** — Score 9, observation — [Quelle](https://www.twcert.org.tw/tw/cp-104-11248-91041-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-09-30T07:38:00+00:00`, fetched `2026-09-30T08:00:10+00:00`
+  - Treffer: Security, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); recent (+1.0)
+  - Kurz: 美國聯邦調查局（FBI）、網路安全和基礎設施安全局（CISA）及衛生及公共服務部(HHS)近日聯合發布針對勒索軟體「Medusa」的安全防護指引更新。報告指出，截至2026年4月，該勒索軟體在全球已造成超過500家機構受害，受影響範圍涵蓋醫療、教育、製造及科技等多個關鍵基礎設施領域。 Medusa自2021年6月首度被發現，近年演變為採用「勒索軟體即服務」(RaaS)的加盟營運模式，其主要的入侵手法與技術特徵如下： 1. 結合初期存取仲介（IAB）：攻擊者常於網路犯罪論壇向初期存取仲介購買受害機構的內網存取權限。 2. 快速利用已知資安漏洞：攻擊者密切關注新發布的漏洞訊息，最快能在漏洞公開後的24小時內迅速發動攻擊，鎖定尚未完成安全性修補的系統。 3. 雙重勒索機制：除將受害者裝置內的檔案加密外，還會威脅若不支付贖金，便會將竊取的資料公布在特設的洩密網站上。 此次更新中特別揭露一起重複索賠案例：受害者在支付贖金後，隨即遭到另一…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 75 km NE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-30T01:35:08.040+00:00`, fetched `2026-09-30T01:48:57+00:00`
@@ -168,6 +213,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Frank Elderson: Supervisory risk appetite, efficiency and effectiveness
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Keynote speech - Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260930-keynote-speech-hong-kong-green-finance-association-hkgfa-gba-green-finance-alliance-annual-forum-gfa-annual-forum)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-30T00:00:00+00:00`, fetched `2026-09-30T08:00:10+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
+  - Kurz: Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Hong Kong Green Finance Association (HKGFA)-GBA Green Finance Alliance Annual Forum (GFA) Annual Forum, Hong Kong, 7 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Good practices of green finance in Southeast Asia** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260930-good-practices-green-finance-southeast-asia)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-30T00:00:00+00:00`, fetched `2026-09-30T08:00:10+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: China, Hong Kong (+2.0)
+  - Kurz: Keynote speech by Mr Arthur Yuen, Acting Chief Executive of the Hong Kong Monetary Authority, at the Bank of China (Hong Kong) Green Forum 2026 and Sharing Workshop “Good practices of green finance in Southeast Asia”, Hong Kong, 7 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **電子カルテの導入状況に関するダッシュボードを公開しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/electronic-medical-record)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-30T06:00:00+00:00`, fetched `2026-09-30T06:34:09+00:00`
@@ -176,42 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 電子カルテの導入状況に関するダッシュボードを公開しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **自治体が実施する健康・医療・介護分野の事業のデジタル化（PMH）ー医療費助成に関するダッシュボードを公開しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/pmh-medical-expense-subsidies)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-30T06:00:00+00:00`, fetched `2026-09-30T06:34:09+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 自治体が実施する健康・医療・介護分野の事業のデジタル化（PMH）ー医療費助成に関するダッシュボードを公開しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **地方公共団体におけるアナログ規制の見直しの取組紹介「和歌山県における衛星データとAIの活用事例」を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/local-government)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-30T06:00:00+00:00`, fetched `2026-09-30T06:34:09+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 地方公共団体におけるアナログ規制の見直しの取組紹介「和歌山県における衛星データとAIの活用事例」を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/30/2000001873/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-30T01:03:38+00:00`, fetched `2026-09-30T02:38:20+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 信用情報機関のCICと日本信用情報機構（JICC）は9月29日、インターネットやスマホアプリからの本人申告や開示の申し込みが集中し、手続きが遅れていると発表した。 前日には、「タイムズカー」が免許証画像を含む大規模な情報漏えいを公表。自分の免許証情報の漏えいを心配した人が、本人申告で今後の悪用に備えたり、自...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ドラッグ＆ドロップ操作ミスで……TOPPAN、損保ジャパン契約者17万人分のデータを他社に誤送付** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/30/2000001870/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-29T23:54:48+00:00`, fetched `2026-09-30T03:41:03+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 誤送付されたデータは、カナ氏名と、保険料控除用証券番号、業務IDの3項目。証券番号は損保ジャパン固有の識別番号で、第三者がこの番号だけで個人や契約内容を特定・照会できない。業務IDは、控除証明書の発行年、損害保険会社の識別番号、対象契約の証券番号を組み合わせた、証明書単位のユニークキー。 漢字氏名や住...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
