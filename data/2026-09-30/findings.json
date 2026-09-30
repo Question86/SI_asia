@@ -323,6 +323,29 @@
     "id": "7e85e8c4ac50b0fd8205"
   },
   {
+    "title": "[NEU] [hoch] OWASP ModSecurity: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3666",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-30T11:36:29+00:00",
+    "fetched_at": "2026-09-30T11:44:30+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in OWASP ModSecurity ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen und um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1f5951f5591bb70c5330"
+  },
+  {
     "title": "M 5.0 - 27 km N of Kupang, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyjb",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -512,6 +535,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "bc51af9f3b65410ee923"
+  },
+  {
+    "title": "[NEU] [mittel] OpenProject: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3667",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-30T11:36:29+00:00",
+    "fetched_at": "2026-09-30T11:44:30+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in OpenProject ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8ce5a1a6f88cf0ef1988"
   },
   {
     "title": "[NEU] [mittel] OpenBSD: Mehrere Schwachstellen",

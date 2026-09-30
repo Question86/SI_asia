@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-30T11:31:57+00:00",
+  "generated_at": "2026-09-30T11:44:59+00:00",
   "topics": {
     "ai": [
       {
@@ -128,6 +128,20 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3657"
       },
       {
+        "title": "[NEU] [hoch] OWASP ModSecurity: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T11:36:29+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3666"
+      },
+      {
+        "title": "[NEU] [mittel] OpenProject: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T11:36:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3667"
+      },
+      {
         "title": "[NEU] [mittel] OpenBSD: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-30T11:26:29+00:00",
@@ -154,20 +168,6 @@
         "published_at": "2026-09-30T11:01:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3660"
-      },
-      {
-        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T10:51:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3659"
-      },
-      {
-        "title": "[NEU] [mittel] CPython: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T10:51:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3656"
       }
     ],
     "general": [
@@ -279,11 +279,25 @@
         "url": "https://jvn.jp/vu/JVNVU93754811/"
       },
       {
+        "title": "[NEU] [hoch] OWASP ModSecurity: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T11:36:29+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3666"
+      },
+      {
         "title": "富士フイルムビジネスイノベーション製およびシャープ製複合機（MFP）におけるパストラバーサルの脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-30T12:30:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU90160989/"
+      },
+      {
+        "title": "[NEU] [mittel] OpenProject: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T11:36:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3667"
       },
       {
         "title": "[NEU] [mittel] OpenBSD: Mehrere Schwachstellen",
@@ -298,20 +312,6 @@
         "published_at": "2026-09-30T11:26:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3664"
-      },
-      {
-        "title": "[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Codeausführung und DoS",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T11:16:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3661"
-      },
-      {
-        "title": "[NEU] [hoch] DENX U-Boot: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T11:01:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3660"
       }
     ],
     "economy": [
