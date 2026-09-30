@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T22:41:17+00:00_
+_Generiert: 2026-09-30T22:51:00+00:00_
 
 ## Kurzlage
 
@@ -41,10 +41,10 @@ _Generiert: 2026-09-30T22:41:17+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in France
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Costa Rica 30/09/2026 21:55 UTC, 100 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568826)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 20 thousand in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568826)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Costa Rica 30/09/2026 21:55 UTC, 100 thousand in MMI IV.
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 20 thousand in 100km.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10.792km) in Japan 30/09/2026 05:00 UTC, 2 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568726)
   - Quelle: GDACS
   - Zeit: ``
