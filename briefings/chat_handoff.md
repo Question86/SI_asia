@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T22:27:36+00:00_
+_Generated: 2026-09-30T22:41:17+00:00_
 
 ## Status
 - status: `normal`
-- findings: `97`
+- findings: `98`
 
 ## Top Signals
 
-### 1. mvschwarz/openrig
+### 1. GitHub - nanaism/yomiyasu: AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill
+- source: Hatena Bookmark Hotentry IT
+- score: `23`
+- published: `2026-09-30T18:28:31+00:00`
+- url: https://github.com/nanaism/yomiyasu
+- summary: 『yomiyasu（よみやす）』は、AIが生成した日本語の不自然さを解消し、人間が読みやすく情報密度の高い日本語へ推敲するためのスキルです。 Codex、Claude Code、CursorをはじめとするAIコーディング環境に読み込ませて使用してください。 開発背景や言語学的病理の分析、複数のコーパスによる検証結果については、以下...
+
+### 2. mvschwarz/openrig
 - source: GitHub Trending RSS All Languages Daily
 - score: `23`
 - published: `None`
 - url: https://github.com/mvschwarz/openrig
 - summary: Multi-agent harness that runs Claude Code and Codex together as one system https://openrig.dev OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, manage…
 
-### 2. NVIDIA/OpenShell
+### 3. NVIDIA/OpenShell
 - source: GitHub Trending RSS All Languages Daily
 - score: `21`
 - published: `None`
 - url: https://github.com/NVIDIA/OpenShell
 - summary: OpenShell is the safe, private runtime for autonomous AI agents. https://docs.nvidia.com/openshell/latest/ Important New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrad…
 
-### 3. M 5.6 - 74 km S of Yonakuni, Japan
+### 4. M 5.6 - 74 km S of Yonakuni, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-09-30T05:22:01.020+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-30 05:00:24 UTC 2026-09-30 05:00:24 UTC at epicenter Location 23.803°N 122.915°E Depth 10.79 km (6.71 mi)
-
-### 4. Gemini 4 Argon: our next era of frontier intelligence
-- source: Hatena Bookmark Hotentry IT
-- score: `18`
-- published: `2026-09-30T20:28:49+00:00`
-- url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
-- summary: Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Clou…
 
 ### 5. M 5.4 - Balleny Islands region
 - source: USGS M4.5+ Earthquakes Past Hour

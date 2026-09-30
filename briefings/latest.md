@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T22:27:36+00:00_
+_Generiert: 2026-09-30T22:41:17+00:00_
 
 ## Kurzlage
 
-97 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+98 neue relevante Treffer. Stärkstes Signal: „GitHub - nanaism/yomiyasu: AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,10 +61,10 @@ _Generiert: 2026-09-30T22:27:36+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, No people affected in 100km.
-- **USGS earthquake M5.6 - 84 km SW of Tamarindo, Costa Rica** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tymj)
+- **USGS earthquake M5.6 - 94 km SW of Tamarindo, Costa Rica** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tymj)
   - Quelle: USGS
-  - Zeit: `2026-09-30T21:55:27+00:00`
-  - Kurz: M5.6 - 84 km SW of Tamarindo, Costa Rica. PAGER alert: green. Tsunami flag: 0.
+  - Zeit: `2026-09-30T21:55:26+00:00`
+  - Kurz: M5.6 - 94 km SW of Tamarindo, Costa Rica. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -81,6 +81,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **GitHub - nanaism/yomiyasu: AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill** — Score 23, observation — [Quelle](https://github.com/nanaism/yomiyasu)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-30T18:28:31+00:00`, fetched `2026-09-30T22:40:46+00:00`
+  - Treffer: agent, AI Agents, GitHub, Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: 『yomiyasu（よみやす）』は、AIが生成した日本語の不自然さを解消し、人間が読みやすく情報密度の高い日本語へ推敲するためのスキルです。 Codex、Claude Code、CursorをはじめとするAIコーディング環境に読み込ませて使用してください。 開発背景や言語学的病理の分析、複数のコーパスによる検証結果については、以下...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **mvschwarz/openrig** — Score 23, observation — [Quelle](https://github.com/mvschwarz/openrig)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-30T07:00:37+00:00`
@@ -207,15 +216,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 富士フイルムビジネスイノベーション製およびシャープ製の複合機（MFP）には、パストラバーサルの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The cross-border due diligence questions most founders cannot answer** — Score 14, observation — [Quelle](https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-30T01:00:22+00:00`, fetched `2026-09-30T01:18:15+00:00`
-  - Treffer: APAC Trend Radar, founder, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: A founder pitched me earlier this year on his semiconductor company. The deck was clean. The market was real. The technology was genuinely differentiated. The Singapore entity was properly incorporated, the cap table looked orderly, and the revenue was growing. Then I asked him three questions. Where does your intellectual property legally sit? Who owns […] The post The cross-border due diligence questions most foun…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
