@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T11:44:59+00:00_
+_Generiert: 2026-09-30T12:02:05+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+73 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-30 05:00:24 UTC 2026-09-30 05:00:24 UTC at epicenter Location 23.803°N 122.915°E Depth 10.79 km (6.71 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [hoch] n8n: Mehrere Schwachstellen** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3672)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-30T11:51:29+00:00`, fetched `2026-09-30T12:01:33+00:00`
+  - Treffer: Automatisierung, BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Automatisierung (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsmechanismen zu umgehen, um Informationen offenzulegen oder zu manipulieren, sowie um einen Denial of Service herbeizuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **A 20% stablecoin APY may be less magical than it sounds** — Score 17, observation — [Quelle](https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-30T02:00:34+00:00`, fetched `2026-09-30T02:08:17+00:00`
@@ -65,15 +74,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0461)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-30T10:27:21+00:00`, fetched `2026-09-30T10:37:01+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und um nicht näher spezifizierte Auswirkungen zu erzielen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU93754811/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`

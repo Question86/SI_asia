@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T11:44:59+00:00_
+_Generated: 2026-09-30T12:02:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `67`
+- findings: `73`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-30T11:44:59+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-30 05:00:24 UTC 2026-09-30 05:00:24 UTC at epicenter Location 23.803°N 122.915°E Depth 10.79 km (6.71 mi)
 
-### 4. A 20% stablecoin APY may be less magical than it sounds
-- source: e27 Asia Startup and Tech Feed
-- score: `17`
-- published: `2026-09-30T02:00:34+00:00`
-- url: https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/
-- summary: CPF Ordinary Account pays 2.5 per cent, and Singaporeans queue for Treasury bills when yields rise. So when anyone quotes a 20 per cent annual percentage yield on stablecoins, a sensible person should ask one question first: who is paying it, and why? I ask b…
+### 4. [NEU] [hoch] n8n: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `18`
+- published: `2026-09-30T11:51:29+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3672
+- summary: Ein Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsmechanismen zu umgehen, um Informationen offenzulegen oder zu manipulieren, sowie um einen Denial of Service herbeizuführen.
 
 ### 5. M 5.4 - Balleny Islands region
 - source: USGS M4.5+ Earthquakes Past Hour

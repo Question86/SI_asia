@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-30T11:44:59+00:00",
+  "generated_at": "2026-09-30T12:02:05+00:00",
   "topics": {
     "ai": [
       {
@@ -107,6 +107,13 @@
         "url": "https://github.com/mvschwarz/openrig"
       },
       {
+        "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T11:51:29+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3672"
+      },
+      {
         "title": "A 20% stablecoin APY may be less magical than it sounds",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-30T02:00:34+00:00",
@@ -135,39 +142,32 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3666"
       },
       {
-        "title": "[NEU] [mittel] OpenProject: Mehrere Schwachstellen",
+        "title": "[NEU] [niedrig] poppler: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T11:36:29+00:00",
+        "published_at": "2026-09-30T11:56:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3667"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3674"
       },
       {
-        "title": "[NEU] [mittel] OpenBSD: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] OpenClaw: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T11:26:29+00:00",
+        "published_at": "2026-09-30T11:51:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3663"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3673"
       },
       {
-        "title": "[NEU] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Moodle: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T11:26:29+00:00",
+        "published_at": "2026-09-30T11:51:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3664"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3671"
       },
       {
-        "title": "[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Codeausführung und DoS",
+        "title": "[NEU] [niedrig] Gitea: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T11:16:29+00:00",
+        "published_at": "2026-09-30T11:46:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3661"
-      },
-      {
-        "title": "[NEU] [hoch] DENX U-Boot: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T11:01:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3660"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3669"
       }
     ],
     "general": [
@@ -244,6 +244,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T11:51:29+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3672"
+      },
+      {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (pki-core und dogtag-pki): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-30T11:16:29+00:00",
@@ -293,25 +300,18 @@
         "url": "https://jvn.jp/vu/JVNVU90160989/"
       },
       {
-        "title": "[NEU] [mittel] OpenProject: Mehrere Schwachstellen",
+        "title": "[NEU] [niedrig] poppler: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T11:36:29+00:00",
+        "published_at": "2026-09-30T11:56:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3667"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3674"
       },
       {
-        "title": "[NEU] [mittel] OpenBSD: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] OpenClaw: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T11:26:29+00:00",
+        "published_at": "2026-09-30T11:51:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3663"
-      },
-      {
-        "title": "[NEU] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T11:26:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3664"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3673"
       }
     ],
     "economy": [
