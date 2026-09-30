@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T04:49:07+00:00",
-  "run_id": "2026-09-30T04:49:07+00:00",
+  "generated_at": "2026-09-30T04:59:51+00:00",
+  "run_id": "2026-09-30T04:59:51+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 18,
     "displayed_findings": 18,
     "high": 0,
@@ -997,29 +997,7 @@
       "id": "d656d83316676b7ff635"
     }
   ],
-  "new_findings": [
-    {
-      "title": "MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push",
-      "url": "https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-30T04:43:04+00:00",
-      "fetched_at": "2026-09-30T04:48:39+00:00",
-      "summary": "Malaysia Digital Economy Corporation (MDEC) CEO Anuar Fariz Fadzil will leave the national digital-economy agency when his current contract ends on 2 October 2026, closing a two-year tenure marked by a sharper focus on artificial intelligence, high-value investment and measurable economic outcomes. MDEC said in a statement that Anuar had informed its board he would […] The post MDEC chief Anuar Fariz Fadzil to exit…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "19738b1b92979d7e1640"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
