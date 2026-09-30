@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-30T10:50:27+00:00",
+  "generated_at": "2026-09-30T10:58:40+00:00",
   "topics": {
     "ai": [
       {
@@ -114,6 +114,34 @@
         "url": "https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/"
       },
       {
+        "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T10:51:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3657"
+      },
+      {
+        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T10:51:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3659"
+      },
+      {
+        "title": "[NEU] [mittel] CPython: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T10:51:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3656"
+      },
+      {
+        "title": "[NEU] [hoch] Hitachi Energy RTU500: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T10:51:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3658"
+      },
+      {
         "title": "[UPDATE] [mittel] Ruby (CGI und URI gem): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-30T10:27:20+00:00",
@@ -140,34 +168,6 @@
         "published_at": "2026-09-30T02:20:00+00:00",
         "relevance_score": 8,
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html"
-      },
-      {
-        "title": "地方公共団体におけるアナログ規制の見直しの取組紹介「和歌山県における衛星データとAIの活用事例」を掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-09-30T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/local-government"
-      },
-      {
-        "title": "共通機能の標準仕様に係る仕様書最新版のリンク集を更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-09-30T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/local_governments/common-feature-specification"
-      },
-      {
-        "title": "Tending the public garden - accountable for today, stewarding for tomorrow",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-30T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20260928-tending-public-garden-accountable-today-stewarding-tomorrow"
-      },
-      {
-        "title": "Digital innovation - hindrance or booster for banks’ business models?",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-30T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20260930-digital-innovation-hindrance-or-booster-banks-business-models"
       }
     ],
     "general": [
@@ -244,6 +244,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T10:51:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3657"
+      },
+      {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-30T10:27:21+00:00",
@@ -272,6 +279,27 @@
         "url": "https://jvn.jp/vu/JVNVU90160989/"
       },
       {
+        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T10:51:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3659"
+      },
+      {
+        "title": "[NEU] [mittel] CPython: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T10:51:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3656"
+      },
+      {
+        "title": "[NEU] [hoch] Hitachi Energy RTU500: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T10:51:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3658"
+      },
+      {
         "title": "[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-30T10:27:23+00:00",
@@ -284,34 +312,6 @@
         "published_at": "2026-09-30T10:27:20+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0438"
-      },
-      {
-        "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-30T10:10:13+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3591"
-      },
-      {
-        "title": "PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-09-30T07:34:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html"
-      },
-      {
-        "title": "鼎新數智｜EasyFlow .NET - 存在5個漏洞",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-09-30T09:43:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11237-c9189-1.html"
-      },
-      {
-        "title": "鼎新數智｜EasyFlow .NET - Arbitrary File Upload",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-09-30T09:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11240-0fa1b-1.html"
       }
     ],
     "economy": [
