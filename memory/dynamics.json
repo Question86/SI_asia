@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-30T11:13:15Z",
+  "generated_at": "2026-09-30T11:27:55Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 4,
-      "krass": 10,
-      "strong": 26
+      "krass": 11,
+      "strong": 25
     },
     "bands_after_gate_recheck": {
       "krass": 1,
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3658",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T10:51:29+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T05:23:03+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU90160989/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T12:30:00+09:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3659",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T10:51:29+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -119,7 +119,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3656",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T10:51:29+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -143,7 +143,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1472",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T10:27:23+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -167,7 +167,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0438",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T10:27:20+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -191,7 +191,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3591",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T10:10:13+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -215,7 +215,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11248-91041-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-30T07:38:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -240,7 +240,7 @@
       "url": "https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T02:08:50+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -264,23 +264,23 @@
       "url": "https://labo.hatenastaff.com/entry/2026/09/30/151500",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T07:48:35+00:00",
-      "age_days": 6.14,
+      "age_days": 6.15,
       "topics": [
         "general"
       ],
-      "dynamics_score": 25.76,
+      "dynamics_score": 25.51,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.33,
+      "baseline_z_hint": 4.1,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.33"
+        "baseline z_hint 4.10"
       ],
       "summary": ""
     },
@@ -289,7 +289,7 @@
       "url": "https://github.com/t8y2/dbx",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T07:01:07+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -313,7 +313,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 103.86,
+      "age_days": 103.87,
       "topics": [
         "general"
       ],
@@ -324,13 +324,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 6.26,
+      "baseline_z_hint": 6.12,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 6.26",
+        "baseline z_hint 6.12",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 103.9d old signal",
@@ -343,7 +343,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html",
       "source": "TWCERT/CC Security News RSS, TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 102.99,
+      "age_days": 103.0,
       "topics": [
         "general"
       ],
@@ -354,13 +354,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 6.06,
+      "baseline_z_hint": 5.72,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 6.06",
+        "baseline z_hint 5.72",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 103.0d old signal",
@@ -373,7 +373,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-30T07:34:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -401,7 +401,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3588",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T10:10:13+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -427,7 +427,7 @@
       "url": "https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T03:19:39+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -454,7 +454,7 @@
       "url": "https://restofworld.org/2026/ai-safety-independent-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-30T10:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -476,11 +476,37 @@
       "summary": "At a Rest of World event in New York last week, speakers explored how countries sidelined by the U.S.-China race can retain some control over safety standards as they adopt models from OpenAI, Anthropic, and others."
     },
     {
+      "title": "[NEU] [hoch] DENX U-Boot: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3660",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-30T11:01:29+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in DENX U-Boot ausnutzen, um den Speicher zu beschädigen, Denial-of-Service-Zustände herbeizuführen oder andere, nicht näher spezifizierte Angriffe zu starten."
+    },
+    {
       "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3657",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T10:51:29+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -505,7 +531,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0461",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-30T10:27:21+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -530,7 +556,7 @@
       "url": "https://jvn.jp/vu/JVNVU93754811/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T09:00:00+09:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -555,7 +581,7 @@
       "url": "https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:30:28+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -581,7 +607,7 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T07:01:07+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -608,7 +634,7 @@
       "url": "https://github.com/NVIDIA/OpenShell",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T07:00:37+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -630,39 +656,11 @@
       "summary": "OpenShell is the safe, private runtime for autonomous AI agents. https://docs.nvidia.com/openshell/latest/ Important New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide . OpenShell is the safe, private runtime for fleets…"
     },
     {
-      "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3657",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 32.88,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 4,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +4",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -4.2 for 32.9d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
       "title": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T07:01:07+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -685,11 +683,39 @@
       "summary": ""
     },
     {
+      "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3657",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 32.89,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -4.2 for 32.9d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-30T07:00:37+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -716,7 +742,7 @@
       "url": "https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T02:00:34+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -743,7 +769,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:57:23+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -769,7 +795,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T05:22:01.020+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -795,7 +821,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/electronic-medical-record",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-30T06:00:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -820,7 +846,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/pmh-medical-expense-subsidies",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-30T06:00:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -845,7 +871,7 @@
       "url": "https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T03:00:25+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "macro"
@@ -871,7 +897,7 @@
       "url": "https://jvn.jp/vu/JVNVU90160989/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T03:41:38+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -895,7 +921,7 @@
       "url": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:18:49+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -919,7 +945,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:52:39.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -940,36 +966,11 @@
       "summary": "Time 2026-09-30 02:30:44 UTC 2026-09-30 02:30:44 UTC at epicenter Location 4.502°N 125.747°E Depth 156.85 km (97.46 mi)"
     },
     {
-      "title": "M 4.8 - 18 km SW of Tayaman, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygs",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-30T02:02:17.040+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-09-30 01:34:05 UTC 2026-09-30 01:34:05 UTC at epicenter Location 13.092°N 120.473°E Depth 10.00 km (6.21 mi)"
-    },
-    {
       "title": "鼎新數智｜EasyFlow .NET - 存在5個漏洞",
       "url": "https://www.twcert.org.tw/tw/cp-132-11237-c9189-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-30T09:43:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -993,7 +994,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11240-0fa1b-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-30T09:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -1017,7 +1018,7 @@
       "url": "https://www.bis.org/speeches/20260930-hearing-committee-economic-and-monetary-affairs-european-parliament",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 103.86,
+      "age_days": 103.87,
       "topics": [
         "ai"
       ],
@@ -1028,12 +1029,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.93,
+      "baseline_z_hint": 1.82,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.93",
+        "baseline z_hint 1.82",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 103.9d old signal",
