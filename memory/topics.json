@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-30T10:01:03+00:00",
+  "generated_at": "2026-09-30T10:24:24+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/t8y2/dbx"
+      },
+      {
+        "title": "AI companies want to embed safety evaluators, but countries need their own",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-09-30T10:00:00+00:00",
+        "relevance_score": 15,
+        "url": "https://restofworld.org/2026/ai-safety-independent-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       },
       {
         "title": "Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-30T01:30:28+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/"
-      },
-      {
-        "title": "The Indian economy in an ever more volatile and complex world",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-30T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.bis.org/speeches/20260930-indian-economy-ever-more-volatile-and-complex-world"
       }
     ],
     "github": [
@@ -237,6 +237,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T10:10:13+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3588"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-30T09:00:00+09:00",
@@ -249,6 +256,13 @@
         "published_at": "2026-09-30T12:30:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU90160989/"
+      },
+      {
+        "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-30T10:10:13+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3591"
       },
       {
         "title": "PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行",
