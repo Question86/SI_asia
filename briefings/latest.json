@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T09:25:51+00:00",
-  "run_id": "2026-09-30T09:25:51+00:00",
+  "generated_at": "2026-09-30T09:40:51+00:00",
+  "run_id": "2026-09-30T09:40:51+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 47
+      "configured_public_sources_only": 48
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 47,
-    "displayed_findings": 47,
+    "new_relevant_findings": 1,
+    "today_file_total": 48,
+    "displayed_findings": 48,
     "high": 0,
     "medium": 11,
-    "observe": 36,
+    "observe": 37,
     "source_errors": 0
   },
   "sections": {
@@ -1098,6 +1098,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d16ef5ebb25e4cfd68fa"
+      },
+      {
+        "title": "Digital innovation - hindrance or booster for banks’ business models?",
+        "url": "https://www.bis.org/speeches/20260930-digital-innovation-hindrance-or-booster-banks-business-models",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-30T00:00:00+00:00",
+        "fetched_at": "2026-09-30T09:40:23+00:00",
+        "summary": "Keynote speech by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the, annual Foreign Bankers’ Association of the Netherlands conference, Amsterdam, 22 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "705fbd0fae0154138b16"
       },
       {
         "title": "Convening remarks - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion",
@@ -2352,6 +2372,26 @@
       "id": "d16ef5ebb25e4cfd68fa"
     },
     {
+      "title": "Digital innovation - hindrance or booster for banks’ business models?",
+      "url": "https://www.bis.org/speeches/20260930-digital-innovation-hindrance-or-booster-banks-business-models",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "fetched_at": "2026-09-30T09:40:23+00:00",
+      "summary": "Keynote speech by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the, annual Foreign Bankers’ Association of the Netherlands conference, Amsterdam, 22 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "705fbd0fae0154138b16"
+    },
+    {
       "title": "Convening remarks - 11th Annual General Assembly Meeting of the Alliance for Financial Inclusion",
       "url": "https://www.bis.org/speeches/20260930-convening-remarks-11th-annual-general-assembly-meeting-alliance-financial-inclusion",
       "source": "BIS Central Bankers Speeches",
@@ -2535,45 +2575,24 @@
   ],
   "new_findings": [
     {
-      "title": "令和8年熊本地震に関する対応状況について（9月30日）",
-      "url": "https://www.digital.go.jp/news/8ee2e00d-6a81-452a-9191-7796fba0ae77",
-      "source": "Japan Digital Agency News RSS",
+      "title": "Digital innovation - hindrance or booster for banks’ business models?",
+      "url": "https://www.bis.org/speeches/20260930-digital-innovation-hindrance-or-booster-banks-business-models",
+      "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
-      "published_at": "2026-09-30T09:19:45+00:00",
-      "fetched_at": "2026-09-30T09:25:22+00:00",
-      "summary": "令和8年熊本地震に関する対応状況について（9月30日）",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "fetched_at": "2026-09-30T09:40:23+00:00",
+      "summary": "Keynote speech by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the, annual Foreign Bankers’ Association of the Netherlands conference, Amsterdam, 22 September 2026.",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Macro/Policy"
       ],
       "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "af0f2dd9a3531a4f5f93"
-    },
-    {
-      "title": "「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2144295.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-30T06:40:13+00:00",
-      "fetched_at": "2026-09-30T09:25:22+00:00",
-      "summary": "「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "59e16aa12f47588c644e"
+      "id": "705fbd0fae0154138b16"
     }
   ],
   "source_errors": [],
