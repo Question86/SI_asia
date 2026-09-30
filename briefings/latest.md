@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T15:27:25+00:00_
+_Generiert: 2026-09-30T16:03:07+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+83 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -251,6 +251,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Japan’s education companies are increasingly looking beyond a home market shaped by a shrinking population. Kawaijuku, one of the country’s larger private education providers, is taking a venture-capital route into Vietnam. KJ Holdings, the holding company of the Japanese education group, has invested in Do Ventures Fund II, a fund managed by Ho Chi Minh […] The post Japan’s Kawaijuku backs Do Ventures to enter Viet…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Helping small businesses put AI to work** — Score 11, observation — [Quelle](https://openai.com/index/helping-small-businesses-put-ai-to-work)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-30T10:00:00+00:00`, fetched `2026-09-30T16:02:32+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行** — Score 11, observation — [Quelle](https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html)
   - Quelle: TWCERT/CC Security News RSS / `rss`
   - Zeit: published `2026-09-30T07:34:00+00:00`, fetched `2026-09-30T08:00:10+00:00`
@@ -332,15 +341,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.1 - 121 km S of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyit)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-30T08:31:11.040+00:00`, fetched `2026-09-30T08:31:47+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-30 08:15:17 UTC 2026-09-30 08:15:17 UTC at epicenter Location 5.435°S 152.133°E Depth 28.03 km (17.41 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
