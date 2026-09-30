@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-30T05:18:05Z",
+  "generated_at": "2026-09-30T05:42:01Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 36,
+    "dynamics": 40,
     "bands": {
       "krass": 3,
-      "strong": 9,
-      "watch": 13,
+      "strong": 12,
+      "watch": 14,
       "quiet": 11
     },
     "bands_after_gate_recheck": {
-      "strong": 12,
-      "watch": 13,
+      "strong": 15,
+      "watch": 14,
       "quiet": 11
     }
   },
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU90160989/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T12:30:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T02:08:50+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -71,7 +71,7 @@
       "url": "https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T03:19:39+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -98,7 +98,7 @@
       "url": "https://jvn.jp/vu/JVNVU93754811/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T09:00:00+09:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -123,7 +123,7 @@
       "url": "https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:30:28+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -149,7 +149,7 @@
       "url": "https://e27.co/a-20-stablecoin-apy-may-be-less-magical-than-it-sounds-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T02:00:34+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -176,7 +176,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:57:23+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -198,11 +198,37 @@
       "summary": ""
     },
     {
+      "title": "M 5.6 - 74 km S of Yonakuni, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-30T05:22:01.020+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-09-30 05:00:24 UTC 2026-09-30 05:00:24 UTC at epicenter Location 23.803°N 122.915°E Depth 10.79 km (6.71 mi)"
+    },
+    {
       "title": "Why social commerce seeding is replacing upfront influencer retainers",
       "url": "https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T03:00:25+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -228,7 +254,7 @@
       "url": "https://jvn.jp/vu/JVNVU90160989/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-30T03:41:38+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -252,7 +278,7 @@
       "url": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:18:49+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -276,7 +302,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:52:39.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -301,7 +327,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:02:17.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -322,11 +348,60 @@
       "summary": "Time 2026-09-30 01:34:05 UTC 2026-09-30 01:34:05 UTC at epicenter Location 13.092°N 120.473°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.6 - 74 km S of Yonakuni, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-30T05:23:03+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 21.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 5.4 - Balleny Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-30T05:20:19.774+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-09-30 04:48:06 UTC 2026-09-30 04:48:06 UTC at epicenter Location 63.009°S 169.216°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.5 - 112 km SSW of Banda Aceh, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:22:32+00:00",
-      "age_days": 24.91,
+      "age_days": 24.93,
       "topics": [
         "general"
       ],
@@ -352,7 +427,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:55:03+00:00",
-      "age_days": 31.93,
+      "age_days": 31.95,
       "topics": [
         "general"
       ],
@@ -373,11 +448,35 @@
       "summary": ""
     },
     {
+      "title": "MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push",
+      "url": "https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-30T04:49:10+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.5 - 112 km SSW of Banda Aceh, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyh0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T03:01:50.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -401,7 +500,7 @@
       "url": "https://jvn.jp/vu/JVNVU93754811/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 103.14,
+      "age_days": 103.16,
       "topics": [
         "general"
       ],
@@ -417,7 +516,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 103.1d old signal"
+        "aging penalty -8.0 for 103.2d old signal"
       ],
       "summary": ""
     },
@@ -426,7 +525,7 @@
       "url": "https://tech-lab.sios.jp/archives/54936",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T00:30:10+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -453,7 +552,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T01:35:08.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -478,7 +577,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T01:49:27+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -498,29 +597,26 @@
       "summary": ""
     },
     {
-      "title": "Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market",
-      "url": "https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-30T04:30:07+00:00",
-      "age_days": 0.03,
+      "title": "M 5.4 - Balleny Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyhi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-30T05:23:03+00:00",
+      "age_days": 0.01,
       "topics": [
-        "ai",
-        "macro"
+        "general"
       ],
-      "dynamics_score": 16.0,
+      "dynamics_score": 15.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -529,7 +625,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001873/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T02:38:54+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -553,7 +649,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001870/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T03:41:38+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -577,7 +673,7 @@
       "url": "https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:00:22+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "macro"
       ],
@@ -597,26 +693,29 @@
       "summary": "A founder pitched me earlier this year on his semiconductor company. The deck was clean. The market was real. The technology was genuinely differentiated. The Singapore entity was properly incorporated, the cap table looked orderly, and the revenue was growing. Then I asked him three questions. Where does your intelle…"
     },
     {
-      "title": "MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push",
-      "url": "https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/",
+      "title": "Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market",
+      "url": "https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-30T04:49:10+00:00",
-      "age_days": 0.02,
+      "published_at": "2026-09-30T04:30:07+00:00",
+      "age_days": 0.05,
       "topics": [
-        "general"
+        "ai",
+        "macro"
       ],
       "dynamics_score": 13.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -625,7 +724,7 @@
       "url": "https://e27.co/the-sovereign-shift-why-nation-states-are-trading-gold-for-bitcoin-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T03:41:38+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -649,7 +748,7 @@
       "url": "https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T01:49:27+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -675,7 +774,7 @@
       "url": "https://tech-lab.sios.jp/archives/54936",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-29T23:26:36+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -701,7 +800,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-30T02:20:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "macro"
       ],
@@ -725,7 +824,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 103.61,
+      "age_days": 103.63,
       "topics": [
         "general"
       ],
@@ -750,7 +849,7 @@
       "url": "https://togetter.com/li/2752131",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 102.7,
+      "age_days": 102.72,
       "topics": [
         "general"
       ],
@@ -775,7 +874,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001873/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T01:03:38+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -799,7 +898,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001870/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-29T23:54:48+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -823,7 +922,7 @@
       "url": "https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T04:23:12+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -849,7 +948,7 @@
       "url": "https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T04:43:04+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -874,7 +973,7 @@
       "url": "https://togetter.com/li/2752131",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-29T23:47:03+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -899,7 +998,7 @@
       "url": "https://e27.co/the-sovereign-shift-why-nation-states-are-trading-gold-for-bitcoin-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-30T03:38:35+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
