@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T14:31:13+00:00",
-  "run_id": "2026-09-30T14:31:13+00:00",
+  "generated_at": "2026-09-30T14:41:45+00:00",
+  "run_id": "2026-09-30T14:41:45+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 80,
     "displayed_findings": 80,
     "high": 0,
@@ -4067,49 +4067,7 @@
       "id": "d656d83316676b7ff635"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Jetzt patchen: Angreifer umgehen Anmeldung bei Cisco Catalyst SD-WAN Manager",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-umgehen-Anmeldung-bei-Cisco-Catalyst-SD-WAN-Manager-11471591.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-09-30T14:23:00.000+00:00",
-      "fetched_at": "2026-09-30T14:30:44+00:00",
-      "summary": "Cyberkriminelle nützen eine Lücke im Anmeldesystem für Admin-Privilegien aus. Admins sollten die Geräte patchen und weitere Maßnahmen ergreifen.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "85227917fe171bdacf07"
-    },
-    {
-      "title": "一休もお漏らしかよ",
-      "url": "https://anond.hatelabo.jp/20260930121339",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-30T03:14:47+00:00",
-      "fetched_at": "2026-09-30T14:30:44+00:00",
-      "summary": "平素より 一休.com をご愛顧賜りまして、誠にありがとうございます。 弊社にて発生した掲題の事象について重要なご連絡があり、本メールをお送りしております。 このたび、弊社の開発用データベース（一休.comサービスの開発に使用するデータのみを格納したデータベース）に対し、 第三者による不正アクセスが発生いたし...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "56aab8e35a6c6863d441"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
