@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-30T07:01:36+00:00",
+  "generated_at": "2026-09-30T08:01:31+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -4070,7 +4070,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_5aab90b0cdfb10faa840",
@@ -4797,6 +4797,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_68027456a6011be90089",
+      "title": "M 5.2 - Balleny Islands region",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_68115014683bc42e8e99",
@@ -6622,7 +6633,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8c12eda8e4d3d2db8c9c",
@@ -7315,7 +7326,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_99397910c1bd5bbe64ac",
@@ -8228,7 +8239,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_adb252945edb1fa40335",
@@ -10081,12 +10092,12 @@
     {
       "event_id": "evt_d7406cc28bccb9ccbabd",
       "title": "t8y2/dbx",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -11473,7 +11484,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ef27d4fa6e777840bdc3",
@@ -11819,12 +11830,12 @@
     {
       "event_id": "evt_f6f9926a7a23dcdaf791",
       "title": "NVIDIA/OpenShell",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -11940,12 +11951,12 @@
     {
       "event_id": "evt_fafabd62b6a4861378a5",
       "title": "mvschwarz/openrig",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {

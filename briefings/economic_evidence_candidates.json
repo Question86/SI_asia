@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-30T07:01:35+00:00",
-  "candidate_count": 1414,
+  "generated_at": "2026-09-30T08:01:31+00:00",
+  "candidate_count": 1419,
   "candidates": [
     {
       "amount_native": 2000000000000.0,
@@ -3117,6 +3117,42 @@
       "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html"
     },
     {
+      "candidate_id": "cand_b0d1ccfa2ec8dfd1b964",
+      "event_id": "evt_43856848b80264610146",
+      "source_url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html",
+      "observed_at": "2026-09-30T08:01:17+00:00",
+      "currency": "EUR",
+      "amount_native": 2.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unclassified",
+      "attribution_probability": null,
+      "snippet": "ed-stained banknotes Environment, health and safety Product environmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuani",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.6,
+      "review_status": "pending"
+    },
+    {
+      "candidate_id": "cand_0a337fbd5e4bbaa44c56",
+      "event_id": "evt_43856848b80264610146",
+      "source_url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html",
+      "observed_at": "2026-09-30T08:01:17+00:00",
+      "currency": "EUR",
+      "amount_native": 2.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unclassified",
+      "attribution_probability": null,
+      "snippet": "ronmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2015) Latvia (2014) Estonia (2011) Slovakia (2009) Cyprus (200",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.6,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 1.0,
       "amount_usd": null,
       "attribution_probability": null,
@@ -3849,6 +3885,24 @@
       "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html"
     },
     {
+      "candidate_id": "cand_4189f64f1bacfb63cb2f",
+      "event_id": "evt_43856848b80264610146",
+      "source_url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html",
+      "observed_at": "2026-09-30T08:01:17+00:00",
+      "currency": "EUR",
+      "amount_native": 1.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unclassified",
+      "attribution_probability": null,
+      "snippet": "stained banknotes Environment, health and safety Product environmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.6,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 0.52,
       "amount_usd": 0.52,
       "attribution_probability": null,
@@ -4477,6 +4531,24 @@
       "snippet": "gn claims on GCC countries. The bulk of these claims were vis-à-vis borrowers in United Arab Emirates ($261 billion), Saudi Arabia ($127 billion), Qatar ($108 billion) and Kuwait ($31 billion) ( Graph 4.B ). In contrast, against the backdrop of longstanding sanctions, foreign claims on Iran remained very small, amounting to just $44 million on an ultimate guarantor bas",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/publications/202604-commentary-ibs-gli"
+    },
+    {
+      "candidate_id": "cand_e7749ac6ccfa8c6dcbcc",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20260930-hearing-committee-economic-and-monetary-affairs-european-parliament",
+      "observed_at": "2026-09-30T08:01:11+00:00",
+      "currency": "EUR",
+      "amount_native": 30000000000.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "still lags behind the United States. 6 7 In parallel, European initiatives like InvestAI and the Scaleup Europe Fund can help mobilise additional investment in AI infrastructure. €30 billion for AI Gigafactories – to develop advanced AI in the EU – is a good start. At the same time, AI investment activity will also depend on what happens in financial markets, and whet",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.55,
+      "review_status": "pending"
     },
     {
       "amount_native": 13200000000.0,
@@ -18323,6 +18395,24 @@
       "snippet": "eased their credit to all main counterparty sectors in Q3 2025, led by NBFIs. Credit to NBFIs, bank and non-financial sector (NFS) borrowers rose by $312 billion, $192 billion and $216 billion, respectively ( Graph 2.B ). The year-on-year growth in cross-border bank credit remained elevated across counterparty sectors, led by credit to NBFIs, which expanded by 13% ( Gra",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/publications/202601-commentary-ibs-gli"
+    },
+    {
+      "candidate_id": "cand_e5ad56cb998f951afb9b",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20260930-good-practices-green-finance-southeast-asia",
+      "observed_at": "2026-09-30T08:01:14+00:00",
+      "currency": "USD",
+      "amount_native": 200000000000.0,
+      "amount_usd": 200000000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "ant Scheme to fuel the momentum. Subsidies had been granted to over 700 green and sustainable debt instruments issued in Hong Kong, with a total underlying issuance volume of over US$200 billion. Additional forces Two forces make all the ripples I mentioned travel further and faster: technology and collaboration. Technology is a powerful multiplier. By anchoring finance i",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 192000000000.0,

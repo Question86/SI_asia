@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-30T07:01:24+00:00",
+  "generated_at": "2026-09-30T08:01:10+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -36,7 +36,7 @@
       "p90_usd": 1224000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T07:01:07+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -980,7 +980,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-30T05:23:03+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -1184,7 +1184,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-30T02:57:23+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -1303,7 +1303,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T06:55:03+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -1371,7 +1371,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T07:22:32+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -1507,7 +1507,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-30T05:23:03+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -4789,7 +4789,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-30T01:49:27+00:00",
       "last_seen_at": "2026-09-30T07:01:07+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ae45350dfa2d58d5275b",
@@ -5574,6 +5574,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_68027456a6011be90089",
+      "title": "M 5.2 - Balleny Islands region",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-30T08:00:50+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -5672,7 +5689,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -5910,7 +5927,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T03:41:38+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -6692,8 +6709,8 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-24T23:52:18+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2bf1e7d57306cb9b7c1c",
@@ -6794,8 +6811,8 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-09-29T23:56:49+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_286c3df7e2f2f93926a3",
@@ -7083,7 +7100,7 @@
       "p90_usd": 1208000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T07:01:07+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -7729,7 +7746,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T02:08:50+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -8107,6 +8124,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d7406cc28bccb9ccbabd",
+      "title": "t8y2/dbx",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_dbb98c350c86838e9878",
       "title": "Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate",
       "event_classes": [
@@ -8224,23 +8258,6 @@
       "first_seen_at": "2026-09-25T09:44:45+00:00",
       "last_seen_at": "2026-09-25T23:54:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_d7406cc28bccb9ccbabd",
-      "title": "t8y2/dbx",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 116800.0,
-      "p50_usd": 11680000.0,
-      "p90_usd": 1168000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-30T07:01:07+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_164cc1afee592ac2b935",
@@ -8953,7 +8970,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T01:18:49+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -9855,7 +9872,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T04:30:07+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -10297,7 +10314,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T00:30:10+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -10858,7 +10875,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T05:58:30+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -11198,7 +11215,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T01:49:27+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -12184,7 +12201,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-09-30T07:01:07+00:00",
+      "last_seen_at": "2026-09-30T08:00:50+00:00",
       "status": "active"
     },
     {
@@ -12525,7 +12542,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T04:49:10+00:00",
       "last_seen_at": "2026-09-30T07:01:07+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f0b0162a9ea06b77b7bb",
@@ -15212,7 +15229,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T06:34:39+00:00",
       "last_seen_at": "2026-09-30T07:01:07+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9184ca738d03d16d5623",
