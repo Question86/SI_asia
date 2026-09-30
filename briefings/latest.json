@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-30T10:24:24+00:00",
-  "run_id": "2026-09-30T10:24:24+00:00",
+  "generated_at": "2026-09-30T10:37:29+00:00",
+  "run_id": "2026-09-30T10:37:29+00:00",
   "date": "2026-09-30",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 52
+      "configured_public_sources_only": 55
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 52,
-    "displayed_findings": 52,
+    "today_file_total": 55,
+    "displayed_findings": 55,
     "high": 0,
-    "medium": 14,
+    "medium": 17,
     "observe": 38,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -185,6 +185,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "501161c18f838e4578ec"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0461",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-30T10:27:21+00:00",
+        "fetched_at": "2026-09-30T10:37:01+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und um nicht näher spezifizierte Auswirkungen zu erzielen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ced14a4706d230f213c9"
       },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
@@ -433,6 +457,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bc51af9f3b65410ee923"
+      },
+      {
+        "title": "[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1472",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-30T10:27:23+00:00",
+        "fetched_at": "2026-09-30T10:37:01+00:00",
+        "summary": "Ein Angreifer kann eine Schwachstelle in Ruby ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "624026b91d608db0351c"
+      },
+      {
+        "title": "[UPDATE] [mittel] Ruby (CGI und URI gem): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0438",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-30T10:27:20+00:00",
+        "fetched_at": "2026-09-30T10:37:01+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Ruby ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen und vertrauliche Informationen preiszugeben.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b1669b2ccc042732d727"
       },
       {
         "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
@@ -1550,6 +1620,30 @@
       "id": "501161c18f838e4578ec"
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0461",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-30T10:27:21+00:00",
+      "fetched_at": "2026-09-30T10:37:01+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und um nicht näher spezifizierte Auswirkungen zu erzielen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ced14a4706d230f213c9"
+    },
+    {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3588",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1796,6 +1890,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bc51af9f3b65410ee923"
+    },
+    {
+      "title": "[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1472",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-30T10:27:23+00:00",
+      "fetched_at": "2026-09-30T10:37:01+00:00",
+      "summary": "Ein Angreifer kann eine Schwachstelle in Ruby ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "624026b91d608db0351c"
+    },
+    {
+      "title": "[UPDATE] [mittel] Ruby (CGI und URI gem): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0438",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-30T10:27:20+00:00",
+      "fetched_at": "2026-09-30T10:37:01+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Ruby ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen und vertrauliche Informationen preiszugeben.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b1669b2ccc042732d727"
     },
     {
       "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
@@ -2753,13 +2893,13 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3588",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0461",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-30T10:10:13+00:00",
-      "fetched_at": "2026-09-30T10:23:52+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Informationen offenzulegen, Ressourcen- oder Speicherverwaltungsfehler zu verursachen, Denial-of-Service-Zustände auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
+      "published_at": "2026-09-30T10:27:21+00:00",
+      "fetched_at": "2026-09-30T10:37:01+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und um nicht näher spezifizierte Auswirkungen zu erzielen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2774,37 +2914,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "634153b4b7629dd8796f"
+      "id": "ced14a4706d230f213c9"
     },
     {
-      "title": "AI companies want to embed safety evaluators, but countries need their own",
-      "url": "https://restofworld.org/2026/ai-safety-independent-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-30T10:00:00+00:00",
-      "fetched_at": "2026-09-30T10:23:52+00:00",
-      "summary": "At a Rest of World event in New York last week, speakers explored how countries sidelined by the U.S.-China race can retain some control over safety standards as they adopt models from OpenAI, Anthropic, and others.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region china_credible_only: China (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "545ab7e7bff517d4ec99"
-    },
-    {
-      "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3591",
+      "title": "[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1472",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-30T10:10:13+00:00",
-      "fetched_at": "2026-09-30T10:23:52+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+      "published_at": "2026-09-30T10:27:23+00:00",
+      "fetched_at": "2026-09-30T10:37:01+00:00",
+      "summary": "Ein Angreifer kann eine Schwachstelle in Ruby ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2818,10 +2937,40 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f84b1ece5ffb69118c5c"
+      "id": "624026b91d608db0351c"
+    },
+    {
+      "title": "[UPDATE] [mittel] Ruby (CGI und URI gem): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0438",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-30T10:27:20+00:00",
+      "fetched_at": "2026-09-30T10:37:01+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Ruby ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen und vertrauliche Informationen preiszugeben.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b1669b2ccc042732d727"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "google_trends_taiwan_hot",
+      "source_name": "Google Trends Taiwan Hot Feed",
+      "source_type": "rss",
+      "error": "500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

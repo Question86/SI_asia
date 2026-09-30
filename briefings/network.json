@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-30T10:24:27+00:00",
+  "generated_at": "2026-09-30T10:37:31+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 52,
+    "findings": 55,
     "clusters": 39,
     "cross_source_confrmed": 2,
     "hot": 1,
@@ -10,6 +10,48 @@
     "dominance_penalized": 9
   },
   "clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0461",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3588",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1472",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0438",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3591"
+      ],
+      "finding_count": 5,
+      "max_score": 16,
+      "credibility_total": 5.25,
+      "cross_source_confirmed": false,
+      "momentum_delta": 3,
+      "momentum_status": "increasing",
+      "network_score": 25.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 35.5,
+      "ranking_score": 25.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 7.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
     {
       "key": "github_repo:mvschwarz/openrig",
       "title": "mvschwarz/openrig",
@@ -71,18 +113,18 @@
       "cross_source_confirmed": true,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 23.17,
+      "network_score": 23.11,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 22.2,
-      "ranking_score": 23.17,
+      "ranking_score": 23.11,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 5.5,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.67,
+      "baseline_bonus": 2.61,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -132,83 +174,6 @@
       "first_seen_at": "2026-09-30T07:01:07+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3588",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3591"
-      ],
-      "finding_count": 2,
-      "max_score": 16,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 22.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 26.2,
-      "ranking_score": 22.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 5.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "domain:restofworld.org",
-      "title": "AI companies want to embed safety evaluators, but countries need their own",
-      "sources": [
-        "Rest of World Global Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://restofworld.org/2026/ai-safety-independent-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      ],
-      "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 22.09,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 20.1,
-      "ranking_score": 22.09,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 3.09,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T01:58:32+00:00"
-    },
-    {
       "key": "domain:www.twcert.org",
       "title": "PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行",
       "sources": [
@@ -230,18 +195,18 @@
       "cross_source_confirmed": true,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 20.83,
+      "network_score": 20.7,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.4,
-      "ranking_score": 20.83,
+      "ranking_score": 20.7,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 5.5,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.83,
+      "baseline_bonus": 2.7,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -330,6 +295,44 @@
       "first_seen_at": "2026-09-30T05:23:03+00:00"
     },
     {
+      "key": "domain:restofworld.org",
+      "title": "AI companies want to embed safety evaluators, but countries need their own",
+      "sources": [
+        "Rest of World Global Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://restofworld.org/2026/ai-safety-independent-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 18.33,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 18.33,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.83,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月29日）",
       "sources": [
@@ -408,44 +411,6 @@
       "first_seen_at": "2026-09-30T07:01:07+00:00"
     },
     {
-      "key": "domain:labo.hatenastaff.com",
-      "title": "はてな匿名ダイアリーがChatGPTから使えるようになりました - はてラボ 開発者ブログ",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://labo.hatenastaff.com/entry/2026/09/30/151500"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 15.51,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 15.51,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 2.01,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-24T07:48:35+00:00"
-    },
-    {
       "key": "title:mfp",
       "title": "富士フイルムビジネスイノベーション製およびシャープ製複合機（MFP）におけるパストラバーサルの脆弱性",
       "sources": [
@@ -520,6 +485,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-30T01:18:49+00:00"
+    },
+    {
+      "key": "domain:labo.hatenastaff.com",
+      "title": "はてな匿名ダイアリーがChatGPTから使えるようになりました - はてラボ 開発者ブログ",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://labo.hatenastaff.com/entry/2026/09/30/151500"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.42,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 15.42,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.92,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-24T07:48:35+00:00"
     },
     {
       "key": "earthquake:indonesia:4.5",
@@ -825,20 +828,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 11.9,
+      "network_score": 11.86,
       "hot": false,
       "watchgraph_modules": [
         "capitals_power_centers"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 29.9,
-      "ranking_score": 11.9,
+      "ranking_score": 11.86,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.9,
+      "baseline_bonus": 0.86,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1545,7 +1548,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-30T10:24:27Z",
+    "generated_at": "2026-09-30T10:37:32Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

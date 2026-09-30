@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T10:24:24+00:00_
+_Generiert: 2026-09-30T10:37:29+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+55 neue relevante Treffer. Stärkstes Signal: „mvschwarz/openrig“ aus GitHub Trending RSS All Languages Daily (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -47,6 +47,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: CPF Ordinary Account pays 2.5 per cent, and Singaporeans queue for Treasury bills when yields rise. So when anyone quotes a 20 per cent annual percentage yield on stablecoins, a sensible person should ask one question first: who is paying it, and why? I ask because I once paid for not asking. In 2022, I […] The post A 20% stablecoin APY may be less magical than it sounds appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0461)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-30T10:27:21+00:00`, fetched `2026-09-30T10:37:01+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und um nicht näher spezifizierte Auswirkungen zu erzielen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3588)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
@@ -111,14 +120,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 富士フイルムビジネスイノベーション製およびシャープ製の複合機（MFP）には、パストラバーサルの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3591)
+- **[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1472)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-30T10:10:13+00:00`, fetched `2026-09-30T10:23:52+00:00`
+  - Zeit: published `2026-09-30T10:27:23+00:00`, fetched `2026-09-30T10:37:01+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen.
+  - Kurz: Ein Angreifer kann eine Schwachstelle in Ruby ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The cross-border due diligence questions most founders cannot answer** — Score 14, observation — [Quelle](https://e27.co/the-cross-border-due-diligence-questions-most-founders-cannot-answer-20260916/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -277,3 +286,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_taiwan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW
