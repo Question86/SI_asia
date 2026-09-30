@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-30T04:30:03+00:00_
+_Generated: 2026-09-30T04:49:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `18`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-30T04:30:03+00:00_
 - url: https://e27.co/why-ai-could-unbundle-the-beauty-industry-20260916/
 - summary: A new beauty brand no longer needs to look much like a traditional beauty company. It does not need its own factory, a large product-development department or a nationwide retail network. Specialist manufacturers can formulate, produce and package cosmetics f…
 
-### 8. M 4.8 - 75 km NE of Tadine, New Caledonia
-- source: USGS M4.5+ Earthquakes Past Hour
+### 8. MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push
+- source: e27 Asia Startup and Tech Feed
 - score: `9`
-- published: `2026-09-30T01:35:08.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq
-- summary: Time 2026-09-30 01:17:47 UTC 2026-09-30 01:17:47 UTC at epicenter Location 21.009°S 168.328°E Depth 10.00 km (6.21 mi)
+- published: `2026-09-30T04:43:04+00:00`
+- url: https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/
+- summary: Malaysia Digital Economy Corporation (MDEC) CEO Anuar Fariz Fadzil will leave the national digital-economy agency when his current contract ends on 2 October 2026, closing a two-year tenure marked by a sharper focus on artificial intelligence, high-value inve…
 
 END OF DOCUMENT

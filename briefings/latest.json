@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T04:30:03+00:00",
-  "run_id": "2026-09-30T04:30:03+00:00",
+  "generated_at": "2026-09-30T04:49:07+00:00",
+  "run_id": "2026-09-30T04:49:07+00:00",
   "date": "2026-09-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 17
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
     "medium": 7,
-    "observe": 10,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -315,6 +315,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "502a9c3fcbcfe94fd840"
+      },
+      {
+        "title": "MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push",
+        "url": "https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-30T04:43:04+00:00",
+        "fetched_at": "2026-09-30T04:48:39+00:00",
+        "summary": "Malaysia Digital Economy Corporation (MDEC) CEO Anuar Fariz Fadzil will leave the national digital-economy agency when his current contract ends on 2 October 2026, closing a two-year tenure marked by a sharper focus on artificial intelligence, high-value investment and measurable economic outcomes. MDEC said in a statement that Anuar had informed its board he would […] The post MDEC chief Anuar Fariz Fadzil to exit…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "19738b1b92979d7e1640"
       },
       {
         "title": "M 4.8 - 75 km NE of Tadine, New Caledonia",
@@ -780,6 +801,27 @@
       "id": "502a9c3fcbcfe94fd840"
     },
     {
+      "title": "MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push",
+      "url": "https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-30T04:43:04+00:00",
+      "fetched_at": "2026-09-30T04:48:39+00:00",
+      "summary": "Malaysia Digital Economy Corporation (MDEC) CEO Anuar Fariz Fadzil will leave the national digital-economy agency when his current contract ends on 2 October 2026, closing a two-year tenure marked by a sharper focus on artificial intelligence, high-value investment and measurable economic outcomes. MDEC said in a statement that Anuar had informed its board he would […] The post MDEC chief Anuar Fariz Fadzil to exit…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "19738b1b92979d7e1640"
+    },
+    {
       "title": "M 4.8 - 75 km NE of Tadine, New Caledonia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -957,46 +999,25 @@
   ],
   "new_findings": [
     {
-      "title": "Japan’s Kawaijuku backs Do Ventures to enter Vietnam’s education market",
-      "url": "https://e27.co/japans-kawaijuku-backs-do-ventures-to-enter-vietnams-education-market-20260930/",
+      "title": "MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push",
+      "url": "https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-30T04:23:12+00:00",
-      "fetched_at": "2026-09-30T04:29:32+00:00",
-      "summary": "Japan’s education companies are increasingly looking beyond a home market shaped by a shrinking population. Kawaijuku, one of the country’s larger private education providers, is taking a venture-capital route into Vietnam. KJ Holdings, the holding company of the Japanese education group, has invested in Do Ventures Fund II, a fund managed by Ho Chi Minh […] The post Japan’s Kawaijuku backs Do Ventures to enter Viet…",
+      "published_at": "2026-09-30T04:43:04+00:00",
+      "fetched_at": "2026-09-30T04:48:39+00:00",
+      "summary": "Malaysia Digital Economy Corporation (MDEC) CEO Anuar Fariz Fadzil will leave the national digital-economy agency when his current contract ends on 2 October 2026, closing a two-year tenure marked by a sharper focus on artificial intelligence, high-value investment and measurable economic outcomes. MDEC said in a statement that Anuar had informed its board he would […] The post MDEC chief Anuar Fariz Fadzil to exit…",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Watchgraph:capitals_power_centers"
+        "AI/KI",
+        "APAC Trend Radar"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "9966489f99dfac44acce"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "19738b1b92979d7e1640"
     }
   ],
   "source_errors": [],

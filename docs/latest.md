@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-30T04:30:03+00:00_
+_Generiert: 2026-09-30T04:49:07+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „A 20% stablecoin APY may be less magical than it sounds“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+18 neue relevante Treffer. Stärkstes Signal: „A 20% stablecoin APY may be less magical than it sounds“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)
   - Kurz: A new beauty brand no longer needs to look much like a traditional beauty company. It does not need its own factory, a large product-development department or a nationwide retail network. Specialist manufacturers can formulate, produce and package cosmetics for outside brands, while e-commerce provides access to customers without building physical distribution from scratch. AI […] The post Why AI could unbundle the…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push** — Score 9, observation — [Quelle](https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-30T04:43:04+00:00`, fetched `2026-09-30T04:48:39+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
+  - Kurz: Malaysia Digital Economy Corporation (MDEC) CEO Anuar Fariz Fadzil will leave the national digital-economy agency when his current contract ends on 2 October 2026, closing a two-year tenure marked by a sharper focus on artificial intelligence, high-value investment and measurable economic outcomes. MDEC said in a statement that Anuar had informed its board he would […] The post MDEC chief Anuar Fariz Fadzil to exit…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 75 km NE of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tygq)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-30T01:35:08.040+00:00`, fetched `2026-09-30T01:48:57+00:00`
@@ -122,15 +131,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Frank Elderson: Supervisory risk appetite, efficiency and effectiveness
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why social commerce seeding is replacing upfront influencer retainers** — Score 6, observation — [Quelle](https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-30T03:00:25+00:00`, fetched `2026-09-30T03:19:08+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
-  - Kurz: Consumer brands across Southeast Asia and global e-commerce hubs face an unforgiving mathematical reality in their paid media accounts. Customer acquisition costs across Meta, TikTok, and Google climbed between 60 and 80 per cent over the past 18 months, while the conversion efficiency of traditional influencer sponsorships collapsed. For years, marketing teams wired guaranteed upfront […] The post Why social commer…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/30/2000001873/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
