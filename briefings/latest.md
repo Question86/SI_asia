@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T18:14:14+00:00_
+_Generiert: 2026-10-01T18:38:08+00:00_
 
 ## Kurzlage
 
-85 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+86 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -246,6 +246,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III Time 2026-10-01 14:46:19 UTC 2026-10-01 14:46:19 UTC at epicenter Location 53.723°N 163.724°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Actions retention now covers checks, runs, and statuses** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-01T17:59:54+00:00`, fetched `2026-10-01T18:37:36+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.5); recent (+1.0)
+  - Kurz: As previously announced, checks, workflow runs, and statuses are now governed by the same GitHub Actions retention setting that controls how long artifacts and logs are kept. These records are… The post Actions retention now covers checks, runs, and statuses appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The eternal complement** — Score 10, observation — [Quelle](https://openai.com/index/the-eternal-complement)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-10-01T17:00:00+00:00`, fetched `2026-10-01T17:35:05+00:00`
@@ -281,15 +290,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In a world where former military officers often trade uniforms for predictable government consultancies, Michael J. Padilla chose a different path. After more than 31 years in the US Army, rising to the rank of colonel, he founded Al Thuraya Holdings, a global group that today spans 18 companies across risk management, security, technology, consulting, […] The post From combat boots to boardrooms: Michael J. Padilla…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Actions Runner Controller release 0.15.0** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-09-30-actions-runner-controller-release-0-15-0)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-30T20:01:31+00:00`, fetched `2026-10-01T13:49:12+00:00`
-  - Treffer: Actions, GitHub, GitHub Actions
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.5); recent (+1.0)
-  - Kurz: GitHub Actions Runner Controller 0.15.0 includes reliability, scalability, and observability improvements for runner scale sets. These updates help you operate larger runner fleets with fewer disruptions during upgrades and Kubernetes… The post Actions Runner Controller release 0.15.0 appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Isabel Schnabel: Central banks on-chain** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
