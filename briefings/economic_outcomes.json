@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T16:56:06+00:00",
+  "generated_at": "2026-10-01T17:06:12+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -5756,6 +5756,17 @@
       "status": "active"
     },
     {
+      "event_id": "evt_75394cfd6d03d94ff172",
+      "title": "Scheduled code scanning skips inactive repositories",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_757d8af70b6d59ba983f",
       "title": "九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO",
       "deduplicated_buckets": 0,
@@ -6842,7 +6853,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8c7c3f3ea645209ebeb4",
