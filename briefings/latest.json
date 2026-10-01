@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T23:00:14+00:00",
-  "run_id": "2026-10-01T23:00:14+00:00",
+  "generated_at": "2026-10-01T23:19:12+00:00",
+  "run_id": "2026-10-01T23:19:12+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 99
+      "configured_public_sources_only": 100
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 99,
-    "displayed_findings": 99,
+    "today_file_total": 100,
+    "displayed_findings": 100,
     "high": 0,
     "medium": 39,
-    "observe": 60,
+    "observe": 61,
     "source_errors": 0
   },
   "sections": {
@@ -2081,6 +2081,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7e4b15fd695eb3ab8c7b"
+      },
+      {
+        "title": "免許証の悪用防止で申し込み集中 JICCがアプリ受付を一時休止 タイムズカー漏えいの影響か",
+        "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001943/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-01T11:38:41+00:00",
+        "fetched_at": "2026-10-01T23:18:38+00:00",
+        "summary": "信用情報機関の日本信用情報機構（JICC）は10月1日、免許証などの悪用を防ぐ「本人申告コメント」と、自分の信用情報を確認する「本人開示」について、申し込み集中を受けてスマートフォンアプリからの受付を一時休止していると発表した。9月28日にパーク24グループが公表したカーシェアサービス「タイムズカー」の情報...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "69653978d0b1f1a4d340"
       },
       {
         "title": "日本原子力機構に不正アクセス 研究者の個人情報が漏えい | NEWSjp",
@@ -4486,6 +4507,27 @@
       "id": "7e4b15fd695eb3ab8c7b"
     },
     {
+      "title": "免許証の悪用防止で申し込み集中 JICCがアプリ受付を一時休止 タイムズカー漏えいの影響か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001943/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:38:41+00:00",
+      "fetched_at": "2026-10-01T23:18:38+00:00",
+      "summary": "信用情報機関の日本信用情報機構（JICC）は10月1日、免許証などの悪用を防ぐ「本人申告コメント」と、自分の信用情報を確認する「本人開示」について、申し込み集中を受けてスマートフォンアプリからの受付を一時休止していると発表した。9月28日にパーク24グループが公表したカーシェアサービス「タイムズカー」の情報...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "69653978d0b1f1a4d340"
+    },
+    {
       "title": "日本原子力機構に不正アクセス 研究者の個人情報が漏えい | NEWSjp",
       "url": "https://news.jp/i/1478318653420880862",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4837,26 +4879,25 @@
   ],
   "new_findings": [
     {
-      "title": "GitHub Actions: macOS 14 runner image retirement",
-      "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-      "source": "GitHub Changelog Atom",
+      "title": "免許証の悪用防止で申し込み集中 JICCがアプリ受付を一時休止 タイムズカー漏えいの影響か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001943/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-01T19:11:23+00:00",
-      "fetched_at": "2026-10-01T22:59:43+00:00",
-      "summary": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled… The post GitHub Actions: macOS 14 runner image retirement appeared first on The GitHub Blog .",
+      "published_at": "2026-10-01T11:38:41+00:00",
+      "fetched_at": "2026-10-01T23:18:38+00:00",
+      "summary": "信用情報機関の日本信用情報機構（JICC）は10月1日、免許証などの悪用を防ぐ「本人申告コメント」と、自分の信用情報を確認する「本人開示」について、申し込み集中を受けてスマートフォンアプリからの受付を一時休止していると発表した。9月28日にパーク24グループが公表したカーシェアサービス「タイムズカー」の情報...",
       "matched_keywords": [
-        "Actions",
-        "GitHub",
-        "GitHub Actions"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b0d14cfc2e5f65d87df0"
+      "id": "69653978d0b1f1a4d340"
     }
   ],
   "source_errors": [],
