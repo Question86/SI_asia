@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T07:04:12+00:00_
+_Generiert: 2026-10-01T07:33:27+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+19 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -104,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In healthcare, booking an appointment is rarely as simple as finding an empty slot on a calendar. A patient may need a specific doctor, a particular procedure, a referral, a follow-up window, or a clinic that accepts certain rules around timing and availability. Much of this still sits in phone calls, WhatsApp threads and front-desk […] The post Zeya Health buys ConnectLah to build AI booking rails for clinics appea…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **WatchGuard schließt teils kritische Lücken in Fireware OS** — Score 7, observation — [Quelle](https://www.heise.de/news/WatchGuard-schliesst-teils-kritische-Luecken-in-Fireware-OS-11472101.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-01T07:24:00.000+00:00`, fetched `2026-10-01T07:32:55+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: WatchGuard schließt im Fireware OS ein gutes Dutzend Sicherheitslücken. Die sind teils kritisch und erlauben etwa Codeschmuggel.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Gビズポータルの電子ロッカーで商業登記リモート署名を利用した電子署名を付与できるようになりました（デジタル庁ウェブサービス・アプリケーション）** — Score 6, observation — [Quelle](https://services.digital.go.jp/gbiz-portal/news/20261001-01/)
   - Quelle: Japan Digital Agency News RSS / `rss`
