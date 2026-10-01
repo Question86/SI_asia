@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T03:03:29+00:00_
+_Generiert: 2026-10-01T03:33:17+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+11 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -86,6 +86,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CodeQL/Dependabot (+7.0); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: OpenSSL ProjectからOpenSSL Security Advisory [29th September 2026]が公開されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Meta appoints Dhruv Vohra to lead Southeast Asia business as AI and chat commerce reshape online retail** — Score 18, observation — [Quelle](https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-01T03:30:32+00:00`, fetched `2026-10-01T03:32:45+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Markets/Capital Structure, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0)
+  - Kurz: Meta has appointed Dhruv Vohra as Managing Director of its Global Business Group in Southeast Asia, putting a longtime regional executive in charge of one of the company’s most commercially important and behaviourally complex markets. Based in the region, Vohra will oversee Meta’s commercial strategy across Indonesia, Malaysia, the Philippines, Singapore, Thailand and Vietnam. He […] The post Meta appoints Dhruv Voh…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The AI agent boom is exposing Southeast Asia’s startup codebase problem** — Score 17, observation — [Quelle](https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-01T01:20:29+00:00`, fetched `2026-10-01T01:46:21+00:00`

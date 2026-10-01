@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-01T03:03:29+00:00",
+  "generated_at": "2026-10-01T03:33:17+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 1,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
-    "medium": 2,
+    "medium": 3,
     "observe": 8
   },
   "source_errors_count": 0,
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://jvn.jp/vu/JVNVU93468181/",
       "summary": "OpenSSL ProjectからOpenSSL Security Advisory [29th September 2026]が公開されました。",
+      "section": "medium"
+    },
+    {
+      "title": "Meta appoints Dhruv Vohra to lead Southeast Asia business as AI and chat commerce reshape online retail",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-01T03:30:32+00:00",
+      "relevance_score": 18,
+      "url": "https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/",
+      "summary": "Meta has appointed Dhruv Vohra as Managing Director of its Global Business Group in Southeast Asia, putting a longtime regional executive in charge of one of the company’s most commercially important and behaviourally complex markets. Based in the region, Voh…",
       "section": "medium"
     },
     {
