@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T03:54:44+00:00_
+_Generiert: 2026-10-01T04:03:16+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+12 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -142,6 +142,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)
   - Kurz: In July 2011, a 27-year-old Stanford dropout secured a 10-minute slot with George Shultz at the Hoover Institution. The meeting ran two and a half hours. Before the month was out, the former secretary of state had joined the Theranos board, won over, he told Fortune, by her “purity of motivation.” Nothing said in that […] The post Why con artists get the meeting that honest founders can’t appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Gboard チームからの新しいキーボードのご提案 2026** — Score 5, observation — [Quelle](https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-01T01:25:00+00:00`, fetched `2026-10-01T04:02:42+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 第 15 回目となる Google からの新しいキーボードのご提案シリーズは、あなたを中心とした流れるような入力体験を通じて、みなさまの日常に潤いをお届けします。 Gboard は、優れた変換性能にくわえて、お好きな写真を背景にできるテーマ機能、翻訳機能や校正支援機能などの便利な機能をそなえたスマートフォンやタブレ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **さよならイルカショー** — Score 5, observation — [Quelle](https://blog.tinect.jp/?p=91526)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
