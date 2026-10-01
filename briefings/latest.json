@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T22:20:21+00:00",
-  "run_id": "2026-10-01T22:20:21+00:00",
+  "generated_at": "2026-10-01T22:32:28+00:00",
+  "run_id": "2026-10-01T22:32:28+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 98,
     "displayed_findings": 98,
     "high": 0,
@@ -4791,50 +4791,7 @@
       "id": "b90cfb7fef4638635578"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIを業務改善につなげるための5ステップ ― サービスデザインを活用した要件定義 - Qiita",
-      "url": "https://qiita.com/TamakiSeki/items/ac268db56f92b991970b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-01T14:10:57+00:00",
-      "fetched_at": "2026-10-01T22:19:50+00:00",
-      "summary": "はじめに 生成AIやAIエージェントを業務に活用しようとすると、「どの業務に適用するか」「人とAIの役割をどう分けるか」で迷うことがあります。 文章作成や要約など個人単位の作業にはAIを導入しやすい一方、AIエージェントを作ること自体が目的になると、個別タスクの効率化にとどまり、業務全体の改善につながらない...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "eae440254a25e18e48c6"
-    },
-    {
-      "title": "「この勢いは驚き」タイムズカー情報流出で「集団訴訟」呼びかけ、わずか1日で参加希望2000人超 - 弁護士ドットコムニュース",
-      "url": "https://www.bengo4.com/c_1015/c_1885/c_1888/n_20995/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-01T11:45:11+00:00",
-      "fetched_at": "2026-10-01T22:19:50+00:00",
-      "summary": "カーシェアサービス「タイムズカー」の会員情報が不正アクセスによって漏えいした問題をめぐり、運営会社などに損害賠償を求める集団訴訟への参加希望が、2000人を超えたことがわかった（10月1日午後6時）。呼びかけている牧野裕貴弁護士が同日、弁護士ドットコムニュースの取材に明らかにした。 牧野弁護士は9月30日未...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7e4b15fd695eb3ab8c7b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
