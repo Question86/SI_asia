@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T11:26:12+00:00",
+  "generated_at": "2026-10-01T11:39:18+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-10-01T11:30:00+09:00",
         "relevance_score": 23,
         "url": "https://jvn.jp/vu/JVNVU93468181/"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (gvfs): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:26:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3692"
       },
       {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -47,32 +54,25 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638"
       },
       {
-        "title": "[UPDATE] [hoch] Dell PowerScale OneFS: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Cross-Site Scripting",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T11:16:30+00:00",
+        "published_at": "2026-10-01T11:31:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2912"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3697"
       },
       {
-        "title": "[UPDATE] [mittel] Intel UEFI Reference BIOS: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "title": "[NEU] [hoch] Kiteworks: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T11:16:29+00:00",
+        "published_at": "2026-10-01T11:31:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2757"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3695"
       },
       {
-        "title": "[NEU] [mittel] Moodle: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] JetBrains You Track: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T11:06:29+00:00",
+        "published_at": "2026-10-01T11:31:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3686"
-      },
-      {
-        "title": "[NEU] [hoch] OpenCTI: Schwachstelle ermöglicht Offenlegung von Informationen und Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T11:06:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3685"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3696"
       }
     ],
     "ai": [
@@ -89,6 +89,20 @@
         "published_at": "2026-10-01T01:20:29+00:00",
         "relevance_score": 17,
         "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/"
+      },
+      {
+        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:31:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3697"
+      },
+      {
+        "title": "[NEU] [hoch] JetBrains You Track: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:31:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3696"
       },
       {
         "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
@@ -179,6 +193,48 @@
         "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/"
       },
       {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (gvfs): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:26:29+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3692"
+      },
+      {
+        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:31:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3697"
+      },
+      {
+        "title": "[NEU] [hoch] Kiteworks: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:31:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3695"
+      },
+      {
+        "title": "[NEU] [hoch] JetBrains You Track: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:31:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3696"
+      },
+      {
+        "title": "[NEU] [kritisch] Zammad: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode und Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:26:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3694"
+      },
+      {
+        "title": "[NEU] [hoch] MediaWiki Extensions: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:26:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3693"
+      },
+      {
         "title": "[NEU] [mittel] Moodle: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-01T11:06:29+00:00",
@@ -198,48 +254,6 @@
         "published_at": "2026-10-01T11:01:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3684"
-      },
-      {
-        "title": "[NEU] [mittel] Apache Camel: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T11:01:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3683"
-      },
-      {
-        "title": "[NEU] [mittel] OpenSC: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T10:56:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3682"
-      },
-      {
-        "title": "Euro area bank interest rate statistics: August 2026",
-        "source": "ECB Statistical Press Releases",
-        "published_at": "2026-10-01T08:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html"
-      },
-      {
-        "title": "From combat boots to boardrooms: Michael J. Padilla’s bet on risk as a business",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-01T04:30:25+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/"
-      },
-      {
-        "title": "WatchGuard schließt teils kritische Lücken in Fireware OS",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-01T07:24:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/WatchGuard-schliesst-teils-kritische-Luecken-in-Fireware-OS-11472101.html"
-      },
-      {
-        "title": "PSA, Granite Asia launch US$50M fund to scale supply-chain innovation",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-01T02:30:27+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/psa-granite-asia-launch-us50m-fund-to-scale-supply-chain-innovation-20261001/"
       }
     ],
     "general": [

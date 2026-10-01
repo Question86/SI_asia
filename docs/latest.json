@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T11:26:12+00:00",
-  "run_id": "2026-10-01T11:26:12+00:00",
+  "generated_at": "2026-10-01T11:39:18+00:00",
+  "run_id": "2026-10-01T11:39:18+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 46
+      "configured_public_sources_only": 53
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 46,
-    "displayed_findings": 46,
+    "new_relevant_findings": 7,
+    "today_file_total": 53,
+    "displayed_findings": 53,
     "high": 0,
-    "medium": 21,
-    "observe": 25,
+    "medium": 27,
+    "observe": 26,
     "source_errors": 0
   },
   "sections": {
@@ -98,6 +98,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b097d38e4443b2e9baae"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (gvfs): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3692",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T11:26:29+00:00",
+        "fetched_at": "2026-10-01T11:38:48+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (gvfs) ausnutzen, um beliebigen Programmcode auszuführen oder seine Rechte zu erweitern.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "449a2325f35046e2941f"
       },
       {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -255,6 +279,121 @@
           "LOW"
         ],
         "id": "b1ec5563827326a5bfae"
+      },
+      {
+        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Cross-Site Scripting",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3697",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T11:31:29+00:00",
+        "fetched_at": "2026-10-01T11:38:48+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in LiteLLM ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c75fcd9950110526d97b"
+      },
+      {
+        "title": "[NEU] [hoch] Kiteworks: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3695",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T11:31:29+00:00",
+        "fetched_at": "2026-10-01T11:38:48+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Kiteworks ausnutzen, Authentifizierungs- oder Zugriffskontrollen zu umgehen, Benutzer- oder Administratorkonten zu übernehmen, Berechtigungen zu erhöhen, sensible Informationen auszulesen oder zu verändern, beliebige Dateien zu schreiben, interne Systeme per SSRF anzusprechen, SQL- oder Betriebssystembefehle einzuschleusen, Remote Code Execution zu erreichen oder Dienste…",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b179517c62e6fdca989f"
+      },
+      {
+        "title": "[NEU] [hoch] JetBrains You Track: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3696",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T11:31:29+00:00",
+        "fetched_at": "2026-10-01T11:38:48+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains You Track ausnutzen, um Sicherheitsvorkehrungen zu umgehen um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen und um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fe4f1912298c0a35876c"
+      },
+      {
+        "title": "[NEU] [kritisch] Zammad: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode und Privilegieneskalation",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3694",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T11:26:29+00:00",
+        "fetched_at": "2026-10-01T11:38:48+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Zammad ausnutzen, um beliebigen Programmcode mit Benutzerrechten auszuführen und um Root-Rechte zu erlangen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0033aec94c9ec9c110b0"
+      },
+      {
+        "title": "[NEU] [hoch] MediaWiki Extensions: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3693",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T11:26:29+00:00",
+        "fetched_at": "2026-10-01T11:38:48+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in MediaWiki Extensions ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen sowie Daten zu manipulieren oder offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b1bd0f7111bafb5ff354"
       },
       {
         "title": "[UPDATE] [hoch] Dell PowerScale OneFS: Mehrere Schwachstellen",
@@ -1038,6 +1177,27 @@
         "id": "6d61c6a10beeb890cc3c"
       },
       {
+        "title": "『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）",
+        "url": "https://zenn.dev/kmizu/articles/2026-09-parser-book",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-30T17:48:11+00:00",
+        "fetched_at": "2026-10-01T11:38:48+00:00",
+        "summary": "はじめに こんにちは！水島です。 2026年9月28日に、ZEN大学出版会から『構文解析のしくみ 電卓から言語処理系まで自分で書く』という本を出しました。 出版社のページ：https://zen.ac.jp/press/books/b_0019 通販ページ： Amazon：https://amzn.asia/d/030QeHhu 最短で10月7日配達（2026/09/30現在） 楽天ブックス：ht...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8f888a58f0d9187043c7"
+      },
+      {
         "title": "Uptober or downtober: Will Bitcoin’s 19% seasonal average survive US$100 oil?",
         "url": "https://e27.co/uptober-or-downtober-will-bitcoins-19-seasonal-average-survive-us100-oil-20261001/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1189,6 +1349,30 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "b097d38e4443b2e9baae"
+    },
+    {
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (gvfs): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3692",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:26:29+00:00",
+      "fetched_at": "2026-10-01T11:38:48+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (gvfs) ausnutzen, um beliebigen Programmcode auszuführen oder seine Rechte zu erweitern.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "449a2325f35046e2941f"
     },
     {
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -1346,6 +1530,121 @@
         "LOW"
       ],
       "id": "b1ec5563827326a5bfae"
+    },
+    {
+      "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Cross-Site Scripting",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3697",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:31:29+00:00",
+      "fetched_at": "2026-10-01T11:38:48+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in LiteLLM ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c75fcd9950110526d97b"
+    },
+    {
+      "title": "[NEU] [hoch] Kiteworks: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3695",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:31:29+00:00",
+      "fetched_at": "2026-10-01T11:38:48+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Kiteworks ausnutzen, Authentifizierungs- oder Zugriffskontrollen zu umgehen, Benutzer- oder Administratorkonten zu übernehmen, Berechtigungen zu erhöhen, sensible Informationen auszulesen oder zu verändern, beliebige Dateien zu schreiben, interne Systeme per SSRF anzusprechen, SQL- oder Betriebssystembefehle einzuschleusen, Remote Code Execution zu erreichen oder Dienste…",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b179517c62e6fdca989f"
+    },
+    {
+      "title": "[NEU] [hoch] JetBrains You Track: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3696",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:31:29+00:00",
+      "fetched_at": "2026-10-01T11:38:48+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains You Track ausnutzen, um Sicherheitsvorkehrungen zu umgehen um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen und um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fe4f1912298c0a35876c"
+    },
+    {
+      "title": "[NEU] [kritisch] Zammad: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode und Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3694",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:26:29+00:00",
+      "fetched_at": "2026-10-01T11:38:48+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Zammad ausnutzen, um beliebigen Programmcode mit Benutzerrechten auszuführen und um Root-Rechte zu erlangen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0033aec94c9ec9c110b0"
+    },
+    {
+      "title": "[NEU] [hoch] MediaWiki Extensions: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3693",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:26:29+00:00",
+      "fetched_at": "2026-10-01T11:38:48+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in MediaWiki Extensions ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen sowie Daten zu manipulieren oder offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b1bd0f7111bafb5ff354"
     },
     {
       "title": "[UPDATE] [hoch] Dell PowerScale OneFS: Mehrere Schwachstellen",
@@ -2127,6 +2426,27 @@
       "id": "6d61c6a10beeb890cc3c"
     },
     {
+      "title": "『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）",
+      "url": "https://zenn.dev/kmizu/articles/2026-09-parser-book",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-30T17:48:11+00:00",
+      "fetched_at": "2026-10-01T11:38:48+00:00",
+      "summary": "はじめに こんにちは！水島です。 2026年9月28日に、ZEN大学出版会から『構文解析のしくみ 電卓から言語処理系まで自分で書く』という本を出しました。 出版社のページ：https://zen.ac.jp/press/books/b_0019 通販ページ： Amazon：https://amzn.asia/d/030QeHhu 最短で10月7日配達（2026/09/30現在） 楽天ブックス：ht...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8f888a58f0d9187043c7"
+    },
+    {
       "title": "Uptober or downtober: Will Bitcoin’s 19% seasonal average survive US$100 oil?",
       "url": "https://e27.co/uptober-or-downtober-will-bitcoins-19-seasonal-average-survive-us100-oil-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2209,36 +2529,37 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Dell PowerScale OneFS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2912",
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (gvfs): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3692",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-01T11:16:30+00:00",
-      "fetched_at": "2026-10-01T11:25:41+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Dell PowerScale OneFS ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, und um Daten zu manipulieren.",
+      "published_at": "2026-10-01T11:26:29+00:00",
+      "fetched_at": "2026-10-01T11:38:48+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (gvfs) ausnutzen, um beliebigen Programmcode auszuführen oder seine Rechte zu erweitern.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
+        "Linux",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fcdcaed058667c5bc53c"
+      "id": "449a2325f35046e2941f"
     },
     {
-      "title": "[UPDATE] [mittel] Intel UEFI Reference BIOS: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2757",
+      "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Cross-Site Scripting",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3697",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-01T11:16:29+00:00",
-      "fetched_at": "2026-10-01T11:25:41+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Intel UEFI Reference BIOS ausnutzen, um Informationen offenzulegen.",
+      "published_at": "2026-10-01T11:31:29+00:00",
+      "fetched_at": "2026-10-01T11:38:48+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in LiteLLM ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2252,7 +2573,120 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "60c3e8f465a2417e5147"
+      "id": "c75fcd9950110526d97b"
+    },
+    {
+      "title": "[NEU] [hoch] JetBrains You Track: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3696",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:31:29+00:00",
+      "fetched_at": "2026-10-01T11:38:48+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains You Track ausnutzen, um Sicherheitsvorkehrungen zu umgehen um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen und um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fe4f1912298c0a35876c"
+    },
+    {
+      "title": "[NEU] [hoch] Kiteworks: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3695",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:31:29+00:00",
+      "fetched_at": "2026-10-01T11:38:48+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Kiteworks ausnutzen, Authentifizierungs- oder Zugriffskontrollen zu umgehen, Benutzer- oder Administratorkonten zu übernehmen, Berechtigungen zu erhöhen, sensible Informationen auszulesen oder zu verändern, beliebige Dateien zu schreiben, interne Systeme per SSRF anzusprechen, SQL- oder Betriebssystembefehle einzuschleusen, Remote Code Execution zu erreichen oder Dienste…",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b179517c62e6fdca989f"
+    },
+    {
+      "title": "[NEU] [kritisch] Zammad: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode und Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3694",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:26:29+00:00",
+      "fetched_at": "2026-10-01T11:38:48+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Zammad ausnutzen, um beliebigen Programmcode mit Benutzerrechten auszuführen und um Root-Rechte zu erlangen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0033aec94c9ec9c110b0"
+    },
+    {
+      "title": "[NEU] [hoch] MediaWiki Extensions: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3693",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:26:29+00:00",
+      "fetched_at": "2026-10-01T11:38:48+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in MediaWiki Extensions ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen sowie Daten zu manipulieren oder offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b1bd0f7111bafb5ff354"
+    },
+    {
+      "title": "『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）",
+      "url": "https://zenn.dev/kmizu/articles/2026-09-parser-book",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-30T17:48:11+00:00",
+      "fetched_at": "2026-10-01T11:38:48+00:00",
+      "summary": "はじめに こんにちは！水島です。 2026年9月28日に、ZEN大学出版会から『構文解析のしくみ 電卓から言語処理系まで自分で書く』という本を出しました。 出版社のページ：https://zen.ac.jp/press/books/b_0019 通販ページ： Amazon：https://amzn.asia/d/030QeHhu 最短で10月7日配達（2026/09/30現在） 楽天ブックス：ht...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8f888a58f0d9187043c7"
     }
   ],
   "source_errors": [],
