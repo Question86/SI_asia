@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T07:33:27+00:00",
-  "run_id": "2026-10-01T07:33:27+00:00",
+  "generated_at": "2026-10-01T08:01:11+00:00",
+  "run_id": "2026-10-01T08:01:11+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 2,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
-    "medium": 4,
-    "observe": 15,
+    "medium": 5,
+    "observe": 16,
     "source_errors": 0
   },
   "sections": {
@@ -135,9 +135,54 @@
           "LOW"
         ],
         "id": "b1ec5563827326a5bfae"
+      },
+      {
+        "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3654",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T07:56:29+00:00",
+        "fetched_at": "2026-10-01T08:00:37+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox ESR, Mozilla Firefox und Thunderbird ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe zu starten.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e74bebaaf5e017bd9df3"
       }
     ],
     "observe": [
+      {
+        "title": "Euro area bank interest rate statistics: August 2026",
+        "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
+        "source": "ECB Statistical Press Releases",
+        "source_type": "rss",
+        "published_at": "2026-10-01T08:00:00+00:00",
+        "fetched_at": "2026-10-01T08:00:37+00:00",
+        "summary": "Euro area bank interest rate statistics: August 2026",
+        "matched_keywords": [
+          "euro area",
+          "Macro/Policy",
+          "statistics"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "86070acdc80a877cb752"
+      },
       {
         "title": "ChatGPT連携初日の増田で何が起きていたか",
         "url": "https://anond.hatelabo.jp/20261001070030",
@@ -610,6 +655,51 @@
       "id": "b1ec5563827326a5bfae"
     },
     {
+      "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3654",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T07:56:29+00:00",
+      "fetched_at": "2026-10-01T08:00:37+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox ESR, Mozilla Firefox und Thunderbird ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe zu starten.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e74bebaaf5e017bd9df3"
+    },
+    {
+      "title": "Euro area bank interest rate statistics: August 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-10-01T08:00:00+00:00",
+      "fetched_at": "2026-10-01T08:00:37+00:00",
+      "summary": "Euro area bank interest rate statistics: August 2026",
+      "matched_keywords": [
+        "euro area",
+        "Macro/Policy",
+        "statistics"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "86070acdc80a877cb752"
+    },
+    {
       "title": "ChatGPT連携初日の増田で何が起きていたか",
       "url": "https://anond.hatelabo.jp/20261001070030",
       "source": "Hatena Bookmark Hotentry IT",
@@ -973,24 +1063,49 @@
   ],
   "new_findings": [
     {
-      "title": "WatchGuard schließt teils kritische Lücken in Fireware OS",
-      "url": "https://www.heise.de/news/WatchGuard-schliesst-teils-kritische-Luecken-in-Fireware-OS-11472101.html",
-      "source": "heise Security Alerts",
+      "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3654",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-01T07:24:00.000+00:00",
-      "fetched_at": "2026-10-01T07:32:55+00:00",
-      "summary": "WatchGuard schließt im Fireware OS ein gutes Dutzend Sicherheitslücken. Die sind teils kritisch und erlauben etwa Codeschmuggel.",
+      "published_at": "2026-10-01T07:56:29+00:00",
+      "fetched_at": "2026-10-01T08:00:37+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox ESR, Mozilla Firefox und Thunderbird ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe zu starten.",
       "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5e03d566b88eaaf416a2"
+      "id": "e74bebaaf5e017bd9df3"
+    },
+    {
+      "title": "Euro area bank interest rate statistics: August 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-10-01T08:00:00+00:00",
+      "fetched_at": "2026-10-01T08:00:37+00:00",
+      "summary": "Euro area bank interest rate statistics: August 2026",
+      "matched_keywords": [
+        "euro area",
+        "Macro/Policy",
+        "statistics"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "86070acdc80a877cb752"
     }
   ],
   "source_errors": [],
