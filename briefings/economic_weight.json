@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T01:05:19+00:00",
+  "generated_at": "2026-10-01T01:47:14+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -878,8 +878,8 @@
       "p90_usd": 107200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T04:25:00+00:00",
-      "last_seen_at": "2026-09-24T04:25:00+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-01T01:46:57+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_999779764872d9b6965a",
@@ -4482,7 +4482,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-17T19:46:45+00:00",
-      "last_seen_at": "2026-10-01T01:05:02+00:00",
+      "last_seen_at": "2026-10-01T01:46:57+00:00",
       "status": "active"
     },
     {
@@ -5606,6 +5606,23 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_62366008ebb1cf41f06a",
+      "title": "M 5.2 - 7 km ESE of Baghlān, Afghanistan",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-01T01:46:57+00:00",
+      "last_seen_at": "2026-10-01T01:46:57+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -7833,6 +7850,23 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_be4e56f880aedd9e2899",
+      "title": "The AI agent boom is exposing Southeast Asia’s startup codebase problem",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 117600.0,
+      "p50_usd": 11760000.0,
+      "p90_usd": 1176000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-01T01:46:57+00:00",
+      "last_seen_at": "2026-10-01T01:46:57+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_04dd5841535ba2efa091",
@@ -15793,6 +15827,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_22de46e248ae065162d3",
+      "title": "Why con artists get the meeting that honest founders can’t",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-01T01:46:57+00:00",
+      "last_seen_at": "2026-10-01T01:46:57+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_00999a707b633ec75a8c",
       "title": "Startups should learn to leave bad markets faster",
       "event_classes": [
@@ -17387,7 +17438,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T07:48:35+00:00",
-      "last_seen_at": "2026-10-01T01:05:02+00:00",
+      "last_seen_at": "2026-10-01T01:46:57+00:00",
       "status": "active"
     },
     {
