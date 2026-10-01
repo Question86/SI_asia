@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T09:58:47+00:00",
+  "generated_at": "2026-10-01T10:19:30+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -3818,6 +3818,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_52fb1d3cabccc6ee2961",
+      "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_53a1da19d8eec77cc200",
@@ -10593,7 +10604,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_dc4d6b9c2e8dbd1ab949",
