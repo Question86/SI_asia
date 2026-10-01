@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-01T02:44:48+00:00_
+_Generiert: 2026-10-01T03:03:32+00:00_
 
 ## The AI agent boom is exposing Southeast Asia’s startup codebase problem
 
