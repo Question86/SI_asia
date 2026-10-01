@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-01T04:29:36+00:00_
+_Generated: 2026-10-01T04:59:21+00:00_
 
 ## Status
 - status: `normal`
-- findings: `12`
+- findings: `13`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-10-01T04:29:36+00:00_
 - url: https://anond.hatelabo.jp/20261001070030
 - summary: 昨日、増田にChatGPT連携が来た。 はてラボの告知が出たのが9月30日15:15。 https://labo.hatenastaff.com/entry/2026/09/30/151500 ChatGPTから増田を検索したり、読んだり、そして''そのまま投稿したりできる''ようになった。 で、初日に何が起きたのか、実際の増田を追ってみた。 16:59 まず「増田プラグインおめで...
 
-### 5. M 5.2 - 7 km ESE of Baghlān, Afghanistan
+### 5. From combat boots to boardrooms: Michael J. Padilla’s bet on risk as a business
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-10-01T04:30:25+00:00`
+- url: https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/
+- summary: In a world where former military officers often trade uniforms for predictable government consultancies, Michael J. Padilla chose a different path. After more than 31 years in the US Army, rising to the rank of colonel, he founded Al Thuraya Holdings, a globa…
+
+### 6. M 5.2 - 7 km ESE of Baghlān, Afghanistan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-01T01:43:06.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny
 - summary: Time 2026-10-01 01:29:20 UTC 2026-10-01 01:29:20 UTC at epicenter Location 36.099°N 68.782°E Depth 49.60 km (30.82 mi)
 
-### 6. M 4.9 - northern Mid-Atlantic Ridge
+### 7. M 4.9 - northern Mid-Atlantic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-01T00:45:24.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp
 - summary: Time 2026-10-01 00:28:22 UTC 2026-10-01 00:28:22 UTC at epicenter Location 19.276°N 43.035°W Depth 10.00 km (6.21 mi)
-
-### 7. Why con artists get the meeting that honest founders can’t
-- source: e27 Asia Startup and Tech Feed
-- score: `6`
-- published: `2026-10-01T01:10:02+00:00`
-- url: https://e27.co/why-con-artists-get-the-meeting-that-honest-founders-cant-20260930/
-- summary: In July 2011, a 27-year-old Stanford dropout secured a 10-minute slot with George Shultz at the Hoover Institution. The meeting ran two and a half hours. Before the month was out, the former secretary of state had joined the Theranos board, won over, he told…
 
 END OF DOCUMENT
