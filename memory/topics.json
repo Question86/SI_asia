@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T10:48:18+00:00",
+  "generated_at": "2026-10-01T10:57:12+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-10-01T11:30:00+09:00",
         "relevance_score": 23,
         "url": "https://jvn.jp/vu/JVNVU93468181/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T10:51:59+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2941"
       },
       {
         "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (undici-nodejs): Mehrere Schwachstellen",
@@ -40,6 +47,20 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638"
       },
       {
+        "title": "[UPDATE] [niedrig] expat: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T10:52:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0213"
+      },
+      {
+        "title": "[UPDATE] [niedrig] CPython: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T10:51:58+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2468"
+      },
+      {
         "title": "[UPDATE] [mittel] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-01T10:07:45+00:00",
@@ -52,27 +73,6 @@
         "published_at": "2026-10-01T10:07:45+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3651"
-      },
-      {
-        "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T07:56:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3654"
-      },
-      {
-        "title": "From combat boots to boardrooms: Michael J. Padilla’s bet on risk as a business",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-01T04:30:25+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/"
-      },
-      {
-        "title": "TeamViewer-Codeschmuggel-Lücke verpasst nur knapp kritische Einstufung",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-01T08:58:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/TeamViewer-Codeschmuggel-Luecke-verpasst-nur-knapp-kritische-Einstufung-11472313.html"
       }
     ],
     "ai": [
