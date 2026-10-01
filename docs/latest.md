@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T13:15:13+00:00_
+_Generiert: 2026-10-01T13:35:05+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+67 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Christine Lagarde: Where AI risks meet** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-10-01T13:30:00+00:00`, fetched `2026-10-01T13:34:35+00:00`
+  - Treffer: AI/KI, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Christine Lagarde: Where AI risks meet
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Euro area bank interest rate statistics: August 2026** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html)
   - Quelle: ECB Statistical Press Releases / `rss`
   - Zeit: published `2026-10-01T08:00:00+00:00`, fetched `2026-10-01T08:00:37+00:00`
@@ -212,15 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Zahlreiche Sicherheitslücken in GPU-Treibern von Nvidia machen Linux- und Windows-Computer angreifbar. Patches sind verfügbar.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Attacken auf IT-Verwaltungsplattform HPE OneView möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Attacken-auf-IT-Verwaltungsplattform-HPE-OneView-moeglich-11472151.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-01T08:06:00.000+00:00`, fetched `2026-10-01T08:33:16+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Drei Sicherheitslücken gefährden HPE OneView und HPE Synergy Composer. Eine reparierte Version steht zum Download bereit.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-01T13:15:13+00:00_
+_Generated: 2026-10-01T13:35:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `65`
+- findings: `67`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-01T13:15:13+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3692
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (gvfs) ausnutzen, um beliebigen Programmcode auszuführen oder seine Rechte zu erweitern.
 
-### 5. Euro area bank interest rate statistics: August 2026
+### 5. Christine Lagarde: Where AI risks meet
+- source: ECB Press Releases Speeches Interviews
+- score: `13`
+- published: `2026-10-01T13:30:00+00:00`
+- url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html
+- summary: Christine Lagarde: Where AI risks meet
+
+### 6. Euro area bank interest rate statistics: August 2026
 - source: ECB Statistical Press Releases
 - score: `13`
 - published: `2026-10-01T08:00:00+00:00`
 - url: https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html
 - summary: Euro area bank interest rate statistics: August 2026
 
-### 6. Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system
+### 7. Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system
 - source: BIS Press Releases
 - score: `12`
 - published: `2026-10-01T00:00:00+00:00`
 - url: https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and
 - summary: Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...
 
-### 7. ChatGPT連携初日の増田で何が起きていたか
+### 8. ChatGPT連携初日の増田で何が起きていたか
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-09-30T22:05:08+00:00`
 - url: https://anond.hatelabo.jp/20261001070030
 - summary: 昨日、増田にChatGPT連携が来た。 はてラボの告知が出たのが9月30日15:15。 https://labo.hatenastaff.com/entry/2026/09/30/151500 ChatGPTから増田を検索したり、読んだり、そして''そのまま投稿したりできる''ようになった。 で、初日に何が起きたのか、実際の増田を追ってみた。 16:59 まず「増田プラグインおめで...
-
-### 8. Why Singapore firms fear data sovereignty failures but remain underprepared
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-10-01T06:30:43+00:00`
-- url: https://e27.co/why-singapore-firms-fear-data-sovereignty-failures-but-remain-underprepared-20261001/
-- summary: Singapore’s position as one of Asia’s most advanced digital economies is built on a simple promise: global companies can move data, capital and operations through the city-state with confidence. A new study suggests that promise is becoming harder to keep. Re…
 
 END OF DOCUMENT
