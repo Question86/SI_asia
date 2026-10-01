@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T04:59:21+00:00",
-  "run_id": "2026-10-01T04:59:21+00:00",
+  "generated_at": "2026-10-01T05:22:49+00:00",
+  "run_id": "2026-10-01T05:22:49+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 13,
     "displayed_findings": 13,
     "high": 0,
@@ -651,29 +651,7 @@
       "id": "589f5686646881c562f6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "From combat boots to boardrooms: Michael J. Padilla’s bet on risk as a business",
-      "url": "https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-01T04:30:25+00:00",
-      "fetched_at": "2026-10-01T04:58:53+00:00",
-      "summary": "In a world where former military officers often trade uniforms for predictable government consultancies, Michael J. Padilla chose a different path. After more than 31 years in the US Army, rising to the rank of colonel, he founded Al Thuraya Holdings, a global group that today spans 18 companies across risk management, security, technology, consulting, […] The post From combat boots to boardrooms: Michael J. Padilla…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Security"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2e99e42e6161fef7db17"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
