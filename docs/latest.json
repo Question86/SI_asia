@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T15:58:33+00:00",
-  "run_id": "2026-10-01T15:58:33+00:00",
+  "generated_at": "2026-10-01T16:46:51+00:00",
+  "run_id": "2026-10-01T16:46:51+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 78
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 78,
-    "displayed_findings": 78,
+    "new_relevant_findings": 2,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
     "medium": 36,
-    "observe": 42,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -1463,6 +1463,26 @@
         "id": "9963e6f7724d739e7708"
       },
       {
+        "title": "How Albertsons Companies is reimagining retail from the inside out",
+        "url": "https://openai.com/index/albertsons-reimagining-retail",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-01T16:00:00+00:00",
+        "fetched_at": "2026-10-01T16:46:20+00:00",
+        "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e57af7eaab3afe3ba55a"
+      },
+      {
         "title": "TeamViewer-Codeschmuggel-Lücke verpasst nur knapp kritische Einstufung",
         "url": "https://www.heise.de/news/TeamViewer-Codeschmuggel-Luecke-verpasst-nur-knapp-kritische-Einstufung-11472313.html",
         "source": "heise Security Alerts",
@@ -1911,6 +1931,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "589f5686646881c562f6"
+      },
+      {
+        "title": "New dashboard experience now the default",
+        "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-01T16:14:56+00:00",
+        "fetched_at": "2026-10-01T16:46:20+00:00",
+        "summary": "The new dashboard experience, previously available as a feature preview, is now the default view for everyone. The redesigned dashboard helps you focus on the work that matters most and… The post New dashboard experience now the default appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b90cfb7fef4638635578"
       }
     ]
   },
@@ -3347,6 +3387,26 @@
       "id": "9963e6f7724d739e7708"
     },
     {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-01T16:00:00+00:00",
+      "fetched_at": "2026-10-01T16:46:20+00:00",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e57af7eaab3afe3ba55a"
+    },
+    {
       "title": "TeamViewer-Codeschmuggel-Lücke verpasst nur knapp kritische Einstufung",
       "url": "https://www.heise.de/news/TeamViewer-Codeschmuggel-Luecke-verpasst-nur-knapp-kritische-Einstufung-11472313.html",
       "source": "heise Security Alerts",
@@ -3795,30 +3855,68 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "589f5686646881c562f6"
+    },
+    {
+      "title": "New dashboard experience now the default",
+      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-01T16:14:56+00:00",
+      "fetched_at": "2026-10-01T16:46:20+00:00",
+      "summary": "The new dashboard experience, previously available as a feature preview, is now the default view for everyone. The redesigned dashboard helps you focus on the work that matters most and… The post New dashboard experience now the default appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b90cfb7fef4638635578"
     }
   ],
   "new_findings": [
     {
-      "title": "全体像が知りたいんだよォー！そんな時は図解スキルeli5が便利",
-      "url": "https://eiji.page/blog/ai-skill-eli5-is-great",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-10-01T10:09:45+00:00",
-      "fetched_at": "2026-10-01T15:57:58+00:00",
-      "summary": "AIを使った開発によってスピードが上がっているのは実感するものの、それと引き換えに 自分がちゃんと理解できなくてふわっとした部分 が増えてきました。 そんなとき、自分の理解が合っているか音声入力でバーっと喋ってAIとやりとりします。 他の人が書いたコードの機能の概要・ロジックなんかも同じです。 ただ、複雑...",
+      "published_at": "2026-10-01T16:00:00+00:00",
+      "fetched_at": "2026-10-01T16:46:20+00:00",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
       "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
+        "OpenAI"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "08b5d589a8a05240a5ca"
+      "id": "e57af7eaab3afe3ba55a"
+    },
+    {
+      "title": "New dashboard experience now the default",
+      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-01T16:14:56+00:00",
+      "fetched_at": "2026-10-01T16:46:20+00:00",
+      "summary": "The new dashboard experience, previously available as a feature preview, is now the default view for everyone. The redesigned dashboard helps you focus on the work that matters most and… The post New dashboard experience now the default appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b90cfb7fef4638635578"
     }
   ],
   "source_errors": [],
