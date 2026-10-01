@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T04:03:16+00:00",
-  "run_id": "2026-10-01T04:03:16+00:00",
+  "generated_at": "2026-10-01T04:29:36+00:00",
+  "run_id": "2026-10-01T04:29:36+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 12,
     "displayed_findings": 12,
     "high": 0,
@@ -609,29 +609,7 @@
       "id": "589f5686646881c562f6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Gboard チームからの新しいキーボードのご提案 2026",
-      "url": "https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-01T01:25:00+00:00",
-      "fetched_at": "2026-10-01T04:02:42+00:00",
-      "summary": "第 15 回目となる Google からの新しいキーボードのご提案シリーズは、あなたを中心とした流れるような入力体験を通じて、みなさまの日常に潤いをお届けします。 Gboard は、優れた変換性能にくわえて、お好きな写真を背景にできるテーマ機能、翻訳機能や校正支援機能などの便利な機能をそなえたスマートフォンやタブレ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "95510f5344375b8f5aad"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
