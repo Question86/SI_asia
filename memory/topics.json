@@ -1,8 +1,80 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T20:57:40+00:00",
+  "generated_at": "2026-10-01T21:43:29+00:00",
   "topics": {
+    "ai": [
+      {
+        "title": "dotfiles を AI agent のために作り変えた",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-01T14:35:59+00:00",
+        "relevance_score": 23,
+        "url": "https://tellme.tokyo/post/2026/10/01/ai-agent-first-dotfiles/"
+      },
+      {
+        "title": "Meta appoints Dhruv Vohra to lead Southeast Asia business as AI and chat commerce reshape online retail",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-01T03:30:32+00:00",
+        "relevance_score": 18,
+        "url": "https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/"
+      },
+      {
+        "title": "The AI agent boom is exposing Southeast Asia’s startup codebase problem",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-01T01:20:29+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/"
+      },
+      {
+        "title": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-10-01T14:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm"
+      },
+      {
+        "title": "M 5.3 - 0 km NNE of Yōkaichiba, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-01T12:53:01.125+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tytg"
+      },
+      {
+        "title": "Rate limits for private vulnerability reports",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-01T19:57:39+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports"
+      },
+      {
+        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:31:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3697"
+      },
+      {
+        "title": "[NEU] [hoch] JetBrains You Track: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:31:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3696"
+      },
+      {
+        "title": "Christine Lagarde: Where AI risks meet",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-10-01T13:30:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html"
+      },
+      {
+        "title": "GitHub Copilot can now interact with desktop apps with computer use",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-01T19:11:26+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps"
+      }
+    ],
     "security": [
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）",
@@ -73,78 +145,6 @@
         "published_at": "2026-10-01T11:41:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1325"
-      }
-    ],
-    "ai": [
-      {
-        "title": "Meta appoints Dhruv Vohra to lead Southeast Asia business as AI and chat commerce reshape online retail",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-01T03:30:32+00:00",
-        "relevance_score": 18,
-        "url": "https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/"
-      },
-      {
-        "title": "The AI agent boom is exposing Southeast Asia’s startup codebase problem",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-01T01:20:29+00:00",
-        "relevance_score": 17,
-        "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/"
-      },
-      {
-        "title": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
-        "source": "Federal Reserve Speeches and Testimony",
-        "published_at": "2026-10-01T14:00:00+00:00",
-        "relevance_score": 16,
-        "url": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm"
-      },
-      {
-        "title": "M 5.3 - 0 km NNE of Yōkaichiba, Japan",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-01T12:53:01.125+00:00",
-        "relevance_score": 15,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tytg"
-      },
-      {
-        "title": "Rate limits for private vulnerability reports",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-01T19:57:39+00:00",
-        "relevance_score": 14,
-        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports"
-      },
-      {
-        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Cross-Site Scripting",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T11:31:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3697"
-      },
-      {
-        "title": "[NEU] [hoch] JetBrains You Track: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T11:31:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3696"
-      },
-      {
-        "title": "Christine Lagarde: Where AI risks meet",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-10-01T13:30:00+00:00",
-        "relevance_score": 13,
-        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html"
-      },
-      {
-        "title": "GitHub Copilot can now interact with desktop apps with computer use",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-01T19:11:26+00:00",
-        "relevance_score": 12,
-        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps"
-      },
-      {
-        "title": "10 technical talks I’m excited about at GitHub Universe 2026",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-10-01T15:07:16+00:00",
-        "relevance_score": 12,
-        "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/"
       }
     ],
     "economy": [

@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-01T20:57:40+00:00_
+_Generated: 2026-10-01T21:43:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `94`
+- findings: `96`
 
 ## Top Signals
 
-### 1. OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）
+### 1. dotfiles を AI agent のために作り変えた
+- source: Hatena Bookmark Hotentry IT
+- score: `23`
+- published: `2026-10-01T14:35:59+00:00`
+- url: https://tellme.tokyo/post/2026/10/01/ai-agent-first-dotfiles/
+- summary: 最近、自分のターミナルでコマンドを打っているのは、ほとんど自分ではなく Claude Code や Codex だった（以下 AI）。試しに数えてみると、直近 gh を叩いた回数は自分が80回で、AI が1,339回だった。 一方で、10年以上いじってきた dotfiles は、人間が快適に使うための設定の塊だ。これが AI にとってはけっこう邪魔...
+
+### 2. OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）
 - source: JVN Japan Vulnerability Notes
 - score: `23`
 - published: `2026-10-01T11:30:00+09:00`
 - url: https://jvn.jp/vu/JVNVU93468181/
 - summary: OpenSSL ProjectからOpenSSL Security Advisory [29th September 2026]が公開されました。
 
-### 2. Meta appoints Dhruv Vohra to lead Southeast Asia business as AI and chat commerce reshape online retail
+### 3. Meta appoints Dhruv Vohra to lead Southeast Asia business as AI and chat commerce reshape online retail
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-10-01T03:30:32+00:00`
 - url: https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/
 - summary: Meta has appointed Dhruv Vohra as Managing Director of its Global Business Group in Southeast Asia, putting a longtime regional executive in charge of one of the company’s most commercially important and behaviourally complex markets. Based in the region, Voh…
 
-### 3. The AI agent boom is exposing Southeast Asia’s startup codebase problem
+### 4. The AI agent boom is exposing Southeast Asia’s startup codebase problem
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-10-01T01:20:29+00:00`
 - url: https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/
 - summary: Across Southeast Asia’s technology hubs, the AI conversation has moved quickly from “Can it help developers write code faster?” to a harder question: “Can it be trusted to work on the codebase by itself?” That shift matters. The first wave of generative AI in…
-
-### 4. Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI
-- source: Federal Reserve Speeches and Testimony
-- score: `16`
-- published: `2026-10-01T14:00:00+00:00`
-- url: https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm
-- summary: Speech At &quot;Navigating Trust, AI and Storytelling in a World of Data,&quot; FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri
 
 ### 5. Jefferson, The U.S. Economy and Monetary Policy
 - source: Federal Reserve Speeches and Testimony

@@ -1,5 +1,55 @@
 [
   {
+    "title": "dotfiles を AI agent のために作り変えた",
+    "url": "https://tellme.tokyo/post/2026/10/01/ai-agent-first-dotfiles/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-01T14:35:59+00:00",
+    "fetched_at": "2026-10-01T21:43:01+00:00",
+    "summary": "最近、自分のターミナルでコマンドを打っているのは、ほとんど自分ではなく Claude Code や Codex だった（以下 AI）。試しに数えてみると、直近 gh を叩いた回数は自分が80回で、AI が1,339回だった。 一方で、10年以上いじってきた dotfiles は、人間が快適に使うための設定の塊だ。これが AI にとってはけっこう邪魔...",
+    "matched_keywords": [
+      "agent",
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry",
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph region japan: Tokyo (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "77981c33ad30e507471a"
+  },
+  {
     "title": "OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）",
     "url": "https://jvn.jp/vu/JVNVU93468181/",
     "source": "JVN Japan Vulnerability Notes",
@@ -1124,6 +1174,27 @@
       "PINS"
     ],
     "id": "335e77fb1b8488a96338"
+  },
+  {
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "url": "https://openai.com/index/the-den-family-social",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-10-01T00:00:00+00:00",
+    "fetched_at": "2026-10-01T21:43:01+00:00",
+    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "matched_keywords": [
+      "Open Source",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); Open Source (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "32a9bba373cff750d40b"
   },
   {
     "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
