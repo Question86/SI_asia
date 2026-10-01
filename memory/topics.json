@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T10:57:12+00:00",
+  "generated_at": "2026-10-01T11:10:55+00:00",
   "topics": {
     "security": [
       {
@@ -47,32 +47,32 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638"
       },
       {
-        "title": "[UPDATE] [niedrig] expat: Schwachstelle ermöglicht Denial of Service",
+        "title": "[NEU] [mittel] Moodle: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T10:52:01+00:00",
+        "published_at": "2026-10-01T11:06:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0213"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3686"
       },
       {
-        "title": "[UPDATE] [niedrig] CPython: Schwachstelle ermöglicht Denial of Service",
+        "title": "[NEU] [hoch] OpenCTI: Schwachstelle ermöglicht Offenlegung von Informationen und Manipulation von Daten",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T10:51:58+00:00",
+        "published_at": "2026-10-01T11:06:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2468"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3685"
       },
       {
-        "title": "[UPDATE] [mittel] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "title": "[NEU] [mittel] Ghostscript: Schwachstelle ermöglicht Manipulation von Dateien und DoS",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T10:07:45+00:00",
+        "published_at": "2026-10-01T11:01:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3652"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3684"
       },
       {
-        "title": "[UPDATE] [hoch] Podman: Schwachstelle ermöglicht Privilegieneskalation",
+        "title": "[NEU] [mittel] Apache Camel: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T10:07:45+00:00",
+        "published_at": "2026-10-01T11:01:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3651"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3683"
       }
     ],
     "ai": [
@@ -177,6 +177,41 @@
         "published_at": "2026-10-01T01:20:29+00:00",
         "relevance_score": 17,
         "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/"
+      },
+      {
+        "title": "[NEU] [mittel] Moodle: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:06:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3686"
+      },
+      {
+        "title": "[NEU] [hoch] OpenCTI: Schwachstelle ermöglicht Offenlegung von Informationen und Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:06:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3685"
+      },
+      {
+        "title": "[NEU] [mittel] Ghostscript: Schwachstelle ermöglicht Manipulation von Dateien und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:01:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3684"
+      },
+      {
+        "title": "[NEU] [mittel] Apache Camel: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:01:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3683"
+      },
+      {
+        "title": "[NEU] [mittel] OpenSC: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T10:56:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3682"
       },
       {
         "title": "Euro area bank interest rate statistics: August 2026",
