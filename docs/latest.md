@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T17:35:38+00:00_
+_Generiert: 2026-10-01T17:47:36+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+85 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Daten zu manipulieren, Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand zu verursachen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 108 km ENE of Miyako, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyw6)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-01T17:37:33.040+00:00`, fetched `2026-10-01T17:47:06+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-01 17:17:20 UTC 2026-10-01 17:17:20 UTC at epicenter Location 39.878°N 143.173°E Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 176 km NNE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyua)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-01T14:38:35.040+00:00`, fetched `2026-10-01T14:38:37+00:00`
@@ -92,15 +101,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-10-01 12:27:11 UTC 2026-10-01 12:27:11 UTC at epicenter Location 35.703°N 140.551°E Depth 41.65 km (25.88 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - 38 km WSW of Palimbang, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyq7)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-01T05:49:06.040+00:00`, fetched `2026-10-01T05:49:31+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-01 05:34:10 UTC 2026-10-01 05:34:10 UTC at epicenter Location 6.112°N 123.860°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
