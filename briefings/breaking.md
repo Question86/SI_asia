@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-01T17:47:39+00:00_
+_Generiert: 2026-10-01T17:56:19+00:00_
 
 ## Christine Lagarde: Where AI risks meet
 
-- Ranking Score: `23.41`
+- Ranking Score: `23.28`
 - Raw Network Score: `25.3`
 - Max Monitor Score: `13`
 - Reichweite: `institutional` / `5.0`
