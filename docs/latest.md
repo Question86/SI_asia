@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T17:23:51+00:00_
+_Generiert: 2026-10-01T17:35:38+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+84 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Jefferson, The U.S. Economy and Monetary Policy** — Score 13, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-10-01T17:30:00+00:00`, fetched `2026-10-01T17:35:05+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At the Darden School of Business, University of Virginia, Charlottesville, Virginia
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Christine Lagarde: Where AI risks meet** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-10-01T13:30:00+00:00`, fetched `2026-10-01T13:34:35+00:00`
@@ -168,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III Time 2026-10-01 14:46:19 UTC 2026-10-01 14:46:19 UTC at epicenter Location 53.723°N 163.724°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The eternal complement** — Score 10, observation — [Quelle](https://openai.com/index/the-eternal-complement)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-01T17:00:00+00:00`, fetched `2026-10-01T17:35:05+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
+  - Kurz: Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Actions Runner Controller release 0.15.0** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-10-01T13:01:31+00:00`, fetched `2026-10-01T14:24:04+00:00`
@@ -222,24 +240,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-01 08:45:44 UTC 2026-10-01 08:45:44 UTC at epicenter Location 19.141°S 172.704°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.2 - 7 km ESE of Baghlān, Afghanistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-01T01:43:06.040+00:00`, fetched `2026-10-01T01:46:21+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-01 01:29:20 UTC 2026-10-01 01:29:20 UTC at epicenter Location 36.099°N 68.782°E Depth 49.60 km (30.82 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **全体像が知りたいんだよォー！そんな時は図解スキルeli5が便利** — Score 8, observation — [Quelle](https://eiji.page/blog/ai-skill-eli5-is-great)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-01T10:09:45+00:00`, fetched `2026-10-01T15:57:58+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AIを使った開発によってスピードが上がっているのは実感するものの、それと引き換えに 自分がちゃんと理解できなくてふわっとした部分 が増えてきました。 そんなとき、自分の理解が合っているか音声入力でバーっと喋ってAIとやりとりします。 他の人が書いたコードの機能の概要・ロジックなんかも同じです。 ただ、複雑...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T17:23:51+00:00",
-  "run_id": "2026-10-01T17:23:51+00:00",
+  "generated_at": "2026-10-01T17:35:38+00:00",
+  "run_id": "2026-10-01T17:35:38+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 82
+      "configured_public_sources_only": 84
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 82,
-    "displayed_findings": 82,
+    "new_relevant_findings": 2,
+    "today_file_total": 84,
+    "displayed_findings": 84,
     "high": 0,
     "medium": 36,
-    "observe": 46,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -909,6 +909,28 @@
     ],
     "observe": [
       {
+        "title": "Jefferson, The U.S. Economy and Monetary Policy",
+        "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
+        "source": "Federal Reserve Speeches and Testimony",
+        "source_type": "rss",
+        "published_at": "2026-10-01T17:30:00+00:00",
+        "fetched_at": "2026-10-01T17:35:05+00:00",
+        "summary": "Speech At the Darden School of Business, University of Virginia, Charlottesville, Virginia",
+        "matched_keywords": [
+          "Macro/Policy",
+          "speech",
+          "testimony"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f93626dd3bf729245208"
+      },
+      {
         "title": "Christine Lagarde: Where AI risks meet",
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
         "source": "ECB Press Releases Speeches Interviews",
@@ -1112,6 +1134,27 @@
           "LOW"
         ],
         "id": "49491413e46fe25d7464"
+      },
+      {
+        "title": "The eternal complement",
+        "url": "https://openai.com/index/the-eternal-complement",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-01T17:00:00+00:00",
+        "fetched_at": "2026-10-01T17:35:05+00:00",
+        "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "505cab33c93c1046a733"
       },
       {
         "title": "Actions Runner Controller release 0.15.0",
@@ -2874,6 +2917,28 @@
       "id": "e74bebaaf5e017bd9df3"
     },
     {
+      "title": "Jefferson, The U.S. Economy and Monetary Policy",
+      "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
+      "source_type": "rss",
+      "published_at": "2026-10-01T17:30:00+00:00",
+      "fetched_at": "2026-10-01T17:35:05+00:00",
+      "summary": "Speech At the Darden School of Business, University of Virginia, Charlottesville, Virginia",
+      "matched_keywords": [
+        "Macro/Policy",
+        "speech",
+        "testimony"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f93626dd3bf729245208"
+    },
+    {
       "title": "Christine Lagarde: Where AI risks meet",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
       "source": "ECB Press Releases Speeches Interviews",
@@ -3077,6 +3142,27 @@
         "LOW"
       ],
       "id": "49491413e46fe25d7464"
+    },
+    {
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-01T17:00:00+00:00",
+      "fetched_at": "2026-10-01T17:35:05+00:00",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "505cab33c93c1046a733"
     },
     {
       "title": "Actions Runner Controller release 0.15.0",
@@ -3959,7 +4045,51 @@
       "id": "b90cfb7fef4638635578"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Jefferson, The U.S. Economy and Monetary Policy",
+      "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
+      "source_type": "rss",
+      "published_at": "2026-10-01T17:30:00+00:00",
+      "fetched_at": "2026-10-01T17:35:05+00:00",
+      "summary": "Speech At the Darden School of Business, University of Virginia, Charlottesville, Virginia",
+      "matched_keywords": [
+        "Macro/Policy",
+        "speech",
+        "testimony"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f93626dd3bf729245208"
+    },
+    {
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-01T17:00:00+00:00",
+      "fetched_at": "2026-10-01T17:35:05+00:00",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "505cab33c93c1046a733"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

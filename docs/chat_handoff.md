@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-01T17:23:51+00:00_
+_Generated: 2026-10-01T17:35:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `82`
+- findings: `84`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-01T17:23:51+00:00_
 - url: https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm
 - summary: Speech At &quot;Navigating Trust, AI and Storytelling in a World of Data,&quot; FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri
 
-### 5. Christine Lagarde: Where AI risks meet
+### 5. Jefferson, The U.S. Economy and Monetary Policy
+- source: Federal Reserve Speeches and Testimony
+- score: `13`
+- published: `2026-10-01T17:30:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm
+- summary: Speech At the Darden School of Business, University of Virginia, Charlottesville, Virginia
+
+### 6. Christine Lagarde: Where AI risks meet
 - source: ECB Press Releases Speeches Interviews
 - score: `13`
 - published: `2026-10-01T13:30:00+00:00`
 - url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html
 - summary: Christine Lagarde: Where AI risks meet
 
-### 6. Euro area bank interest rate statistics: August 2026
+### 7. Euro area bank interest rate statistics: August 2026
 - source: ECB Statistical Press Releases
 - score: `13`
 - published: `2026-10-01T08:00:00+00:00`
 - url: https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html
 - summary: Euro area bank interest rate statistics: August 2026
 
-### 7. Scheduled code scanning skips inactive repositories
+### 8. Scheduled code scanning skips inactive repositories
 - source: GitHub Changelog Atom
 - score: `12`
 - published: `2026-10-01T16:49:15+00:00`
 - url: https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories
 - summary: Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than counting every kind of… The post Scheduled code scanning skips inactive repositories appeared first on…
-
-### 8. 10 technical talks I’m excited about at GitHub Universe 2026
-- source: GitHub Blog Atom
-- score: `12`
-- published: `2026-10-01T15:07:16+00:00`
-- url: https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/
-- summary: From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog .
 
 END OF DOCUMENT
