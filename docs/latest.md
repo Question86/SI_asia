@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T21:59:35+00:00_
+_Generiert: 2026-10-01T22:20:21+00:00_
 
 ## Kurzlage
 
-96 neue relevante Treffer. Stärkstes Signal: „dotfiles を AI agent のために作り変えた“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+98 neue relevante Treffer. Stärkstes Signal: „dotfiles を AI agent のために作り変えた“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
