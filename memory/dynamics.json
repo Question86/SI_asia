@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-01T11:13:41Z",
+  "generated_at": "2026-10-01T11:29:14Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 10,
-      "strong": 16,
-      "watch": 14
+      "krass": 11,
+      "strong": 17,
+      "watch": 12
     },
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 23,
-      "watch": 14
+      "strong": 25,
+      "watch": 12
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3649",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:46+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3650",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:45+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3682",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:56:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -93,11 +93,35 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in OpenSC ausnutzen, um beliebigen Programmcode auszuführen."
     },
     {
+      "title": "[UPDATE] [mittel] Intel UEFI Reference BIOS: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2757",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-01T11:16:29+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Intel UEFI Reference BIOS ausnutzen, um Informationen offenzulegen."
+    },
+    {
       "title": "[NEU] [mittel] Ghostscript: Schwachstelle ermöglicht Manipulation von Dateien und DoS",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3684",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:01:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -121,7 +145,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3683",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:01:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -145,7 +169,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0213",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:52:01+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -169,7 +193,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2468",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:51:58+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -193,7 +217,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3652",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:45+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -217,7 +241,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3651",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:45+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -241,7 +265,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2941",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:51:59+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -263,11 +287,37 @@
       "summary": "Ein Angreifer kann diese Schwachstellen ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu Denial‑of‑Service, Speicherbeschädigung oder weiteren nicht definierten Auswirkungen führen."
     },
     {
+      "title": "[UPDATE] [hoch] Dell PowerScale OneFS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2912",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-01T11:16:30+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Dell PowerScale OneFS ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, und um Daten zu manipulieren."
+    },
+    {
       "title": "[NEU] [mittel] Moodle: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3686",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:06:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -293,7 +343,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3685",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T11:06:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -319,7 +369,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3654",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T07:56:29+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -345,7 +395,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3640",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:46+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -370,7 +420,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-01T10:07:44+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -395,7 +445,7 @@
       "url": "https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T04:30:25+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -421,7 +471,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2941",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 33.88,
+      "age_days": 33.89,
       "topics": [
         "security"
       ],
@@ -431,13 +481,13 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 5,
-      "baseline_z_hint": 11.72,
+      "momentum_delta": 3,
+      "baseline_z_hint": 7.14,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +5",
-        "baseline z_hint 11.72",
+        "momentum delta +3",
+        "baseline z_hint 7.14",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -4.5 for 33.9d old signal",
@@ -450,7 +500,7 @@
       "url": "https://jvn.jp/vu/JVNVU93468181/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 104.39,
+      "age_days": 104.4,
       "topics": [
         "general"
       ],
@@ -478,7 +528,7 @@
       "url": "https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T03:33:20+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -505,7 +555,7 @@
       "url": "https://jvn.jp/vu/JVNVU93468181/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-01T11:30:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -531,7 +581,7 @@
       "url": "https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T03:30:32+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "macro"
@@ -559,7 +609,7 @@
       "url": "https://www.heise.de/news/TeamViewer-Codeschmuggel-Luecke-verpasst-nur-knapp-kritische-Einstufung-11472313.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T08:58:00.000+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -584,7 +634,7 @@
       "url": "https://www.heise.de/news/WatchGuard-schliesst-teils-kritische-Luecken-in-Fireware-OS-11472101.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T07:24:00.000+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -609,7 +659,7 @@
       "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T01:46:57+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -636,7 +686,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyq7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T05:49:06.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -661,7 +711,7 @@
       "url": "https://anond.hatelabo.jp/20261001070030",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T07:48:35+00:00",
-      "age_days": 7.14,
+      "age_days": 7.15,
       "topics": [
         "general"
       ],
@@ -685,7 +735,7 @@
       "url": "https://www.heise.de/news/Treiber-Luecken-gefaehrden-Linux-und-Windows-PCs-mit-Nvidia-GPU-11472265.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T08:47:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security"
@@ -710,7 +760,7 @@
       "url": "https://www.heise.de/news/Attacken-auf-IT-Verwaltungsplattform-HPE-OneView-moeglich-11472151.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-01T08:06:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -734,7 +784,7 @@
       "url": "https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T04:59:24+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -758,7 +808,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001933/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T10:18:55+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -783,7 +833,7 @@
       "url": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
       "source": "BIS Press Releases",
       "published_at": "2026-10-01T00:00:00+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "macro"
@@ -811,7 +861,7 @@
       "url": "https://e27.co/uptober-or-downtober-will-bitcoins-19-seasonal-average-survive-us100-oil-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T06:39:18+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -836,7 +886,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-10-01T08:00:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "macro"
       ],
@@ -860,25 +910,25 @@
       "url": "https://www.heise.de/news/TeamViewer-Codeschmuggel-Luecke-verpasst-nur-knapp-kritische-Einstufung-11472313.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 104.15,
+      "age_days": 104.16,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.57,
+      "dynamics_score": 17.34,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.15,
+      "baseline_z_hint": 3.94,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.15",
+        "baseline z_hint 3.94",
         "high terms: kritisch, code",
-        "aging penalty -8.0 for 104.1d old signal"
+        "aging penalty -8.0 for 104.2d old signal"
       ],
       "summary": ""
     },
@@ -887,7 +937,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyr4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T09:12:29.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -912,7 +962,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T01:43:06.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -937,7 +987,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T00:45:24.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -962,55 +1012,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyr4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T09:29:05+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.2 - 7 km ESE of Baghlān, Afghanistan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-01T01:46:57+00:00",
-      "age_days": 0.39,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.9 - northern Mid-Atlantic Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-17T19:46:45+00:00",
-      "age_days": 13.64,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
