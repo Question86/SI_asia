@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T19:00:51+00:00",
-  "run_id": "2026-10-01T19:00:51+00:00",
+  "generated_at": "2026-10-01T19:20:34+00:00",
+  "run_id": "2026-10-01T19:20:34+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 87,
     "displayed_findings": 87,
     "high": 0,
@@ -4207,30 +4207,7 @@
       "id": "b90cfb7fef4638635578"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Bowman, Modernizing Financial Regulation: Initial Observations from eSLR",
-      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
-      "source": "Federal Reserve Speeches and Testimony",
-      "source_type": "rss",
-      "published_at": "2026-10-01T19:00:00+00:00",
-      "fetched_at": "2026-10-01T19:00:18+00:00",
-      "summary": "Speech At the Atlantic Council 2026 CEO &amp; Senior Management Summit, Washington, D.C.",
-      "matched_keywords": [
-        "Macro/Policy",
-        "speech",
-        "testimony"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b3629b54b4798a08bdaa"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
