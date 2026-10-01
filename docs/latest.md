@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T12:57:01+00:00_
+_Generiert: 2026-10-01T13:15:13+00:00_
 
 ## Kurzlage
 
-61 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+65 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -168,6 +168,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In healthcare, booking an appointment is rarely as simple as finding an empty slot on a calendar. A patient may need a specific doctor, a particular procedure, a referral, a follow-up window, or a clinic that accepts certain rules around timing and availability. Much of this still sits in phone calls, WhatsApp threads and front-desk […] The post Zeya Health buys ConnectLah to build AI booking rails for clinics appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Mattermost Server (23 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1212/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-23T00:00:00+00:00`, fetched `2026-10-01T13:14:42+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1211/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-22T00:00:00+00:00`, fetched `2026-10-01T13:14:42+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans SolarWinds Access Rights Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Moodle (22 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1210/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-22T00:00:00+00:00`, fetched `2026-10-01T13:14:42+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection SQL (SQLi) et un contournement de la politique de sécurité.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **TeamViewer-Codeschmuggel-Lücke verpasst nur knapp kritische Einstufung** — Score 7, observation — [Quelle](https://www.heise.de/news/TeamViewer-Codeschmuggel-Luecke-verpasst-nur-knapp-kritische-Einstufung-11472313.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-01T08:58:00.000+00:00`, fetched `2026-10-01T09:28:34+00:00`
@@ -195,33 +222,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Drei Sicherheitslücken gefährden HPE OneView und HPE Synergy Composer. Eine reparierte Version steht zum Download bereit.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **国・地方デジタル共通基盤推進連絡協議会ワーキングチーム（第16回）の会議資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/kyotsuwt/b152169b-f876-4d57-9cd9-2b3a211d3826)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-01T08:06:16+00:00`, fetched `2026-10-01T08:33:16+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 国・地方デジタル共通基盤推進連絡協議会ワーキングチーム（第16回）の会議資料等を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Gビズポータルの電子ロッカーで商業登記リモート署名を利用した電子署名を付与できるようになりました（デジタル庁ウェブサービス・アプリケーション）** — Score 6, observation — [Quelle](https://services.digital.go.jp/gbiz-portal/news/20261001-01/)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-01T06:12:29+00:00`, fetched `2026-10-01T06:38:40+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: Gビズポータルの電子ロッカーで商業登記リモート署名を利用した電子署名を付与できるようになりました（デジタル庁ウェブサービス・アプリケーション）
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **International supervisory community meets to discuss the future of global bank supervision and regulation** — Score 6, opportunity — [Quelle](https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation)
-  - Quelle: BIS Press Releases / `rss`
-  - Zeit: published `2026-10-01T00:00:00+00:00`, fetched `2026-10-01T09:01:40+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
-  - Kurz: Almost 300 central bankers and banking supervisors attended the International Conference of Banking Supervisors (ICBS) to discuss the future of supervision and the digitalisation of finance...
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 

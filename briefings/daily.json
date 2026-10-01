@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T12:57:04+00:00",
-  "today_file_total": 61,
+  "generated_at": "2026-10-01T13:15:16+00:00",
+  "today_file_total": 65,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -54,31 +54,6 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
-      "key": "earthquake:japan:5.3",
-      "title": "M 5.3 - 0 km NNE of Yōkaichiba, Japan",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tytg"
-      ],
-      "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
       "key": "title:meta-appoints-dhruv-vohra-lead-southeast-asia-business",
       "title": "Meta appoints Dhruv Vohra to lead Southeast Asia business as AI and chat commerce reshape online retail",
       "sources": [
@@ -123,6 +98,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:japan:5.3",
+      "title": "M 5.3 - 0 km NNE of Yōkaichiba, Japan",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tytg"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:philippines:5.0",
@@ -241,6 +241,98 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:multiples-vuln-rabilit-dans-mattermost-server-septembre-2026",
+      "title": "Multiples vulnérabilités dans Mattermost Server (23 septembre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1212/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:vuln-rabilit-dans-solarwinds-access-rights-manager-septembre",
+      "title": "Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1211/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:multiples-vuln-rabilit-dans-moodle-septembre-2026",
+      "title": "Multiples vulnérabilités dans Moodle (22 septembre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1210/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:multiples-vuln-rabilit-dans-synology-dsm-septembre-2026",
+      "title": "Multiples vulnérabilités dans Synology DSM (21 septembre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1209/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -387,98 +479,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/councils/kyotsuwt/b152169b-f876-4d57-9cd9-2b3a211d3826",
-      "title": "国・地方デジタル共通基盤推進連絡協議会ワーキングチーム（第16回）の会議資料等を掲載しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/councils/kyotsuwt/b152169b-f876-4d57-9cd9-2b3a211d3826"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://services.digital.go.jp/gbiz-portal/news/20261001-01/",
-      "title": "Gビズポータルの電子ロッカーで商業登記リモート署名を利用した電子署名を付与できるようになりました（デジタル庁ウェブサービス・アプリケーション）",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://services.digital.go.jp/gbiz-portal/news/20261001-01/"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:why-con-artists-get-meeting-that-honest-founders",
-      "title": "Why con artists get the meeting that honest founders can’t",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/why-con-artists-get-the-meeting-that-honest-founders-cant-20260930/"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:newsjp",
-      "title": "免許悪用防止届け一部休止 タイムズカー画像流出で | NEWSjp",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://news.jp/i/1478299651827581816"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
