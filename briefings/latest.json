@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T16:55:23+00:00",
-  "run_id": "2026-10-01T16:55:23+00:00",
+  "generated_at": "2026-10-01T17:05:23+00:00",
+  "run_id": "2026-10-01T17:05:23+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 80
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 80,
-    "displayed_findings": 80,
+    "new_relevant_findings": 2,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
     "medium": 36,
-    "observe": 44,
+    "observe": 46,
     "source_errors": 0
   },
   "sections": {
@@ -950,6 +950,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "86070acdc80a877cb752"
+      },
+      {
+        "title": "Scheduled code scanning skips inactive repositories",
+        "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-01T16:49:15+00:00",
+        "fetched_at": "2026-10-01T17:04:53+00:00",
+        "summary": "Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than counting every kind of… The post Scheduled code scanning skips inactive repositories appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "CodeQL/Dependabot",
+          "GitHub"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9f71716f6fe90760593a"
       },
       {
         "title": "10 technical talks I’m excited about at GitHub Universe 2026",
@@ -1933,6 +1954,26 @@
         "id": "589f5686646881c562f6"
       },
       {
+        "title": "Code coverage uploads no longer fail CI for new branches",
+        "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-01T16:49:05+00:00",
+        "fetched_at": "2026-10-01T17:04:53+00:00",
+        "summary": "Code coverage uploads from the GitHub Code Quality upload-code-coverage action no longer fail CI when you push a branch that doesn’t yet have an open pull request. Previously, the coverage… The post Code coverage uploads no longer fail CI for new branches appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9a44422921eaa00e59c9"
+      },
+      {
         "title": "New dashboard experience now the default",
         "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
         "source": "GitHub Changelog Atom",
@@ -2874,6 +2915,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "86070acdc80a877cb752"
+    },
+    {
+      "title": "Scheduled code scanning skips inactive repositories",
+      "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-01T16:49:15+00:00",
+      "fetched_at": "2026-10-01T17:04:53+00:00",
+      "summary": "Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than counting every kind of… The post Scheduled code scanning skips inactive repositories appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "CodeQL/Dependabot",
+        "GitHub"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9f71716f6fe90760593a"
     },
     {
       "title": "10 technical talks I’m excited about at GitHub Universe 2026",
@@ -3857,6 +3919,26 @@
       "id": "589f5686646881c562f6"
     },
     {
+      "title": "Code coverage uploads no longer fail CI for new branches",
+      "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-01T16:49:05+00:00",
+      "fetched_at": "2026-10-01T17:04:53+00:00",
+      "summary": "Code coverage uploads from the GitHub Code Quality upload-code-coverage action no longer fail CI when you push a branch that doesn’t yet have an open pull request. Previously, the coverage… The post Code coverage uploads no longer fail CI for new branches appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9a44422921eaa00e59c9"
+    },
+    {
       "title": "New dashboard experience now the default",
       "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
       "source": "GitHub Changelog Atom",
@@ -3877,7 +3959,49 @@
       "id": "b90cfb7fef4638635578"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Scheduled code scanning skips inactive repositories",
+      "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-01T16:49:15+00:00",
+      "fetched_at": "2026-10-01T17:04:53+00:00",
+      "summary": "Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than counting every kind of… The post Scheduled code scanning skips inactive repositories appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "CodeQL/Dependabot",
+        "GitHub"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9f71716f6fe90760593a"
+    },
+    {
+      "title": "Code coverage uploads no longer fail CI for new branches",
+      "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-01T16:49:05+00:00",
+      "fetched_at": "2026-10-01T17:04:53+00:00",
+      "summary": "Code coverage uploads from the GitHub Code Quality upload-code-coverage action no longer fail CI when you push a branch that doesn’t yet have an open pull request. Previously, the coverage… The post Code coverage uploads no longer fail CI for new branches appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9a44422921eaa00e59c9"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

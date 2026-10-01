@@ -920,6 +920,27 @@
     "id": "86070acdc80a877cb752"
   },
   {
+    "title": "Scheduled code scanning skips inactive repositories",
+    "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-01T16:49:15+00:00",
+    "fetched_at": "2026-10-01T17:04:53+00:00",
+    "summary": "Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than counting every kind of… The post Scheduled code scanning skips inactive repositories appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9f71716f6fe90760593a"
+  },
+  {
     "title": "10 technical talks I’m excited about at GitHub Universe 2026",
     "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
     "source": "GitHub Blog Atom",
@@ -1899,6 +1920,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "589f5686646881c562f6"
+  },
+  {
+    "title": "Code coverage uploads no longer fail CI for new branches",
+    "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-01T16:49:05+00:00",
+    "fetched_at": "2026-10-01T17:04:53+00:00",
+    "summary": "Code coverage uploads from the GitHub Code Quality upload-code-coverage action no longer fail CI when you push a branch that doesn’t yet have an open pull request. Previously, the coverage… The post Code coverage uploads no longer fail CI for new branches appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9a44422921eaa00e59c9"
   },
   {
     "title": "New dashboard experience now the default",

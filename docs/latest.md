@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T16:55:23+00:00_
+_Generiert: 2026-10-01T17:05:23+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+82 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Euro area bank interest rate statistics: August 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Scheduled code scanning skips inactive repositories** — Score 12, risk — [Quelle](https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-01T16:49:15+00:00`, fetched `2026-10-01T17:04:53+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than counting every kind of… The post Scheduled code scanning skips inactive repositories appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **10 technical talks I’m excited about at GitHub Universe 2026** — Score 12, observation — [Quelle](https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/)
   - Quelle: GitHub Blog Atom / `rss`
   - Zeit: published `2026-10-01T15:07:16+00:00`, fetched `2026-10-01T15:22:25+00:00`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIを使った開発によってスピードが上がっているのは実感するものの、それと引き換えに 自分がちゃんと理解できなくてふわっとした部分 が増えてきました。 そんなとき、自分の理解が合っているか音声入力でバーっと喋ってAIとやりとりします。 他の人が書いたコードの機能の概要・ロジックなんかも同じです。 ただ、複雑...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Zeya Health buys ConnectLah to build AI booking rails for clinics** — Score 8, observation — [Quelle](https://e27.co/zeya-health-buys-connectlah-to-build-ai-booking-rails-for-clinics-20261001/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-01T05:30:19+00:00`, fetched `2026-10-01T05:36:30+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: In healthcare, booking an appointment is rarely as simple as finding an empty slot on a calendar. A patient may need a specific doctor, a particular procedure, a referral, a follow-up window, or a clinic that accepts certain rules around timing and availability. Much of this still sits in phone calls, WhatsApp threads and front-desk […] The post Zeya Health buys ConnectLah to build AI booking rails for clinics appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
