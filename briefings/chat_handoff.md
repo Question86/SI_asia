@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-01T08:53:55+00:00_
+_Generated: 2026-10-01T09:02:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `27`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-01T08:53:55+00:00_
 - url: https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html
 - summary: Euro area bank interest rate statistics: August 2026
 
-### 6. ChatGPT連携初日の増田で何が起きていたか
+### 6. Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system
+- source: BIS Press Releases
+- score: `12`
+- published: `2026-10-01T00:00:00+00:00`
+- url: https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and
+- summary: Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...
+
+### 7. ChatGPT連携初日の増田で何が起きていたか
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-09-30T22:05:08+00:00`
 - url: https://anond.hatelabo.jp/20261001070030
 - summary: 昨日、増田にChatGPT連携が来た。 はてラボの告知が出たのが9月30日15:15。 https://labo.hatenastaff.com/entry/2026/09/30/151500 ChatGPTから増田を検索したり、読んだり、そして''そのまま投稿したりできる''ようになった。 で、初日に何が起きたのか、実際の増田を追ってみた。 16:59 まず「増田プラグインおめで...
 
-### 7. Why Singapore firms fear data sovereignty failures but remain underprepared
+### 8. Why Singapore firms fear data sovereignty failures but remain underprepared
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-01T06:30:43+00:00`
 - url: https://e27.co/why-singapore-firms-fear-data-sovereignty-failures-but-remain-underprepared-20261001/
 - summary: Singapore’s position as one of Asia’s most advanced digital economies is built on a simple promise: global companies can move data, capital and operations through the city-state with confidence. A new study suggests that promise is becoming harder to keep. Re…
-
-### 8. From combat boots to boardrooms: Michael J. Padilla’s bet on risk as a business
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-10-01T04:30:25+00:00`
-- url: https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/
-- summary: In a world where former military officers often trade uniforms for predictable government consultancies, Michael J. Padilla chose a different path. After more than 31 years in the US Army, rising to the rank of colonel, he founded Al Thuraya Holdings, a globa…
 
 END OF DOCUMENT

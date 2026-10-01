@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T08:53:55+00:00_
+_Generiert: 2026-10-01T09:02:09+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+27 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -134,6 +134,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Euro area bank interest rate statistics: August 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system** — Score 12, observation — [Quelle](https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and)
+  - Quelle: BIS Press Releases / `rss`
+  - Zeit: published `2026-10-01T00:00:00+00:00`, fetched `2026-10-01T09:01:40+00:00`
+  - Treffer: AI/KI, Basel, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Macro/Policy (+5.0); Basel (+2.5); recent (+1.0)
+  - Kurz: Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ChatGPT連携初日の増田で何が起きていたか** — Score 12, observation — [Quelle](https://anond.hatelabo.jp/20261001070030)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-30T22:05:08+00:00`, fetched `2026-10-01T01:04:26+00:00`
@@ -188,6 +197,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In healthcare, booking an appointment is rarely as simple as finding an empty slot on a calendar. A patient may need a specific doctor, a particular procedure, a referral, a follow-up window, or a clinic that accepts certain rules around timing and availability. Much of this still sits in phone calls, WhatsApp threads and front-desk […] The post Zeya Health buys ConnectLah to build AI booking rails for clinics appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Treiber-Lücken gefährden Linux- und Windows-PCs mit Nvidia-GPU** — Score 7, observation — [Quelle](https://www.heise.de/news/Treiber-Luecken-gefaehrden-Linux-und-Windows-PCs-mit-Nvidia-GPU-11472265.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-01T08:47:00.000+00:00`, fetched `2026-10-01T09:01:40+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Zahlreiche Sicherheitslücken in GPU-Treibern von Nvidia machen Linux- und Windows-Computer angreifbar. Patches sind verfügbar.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Attacken auf IT-Verwaltungsplattform HPE OneView möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Attacken-auf-IT-Verwaltungsplattform-HPE-OneView-moeglich-11472151.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-01T08:06:00.000+00:00`, fetched `2026-10-01T08:33:16+00:00`
@@ -224,6 +242,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Gビズポータルの電子ロッカーで商業登記リモート署名を利用した電子署名を付与できるようになりました（デジタル庁ウェブサービス・アプリケーション）
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **International supervisory community meets to discuss the future of global bank supervision and regulation** — Score 6, opportunity — [Quelle](https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation)
+  - Quelle: BIS Press Releases / `rss`
+  - Zeit: published `2026-10-01T00:00:00+00:00`, fetched `2026-10-01T09:01:40+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Almost 300 central bankers and banking supervisors attended the International Conference of Banking Supervisors (ICBS) to discuss the future of supervision and the digitalisation of finance...
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **睡眠中に「ピンクノイズ」を聞くと“脳内ゴミ”の洗い流しが強まる？ 米MITが人間で実験 Science系列誌で発表** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/01/2000001901/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-01T03:02:41+00:00`, fetched `2026-10-01T08:33:16+00:00`
@@ -232,15 +259,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Gboard チームからの新しいキーボードのご提案 2026** — Score 5, observation — [Quelle](https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-01T01:25:00+00:00`, fetched `2026-10-01T04:02:42+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 第 15 回目となる Google からの新しいキーボードのご提案シリーズは、あなたを中心とした流れるような入力体験を通じて、みなさまの日常に潤いをお届けします。 Gboard は、優れた変換性能にくわえて、お好きな写真を背景にできるテーマ機能、翻訳機能や校正支援機能などの便利な機能をそなえたスマートフォンやタブレ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

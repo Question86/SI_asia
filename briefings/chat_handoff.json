@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-01T08:53:55+00:00",
+  "generated_at": "2026-10-01T09:02:09+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 3,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 5,
-    "observe": 19
+    "observe": 22
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
+      "source": "BIS Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-10-01T00:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
+      "summary": "Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...",
+      "section": "observe"
+    },
+    {
       "title": "ChatGPT連携初日の増田で何が起きていたか",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 10,
       "url": "https://e27.co/why-singapore-firms-fear-data-sovereignty-failures-but-remain-underprepared-20261001/",
       "summary": "Singapore’s position as one of Asia’s most advanced digital economies is built on a simple promise: global companies can move data, capital and operations through the city-state with confidence. A new study suggests that promise is becoming harder to keep. Re…",
-      "section": "observe"
-    },
-    {
-      "title": "From combat boots to boardrooms: Michael J. Padilla’s bet on risk as a business",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-01T04:30:25+00:00",
-      "relevance_score": 10,
-      "url": "https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/",
-      "summary": "In a world where former military officers often trade uniforms for predictable government consultancies, Michael J. Padilla chose a different path. After more than 31 years in the US Army, rising to the rank of colonel, he founded Al Thuraya Holdings, a globa…",
       "section": "observe"
     }
   ],
