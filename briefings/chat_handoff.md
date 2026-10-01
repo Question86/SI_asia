@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-01T19:20:34+00:00_
+_Generated: 2026-10-01T19:32:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `87`
+- findings: `88`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-01T19:20:34+00:00_
 - url: https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html
 - summary: Euro area bank interest rate statistics: August 2026
 
-### 8. Bowman, Modernizing Financial Regulation: Initial Observations from eSLR
-- source: Federal Reserve Speeches and Testimony
+### 8. GitHub Copilot can now interact with desktop apps with computer use
+- source: GitHub Changelog Atom
 - score: `12`
-- published: `2026-10-01T19:00:00+00:00`
-- url: https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm
-- summary: Speech At the Atlantic Council 2026 CEO &amp; Senior Management Summit, Washington, D.C.
+- published: `2026-10-01T19:11:26+00:00`
+- url: https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps
+- summary: Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf… The post GitHub Copilot can now interact with desktop apps with computer use…
 
 END OF DOCUMENT

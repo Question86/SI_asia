@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T19:20:34+00:00_
+_Generiert: 2026-10-01T19:32:46+00:00_
 
 ## Kurzlage
 
-87 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+88 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -201,6 +201,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Euro area bank interest rate statistics: August 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Copilot can now interact with desktop apps with computer use** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-01T19:11:26+00:00`, fetched `2026-10-01T19:32:16+00:00`
+  - Treffer: AI Agents, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf… The post GitHub Copilot can now interact with desktop apps with computer use appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Bowman, Modernizing Financial Regulation: Initial Observations from eSLR** — Score 12, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
   - Zeit: published `2026-10-01T19:00:00+00:00`, fetched `2026-10-01T19:00:18+00:00`
@@ -272,15 +281,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
   - Kurz: Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Actions Runner Controller release 0.15.0** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-10-01-actions-runner-controller-release-0-15-0)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-10-01T13:01:31+00:00`, fetched `2026-10-01T14:24:04+00:00`
-  - Treffer: Actions, GitHub, GitHub Actions
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.5); recent (+1.0)
-  - Kurz: GitHub Actions Runner Controller 0.15.0 includes reliability, scalability, and observability improvements for runner scale sets. These updates help you operate larger runner fleets with fewer disruptions during upgrades and Kubernetes… The post Actions Runner Controller release 0.15.0 appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Singapore firms fear data sovereignty failures but remain underprepared** — Score 10, observation — [Quelle](https://e27.co/why-singapore-firms-fear-data-sovereignty-failures-but-remain-underprepared-20261001/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
