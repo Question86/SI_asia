@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T19:33:12+00:00",
+  "generated_at": "2026-10-01T19:44:32+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -139,7 +139,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-01T15:22:56+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -173,7 +173,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -609,6 +609,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_6a86ee18dca60c0ac305",
+      "title": "GitHub Copilot can now interact with desktop apps with computer use",
+      "event_classes": [
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 11360000.0,
+      "p50_usd": 1136000000.0,
+      "p90_usd": 113600000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_75394cfd6d03d94ff172",
       "title": "Scheduled code scanning skips inactive repositories",
       "event_classes": [
@@ -622,7 +639,7 @@
       "p90_usd": 113600000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-01T17:05:25+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -677,23 +694,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_6a86ee18dca60c0ac305",
-      "title": "GitHub Copilot can now interact with desktop apps with computer use",
-      "event_classes": [
-        "regulation"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 11360000.0,
-      "p50_usd": 1136000000.0,
-      "p90_usd": 113600000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-01T19:32:49+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_4469274d9f642c799f53",
       "title": "The SMS looks real and that’s exactly why you should be careful",
       "event_classes": [
@@ -742,7 +742,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-01T18:38:11+00:00",
       "last_seen_at": "2026-10-01T19:32:49+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4abec0fc468dff0b45cf",
@@ -759,7 +759,7 @@
       "p90_usd": 112000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-01T13:49:47+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -1117,7 +1117,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T08:36:29+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -1236,7 +1236,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-09T07:26:12+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -1491,7 +1491,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T20:54:37+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -1508,7 +1508,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-01T12:57:04+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -2341,7 +2341,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-02T05:26:51+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -5758,7 +5758,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -5775,7 +5775,7 @@
       "p90_usd": 3060000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-01T02:44:48+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -6982,7 +6982,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -7730,7 +7730,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-01T03:33:20+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -7951,7 +7951,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-01T01:46:57+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -8223,7 +8223,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -10076,7 +10076,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -12410,6 +12410,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4ef9692437bf84ac39aa",
+      "title": "GitHub Copilot in VS Code, September 2026 releases",
+      "event_classes": [
+        "product_release"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-01T19:44:13+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_09036b8b28293de638ea",
       "title": "生成AIで「デザイナー不要論」に、僕はこう答える 杉山知之デジハリ大前学長・回答全文 AI×人間",
       "event_classes": [
@@ -12508,7 +12525,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
@@ -17762,7 +17779,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T07:48:35+00:00",
-      "last_seen_at": "2026-10-01T19:32:49+00:00",
+      "last_seen_at": "2026-10-01T19:44:13+00:00",
       "status": "active"
     },
     {
