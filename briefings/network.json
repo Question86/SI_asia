@@ -1,15 +1,57 @@
 {
-  "generated_at": "2026-10-01T15:22:56+00:00",
+  "generated_at": "2026-10-01T15:37:02+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 75,
-    "clusters": 40,
+    "findings": 77,
+    "clusters": 41,
     "cross_source_confrmed": 1,
     "hot": 1,
     "early_signals": 1,
     "dominance_penalized": 9
   },
   "clusters": [
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Christine Lagarde: Where AI risks meet",
+      "sources": [
+        "ECB Press Releases Speeches Interviews",
+        "ECB Statistical Press Releases"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
+        "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf"
+      ],
+      "finding_count": 3,
+      "max_score": 13,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": true,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 27.71,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 28.3,
+      "ranking_score": 27.71,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 5.5,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 3.71,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
     {
       "key": "title:openssl-2026",
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）",
@@ -47,47 +89,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T01:58:32+00:00"
-    },
-    {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Christine Lagarde: Where AI risks meet",
-      "sources": [
-        "ECB Press Releases Speeches Interviews",
-        "ECB Statistical Press Releases"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
-        "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html"
-      ],
-      "finding_count": 2,
-      "max_score": 13,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": true,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 23.19,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 23.2,
-      "ranking_score": 23.19,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 5.5,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.69,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "domain:wid.cert-bund.de",
@@ -133,47 +134,6 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
-      "key": "title:technical-talks-excited-about-github-universe-2026",
-      "title": "10 technical talks I’m excited about at GitHub Universe 2026",
-      "sources": [
-        "GitHub Blog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 21.5,
-      "hot": false,
-      "watchgraph_modules": [
-        "software_supply_chain",
-        "sports_sf_tech_events"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 17.1,
-      "ranking_score": 21.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-01T15:22:56+00:00"
-    },
-    {
       "key": "title:meta-appoints-dhruv-vohra-lead-southeast-asia-business",
       "title": "Meta appoints Dhruv Vohra to lead Southeast Asia business as AI and chat commerce reshape online retail",
       "sources": [
@@ -210,6 +170,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-01T03:33:20+00:00"
+    },
+    {
+      "key": "title:technical-talks-excited-about-github-universe-2026",
+      "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+      "sources": [
+        "GitHub Blog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 19.0,
+      "hot": false,
+      "watchgraph_modules": [
+        "software_supply_chain",
+        "sports_sf_tech_events"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 19.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-01T15:22:56+00:00"
     },
     {
       "key": "title:agent-boom-exposing-southeast-asia-startup-codebase-problem",
@@ -268,18 +269,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 16.11,
+      "network_score": 16.28,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 18.1,
-      "ranking_score": 16.11,
+      "ranking_score": 16.28,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.11,
+      "baseline_bonus": 0.28,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -450,47 +451,6 @@
       "first_seen_at": "2026-09-24T07:48:35+00:00"
     },
     {
-      "key": "earthquake:alaska:4.8",
-      "title": "M 4.8 - 127 km S of False Pass, Alaska",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "emergency_official",
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyuf"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.02,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.7,
-      "ranking_score": 13.02,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.12,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-09-02T05:26:51+00:00"
-    },
-    {
       "key": "domain:www.bis.org",
       "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
       "sources": [
@@ -646,6 +606,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-01T04:59:24+00:00"
+    },
+    {
+      "key": "earthquake:alaska:4.8",
+      "title": "M 4.8 - 127 km S of False Pass, Alaska",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyuf"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 13.7,
+      "ranking_score": 10.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-02T05:26:51+00:00"
     },
     {
       "key": "title:zeya-health-buys-connectlah-build-booking-rails-clinics",
@@ -838,6 +839,44 @@
       "first_seen_at": "2026-10-01T13:15:16+00:00"
     },
     {
+      "key": "title:trs",
+      "title": "テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-01T15:37:02+00:00"
+    },
+    {
       "key": "domain:www.heise.de",
       "title": "TeamViewer-Codeschmuggel-Lücke verpasst nur knapp kritische Einstufung",
       "sources": [
@@ -858,18 +897,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 8.9,
+      "network_score": 8.82,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 15.4,
-      "ranking_score": 8.9,
+      "ranking_score": 8.82,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.4,
+      "baseline_bonus": 0.32,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1134,18 +1173,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 7.09,
+      "network_score": 7.06,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 9.2,
-      "ranking_score": 7.09,
+      "ranking_score": 7.06,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.59,
+      "baseline_bonus": 0.56,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1575,7 +1614,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-01T15:22:57Z",
+    "generated_at": "2026-10-01T15:37:02Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

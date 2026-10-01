@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T15:22:54+00:00",
-  "run_id": "2026-10-01T15:22:54+00:00",
+  "generated_at": "2026-10-01T15:36:59+00:00",
+  "run_id": "2026-10-01T15:36:59+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 75
+      "configured_public_sources_only": 77
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 0,
     "medium": 36,
-    "observe": 39,
+    "observe": 41,
     "source_errors": 0
   },
   "sections": {
@@ -1200,6 +1200,26 @@
         "id": "299e0ffd39f9708a2a76"
       },
       {
+        "title": "Isabel Schnabel: Central banks on-chain",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-10-01T15:30:00+00:00",
+        "fetched_at": "2026-10-01T15:36:27+00:00",
+        "summary": "Isabel Schnabel: Central banks on-chain",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b6e431f402f690f789fb"
+      },
+      {
         "title": "M 4.9 - 145 km ESE of Neiafu, Tonga",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyr4",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1748,6 +1768,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8f888a58f0d9187043c7"
+      },
+      {
+        "title": "テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話",
+        "url": "https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-30T11:30:09+00:00",
+        "fetched_at": "2026-10-01T15:36:27+00:00",
+        "summary": "こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Test Requirement Spec、以下 TRS） を挟んで...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "47cbc0a352a6e0f58f8b"
       },
       {
         "title": "GitHub async merge API generally available",
@@ -3021,6 +3062,26 @@
       "id": "299e0ffd39f9708a2a76"
     },
     {
+      "title": "Isabel Schnabel: Central banks on-chain",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-10-01T15:30:00+00:00",
+      "fetched_at": "2026-10-01T15:36:27+00:00",
+      "summary": "Isabel Schnabel: Central banks on-chain",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b6e431f402f690f789fb"
+    },
+    {
       "title": "M 4.9 - 145 km ESE of Neiafu, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyr4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3571,6 +3632,27 @@
       "id": "8f888a58f0d9187043c7"
     },
     {
+      "title": "テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話",
+      "url": "https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-30T11:30:09+00:00",
+      "fetched_at": "2026-10-01T15:36:27+00:00",
+      "summary": "こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Test Requirement Spec、以下 TRS） を挟んで...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "47cbc0a352a6e0f58f8b"
+    },
+    {
       "title": "GitHub async merge API generally available",
       "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
       "source": "GitHub Changelog Atom",
@@ -3673,101 +3755,45 @@
   ],
   "new_findings": [
     {
-      "title": "10 technical talks I’m excited about at GitHub Universe 2026",
-      "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
-      "source": "GitHub Blog Atom",
+      "title": "Isabel Schnabel: Central banks on-chain",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
+      "source": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "published_at": "2026-10-01T15:07:16+00:00",
-      "fetched_at": "2026-10-01T15:22:25+00:00",
-      "summary": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog .",
+      "published_at": "2026-10-01T15:30:00+00:00",
+      "fetched_at": "2026-10-01T15:36:27+00:00",
+      "summary": "Isabel Schnabel: Central banks on-chain",
       "matched_keywords": [
-        "AI/KI",
-        "GitHub",
-        "Watchgraph:software_supply_chain",
-        "Watchgraph:sports_sf_tech_events"
+        "Macro/Policy"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.0); GitHub (+2.5); recent (+1.0); watchgraph modules software_supply_chain, sports_sf_tech_events (+6.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "software_supply_chain",
-        "sports_sf_tech_events"
-      ],
-      "watchgraph_reasons": [
-        "software_supply_chain: npm",
-        "sports_sf_tech_events: GitHub Universe"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "DIS",
-        "CMCSA",
-        "ABNB",
-        "BKNG",
-        "DAL",
-        "UAL",
-        "NET",
-        "S",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "TKO",
-        "FWONK",
-        "AAL",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "335e77fb1b8488a96338"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b6e431f402f690f789fb"
     },
     {
-      "title": "M 4.8 - 127 km S of False Pass, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyuf",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話",
+      "url": "https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-01T15:09:04.040+00:00",
-      "fetched_at": "2026-10-01T15:22:25+00:00",
-      "summary": "ShakeMap - III Time 2026-10-01 14:46:19 UTC 2026-10-01 14:46:19 UTC at epicenter Location 53.723°N 163.724°W Depth 35.00 km (21.75 mi)",
+      "published_at": "2026-09-30T11:30:09+00:00",
+      "fetched_at": "2026-10-01T15:36:27+00:00",
+      "summary": "こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Test Requirement Spec、以下 TRS） を挟んで...",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "49491413e46fe25d7464"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "47cbc0a352a6e0f58f8b"
     }
   ],
   "source_errors": [],
