@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-01T14:59:46+00:00_
+_Generated: 2026-10-01T15:22:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `73`
+- findings: `75`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-01T14:59:46+00:00_
 - url: https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html
 - summary: Euro area bank interest rate statistics: August 2026
 
-### 7. Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system
+### 7. 10 technical talks I’m excited about at GitHub Universe 2026
+- source: GitHub Blog Atom
+- score: `12`
+- published: `2026-10-01T15:07:16+00:00`
+- url: https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/
+- summary: From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog .
+
+### 8. Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system
 - source: BIS Press Releases
 - score: `12`
 - published: `2026-10-01T00:00:00+00:00`
 - url: https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and
 - summary: Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...
-
-### 8. ChatGPT連携初日の増田で何が起きていたか
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-09-30T22:05:08+00:00`
-- url: https://anond.hatelabo.jp/20261001070030
-- summary: 昨日、増田にChatGPT連携が来た。 はてラボの告知が出たのが9月30日15:15。 https://labo.hatenastaff.com/entry/2026/09/30/151500 ChatGPTから増田を検索したり、読んだり、そして''そのまま投稿したりできる''ようになった。 で、初日に何が起きたのか、実際の増田を追ってみた。 16:59 まず「増田プラグインおめで...
 
 END OF DOCUMENT
