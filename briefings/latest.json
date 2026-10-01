@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T22:53:14+00:00",
-  "run_id": "2026-10-01T22:53:14+00:00",
+  "generated_at": "2026-10-01T23:00:14+00:00",
+  "run_id": "2026-10-01T23:00:14+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 98
+      "configured_public_sources_only": 99
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 98,
-    "displayed_findings": 98,
+    "new_relevant_findings": 1,
+    "today_file_total": 99,
+    "displayed_findings": 99,
     "high": 0,
     "medium": 39,
-    "observe": 59,
+    "observe": 60,
     "source_errors": 0
   },
   "sections": {
@@ -1103,6 +1103,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "099a95b9a7b1611c2ff6"
+      },
+      {
+        "title": "GitHub Actions: macOS 14 runner image retirement",
+        "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-01T19:11:23+00:00",
+        "fetched_at": "2026-10-01T22:59:43+00:00",
+        "summary": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled… The post GitHub Actions: macOS 14 runner image retirement appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Actions",
+          "GitHub",
+          "GitHub Actions"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b0d14cfc2e5f65d87df0"
       },
       {
         "title": "Bowman, Modernizing Financial Regulation: Initial Observations from eSLR",
@@ -3486,6 +3508,28 @@
       "id": "099a95b9a7b1611c2ff6"
     },
     {
+      "title": "GitHub Actions: macOS 14 runner image retirement",
+      "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-01T19:11:23+00:00",
+      "fetched_at": "2026-10-01T22:59:43+00:00",
+      "summary": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled… The post GitHub Actions: macOS 14 runner image retirement appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Actions",
+        "GitHub",
+        "GitHub Actions"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b0d14cfc2e5f65d87df0"
+    },
+    {
       "title": "Bowman, Modernizing Financial Regulation: Initial Observations from eSLR",
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
       "source": "Federal Reserve Speeches and Testimony",
@@ -4791,7 +4835,30 @@
       "id": "b90cfb7fef4638635578"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "GitHub Actions: macOS 14 runner image retirement",
+      "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-01T19:11:23+00:00",
+      "fetched_at": "2026-10-01T22:59:43+00:00",
+      "summary": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled… The post GitHub Actions: macOS 14 runner image retirement appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Actions",
+        "GitHub",
+        "GitHub Actions"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b0d14cfc2e5f65d87df0"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

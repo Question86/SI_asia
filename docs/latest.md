@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T22:53:14+00:00_
+_Generiert: 2026-10-01T23:00:14+00:00_
 
 ## Kurzlage
 
-98 neue relevante Treffer. Stärkstes Signal: „dotfiles を AI agent のために作り変えた“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+99 neue relevante Treffer. Stärkstes Signal: „dotfiles を AI agent のために作り変えた“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -159,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf… The post GitHub Copilot can now interact with desktop apps with computer use appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Actions: macOS 14 runner image retirement** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-01T19:11:23+00:00`, fetched `2026-10-01T22:59:43+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled… The post GitHub Actions: macOS 14 runner image retirement appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Bowman, Modernizing Financial Regulation: Initial Observations from eSLR** — Score 12, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
   - Zeit: published `2026-10-01T19:00:00+00:00`, fetched `2026-10-01T19:00:18+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III Time 2026-10-01 14:46:19 UTC 2026-10-01 14:46:19 UTC at epicenter Location 53.723°N 163.724°W Depth 35.00 km (21.75 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Structured forms for private vulnerability reports** — Score 10, risk — [Quelle](https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-10-01T19:57:28+00:00`, fetched `2026-10-01T20:37:16+00:00`
-  - Treffer: GitHub, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); GitHub (+2.0); recent (+1.0)
-  - Kurz: Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text… The post Structured forms for private vulnerability reports appeared first on The GitHub Blog .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The eternal complement** — Score 10, observation — [Quelle](https://openai.com/index/the-eternal-complement)
   - Quelle: OpenAI News RSS / `rss`
