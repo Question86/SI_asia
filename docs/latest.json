@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T09:02:09+00:00",
-  "run_id": "2026-10-01T09:02:09+00:00",
+  "generated_at": "2026-10-01T09:29:03+00:00",
+  "run_id": "2026-10-01T09:29:03+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 27
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 2,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 5,
-    "observe": 22,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -291,6 +291,42 @@
         "id": "2e99e42e6161fef7db17"
       },
       {
+        "title": "M 4.9 - 145 km ESE of Neiafu, Tonga",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyr4",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-01T09:12:29.040+00:00",
+        "fetched_at": "2026-10-01T09:28:34+00:00",
+        "summary": "Time 2026-10-01 08:45:44 UTC 2026-10-01 08:45:44 UTC at epicenter Location 19.141°S 172.704°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "c8b285779a5c94988dae"
+      },
+      {
         "title": "M 5.2 - 7 km ESE of Baghlān, Afghanistan",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -382,6 +418,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d22b8442990fef6cbbf1"
+      },
+      {
+        "title": "TeamViewer-Codeschmuggel-Lücke verpasst nur knapp kritische Einstufung",
+        "url": "https://www.heise.de/news/TeamViewer-Codeschmuggel-Luecke-verpasst-nur-knapp-kritische-Einstufung-11472313.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-10-01T08:58:00.000+00:00",
+        "fetched_at": "2026-10-01T09:28:34+00:00",
+        "summary": "TeamViewer hat aktualisierte Pakete veröffentlicht, die hochriskante Sicherheitslecks stopfen. Admins sollten sie zügig installieren.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "20ccc59cb5157330929f"
       },
       {
         "title": "Treiber-Lücken gefährden Linux- und Windows-PCs mit Nvidia-GPU",
@@ -930,6 +986,42 @@
       "id": "2e99e42e6161fef7db17"
     },
     {
+      "title": "M 4.9 - 145 km ESE of Neiafu, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyr4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-01T09:12:29.040+00:00",
+      "fetched_at": "2026-10-01T09:28:34+00:00",
+      "summary": "Time 2026-10-01 08:45:44 UTC 2026-10-01 08:45:44 UTC at epicenter Location 19.141°S 172.704°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c8b285779a5c94988dae"
+    },
+    {
       "title": "M 5.2 - 7 km ESE of Baghlān, Afghanistan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1021,6 +1113,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d22b8442990fef6cbbf1"
+    },
+    {
+      "title": "TeamViewer-Codeschmuggel-Lücke verpasst nur knapp kritische Einstufung",
+      "url": "https://www.heise.de/news/TeamViewer-Codeschmuggel-Luecke-verpasst-nur-knapp-kritische-Einstufung-11472313.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-01T08:58:00.000+00:00",
+      "fetched_at": "2026-10-01T09:28:34+00:00",
+      "summary": "TeamViewer hat aktualisierte Pakete veröffentlicht, die hochriskante Sicherheitslecks stopfen. Admins sollten sie zügig installieren.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "20ccc59cb5157330929f"
     },
     {
       "title": "Treiber-Lücken gefährden Linux- und Windows-PCs mit Nvidia-GPU",
@@ -1309,35 +1421,49 @@
   ],
   "new_findings": [
     {
-      "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
-      "url": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
-      "source": "BIS Press Releases",
+      "title": "M 4.9 - 145 km ESE of Neiafu, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyr4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-01T00:00:00+00:00",
-      "fetched_at": "2026-10-01T09:01:40+00:00",
-      "summary": "Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...",
+      "published_at": "2026-10-01T09:12:29.040+00:00",
+      "fetched_at": "2026-10-01T09:28:34+00:00",
+      "summary": "Time 2026-10-01 08:45:44 UTC 2026-10-01 08:45:44 UTC at epicenter Location 19.141°S 172.704°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "AI/KI",
-        "Basel",
-        "Macro/Policy"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.0); Macro/Policy (+5.0); Basel (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cba730ab3768481e7fb6"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c8b285779a5c94988dae"
     },
     {
-      "title": "Treiber-Lücken gefährden Linux- und Windows-PCs mit Nvidia-GPU",
-      "url": "https://www.heise.de/news/Treiber-Luecken-gefaehrden-Linux-und-Windows-PCs-mit-Nvidia-GPU-11472265.html",
+      "title": "TeamViewer-Codeschmuggel-Lücke verpasst nur knapp kritische Einstufung",
+      "url": "https://www.heise.de/news/TeamViewer-Codeschmuggel-Luecke-verpasst-nur-knapp-kritische-Einstufung-11472313.html",
       "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-10-01T08:47:00.000+00:00",
-      "fetched_at": "2026-10-01T09:01:40+00:00",
-      "summary": "Zahlreiche Sicherheitslücken in GPU-Treibern von Nvidia machen Linux- und Windows-Computer angreifbar. Patches sind verfügbar.",
+      "published_at": "2026-10-01T08:58:00.000+00:00",
+      "fetched_at": "2026-10-01T09:28:34+00:00",
+      "summary": "TeamViewer hat aktualisierte Pakete veröffentlicht, die hochriskante Sicherheitslecks stopfen. Admins sollten sie zügig installieren.",
       "matched_keywords": [
         "Security"
       ],
@@ -1348,27 +1474,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4d816189566076191904"
-    },
-    {
-      "title": "International supervisory community meets to discuss the future of global bank supervision and regulation",
-      "url": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
-      "source": "BIS Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-10-01T00:00:00+00:00",
-      "fetched_at": "2026-10-01T09:01:40+00:00",
-      "summary": "Almost 300 central bankers and banking supervisors attended the International Conference of Banking Supervisors (ICBS) to discuss the future of supervision and the digitalisation of finance...",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c1a880b6a64e8ac85782"
+      "id": "20ccc59cb5157330929f"
     }
   ],
   "source_errors": [],
