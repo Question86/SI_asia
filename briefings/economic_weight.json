@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T01:47:14+00:00",
+  "generated_at": "2026-10-01T02:45:07+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -878,7 +878,7 @@
       "p90_usd": 107200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T04:25:00+00:00",
-      "last_seen_at": "2026-10-01T01:46:57+00:00",
+      "last_seen_at": "2026-10-01T02:44:48+00:00",
       "status": "active"
     },
     {
@@ -3976,6 +3976,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_62366008ebb1cf41f06a",
+      "title": "M 5.2 - 7 km ESE of Baghlān, Afghanistan",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-01T01:46:57+00:00",
+      "last_seen_at": "2026-10-01T02:44:48+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_63f9ec391b40e631b756",
       "title": "M 4.9 - Drake Passage",
       "event_classes": [
@@ -4482,7 +4499,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-17T19:46:45+00:00",
-      "last_seen_at": "2026-10-01T01:46:57+00:00",
+      "last_seen_at": "2026-10-01T02:44:48+00:00",
       "status": "active"
     },
     {
@@ -5608,23 +5625,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_62366008ebb1cf41f06a",
-      "title": "M 5.2 - 7 km ESE of Baghlān, Afghanistan",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-01T01:46:57+00:00",
-      "last_seen_at": "2026-10-01T01:46:57+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -5640,6 +5640,23 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_b380be2049a414b6cdc6",
+      "title": "OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 306000.0,
+      "p50_usd": 30600000.0,
+      "p90_usd": 3060000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-01T02:44:48+00:00",
+      "last_seen_at": "2026-10-01T02:44:48+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_09434b47a53a3966aade",
@@ -7784,6 +7801,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_be4e56f880aedd9e2899",
+      "title": "The AI agent boom is exposing Southeast Asia’s startup codebase problem",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 117600.0,
+      "p50_usd": 11760000.0,
+      "p90_usd": 1176000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-01T01:46:57+00:00",
+      "last_seen_at": "2026-10-01T02:44:48+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_c53460a4c8dea43628f8",
       "title": "vastsa/PI-Desktop",
       "event_classes": [
@@ -7850,23 +7884,6 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_be4e56f880aedd9e2899",
-      "title": "The AI agent boom is exposing Southeast Asia’s startup codebase problem",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 117600.0,
-      "p50_usd": 11760000.0,
-      "p90_usd": 1176000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-01T01:46:57+00:00",
-      "last_seen_at": "2026-10-01T01:46:57+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_04dd5841535ba2efa091",
@@ -14841,6 +14858,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_22de46e248ae065162d3",
+      "title": "Why con artists get the meeting that honest founders can’t",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-01T01:46:57+00:00",
+      "last_seen_at": "2026-10-01T02:44:48+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_23ce80d6a54962d8221c",
       "title": "デジタル庁調達手続マニュアルを更新しました",
       "event_classes": [
@@ -15825,23 +15859,6 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_22de46e248ae065162d3",
-      "title": "Why con artists get the meeting that honest founders can’t",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108800.0,
-      "p50_usd": 10880000.0,
-      "p90_usd": 1088000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-01T01:46:57+00:00",
-      "last_seen_at": "2026-10-01T01:46:57+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -17438,7 +17455,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T07:48:35+00:00",
-      "last_seen_at": "2026-10-01T01:46:57+00:00",
+      "last_seen_at": "2026-10-01T02:44:48+00:00",
       "status": "active"
     },
     {
@@ -18496,6 +18513,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_2818e5d7a927a727f3e4",
+      "title": "さよならイルカショー",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-01T02:44:48+00:00",
+      "last_seen_at": "2026-10-01T02:44:48+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_017c3d08edef1ec4ff45",
       "title": "Can Ethereum clear US$2,672 this week and unlock a run to US$3,000?",
       "event_classes": [
@@ -18988,6 +19022,40 @@
       "first_seen_at": "2026-09-23T04:56:56+00:00",
       "last_seen_at": "2026-09-23T05:42:29+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_a9f4d287cc08b9f0296e",
+      "title": "PSA, Granite Asia launch US$50M fund to scale supply-chain innovation",
+      "event_classes": [
+        "product_release"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-01T02:44:48+00:00",
+      "last_seen_at": "2026-10-01T02:44:48+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_f0256e7bf57e87eba1e5",
+      "title": "Why a good product isn’t enough for sustainable growth",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-01T02:44:48+00:00",
+      "last_seen_at": "2026-10-01T02:44:48+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
