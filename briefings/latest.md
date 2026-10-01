@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T11:10:55+00:00_
+_Generiert: 2026-10-01T11:26:12+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+46 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,6 +41,10 @@ _Generiert: 2026-10-01T11:10:55+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in France
+- **GDACS: Green flood alert in Chad** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104205)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Chad
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 40 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568826)
   - Quelle: GDACS
   - Zeit: ``
