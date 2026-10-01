@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T11:39:18+00:00",
+  "generated_at": "2026-10-01T11:50:20+00:00",
   "topics": {
     "security": [
       {
@@ -54,25 +54,25 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638"
       },
       {
-        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Cross-Site Scripting",
+        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T11:31:29+00:00",
+        "published_at": "2026-10-01T11:41:30+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3697"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2026"
       },
       {
-        "title": "[NEU] [hoch] Kiteworks: Mehrere Schwachstellen",
+        "title": "[UPDATE] [niedrig] libxml2: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T11:31:29+00:00",
+        "published_at": "2026-10-01T11:41:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3695"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1325"
       },
       {
-        "title": "[NEU] [hoch] JetBrains You Track: Mehrere Schwachstellen",
+        "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T11:31:29+00:00",
+        "published_at": "2026-10-01T11:41:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3696"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1926"
       }
     ],
     "ai": [
@@ -200,6 +200,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3692"
       },
       {
+        "title": "[NEU] [mittel] Vaadin: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T11:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3700"
+      },
+      {
         "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Cross-Site Scripting",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-01T11:31:29+00:00",
@@ -247,13 +254,6 @@
         "published_at": "2026-10-01T11:06:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3685"
-      },
-      {
-        "title": "[NEU] [mittel] Ghostscript: Schwachstelle ermöglicht Manipulation von Dateien und DoS",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T11:01:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3684"
       }
     ],
     "general": [
@@ -307,6 +307,13 @@
         "url": "https://services.digital.go.jp/gbiz-portal/news/20261001-01/"
       },
       {
+        "title": "免許悪用防止届け一部休止 タイムズカー画像流出で | NEWSjp",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-01T08:09:10+00:00",
+        "relevance_score": 5,
+        "url": "https://news.jp/i/1478299651827581816"
+      },
+      {
         "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-01T07:26:23+00:00",
@@ -319,13 +326,6 @@
         "published_at": "2026-10-01T03:02:41+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001901/"
-      },
-      {
-        "title": "Gboard チームからの新しいキーボードのご提案 2026",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-01T01:25:00+00:00",
-        "relevance_score": 5,
-        "url": "https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/"
       }
     ]
   }

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T11:39:18+00:00_
+_Generiert: 2026-10-01T11:50:20+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+60 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 

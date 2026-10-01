@@ -251,6 +251,144 @@
     "id": "b1ec5563827326a5bfae"
   },
   {
+    "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2026",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-01T11:41:30+00:00",
+    "fetched_at": "2026-10-01T11:49:43+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fa9d28e0b64052b6f913"
+  },
+  {
+    "title": "[UPDATE] [niedrig] libxml2: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1325",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-01T11:41:29+00:00",
+    "fetched_at": "2026-10-01T11:49:43+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libxml2 ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ea648ea8b7c4b76ad4c4"
+  },
+  {
+    "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1926",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-01T11:41:29+00:00",
+    "fetched_at": "2026-10-01T11:49:43+00:00",
+    "summary": "Ein Angreifer kann eine Schwachstelle in vim ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4fe1cd40a93c34a5f303"
+  },
+  {
+    "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen ermöglichen Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1570",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-01T11:41:29+00:00",
+    "fetched_at": "2026-10-01T11:49:43+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "adbff0f2ee76ff8575fb"
+  },
+  {
+    "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1759",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-01T11:41:29+00:00",
+    "fetched_at": "2026-10-01T11:49:43+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in vim ausnutzen, um Code auszuführen und um einen Denial of Service Zustand herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8780e7730def81bc27db"
+  },
+  {
+    "title": "[NEU] [mittel] Vaadin: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3700",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-01T11:41:29+00:00",
+    "fetched_at": "2026-10-01T11:49:43+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Vaadin ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen oder Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "987e889c4fe5c3c78c48"
+  },
+  {
     "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Cross-Site Scripting",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3697",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1059,6 +1197,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c1a880b6a64e8ac85782"
+  },
+  {
+    "title": "免許悪用防止届け一部休止 タイムズカー画像流出で | NEWSjp",
+    "url": "https://news.jp/i/1478299651827581816",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-01T08:09:10+00:00",
+    "fetched_at": "2026-10-01T11:49:43+00:00",
+    "summary": "個人の債務情報を管理する日本信用情報機構（JICC）は1日、運転免許証などを紛失した際に不正利用を防ぐための届け出で、スマートフォンアプリからの申し込みを一時休止すると発表した。カーシェアリングサービス「タイムズカー」のシステムへの不正アクセスで免許証画像が約160万件流出し、申し込みが殺到した。当面は...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "98977ac05ac115348a40"
   },
   {
     "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
