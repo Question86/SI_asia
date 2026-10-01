@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-10-01T12:57:44+00:00`
+Generated: `2026-10-01T13:15:53+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -13,6 +13,7 @@ Generated: `2026-10-01T12:57:44+00:00`
 | anthropics/financial-services | $0 | — | 0 | 0 | dormant |
 | Can Ethereum clear US$2,672 this week and unlock a run to US$3,000? | $0 | — | 0 | 0 | dormant |
 | ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました | $0 | — | 0 | 0 | dormant |
+| Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026) | $0 | — | 0 | 0 | active |
 | 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
 | M 5.4 - north of Svalbard | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-10-01T12:57:44+00:00`
 | Why Kyoto, not Tokyo, is Japan’s real deeptech bet | $0 | — | 0 | 0 | dormant |
 | M 6.2 - South Sandwich Islands region | $0 | — | 0 | 0 | dormant |
 | Bitcoin drops to US$76,796.54 as 91% S&P 500 correlation exposes crypto’s macro trap | $0 | — | 0 | 0 | dormant |
-| M 4.6 - 170 km ESE of Kuril’sk, Russia | $0 | — | 0 | 0 | dormant |

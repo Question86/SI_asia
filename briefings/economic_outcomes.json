@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T12:57:44+00:00",
+  "generated_at": "2026-10-01T13:15:53+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -100,6 +100,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_01e5096d8cf45e97ab0e",
+      "title": "Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_01f8d7013bd851003572",
@@ -683,6 +694,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_0e4ce772b9f254c0c403",
+      "title": "Multiples vulnérabilités dans Synology DSM (21 septembre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_0e61e527cb9f9b8d5498",
@@ -1628,7 +1650,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_22f46873227d88b36a11",
@@ -4686,7 +4708,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_63f9ec391b40e631b756",
@@ -4873,7 +4895,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_67231cb808cbb0d1c1eb",
@@ -6743,7 +6765,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8b58a357088671d274f6",
@@ -10395,7 +10417,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d8db0a59279810efbda0",
@@ -10714,7 +10736,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_ddc77a3d59c6e5ce526f",
@@ -11577,12 +11599,12 @@
     {
       "event_id": "evt_eca31d00efcb436d9db3",
       "title": "M 5.3 - 0 km NNE of Yōkaichiba, Japan",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
