@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T23:19:53+00:00",
+  "generated_at": "2026-10-01T23:31:48+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -1056,7 +1056,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_17b212e48b956da23bcb",
@@ -6557,6 +6557,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_83f98c6578d6f3a7b2ed",
+      "title": "Claude Codeは、コードを書かない人こそ使える。散らかったフォルダもWindowsのエラーも「頼むだけ」で片づいた | ライフハッカー・ジャパン",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_8446b7d5bac96b0e623c",
