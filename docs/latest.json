@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T06:39:14+00:00",
-  "run_id": "2026-10-01T06:39:14+00:00",
+  "generated_at": "2026-10-01T07:04:12+00:00",
+  "run_id": "2026-10-01T07:04:12+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 18,
     "displayed_findings": 18,
     "high": 0,
@@ -931,90 +931,7 @@
       "id": "589f5686646881c562f6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Why Singapore firms fear data sovereignty failures but remain underprepared",
-      "url": "https://e27.co/why-singapore-firms-fear-data-sovereignty-failures-but-remain-underprepared-20261001/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-01T06:30:43+00:00",
-      "fetched_at": "2026-10-01T06:38:40+00:00",
-      "summary": "Singapore’s position as one of Asia’s most advanced digital economies is built on a simple promise: global companies can move data, capital and operations through the city-state with confidence. A new study suggests that promise is becoming harder to keep. Research released by data storage and management company Everpure found that 89 per cent of […] The post Why Singapore firms fear data sovereignty failures but re…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "90a9fa6d1f16569061cf"
-    },
-    {
-      "title": "Gビズポータルの電子ロッカーで商業登記リモート署名を利用した電子署名を付与できるようになりました（デジタル庁ウェブサービス・アプリケーション）",
-      "url": "https://services.digital.go.jp/gbiz-portal/news/20261001-01/",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-01T06:12:29+00:00",
-      "fetched_at": "2026-10-01T06:38:40+00:00",
-      "summary": "Gビズポータルの電子ロッカーで商業登記リモート署名を利用した電子署名を付与できるようになりました（デジタル庁ウェブサービス・アプリケーション）",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6f7f8f3682339e9fdd06"
-    },
-    {
-      "title": "Uptober or downtober: Will Bitcoin’s 19% seasonal average survive US$100 oil?",
-      "url": "https://e27.co/uptober-or-downtober-will-bitcoins-19-seasonal-average-survive-us100-oil-20261001/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-01T06:11:05+00:00",
-      "fetched_at": "2026-10-01T06:38:40+00:00",
-      "summary": "The question on every trader’s mind as October begins is whether Bitcoin will deliver its legendary Uptober performance or succumb to the economic pressures that have defined much of this year. The answer, based on the data, is neither a triumphant rally nor a catastrophic collapse. It is something more nuanced and arguably more challenging: […] The post Uptober or downtober: Will Bitcoin’s 19% seasonal average surv…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "196da64fbfd14a7afb3f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
