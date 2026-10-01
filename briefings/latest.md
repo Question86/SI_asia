@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T15:48:34+00:00_
+_Generiert: 2026-10-01T15:58:33+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+78 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -291,6 +291,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-01 01:29:20 UTC 2026-10-01 01:29:20 UTC at epicenter Location 36.099°N 68.782°E Depth 49.60 km (30.82 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **全体像が知りたいんだよォー！そんな時は図解スキルeli5が便利** — Score 8, observation — [Quelle](https://eiji.page/blog/ai-skill-eli5-is-great)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-01T10:09:45+00:00`, fetched `2026-10-01T15:57:58+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: AIを使った開発によってスピードが上がっているのは実感するものの、それと引き換えに 自分がちゃんと理解できなくてふわっとした部分 が増えてきました。 そんなとき、自分の理解が合っているか音声入力でバーっと喋ってAIとやりとりします。 他の人が書いたコードの機能の概要・ロジックなんかも同じです。 ただ、複雑...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Zeya Health buys ConnectLah to build AI booking rails for clinics** — Score 8, observation — [Quelle](https://e27.co/zeya-health-buys-connectlah-to-build-ai-booking-rails-for-clinics-20261001/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-01T05:30:19+00:00`, fetched `2026-10-01T05:36:30+00:00`
@@ -299,15 +308,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In healthcare, booking an appointment is rarely as simple as finding an empty slot on a calendar. A patient may need a specific doctor, a particular procedure, a referral, a follow-up window, or a clinic that accepts certain rules around timing and availability. Much of this still sits in phone calls, WhatsApp threads and front-desk […] The post Zeya Health buys ConnectLah to build AI booking rails for clinics appea…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Mattermost Server (23 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1212/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-09-23T00:00:00+00:00`, fetched `2026-10-01T13:14:42+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
