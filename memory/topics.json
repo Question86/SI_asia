@@ -1,8 +1,17 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T01:46:53+00:00",
+  "generated_at": "2026-10-01T02:44:45+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-01T11:30:00+09:00",
+        "relevance_score": 23,
+        "url": "https://jvn.jp/vu/JVNVU93468181/"
+      }
+    ],
     "ai": [
       {
         "title": "The AI agent boom is exposing Southeast Asia’s startup codebase problem",
@@ -17,6 +26,20 @@
         "published_at": "2026-10-01T01:10:02+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/why-con-artists-get-the-meeting-that-honest-founders-cant-20260930/"
+      },
+      {
+        "title": "PSA, Granite Asia launch US$50M fund to scale supply-chain innovation",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-01T02:30:27+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/psa-granite-asia-launch-us50m-fund-to-scale-supply-chain-innovation-20261001/"
+      },
+      {
+        "title": "Why a good product isn’t enough for sustainable growth",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-01T02:00:01+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/why-a-good-product-isnt-enough-for-sustainable-growth-20260930/"
       }
     ],
     "geopolitics": [
@@ -26,6 +49,13 @@
         "published_at": "2026-10-01T01:20:29+00:00",
         "relevance_score": 17,
         "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/"
+      },
+      {
+        "title": "PSA, Granite Asia launch US$50M fund to scale supply-chain innovation",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-01T02:30:27+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/psa-granite-asia-launch-us50m-fund-to-scale-supply-chain-innovation-20261001/"
       }
     ],
     "general": [
@@ -51,11 +81,27 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp"
       },
       {
+        "title": "さよならイルカショー",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-30T23:23:44+00:00",
+        "relevance_score": 5,
+        "url": "https://blog.tinect.jp/?p=91526"
+      },
+      {
         "title": "What building Bangladesh’s agency actually looks like from the inside – Part 2",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-01T01:30:45+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/what-building-bangladeshs-agency-actually-looks-like-from-the-inside-part-2-20260923/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Why a good product isn’t enough for sustainable growth",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-01T02:00:01+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/why-a-good-product-isnt-enough-for-sustainable-growth-20260930/"
       }
     ]
   }

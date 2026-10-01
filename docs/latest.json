@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T01:46:53+00:00",
-  "run_id": "2026-10-01T01:46:53+00:00",
+  "generated_at": "2026-10-01T02:44:45+00:00",
+  "run_id": "2026-10-01T02:44:45+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 10
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,16 +19,40 @@
   },
   "counts": {
     "new_relevant_findings": 4,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
-    "medium": 1,
-    "observe": 5,
+    "medium": 2,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）",
+        "url": "https://jvn.jp/vu/JVNVU93468181/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-10-01T11:30:00+09:00",
+        "fetched_at": "2026-10-01T02:44:14+00:00",
+        "summary": "OpenSSL ProjectからOpenSSL Security Advisory [29th September 2026]が公開されました。",
+        "matched_keywords": [
+          "advisory",
+          "APAC Trend Radar",
+          "CodeQL/Dependabot",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ffbff567b993b5905ca0"
+      },
       {
         "title": "The AI agent boom is exposing Southeast Asia’s startup codebase problem",
         "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/",
@@ -170,6 +194,67 @@
         "id": "e6246427fa40be26c321"
       },
       {
+        "title": "さよならイルカショー",
+        "url": "https://blog.tinect.jp/?p=91526",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-30T23:23:44+00:00",
+        "fetched_at": "2026-10-01T02:44:14+00:00",
+        "summary": "新江ノ島水族館 秋の連休、おれは鎌倉と江の島に行った。観光である。おれは鎌倉で生まれ育ったが、藤沢により近い津西の出なので、あまり寺社仏閣だの大仏だのが身近にあったわけでもない。 だからといって江の島を遊び場にしていたかというとそうでもない。地元の人間は地元の観光地にあまり行かない。 江ノ電も、ぜん...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6d61c6a10beeb890cc3c"
+      },
+      {
+        "title": "PSA, Granite Asia launch US$50M fund to scale supply-chain innovation",
+        "url": "https://e27.co/psa-granite-asia-launch-us50m-fund-to-scale-supply-chain-innovation-20261001/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-01T02:30:27+00:00",
+        "fetched_at": "2026-10-01T02:44:14+00:00",
+        "summary": "In global logistics, the problem is rarely a shortage of new technology. Ports, shipping lines, freight forwarders and warehouse operators are constantly pitched tools promising to predict delays, automate yards, optimise routes or cut emissions. The harder question is whether those tools can work inside real trade networks, where a single container journey may involve […] The post PSA, Granite Asia launch US$50M fu…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ac3a9e1018997d7d2c4d"
+      },
+      {
+        "title": "Why a good product isn’t enough for sustainable growth",
+        "url": "https://e27.co/why-a-good-product-isnt-enough-for-sustainable-growth-20260930/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-01T02:00:01+00:00",
+        "fetched_at": "2026-10-01T02:44:14+00:00",
+        "summary": "A good product can open the door to a market, but it does not guarantee business success. Many companies reach a point where their product or service has potential, customers are showing interest, and the team is working hard, but growth remains slower than expected. The challenge is often not the product itself. It is […] The post Why a good product isn’t enough for sustainable growth appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5736cb3354092ff8f190"
+      },
+      {
         "title": "What building Bangladesh’s agency actually looks like from the inside – Part 2",
         "url": "https://e27.co/what-building-bangladeshs-agency-actually-looks-like-from-the-inside-part-2-20260923/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -192,6 +277,30 @@
     ]
   },
   "findings": [
+    {
+      "title": "OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）",
+      "url": "https://jvn.jp/vu/JVNVU93468181/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-01T11:30:00+09:00",
+      "fetched_at": "2026-10-01T02:44:14+00:00",
+      "summary": "OpenSSL ProjectからOpenSSL Security Advisory [29th September 2026]が公開されました。",
+      "matched_keywords": [
+        "advisory",
+        "APAC Trend Radar",
+        "CodeQL/Dependabot",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ffbff567b993b5905ca0"
+    },
     {
       "title": "The AI agent boom is exposing Southeast Asia’s startup codebase problem",
       "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/",
@@ -331,6 +440,67 @@
       "id": "e6246427fa40be26c321"
     },
     {
+      "title": "さよならイルカショー",
+      "url": "https://blog.tinect.jp/?p=91526",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-30T23:23:44+00:00",
+      "fetched_at": "2026-10-01T02:44:14+00:00",
+      "summary": "新江ノ島水族館 秋の連休、おれは鎌倉と江の島に行った。観光である。おれは鎌倉で生まれ育ったが、藤沢により近い津西の出なので、あまり寺社仏閣だの大仏だのが身近にあったわけでもない。 だからといって江の島を遊び場にしていたかというとそうでもない。地元の人間は地元の観光地にあまり行かない。 江ノ電も、ぜん...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6d61c6a10beeb890cc3c"
+    },
+    {
+      "title": "PSA, Granite Asia launch US$50M fund to scale supply-chain innovation",
+      "url": "https://e27.co/psa-granite-asia-launch-us50m-fund-to-scale-supply-chain-innovation-20261001/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-01T02:30:27+00:00",
+      "fetched_at": "2026-10-01T02:44:14+00:00",
+      "summary": "In global logistics, the problem is rarely a shortage of new technology. Ports, shipping lines, freight forwarders and warehouse operators are constantly pitched tools promising to predict delays, automate yards, optimise routes or cut emissions. The harder question is whether those tools can work inside real trade networks, where a single container journey may involve […] The post PSA, Granite Asia launch US$50M fu…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ac3a9e1018997d7d2c4d"
+    },
+    {
+      "title": "Why a good product isn’t enough for sustainable growth",
+      "url": "https://e27.co/why-a-good-product-isnt-enough-for-sustainable-growth-20260930/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-01T02:00:01+00:00",
+      "fetched_at": "2026-10-01T02:44:14+00:00",
+      "summary": "A good product can open the door to a market, but it does not guarantee business success. Many companies reach a point where their product or service has potential, customers are showing interest, and the team is working hard, but growth remains slower than expected. The challenge is often not the product itself. It is […] The post Why a good product isn’t enough for sustainable growth appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5736cb3354092ff8f190"
+    },
+    {
       "title": "What building Bangladesh’s agency actually looks like from the inside – Part 2",
       "url": "https://e27.co/what-building-bangladeshs-agency-actually-looks-like-from-the-inside-part-2-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -353,93 +523,58 @@
   ],
   "new_findings": [
     {
-      "title": "The AI agent boom is exposing Southeast Asia’s startup codebase problem",
-      "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）",
+      "url": "https://jvn.jp/vu/JVNVU93468181/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-10-01T01:20:29+00:00",
-      "fetched_at": "2026-10-01T01:46:21+00:00",
-      "summary": "Across Southeast Asia’s technology hubs, the AI conversation has moved quickly from “Can it help developers write code faster?” to a harder question: “Can it be trusted to work on the codebase by itself?” That shift matters. The first wave of generative AI in software engineering was largely about assistance: autocomplete tools, chat-based coding helpers, […] The post The AI agent boom is exposing Southeast Asia’s s…",
+      "published_at": "2026-10-01T11:30:00+09:00",
+      "fetched_at": "2026-10-01T02:44:14+00:00",
+      "summary": "OpenSSL ProjectからOpenSSL Security Advisory [29th September 2026]が公開されました。",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
+        "advisory",
         "APAC Trend Radar",
-        "Southeast Asia"
+        "CodeQL/Dependabot",
+        "JVN",
+        "Security"
       ],
-      "relevance_score": 17,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b097d38e4443b2e9baae"
-    },
-    {
-      "title": "M 5.2 - 7 km ESE of Baghlān, Afghanistan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-01T01:43:06.040+00:00",
-      "fetched_at": "2026-10-01T01:46:21+00:00",
-      "summary": "Time 2026-10-01 01:29:20 UTC 2026-10-01 01:29:20 UTC at epicenter Location 36.099°N 68.782°E Depth 49.60 km (30.82 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "f0c067ff2847334c73d6"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ffbff567b993b5905ca0"
     },
     {
-      "title": "Why con artists get the meeting that honest founders can’t",
-      "url": "https://e27.co/why-con-artists-get-the-meeting-that-honest-founders-cant-20260930/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "さよならイルカショー",
+      "url": "https://blog.tinect.jp/?p=91526",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-01T01:10:02+00:00",
-      "fetched_at": "2026-10-01T01:46:21+00:00",
-      "summary": "In July 2011, a 27-year-old Stanford dropout secured a 10-minute slot with George Shultz at the Hoover Institution. The meeting ran two and a half hours. Before the month was out, the former secretary of state had joined the Theranos board, won over, he told Fortune, by her “purity of motivation.” Nothing said in that […] The post Why con artists get the meeting that honest founders can’t appeared first on e27 .",
+      "published_at": "2026-09-30T23:23:44+00:00",
+      "fetched_at": "2026-10-01T02:44:14+00:00",
+      "summary": "新江ノ島水族館 秋の連休、おれは鎌倉と江の島に行った。観光である。おれは鎌倉で生まれ育ったが、藤沢により近い津西の出なので、あまり寺社仏閣だの大仏だのが身近にあったわけでもない。 だからといって江の島を遊び場にしていたかというとそうでもない。地元の人間は地元の観光地にあまり行かない。 江ノ電も、ぜん...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "founder"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e6246427fa40be26c321"
+      "id": "6d61c6a10beeb890cc3c"
     },
     {
-      "title": "What building Bangladesh’s agency actually looks like from the inside – Part 2",
-      "url": "https://e27.co/what-building-bangladeshs-agency-actually-looks-like-from-the-inside-part-2-20260923/",
+      "title": "PSA, Granite Asia launch US$50M fund to scale supply-chain innovation",
+      "url": "https://e27.co/psa-granite-asia-launch-us50m-fund-to-scale-supply-chain-innovation-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-01T01:30:45+00:00",
-      "fetched_at": "2026-10-01T01:46:21+00:00",
-      "summary": "In part one, I traced the early years of building Ngital, the frustration with an industry built on vanity metrics, the scramble to land the first clients, and the realisation that reshaped how the agency approached its work. Part two picks up from there: what trust actually looks like once that work is underway, the […] The post What building Bangladesh’s agency actually looks like from the inside – Part 2 appeared…",
+      "published_at": "2026-10-01T02:30:27+00:00",
+      "fetched_at": "2026-10-01T02:44:14+00:00",
+      "summary": "In global logistics, the problem is rarely a shortage of new technology. Ports, shipping lines, freight forwarders and warehouse operators are constantly pitched tools promising to predict delays, automate yards, optimise routes or cut emissions. The harder question is whether those tools can work inside real trade networks, where a single container journey may involve […] The post PSA, Granite Asia launch US$50M fu…",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
@@ -450,7 +585,27 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "589f5686646881c562f6"
+      "id": "ac3a9e1018997d7d2c4d"
+    },
+    {
+      "title": "Why a good product isn’t enough for sustainable growth",
+      "url": "https://e27.co/why-a-good-product-isnt-enough-for-sustainable-growth-20260930/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-01T02:00:01+00:00",
+      "fetched_at": "2026-10-01T02:44:14+00:00",
+      "summary": "A good product can open the door to a market, but it does not guarantee business success. Many companies reach a point where their product or service has potential, customers are showing interest, and the team is working hard, but growth remains slower than expected. The challenge is often not the product itself. It is […] The post Why a good product isn’t enough for sustainable growth appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5736cb3354092ff8f190"
     }
   ],
   "source_errors": [],

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T01:46:53+00:00_
+_Generiert: 2026-10-01T02:44:45+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „The AI agent boom is exposing Southeast Asia’s startup codebase problem“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+10 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,10 +57,10 @@ _Generiert: 2026-10-01T01:46:53+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone NINETEEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568614)
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568614)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, No people affected in 100km.
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, [unknown].
 
 ## Wirtschaft global
 
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）** — Score 23, risk — [Quelle](https://jvn.jp/vu/JVNVU93468181/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-10-01T11:30:00+09:00`, fetched `2026-10-01T02:44:14+00:00`
+  - Treffer: advisory, APAC Trend Radar, CodeQL/Dependabot, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+7.0); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: OpenSSL ProjectからOpenSSL Security Advisory [29th September 2026]が公開されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The AI agent boom is exposing Southeast Asia’s startup codebase problem** — Score 17, observation — [Quelle](https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-01T01:20:29+00:00`, fetched `2026-10-01T01:46:21+00:00`
@@ -125,18 +134,37 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)
   - Kurz: In July 2011, a 27-year-old Stanford dropout secured a 10-minute slot with George Shultz at the Hoover Institution. The meeting ran two and a half hours. Before the month was out, the former secretary of state had joined the Theranos board, won over, he told Fortune, by her “purity of motivation.” Nothing said in that […] The post Why con artists get the meeting that honest founders can’t appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **What building Bangladesh’s agency actually looks like from the inside – Part 2** — Score 4, observation — [Quelle](https://e27.co/what-building-bangladeshs-agency-actually-looks-like-from-the-inside-part-2-20260923/)
+- **さよならイルカショー** — Score 5, observation — [Quelle](https://blog.tinect.jp/?p=91526)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-30T23:23:44+00:00`, fetched `2026-10-01T02:44:14+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 新江ノ島水族館 秋の連休、おれは鎌倉と江の島に行った。観光である。おれは鎌倉で生まれ育ったが、藤沢により近い津西の出なので、あまり寺社仏閣だの大仏だのが身近にあったわけでもない。 だからといって江の島を遊び場にしていたかというとそうでもない。地元の人間は地元の観光地にあまり行かない。 江ノ電も、ぜん...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **PSA, Granite Asia launch US$50M fund to scale supply-chain innovation** — Score 4, observation — [Quelle](https://e27.co/psa-granite-asia-launch-us50m-fund-to-scale-supply-chain-innovation-20261001/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-01T01:30:45+00:00`, fetched `2026-10-01T01:46:21+00:00`
+  - Zeit: published `2026-10-01T02:30:27+00:00`, fetched `2026-10-01T02:44:14+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: In part one, I traced the early years of building Ngital, the frustration with an industry built on vanity metrics, the scramble to land the first clients, and the realisation that reshaped how the agency approached its work. Part two picks up from there: what trust actually looks like once that work is underway, the […] The post What building Bangladesh’s agency actually looks like from the inside – Part 2 appeared…
+  - Kurz: In global logistics, the problem is rarely a shortage of new technology. Ports, shipping lines, freight forwarders and warehouse operators are constantly pitched tools promising to predict delays, automate yards, optimise routes or cut emissions. The harder question is whether those tools can work inside real trade networks, where a single container journey may involve […] The post PSA, Granite Asia launch US$50M fu…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why a good product isn’t enough for sustainable growth** — Score 4, observation — [Quelle](https://e27.co/why-a-good-product-isnt-enough-for-sustainable-growth-20260930/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-01T02:00:01+00:00`, fetched `2026-10-01T02:44:14+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: A good product can open the door to a market, but it does not guarantee business success. Many companies reach a point where their product or service has potential, customers are showing interest, and the team is working hard, but growth remains slower than expected. The challenge is often not the product itself. It is […] The post Why a good product isn’t enough for sustainable growth appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
