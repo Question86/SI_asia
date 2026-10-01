@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-01T18:52:23+00:00_
+_Generated: 2026-10-01T19:00:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `86`
+- findings: `87`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-01T18:52:23+00:00_
 - url: https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html
 - summary: Euro area bank interest rate statistics: August 2026
 
-### 8. Scheduled code scanning skips inactive repositories
-- source: GitHub Changelog Atom
+### 8. Bowman, Modernizing Financial Regulation: Initial Observations from eSLR
+- source: Federal Reserve Speeches and Testimony
 - score: `12`
-- published: `2026-10-01T16:49:15+00:00`
-- url: https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories
-- summary: Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than counting every kind of… The post Scheduled code scanning skips inactive repositories appeared first on…
+- published: `2026-10-01T19:00:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm
+- summary: Speech At the Atlantic Council 2026 CEO &amp; Senior Management Summit, Washington, D.C.
 
 END OF DOCUMENT
