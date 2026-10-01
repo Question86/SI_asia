@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T07:34:00+00:00",
-  "candidate_count": 1454,
+  "generated_at": "2026-10-01T08:01:46+00:00",
+  "candidate_count": 1460,
   "candidates": [
     {
       "amount_native": 2000000000000.0,
@@ -542,6 +542,24 @@
       "snippet": "cost-of-borrowing indicator 3.80% +1 +1 0 324.58 321.98 300.66 Loans of over €1M with a floating rate and i.r.f. of up to 3 months 3.49% -7 -6 0 169.40 165.87 152.23 Loans of over €1M with an i.r.f. of over 3 months and up to 1 year 3.84% +17 +18 -1 41.66 55.82 41.55 Loans of over €1M with an i.r.f. of over 10 years 3.73% -5 -5 0 8.12 10.14 8.36 Loans of up to",
       "source_priority": "primary_hint",
       "source_url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260902~d54675e442.en.html"
+    },
+    {
+      "candidate_id": "cand_1961842109b88152dcdf",
+      "event_id": "evt_43856848b80264610146",
+      "source_url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
+      "observed_at": "2026-10-01T08:01:39+00:00",
+      "currency": "EUR",
+      "amount_native": 1000000.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unclassified",
+      "attribution_probability": null,
+      "snippet": "omposite cost-of-borrowing indicator, which combines interest rates on all loans to corporations, remained broadly unchanged in August 2026. The interest rate on new loans of over €1 million with a floating rate and an initial rate fixation period of up to three months decreased by 14 basis points to 3.34%. The rate on new loans of the same size with an initial rate f",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.8,
+      "review_status": "pending"
     },
     {
       "amount_native": 3500.0,
@@ -1556,6 +1574,24 @@
       "source_url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260902~d54675e442.en.html"
     },
     {
+      "candidate_id": "cand_1a322c137563ffa7632e",
+      "event_id": "evt_43856848b80264610146",
+      "source_url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
+      "observed_at": "2026-10-01T08:01:39+00:00",
+      "currency": "EUR",
+      "amount_native": 1000000.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unclassified",
+      "attribution_probability": null,
+      "snippet": "on new loans of the same size with an initial rate fixation period of over three months and up to one year fell by 6 basis points to 3.78%. The interest rate on new loans of over €1 million with an initial rate fixation period of over ten years remained broadly unchanged at 3.74%. In the case of new loans of up to €250,000 with a floating rate and an initial rate fix",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.6,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 250000.0,
       "amount_usd": null,
       "attribution_probability": null,
@@ -1592,6 +1628,24 @@
       "snippet": "with an i.r.f. of over 3 months and up to 1 year 3.84% +17 +18 -1 41.66 55.82 41.55 Loans of over €1M with an i.r.f. of over 10 years 3.73% -5 -5 0 8.12 10.14 8.36 Loans of up to €0.25M with a floating rate and i.r.f. of up to 3 months 3.83% -8 -4 -5 27.84 27.35 28.22 Composite interest rate for new deposits with agreed maturity 2.26% +5 +6 -1 292.53 279.41 262.8",
       "source_priority": "primary_hint",
       "source_url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260902~d54675e442.en.html"
+    },
+    {
+      "candidate_id": "cand_a64a9ca750b5939f6ede",
+      "event_id": "evt_43856848b80264610146",
+      "source_url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
+      "observed_at": "2026-10-01T08:01:39+00:00",
+      "currency": "EUR",
+      "amount_native": 250000.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unclassified",
+      "attribution_probability": null,
+      "snippet": "8%. The interest rate on new loans of over €1 million with an initial rate fixation period of over ten years remained broadly unchanged at 3.74%. In the case of new loans of up to €250,000 with a floating rate and an initial rate fixation period of up to three months, the average rate charged rose by 10 basis points to 3.93%, driven by both the interest rate and the",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.6,
+      "review_status": "pending"
     },
     {
       "amount_native": 2000.0,
@@ -3252,6 +3306,42 @@
       "source_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html"
     },
     {
+      "candidate_id": "cand_8b184fd135ceb1648672",
+      "event_id": "evt_43856848b80264610146",
+      "source_url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
+      "observed_at": "2026-10-01T08:01:39+00:00",
+      "currency": "EUR",
+      "amount_native": 2.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unclassified",
+      "attribution_probability": null,
+      "snippet": "ed-stained banknotes Environment, health and safety Product environmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuani",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.6,
+      "review_status": "pending"
+    },
+    {
+      "candidate_id": "cand_a85a38572d198f82c7af",
+      "event_id": "evt_43856848b80264610146",
+      "source_url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
+      "observed_at": "2026-10-01T08:01:39+00:00",
+      "currency": "EUR",
+      "amount_native": 2.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unclassified",
+      "attribution_probability": null,
+      "snippet": "ronmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2015) Latvia (2014) Estonia (2011) Slovakia (2009) Cyprus (200",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.6,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 1.0,
       "amount_usd": null,
       "attribution_probability": null,
@@ -4039,6 +4129,24 @@
       "snippet": "stained banknotes Environment, health and safety Product environmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2",
       "source_priority": "primary_hint",
       "source_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html"
+    },
+    {
+      "candidate_id": "cand_569fb86624f844758fbe",
+      "event_id": "evt_43856848b80264610146",
+      "source_url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2610~8e4898ad10.en.html",
+      "observed_at": "2026-10-01T08:01:39+00:00",
+      "currency": "EUR",
+      "amount_native": 1.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unclassified",
+      "attribution_probability": null,
+      "snippet": "stained banknotes Environment, health and safety Product environmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.6,
+      "review_status": "pending"
     },
     {
       "amount_native": 0.52,
