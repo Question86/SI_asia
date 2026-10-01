@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T19:44:10+00:00_
+_Generiert: 2026-10-01T19:59:27+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,10 @@ _Generiert: 2026-10-01T19:44:10+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-104286 Fortinet FortiMail** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-01`
+  - Kurz: Known exploited vulnerability. Added 2026-10-01. Due 2026-10-04. Fortinet FortiMail Path Traversal Vulnerability
 - **CISA KEV: CVE-2026-76504 Cisco Catalyst SD-WAN Manager** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-30`
@@ -25,10 +29,6 @@ _Generiert: 2026-10-01T19:44:10+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-27`
   - Kurz: Known exploited vulnerability. Added 2026-09-27. Due 2026-09-30. Citrix NetScaler Improper Input Validation Vulnerability
-- **CISA KEV: CVE-2026-67279 MikroTik RouterOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-25`
-  - Kurz: Known exploited vulnerability. Added 2026-09-25. Due 2026-09-28. Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``

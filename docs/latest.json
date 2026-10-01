@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T19:44:10+00:00",
-  "run_id": "2026-10-01T19:44:10+00:00",
+  "generated_at": "2026-10-01T19:59:27+00:00",
+  "run_id": "2026-10-01T19:59:27+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 89,
     "displayed_findings": 89,
     "high": 0,
@@ -4295,30 +4295,7 @@
       "id": "b90cfb7fef4638635578"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub Copilot in VS Code, September 2026 releases",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-01T19:09:10+00:00",
-      "fetched_at": "2026-10-01T19:43:37+00:00",
-      "summary": "This changelog covers VS Code v1.136 through v1.140, shipped throughout September 2026. September’s releases streamline agent-driven development from implementation through pull request merge. Automations handle repeatable tasks, agent merge helps… The post GitHub Copilot in VS Code, September 2026 releases appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Automatisierung",
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Automatisierung (+4.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "976fa586b7b85bb3f14e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
