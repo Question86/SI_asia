@@ -1,131 +1,51 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-01T00:46:18Z_
+_Generated: 2026-10-01T01:40:29Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Codeausführung und DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.
+Stärkste Dynamik nach Gate-Recheck: “M 4.9 - northern Mid-Atlantic Ridge” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=21.43.
 
 ## Top Dynamics
 
-### [NEU] [hoch] MikroTik RouterOS: Schwachstelle ermöglicht Codeausführung und DoS
+### M 4.9 - northern Mid-Atlantic Ridge
 
-- Band: `krass` (raw `krass`)
-- Dynamics score: `31.0`
-- Published: `2026-09-30T11:16:29+00:00` / age_days `0.56`
-- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3661
-
-### Announcing 20260087 (OT,liquidity providing), for 7 days deadline 09:45
-
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `104.43`
+- Band: `strong` (raw `strong`)
+- Dynamics score: `21.43`
+- Published: `2026-09-17T19:46:45+00:00` / age_days `13.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: source breadth +2, momentum delta +3, baseline z_hint 0.04, high terms: rce, security high-signal: rce, aging penalty -8.0 for 104.4d old signal, extreme gate recheck: insufficient independent/current evidence
-- Quelle: http://www.ecb.europa.eu/mopo/implement/omo/html/20260087.en.html
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, baseline z_hint 2.76
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp
 
-### PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行
+### ChatGPT連携初日の増田で何が起きていたか
 
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-06-19T11:28:55+00:00` / age_days `103.55`
+- Band: `strong` (raw `strong`)
+- Dynamics score: `21.0`
+- Published: `2026-09-24T07:48:35+00:00` / age_days `6.74`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: source breadth +2, momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -8.0 for 103.6d old signal, extreme gate recheck: insufficient independent/current evidence
-- Quelle: https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://anond.hatelabo.jp/20261001070030
 
-### Gemini 4 Argon: our next era of frontier intelligence
+### M 4.9 - northern Mid-Atlantic Ridge
 
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-09-30T20:28:49+00:00` / age_days `0.18`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: security, google, cloud, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
-- Quelle: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-10-01T00:45:24.040+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp
 
-### PostgreSQL潛藏12年高風險漏洞，恐導致任意程式碼執行
+### ChatGPT連携初日の増田で何が起きていたか
 
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-09-30T07:34:00+00:00` / age_days `0.72`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: cvss, 10, cvss, security high-signal: cvss, 10, cvss, cvss, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
-- Quelle: https://www.twcert.org.tw/tw/cp-104-11247-25c8f-1.html
-
-### [NEU] [hoch] Red Hat Enterprise Linux (pki-core und dogtag-pki): Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-30T11:16:29+00:00` / age_days `0.56`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3662
-
-### [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-30T10:10:13+00:00` / age_days `0.61`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: angriffe, rce, security high-signal: angriffe, rce, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3588
-
-### GitHub Advanced Security trials for GitHub Team
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-30T17:23:29+00:00` / age_days `0.31`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
-- Quelle: https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team
-
-### Why social commerce seeding is replacing upfront influencer retainers
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-30T03:19:39+00:00` / age_days `0.89`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
-- Quelle: https://e27.co/why-social-commerce-seeding-is-replacing-upfront-influencer-retainers-20260927/
-
-### AI companies want to embed safety evaluators, but countries need their own
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-30T10:00:00+00:00` / age_days `0.62`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
-- Quelle: https://restofworld.org/2026/ai-safety-independent-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-
-### [NEU] [mittel] Moodle: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-30T11:51:29+00:00` / age_days `0.54`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3671
-
-### [NEU] [mittel] OpenProject: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-30T11:36:29+00:00` / age_days `0.55`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3667
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `9.0`
+- Published: `2026-09-30T22:05:08+00:00` / age_days `0.15`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://anond.hatelabo.jp/20261001070030
 
 END OF DOCUMENT
