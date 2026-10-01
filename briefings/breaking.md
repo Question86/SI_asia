@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-10-01T13:35:09+00:00_
+_Generiert: 2026-10-01T13:49:47+00:00_
 
 ## Christine Lagarde: Where AI risks meet
 
-- Ranking Score: `26.6`
-- Raw Network Score: `26.2`
+- Ranking Score: `22.94`
+- Raw Network Score: `23.2`
 - Max Monitor Score: `13`
 - Reichweite: `institutional` / `5.0`
 - Early Signal: `nein`
@@ -13,7 +13,7 @@ _Generiert: 2026-10-01T13:35:09+00:00_
 - Quellen: ECB Press Releases Speeches Interviews, ECB Statistical Press Releases
 - Klassen: central_bank, tier3_specialist
 - Cross-source bestaetigt: ja
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html
 - Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 
