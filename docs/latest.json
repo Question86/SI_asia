@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T15:36:59+00:00",
-  "run_id": "2026-10-01T15:36:59+00:00",
+  "generated_at": "2026-10-01T15:48:34+00:00",
+  "run_id": "2026-10-01T15:48:34+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 77,
     "displayed_findings": 77,
     "high": 0,
@@ -3753,49 +3753,7 @@
       "id": "589f5686646881c562f6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Isabel Schnabel: Central banks on-chain",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-10-01T15:30:00+00:00",
-      "fetched_at": "2026-10-01T15:36:27+00:00",
-      "summary": "Isabel Schnabel: Central banks on-chain",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b6e431f402f690f789fb"
-    },
-    {
-      "title": "テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話",
-      "url": "https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-30T11:30:09+00:00",
-      "fetched_at": "2026-10-01T15:36:27+00:00",
-      "summary": "こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Test Requirement Spec、以下 TRS） を挟んで...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "47cbc0a352a6e0f58f8b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
