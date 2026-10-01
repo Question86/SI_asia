@@ -90,5 +90,149 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Meta appoints Dhruv Vohra to lead Southeast Asia business as AI and chat commerce reshape online retail” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Meta appoints Dhruv Vohra to lead Southeast Asia business as AI and chat commerce reshape online retail",
+        "url": "https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-01T03:33:20+00:00",
+        "age_days": 0.0,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +1",
+          "high terms: rce",
+          "security high-signal: rce",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）",
+        "url": "https://jvn.jp/vu/JVNVU93468181/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 104.07,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "high terms: rce",
+          "security high-signal: rce",
+          "aging penalty -8.0 for 104.1d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）",
+        "url": "https://jvn.jp/vu/JVNVU93468181/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-01T11:30:00+09:00",
+        "age_days": 0.05,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "high terms: code",
+          "security high-signal: code",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "OpenSSL ProjectからOpenSSL Security Advisory [29th September 2026]が公開されました。"
+      },
+      {
+        "title": "Meta appoints Dhruv Vohra to lead Southeast Asia business as AI and chat commerce reshape online retail",
+        "url": "https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-01T03:30:32+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "early terms: regional",
+          "high terms: rce, 10",
+          "security high-signal: rce, 10",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "Meta has appointed Dhruv Vohra as Managing Director of its Global Business Group in Southeast Asia, putting a longtime regional executive in charge of one of the company’s most commercially important and behaviourally complex markets. Based in the region, Vohra will oversee Meta’s commercial strategy across Indonesia,…"
+      },
+      {
+        "title": "The AI agent boom is exposing Southeast Asia’s startup codebase problem",
+        "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-01T01:46:57+00:00",
+        "age_days": 0.08,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 23.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "high terms: code",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
