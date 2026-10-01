@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T06:00:17+00:00_
+_Generiert: 2026-10-01T06:39:14+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+18 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -125,6 +125,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 昨日、増田にChatGPT連携が来た。 はてラボの告知が出たのが9月30日15:15。 https://labo.hatenastaff.com/entry/2026/09/30/151500 ChatGPTから増田を検索したり、読んだり、そして''そのまま投稿したりできる''ようになった。 で、初日に何が起きたのか、実際の増田を追ってみた。 16:59 まず「増田プラグインおめで...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why Singapore firms fear data sovereignty failures but remain underprepared** — Score 10, observation — [Quelle](https://e27.co/why-singapore-firms-fear-data-sovereignty-failures-but-remain-underprepared-20261001/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-01T06:30:43+00:00`, fetched `2026-10-01T06:38:40+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Singapore’s position as one of Asia’s most advanced digital economies is built on a simple promise: global companies can move data, capital and operations through the city-state with confidence. A new study suggests that promise is becoming harder to keep. Research released by data storage and management company Everpure found that 89 per cent of […] The post Why Singapore firms fear data sovereignty failures but re…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **From combat boots to boardrooms: Michael J. Padilla’s bet on risk as a business** — Score 10, observation — [Quelle](https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-01T04:30:25+00:00`, fetched `2026-10-01T04:58:53+00:00`
@@ -161,14 +170,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In healthcare, booking an appointment is rarely as simple as finding an empty slot on a calendar. A patient may need a specific doctor, a particular procedure, a referral, a follow-up window, or a clinic that accepts certain rules around timing and availability. Much of this still sits in phone calls, WhatsApp threads and front-desk […] The post Zeya Health buys ConnectLah to build AI booking rails for clinics appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why con artists get the meeting that honest founders can’t** — Score 6, observation — [Quelle](https://e27.co/why-con-artists-get-the-meeting-that-honest-founders-cant-20260930/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-01T01:10:02+00:00`, fetched `2026-10-01T01:46:21+00:00`
-  - Treffer: APAC Trend Radar, founder
+- **Gビズポータルの電子ロッカーで商業登記リモート署名を利用した電子署名を付与できるようになりました（デジタル庁ウェブサービス・アプリケーション）** — Score 6, observation — [Quelle](https://services.digital.go.jp/gbiz-portal/news/20261001-01/)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-01T06:12:29+00:00`, fetched `2026-10-01T06:38:40+00:00`
+  - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)
-  - Kurz: In July 2011, a 27-year-old Stanford dropout secured a 10-minute slot with George Shultz at the Hoover Institution. The meeting ran two and a half hours. Before the month was out, the former secretary of state had joined the Theranos board, won over, he told Fortune, by her “purity of motivation.” Nothing said in that […] The post Why con artists get the meeting that honest founders can’t appeared first on e27 .
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: Gビズポータルの電子ロッカーで商業登記リモート署名を利用した電子署名を付与できるようになりました（デジタル庁ウェブサービス・アプリケーション）
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Gboard チームからの新しいキーボードのご提案 2026** — Score 5, observation — [Quelle](https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

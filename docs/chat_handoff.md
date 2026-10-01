@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-01T06:00:17+00:00_
+_Generated: 2026-10-01T06:39:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `18`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-01T06:00:17+00:00_
 - url: https://anond.hatelabo.jp/20261001070030
 - summary: 昨日、増田にChatGPT連携が来た。 はてラボの告知が出たのが9月30日15:15。 https://labo.hatenastaff.com/entry/2026/09/30/151500 ChatGPTから増田を検索したり、読んだり、そして''そのまま投稿したりできる''ようになった。 で、初日に何が起きたのか、実際の増田を追ってみた。 16:59 まず「増田プラグインおめで...
 
-### 6. From combat boots to boardrooms: Michael J. Padilla’s bet on risk as a business
+### 6. Why Singapore firms fear data sovereignty failures but remain underprepared
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-10-01T06:30:43+00:00`
+- url: https://e27.co/why-singapore-firms-fear-data-sovereignty-failures-but-remain-underprepared-20261001/
+- summary: Singapore’s position as one of Asia’s most advanced digital economies is built on a simple promise: global companies can move data, capital and operations through the city-state with confidence. A new study suggests that promise is becoming harder to keep. Re…
+
+### 7. From combat boots to boardrooms: Michael J. Padilla’s bet on risk as a business
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-01T04:30:25+00:00`
 - url: https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/
 - summary: In a world where former military officers often trade uniforms for predictable government consultancies, Michael J. Padilla chose a different path. After more than 31 years in the US Army, rising to the rank of colonel, he founded Al Thuraya Holdings, a globa…
 
-### 7. M 5.2 - 7 km ESE of Baghlān, Afghanistan
+### 8. M 5.2 - 7 km ESE of Baghlān, Afghanistan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-01T01:43:06.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny
 - summary: Time 2026-10-01 01:29:20 UTC 2026-10-01 01:29:20 UTC at epicenter Location 36.099°N 68.782°E Depth 49.60 km (30.82 mi)
-
-### 8. M 4.9 - northern Mid-Atlantic Ridge
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-01T00:45:24.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp
-- summary: Time 2026-10-01 00:28:22 UTC 2026-10-01 00:28:22 UTC at epicenter Location 19.276°N 43.035°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
