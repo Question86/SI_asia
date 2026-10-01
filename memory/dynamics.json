@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-01T05:15:38Z",
+  "generated_at": "2026-10-01T05:33:39Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 26,
     "bands": {
       "krass": 1,
       "strong": 6,
-      "watch": 9,
-      "quiet": 10
+      "watch": 10,
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
       "strong": 7,
-      "watch": 9,
-      "quiet": 10
+      "watch": 10,
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T04:30:25+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://jvn.jp/vu/JVNVU93468181/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 104.14,
+      "age_days": 104.15,
       "topics": [
         "general"
       ],
@@ -77,7 +77,7 @@
       "url": "https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T03:33:20+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -104,7 +104,7 @@
       "url": "https://jvn.jp/vu/JVNVU93468181/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-01T11:30:00+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -130,7 +130,7 @@
       "url": "https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T03:30:32+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -158,7 +158,7 @@
       "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T01:46:57+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -185,7 +185,7 @@
       "url": "https://anond.hatelabo.jp/20261001070030",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T07:48:35+00:00",
-      "age_days": 6.89,
+      "age_days": 6.91,
       "topics": [
         "general"
       ],
@@ -209,7 +209,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T01:43:06.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -234,7 +234,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T00:45:24.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -255,35 +255,11 @@
       "summary": "Time 2026-10-01 00:28:22 UTC 2026-10-01 00:28:22 UTC at epicenter Location 19.276°N 43.035°W Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "From combat boots to boardrooms: Michael J. Padilla’s bet on risk as a business",
-      "url": "https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-01T04:59:24+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 5.2 - 7 km ESE of Baghlān, Afghanistan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyny",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-01T01:46:57+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -307,7 +283,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tynp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-17T19:46:45+00:00",
-      "age_days": 13.4,
+      "age_days": 13.41,
       "topics": [
         "general"
       ],
@@ -331,7 +307,7 @@
       "url": "https://e27.co/why-con-artists-get-the-meeting-that-honest-founders-cant-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T01:46:57+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -351,11 +327,59 @@
       "summary": ""
     },
     {
+      "title": "From combat boots to boardrooms: Michael J. Padilla’s bet on risk as a business",
+      "url": "https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-01T04:59:24+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Gboard チームからの新しいキーボードのご提案 2026",
+      "url": "https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-01T04:03:19+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "さよならイルカショー",
       "url": "https://blog.tinect.jp/?p=91526",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T02:44:48+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -379,7 +403,7 @@
       "url": "https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T01:20:29+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -405,7 +429,7 @@
       "url": "https://e27.co/what-building-bangladeshs-agency-actually-looks-like-from-the-inside-part-2-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T04:25:00+00:00",
-      "age_days": 7.04,
+      "age_days": 7.05,
       "topics": [
         "general"
       ],
@@ -425,35 +449,11 @@
       "summary": ""
     },
     {
-      "title": "Gboard チームからの新しいキーボードのご提案 2026",
-      "url": "https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-01T04:03:19+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "ChatGPT連携初日の増田で何が起きていたか",
       "url": "https://anond.hatelabo.jp/20261001070030",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T22:05:08+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -479,7 +479,7 @@
       "url": "https://e27.co/psa-granite-asia-launch-us50m-fund-to-scale-supply-chain-innovation-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T02:44:48+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -506,7 +506,7 @@
       "url": "https://e27.co/why-a-good-product-isnt-enough-for-sustainable-growth-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T02:44:48+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -532,7 +532,7 @@
       "url": "https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T01:25:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -556,7 +556,7 @@
       "url": "https://blog.tinect.jp/?p=91526",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-30T23:23:44+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -580,7 +580,7 @@
       "url": "https://e27.co/psa-granite-asia-launch-us50m-fund-to-scale-supply-chain-innovation-20261001/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T02:30:27+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -607,7 +607,7 @@
       "url": "https://e27.co/what-building-bangladeshs-agency-actually-looks-like-from-the-inside-part-2-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T01:30:45+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -631,7 +631,7 @@
       "url": "https://e27.co/why-con-artists-get-the-meeting-that-honest-founders-cant-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T01:10:02+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -657,7 +657,7 @@
       "url": "https://e27.co/why-a-good-product-isnt-enough-for-sustainable-growth-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-01T02:00:01+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
