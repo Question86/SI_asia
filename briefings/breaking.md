@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-01T21:53:06+00:00_
+_Generiert: 2026-10-01T21:59:38+00:00_
 
 ## dotfiles を AI agent のために作り変えた
 
