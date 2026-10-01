@@ -385,6 +385,28 @@
     "id": "b1ec5563827326a5bfae"
   },
   {
+    "title": "Rate limits for private vulnerability reports",
+    "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-01T19:57:39+00:00",
+    "fetched_at": "2026-10-01T20:37:16+00:00",
+    "summary": "Private vulnerability reporting now applies daily rate limits to new reports. This helps protect you from bulk and automated submissions, while legitimate researchers can still reach you. Open source maintainers… The post Rate limits for private vulnerability reports appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Open Source",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+7.5); Open Source (+3.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "mixed",
+    "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d41e93c8f0ebb5d8f54e"
+  },
+  {
     "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2026",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1183,6 +1205,27 @@
       "LOW"
     ],
     "id": "49491413e46fe25d7464"
+  },
+  {
+    "title": "Structured forms for private vulnerability reports",
+    "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-01T19:57:28+00:00",
+    "fetched_at": "2026-10-01T20:37:16+00:00",
+    "summary": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text… The post Structured forms for private vulnerability reports appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Security"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+7.5); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a18da3b09585e6c4c34b"
   },
   {
     "title": "GitHub Copilot in VS Code, September 2026 releases",
@@ -2160,6 +2203,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "589f5686646881c562f6"
+  },
+  {
+    "title": "Accessibility statements highlighted on repository overview",
+    "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-01T19:04:32+00:00",
+    "fetched_at": "2026-10-01T20:37:16+00:00",
+    "summary": "You can now find an ACCESSIBILITY.md file in your repository’s root, the .github/ directory, or the docs/ directory highlighted on the repository overview. You can also add or propose an… The post Accessibility statements highlighted on repository overview appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ef11bb263903930170bb"
   },
   {
     "title": "Code coverage uploads no longer fail CI for new branches",

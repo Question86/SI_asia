@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T20:24:23+00:00",
+  "generated_at": "2026-10-01T20:37:54+00:00",
   "topics": {
     "security": [
       {
@@ -54,6 +54,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638"
       },
       {
+        "title": "Rate limits for private vulnerability reports",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-01T19:57:39+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports"
+      },
+      {
         "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-01T11:41:30+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-01T11:41:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1325"
-      },
-      {
-        "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T11:41:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1926"
       }
     ],
     "ai": [
@@ -103,6 +103,13 @@
         "published_at": "2026-10-01T12:53:01.125+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tytg"
+      },
+      {
+        "title": "Rate limits for private vulnerability reports",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-01T19:57:39+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports"
       },
       {
         "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Cross-Site Scripting",
@@ -138,13 +145,6 @@
         "published_at": "2026-10-01T15:07:16+00:00",
         "relevance_score": 12,
         "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/"
-      },
-      {
-        "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
-        "source": "BIS Press Releases",
-        "published_at": "2026-10-01T00:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and"
       }
     ],
     "economy": [
@@ -161,6 +161,13 @@
         "published_at": "2026-10-01T14:00:00+00:00",
         "relevance_score": 16,
         "url": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm"
+      },
+      {
+        "title": "Rate limits for private vulnerability reports",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-01T19:57:39+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports"
       },
       {
         "title": "Jefferson, The U.S. Economy and Monetary Policy",
@@ -210,13 +217,6 @@
         "published_at": "2026-10-01T15:30:00+00:00",
         "relevance_score": 9,
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf"
-      },
-      {
-        "title": "International supervisory community meets to discuss the future of global bank supervision and regulation",
-        "source": "BIS Press Releases",
-        "published_at": "2026-10-01T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation"
       }
     ],
     "geopolitics": [
@@ -365,6 +365,13 @@
     ],
     "github": [
       {
+        "title": "Rate limits for private vulnerability reports",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-01T19:57:39+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports"
+      },
+      {
         "title": "GitHub Copilot can now interact with desktop apps with computer use",
         "source": "GitHub Changelog Atom",
         "published_at": "2026-10-01T19:11:26+00:00",
@@ -384,6 +391,13 @@
         "published_at": "2026-10-01T15:07:16+00:00",
         "relevance_score": 12,
         "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/"
+      },
+      {
+        "title": "Structured forms for private vulnerability reports",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-01T19:57:28+00:00",
+        "relevance_score": 10,
+        "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports"
       },
       {
         "title": "GitHub Copilot in VS Code, September 2026 releases",
@@ -419,20 +433,6 @@
         "published_at": "2026-10-01T14:00:51+00:00",
         "relevance_score": 4,
         "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available"
-      },
-      {
-        "title": "Code coverage uploads no longer fail CI for new branches",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-01T16:49:05+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches"
-      },
-      {
-        "title": "New dashboard experience now the default",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-01T16:14:56+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default"
       }
     ]
   }

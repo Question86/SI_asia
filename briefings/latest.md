@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T20:24:23+00:00_
+_Generiert: 2026-10-01T20:37:54+00:00_
 
 ## Kurzlage
 
-91 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+94 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -171,6 +171,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-10-01 12:27:11 UTC 2026-10-01 12:27:11 UTC at epicenter Location 35.703°N 140.551°E Depth 41.65 km (25.88 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Rate limits for private vulnerability reports** — Score 14, mixed — [Quelle](https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-01T19:57:39+00:00`, fetched `2026-10-01T20:37:16+00:00`
+  - Treffer: GitHub, Open Source, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); Open Source (+3.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: Private vulnerability reporting now applies daily rate limits to new reports. This helps protect you from bulk and automated submissions, while legitimate researchers can still reach you. Open source maintainers… The post Rate limits for private vulnerability reports appeared first on The GitHub Blog .
+  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 
 ## Nur beobachten
 
@@ -264,15 +273,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III Time 2026-10-01 14:46:19 UTC 2026-10-01 14:46:19 UTC at epicenter Location 53.723°N 163.724°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **GitHub Copilot in VS Code, September 2026 releases** — Score 10, opportunity — [Quelle](https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases)
+- **Structured forms for private vulnerability reports** — Score 10, risk — [Quelle](https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports)
   - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-10-01T19:09:10+00:00`, fetched `2026-10-01T19:43:37+00:00`
-  - Treffer: Automatisierung, Copilot, GitHub
+  - Zeit: published `2026-10-01T19:57:28+00:00`, fetched `2026-10-01T20:37:16+00:00`
+  - Treffer: GitHub, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Automatisierung (+4.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: This changelog covers VS Code v1.136 through v1.140, shipped throughout September 2026. September’s releases streamline agent-driven development from implementation through pull request merge. Automations handle repeatable tasks, agent merge helps… The post GitHub Copilot in VS Code, September 2026 releases appeared first on The GitHub Blog .
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+  - Warum relevant: Security (+7.5); GitHub (+2.0); recent (+1.0)
+  - Kurz: Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text… The post Structured forms for private vulnerability reports appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The eternal complement** — Score 10, observation — [Quelle](https://openai.com/index/the-eternal-complement)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-10-01T17:00:00+00:00`, fetched `2026-10-01T17:35:05+00:00`
@@ -314,7 +323,12 @@ Keine neuen Hochprioritäts-Treffer.
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f834c851490>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T20:24:26+00:00",
-  "today_file_total": 91,
+  "generated_at": "2026-10-01T20:37:58+00:00",
+  "today_file_total": 94,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -149,6 +149,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:rate-limits-private-vulnerability-reports",
+      "title": "Rate limits for private vulnerability reports",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten."
     },
     {
       "key": "earthquake:japan:5.1",
@@ -301,53 +324,26 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 5.1 - 176 km se of lata, solomon islands:5.1",
-      "title": "M 5.1 - 176 km SE of Lata, Solomon Islands",
+      "key": "title:structured-forms-private-vulnerability-reports",
+      "title": "Structured forms for private vulnerability reports",
       "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
+        "GitHub Changelog Atom"
       ],
       "source_classes": [
-        "tier1_official"
+        "tier3_specialist"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyx0"
+        "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports"
       ],
       "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
+      "max_score": 10,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 14.7,
+      "network_score": 15.1,
       "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.1 - 171 km se of lata, solomon islands:5.1",
-      "title": "M 5.1 - 171 km SE of Lata, Solomon Islands",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tywu"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
+      "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
