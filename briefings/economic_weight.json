@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-30T23:58:59+00:00",
+  "generated_at": "2026-10-01T01:05:19+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -37,7 +37,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T07:01:07+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3fe6aecf45f6fdb26eaf",
@@ -981,7 +981,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-30T05:23:03+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9f68b3545d6f2ad0a3c0",
@@ -1032,7 +1032,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T08:36:29+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1eb1983ef98b0e807a3f",
@@ -1168,7 +1168,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-14T11:31:15+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_7b38653a2ae92a87034d",
@@ -1185,7 +1185,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-30T02:57:23+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8791ef1d70e8b95e43a7",
@@ -1304,7 +1304,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T06:55:03+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d15aba8293f087de53e5",
@@ -1372,7 +1372,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T07:22:32+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e1977ace65ebf1864c3b",
@@ -4482,8 +4482,8 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-17T19:46:45+00:00",
-      "last_seen_at": "2026-09-17T19:46:45+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-01T01:05:02+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_8d8148f763bb012436ab",
@@ -5622,7 +5622,7 @@
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_09434b47a53a3966aade",
@@ -5707,7 +5707,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6bd9db655618cf846ffa",
@@ -5945,7 +5945,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T03:41:38+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3ba99a5bdddca11e5290",
@@ -6727,7 +6727,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2bf1e7d57306cb9b7c1c",
@@ -6829,7 +6829,7 @@
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_286c3df7e2f2f93926a3",
@@ -7016,7 +7016,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T22:41:21+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1dc9bdd21755f73fe1e3",
@@ -7135,7 +7135,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T07:01:07+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_08c412fc7f71e8b9fc51",
@@ -7458,7 +7458,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T21:47:48+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_19101db02e02c4445f29",
@@ -7798,7 +7798,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T02:08:50+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f57fccff74e206c13a6c",
@@ -8189,7 +8189,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-30T07:01:07+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_dbb98c350c86838e9878",
@@ -8971,7 +8971,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T12:27:55+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e3d2c52dc5b9bdf7f078",
@@ -10876,7 +10876,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d44ba16b5cae98333f94",
@@ -12287,7 +12287,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
       "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_574beed208af3af2acc2",
@@ -17387,8 +17387,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T07:48:35+00:00",
-      "last_seen_at": "2026-09-30T17:35:32+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-01T01:05:02+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_9ee4a4eefa80fadb5a10",
