@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-01T19:32:46+00:00_
+_Generiert: 2026-10-01T19:44:10+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+89 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -195,15 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III Time 2026-10-01 14:46:19 UTC 2026-10-01 14:46:19 UTC at epicenter Location 53.723°N 163.724°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Actions retention now covers checks, runs, and statuses** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses)
+- **GitHub Copilot in VS Code, September 2026 releases** — Score 10, opportunity — [Quelle](https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases)
   - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-10-01T17:59:54+00:00`, fetched `2026-10-01T18:37:36+00:00`
-  - Treffer: Actions, GitHub, GitHub Actions
+  - Zeit: published `2026-10-01T19:09:10+00:00`, fetched `2026-10-01T19:43:37+00:00`
+  - Treffer: Automatisierung, Copilot, GitHub
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.5); recent (+1.0)
-  - Kurz: As previously announced, checks, workflow runs, and statuses are now governed by the same GitHub Actions retention setting that controls how long artifacts and logs are kept. These records are… The post Actions retention now covers checks, runs, and statuses appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+  - Warum relevant: Automatisierung (+4.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: This changelog covers VS Code v1.136 through v1.140, shipped throughout September 2026. September’s releases streamline agent-driven development from implementation through pull request merge. Automations handle repeatable tasks, agent merge helps… The post GitHub Copilot in VS Code, September 2026 releases appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **The eternal complement** — Score 10, observation — [Quelle](https://openai.com/index/the-eternal-complement)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-10-01T17:00:00+00:00`, fetched `2026-10-01T17:35:05+00:00`
