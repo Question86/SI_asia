@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-01T08:49:03Z_
+_Generated: 2026-10-01T09:18:08Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Mozilla Firefox, Firefox
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-01T07:56:29+00:00` / age_days `0.04`
+- Published: `2026-10-01T07:56:29+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code, official security but no high-signal phrase: capped at strong
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Mozilla Firefox, Firefox
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-01T04:30:25+00:00` / age_days `0.18`
+- Published: `2026-10-01T04:30:25+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,17 +32,27 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Mozilla Firefox, Firefox
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `104.29`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `104.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -8.0 for 104.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://jvn.jp/vu/JVNVU93468181/
 
+### Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `104.78`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -8.0 for 104.8d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and
+
 ### Meta appoints Dhruv Vohra to lead Southeast Asia business as AI and chat commerce reshape online retail
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-01T03:33:20+00:00` / age_days `0.22`
+- Published: `2026-10-01T03:33:20+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Mozilla Firefox, Firefox
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-01T11:30:00+09:00` / age_days `0.26`
+- Published: `2026-10-01T11:30:00+09:00` / age_days `0.28`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Mozilla Firefox, Firefox
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-01T03:30:32+00:00` / age_days `0.22`
+- Published: `2026-10-01T03:30:32+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: regional, high terms: rce, 10, security high-signal: rce, 10, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Mozilla Firefox, Firefox
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-10-01T07:24:00.000+00:00` / age_days `0.06`
+- Published: `2026-10-01T07:24:00.000+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, code, 10, security high-signal: kritisch, code, 10
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Mozilla Firefox, Firefox
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-01T01:46:57+00:00` / age_days `0.29`
+- Published: `2026-10-01T01:46:57+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,40 +102,30 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Mozilla Firefox, Firefox
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-01T05:49:06.040+00:00` / age_days `0.12`
+- Published: `2026-10-01T05:49:06.040+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyq7
 
-### ChatGPT連携初日の増田で何が起きていたか
+### Treiber-Lücken gefährden Linux- und Windows-PCs mit Nvidia-GPU
 
-- Band: `strong` (raw `strong`)
-- Dynamics score: `21.0`
-- Published: `2026-09-24T07:48:35+00:00` / age_days `7.04`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Band: `watch` (raw `watch`)
+- Dynamics score: `19.0`
+- Published: `2026-10-01T08:47:00.000+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://anond.hatelabo.jp/20261001070030
+- Warum: security high-signal: security
+- Quelle: https://www.heise.de/news/Treiber-Luecken-gefaehrden-Linux-und-Windows-PCs-mit-Nvidia-GPU-11472265.html
 
 ### Attacken auf IT-Verwaltungsplattform HPE OneView möglich
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-01T08:06:00.000+00:00` / age_days `0.03`
+- Published: `2026-10-01T08:06:00.000+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: security high-signal: security
 - Quelle: https://www.heise.de/news/Attacken-auf-IT-Verwaltungsplattform-HPE-OneView-moeglich-11472151.html
-
-### From combat boots to boardrooms: Michael J. Padilla’s bet on risk as a business
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `19.0`
-- Published: `2026-10-01T04:59:24+00:00` / age_days `0.16`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/
 
 END OF DOCUMENT
