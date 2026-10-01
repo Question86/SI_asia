@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T01:05:02+00:00",
+  "generated_at": "2026-10-01T01:46:57+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -37480,7 +37480,7 @@
     },
     "earthquake:mid-atlantic ridge:4.9": {
       "title": "M 4.9 - northern Mid-Atlantic Ridge",
-      "updated_at": "2026-10-01T01:05:02+00:00",
+      "updated_at": "2026-10-01T01:46:57+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -37506,12 +37506,13 @@
         11.7,
         11.7,
         11.7,
-        14.7
+        14.7,
+        11.7
       ],
-      "rolling_average": 11.94,
+      "rolling_average": 11.93,
       "rolling_peak": 14.7,
-      "last_score": 14.7,
-      "z_hint": 2.76
+      "last_score": 11.7,
+      "z_hint": -0.23
     },
     "title:agentic-cli-customizations-now-usage-metrics-api": {
       "title": "Agentic CLI customizations now in the usage metrics API",
@@ -46103,8 +46104,8 @@
       "z_hint": -0.0
     },
     "title:what-building-bangladesh-agency-actually-looks-like-inside": {
-      "title": "What building Bangladesh’s agency actually looks like from the inside – Part 1",
-      "updated_at": "2026-09-24T23:52:18+00:00",
+      "title": "What building Bangladesh’s agency actually looks like from the inside – Part 2",
+      "updated_at": "2026-10-01T01:46:57+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -46135,12 +46136,12 @@
         6.1,
         6.1,
         6.1,
-        6.1
+        9.1
       ],
-      "rolling_average": 6.1,
-      "rolling_peak": 6.1,
-      "last_score": 6.1,
-      "z_hint": 0.0
+      "rolling_average": 6.2,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 2.9
     },
     "title:tanihub-prison-grace-cynthia-wihardja-post-gives-human": {
       "title": "TaniHub, prison and grace: Cynthia Wihardja’s post gives a human face to VC risk",
@@ -46384,7 +46385,7 @@
     },
     "domain:labo.hatenastaff.com": {
       "title": "ChatGPT連携初日の増田で何が起きていたか",
-      "updated_at": "2026-10-01T01:05:02+00:00",
+      "updated_at": "2026-10-01T01:46:57+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -55542,6 +55543,39 @@
       "rolling_average": 10.1,
       "rolling_peak": 10.1,
       "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:agent-boom-exposing-southeast-asia-startup-codebase-problem": {
+      "title": "The AI agent boom is exposing Southeast Asia’s startup codebase problem",
+      "updated_at": "2026-10-01T01:46:57+00:00",
+      "network_scores": [
+        22.1
+      ],
+      "rolling_average": 22.1,
+      "rolling_peak": 22.1,
+      "last_score": 22.1,
+      "z_hint": 0.0
+    },
+    "earthquake:m 5.2 - 7 km ese of baghlān, afghanistan:5.2": {
+      "title": "M 5.2 - 7 km ESE of Baghlān, Afghanistan",
+      "updated_at": "2026-10-01T01:46:57+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
+      "z_hint": 0.0
+    },
+    "title:why-con-artists-get-meeting-that-honest-founders": {
+      "title": "Why con artists get the meeting that honest founders can’t",
+      "updated_at": "2026-10-01T01:46:57+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
       "z_hint": 0.0
     }
   }
