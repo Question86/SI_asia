@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-01T09:58:10+00:00_
+_Generated: 2026-10-01T10:18:52+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `36`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-01T09:58:10+00:00_
 - url: https://e27.co/the-ai-agent-boom-is-exposing-southeast-asias-startup-codebase-problem-20261001/
 - summary: Across Southeast Asia’s technology hubs, the AI conversation has moved quickly from “Can it help developers write code faster?” to a harder question: “Can it be trusted to work on the codebase by itself?” That shift matters. The first wave of generative AI in…
 
-### 4. M 5.0 - 38 km WSW of Palimbang, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-01T05:49:06.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyq7
-- summary: Time 2026-10-01 05:34:10 UTC 2026-10-01 05:34:10 UTC at epicenter Location 6.112°N 123.860°E Depth 10.00 km (6.21 mi)
+### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (undici-nodejs): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-01T10:07:46+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3640
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Daten zu manipulieren, Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand zu verursachen.
 
 ### 5. Euro area bank interest rate statistics: August 2026
 - source: ECB Statistical Press Releases

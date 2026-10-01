@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T09:58:10+00:00",
-  "run_id": "2026-10-01T09:58:10+00:00",
+  "generated_at": "2026-10-01T10:18:52+00:00",
+  "run_id": "2026-10-01T10:18:52+00:00",
   "date": "2026-10-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 36
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 7,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
-    "medium": 5,
-    "observe": 24,
+    "medium": 11,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -100,6 +100,102 @@
         "id": "b097d38e4443b2e9baae"
       },
       {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (undici-nodejs): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3640",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T10:07:46+00:00",
+        "fetched_at": "2026-10-01T10:18:20+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Daten zu manipulieren, Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "60e5afa2af1e6b1724d2"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gawk): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3649",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T10:07:46+00:00",
+        "fetched_at": "2026-10-01T10:18:20+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Speicherbeschädigungen zu verursachen und möglicherweise beliebigen Code auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "95db4badb325a833c5ec"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gdb): Schwachstelle ermöglicht Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3650",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T10:07:45+00:00",
+        "fetched_at": "2026-10-01T10:18:20+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "99c6b6a1ac87a1a9d5d6"
+      },
+      {
+        "title": "[UPDATE] [hoch] OpenSSL: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T10:07:44+00:00",
+        "fetched_at": "2026-10-01T10:18:20+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um Sicherheitsvorkehrungen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren und einen Denial-of-Service-Zustand zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "OpenSSL",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); OpenSSL (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e7fc6d465cf98b0a3c67"
+      },
+      {
         "title": "M 5.0 - 38 km WSW of Palimbang, Philippines",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyq7",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -135,6 +231,52 @@
           "LOW"
         ],
         "id": "b1ec5563827326a5bfae"
+      },
+      {
+        "title": "[UPDATE] [mittel] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3652",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T10:07:45+00:00",
+        "fetched_at": "2026-10-01T10:18:20+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7457de9537b216f941ab"
+      },
+      {
+        "title": "[UPDATE] [hoch] Podman: Schwachstelle ermöglicht Privilegieneskalation",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3651",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-01T10:07:45+00:00",
+        "fetched_at": "2026-10-01T10:18:20+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Podman ausnutzen, um seine Privilegien zu erhöhen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1ea365d873f52cf9d635"
       },
       {
         "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
@@ -581,6 +723,27 @@
         "id": "c1a880b6a64e8ac85782"
       },
       {
+        "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
+        "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001933/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-01T07:26:23+00:00",
+        "fetched_at": "2026-10-01T10:18:20+00:00",
+        "summary": "佐川急便は10月1日、前日に公表した「お荷物問い合わせサービス」への不正アクセスについて、調査の結果、顧客の個人情報が外部に流出した可能性があると発表した。同サービスは、同社Webサイトで荷物の輸送状況を確認できるもの。被害の拡大を防ぐため、荷物の問い合わせや集荷受付など、Webサービスの一部を停止してい...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "04f4eaded40c2364a099"
+      },
+      {
         "title": "睡眠中に「ピンクノイズ」を聞くと“脳内ゴミ”の洗い流しが強まる？ 米MITが人間で実験 Science系列誌で発表",
         "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001901/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -797,6 +960,102 @@
       "id": "b097d38e4443b2e9baae"
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (undici-nodejs): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3640",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T10:07:46+00:00",
+      "fetched_at": "2026-10-01T10:18:20+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Daten zu manipulieren, Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "60e5afa2af1e6b1724d2"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gawk): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3649",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T10:07:46+00:00",
+      "fetched_at": "2026-10-01T10:18:20+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Speicherbeschädigungen zu verursachen und möglicherweise beliebigen Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "95db4badb325a833c5ec"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gdb): Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3650",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T10:07:45+00:00",
+      "fetched_at": "2026-10-01T10:18:20+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "99c6b6a1ac87a1a9d5d6"
+    },
+    {
+      "title": "[UPDATE] [hoch] OpenSSL: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T10:07:44+00:00",
+      "fetched_at": "2026-10-01T10:18:20+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um Sicherheitsvorkehrungen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren und einen Denial-of-Service-Zustand zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "OpenSSL",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); OpenSSL (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e7fc6d465cf98b0a3c67"
+    },
+    {
       "title": "M 5.0 - 38 km WSW of Palimbang, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyq7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -832,6 +1091,52 @@
         "LOW"
       ],
       "id": "b1ec5563827326a5bfae"
+    },
+    {
+      "title": "[UPDATE] [mittel] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3652",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T10:07:45+00:00",
+      "fetched_at": "2026-10-01T10:18:20+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7457de9537b216f941ab"
+    },
+    {
+      "title": "[UPDATE] [hoch] Podman: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3651",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T10:07:45+00:00",
+      "fetched_at": "2026-10-01T10:18:20+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Podman ausnutzen, um seine Privilegien zu erhöhen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1ea365d873f52cf9d635"
     },
     {
       "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
@@ -1276,6 +1581,27 @@
       "id": "c1a880b6a64e8ac85782"
     },
     {
+      "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
+      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001933/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-01T07:26:23+00:00",
+      "fetched_at": "2026-10-01T10:18:20+00:00",
+      "summary": "佐川急便は10月1日、前日に公表した「お荷物問い合わせサービス」への不正アクセスについて、調査の結果、顧客の個人情報が外部に流出した可能性があると発表した。同サービスは、同社Webサイトで荷物の輸送状況を確認できるもの。被害の拡大を防ぐため、荷物の問い合わせや集荷受付など、Webサービスの一部を停止してい...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "04f4eaded40c2364a099"
+    },
+    {
       "title": "睡眠中に「ピンクノイズ」を聞くと“脳内ゴミ”の洗い流しが強まる？ 米MITが人間で実験 Science系列誌で発表",
       "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001901/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1419,7 +1745,171 @@
       "id": "589f5686646881c562f6"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (undici-nodejs): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3640",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T10:07:46+00:00",
+      "fetched_at": "2026-10-01T10:18:20+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Daten zu manipulieren, Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "60e5afa2af1e6b1724d2"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gawk): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3649",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T10:07:46+00:00",
+      "fetched_at": "2026-10-01T10:18:20+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Speicherbeschädigungen zu verursachen und möglicherweise beliebigen Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "95db4badb325a833c5ec"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gdb): Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3650",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T10:07:45+00:00",
+      "fetched_at": "2026-10-01T10:18:20+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "99c6b6a1ac87a1a9d5d6"
+    },
+    {
+      "title": "[UPDATE] [hoch] OpenSSL: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T10:07:44+00:00",
+      "fetched_at": "2026-10-01T10:18:20+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um Sicherheitsvorkehrungen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren und einen Denial-of-Service-Zustand zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "OpenSSL",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); OpenSSL (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e7fc6d465cf98b0a3c67"
+    },
+    {
+      "title": "[UPDATE] [hoch] Podman: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3651",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T10:07:45+00:00",
+      "fetched_at": "2026-10-01T10:18:20+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Podman ausnutzen, um seine Privilegien zu erhöhen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1ea365d873f52cf9d635"
+    },
+    {
+      "title": "[UPDATE] [mittel] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3652",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-01T10:07:45+00:00",
+      "fetched_at": "2026-10-01T10:18:20+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7457de9537b216f941ab"
+    },
+    {
+      "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
+      "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001933/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-01T07:26:23+00:00",
+      "fetched_at": "2026-10-01T10:18:20+00:00",
+      "summary": "佐川急便は10月1日、前日に公表した「お荷物問い合わせサービス」への不正アクセスについて、調査の結果、顧客の個人情報が外部に流出した可能性があると発表した。同サービスは、同社Webサイトで荷物の輸送状況を確認できるもの。被害の拡大を防ぐため、荷物の問い合わせや集荷受付など、Webサービスの一部を停止してい...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "04f4eaded40c2364a099"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

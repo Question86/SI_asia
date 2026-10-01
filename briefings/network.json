@@ -1,15 +1,58 @@
 {
-  "generated_at": "2026-10-01T09:58:14+00:00",
+  "generated_at": "2026-10-01T10:18:55+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 29,
-    "clusters": 25,
+    "findings": 36,
+    "clusters": 26,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
     "dominance_penalized": 6
   },
   "clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (undici-nodejs): Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3640",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3649",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3650",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3652",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3651"
+      ],
+      "finding_count": 7,
+      "max_score": 16,
+      "credibility_total": 7.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 6,
+      "momentum_status": "increasing",
+      "network_score": 25.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 48.7,
+      "ranking_score": 25.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 8.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
     {
       "key": "title:openssl-2026",
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）",
@@ -123,44 +166,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-01T01:46:57+00:00"
-    },
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3654"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 15.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 15.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "earthquake:philippines:5.0",
@@ -419,18 +424,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.5,
+      "network_score": 10.41,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 15.4,
-      "ranking_score": 10.5,
+      "ranking_score": 10.41,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.0,
+      "baseline_bonus": 1.91,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -476,6 +481,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-01T05:37:06+00:00"
+    },
+    {
+      "key": "title:100",
+      "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001933/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-01T10:18:55+00:00"
     },
     {
       "key": "earthquake:m 4.9 - 145 km ese of neiafu, tonga:4.9",
@@ -983,7 +1026,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-01T09:58:15Z",
+    "generated_at": "2026-10-01T10:18:55Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

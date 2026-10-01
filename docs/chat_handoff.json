@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-01T09:58:10+00:00",
+  "generated_at": "2026-10-01T10:18:52+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 7,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
-    "medium": 5,
-    "observe": 24
+    "medium": 11,
+    "observe": 25
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "M 5.0 - 38 km WSW of Palimbang, Philippines",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (undici-nodejs): Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-01T05:49:06.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyq7",
-      "summary": "Time 2026-10-01 05:34:10 UTC 2026-10-01 05:34:10 UTC at epicenter Location 6.112°N 123.860°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-10-01T10:07:46+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3640",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Daten zu manipulieren, Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand zu verursachen.",
       "section": "medium"
     },
     {
@@ -100,145 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3654",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-01T07:56:29+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox ESR, Mozilla Firefox und Thunderbird ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher…"
-      },
-      {
-        "title": "From combat boots to boardrooms: Michael J. Padilla’s bet on risk as a business",
-        "url": "https://e27.co/from-combat-boots-to-boardrooms-michael-j-padillas-bet-on-risk-as-a-business-20261001/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-01T04:30:25+00:00",
-        "age_days": 0.24,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 27.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "In a world where former military officers often trade uniforms for predictable government consultancies, Michael J. Padilla chose a different path. After more than 31 years in the US Army, rising to the rank of colonel, he founded Al Thuraya Holdings, a global group that today spans 18 companies across risk management…"
-      },
-      {
-        "title": "OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）",
-        "url": "https://jvn.jp/vu/JVNVU93468181/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 104.35,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 104.3d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Meta appoints Dhruv Vohra to lead Southeast Asia business as AI and chat commerce reshape online retail",
-        "url": "https://e27.co/meta-appoints-dhruv-vohra-to-lead-southeast-asia-business-as-ai-and-chat-commerce-reshape-online-retail-20261001/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-01T03:33:20+00:00",
-        "age_days": 0.28,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "OpenSSLにおける脆弱性に対するアップデート（2026年9月29日）",
-        "url": "https://jvn.jp/vu/JVNVU93468181/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-01T11:30:00+09:00",
-        "age_days": 0.32,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": "OpenSSL ProjectからOpenSSL Security Advisory [29th September 2026]が公開されました。"
-      }
-    ]
-  }
+  ]
 }

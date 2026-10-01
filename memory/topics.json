@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-01T09:58:10+00:00",
+  "generated_at": "2026-10-01T10:18:52+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,48 @@
         "published_at": "2026-10-01T11:30:00+09:00",
         "relevance_score": 23,
         "url": "https://jvn.jp/vu/JVNVU93468181/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (undici-nodejs): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T10:07:46+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3640"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gawk): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T10:07:46+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3649"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gdb): Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T10:07:45+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3650"
+      },
+      {
+        "title": "[UPDATE] [hoch] OpenSSL: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T10:07:44+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3638"
+      },
+      {
+        "title": "[UPDATE] [mittel] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T10:07:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3652"
+      },
+      {
+        "title": "[UPDATE] [hoch] Podman: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-01T10:07:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3651"
       },
       {
         "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
@@ -31,27 +73,6 @@
         "published_at": "2026-10-01T08:58:00.000+00:00",
         "relevance_score": 7,
         "url": "https://www.heise.de/news/TeamViewer-Codeschmuggel-Luecke-verpasst-nur-knapp-kritische-Einstufung-11472313.html"
-      },
-      {
-        "title": "Treiber-Lücken gefährden Linux- und Windows-PCs mit Nvidia-GPU",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-01T08:47:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Treiber-Luecken-gefaehrden-Linux-und-Windows-PCs-mit-Nvidia-GPU-11472265.html"
-      },
-      {
-        "title": "Attacken auf IT-Verwaltungsplattform HPE OneView möglich",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-01T08:06:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Attacken-auf-IT-Verwaltungsplattform-HPE-OneView-moeglich-11472151.html"
-      },
-      {
-        "title": "WatchGuard schließt teils kritische Lücken in Fireware OS",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-01T07:24:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/WatchGuard-schliesst-teils-kritische-Luecken-in-Fireware-OS-11472101.html"
       }
     ],
     "ai": [
@@ -237,6 +258,13 @@
         "url": "https://services.digital.go.jp/gbiz-portal/news/20261001-01/"
       },
       {
+        "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-01T07:26:23+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001933/"
+      },
+      {
         "title": "睡眠中に「ピンクノイズ」を聞くと“脳内ゴミ”の洗い流しが強まる？ 米MITが人間で実験 Science系列誌で発表",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-01T03:02:41+00:00",
@@ -249,13 +277,6 @@
         "published_at": "2026-10-01T01:25:00+00:00",
         "relevance_score": 5,
         "url": "https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/"
-      },
-      {
-        "title": "さよならイルカショー",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-30T23:23:44+00:00",
-        "relevance_score": 5,
-        "url": "https://blog.tinect.jp/?p=91526"
       }
     ]
   }
