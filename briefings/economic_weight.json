@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T00:53:23+00:00",
+  "generated_at": "2026-10-02T01:21:30+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -5911,8 +5911,8 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-02T01:21:11+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_6bd9db655618cf846ffa",
@@ -6848,6 +6848,40 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8cab67b801cb268d26d1",
+      "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-02T01:21:11+00:00",
+      "last_seen_at": "2026-10-02T01:21:11+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_653323f9f4c036c34220",
+      "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-02T01:21:11+00:00",
+      "last_seen_at": "2026-10-02T01:21:11+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -9651,7 +9685,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:29:39+00:00",
-      "last_seen_at": "2026-10-02T00:53:05+00:00",
+      "last_seen_at": "2026-10-02T01:21:11+00:00",
       "status": "active"
     },
     {
@@ -15080,6 +15114,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_7acbc5742e08c4e2324e",
+      "title": "The agritech credit paradox: Lessons from TaniHub and Indonesia’s first agritech generation",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "credit"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-02T01:21:11+00:00",
+      "last_seen_at": "2026-10-02T01:21:11+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_01f8d7013bd851003572",
       "title": "松本大臣記者会見（令和8年9月15日）動画を掲載しました",
       "event_classes": [
@@ -16674,7 +16725,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-10-02T00:53:05+00:00",
+      "last_seen_at": "2026-10-02T01:21:11+00:00",
       "status": "active"
     },
     {
@@ -16827,7 +16878,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-10-02T00:53:05+00:00",
+      "last_seen_at": "2026-10-02T01:21:11+00:00",
       "status": "active"
     },
     {
@@ -18391,8 +18442,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T08:23:39+00:00",
-      "last_seen_at": "2026-09-03T08:28:23+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-02T01:21:11+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_d287334bcfcb1ae2d454",
