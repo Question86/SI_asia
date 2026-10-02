@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-02T10:46:47+00:00_
+_Generated: 2026-10-02T10:55:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `45`
+- findings: `48`
 
 ## Top Signals
 
@@ -29,19 +29,19 @@ _Generated: 2026-10-02T10:46:47+00:00_
 - url: https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/
 - summary: For many startup founders, the first attempt to understand the cost of artificial intelligence (AI) begins in the wrong place: the model provider’s pricing page. They calculate the price of input and output tokens, compare one model against another, and try t…
 
-### 4. [NEU] [UNGEPATCHT] [kritisch] Foreman: Mehrere Schwachstellen
+### 4. [NEU] [UNGEPATCHT] [mittel] CUPS: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-02T10:51:29+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3715
+- summary: Ein lokaler Angreifer kann mehrere Schwachstellen in CUPS ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen.
+
+### 5. [NEU] [UNGEPATCHT] [kritisch] Foreman: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-02T10:26:30+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3712
 - summary: Ein Angreifer kann mehrere Schwachstellen in Foreman ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.
-
-### 5. CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-10-02T10:00:15+09:00`
-- url: https://jvn.jp/vu/JVNVU91842649/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
 ### 6. Euro area quarterly balance of payments and international investment position: second quarter of 2026
 - source: ECB Statistical Press Releases

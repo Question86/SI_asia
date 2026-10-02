@@ -103,6 +103,30 @@
     "id": "7cba2d79e83404c06dd5"
   },
   {
+    "title": "[NEU] [UNGEPATCHT] [mittel] CUPS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3715",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-02T10:51:29+00:00",
+    "fetched_at": "2026-10-02T10:54:56+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in CUPS ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Patch",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f94e2e610714a2292eb5"
+  },
+  {
     "title": "[NEU] [UNGEPATCHT] [kritisch] Foreman: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3712",
     "source": "BSI CERT-Bund Security Advisories",
@@ -303,6 +327,52 @@
       "LOW"
     ],
     "id": "e84985033db4b91208af"
+  },
+  {
+    "title": "[NEU] [mittel] OpenBao: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3714",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-02T10:51:29+00:00",
+    "fetched_at": "2026-10-02T10:54:56+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenBao ausnutzen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "96932fd06a88f623bc1b"
+  },
+  {
+    "title": "[UPDATE] [mittel] Python: Schwachstelle ermöglicht Manipulation und Offenlegung von Daten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3367",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-02T10:46:29+00:00",
+    "fetched_at": "2026-10-02T10:54:56+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Python ausnutzen, um Daten zu manipulieren oder offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8a0fcaabd2c0266ca1d2"
   },
   {
     "title": "[NEU] [mittel] Bouncy Castle: Mehrere Schwachstellen",
