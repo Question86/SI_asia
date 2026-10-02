@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-02T05:00:40+00:00_
+_Generated: 2026-10-02T05:23:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `23`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-02T05:00:40+00:00_
 - url: https://jvn.jp/vu/JVNVU94648869/
 - summary: The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.69が公開されました。
 
-### 5. MoneyHero’s activist investor wants a sale. Richard Li holds the real vote
+### 5. はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-02T02:39:19+00:00`
+- url: https://labo.hatenastaff.com/entry/2026/10/02/113000
+- summary: はてな匿名ダイアリー20周年の取り組みのひとつとして、実験的に新しい技術への対応を進めています。 先日お知らせしたChatGPTに続き、Claudeからもはてな匿名ダイアリーを利用できるようになりました。 Claudeとの会話の中から、はてな匿名ダイアリーの投稿を探したり、読んだり、投稿*1したりできます。 Claudeからは...
+
+### 6. MoneyHero’s activist investor wants a sale. Richard Li holds the real vote
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-10-02T02:26:14+00:00`
 - url: https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/
 - summary: Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board…
 
-### 6. M 5.1 - 159 km SE of Gizo, Solomon Islands
+### 7. The advice gap: Why VCs don’t practice what they preach
+- source: e27 Asia Startup and Tech Feed
+- score: `9`
+- published: `2026-10-02T05:00:25+00:00`
+- url: https://e27.co/the-advice-gap-why-vcs-dont-practice-what-they-preach-20261002/
+- summary: Walk into any pitch meeting, attend any LP conference, or read any VC blog, and you’ll be handed the same well-worn gospel: build diverse teams, move fast, be transparent, hire for culture, flatten hierarchies, and always be learning. This is the catechism of…
+
+### 8. M 5.1 - 159 km SE of Gizo, Solomon Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-02T04:59:37.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl
 - summary: Time 2026-10-02 04:44:53 UTC 2026-10-02 04:44:53 UTC at epicenter Location 8.933°S 158.022°E Depth 10.00 km (6.21 mi)
-
-### 7. M 4.9 - 97 km S of Panguna, Papua New Guinea
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-02T04:49:51.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzg
-- summary: Time 2026-10-02 04:10:58 UTC 2026-10-02 04:10:58 UTC at epicenter Location 7.185°S 155.608°E Depth 35.00 km (21.75 mi)
-
-### 8. M 5.0 - south of the Fiji Islands
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-02T04:42:18.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzi
-- summary: Time 2026-10-02 04:27:05 UTC 2026-10-02 04:27:05 UTC at epicenter Location 24.775°S 178.645°E Depth 557.25 km (346.26 mi)
 
 END OF DOCUMENT
