@@ -1,53 +1,29 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-02T02:23:27Z",
+  "generated_at": "2026-10-02T02:48:19Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 16,
+    "dynamics": 20,
     "bands": {
       "krass": 3,
       "strong": 2,
-      "watch": 2,
-      "quiet": 9
+      "watch": 3,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 2,
-      "quiet": 9
+      "watch": 3,
+      "quiet": 12
     }
   },
   "top_dynamics": [
-    {
-      "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU92911062/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）",
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:15+09:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -73,7 +49,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:30+09:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -99,7 +75,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:00+09:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -125,7 +101,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -135,14 +111,38 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "high terms: 10",
         "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92911062/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-02T01:21:11+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -151,7 +151,7 @@
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 105.02,
+      "age_days": 105.03,
       "topics": [
         "general"
       ],
@@ -174,26 +174,74 @@
       "summary": ""
     },
     {
-      "title": "The agritech credit paradox: Lessons from TaniHub and Indonesia’s first agritech generation",
-      "url": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/",
+      "title": "MoneyHero’s activist investor wants a sale. Richard Li holds the real vote",
+      "url": "https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-10-02T02:36:37+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.5,
+      "dynamics_score": 17.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The agritech credit paradox: Lessons from TaniHub and Indonesia’s first agritech generation",
+      "url": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-02T01:21:11+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "思考を整理できる便利ツール「Obsidian」を愛用する6つの理由 | ライフハッカー・ジャパン",
+      "url": "https://www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-02T02:36:37+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -202,11 +250,11 @@
       "url": "https://note.com/npaka/n/n4a1185074686",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 31.32,
+      "age_days": 31.34,
       "topics": [
         "general"
       ],
-      "dynamics_score": 10.39,
+      "dynamics_score": 10.38,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -223,11 +271,61 @@
       "summary": ""
     },
     {
+      "title": "思考を整理できる便利ツール「Obsidian」を愛用する6つの理由 | ライフハッカー・ジャパン",
+      "url": "https://www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-01T14:05:52+00:00",
+      "age_days": 0.53,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "リサーチプロジェクトはすぐに混沌としてしまうものです。 だからこそ、思考やアイデアをスムーズにつなぎ、使いやすいツールが必要です。それが私にとっての「Obsidian」なのです。 1. 双方向リンクでノート同士をつなげられるWordのような直線的なツールでは、ノート同士を論理的に結びつけられず、スクロールで迷子に..."
+    },
+    {
+      "title": "MoneyHero’s activist investor wants a sale. Richard Li holds the real vote",
+      "url": "https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-02T02:26:14+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board to hire an independent adviser and explore a sale. Honig’s…"
+    },
+    {
       "title": "『六韜』「隣国の使者が有能なら何も与えず無能なら大いに歓待せよ」というのはデマだぞ",
       "url": "https://anond.hatelabo.jp/20260514203244",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 104.58,
+      "age_days": 104.59,
       "topics": [
         "general"
       ],
@@ -252,7 +350,7 @@
       "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T23:26:31+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -278,7 +376,7 @@
       "url": "https://anond.hatelabo.jp/20260514203244",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T15:45:56+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -302,7 +400,7 @@
       "url": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T01:00:55+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -328,7 +426,7 @@
       "url": "https://note.com/npaka/n/n4a1185074686",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T22:53:10+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -354,7 +452,7 @@
       "url": "https://www.techno-edge.net/article/2026/10/02/5544.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T22:41:14+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -380,11 +478,11 @@
       "url": "https://www.techno-edge.net/article/2026/10/02/5544.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T08:23:39+00:00",
-      "age_days": 32.75,
+      "age_days": 32.77,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 1.89,
+      "dynamics_score": 1.88,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -397,7 +495,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -4.1 for 32.7d old signal",
+        "aging penalty -4.1 for 32.8d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -407,7 +505,7 @@
       "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 104.62,
+      "age_days": 104.64,
       "topics": [
         "ai"
       ],
@@ -430,5 +528,5 @@
       "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
