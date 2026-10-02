@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-02T02:07:45+00:00",
+  "generated_at": "2026-10-02T02:36:35+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 2,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 3,
-    "observe": 5
+    "observe": 7
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,6 +45,16 @@
       "section": "medium"
     },
     {
+      "title": "MoneyHero’s activist investor wants a sale. Richard Li holds the real vote",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-02T02:26:14+00:00",
+      "relevance_score": 11,
+      "url": "https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/",
+      "summary": "Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board…",
+      "section": "observe"
+    },
+    {
       "title": "AI時代の勉強法(2026)",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -73,16 +83,6 @@
       "url": "https://note.com/npaka/n/n4a1185074686",
       "summary": "12GB VRAMで125Bモデルを動かす「Strata」の概要をまとめました。 1. はじめにローカルLLMでは、GPUのVRAM容量が大きな制約になります。特に100Bを超えるモデルは、量子化しても一般的なGPUのVRAMだけで動かすのは困難です。 そこで登場したのが、AI推論エンジン「Strata」です。 Strataは、GPUとCPUで計算を分担し、VRA...",
       "section": "observe"
-    },
-    {
-      "title": "新Kindle 計6モデル発売 頁めくりリモコンKindle Click、物理ボタンつきカバーも | テクノエッジ TechnoEdge",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-01T22:41:14+00:00",
-      "relevance_score": 5,
-      "url": "https://www.techno-edge.net/article/2026/10/02/5544.html",
-      "summary": "Amazonは10月1日、電子書籍リーダー「Kindle」「Kindle Paperwhite」「Kindle Colorsoft」の新モデルとアクセサリを発表しました。 無印 Kindleは3シリーズそれぞれに標準モデルと、アルミニウム背面と32GBストレージを備える上位モデルで計6機種。すでに購入できます。 ■ 全モデル薄型化、無印Kindleもフラットデザイン...",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -90,139 +90,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）",
-        "url": "https://jvn.jp/vu/JVNVU91842649/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T10:00:15+09:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
-        "url": "https://jvn.jp/vu/JVNVU94648869/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T10:00:30+09:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.69が公開されました。"
-      },
-      {
-        "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU92911062/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T10:00:00+09:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU92911062/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T01:21:11+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +2"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
-        "url": "https://jvn.jp/vu/JVNVU94648869/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T01:21:11+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +2",
-          "high terms: 10",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

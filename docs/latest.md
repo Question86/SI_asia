@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T02:07:45+00:00_
+_Generiert: 2026-10-02T02:36:35+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+10 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -42,6 +42,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **MoneyHero’s activist investor wants a sale. Richard Li holds the real vote** — Score 11, observation — [Quelle](https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-02T02:26:14+00:00`, fetched `2026-10-02T02:36:06+00:00`
+  - Treffer: APAC Trend Radar, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)
+  - Kurz: Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board to hire an independent adviser and explore a sale. Honig’s […] The post MoneyHero’s activist investor wants a sale. Richard Li holds the real vote appeared fir…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI時代の勉強法(2026)** — Score 8, observation — [Quelle](https://iwashi.co/2026/10/01/how-to-study-in-ai-era)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-01T23:26:31+00:00`, fetched `2026-10-02T00:52:30+00:00`
