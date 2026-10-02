@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T12:59:20+00:00_
+_Generiert: 2026-10-02T13:22:55+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk).
+57 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -241,6 +241,15 @@ _Generiert: 2026-10-02T12:59:20+00:00_
   - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Households and non-financial corporations in the euro area: second quarter of 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-10-02T13:00:00+00:00`, fetched `2026-10-02T13:22:25+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 63 km SW of Panguna, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz0x)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-02T11:33:54.040+00:00`, fetched `2026-10-02T11:34:44+00:00`
@@ -321,15 +330,6 @@ _Generiert: 2026-10-02T12:59:20+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 政策ダッシュボード一覧に国土強靭化の取組に関するダッシュボード（内閣官房）を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **古川大臣記者会見（令和8年10月2日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261002-01)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-02T04:10:03+00:00`, fetched `2026-10-02T04:24:13+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 古川大臣記者会見（令和8年10月2日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
