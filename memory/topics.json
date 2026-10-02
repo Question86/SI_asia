@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-02T11:23:15+00:00",
+  "generated_at": "2026-10-02T11:35:12+00:00",
   "topics": {
     "ai": [
       {
@@ -133,18 +133,18 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3708"
       },
       {
+        "title": "[NEU] [hoch] OpenCTI: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T11:26:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3717"
+      },
+      {
         "title": "[NEU] [hoch] CPython: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-02T11:11:29+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3716"
-      },
-      {
-        "title": "[NEU] [mittel] OpenBao: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T10:51:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3714"
       }
     ],
     "geopolitics": [
@@ -184,6 +184,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3708"
       },
       {
+        "title": "[NEU] [hoch] OpenCTI: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T11:26:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3717"
+      },
+      {
         "title": "[NEU] [hoch] CPython: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-02T11:11:29+00:00",
@@ -210,13 +217,6 @@
         "published_at": "2026-10-02T10:26:30+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3709"
-      },
-      {
-        "title": "[NEU] [hoch] LiteLLM: Schwachstelle ermöglicht Offenlegung von Informationen und potenziell Privilegieneskalation",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T10:26:30+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3711"
       }
     ],
     "economy": [
@@ -233,6 +233,13 @@
         "published_at": "2026-10-02T04:48:10+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/"
+      },
+      {
+        "title": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-10-02T11:30:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html"
       },
       {
         "title": "SMEs adopt AI four times slower than big business, the fix starts with the PC",
@@ -279,6 +286,13 @@
         "url": "https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/"
       },
       {
+        "title": "M 5.0 - 63 km SW of Panguna, Papua New Guinea",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-02T11:33:54.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz0x"
+      },
+      {
         "title": "M 4.8 - 35 km SSW of El Colomo, Mexico",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-02T07:11:55.040+00:00",
@@ -312,13 +326,6 @@
         "published_at": "2026-10-02T04:42:18.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzi"
-      },
-      {
-        "title": "令和7年度（2025年度）特別職国家公務員の再就職状況を公表しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-10-02T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/news/90de4098-6f70-433f-a492-7ab11d87e72d"
       }
     ],
     "github": [
