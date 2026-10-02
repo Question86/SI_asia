@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T15:22:47+00:00",
+  "generated_at": "2026-10-02T15:36:43+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -724,7 +724,7 @@
       "p90_usd": 112800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T02:36:37+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
@@ -741,7 +741,7 @@
       "p90_usd": 112800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T11:05:22+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
@@ -1389,7 +1389,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
@@ -1457,8 +1457,8 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T06:55:03+00:00",
-      "last_seen_at": "2026-09-30T23:58:42+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_d15aba8293f087de53e5",
@@ -1525,7 +1525,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T07:22:32+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
@@ -4450,7 +4450,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-02T11:35:14+00:00",
       "last_seen_at": "2026-10-02T15:22:26+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_71ac5271a48927f2471c",
@@ -4960,7 +4960,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-02T14:19:39+00:00",
       "last_seen_at": "2026-10-02T15:22:26+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9bb3d038caab21897797",
@@ -5962,7 +5962,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
@@ -6017,6 +6017,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ff33cb52e3f0b9512118",
+      "title": "Repository security advisory comments API in public preview",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 298000.0,
+      "p50_usd": 29800000.0,
+      "p90_usd": 2980000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-02T15:36:24+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f8de791871e85abc0655",
       "title": "Vulnérabilité dans Microsoft Entra ID (21 août 2026)",
       "event_classes": [
@@ -6047,7 +6064,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T14:59:44+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
@@ -6081,7 +6098,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
@@ -6523,7 +6540,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T01:21:11+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
@@ -6642,7 +6659,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T01:21:11+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
@@ -7832,7 +7849,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T03:29:31+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
@@ -7934,7 +7951,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T11:23:17+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
@@ -8546,7 +8563,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T04:53:55+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
@@ -9791,6 +9808,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_703b834d9c964a10697a",
+      "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_7fed16e421341a71fc3c",
       "title": "nab138/iloader",
       "event_classes": [
@@ -9993,23 +10027,6 @@
       "first_seen_at": "2026-09-09T08:08:20+00:00",
       "last_seen_at": "2026-09-09T23:54:37+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_703b834d9c964a10697a",
-      "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 114400.0,
-      "p50_usd": 11440000.0,
-      "p90_usd": 1144000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-02T15:22:26+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_03c35d005070efd2a4d6",
@@ -10450,7 +10467,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
@@ -11454,7 +11471,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
@@ -11863,7 +11880,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T13:36:30+00:00",
       "last_seen_at": "2026-10-02T15:22:26+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_422b2d216a325decccdc",
@@ -12835,6 +12852,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_35b7ffbfeee548339237",
+      "title": "New fields for SecurityAdvisory GraphQL API",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-02T15:36:24+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_09036b8b28293de638ea",
       "title": "生成AIで「デザイナー不要論」に、僕はこう答える 杉山知之デジハリ大前学長・回答全文 AI×人間",
       "event_classes": [
@@ -12933,7 +12967,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
@@ -18374,7 +18408,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T07:48:35+00:00",
-      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:36:24+00:00",
       "status": "active"
     },
     {
