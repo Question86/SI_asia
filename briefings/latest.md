@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T03:29:28+00:00_
+_Generiert: 2026-10-02T03:49:10+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „The hidden economics of autonomous AI agents“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+14 neue relevante Treffer. Stärkstes Signal: „The hidden economics of autonomous AI agents“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -143,14 +143,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに つい最近、今の勉強法を簡単に記したXのポストをした。本記事では、もう少し掘り下げてまとめて書いてみようと思う。2026年のスナップショットであり、来年以降に読み返したら面白いかもしれないので。 なおこの記事は、文章の誤字脱字チェック以外には生成AIを活用しておらず、すべて手でタイプしている。 基...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The agritech credit paradox: Lessons from TaniHub and Indonesia’s first agritech generation** — Score 7, observation — [Quelle](https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/)
+- **The next information advantage is knowing what changed** — Score 7, observation — [Quelle](https://e27.co/the-next-information-advantage-is-knowing-what-changed-20260930/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-02T01:00:55+00:00`, fetched `2026-10-02T01:20:34+00:00`
-  - Treffer: APAC Trend Radar
+  - Zeit: published `2026-10-02T03:30:15+00:00`, fetched `2026-10-02T03:48:37+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
-  - Kurz: Indonesia’s agritech sector looks different in 2026 than it did when TaniHub raised its Series B in 2021. The cohort of platforms that emerged in the late 2010s — TaniHub, Crowde, iGrow, Sayurbox, and others — aimed to do for smallholder agriculture what fintech had done for SME credit: build technology infrastructure for a segment […] The post The agritech credit paradox: Lessons from TaniHub and Indonesia’s first…
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: AI has made it much easier for decision-makers to work with information. A company announcement can be summarised in seconds, a long annual report can be condensed, and a chatbot can help compare competitors or explain an unfamiliar industry. These are useful improvements, but they still solve only part of the information problem. Most AI […] The post The next information advantage is knowing what changed appeared f…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）** — Score 6, observation — [Quelle](https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/)
   - Quelle: Japan Digital Agency News RSS / `rss`
