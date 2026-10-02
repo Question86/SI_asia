@@ -1,12 +1,24 @@
 # Economic Evidence Candidates
 
-Generated: `2026-10-02T07:48:04+00:00`
+Generated: `2026-10-02T08:29:44+00:00`
 
 > Candidates are not accepted evidence and carry no causal attribution.
 
 | Event | Amount | Currency | Confidence | Source | Status |
 |---|---:|---|---:|---|---|
 | `evt_624a2e3ce3ccd3efe095` | 2,000,000,000,000 | USD | 0.88 | primary_hint | pending |
+| `evt_43856848b80264610146` | 18,050,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 3,480,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 3,450,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 3,290,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 3,180,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 3,170,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 3,080,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 1,940,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 1,940,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 1,910,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 1,890,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 1,760,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 1,755,400,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 1,752,500,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 1,400,000,000,000 | EUR | 0.80 | primary_hint | pending |
@@ -16,33 +28,21 @@ Generated: `2026-10-02T07:48:04+00:00`
 | `evt_43856848b80264610146` | 786,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 600,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 600,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 598,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 520,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_624a2e3ce3ccd3efe095` | 430,000,000,000 | USD | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 400,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 370,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 357,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 304,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 298,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 265,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 263,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 255,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 252,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 215,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 209,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 193,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 184,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 179,000,000,000 | EUR | 0.80 | primary_hint | pending |
-| `evt_624a2e3ce3ccd3efe095` | 100,000,000,000 | USD | 0.80 | primary_hint | pending |
-| `evt_43856848b80264610146` | 100,000,000,000 | EUR | 0.80 | primary_hint | pending |
-| `evt_43856848b80264610146` | 59,000,000,000 | EUR | 0.80 | primary_hint | pending |
-| `evt_43856848b80264610146` | 40,000,000,000 | EUR | 0.80 | primary_hint | pending |
-| `evt_43856848b80264610146` | 30,000,000,000 | EUR | 0.80 | primary_hint | pending |
-| `evt_43856848b80264610146` | 1,000,000,000 | EUR | 0.80 | primary_hint | pending |
-| `evt_624a2e3ce3ccd3efe095` | 1,000,000 | USD | 0.80 | primary_hint | pending |
-| `evt_43856848b80264610146` | 1,000,000 | EUR | 0.80 | primary_hint | pending |
-| `evt_43856848b80264610146` | 1,000,000 | EUR | 0.80 | primary_hint | pending |
-| `evt_43856848b80264610146` | 1,000,000 | EUR | 0.80 | primary_hint | pending |
-| `evt_43856848b80264610146` | 1,000,000 | EUR | 0.80 | primary_hint | pending |
-| `evt_624a2e3ce3ccd3efe095` | 3,500 | USD | 0.80 | primary_hint | pending |
-| `evt_624a2e3ce3ccd3efe095` | 1,000 | USD | 0.80 | primary_hint | pending |
-| `evt_89b02835b3e32a9fb33f` | 100 | USD | 0.80 | primary_hint | pending |
-| `evt_89b02835b3e32a9fb33f` | 50 | USD | 0.80 | primary_hint | pending |
-| `evt_3cb5980444e3bd7e9296` | 6 | USD | 0.80 | primary_hint | pending |
-| `evt_3cb5980444e3bd7e9296` | 5 | USD | 0.80 | primary_hint | pending |
-| `evt_566b9c70a07073da651c` | 4 | USD | 0.80 | primary_hint | pending |
-| `evt_624a2e3ce3ccd3efe095` | 6,400,000,000,000 | USD | 0.68 | primary_hint | pending |
-| `evt_624a2e3ce3ccd3efe095` | 5,000,000,000,000 | USD | 0.68 | primary_hint | pending |
-| `evt_624a2e3ce3ccd3efe095` | 1,800,000,000,000 | USD | 0.68 | primary_hint | pending |
-| `evt_5a8609c38e0d544999d3` | 2,000,000,000,000 | USD | 0.63 | secondary_or_unknown | pending |
+| `evt_43856848b80264610146` | 165,000,000,000 | EUR | 0.80 | primary_hint | pending |
