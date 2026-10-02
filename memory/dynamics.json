@@ -1,42 +1,223 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-02T01:19:09Z",
+  "generated_at": "2026-10-02T01:55:54Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 6,
+    "dynamics": 16,
     "bands": {
+      "krass": 3,
+      "strong": 2,
       "watch": 1,
-      "quiet": 5
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
+      "strong": 5,
       "watch": 1,
-      "quiet": 5
+      "quiet": 10
     }
   },
   "top_dynamics": [
     {
-      "title": "12GB VRAMで125Bモデルを動かす「Strata」の概要｜npaka",
-      "url": "https://note.com/npaka/n/n4a1185074686",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 31.27,
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）",
+      "url": "https://jvn.jp/vu/JVNVU91842649/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-02T10:00:15+09:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+    },
+    {
+      "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
+      "url": "https://jvn.jp/vu/JVNVU94648869/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-02T10:00:30+09:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.69が公開されました。"
+    },
+    {
+      "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92911062/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-02T10:00:00+09:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+    },
+    {
+      "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
+      "url": "https://jvn.jp/vu/JVNVU94648869/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-02T01:21:11+00:00",
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.09,
-      "raw_band": "watch",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "high terms: 10",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92911062/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-02T01:21:11+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）",
+      "url": "https://jvn.jp/vu/JVNVU91842649/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 105.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: 10",
+        "aging penalty -8.0 for 105.0d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The agritech credit paradox: Lessons from TaniHub and Indonesia’s first agritech generation",
+      "url": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-02T01:21:11+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "12GB VRAMで125Bモデルを動かす「Strata」の概要｜npaka",
+      "url": "https://note.com/npaka/n/n4a1185074686",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 31.3,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.39,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.90",
         "aging penalty -3.6 for 31.3d old signal"
       ],
       "summary": ""
@@ -46,52 +227,23 @@
       "url": "https://anond.hatelabo.jp/20260514203244",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 104.53,
+      "age_days": 104.56,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.69,
+      "dynamics_score": 6.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -8.0 for 104.5d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AI時代の勉強法(2026)",
-      "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 104.58,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.62,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 1.93,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 1.93",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 104.6d old signal",
-        "single-source AI cap enforced after phrase recheck"
+        "aging penalty -8.0 for 104.6d old signal"
       ],
       "summary": ""
     },
@@ -100,7 +252,7 @@
       "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T23:26:31+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -126,7 +278,7 @@
       "url": "https://anond.hatelabo.jp/20260514203244",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T15:45:56+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -146,11 +298,37 @@
       "summary": "トランプが訪中したところ、盛大なパレードで歓待を受けた。これに対して六韜の一節と言われる文言を貼る人が多いが、実はこれはデマなので指摘するぞ。 https://togetter.com/li/2696932 この一節はネットで広く知られているし、外交や国際関係、安全保障畑の人らも良く引用している。だから増田もずっと信じていた。 ..."
     },
     {
+      "title": "The agritech credit paradox: Lessons from TaniHub and Indonesia’s first agritech generation",
+      "url": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-02T01:00:55+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Indonesia’s agritech sector looks different in 2026 than it did when TaniHub raised its Series B in 2021. The cohort of platforms that emerged in the late 2010s — TaniHub, Crowde, iGrow, Sayurbox, and others — aimed to do for smallholder agriculture what fintech had done for SME credit: build technology infrastructure…"
+    },
+    {
       "title": "12GB VRAMで125Bモデルを動かす「Strata」の概要｜npaka",
       "url": "https://note.com/npaka/n/n4a1185074686",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T22:53:10+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -170,7 +348,87 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "12GB VRAMで125Bモデルを動かす「Strata」の概要をまとめました。 1. はじめにローカルLLMでは、GPUのVRAM容量が大きな制約になります。特に100Bを超えるモデルは、量子化しても一般的なGPUのVRAMだけで動かすのは困難です。 そこで登場したのが、AI推論エンジン「Strata」です。 Strataは、GPUとCPUで計算を分担し、VRA..."
+    },
+    {
+      "title": "新Kindle 計6モデル発売 頁めくりリモコンKindle Click、物理ボタンつきカバーも | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/10/02/5544.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-01T22:41:14+00:00",
+      "age_days": 0.14,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Amazonは10月1日、電子書籍リーダー「Kindle」「Kindle Paperwhite」「Kindle Colorsoft」の新モデルとアクセサリを発表しました。 無印 Kindleは3シリーズそれぞれに標準モデルと、アルミニウム背面と32GBストレージを備える上位モデルで計6機種。すでに購入できます。 ■ 全モデル薄型化、無印Kindleもフラットデザイン..."
+    },
+    {
+      "title": "新Kindle 計6モデル発売 頁めくりリモコンKindle Click、物理ボタンつきカバーも | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/10/02/5544.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-30T08:23:39+00:00",
+      "age_days": 32.73,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 1.89,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "aging penalty -4.1 for 32.7d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "AI時代の勉強法(2026)",
+      "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T11:28:55+00:00",
+      "age_days": 104.6,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 1.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 104.6d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “12GB VRAMで125Bモデルを動かす「Strata」の概要｜npaka” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=16.09."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
