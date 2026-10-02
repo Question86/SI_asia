@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T17:32:12+00:00",
+  "generated_at": "2026-10-02T18:00:37+00:00",
   "sections": {
     "global_security": [
       {
@@ -131,21 +131,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001331",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.8 - 165 km SSE of Vilyuchinsk, Russia",
-        "summary": "M5.8 - 165 km SSE of Vilyuchinsk, Russia. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz62",
-        "published_at": "2026-10-02T16:34:41+00:00",
-        "metrics": {
-          "mag": 5.8,
-          "alert": "green",
-          "sig": 518.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
