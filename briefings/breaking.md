@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-02T12:11:45+00:00_
+_Generiert: 2026-10-02T12:40:52+00:00_
 
 ## FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar
 
-- Ranking Score: `31.03`
+- Ranking Score: `30.89`
 - Raw Network Score: `26.1`
 - Max Monitor Score: `24`
 - Reichweite: `specialist` / `2.5`
