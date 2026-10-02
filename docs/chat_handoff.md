@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-02T07:00:15+00:00_
+_Generated: 2026-10-02T07:28:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `30`
 
 ## Top Signals
 
@@ -36,12 +36,12 @@ _Generated: 2026-10-02T07:00:15+00:00_
 - url: https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/
 - summary: For years, companies have treated Google rankings as the front door to online discovery. A new study from Manila-based digital marketing agency Spiralytics suggests that door is no longer the only one that matters. As consumers increasingly ask ChatGPT, Googl…
 
-### 5. M 4.8 - 192 km WNW of Tobelo, Indonesia
+### 5. M 4.5 - 101 km NE of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-10-02T06:12:24.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzt
-- summary: Time 2026-10-02 05:38:55 UTC 2026-10-02 05:38:55 UTC at epicenter Location 2.578°N 126.494°E Depth 10.00 km (6.21 mi)
+- published: `2026-10-02T07:24:34.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzy
+- summary: Time 2026-10-02 06:48:06 UTC 2026-10-02 06:48:06 UTC at epicenter Location 7.951°S 121.099°E Depth 10.00 km (6.21 mi)
 
 ### 6. はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ
 - source: Hatena Bookmark Hotentry IT
@@ -57,18 +57,18 @@ _Generated: 2026-10-02T07:00:15+00:00_
 - url: https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/
 - summary: Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board…
 
-### 8. The advice gap: Why VCs don’t practice what they preach
+### 8. M 4.8 - 35 km SSW of El Colomo, Mexico
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-02T07:11:55.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzx
+- summary: Time 2026-10-02 06:53:35 UTC 2026-10-02 06:53:35 UTC at epicenter Location 18.756°N 104.375°W Depth 23.97 km (14.90 mi)
+
+### 9. The advice gap: Why VCs don’t practice what they preach
 - source: e27 Asia Startup and Tech Feed
 - score: `9`
 - published: `2026-10-02T05:00:25+00:00`
 - url: https://e27.co/the-advice-gap-why-vcs-dont-practice-what-they-preach-20261002/
 - summary: Walk into any pitch meeting, attend any LP conference, or read any VC blog, and you’ll be handed the same well-worn gospel: build diverse teams, move fast, be transparent, hire for culture, flatten hierarchies, and always be learning. This is the catechism of…
-
-### 9. M 5.1 - 159 km SE of Gizo, Solomon Islands
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-02T04:59:37.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl
-- summary: Time 2026-10-02 04:44:53 UTC 2026-10-02 04:44:53 UTC at epicenter Location 8.933°S 158.022°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
