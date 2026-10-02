@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-02T13:22:57+00:00_
+_Generiert: 2026-10-02T13:36:30+00:00_
 
 ## FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar
 
-- Ranking Score: `30.6`
+- Ranking Score: `30.46`
 - Raw Network Score: `26.1`
 - Max Monitor Score: `24`
 - Reichweite: `specialist` / `2.5`
@@ -19,8 +19,8 @@ _Generiert: 2026-10-02T13:22:57+00:00_
 
 ## Euro area quarterly balance of payments and international investment position: second quarter of 2026
 
-- Ranking Score: `27.23`
-- Raw Network Score: `30.4`
+- Ranking Score: `23.5`
+- Raw Network Score: `27.4`
 - Max Monitor Score: `13`
 - Reichweite: `institutional` / `5.0`
 - Early Signal: `nein`
@@ -28,7 +28,7 @@ _Generiert: 2026-10-02T13:22:57+00:00_
 - Quellen: ECB Press Releases Speeches Interviews, ECB Statistical Press Releases
 - Klassen: central_bank, tier3_specialist
 - Cross-source bestaetigt: ja
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html
 - Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 
