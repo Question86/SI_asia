@@ -50,5 +50,142 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “12GB VRAMで125Bモデルを動かす「Strata」の概要｜npaka” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=16.09.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "12GB VRAMで125Bモデルを動かす「Strata」の概要｜npaka",
+        "url": "https://note.com/npaka/n/n4a1185074686",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-31T18:43:10+00:00",
+        "age_days": 31.27,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 16.09,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.9,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.90",
+          "aging penalty -3.6 for 31.3d old signal"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "『六韜』「隣国の使者が有能なら何も与えず無能なら大いに歓待せよ」というのはデマだぞ",
+        "url": "https://anond.hatelabo.jp/20260514203244",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T12:31:48+00:00",
+        "age_days": 104.53,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 11.69,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.9,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.90",
+          "aging penalty -8.0 for 104.5d old signal"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "AI時代の勉強法(2026)",
+        "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T11:28:55+00:00",
+        "age_days": 104.58,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 5.62,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 1.93,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 1.93",
+          "single-source AI hype brake -8.0",
+          "aging penalty -8.0 for 104.6d old signal"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "AI時代の勉強法(2026)",
+        "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-01T23:26:31+00:00",
+        "age_days": 0.08,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 5.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "high terms: 10",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": "はじめに つい最近、今の勉強法を簡単に記したXのポストをした。本記事では、もう少し掘り下げてまとめて書いてみようと思う。2026年のスナップショットであり、来年以降に読み返したら面白いかもしれないので。 なおこの記事は、文章の誤字脱字チェック以外には生成AIを活用しておらず、すべて手でタイプしている。 基..."
+      },
+      {
+        "title": "『六韜』「隣国の使者が有能なら何も与えず無能なら大いに歓待せよ」というのはデマだぞ",
+        "url": "https://anond.hatelabo.jp/20260514203244",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-01T15:45:56+00:00",
+        "age_days": 0.4,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 5.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "no strong comparative reason"
+        ],
+        "summary": "トランプが訪中したところ、盛大なパレードで歓待を受けた。これに対して六韜の一節と言われる文言を貼る人が多いが、実はこれはデマなので指摘するぞ。 https://togetter.com/li/2696932 この一節はネットで広く知られているし、外交や国際関係、安全保障畑の人らも良く引用している。だから増田もずっと信じていた。 ..."
+      }
+    ]
+  }
 }
