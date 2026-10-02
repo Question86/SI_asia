@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-02T04:40:44+00:00",
+  "generated_at": "2026-10-02T04:53:51+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 3,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
-    "medium": 4,
-    "observe": 12
+    "medium": 5,
+    "observe": 14
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "Why Philippine companies are winning AI mentions but losing control of context",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-02T04:48:10+00:00",
+      "relevance_score": 16,
+      "url": "https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/",
+      "summary": "For years, companies have treated Google rankings as the front door to online discovery. A new study from Manila-based digital marketing agency Spiralytics suggests that door is no longer the only one that matters. As consumers increasingly ask ChatGPT, Googl…",
+      "section": "medium"
+    },
+    {
       "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 14,
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "summary": "The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.69が公開されました。",
-      "section": "medium"
-    },
-    {
-      "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-02T10:00:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU92911062/",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "section": "medium"
     },
     {
@@ -65,6 +65,26 @@
       "section": "observe"
     },
     {
+      "title": "M 4.9 - 97 km S of Panguna, Papua New Guinea",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-02T04:49:51.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzg",
+      "summary": "Time 2026-10-02 04:10:58 UTC 2026-10-02 04:10:58 UTC at epicenter Location 7.185°S 155.608°E Depth 35.00 km (21.75 mi)",
+      "section": "observe"
+    },
+    {
+      "title": "M 5.0 - south of the Fiji Islands",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-02T04:42:18.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzi",
+      "summary": "Time 2026-10-02 04:27:05 UTC 2026-10-02 04:27:05 UTC at epicenter Location 24.775°S 178.645°E Depth 557.25 km (346.26 mi)",
+      "section": "observe"
+    },
+    {
       "title": "SMEs adopt AI four times slower than big business, the fix starts with the PC",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -73,26 +93,6 @@
       "url": "https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/",
       "summary": "Talking about artificial intelligence (AI) in the context of Small, Medium Enterprises (SMEs) is no longer a discussion about the future, but about the present. According to IMDA’s latest data, SMEs’ AI adoption rate has more than tripled in just one year: 14…",
       "section": "observe"
-    },
-    {
-      "title": "AI時代の勉強法(2026)",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-01T23:26:31+00:00",
-      "relevance_score": 8,
-      "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
-      "summary": "はじめに つい最近、今の勉強法を簡単に記したXのポストをした。本記事では、もう少し掘り下げてまとめて書いてみようと思う。2026年のスナップショットであり、来年以降に読み返したら面白いかもしれないので。 なおこの記事は、文章の誤字脱字チェック以外には生成AIを活用しておらず、すべて手でタイプしている。 基...",
-      "section": "observe"
-    },
-    {
-      "title": "The next information advantage is knowing what changed",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-02T03:30:15+00:00",
-      "relevance_score": 7,
-      "url": "https://e27.co/the-next-information-advantage-is-knowing-what-changed-20260930/",
-      "summary": "AI has made it much easier for decision-makers to work with information. A company announcement can be summarised in seconds, a long annual report can be condensed, and a chatbot can help compare competitors or explain an unfamiliar industry. These are useful…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,141 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）",
-        "url": "https://jvn.jp/vu/JVNVU91842649/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T10:00:15+09:00",
-        "age_days": 0.16,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
-        "url": "https://jvn.jp/vu/JVNVU94648869/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T10:00:30+09:00",
-        "age_days": 0.16,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.69が公開されました。"
-      },
-      {
-        "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU92911062/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T10:00:00+09:00",
-        "age_days": 0.16,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "The hidden economics of autonomous AI agents",
-        "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-02T03:29:31+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 36.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "The hidden economics of autonomous AI agents",
-        "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-02T03:28:53+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "For many startup founders, the first attempt to understand the cost of artificial intelligence (AI) begins in the wrong place: the model provider’s pricing page. They calculate the price of input and output tokens, compare one model against another, and try to forecast usage as if AI were a simple utility meter. That…"
-      }
-    ]
-  }
+  ]
 }

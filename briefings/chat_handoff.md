@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-02T04:40:44+00:00_
+_Generated: 2026-10-02T04:53:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `19`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-02T04:40:44+00:00_
 - url: https://jvn.jp/vu/JVNVU91842649/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）
+### 3. Why Philippine companies are winning AI mentions but losing control of context
+- source: e27 Asia Startup and Tech Feed
+- score: `16`
+- published: `2026-10-02T04:48:10+00:00`
+- url: https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/
+- summary: For years, companies have treated Google rankings as the front door to online discovery. A new study from Manila-based digital marketing agency Spiralytics suggests that door is no longer the only one that matters. As consumers increasingly ask ChatGPT, Googl…
+
+### 4. Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-10-02T10:00:30+09:00`
 - url: https://jvn.jp/vu/JVNVU94648869/
 - summary: The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.69が公開されました。
-
-### 4. InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-02T10:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU92911062/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. MoneyHero’s activist investor wants a sale. Richard Li holds the real vote
 - source: e27 Asia Startup and Tech Feed
@@ -43,25 +43,25 @@ _Generated: 2026-10-02T04:40:44+00:00_
 - url: https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/
 - summary: Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board…
 
-### 6. SMEs adopt AI four times slower than big business, the fix starts with the PC
+### 6. M 4.9 - 97 km S of Panguna, Papua New Guinea
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-02T04:49:51.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzg
+- summary: Time 2026-10-02 04:10:58 UTC 2026-10-02 04:10:58 UTC at epicenter Location 7.185°S 155.608°E Depth 35.00 km (21.75 mi)
+
+### 7. M 5.0 - south of the Fiji Islands
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-02T04:42:18.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzi
+- summary: Time 2026-10-02 04:27:05 UTC 2026-10-02 04:27:05 UTC at epicenter Location 24.775°S 178.645°E Depth 557.25 km (346.26 mi)
+
+### 8. SMEs adopt AI four times slower than big business, the fix starts with the PC
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-10-02T03:00:55+00:00`
 - url: https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/
 - summary: Talking about artificial intelligence (AI) in the context of Small, Medium Enterprises (SMEs) is no longer a discussion about the future, but about the present. According to IMDA’s latest data, SMEs’ AI adoption rate has more than tripled in just one year: 14…
-
-### 7. AI時代の勉強法(2026)
-- source: Hatena Bookmark Hotentry IT
-- score: `8`
-- published: `2026-10-01T23:26:31+00:00`
-- url: https://iwashi.co/2026/10/01/how-to-study-in-ai-era
-- summary: はじめに つい最近、今の勉強法を簡単に記したXのポストをした。本記事では、もう少し掘り下げてまとめて書いてみようと思う。2026年のスナップショットであり、来年以降に読み返したら面白いかもしれないので。 なおこの記事は、文章の誤字脱字チェック以外には生成AIを活用しておらず、すべて手でタイプしている。 基...
-
-### 8. The next information advantage is knowing what changed
-- source: e27 Asia Startup and Tech Feed
-- score: `7`
-- published: `2026-10-02T03:30:15+00:00`
-- url: https://e27.co/the-next-information-advantage-is-knowing-what-changed-20260930/
-- summary: AI has made it much easier for decision-makers to work with information. A company announcement can be summarised in seconds, a long annual report can be condensed, and a chatbot can help compare competitors or explain an unfamiliar industry. These are useful…
 
 END OF DOCUMENT
