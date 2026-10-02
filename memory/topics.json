@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-02T06:32:08+00:00",
+  "generated_at": "2026-10-02T07:00:15+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-02T06:46:00.000+00:00",
+        "relevance_score": 24,
+        "url": "https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html"
+      },
       {
         "title": "The hidden economics of autonomous AI agents",
         "source": "e27 Asia Startup and Tech Feed",
@@ -56,6 +63,13 @@
     ],
     "security": [
       {
+        "title": "FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-02T06:46:00.000+00:00",
+        "relevance_score": 24,
+        "url": "https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-02T10:00:15+09:00",
@@ -75,6 +89,29 @@
         "published_at": "2026-10-02T10:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU92911062/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-02T06:46:00.000+00:00",
+        "relevance_score": 24,
+        "url": "https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html"
+      },
+      {
+        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-02T10:00:30+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94648869/"
+      },
+      {
+        "title": "The October 2 US jobs report lands soon. Could it make or break Bitcoin’s rally?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-02T04:25:38+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/"
       }
     ],
     "economy": [
@@ -170,22 +207,6 @@
         "published_at": "2026-10-02T04:10:03+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-261002-01"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T10:00:30+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94648869/"
-      },
-      {
-        "title": "The October 2 US jobs report lands soon. Could it make or break Bitcoin’s rally?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-02T04:25:38+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/"
       }
     ],
     "github": [

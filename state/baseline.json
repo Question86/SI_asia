@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T06:32:11+00:00",
+  "generated_at": "2026-10-02T07:00:17+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2868,7 +2868,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2882,8 +2882,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -4320,8 +4320,8 @@
       "z_hint": 0.0
     },
     "domain:www.heise.de": {
-      "title": "TeamViewer-Codeschmuggel-Lücke verpasst nur knapp kritische Einstufung",
-      "updated_at": "2026-10-01T23:58:39+00:00",
+      "title": "FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         15.4,
         15.4,
@@ -4352,12 +4352,12 @@
         15.4,
         15.4,
         15.4,
-        15.4
+        29.1
       ],
-      "rolling_average": 15.4,
-      "rolling_peak": 15.4,
-      "last_score": 15.4,
-      "z_hint": 0.0
+      "rolling_average": 15.86,
+      "rolling_peak": 29.1,
+      "last_score": 29.1,
+      "z_hint": 13.24
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -4986,9 +4986,8 @@
     },
     "title:2026": {
       "title": "AI時代の勉強法(2026)",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
-        11.1,
         11.1,
         11.1,
         11.1,
@@ -5017,12 +5016,13 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.6,
+      "rolling_average": 10.57,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.5
+      "z_hint": -0.47
     },
     "url:https://www.digital.go.jp/policies/digital_promotion_staff/application-for-student": {
       "title": "18歳未満のデジタル推進委員応募について、「募集要項」と「プライバシーポリシー」を更新しました",
@@ -5081,7 +5081,7 @@
     },
     "domain:togetter.com": {
       "title": "『六韜』「隣国の使者が有能なら何も与えず無能なら大いに歓待せよ」というのはデマだぞ",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -5094,8 +5094,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -8248,7 +8248,7 @@
     },
     "domain:www.techno-edge.net": {
       "title": "新Kindle 計6モデル発売 頁めくりリモコンKindle Click、物理ボタンつきカバーも | テクノエッジ TechnoEdge",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -8262,8 +8262,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -10220,7 +10220,7 @@
     },
     "domain:note.com": {
       "title": "12GB VRAMで125Bモデルを動かす「Strata」の概要｜npaka",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -10233,8 +10233,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -16979,9 +16979,8 @@
     },
     "earthquake:indonesia:4.8": {
       "title": "M 4.8 - 192 km WNW of Tobelo, Indonesia",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
-        17.7,
         17.7,
         17.7,
         17.7,
@@ -17010,12 +17009,13 @@
         17.7,
         17.7,
         17.7,
-        20.7
+        20.7,
+        17.7
       ],
       "rolling_average": 17.9,
       "rolling_peak": 20.7,
-      "last_score": 20.7,
-      "z_hint": 2.8
+      "last_score": 17.7,
+      "z_hint": -0.2
     },
     "github_repo:humanlayer/skills": {
       "title": "skills/plugins/show-me/skills/show-me/SKILL.md at main · humanlayer/skills",
@@ -22824,7 +22824,7 @@
     },
     "title:2025": {
       "title": "令和7年度（2025年度）特別職国家公務員の再就職状況を公表しました",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -22854,13 +22854,13 @@
         8.1,
         8.1,
         8.1,
-        8.1,
-        11.1
+        11.1,
+        8.1
       ],
       "rolling_average": 8.2,
       "rolling_peak": 11.1,
-      "last_score": 11.1,
-      "z_hint": 2.9
+      "last_score": 8.1,
+      "z_hint": -0.1
     },
     "url:https://www.digital.go.jp/procurement/challenged_person_employment_facilities_goods": {
       "title": "令和7年度におけるデジタル庁の障害者就労施設等からの物品等の調達の推進を図るための方針及び令和6年度デジタル庁における障害者就労施設等からの物品等の調達実績を掲載しました",
@@ -46447,9 +46447,8 @@
     },
     "domain:labo.hatenastaff.com": {
       "title": "はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
-        14.1,
         14.1,
         14.1,
         14.1,
@@ -46478,12 +46477,13 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 14.03,
+      "rolling_average": 14.0,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.93
+      "z_hint": -0.9
     },
     "earthquake:turkey:5.3": {
       "title": "M 5.3 - 15 km SSW of Hilvan, Turkey",
@@ -57067,7 +57067,7 @@
     },
     "title:apache-http-server-2026": {
       "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -57085,16 +57085,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.28,
+      "rolling_average": 16.27,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "title:insydeh2o-ihisi": {
       "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -57112,16 +57113,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.28,
+      "rolling_average": 16.27,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "title:agritech-credit-paradox-lessons-tanihub-indonesia-first-agritech": {
       "title": "The agritech credit paradox: Lessons from TaniHub and Indonesia’s first agritech generation",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         12.1,
         9.1,
@@ -57139,18 +57141,20 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.28,
+      "rolling_average": 9.27,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "title:moneyhero-activist-investor-wants-sale-richard-holds-real": {
       "title": "MoneyHero’s activist investor wants a sale. Richard Li holds the real vote",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -57165,16 +57169,17 @@
         13.1,
         13.1
       ],
-      "rolling_average": 13.31,
+      "rolling_average": 13.3,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "title:obsidian": {
       "title": "思考を整理できる便利ツール「Obsidian」を愛用する6つの理由 | ライフハッカー・ジャパン",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -57189,14 +57194,14 @@
         7.1,
         7.1
       ],
-      "rolling_average": 7.31,
+      "rolling_average": 7.3,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "title:2026-android": {
       "title": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -57210,16 +57215,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.33,
+      "rolling_average": 8.31,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:smes-adopt-four-times-slower-than-big-business": {
       "title": "SMEs adopt AI four times slower than big business, the fix starts with the PC",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -57232,16 +57238,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.35,
+      "rolling_average": 10.33,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "title:hidden-economics-autonomous-agents": {
       "title": "The hidden economics of autonomous AI agents",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         24.1,
         21.1,
@@ -57253,16 +57260,17 @@
         21.1,
         21.1,
         21.1,
+        21.1,
         21.1
       ],
-      "rolling_average": 21.37,
+      "rolling_average": 21.35,
       "rolling_peak": 24.1,
       "last_score": 21.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "title:next-information-advantage-knowing-what-changed": {
       "title": "The next information advantage is knowing what changed",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         12.1,
         9.1,
@@ -57273,16 +57281,17 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.4,
+      "rolling_average": 9.37,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "url:https://www.digital.go.jp/speech/minister-261002-01": {
       "title": "古川大臣記者会見（令和8年10月2日）動画を掲載しました",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -57292,16 +57301,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.43,
+      "rolling_average": 8.4,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:october-jobs-report-lands-soon-could-make-break": {
       "title": "The October 2 US jobs report lands soon. Could it make or break Bitcoin’s rally?",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -57310,16 +57320,17 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.48,
+      "rolling_average": 6.43,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "title:why-philippine-companies-are-winning-mentions-but-losing": {
       "title": "Why Philippine companies are winning AI mentions but losing control of context",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         21.1,
         18.1,
@@ -57327,16 +57338,17 @@
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 18.53,
+      "rolling_average": 18.47,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.43
+      "z_hint": -0.37
     },
     "earthquake:m 4.9 - 97 km s of panguna, papua new guinea:4.9": {
       "title": "M 4.9 - 97 km S of Panguna, Papua New Guinea",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -57344,16 +57356,35 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.13,
+      "rolling_average": 12.08,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "earthquake:m 5.0 - south of the fiji islands:5.0": {
       "title": "M 5.0 - south of the Fiji Islands",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
+      "network_scores": [
+        14.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7
+      ],
+      "rolling_average": 12.08,
+      "rolling_peak": 14.7,
+      "last_score": 11.7,
+      "z_hint": -0.38
+    },
+    "earthquake:m 5.1 - 159 km se of gizo, solomon islands:5.1": {
+      "title": "M 5.1 - 159 km SE of Gizo, Solomon Islands",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -57368,51 +57399,48 @@
       "last_score": 11.7,
       "z_hint": -0.43
     },
-    "earthquake:m 5.1 - 159 km se of gizo, solomon islands:5.1": {
-      "title": "M 5.1 - 159 km SE of Gizo, Solomon Islands",
-      "updated_at": "2026-10-02T06:32:11+00:00",
-      "network_scores": [
-        14.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7
-      ],
-      "rolling_average": 12.2,
-      "rolling_peak": 14.7,
-      "last_score": 11.7,
-      "z_hint": -0.5
-    },
     "title:advice-gap-why-vcs-don-practice-what-they": {
       "title": "The advice gap: Why VCs don’t practice what they preach",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         14.1,
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.7,
+      "rolling_average": 11.6,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "url:https://www.digital.go.jp/resources/govdashboard": {
       "title": "政策ダッシュボード一覧に国土強靭化の取組に関するダッシュボード（内閣官房）を掲載しました",
-      "updated_at": "2026-10-02T06:32:11+00:00",
+      "updated_at": "2026-10-02T07:00:17+00:00",
       "network_scores": [
         11.1,
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.7,
+      "rolling_average": 8.6,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
+    },
+    "domain:otakuma.net": {
+      "title": "ローソンの“ふり”ではなく本物のメールサーバーを悪用 不審メール約70万件を送信 | おたくま経済新聞",
+      "updated_at": "2026-10-02T07:00:17+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
     }
   }
 }
