@@ -1,20 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-02T04:22:04Z",
+  "generated_at": "2026-10-02T04:44:07Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 28,
+    "dynamics": 32,
     "bands": {
       "krass": 4,
+      "extreme": 1,
       "strong": 5,
-      "watch": 4,
-      "quiet": 15
+      "watch": 5,
+      "quiet": 17
     },
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 4,
-      "quiet": 15
+      "strong": 10,
+      "watch": 5,
+      "quiet": 17
     }
   },
   "top_dynamics": [
@@ -23,7 +24,7 @@
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:15+09:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -49,7 +50,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:30+09:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -75,7 +76,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -100,8 +101,35 @@
       "title": "The hidden economics of autonomous AI agents",
       "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-02T03:29:31+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The hidden economics of autonomous AI agents",
+      "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
+      "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:28:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -128,7 +156,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -154,7 +182,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -174,37 +202,37 @@
       "summary": ""
     },
     {
-      "title": "The hidden economics of autonomous AI agents",
-      "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
+      "title": "The October 2 US jobs report lands soon. Could it make or break Bitcoin’s rally?",
+      "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-02T03:29:31+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-10-02T04:25:38+00:00",
+      "age_days": 0.01,
       "topics": [
-        "ai"
+        "ai",
+        "macro"
       ],
-      "dynamics_score": 20.5,
+      "dynamics_score": 21.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "high terms: rce, 10",
+        "security high-signal: rce, 10"
       ],
-      "summary": ""
+      "summary": "The cryptocurrency sector is moving higher in a coordinated fashion. Bitcoin rose 1.70 per cent to US$85,002.11 over the past 24 hours. The total crypto market climbed 1.16 per cent to US$2.89T. This advance rests on two powerful forces. Institutional optimism and policy progress are working together. The result is a…"
     },
     {
       "title": "MoneyHero’s activist investor wants a sale. Richard Li holds the real vote",
       "url": "https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T02:36:37+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -228,7 +256,7 @@
       "url": "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T02:55:11+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -253,7 +281,7 @@
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 105.1,
+      "age_days": 105.11,
       "topics": [
         "general"
       ],
@@ -280,7 +308,7 @@
       "url": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -300,11 +328,36 @@
       "summary": ""
     },
     {
+      "title": "古川大臣記者会見（令和8年10月2日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261002-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-02T04:24:46+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "思考を整理できる便利ツール「Obsidian」を愛用する6つの理由 | ライフハッカー・ジャパン",
       "url": "https://www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T02:36:37+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -328,7 +381,7 @@
       "url": "https://e27.co/the-next-information-advantage-is-knowing-what-changed-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:49:12+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -338,21 +391,45 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
+    },
+    {
+      "title": "古川大臣記者会見（令和8年10月2日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261002-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-02T04:10:03+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "古川大臣記者会見（令和8年10月2日）動画を掲載しました"
     },
     {
       "title": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）",
       "url": "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T02:43:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -372,15 +449,39 @@
       "summary": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）"
     },
     {
+      "title": "The October 2 US jobs report lands soon. Could it make or break Bitcoin’s rally?",
+      "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-02T04:40:47+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "12GB VRAMで125Bモデルを動かす「Strata」の概要｜npaka",
       "url": "https://note.com/npaka/n/n4a1185074686",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 31.4,
+      "age_days": 31.42,
       "topics": [
         "general"
       ],
-      "dynamics_score": 10.36,
+      "dynamics_score": 10.35,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -401,7 +502,7 @@
       "url": "https://www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T14:05:52+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -421,11 +522,37 @@
       "summary": "リサーチプロジェクトはすぐに混沌としてしまうものです。 だからこそ、思考やアイデアをスムーズにつなぎ、使いやすいツールが必要です。それが私にとっての「Obsidian」なのです。 1. 双方向リンクでノート同士をつなげられるWordのような直線的なツールでは、ノート同士を論理的に結びつけられず、スクロールで迷子に..."
     },
     {
+      "title": "SMEs adopt AI four times slower than big business, the fix starts with the PC",
+      "url": "https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-02T03:03:25+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "MoneyHero’s activist investor wants a sale. Richard Li holds the real vote",
       "url": "https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T02:26:14+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -447,37 +574,11 @@
       "summary": "Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board to hire an independent adviser and explore a sale. Honig’s…"
     },
     {
-      "title": "SMEs adopt AI four times slower than big business, the fix starts with the PC",
-      "url": "https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-02T03:03:25+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "『六韜』「隣国の使者が有能なら何も与えず無能なら大いに歓待せよ」というのはデマだぞ",
       "url": "https://anond.hatelabo.jp/20260514203244",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 104.66,
+      "age_days": 104.68,
       "topics": [
         "general"
       ],
@@ -502,7 +603,7 @@
       "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T23:26:31+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -528,7 +629,7 @@
       "url": "https://anond.hatelabo.jp/20260514203244",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T15:45:56+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -552,7 +653,7 @@
       "url": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T01:00:55+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -578,7 +679,7 @@
       "url": "https://note.com/npaka/n/n4a1185074686",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T22:53:10+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -604,7 +705,7 @@
       "url": "https://www.techno-edge.net/article/2026/10/02/5544.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T22:41:14+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -630,11 +731,11 @@
       "url": "https://www.techno-edge.net/article/2026/10/02/5544.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T08:23:39+00:00",
-      "age_days": 32.83,
+      "age_days": 32.85,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 1.86,
+      "dynamics_score": 1.85,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -657,7 +758,7 @@
       "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 104.7,
+      "age_days": 104.72,
       "topics": [
         "ai"
       ],
@@ -684,7 +785,7 @@
       "url": "https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:00:55+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -710,7 +811,7 @@
       "url": "https://e27.co/the-next-information-advantage-is-knowing-what-changed-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:30:15+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
