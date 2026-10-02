@@ -1,29 +1,55 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-02T09:16:25Z",
+  "generated_at": "2026-10-02T09:36:15Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 5,
+      "krass": 6,
       "extreme": 1,
       "strong": 14,
-      "watch": 20
+      "watch": 19
     },
     "bands_after_gate_recheck": {
-      "krass": 1,
+      "krass": 2,
       "strong": 19,
-      "watch": 20
+      "watch": 19
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [hoch] Fortinet FortiMail: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3701",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-02T09:11:29+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, exploitation, fortinet",
+        "security high-signal: active, exploitation, fortinet"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiMail ausnutzen, um Dateien zu manipulieren."
+    },
     {
       "title": "[UPDATE] [kritisch] Vercel Next.js: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3538",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T08:21:29+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -44,12 +70,13 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Vercel Next.js ausnutzen, um beliebigen Programmcode auszuführen."
     },
     {
-      "title": "[UPDATE] [kritisch] Vercel Next.js: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3538",
+      "title": "[NEU] [hoch] Fortinet FortiMail: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3701",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 34.8,
+      "age_days": 34.81,
       "topics": [
+        "ai",
         "security"
       ],
       "dynamics_score": 24.9,
@@ -64,8 +91,8 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "high terms: kritisch, rce, code",
-        "security high-signal: kritisch, rce, code",
+        "high terms: fortinet",
+        "security high-signal: fortinet",
         "aging penalty -4.8 for 34.8d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
@@ -76,7 +103,7 @@
       "url": "https://e27.co/the-advice-gap-why-vcs-dont-practice-what-they-preach-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T05:24:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [],
       "dynamics_score": 26.0,
       "raw_band": "strong",
@@ -100,7 +127,7 @@
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:15+09:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -126,7 +153,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:30+09:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -152,7 +179,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -178,7 +205,7 @@
       "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:29:31+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -205,7 +232,7 @@
       "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:28:53+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -232,7 +259,7 @@
       "url": "https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 105.07,
+      "age_days": 105.08,
       "topics": [
         "ai"
       ],
@@ -243,12 +270,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.46,
+      "baseline_z_hint": 8.1,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 8.46",
+        "baseline z_hint 8.10",
         "high terms: zero-day, angriffe, rce",
         "security high-signal: zero-day, angriffe, rce",
         "aging penalty -8.0 for 105.1d old signal",
@@ -261,7 +288,7 @@
       "url": "https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-02T06:46:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -288,7 +315,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -314,7 +341,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T05:00:00+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -339,7 +366,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -363,7 +390,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T07:24:34.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -388,7 +415,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T06:12:24.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -413,7 +440,7 @@
       "url": "https://e27.co/the-advice-gap-why-vcs-dont-practice-what-they-preach-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T05:00:25+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [],
       "dynamics_score": 22.0,
       "raw_band": "strong",
@@ -437,7 +464,7 @@
       "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T04:25:38+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "macro"
@@ -463,7 +490,7 @@
       "url": "https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T02:36:37+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -487,7 +514,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261002-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T04:24:46+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -512,7 +539,7 @@
       "url": "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T02:55:11+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -537,7 +564,7 @@
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 105.3,
+      "age_days": 105.32,
       "topics": [
         "general"
       ],
@@ -564,7 +591,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:22:32+00:00",
-      "age_days": 27.08,
+      "age_days": 27.09,
       "topics": [
         "general"
       ],
@@ -591,7 +618,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T21:47:43+00:00",
-      "age_days": 28.48,
+      "age_days": 28.49,
       "topics": [
         "general"
       ],
@@ -616,7 +643,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-10-02T08:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "macro"
       ],
@@ -640,7 +667,7 @@
       "url": "https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T04:53:55+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -666,7 +693,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T07:11:55.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -691,7 +718,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T04:59:37.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -716,7 +743,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T04:49:51.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -741,7 +768,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T04:42:18.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -766,7 +793,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T07:28:32+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -790,7 +817,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T05:00:43+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -814,7 +841,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T04:53:55+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -838,7 +865,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T04:53:55+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -862,7 +889,7 @@
       "url": "https://e27.co/the-next-information-advantage-is-knowing-what-changed-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:49:12+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -886,7 +913,7 @@
       "url": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -910,7 +937,7 @@
       "url": "https://kumachansteps.github.io/trpg-web-tools/tools/text-apng-maker/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T07:28:32+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -930,11 +957,36 @@
       "summary": ""
     },
     {
+      "title": "Euro area quarterly balance of payments and international investment position: second quarter of 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html",
+      "source": "ECB Statistical Press Releases",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 105.79,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 105.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "政策ダッシュボード一覧に国土強靭化の取組に関するダッシュボード（内閣官房）を掲載しました",
       "url": "https://www.digital.go.jp/resources/govdashboard",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T05:24:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -958,7 +1010,7 @@
       "url": "https://otakuma.net/archives/2026100202.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T07:00:17+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -974,58 +1026,9 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "思考を整理できる便利ツール「Obsidian」を愛用する6つの理由 | ライフハッカー・ジャパン",
-      "url": "https://www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-02T02:36:37+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "令和7年度（2025年度）特別職国家公務員の再就職状況を公表しました",
-      "url": "https://www.digital.go.jp/news/90de4098-6f70-433f-a492-7ab11d87e72d",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-08T06:34:19+00:00",
-      "age_days": 24.11,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.91,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -1.1 for 24.1d old signal"
       ],
       "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Vercel Next.js: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Fortinet FortiMail: Schwachstelle ermöglicht Manipulation von Dateien” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }
