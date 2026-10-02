@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T21:25:45+00:00_
+_Generiert: 2026-10-02T21:36:46+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+80 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -230,6 +230,15 @@ _Generiert: 2026-10-02T21:25:45+00:00_
   - Warum relevant: Security (+7.5); GitHub (+2.0); recent (+1.0)
   - Kurz: You can now post confidential comments on repository security advisories. Confidential comments are visible only to people with write access to the repository, so you can discuss a report with… The post Confidential comments on repository security advisories appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～** — Score 10, observation — [Quelle](https://lpi.or.jp/news/press/page/20261001_01/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-02T12:06:40+00:00`, fetched `2026-10-02T21:36:15+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～ Linux技術者認定「LinuC(リナック)」などを実施する特定非営利活動法人エルピーアイジャパン(以下:LPI-Japan、東京都千代田区、理事長 鈴木 敦夫)...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Households and non-financial corporations in the euro area: second quarter of 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q2~444dc6a8ee.en.html)
   - Quelle: ECB Statistical Press Releases / `rss`
   - Zeit: published `2026-10-02T09:00:00+00:00`, fetched `2026-10-02T09:18:46+00:00`
@@ -284,15 +293,6 @@ _Generiert: 2026-10-02T21:25:45+00:00_
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI時代の勉強法(2026)** — Score 8, observation — [Quelle](https://iwashi.co/2026/10/01/how-to-study-in-ai-era)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-01T23:26:31+00:00`, fetched `2026-10-02T00:52:30+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに つい最近、今の勉強法を簡単に記したXのポストをした。本記事では、もう少し掘り下げてまとめて書いてみようと思う。2026年のスナップショットであり、来年以降に読み返したら面白いかもしれないので。 なおこの記事は、文章の誤字脱字チェック以外には生成AIを活用しておらず、すべて手でタイプしている。 基...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -303,7 +303,3 @@ _Generiert: 2026-10-02T21:25:45+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
