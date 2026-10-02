@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-02T02:36:35+00:00_
+_Generated: 2026-10-02T02:55:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `10`
+- findings: `11`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-10-02T02:36:35+00:00_
 - url: https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/
 - summary: Indonesia’s agritech sector looks different in 2026 than it did when TaniHub raised its Series B in 2021. The cohort of platforms that emerged in the late 2010s — TaniHub, Crowde, iGrow, Sayurbox, and others — aimed to do for smallholder agriculture what fint…
 
-### 7. 12GB VRAMで125Bモデルを動かす「Strata」の概要｜npaka
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-01T22:53:10+00:00`
-- url: https://note.com/npaka/n/n4a1185074686
-- summary: 12GB VRAMで125Bモデルを動かす「Strata」の概要をまとめました。 1. はじめにローカルLLMでは、GPUのVRAM容量が大きな制約になります。特に100Bを超えるモデルは、量子化しても一般的なGPUのVRAMだけで動かすのは困難です。 そこで登場したのが、AI推論エンジン「Strata」です。 Strataは、GPUとCPUで計算を分担し、VRA...
+### 7. 2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）
+- source: Japan Digital Agency News RSS
+- score: `6`
+- published: `2026-10-02T02:43:05+00:00`
+- url: https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/
+- summary: 2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）
 
 END OF DOCUMENT

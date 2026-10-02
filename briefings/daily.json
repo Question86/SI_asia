@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T02:36:37+00:00",
-  "today_file_total": 10,
+  "generated_at": "2026-10-02T02:55:11+00:00",
+  "today_file_total": 11,
   "current_clusters": [
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -87,9 +87,32 @@
       "max_score": 11,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:2026-android",
+      "title": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 16.1,
+      "network_score": 11.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -112,29 +135,6 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:obsidian",
-      "title": "思考を整理できる便利ツール「Obsidian」を愛用する6つの理由 | ライフハッカー・ジャパン",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
       "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -220,6 +220,29 @@
       ],
       "urls": [
         "https://anond.hatelabo.jp/20260514203244"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:obsidian",
+      "title": "思考を整理できる便利ツール「Obsidian」を愛用する6つの理由 | ライフハッカー・ジャパン",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/"
       ],
       "finding_count": 1,
       "max_score": 5,

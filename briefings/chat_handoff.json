@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-02T02:36:35+00:00",
+  "generated_at": "2026-10-02T02:55:08+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 1,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 3,
-    "observe": 7
+    "observe": 8
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,13 +75,13 @@
       "section": "observe"
     },
     {
-      "title": "12GB VRAMで125Bモデルを動かす「Strata」の概要｜npaka",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-10-01T22:53:10+00:00",
-      "relevance_score": 5,
-      "url": "https://note.com/npaka/n/n4a1185074686",
-      "summary": "12GB VRAMで125Bモデルを動かす「Strata」の概要をまとめました。 1. はじめにローカルLLMでは、GPUのVRAM容量が大きな制約になります。特に100Bを超えるモデルは、量子化しても一般的なGPUのVRAMだけで動かすのは困難です。 そこで登場したのが、AI推論エンジン「Strata」です。 Strataは、GPUとCPUで計算を分担し、VRA...",
+      "published_at": "2026-10-02T02:43:05+00:00",
+      "relevance_score": 6,
+      "url": "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/",
+      "summary": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）",
       "section": "observe"
     }
   ],
@@ -90,139 +90,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）",
-        "url": "https://jvn.jp/vu/JVNVU91842649/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T10:00:15+09:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
-        "url": "https://jvn.jp/vu/JVNVU94648869/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T10:00:30+09:00",
-        "age_days": 0.07,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.69が公開されました。"
-      },
-      {
-        "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU92911062/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T10:00:00+09:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
-        "url": "https://jvn.jp/vu/JVNVU94648869/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T01:21:11+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: 10",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU92911062/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-02T01:21:11+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

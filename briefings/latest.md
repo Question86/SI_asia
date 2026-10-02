@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T02:36:35+00:00_
+_Generiert: 2026-10-02T02:55:08+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+11 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -137,6 +137,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Indonesia’s agritech sector looks different in 2026 than it did when TaniHub raised its Series B in 2021. The cohort of platforms that emerged in the late 2010s — TaniHub, Crowde, iGrow, Sayurbox, and others — aimed to do for smallholder agriculture what fintech had done for SME credit: build technology infrastructure for a segment […] The post The agritech credit paradox: Lessons from TaniHub and Indonesia’s first…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）** — Score 6, observation — [Quelle](https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-02T02:43:05+00:00`, fetched `2026-10-02T02:54:36+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **12GB VRAMで125Bモデルを動かす「Strata」の概要｜npaka** — Score 5, observation — [Quelle](https://note.com/npaka/n/n4a1185074686)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
