@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T16:58:32+00:00_
+_Generiert: 2026-10-02T17:18:26+00:00_
 
 ## Kurzlage
 
@@ -37,6 +37,10 @@ _Generiert: 2026-10-02T16:58:32+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:29.477km) in Russia 02/10/2026 16:34 UTC, Few people affected in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569129)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:29.477km) in Russia 02/10/2026 16:34 UTC, Few people affected in MMI III.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 40 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568826)
   - Quelle: GDACS
   - Zeit: ``
@@ -53,14 +57,10 @@ _Generiert: 2026-10-02T16:58:32+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone NINETEEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568614)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Southern Mid-Atlantic Ridge 29/09/2026 13:06 UTC, [unknown].
 - **USGS earthquake M5.8 - 165 km SSE of Vilyuchinsk, Russia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz62)
   - Quelle: USGS
   - Zeit: `2026-10-02T16:34:41+00:00`
-  - Kurz: M5.8 - 165 km SSE of Vilyuchinsk, Russia. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.8 - 165 km SSE of Vilyuchinsk, Russia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
