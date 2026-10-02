@@ -1068,6 +1068,42 @@
     "id": "88d5907dcc3cab411ce7"
   },
   {
+    "title": "M 5.0 - 179 km SSE of Vilyuchinsk, Russia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz7b",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-02T18:46:26.040+00:00",
+    "fetched_at": "2026-10-02T19:10:29+00:00",
+    "summary": "Time 2026-10-02 18:25:20 UTC 2026-10-02 18:25:20 UTC at epicenter Location 51.578°N 159.831°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "844fc5ac51c5c60e6d0f"
+  },
+  {
     "title": "M 5.8 - 165 km SSE of Vilyuchinsk, Russia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz62",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1549,6 +1585,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6a4917e5d5a714edcac7"
+  },
+  {
+    "title": "［社説］パーク24の情報管理はずさんすぎる - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQODK026BY0S6A001C2000000/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-02T10:33:09+00:00",
+    "fetched_at": "2026-10-02T19:10:29+00:00",
+    "summary": "パーク24が運営するカーシェアサービス「タイムズカー」のシステムが不正アクセスを受け、およそ660万アカウントの個人情報が漏洩した。約160万件には運転免許証や学生証の画像など本人確認書類の情報が含まれる。悪用されるリスクが高い個人情報を大量に抱えながら、あまりにずさんな管理だったと言わざるを得ない。サ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8f0eccaf0bef37261484"
   },
   {
     "title": "The next information advantage is knowing what changed",
