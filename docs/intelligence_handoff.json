@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-02T11:13:56Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Fortinet FortiMail: Schwachstelle ermöglicht Manipulation von Dateien” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+  "generated_at": "2026-10-02T11:29:38Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (libpcap): Schwachstelle ermöglicht Offenlegung von Informationen und Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libpcap): Schwachstelle ermöglicht Offenlegung von Informationen und Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3691",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-02T11:06:38+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (libpcap) ausnutzen, um Informationen offenzulegen und um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "[NEU] [hoch] Fortinet FortiMail: Schwachstelle ermöglicht Manipulation von Dateien",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3701",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T09:11:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -41,7 +66,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3708",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -62,36 +87,11 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Tenable Security Nessus ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, SQL-Injection durchzuführen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand au…"
     },
     {
-      "title": "[UPDATE] [kritisch] Vercel Next.js: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3538",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-02T08:21:29+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: kritisch, rce, code",
-        "security high-signal: kritisch, rce, code"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Vercel Next.js ausnutzen, um beliebigen Programmcode auszuführen."
-    },
-    {
       "title": "[NEU] [UNGEPATCHT] [kritisch] Foreman: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3712",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -117,7 +117,7 @@
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:15+09:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -143,7 +143,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-0600",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -169,7 +169,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3711",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security"
@@ -196,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3710",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -222,7 +222,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:30+09:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -248,7 +248,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:00+09:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -274,7 +274,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3699",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T09:31:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -300,7 +300,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3698",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T09:31:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
