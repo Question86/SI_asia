@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-02T05:58:25+00:00_
+_Generated: 2026-10-02T06:32:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `25`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-02T05:58:25+00:00_
 - url: https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/
 - summary: For years, companies have treated Google rankings as the front door to online discovery. A new study from Manila-based digital marketing agency Spiralytics suggests that door is no longer the only one that matters. As consumers increasingly ask ChatGPT, Googl…
 
-### 4. Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-02T10:00:30+09:00`
-- url: https://jvn.jp/vu/JVNVU94648869/
-- summary: The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.69が公開されました。
+### 4. M 4.8 - 192 km WNW of Tobelo, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-10-02T06:12:24.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzt
+- summary: Time 2026-10-02 05:38:55 UTC 2026-10-02 05:38:55 UTC at epicenter Location 2.578°N 126.494°E Depth 10.00 km (6.21 mi)
 
 ### 5. はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ
 - source: Hatena Bookmark Hotentry IT
