@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T03:03:22+00:00",
-  "run_id": "2026-10-02T03:03:22+00:00",
+  "generated_at": "2026-10-02T03:29:28+00:00",
+  "run_id": "2026-10-02T03:29:28+00:00",
   "date": "2026-10-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 12
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,16 +19,63 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 9,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "The hidden economics of autonomous AI agents",
+        "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-02T03:28:53+00:00",
+        "fetched_at": "2026-10-02T03:28:54+00:00",
+        "summary": "For many startup founders, the first attempt to understand the cost of artificial intelligence (AI) begins in the wrong place: the model provider’s pricing page. They calculate the price of input and output tokens, compare one model against another, and try to forecast usage as if AI were a simple utility meter. That approach may […] The post The hidden economics of autonomous AI agents appeared first on e27 .",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "7cba2d79e83404c06dd5"
+      },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）",
         "url": "https://jvn.jp/vu/JVNVU91842649/",
@@ -290,6 +337,53 @@
   },
   "findings": [
     {
+      "title": "The hidden economics of autonomous AI agents",
+      "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-02T03:28:53+00:00",
+      "fetched_at": "2026-10-02T03:28:54+00:00",
+      "summary": "For many startup founders, the first attempt to understand the cost of artificial intelligence (AI) begins in the wrong place: the model provider’s pricing page. They calculate the price of input and output tokens, compare one model against another, and try to forecast usage as if AI were a simple utility meter. That approach may […] The post The hidden economics of autonomous AI agents appeared first on e27 .",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "7cba2d79e83404c06dd5"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）",
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
@@ -547,25 +641,51 @@
   ],
   "new_findings": [
     {
-      "title": "SMEs adopt AI four times slower than big business, the fix starts with the PC",
-      "url": "https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/",
+      "title": "The hidden economics of autonomous AI agents",
+      "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-02T03:00:55+00:00",
-      "fetched_at": "2026-10-02T03:02:51+00:00",
-      "summary": "Talking about artificial intelligence (AI) in the context of Small, Medium Enterprises (SMEs) is no longer a discussion about the future, but about the present. According to IMDA’s latest data, SMEs’ AI adoption rate has more than tripled in just one year: 14.5 per cent of SMEs have adopted AI as compared to 62.5 per […] The post SMEs adopt AI four times slower than big business, the fix starts with the PC appeared…",
+      "published_at": "2026-10-02T03:28:53+00:00",
+      "fetched_at": "2026-10-02T03:28:54+00:00",
+      "summary": "For many startup founders, the first attempt to understand the cost of artificial intelligence (AI) begins in the wrong place: the model provider’s pricing page. They calculate the price of input and output tokens, compare one model against another, and try to forecast usage as if AI were a simple utility meter. That approach may […] The post The hidden economics of autonomous AI agents appeared first on e27 .",
       "matched_keywords": [
+        "AI Agents",
         "AI/KI",
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "founder",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9ce3b1733c86ff09ccf5"
+      "relevance_score": 19,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "7cba2d79e83404c06dd5"
     }
   ],
   "source_errors": [],
