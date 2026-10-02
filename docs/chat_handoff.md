@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-02T09:58:36+00:00_
+_Generated: 2026-10-02T10:20:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `37`
+- findings: `38`
 
 ## Top Signals
 
@@ -15,33 +15,33 @@ _Generated: 2026-10-02T09:58:36+00:00_
 - url: https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html
 - summary: Fortinet warnt vor Angriffen auf eine Zero-Day-Sicherheitslücke in FortiMail. Sie ermöglicht die Übernahme der Geräte aus dem Netz.
 
-### 2. The hidden economics of autonomous AI agents
+### 2. Who gets to decide if AI is safe? Africa wants a say
+- source: Rest of World Global Tech Feed
+- score: `20`
+- published: `2026-10-02T10:00:00+00:00`
+- url: https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+- summary: African companies race to adopt American and Chinese AI, with little attention paid to safety.
+
+### 3. The hidden economics of autonomous AI agents
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-10-02T03:28:53+00:00`
 - url: https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/
 - summary: For many startup founders, the first attempt to understand the cost of artificial intelligence (AI) begins in the wrong place: the model provider’s pricing page. They calculate the price of input and output tokens, compare one model against another, and try t…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-10-02T10:00:15+09:00`
 - url: https://jvn.jp/vu/JVNVU91842649/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 4. [NEU] [hoch] Fortinet FortiMail: Schwachstelle ermöglicht Manipulation von Dateien
+### 5. [NEU] [hoch] Fortinet FortiMail: Schwachstelle ermöglicht Manipulation von Dateien
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-02T09:11:29+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3701
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiMail ausnutzen, um Dateien zu manipulieren.
-
-### 5. Why Philippine companies are winning AI mentions but losing control of context
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-10-02T04:48:10+00:00`
-- url: https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/
-- summary: For years, companies have treated Google rankings as the front door to online discovery. A new study from Manila-based digital marketing agency Spiralytics suggests that door is no longer the only one that matters. As consumers increasingly ask ChatGPT, Googl…
 
 ### 6. Euro area quarterly balance of payments and international investment position: second quarter of 2026
 - source: ECB Statistical Press Releases
