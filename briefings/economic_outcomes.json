@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T09:19:53+00:00",
+  "generated_at": "2026-10-02T09:50:50+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -4972,7 +4972,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_66c9e4ae3d63f4b30383",
@@ -8805,13 +8805,13 @@
     {
       "event_id": "evt_ae9088bc171c58580bdf",
       "title": "OpenPOI API — 日本全国337万件のPOI検索API",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_af9b0b0d3dbb2ab1e3b4",
