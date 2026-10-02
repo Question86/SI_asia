@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T15:58:06+00:00",
+  "generated_at": "2026-10-02T16:19:31+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -561,7 +561,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0b3c3c21d8d5ad2ae5e2",
@@ -2618,7 +2618,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_36085e30f2f91b6ca31e",
@@ -3070,6 +3070,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_401c65824042233c0184",
+      "title": "M 4.7 - 5 km NNE of Korumburra, Australia",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_402e7f622a6ab4b9a85a",
@@ -8206,7 +8217,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9ee4a4eefa80fadb5a10",
