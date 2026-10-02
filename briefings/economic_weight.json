@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T15:00:39+00:00",
+  "generated_at": "2026-10-02T15:22:47+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -724,7 +724,7 @@
       "p90_usd": 112800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T02:36:37+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
@@ -741,7 +741,7 @@
       "p90_usd": 112800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T11:05:22+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
@@ -1389,7 +1389,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
@@ -1525,7 +1525,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T07:22:32+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
@@ -4449,8 +4449,8 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-02T11:35:14+00:00",
-      "last_seen_at": "2026-10-02T14:51:25+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_71ac5271a48927f2471c",
@@ -4959,8 +4959,8 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-02T14:19:39+00:00",
-      "last_seen_at": "2026-10-02T14:51:25+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_9bb3d038caab21897797",
@@ -5962,7 +5962,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
@@ -6034,6 +6034,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_24831f2289ce12f8f9aa",
+      "title": "Vulnérabilité dans F5 BIG-IP (23 septembre 2026)",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 292000.0,
+      "p50_usd": 29200000.0,
+      "p90_usd": 2920000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_312491f5fdccda00a0b0",
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (golang.org/x/text): Schwachstelle ermöglicht Denial of Service",
       "event_classes": [
@@ -6064,7 +6081,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
@@ -6100,23 +6117,6 @@
       "first_seen_at": "2026-09-14T14:00:01+00:00",
       "last_seen_at": "2026-09-18T23:55:00+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_24831f2289ce12f8f9aa",
-      "title": "Vulnérabilité dans F5 BIG-IP (23 septembre 2026)",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 292000.0,
-      "p50_usd": 29200000.0,
-      "p90_usd": 2920000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-02T14:59:44+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_b62c535c76c48b8bb112",
@@ -6523,7 +6523,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T01:21:11+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
@@ -6642,7 +6642,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T01:21:11+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
@@ -7832,7 +7832,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T03:29:31+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
@@ -7934,7 +7934,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T11:23:17+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
@@ -8546,7 +8546,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T04:53:55+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
@@ -9995,6 +9995,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_703b834d9c964a10697a",
+      "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-02T15:22:26+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_03c35d005070efd2a4d6",
       "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
       "event_classes": [
@@ -10433,7 +10450,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
@@ -11437,7 +11454,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
@@ -11845,7 +11862,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T13:36:30+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
@@ -12916,7 +12933,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
@@ -13788,6 +13805,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_41f8bbe47ef426642ca5",
+      "title": "Multiples vulnérabilités dans Wireshark (24 septembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_4276ae39166dfdb87aa3",
       "title": "GitHub - iannuttall/barkeep: Manage hidden macOS menu bar items from one place",
       "event_classes": [
@@ -14040,6 +14074,23 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T13:32:31+00:00",
       "last_seen_at": "2026-09-08T13:32:31+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_7088023244bf9bf7252b",
+      "title": "Multiples vulnérabilités dans Papercut (24 septembre 2026)",
+      "event_classes": [
+        "research"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T14:59:44+00:00",
       "status": "dormant"
     },
     {
@@ -14465,6 +14516,23 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T03:33:01+00:00",
       "last_seen_at": "2026-09-22T11:57:23+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_aee4a48489a9b02c3753",
+      "title": "Multiples vulnérabilités dans LibreNMS (24 septembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T14:59:44+00:00",
       "status": "dormant"
     },
     {
@@ -14976,57 +15044,6 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_41f8bbe47ef426642ca5",
-      "title": "Multiples vulnérabilités dans Wireshark (24 septembre 2026)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-02T14:59:44+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_7088023244bf9bf7252b",
-      "title": "Multiples vulnérabilités dans Papercut (24 septembre 2026)",
-      "event_classes": [
-        "research"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-02T14:59:44+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_aee4a48489a9b02c3753",
-      "title": "Multiples vulnérabilités dans LibreNMS (24 septembre 2026)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-02T14:59:44+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_050660578420f6fb8ddb",
@@ -18357,7 +18374,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T07:48:35+00:00",
-      "last_seen_at": "2026-10-02T14:59:44+00:00",
+      "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "active"
     },
     {
