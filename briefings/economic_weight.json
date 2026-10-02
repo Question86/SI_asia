@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T21:11:26+00:00",
+  "generated_at": "2026-10-02T21:26:07+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -741,7 +741,7 @@
       "p90_usd": 112800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T11:05:22+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -1389,7 +1389,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -1457,7 +1457,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T06:55:03+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -1525,7 +1525,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T07:22:32+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -2239,7 +2239,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-02T16:18:57+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -4555,6 +4555,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_78ce348f4b69466e76c5",
+      "title": "M 4.9 - 136 km SSE of Vilyuchinsk, Russia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_790c08ce3bb1f8fbe804",
       "title": "M 5.0 - 77 km ENE of Tadine, New Caledonia",
       "event_classes": [
@@ -6017,8 +6034,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_78ce348f4b69466e76c5",
-      "title": "M 4.9 - 136 km SSE of Vilyuchinsk, Russia",
+      "event_id": "evt_da3002a45d8940bb9297",
+      "title": "M 5.0 - 171 km SE of Vilyuchinsk, Russia",
       "event_classes": [
         "natural_disaster"
       ],
@@ -6029,8 +6046,8 @@
       "p50_usd": 111200000.0,
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
-      "first_seen_at": "2026-10-02T21:11:06+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "first_seen_at": "2026-10-02T21:25:48+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -6047,7 +6064,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -6115,7 +6132,7 @@
       "p90_usd": 2980000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T15:36:24+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -6149,7 +6166,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T14:59:44+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -6183,7 +6200,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -6625,7 +6642,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T01:21:11+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -6744,7 +6761,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T01:21:11+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -7934,7 +7951,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T03:29:31+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -8036,7 +8053,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T11:23:17+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -8648,7 +8665,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T04:53:55+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -8682,7 +8699,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -9906,7 +9923,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T15:22:26+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -10552,7 +10569,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -11556,7 +11573,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
@@ -13052,7 +13069,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-10-02T21:11:06+00:00",
+      "last_seen_at": "2026-10-02T21:25:48+00:00",
       "status": "active"
     },
     {
