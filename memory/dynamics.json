@@ -1,20 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-02T11:43:34Z",
+  "generated_at": "2026-10-02T11:53:52Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
       "krass": 16,
-      "strong": 20,
-      "watch": 2
+      "strong": 22
     },
     "bands_after_gate_recheck": {
       "krass": 4,
-      "strong": 34,
-      "watch": 2
+      "strong": 36
     }
   },
   "top_dynamics": [
@@ -74,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3708",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -99,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3538",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T08:21:29+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -124,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3691",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 34.9,
+      "age_days": 34.91,
       "topics": [
         "security"
       ],
@@ -152,7 +150,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3716",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T11:11:29+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -200,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3367",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:46:29+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -224,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3713",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:41:29+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -248,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3709",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -273,7 +271,7 @@
       "url": "https://e27.co/the-advice-gap-why-vcs-dont-practice-what-they-preach-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T05:24:00+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [],
       "dynamics_score": 26.0,
       "raw_band": "strong",
@@ -297,7 +295,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html",
       "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 105.88,
+      "age_days": 105.89,
       "topics": [
         "general"
       ],
@@ -308,13 +306,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 6.15,
+      "baseline_z_hint": 3.15,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 6.15",
+        "baseline z_hint 3.15",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 105.9d old signal",
@@ -327,7 +325,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3712",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -379,7 +377,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3717",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T11:26:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -405,7 +403,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-0600",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -431,7 +429,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3711",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -458,7 +456,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3710",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:26:30+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -536,7 +534,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3699",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T09:31:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -562,7 +560,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3698",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T09:31:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -613,7 +611,7 @@
       "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:29:31+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -640,7 +638,7 @@
       "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:28:53+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -667,7 +665,7 @@
       "url": "https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 105.17,
+      "age_days": 105.18,
       "topics": [
         "ai"
       ],
@@ -678,12 +676,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.89,
+      "baseline_z_hint": 4.54,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.89",
+        "baseline z_hint 4.54",
         "high terms: zero-day, angriffe, rce",
         "security high-signal: zero-day, angriffe, rce",
         "aging penalty -8.0 for 105.2d old signal",
@@ -723,7 +721,7 @@
       "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-02T10:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -750,7 +748,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -776,7 +774,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T05:00:00+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -801,7 +799,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -825,7 +823,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T07:24:34.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -850,7 +848,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T06:12:24.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -871,11 +869,37 @@
       "summary": "Time 2026-10-02 05:38:55 UTC 2026-10-02 05:38:55 UTC at epicenter Location 2.578°N 126.494°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Singapore’s AI dividend will depend on what happens after the pilot phase",
+      "url": "https://e27.co/singapores-ai-dividend-will-depend-on-what-happens-after-the-pilot-phase-20261002/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-02T11:23:17+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +2",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "The advice gap: Why VCs don’t practice what they preach",
       "url": "https://e27.co/the-advice-gap-why-vcs-dont-practice-what-they-preach-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T05:00:25+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [],
       "dynamics_score": 22.0,
       "raw_band": "strong",
@@ -899,7 +923,7 @@
       "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T04:25:38+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "macro"
@@ -921,11 +945,35 @@
       "summary": "The cryptocurrency sector is moving higher in a coordinated fashion. Bitcoin rose 1.70 per cent to US$85,002.11 over the past 24 hours. The total crypto market climbed 1.16 per cent to US$2.89T. This advance rests on two powerful forces. Institutional optimism and policy progress are working together. The result is a…"
     },
     {
+      "title": "Ecosystem Roundup: MoneyHero’s activist wants a sale, but Richard Li holds the votes",
+      "url": "https://e27.co/ecosystem-roundup-moneyheros-activist-wants-a-sale-but-richard-li-holds-the-votes-20261002/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-02T11:05:22+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "MoneyHero’s activist investor wants a sale. Richard Li holds the real vote",
       "url": "https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T02:36:37+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -949,7 +997,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261002-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T04:24:46+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -991,60 +1039,6 @@
       "why": [
         "momentum delta +3",
         "high terms: 10"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）",
-      "url": "https://jvn.jp/vu/JVNVU91842649/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 105.41,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10",
-        "aging penalty -8.0 for 105.4d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.5 - 101 km NE of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzy",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-05T07:22:32+00:00",
-      "age_days": 27.18,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10",
-        "aging penalty -2.2 for 27.2d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
     }
