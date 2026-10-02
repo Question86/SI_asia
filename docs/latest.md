@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T11:05:18+00:00_
+_Generiert: 2026-10-02T11:23:15+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk).
+53 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -38,6 +38,24 @@ _Generiert: 2026-10-02T11:05:18+00:00_
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: For many startup founders, the first attempt to understand the cost of artificial intelligence (AI) begins in the wrong place: the model provider’s pricing page. They calculate the price of input and output tokens, compare one model against another, and try to forecast usage as if AI were a simple utility meter. That approach may […] The post The hidden economics of autonomous AI agents appeared first on e27 .
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Singapore’s AI dividend will depend on what happens after the pilot phase** — Score 18, observation — [Quelle](https://e27.co/singapores-ai-dividend-will-depend-on-what-happens-after-the-pilot-phase-20261002/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-02T11:17:28+00:00`, fetched `2026-10-02T11:22:43+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph region southeast_asia: Singapore, ASEAN (+2.0)
+  - Kurz: Singapore’s early bet on artificial intelligence could give its economy a modest but meaningful lift as population ageing starts to bite. But the real test will not be how many companies say they use AI. It will be whether they can rebuild work around it. The ASEAN+3 Macroeconomic Research Office (AMRO) said in its annual […] The post Singapore’s AI dividend will depend on what happens after the pilot phase appeared…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Red Hat Enterprise Linux (libpcap): Schwachstelle ermöglicht Offenlegung von Informationen und Codeausführung** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3691)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-02T11:06:38+00:00`, fetched `2026-10-02T11:22:43+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (libpcap) ausnutzen, um Informationen offenzulegen und um beliebigen Programmcode auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [UNGEPATCHT] [mittel] CUPS: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3715)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-02T10:51:29+00:00`, fetched `2026-10-02T10:54:56+00:00`
@@ -65,15 +83,6 @@ _Generiert: 2026-10-02T11:05:18+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [hoch] Fortinet FortiMail: Schwachstelle ermöglicht Manipulation von Dateien** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3701)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-02T09:11:29+00:00`, fetched `2026-10-02T09:18:46+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Watchgraph:cyber_active_exploitation
-  - Watchgraph: cyber_active_exploitation
-  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiMail ausnutzen, um Dateien zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Philippine companies are winning AI mentions but losing control of context** — Score 16, observation — [Quelle](https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-02T04:48:10+00:00`, fetched `2026-10-02T04:53:18+00:00`
