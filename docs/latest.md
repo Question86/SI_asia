@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T15:22:23+00:00_
+_Generiert: 2026-10-02T15:36:22+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk).
+69 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -29,6 +29,15 @@ _Generiert: 2026-10-02T15:22:23+00:00_
   - Warum relevant: AI/KI (+3.8); Security (+6.0); Public Health (+6.2); Africa (+2.5); recent (+1.0)
   - Kurz: African companies race to adopt American and Chinese AI, with little attention paid to safety.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Repository security advisory comments API in public preview** — Score 19, risk — [Quelle](https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-02T13:15:25+00:00`, fetched `2026-10-02T15:35:53+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+7.5); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory… The post Repository security advisory comments API in public preview appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The hidden economics of autonomous AI agents** — Score 19, opportunity — [Quelle](https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-02T03:28:53+00:00`, fetched `2026-10-02T03:28:54+00:00`
@@ -100,6 +109,15 @@ _Generiert: 2026-10-02T15:22:23+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur indique que la vulnérabilité CVE-2026-94127 est activement exploitée. Des indicateurs de compromission sont disponibles dans l'avis de l'éditeur.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.8 - 78 km WSW of San Nicolas, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1q)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-02T15:35:35.040+00:00`, fetched `2026-10-02T15:35:53+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-02 15:10:19 UTC 2026-10-02 15:10:19 UTC at epicenter Location 14.571°N 119.459°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 101 km NE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzy)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -185,6 +203,15 @@ _Generiert: 2026-10-02T15:22:23+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)
   - Kurz: Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board to hire an independent adviser and explore a sale. Honig’s […] The post MoneyHero’s activist investor wants a sale. Richard Li holds the real vote appeared fir…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **New fields for SecurityAdvisory GraphQL API** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-02T13:18:00+00:00`, fetched `2026-10-02T15:35:53+00:00`
+  - Treffer: GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:… The post New fields for SecurityAdvisory GraphQL API appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Confidential comments on repository security advisories** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-10-02T13:15:40+00:00`, fetched `2026-10-02T13:35:59+00:00`
@@ -265,15 +292,6 @@ _Generiert: 2026-10-02T15:22:23+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに つい最近、今の勉強法を簡単に記したXのポストをした。本記事では、もう少し掘り下げてまとめて書いてみようと思う。2026年のスナップショットであり、来年以降に読み返したら面白いかもしれないので。 なおこの記事は、文章の誤字脱字チェック以外には生成AIを活用しておらず、すべて手でタイプしている。 基...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Wireshark (24 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1221/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-09-24T00:00:00+00:00`, fetched `2026-10-02T14:59:06+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

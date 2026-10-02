@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-02T15:22:23+00:00_
+_Generated: 2026-10-02T15:36:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `66`
+- findings: `69`
 
 ## Top Signals
 
@@ -22,26 +22,26 @@ _Generated: 2026-10-02T15:22:23+00:00_
 - url: https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - summary: African companies race to adopt American and Chinese AI, with little attention paid to safety.
 
-### 3. The hidden economics of autonomous AI agents
+### 3. Repository security advisory comments API in public preview
+- source: GitHub Changelog Atom
+- score: `19`
+- published: `2026-10-02T13:15:25+00:00`
+- url: https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview
+- summary: You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory… The post Repository security advisory comments API in pub…
+
+### 4. The hidden economics of autonomous AI agents
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-10-02T03:28:53+00:00`
 - url: https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/
 - summary: For many startup founders, the first attempt to understand the cost of artificial intelligence (AI) begins in the wrong place: the model provider’s pricing page. They calculate the price of input and output tokens, compare one model against another, and try t…
 
-### 4. Singapore’s AI dividend will depend on what happens after the pilot phase
+### 5. Singapore’s AI dividend will depend on what happens after the pilot phase
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-10-02T11:17:28+00:00`
 - url: https://e27.co/singapores-ai-dividend-will-depend-on-what-happens-after-the-pilot-phase-20261002/
 - summary: Singapore’s early bet on artificial intelligence could give its economy a modest but meaningful lift as population ageing starts to bite. But the real test will not be how many companies say they use AI. It will be whether they can rebuild work around it. The…
-
-### 5. [UPDATE] [hoch] Red Hat Enterprise Linux (libpcap): Schwachstelle ermöglicht Offenlegung von Informationen und Codeausführung
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-02T11:06:38+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3691
-- summary: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (libpcap) ausnutzen, um Informationen offenzulegen und um beliebigen Programmcode auszuführen.
 
 ### 6. AI is rewriting the developer career ladder. Here’s how to stand out.
 - source: GitHub Blog Atom
