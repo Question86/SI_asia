@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T03:49:10+00:00",
-  "run_id": "2026-10-02T03:49:10+00:00",
+  "generated_at": "2026-10-02T04:24:43+00:00",
+  "run_id": "2026-10-02T04:24:43+00:00",
   "date": "2026-10-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 14
+      "configured_public_sources_only": 15
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
     "medium": 4,
-    "observe": 10,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -249,6 +249,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ef8e797f8649917a2e64"
+      },
+      {
+        "title": "古川大臣記者会見（令和8年10月2日）動画を掲載しました",
+        "url": "https://www.digital.go.jp/speech/minister-261002-01",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-02T04:10:03+00:00",
+        "fetched_at": "2026-10-02T04:24:13+00:00",
+        "summary": "古川大臣記者会見（令和8年10月2日）動画を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d98457df3a94ce6087b4"
       },
       {
         "title": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）",
@@ -577,6 +597,26 @@
       "id": "ef8e797f8649917a2e64"
     },
     {
+      "title": "古川大臣記者会見（令和8年10月2日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261002-01",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-02T04:10:03+00:00",
+      "fetched_at": "2026-10-02T04:24:13+00:00",
+      "summary": "古川大臣記者会見（令和8年10月2日）動画を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d98457df3a94ce6087b4"
+    },
+    {
       "title": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）",
       "url": "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/",
       "source": "Japan Digital Agency News RSS",
@@ -683,25 +723,24 @@
   ],
   "new_findings": [
     {
-      "title": "The next information advantage is knowing what changed",
-      "url": "https://e27.co/the-next-information-advantage-is-knowing-what-changed-20260930/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "古川大臣記者会見（令和8年10月2日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261002-01",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-10-02T03:30:15+00:00",
-      "fetched_at": "2026-10-02T03:48:37+00:00",
-      "summary": "AI has made it much easier for decision-makers to work with information. A company announcement can be summarised in seconds, a long annual report can be condensed, and a chatbot can help compare competitors or explain an unfamiliar industry. These are useful improvements, but they still solve only part of the information problem. Most AI […] The post The next information advantage is knowing what changed appeared f…",
+      "published_at": "2026-10-02T04:10:03+00:00",
+      "fetched_at": "2026-10-02T04:24:13+00:00",
+      "summary": "古川大臣記者会見（令和8年10月2日）動画を掲載しました",
       "matched_keywords": [
-        "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "da56fddd69ff71f95d37"
+      "id": "d98457df3a94ce6087b4"
     }
   ],
   "source_errors": [],

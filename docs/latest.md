@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T03:49:10+00:00_
+_Generiert: 2026-10-02T04:24:43+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „The hidden economics of autonomous AI agents“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+15 neue relevante Treffer. Stärkstes Signal: „The hidden economics of autonomous AI agents“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -86,6 +86,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: AI has made it much easier for decision-makers to work with information. A company announcement can be summarised in seconds, a long annual report can be condensed, and a chatbot can help compare competitors or explain an unfamiliar industry. These are useful improvements, but they still solve only part of the information problem. Most AI […] The post The next information advantage is knowing what changed appeared f…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **古川大臣記者会見（令和8年10月2日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261002-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-02T04:10:03+00:00`, fetched `2026-10-02T04:24:13+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 古川大臣記者会見（令和8年10月2日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）** — Score 6, observation — [Quelle](https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/)
   - Quelle: Japan Digital Agency News RSS / `rss`

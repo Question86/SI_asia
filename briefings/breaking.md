@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-02T03:49:12+00:00_
+_Generiert: 2026-10-02T04:24:46+00:00_
 
 ## The hidden economics of autonomous AI agents
 
