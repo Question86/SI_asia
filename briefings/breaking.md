@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-02T21:54:30+00:00_
+_Generiert: 2026-10-02T22:02:30+00:00_
 
 ## FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar
 
