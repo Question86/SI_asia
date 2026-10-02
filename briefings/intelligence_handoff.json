@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-02T07:57:52Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The advice gap: Why VCs don’t practice what they preach” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-10-02T09:16:25Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Vercel Next.js: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,64 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [kritisch] Vercel Next.js: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3538",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-02T08:21:29+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, rce, code",
+        "security high-signal: kritisch, rce, code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Vercel Next.js ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
+      "title": "[UPDATE] [kritisch] Vercel Next.js: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3538",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 34.8,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: kritisch, rce, code",
+        "security high-signal: kritisch, rce, code",
+        "aging penalty -4.8 for 34.8d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "The advice gap: Why VCs don’t practice what they preach",
       "url": "https://e27.co/the-advice-gap-why-vcs-dont-practice-what-they-preach-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T05:24:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [],
       "dynamics_score": 26.0,
       "raw_band": "strong",
@@ -39,7 +92,7 @@
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:15+09:00",
-      "age_days": 0.29,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -65,7 +118,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:30+09:00",
-      "age_days": 0.29,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -91,7 +144,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -117,7 +170,7 @@
       "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:29:31+00:00",
-      "age_days": 0.19,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -144,7 +197,7 @@
       "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:28:53+00:00",
-      "age_days": 0.19,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -171,7 +224,7 @@
       "url": "https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 105.01,
+      "age_days": 105.07,
       "topics": [
         "ai"
       ],
@@ -182,15 +235,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 9.53,
+      "baseline_z_hint": 8.46,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 9.53",
+        "baseline z_hint 8.46",
         "high terms: zero-day, angriffe, rce",
         "security high-signal: zero-day, angriffe, rce",
-        "aging penalty -8.0 for 105.0d old signal",
+        "aging penalty -8.0 for 105.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -200,7 +253,7 @@
       "url": "https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-02T06:46:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -223,37 +276,11 @@
       "summary": "Fortinet warnt vor Angriffen auf eine Zero-Day-Sicherheitslücke in FortiMail. Sie ermöglicht die Übernahme der Geräte aus dem Netz."
     },
     {
-      "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）",
-      "url": "https://jvn.jp/vu/JVNVU94648869/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": ""
-    },
-    {
       "title": "政策ダッシュボード一覧に国土強靭化の取組に関するダッシュボード（内閣官房）を掲載しました",
       "url": "https://www.digital.go.jp/resources/govdashboard",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T05:00:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -274,35 +301,11 @@
       "summary": "政策ダッシュボード一覧に国土強靭化の取組に関するダッシュボード（内閣官房）を掲載しました"
     },
     {
-      "title": "InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU92911062/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
       "title": "The October 2 US jobs report lands soon. Could it make or break Bitcoin’s rally?",
       "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T04:25:38+00:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -333,7 +336,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 12
+      "krass": 1,
+      "strong": 11
     }
   }
 }
