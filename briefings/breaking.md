@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-02T13:49:04+00:00_
+_Generiert: 2026-10-02T13:58:29+00:00_
 
 ## FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar
 
-- Ranking Score: `30.32`
+- Ranking Score: `30.17`
 - Raw Network Score: `26.1`
 - Max Monitor Score: `24`
 - Reichweite: `specialist` / `2.5`
@@ -19,7 +19,7 @@ _Generiert: 2026-10-02T13:49:04+00:00_
 
 ## Euro area quarterly balance of payments and international investment position: second quarter of 2026
 
-- Ranking Score: `23.48`
+- Ranking Score: `23.45`
 - Raw Network Score: `27.4`
 - Max Monitor Score: `13`
 - Reichweite: `institutional` / `5.0`
