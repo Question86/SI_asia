@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-02T02:55:08+00:00_
+_Generated: 2026-10-02T03:03:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `11`
+- findings: `12`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-10-02T02:55:08+00:00_
 - url: https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/
 - summary: Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board…
 
-### 5. AI時代の勉強法(2026)
+### 5. SMEs adopt AI four times slower than big business, the fix starts with the PC
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-10-02T03:00:55+00:00`
+- url: https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/
+- summary: Talking about artificial intelligence (AI) in the context of Small, Medium Enterprises (SMEs) is no longer a discussion about the future, but about the present. According to IMDA’s latest data, SMEs’ AI adoption rate has more than tripled in just one year: 14…
+
+### 6. AI時代の勉強法(2026)
 - source: Hatena Bookmark Hotentry IT
 - score: `8`
 - published: `2026-10-01T23:26:31+00:00`
 - url: https://iwashi.co/2026/10/01/how-to-study-in-ai-era
 - summary: はじめに つい最近、今の勉強法を簡単に記したXのポストをした。本記事では、もう少し掘り下げてまとめて書いてみようと思う。2026年のスナップショットであり、来年以降に読み返したら面白いかもしれないので。 なおこの記事は、文章の誤字脱字チェック以外には生成AIを活用しておらず、すべて手でタイプしている。 基...
 
-### 6. The agritech credit paradox: Lessons from TaniHub and Indonesia’s first agritech generation
+### 7. The agritech credit paradox: Lessons from TaniHub and Indonesia’s first agritech generation
 - source: e27 Asia Startup and Tech Feed
 - score: `7`
 - published: `2026-10-02T01:00:55+00:00`
 - url: https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/
 - summary: Indonesia’s agritech sector looks different in 2026 than it did when TaniHub raised its Series B in 2021. The cohort of platforms that emerged in the late 2010s — TaniHub, Crowde, iGrow, Sayurbox, and others — aimed to do for smallholder agriculture what fint…
-
-### 7. 2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）
-- source: Japan Digital Agency News RSS
-- score: `6`
-- published: `2026-10-02T02:43:05+00:00`
-- url: https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/
-- summary: 2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）
 
 END OF DOCUMENT

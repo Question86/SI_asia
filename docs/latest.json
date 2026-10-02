@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T02:55:08+00:00",
-  "run_id": "2026-10-02T02:55:08+00:00",
+  "generated_at": "2026-10-02T03:03:22+00:00",
+  "run_id": "2026-10-02T03:03:22+00:00",
   "date": "2026-10-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 11
+      "configured_public_sources_only": 12
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 3,
-    "observe": 8,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
@@ -118,6 +118,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "84d50d48f920be7399e2"
+      },
+      {
+        "title": "SMEs adopt AI four times slower than big business, the fix starts with the PC",
+        "url": "https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-02T03:00:55+00:00",
+        "fetched_at": "2026-10-02T03:02:51+00:00",
+        "summary": "Talking about artificial intelligence (AI) in the context of Small, Medium Enterprises (SMEs) is no longer a discussion about the future, but about the present. According to IMDA’s latest data, SMEs’ AI adoption rate has more than tripled in just one year: 14.5 per cent of SMEs have adopted AI as compared to 62.5 per […] The post SMEs adopt AI four times slower than big business, the fix starts with the PC appeared…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9ce3b1733c86ff09ccf5"
       },
       {
         "title": "AI時代の勉強法(2026)",
@@ -357,6 +378,27 @@
       "id": "84d50d48f920be7399e2"
     },
     {
+      "title": "SMEs adopt AI four times slower than big business, the fix starts with the PC",
+      "url": "https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-02T03:00:55+00:00",
+      "fetched_at": "2026-10-02T03:02:51+00:00",
+      "summary": "Talking about artificial intelligence (AI) in the context of Small, Medium Enterprises (SMEs) is no longer a discussion about the future, but about the present. According to IMDA’s latest data, SMEs’ AI adoption rate has more than tripled in just one year: 14.5 per cent of SMEs have adopted AI as compared to 62.5 per […] The post SMEs adopt AI four times slower than big business, the fix starts with the PC appeared…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9ce3b1733c86ff09ccf5"
+    },
+    {
       "title": "AI時代の勉強法(2026)",
       "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
       "source": "Hatena Bookmark Hotentry IT",
@@ -505,24 +547,25 @@
   ],
   "new_findings": [
     {
-      "title": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）",
-      "url": "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/",
-      "source": "Japan Digital Agency News RSS",
+      "title": "SMEs adopt AI four times slower than big business, the fix starts with the PC",
+      "url": "https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-02T02:43:05+00:00",
-      "fetched_at": "2026-10-02T02:54:36+00:00",
-      "summary": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）",
+      "published_at": "2026-10-02T03:00:55+00:00",
+      "fetched_at": "2026-10-02T03:02:51+00:00",
+      "summary": "Talking about artificial intelligence (AI) in the context of Small, Medium Enterprises (SMEs) is no longer a discussion about the future, but about the present. According to IMDA’s latest data, SMEs’ AI adoption rate has more than tripled in just one year: 14.5 per cent of SMEs have adopted AI as compared to 62.5 per […] The post SMEs adopt AI four times slower than big business, the fix starts with the PC appeared…",
       "matched_keywords": [
+        "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5422de61b0c5086aa71e"
+      "id": "9ce3b1733c86ff09ccf5"
     }
   ],
   "source_errors": [],

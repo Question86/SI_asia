@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T02:55:08+00:00_
+_Generiert: 2026-10-02T03:03:22+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+12 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -119,6 +119,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)
   - Kurz: Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board to hire an independent adviser and explore a sale. Honig’s […] The post MoneyHero’s activist investor wants a sale. Richard Li holds the real vote appeared fir…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **SMEs adopt AI four times slower than big business, the fix starts with the PC** — Score 8, observation — [Quelle](https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-02T03:00:55+00:00`, fetched `2026-10-02T03:02:51+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Talking about artificial intelligence (AI) in the context of Small, Medium Enterprises (SMEs) is no longer a discussion about the future, but about the present. According to IMDA’s latest data, SMEs’ AI adoption rate has more than tripled in just one year: 14.5 per cent of SMEs have adopted AI as compared to 62.5 per […] The post SMEs adopt AI four times slower than big business, the fix starts with the PC appeared…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI時代の勉強法(2026)** — Score 8, observation — [Quelle](https://iwashi.co/2026/10/01/how-to-study-in-ai-era)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
