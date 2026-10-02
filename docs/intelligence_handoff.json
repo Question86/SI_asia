@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-02T04:56:08Z",
+  "generated_at": "2026-10-02T05:15:25Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:15+09:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:30+09:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -67,7 +67,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -93,7 +93,7 @@
       "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:29:31+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -120,7 +120,7 @@
       "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:28:53+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -147,7 +147,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -173,7 +173,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -197,7 +197,7 @@
       "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T04:25:38+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -219,37 +219,11 @@
       "summary": "The cryptocurrency sector is moving higher in a coordinated fashion. Bitcoin rose 1.70 per cent to US$85,002.11 over the past 24 hours. The total crypto market climbed 1.16 per cent to US$2.89T. This advance rests on two powerful forces. Institutional optimism and policy progress are working together. The result is a…"
     },
     {
-      "title": "Why Philippine companies are winning AI mentions but losing control of context",
-      "url": "https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-02T04:53:55+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "MoneyHero’s activist investor wants a sale. Richard Li holds the real vote",
       "url": "https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T02:36:37+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -269,11 +243,36 @@
       "summary": ""
     },
     {
+      "title": "古川大臣記者会見（令和8年10月2日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261002-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-02T04:24:46+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）",
       "url": "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T02:55:11+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -298,7 +297,7 @@
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 105.12,
+      "age_days": 105.14,
       "topics": [
         "general"
       ],
