@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T06:32:38+00:00",
+  "generated_at": "2026-10-02T07:00:50+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -1001,7 +1001,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_162e3ed4d6fa55b0fafa",
@@ -8426,7 +8426,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_a9168860075ad99c5a0d",
@@ -8547,7 +8547,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ab363d14a24d60a9648d",
@@ -11804,6 +11804,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_eafbf92c60bdc0a29328",
+      "title": "ローソンの“ふり”ではなく本物のメールサーバーを悪用 不審メール約70万件を送信 | おたくま経済新聞",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_eb16236e5ba8a531e765",
