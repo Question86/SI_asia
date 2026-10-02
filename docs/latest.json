@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T15:57:31+00:00",
-  "run_id": "2026-10-02T15:57:31+00:00",
+  "generated_at": "2026-10-02T16:18:54+00:00",
+  "run_id": "2026-10-02T16:18:54+00:00",
   "date": "2026-10-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 69
+      "configured_public_sources_only": 71
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 69,
-    "displayed_findings": 69,
+    "new_relevant_findings": 2,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 1,
-    "medium": 29,
-    "observe": 39,
+    "medium": 30,
+    "observe": 40,
     "source_errors": 0
   },
   "sections": {
@@ -63,6 +63,29 @@
       }
     ],
     "medium": [
+      {
+        "title": "A model guide for the GPT-6 family",
+        "url": "https://openai.com/index/practical-guide-building-gpt-6",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-02T16:15:00+00:00",
+        "fetched_at": "2026-10-02T16:18:20+00:00",
+        "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+        "matched_keywords": [
+          "AI Agents",
+          "APAC Trend Radar",
+          "Content-Chance",
+          "OpenAI"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3bda6b442d532716bdde"
+      },
       {
         "title": "Who gets to decide if AI is safe? Africa wants a say",
         "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
@@ -854,6 +877,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7aac408342e4288c84af"
+      },
+      {
+        "title": "M 4.7 - 5 km NNE of Korumburra, Australia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1y",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-02T16:17:19.040+00:00",
+        "fetched_at": "2026-10-02T16:18:20+00:00",
+        "summary": "Time 2026-10-02 16:01:39 UTC 2026-10-02 16:01:39 UTC at epicenter Location 38.380°S 145.840°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region australia: Australia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "7f54e9e5537e3408fb54"
       },
       {
         "title": "Ecosystem Roundup: MoneyHero’s activist wants a sale, but Richard Li holds the votes",
@@ -1782,6 +1841,29 @@
       "id": "9a28cbdd53162ad7881b"
     },
     {
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-02T16:15:00+00:00",
+      "fetched_at": "2026-10-02T16:18:20+00:00",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "Content-Chance",
+        "OpenAI"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3bda6b442d532716bdde"
+    },
+    {
       "title": "Who gets to decide if AI is safe? Africa wants a say",
       "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -2570,6 +2652,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "7aac408342e4288c84af"
+    },
+    {
+      "title": "M 4.7 - 5 km NNE of Korumburra, Australia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1y",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-02T16:17:19.040+00:00",
+      "fetched_at": "2026-10-02T16:18:20+00:00",
+      "summary": "Time 2026-10-02 16:01:39 UTC 2026-10-02 16:01:39 UTC at epicenter Location 38.380°S 145.840°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region australia: Australia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7f54e9e5537e3408fb54"
     },
     {
       "title": "Ecosystem Roundup: MoneyHero’s activist wants a sale, but Richard Li holds the votes",
@@ -3462,7 +3580,67 @@
       "id": "c909517437b35b1e5348"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-02T16:15:00+00:00",
+      "fetched_at": "2026-10-02T16:18:20+00:00",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "Content-Chance",
+        "OpenAI"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3bda6b442d532716bdde"
+    },
+    {
+      "title": "M 4.7 - 5 km NNE of Korumburra, Australia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1y",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-02T16:17:19.040+00:00",
+      "fetched_at": "2026-10-02T16:18:20+00:00",
+      "summary": "Time 2026-10-02 16:01:39 UTC 2026-10-02 16:01:39 UTC at epicenter Location 38.380°S 145.840°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region australia: Australia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7f54e9e5537e3408fb54"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

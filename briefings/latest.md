@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T15:57:31+00:00_
+_Generiert: 2026-10-02T16:18:54+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk).
+71 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -81,6 +81,15 @@ _Generiert: 2026-10-02T15:57:31+00:00_
 
 ## Priorität Mittel
 
+- **A model guide for the GPT-6 family** — Score 23, observation — [Quelle](https://openai.com/index/practical-guide-building-gpt-6)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-02T16:15:00+00:00`, fetched `2026-10-02T16:18:20+00:00`
+  - Treffer: AI Agents, APAC Trend Radar, Content-Chance, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
+  - Kurz: Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Who gets to decide if AI is safe? Africa wants a say** — Score 20, observation — [Quelle](https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-10-02T10:00:00+00:00`, fetched `2026-10-02T10:20:00+00:00`
@@ -207,15 +216,6 @@ _Generiert: 2026-10-02T15:57:31+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.69が公開されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **InsydeH2O IHISIにおける安全でないメモリ書き込みの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU92911062/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-10-02T10:00:00+09:00`, fetched `2026-10-02T01:20:34+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -237,6 +237,15 @@ _Generiert: 2026-10-02T15:57:31+00:00_
   - Warum relevant: Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Euro area quarterly balance of payments and international investment position: second quarter of 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 5 km NNE of Korumburra, Australia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1y)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-02T16:17:19.040+00:00`, fetched `2026-10-02T16:18:20+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region australia: Australia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-02 16:01:39 UTC 2026-10-02 16:01:39 UTC at epicenter Location 38.380°S 145.840°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Ecosystem Roundup: MoneyHero’s activist wants a sale, but Richard Li holds the votes** — Score 11, observation — [Quelle](https://e27.co/ecosystem-roundup-moneyheros-activist-wants-a-sale-but-richard-li-holds-the-votes-20261002/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-02T10:58:09+00:00`, fetched `2026-10-02T11:04:43+00:00`
@@ -317,15 +326,6 @@ _Generiert: 2026-10-02T15:57:31+00:00_
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-02 11:14:14 UTC 2026-10-02 11:14:14 UTC at epicenter Location 6.637°S 155.014°E Depth 38.25 km (23.77 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - 35 km SSW of El Colomo, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzx)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-02T07:11:55.040+00:00`, fetched `2026-10-02T07:28:01+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-02 06:53:35 UTC 2026-10-02 06:53:35 UTC at epicenter Location 18.756°N 104.375°W Depth 23.97 km (14.90 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The advice gap: Why VCs don’t practice what they preach** — Score 9, opportunity — [Quelle](https://e27.co/the-advice-gap-why-vcs-dont-practice-what-they-preach-20261002/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
