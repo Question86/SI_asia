@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T04:53:51+00:00_
+_Generiert: 2026-10-02T05:00:40+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „The hidden economics of autonomous AI agents“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+20 neue relevante Treffer. Stärkstes Signal: „The hidden economics of autonomous AI agents“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -134,6 +134,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)
   - Kurz: Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board to hire an independent adviser and explore a sale. Honig’s […] The post MoneyHero’s activist investor wants a sale. Richard Li holds the real vote appeared fir…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 159 km SE of Gizo, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-02T04:59:37.040+00:00`, fetched `2026-10-02T05:00:04+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-02 04:44:53 UTC 2026-10-02 04:44:53 UTC at epicenter Location 8.933°S 158.022°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 97 km S of Panguna, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzg)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-02T04:49:51.040+00:00`, fetched `2026-10-02T04:53:18+00:00`

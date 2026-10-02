@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-02T04:53:51+00:00_
+_Generated: 2026-10-02T05:00:40+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `20`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-02T04:53:51+00:00_
 - url: https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/
 - summary: Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board…
 
-### 6. M 4.9 - 97 km S of Panguna, Papua New Guinea
+### 6. M 5.1 - 159 km SE of Gizo, Solomon Islands
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-02T04:59:37.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl
+- summary: Time 2026-10-02 04:44:53 UTC 2026-10-02 04:44:53 UTC at epicenter Location 8.933°S 158.022°E Depth 10.00 km (6.21 mi)
+
+### 7. M 4.9 - 97 km S of Panguna, Papua New Guinea
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-02T04:49:51.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzg
 - summary: Time 2026-10-02 04:10:58 UTC 2026-10-02 04:10:58 UTC at epicenter Location 7.185°S 155.608°E Depth 35.00 km (21.75 mi)
 
-### 7. M 5.0 - south of the Fiji Islands
+### 8. M 5.0 - south of the Fiji Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-02T04:42:18.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzi
 - summary: Time 2026-10-02 04:27:05 UTC 2026-10-02 04:27:05 UTC at epicenter Location 24.775°S 178.645°E Depth 557.25 km (346.26 mi)
-
-### 8. SMEs adopt AI four times slower than big business, the fix starts with the PC
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-10-02T03:00:55+00:00`
-- url: https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/
-- summary: Talking about artificial intelligence (AI) in the context of Small, Medium Enterprises (SMEs) is no longer a discussion about the future, but about the present. According to IMDA’s latest data, SMEs’ AI adoption rate has more than tripled in just one year: 14…
 
 END OF DOCUMENT
