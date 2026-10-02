@@ -1,10 +1,10 @@
 # Economic Outcomes
 
-Generated: `2026-10-02T21:37:29+00:00`
+Generated: `2026-10-02T21:47:40+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
-| ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～ | $0 | — | 0 | 0 | active |
+| ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～ | $0 | — | 0 | 0 | dormant |
 | Startups should learn to leave bad markets faster | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 12 km SE of La Parguera, Puerto Rico | $0 | — | 0 | 0 | dormant |
 | Multiples vulnérabilités dans Postfix (09 septembre 2026) | $0 | — | 0 | 0 | dormant |
