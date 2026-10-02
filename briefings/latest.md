@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T15:49:09+00:00_
+_Generiert: 2026-10-02T15:57:31+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-10-02T15:49:09+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-102490 Zammad GmbH Zammad** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-02`
+  - Kurz: Known exploited vulnerability. Added 2026-10-02. Due 2026-10-05. Zammad GmbH Zammad Improper Privilege Management Vulnerability
+- **CISA KEV: CVE-2026-102489 Zammad GmbH Zammad** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-02`
+  - Kurz: Known exploited vulnerability. Added 2026-10-02. Due 2026-10-05. Zammad GmbH Zammad Session Fixation Vulnerability
 - **CISA KEV: CVE-2026-104286 Fortinet FortiMail** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-01`
@@ -21,14 +29,6 @@ _Generiert: 2026-10-02T15:49:09+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-29`
   - Kurz: Known exploited vulnerability. Added 2026-09-29. Due 2026-10-02. Apple Multiple Products Out-of-Bounds Write Vulnerability
-- **CISA KEV: CVE-2026-88772 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-27`
-  - Kurz: Known exploited vulnerability. Added 2026-09-27. Due 2026-09-30. Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability
-- **CISA KEV: CVE-2026-88771 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-27`
-  - Kurz: Known exploited vulnerability. Added 2026-09-27. Due 2026-09-30. Citrix NetScaler Improper Input Validation Vulnerability
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
