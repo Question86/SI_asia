@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-02T19:42:23Z",
+  "generated_at": "2026-10-02T19:51:56Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -97,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3538",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T08:21:29+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3691",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 35.23,
+      "age_days": 35.24,
       "topics": [
         "security"
       ],
@@ -150,7 +150,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3716",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T11:11:29+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -174,7 +174,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3714",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:51:29+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -198,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3367",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:46:29+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -295,7 +295,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html",
       "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 106.21,
+      "age_days": 106.22,
       "topics": [
         "general"
       ],
@@ -306,13 +306,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.24,
+      "baseline_z_hint": 0.9,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 1.24",
+        "baseline z_hint 0.90",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 106.2d old signal",
@@ -351,7 +351,7 @@
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:15+09:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "security"
       ],
@@ -377,7 +377,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1220/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-23T00:00:00+00:00",
-      "age_days": 9.82,
+      "age_days": 9.83,
       "topics": [
         "ai",
         "security"
@@ -404,7 +404,7 @@
       "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-02T15:36:24+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -430,7 +430,7 @@
       "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-02T13:36:30+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -456,7 +456,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3717",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T11:26:29+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -561,7 +561,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:30+09:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "security"
       ],
@@ -587,7 +587,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T10:00:00+09:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "security"
       ],
@@ -613,7 +613,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3699",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T09:31:29+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -639,7 +639,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3698",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T09:31:29+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -665,7 +665,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3715",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-02T10:51:29+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -717,7 +717,7 @@
       "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-02T13:15:40+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -797,7 +797,7 @@
       "url": "https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 105.5,
+      "age_days": 105.51,
       "topics": [
         "ai"
       ],
@@ -836,12 +836,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.01,
+      "baseline_z_hint": 6.57,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 7.01",
+        "baseline z_hint 6.57",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 107.0d old signal",
@@ -854,7 +854,7 @@
       "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-02T15:36:24+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -880,7 +880,7 @@
       "url": "https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-02T06:46:00.000+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "ai",
         "security"
@@ -907,7 +907,7 @@
       "url": "https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-02T10:00:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security"
@@ -934,7 +934,7 @@
       "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-02T13:15:25+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -960,7 +960,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "general"
       ],
@@ -986,7 +986,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T05:00:00+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "general"
       ],
@@ -1011,7 +1011,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "general"
       ],

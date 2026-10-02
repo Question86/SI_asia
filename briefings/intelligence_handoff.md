@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-02T19:42:23Z_
+_Generated: 2026-10-02T19:51:56Z_
 
 ## Lageurteil
 
@@ -42,10 +42,10 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `106.21`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `106.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: source breadth +2, momentum delta +3, baseline z_hint 1.24, high terms: rce, security high-signal: rce, aging penalty -8.0 for 106.2d old signal, extreme gate recheck: insufficient independent/current evidence
+- Warum: source breadth +2, momentum delta +3, baseline z_hint 0.90, high terms: rce, security high-signal: rce, aging penalty -8.0 for 106.2d old signal, extreme gate recheck: insufficient independent/current evidence
 - Quelle: https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html
 
 ### [NEU] [UNGEPATCHT] [kritisch] Foreman: Mehrere Schwachstellen
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-02T10:00:15+09:00` / age_days `0.78`
+- Published: `2026-10-02T10:00:15+09:00` / age_days `0.79`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-23T00:00:00+00:00` / age_days `9.82`
+- Published: `2026-09-23T00:00:00+00:00` / age_days `9.83`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: active, code, security high-signal: active, code, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-02T15:36:24+00:00` / age_days `0.17`
+- Published: `2026-10-02T15:36:24+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, security high-signal: security, advisory, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-02T13:36:30+00:00` / age_days `0.25`
+- Published: `2026-10-02T13:36:30+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-02T11:26:29+00:00` / age_days `0.34`
+- Published: `2026-10-02T11:26:29+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
