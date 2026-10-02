@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-02T07:47:31+00:00_
+_Generated: 2026-10-02T08:29:10+00:00_
 
 ## Status
-- status: `warning`
-- findings: `30`
+- status: `normal`
+- findings: `32`
 
 ## Top Signals
 
@@ -43,32 +43,32 @@ _Generated: 2026-10-02T07:47:31+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzy
 - summary: Time 2026-10-02 06:48:06 UTC 2026-10-02 06:48:06 UTC at epicenter Location 7.951°S 121.099°E Depth 10.00 km (6.21 mi)
 
-### 6. はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ
+### 6. Euro area quarterly balance of payments and international investment position: second quarter of 2026
+- source: ECB Statistical Press Releases
+- score: `13`
+- published: `2026-10-02T08:00:00+00:00`
+- url: https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html
+- summary: Euro area quarterly balance of payments and international investment position: second quarter of 2026
+
+### 7. はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-10-02T02:39:19+00:00`
 - url: https://labo.hatenastaff.com/entry/2026/10/02/113000
 - summary: はてな匿名ダイアリー20周年の取り組みのひとつとして、実験的に新しい技術への対応を進めています。 先日お知らせしたChatGPTに続き、Claudeからもはてな匿名ダイアリーを利用できるようになりました。 Claudeとの会話の中から、はてな匿名ダイアリーの投稿を探したり、読んだり、投稿*1したりできます。 Claudeからは...
 
-### 7. MoneyHero’s activist investor wants a sale. Richard Li holds the real vote
+### 8. MoneyHero’s activist investor wants a sale. Richard Li holds the real vote
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-10-02T02:26:14+00:00`
 - url: https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/
 - summary: Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board…
 
-### 8. M 4.8 - 35 km SSW of El Colomo, Mexico
+### 9. M 4.8 - 35 km SSW of El Colomo, Mexico
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-02T07:11:55.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzx
 - summary: Time 2026-10-02 06:53:35 UTC 2026-10-02 06:53:35 UTC at epicenter Location 18.756°N 104.375°W Depth 23.97 km (14.90 mi)
-
-### 9. The advice gap: Why VCs don’t practice what they preach
-- source: e27 Asia Startup and Tech Feed
-- score: `9`
-- published: `2026-10-02T05:00:25+00:00`
-- url: https://e27.co/the-advice-gap-why-vcs-dont-practice-what-they-preach-20261002/
-- summary: Walk into any pitch meeting, attend any LP conference, or read any VC blog, and you’ll be handed the same well-worn gospel: build diverse teams, move fast, be transparent, hire for culture, flatten hierarchies, and always be learning. This is the catechism of…
 
 END OF DOCUMENT
