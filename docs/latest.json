@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T13:36:28+00:00",
-  "run_id": "2026-10-02T13:36:28+00:00",
+  "generated_at": "2026-10-02T13:49:01+00:00",
+  "run_id": "2026-10-02T13:49:01+00:00",
   "date": "2026-10-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 58,
     "displayed_findings": 58,
     "high": 1,
@@ -2914,29 +2914,7 @@
       "id": "c909517437b35b1e5348"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Confidential comments on repository security advisories",
-      "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-02T13:15:40+00:00",
-      "fetched_at": "2026-10-02T13:35:59+00:00",
-      "summary": "You can now post confidential comments on repository security advisories. Confidential comments are visible only to people with write access to the repository, so you can discuss a report with… The post Confidential comments on repository security advisories appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub",
-        "Security"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+7.5); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1c4544d0bea546298ebf"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

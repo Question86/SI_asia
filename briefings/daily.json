@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T13:36:30+00:00",
+  "generated_at": "2026-10-02T13:49:04+00:00",
   "today_file_total": 58,
   "current_clusters": [
     {
@@ -298,29 +298,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:confidential-comments-repository-security-advisories",
-      "title": "Confidential comments on repository security advisories",
-      "sources": [
-        "GitHub Changelog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:ecosystem-roundup-moneyhero-activist-wants-sale-but-richard",
       "title": "Ecosystem Roundup: MoneyHero’s activist wants a sale, but Richard Li holds the votes",
       "sources": [
@@ -385,6 +362,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:confidential-comments-repository-security-advisories",
+      "title": "Confidential comments on repository security advisories",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
