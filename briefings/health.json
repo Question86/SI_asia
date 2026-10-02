@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-10-02T09:19:18+00:00",
-  "status": "normal",
+  "generated_at": "2026-10-02T09:50:20+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "new_relevant_findings": 2,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 1,
-    "medium": 9,
+    "medium": 11,
     "observe": 25,
-    "source_errors": 0
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "google_trends_thailand_hot",
+      "source_name": "Google Trends Thailand Hot Feed",
+      "source_type": "rss",
+      "error": "500 Server Error: Internal Server Error for url: https://trends.google.co.th/trending/rss?geo=TH"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }

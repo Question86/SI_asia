@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T09:19:18+00:00_
+_Generiert: 2026-10-02T09:50:20+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk).
+37 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -92,14 +92,23 @@ _Generiert: 2026-10-02T09:19:18+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [kritisch] Vercel Next.js: Schwachstelle ermöglicht Codeausführung** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3538)
+- **[UPDATE] [mittel] Vercel Next.js: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3699)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-02T08:21:29+00:00`, fetched `2026-10-02T08:28:31+00:00`
+  - Zeit: published `2026-10-02T09:31:29+00:00`, fetched `2026-10-02T09:49:45+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Vercel Next.js ausnutzen, um beliebigen Programmcode auszuführen.
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Vercel Next.js ausnutzen, um vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder Denial-of-Service-Zustände auszulösen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3698)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-02T09:31:29+00:00`, fetched `2026-10-02T09:49:45+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in cPanel cPanel/WHM ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen und um beliebigen Programmcode mit Administratorrechten auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -240,3 +249,7 @@ _Generiert: 2026-10-02T09:19:18+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_thailand_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.co.th/trending/rss?geo=TH

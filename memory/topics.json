@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-02T09:19:18+00:00",
+  "generated_at": "2026-10-02T09:50:20+00:00",
   "topics": {
     "ai": [
       {
@@ -103,6 +103,20 @@
         "published_at": "2026-10-02T10:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU92911062/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Vercel Next.js: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T09:31:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3699"
+      },
+      {
+        "title": "[UPDATE] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T09:31:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3698"
       },
       {
         "title": "[UPDATE] [kritisch] Vercel Next.js: Schwachstelle ermöglicht Codeausführung",

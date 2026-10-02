@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-02T09:19:18+00:00",
-  "run_id": "2026-10-02T09:19:18+00:00",
+  "generated_at": "2026-10-02T09:50:20+00:00",
+  "run_id": "2026-10-02T09:50:20+00:00",
   "date": "2026-10-02",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 35
+      "configured_public_sources_only": 37
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "new_relevant_findings": 2,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 1,
-    "medium": 9,
+    "medium": 11,
     "observe": 25,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [
@@ -308,6 +308,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "583de1f189f3e861dd24"
+      },
+      {
+        "title": "[UPDATE] [mittel] Vercel Next.js: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3699",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-02T09:31:29+00:00",
+        "fetched_at": "2026-10-02T09:49:45+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Vercel Next.js ausnutzen, um vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder Denial-of-Service-Zustände auszulösen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e3fb3486ced4122cd99a"
+      },
+      {
+        "title": "[UPDATE] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3698",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-02T09:31:29+00:00",
+        "fetched_at": "2026-10-02T09:49:45+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in cPanel cPanel/WHM ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen und um beliebigen Programmcode mit Administratorrechten auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8ca5d77fdd7e96c3bc26"
       },
       {
         "title": "[UPDATE] [kritisch] Vercel Next.js: Schwachstelle ermöglicht Codeausführung",
@@ -1222,6 +1268,52 @@
       "id": "583de1f189f3e861dd24"
     },
     {
+      "title": "[UPDATE] [mittel] Vercel Next.js: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3699",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-02T09:31:29+00:00",
+      "fetched_at": "2026-10-02T09:49:45+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Vercel Next.js ausnutzen, um vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder Denial-of-Service-Zustände auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e3fb3486ced4122cd99a"
+    },
+    {
+      "title": "[UPDATE] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3698",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-02T09:31:29+00:00",
+      "fetched_at": "2026-10-02T09:49:45+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in cPanel cPanel/WHM ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen und um beliebigen Programmcode mit Administratorrechten auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8ca5d77fdd7e96c3bc26"
+    },
+    {
       "title": "[UPDATE] [kritisch] Vercel Next.js: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3538",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1852,85 +1944,60 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Fortinet FortiMail: Schwachstelle ermöglicht Manipulation von Dateien",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3701",
+      "title": "[UPDATE] [hoch] cPanel cPanel/WHM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3698",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-02T09:11:29+00:00",
-      "fetched_at": "2026-10-02T09:18:46+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiMail ausnutzen, um Dateien zu manipulieren.",
+      "published_at": "2026-10-02T09:31:29+00:00",
+      "fetched_at": "2026-10-02T09:49:45+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in cPanel cPanel/WHM ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen und um beliebigen Programmcode mit Administratorrechten auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
         "Schwachstelle",
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
+        "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: Fortinet"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "de29444c3de764c23c12"
-    },
-    {
-      "title": "Households and non-financial corporations in the euro area: second quarter of 2026",
-      "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q2~444dc6a8ee.en.html",
-      "source": "ECB Statistical Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-10-02T09:00:00+00:00",
-      "fetched_at": "2026-10-02T09:18:46+00:00",
-      "summary": "Households and non-financial corporations in the euro area: second quarter of 2026",
-      "matched_keywords": [
-        "euro area",
-        "Macro/Policy"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "88d5907dcc3cab411ce7"
+      "id": "8ca5d77fdd7e96c3bc26"
     },
     {
-      "title": "OpenPOI API — 日本全国337万件のPOI検索API",
-      "url": "https://openpoiapi.com/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[UPDATE] [mittel] Vercel Next.js: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3699",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-02T02:14:44+00:00",
-      "fetched_at": "2026-10-02T09:18:46+00:00",
-      "summary": "渋谷駅のまわりで「カフェ」を探した状態から始まります。入力すると地図の範囲を優先した候補が出ます（/v1/suggest）。施設を選ぶと地図がその場所へ移動します。入力がカテゴリ名と完全に一致していれば、Enter を押すとそのカテゴリを表示中の地図の範囲を中心に近い順で検索します（/v1/search）。それ以外で Enter...",
+      "published_at": "2026-10-02T09:31:29+00:00",
+      "fetched_at": "2026-10-02T09:49:45+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Vercel Next.js ausnutzen, um vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder Denial-of-Service-Zustände auszulösen.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4296fcce978236117ea3"
+      "id": "e3fb3486ced4122cd99a"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "google_trends_thailand_hot",
+      "source_name": "Google Trends Thailand Hot Feed",
+      "source_type": "rss",
+      "error": "500 Server Error: Internal Server Error for url: https://trends.google.co.th/trending/rss?geo=TH"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
