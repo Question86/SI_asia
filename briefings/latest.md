@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T10:34:35+00:00_
+_Generiert: 2026-10-02T10:46:47+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk).
+45 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global

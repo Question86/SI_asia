@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-02T10:34:35+00:00",
+  "generated_at": "2026-10-02T10:46:47+00:00",
   "topics": {
     "ai": [
       {
@@ -119,6 +119,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3708"
       },
       {
+        "title": "[NEU] [mittel] Bouncy Castle: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3713"
+      },
+      {
         "title": "[UPDATE] [mittel] Red Hat OpenShift: Schwachstelle ermöglicht Manipulation von Dateien",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-02T10:26:30+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-10-02T10:26:30+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3711"
-      },
-      {
-        "title": "[NEU] [hoch] CODESYS Control Runtime und Gateway Client: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-02T10:26:30+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3710"
       }
     ],
     "geopolitics": [
@@ -175,6 +175,13 @@
         "published_at": "2026-10-02T10:26:30+00:00",
         "relevance_score": 15,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3708"
+      },
+      {
+        "title": "[NEU] [mittel] Bouncy Castle: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-02T10:41:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3713"
       },
       {
         "title": "[NEU] [mittel] MediaWiki: Mehrere Schwachstellen",
@@ -210,13 +217,6 @@
         "published_at": "2026-10-02T08:00:00+00:00",
         "relevance_score": 13,
         "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html"
-      },
-      {
-        "title": "Households and non-financial corporations in the euro area: second quarter of 2026",
-        "source": "ECB Statistical Press Releases",
-        "published_at": "2026-10-02T09:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q2~444dc6a8ee.en.html"
       }
     ],
     "economy": [
