@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-02T04:44:07Z",
+  "generated_at": "2026-10-02T04:56:08Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 32,
+    "dynamics": 38,
     "bands": {
       "krass": 4,
       "extreme": 1,
-      "strong": 5,
-      "watch": 5,
+      "strong": 6,
+      "watch": 10,
       "quiet": 17
     },
     "bands_after_gate_recheck": {
-      "strong": 10,
-      "watch": 5,
+      "strong": 11,
+      "watch": 10,
       "quiet": 17
     }
   },
@@ -102,7 +102,7 @@
       "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:29:31+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -129,7 +129,7 @@
       "url": "https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:28:53+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -156,7 +156,7 @@
       "url": "https://jvn.jp/vu/JVNVU94648869/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -182,7 +182,7 @@
       "url": "https://jvn.jp/vu/JVNVU92911062/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -206,7 +206,7 @@
       "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T04:25:38+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "macro"
@@ -228,11 +228,37 @@
       "summary": "The cryptocurrency sector is moving higher in a coordinated fashion. Bitcoin rose 1.70 per cent to US$85,002.11 over the past 24 hours. The total crypto market climbed 1.16 per cent to US$2.89T. This advance rests on two powerful forces. Institutional optimism and policy progress are working together. The result is a…"
     },
     {
+      "title": "Why Philippine companies are winning AI mentions but losing control of context",
+      "url": "https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-02T04:53:55+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "MoneyHero’s activist investor wants a sale. Richard Li holds the real vote",
       "url": "https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T02:36:37+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -281,7 +307,7 @@
       "url": "https://jvn.jp/vu/JVNVU91842649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 105.11,
+      "age_days": 105.12,
       "topics": [
         "general"
       ],
@@ -304,11 +330,86 @@
       "summary": ""
     },
     {
-      "title": "The agritech credit paradox: Lessons from TaniHub and Indonesia’s first agritech generation",
-      "url": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/",
+      "title": "古川大臣記者会見（令和8年10月2日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261002-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-02T04:24:46+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.9 - 97 km S of Panguna, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-02T04:49:51.040+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-02 04:10:58 UTC 2026-10-02 04:10:58 UTC at epicenter Location 7.185°S 155.608°E Depth 35.00 km (21.75 mi)"
+    },
+    {
+      "title": "M 5.0 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-02T04:42:18.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-02 04:27:05 UTC 2026-10-02 04:27:05 UTC at epicenter Location 24.775°S 178.645°E Depth 557.25 km (346.26 mi)"
+    },
+    {
+      "title": "The next information advantage is knowing what changed",
+      "url": "https://e27.co/the-next-information-advantage-is-knowing-what-changed-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 0.14,
+      "published_at": "2026-10-02T03:49:12+00:00",
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -328,27 +429,26 @@
       "summary": ""
     },
     {
-      "title": "古川大臣記者会見（令和8年10月2日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261002-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-02T04:24:46+00:00",
-      "age_days": 0.01,
+      "title": "The agritech credit paradox: Lessons from TaniHub and Indonesia’s first agritech generation",
+      "url": "https://e27.co/the-agritech-credit-paradox-lessons-from-tanihub-and-indonesias-first-agritech-generation-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-02T01:21:11+00:00",
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.0,
+      "dynamics_score": 16.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "high terms: 10"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -357,7 +457,7 @@
       "url": "https://www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T02:36:37+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -377,35 +477,86 @@
       "summary": ""
     },
     {
-      "title": "The next information advantage is knowing what changed",
-      "url": "https://e27.co/the-next-information-advantage-is-knowing-what-changed-20260930/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-02T03:49:12+00:00",
-      "age_days": 0.04,
+      "title": "M 4.9 - 97 km S of Panguna, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-02T04:53:55+00:00",
+      "age_days": 0.0,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.5,
+      "dynamics_score": 13.4,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +1"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 5.0 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-02T04:53:55+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Why Philippine companies are winning AI mentions but losing control of context",
+      "url": "https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-02T04:48:10+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For years, companies have treated Google rankings as the front door to online discovery. A new study from Manila-based digital marketing agency Spiralytics suggests that door is no longer the only one that matters. As consumers increasingly ask ChatGPT, Google Gemini and Perplexity for product recommendations, compari…"
     },
     {
       "title": "古川大臣記者会見（令和8年10月2日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261002-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T04:10:03+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -429,7 +580,7 @@
       "url": "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-02T02:43:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -449,35 +600,11 @@
       "summary": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）"
     },
     {
-      "title": "The October 2 US jobs report lands soon. Could it make or break Bitcoin’s rally?",
-      "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-02T04:40:47+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "12GB VRAMで125Bモデルを動かす「Strata」の概要｜npaka",
       "url": "https://note.com/npaka/n/n4a1185074686",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 31.42,
+      "age_days": 31.43,
       "topics": [
         "general"
       ],
@@ -502,7 +629,7 @@
       "url": "https://www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T14:05:52+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "general"
       ],
@@ -526,7 +653,7 @@
       "url": "https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:03:25+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -544,6 +671,30 @@
         "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The October 2 US jobs report lands soon. Could it make or break Bitcoin’s rally?",
+      "url": "https://e27.co/the-october-2-us-jobs-report-lands-soon-could-it-make-or-break-bitcoins-rally-20261002/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-02T04:40:47+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -603,7 +754,7 @@
       "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T23:26:31+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -629,7 +780,7 @@
       "url": "https://anond.hatelabo.jp/20260514203244",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T15:45:56+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -679,7 +830,7 @@
       "url": "https://note.com/npaka/n/n4a1185074686",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T22:53:10+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -705,7 +856,7 @@
       "url": "https://www.techno-edge.net/article/2026/10/02/5544.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T22:41:14+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -731,7 +882,7 @@
       "url": "https://www.techno-edge.net/article/2026/10/02/5544.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T08:23:39+00:00",
-      "age_days": 32.85,
+      "age_days": 32.86,
       "topics": [
         "ai"
       ],
@@ -748,7 +899,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -4.1 for 32.8d old signal",
+        "aging penalty -4.1 for 32.9d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -758,7 +909,7 @@
       "url": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 104.72,
+      "age_days": 104.73,
       "topics": [
         "ai"
       ],
@@ -785,7 +936,7 @@
       "url": "https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:00:55+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -811,7 +962,7 @@
       "url": "https://e27.co/the-next-information-advantage-is-knowing-what-changed-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-02T03:30:15+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
