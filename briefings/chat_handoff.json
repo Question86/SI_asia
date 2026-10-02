@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-02T10:55:34+00:00",
+  "generated_at": "2026-10-02T11:05:18+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 48,
-    "displayed_findings": 48,
+    "new_relevant_findings": 2,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 1,
     "medium": 22,
-    "observe": 25
+    "observe": 27
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "Ecosystem Roundup: MoneyHero’s activist wants a sale, but Richard Li holds the votes",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-02T10:58:09+00:00",
+      "relevance_score": 11,
+      "url": "https://e27.co/ecosystem-roundup-moneyheros-activist-wants-a-sale-but-richard-li-holds-the-votes-20261002/",
+      "summary": "Jonathan Honig, who owns about 9% of MoneyHero’s Class A shares, wants the Nasdaq-listed comparison platform sold. His open letter asks the board to hire an independent adviser and explore a sale before a 5 October deadline. Honig’s complaints are hard to dis…",
+      "section": "observe"
+    },
+    {
       "title": "はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -92,16 +102,6 @@
       "relevance_score": 11,
       "url": "https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/",
       "summary": "Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board…",
-      "section": "observe"
-    },
-    {
-      "title": "Households and non-financial corporations in the euro area: second quarter of 2026",
-      "source": "ECB Statistical Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-10-02T09:00:00+00:00",
-      "relevance_score": 10,
-      "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q2~444dc6a8ee.en.html",
-      "summary": "Households and non-financial corporations in the euro area: second quarter of 2026",
       "section": "observe"
     }
   ],

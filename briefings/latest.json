@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T10:55:34+00:00",
-  "run_id": "2026-10-02T10:55:34+00:00",
+  "generated_at": "2026-10-02T11:05:18+00:00",
+  "run_id": "2026-10-02T11:05:18+00:00",
   "date": "2026-10-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 48
+      "configured_public_sources_only": 50
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 48,
-    "displayed_findings": 48,
+    "new_relevant_findings": 2,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 1,
     "medium": 22,
-    "observe": 25,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -658,6 +658,27 @@
         "id": "7aac408342e4288c84af"
       },
       {
+        "title": "Ecosystem Roundup: MoneyHero’s activist wants a sale, but Richard Li holds the votes",
+        "url": "https://e27.co/ecosystem-roundup-moneyheros-activist-wants-a-sale-but-richard-li-holds-the-votes-20261002/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-02T10:58:09+00:00",
+        "fetched_at": "2026-10-02T11:04:43+00:00",
+        "summary": "Jonathan Honig, who owns about 9% of MoneyHero’s Class A shares, wants the Nasdaq-listed comparison platform sold. His open letter asks the board to hire an independent adviser and explore a sale before a 5 October deadline. Honig’s complaints are hard to dismiss: no permanent CEO six months after Rohith Murthy’s exit, revenue down from US$80.7 million in FY2023 […] The post Ecosystem Roundup: MoneyHero’s activist w…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Public Health"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d32649f1959e4c96db15"
+      },
+      {
         "title": "はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ",
         "url": "https://labo.hatenastaff.com/entry/2026/10/02/113000",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1093,6 +1114,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5422de61b0c5086aa71e"
+      },
+      {
+        "title": "【速報】ヤマト運輸、不正アクセスで顧客情報流出か",
+        "url": "https://www.47news.jp/15026982.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-02T09:50:04+00:00",
+        "fetched_at": "2026-10-02T11:04:43+00:00",
+        "summary": "ヤマト運輸は2日、インターネット通販向けの決済サービスに不正アクセスがあり、顧客の氏名や住所、電話番号などの個人情報が流出した可能性があると発表した。クレジットカード情報やパスワードは含まれていないという。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a77f5019935b1f1b7200"
       },
       {
         "title": "OpenPOI API — 日本全国337万件のPOI検索API",
@@ -1869,6 +1911,27 @@
       "id": "7aac408342e4288c84af"
     },
     {
+      "title": "Ecosystem Roundup: MoneyHero’s activist wants a sale, but Richard Li holds the votes",
+      "url": "https://e27.co/ecosystem-roundup-moneyheros-activist-wants-a-sale-but-richard-li-holds-the-votes-20261002/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-02T10:58:09+00:00",
+      "fetched_at": "2026-10-02T11:04:43+00:00",
+      "summary": "Jonathan Honig, who owns about 9% of MoneyHero’s Class A shares, wants the Nasdaq-listed comparison platform sold. His open letter asks the board to hire an independent adviser and explore a sale before a 5 October deadline. Honig’s complaints are hard to dismiss: no permanent CEO six months after Rohith Murthy’s exit, revenue down from US$80.7 million in FY2023 […] The post Ecosystem Roundup: MoneyHero’s activist w…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Public Health"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d32649f1959e4c96db15"
+    },
+    {
       "title": "はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ",
       "url": "https://labo.hatenastaff.com/entry/2026/10/02/113000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2306,6 +2369,27 @@
       "id": "5422de61b0c5086aa71e"
     },
     {
+      "title": "【速報】ヤマト運輸、不正アクセスで顧客情報流出か",
+      "url": "https://www.47news.jp/15026982.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-02T09:50:04+00:00",
+      "fetched_at": "2026-10-02T11:04:43+00:00",
+      "summary": "ヤマト運輸は2日、インターネット通販向けの決済サービスに不正アクセスがあり、顧客の氏名や住所、電話番号などの個人情報が流出した可能性があると発表した。クレジットカード情報やパスワードは含まれていないという。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a77f5019935b1f1b7200"
+    },
+    {
       "title": "OpenPOI API — 日本全国337万件のPOI検索API",
       "url": "https://openpoiapi.com/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2454,74 +2538,46 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] CUPS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3715",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Ecosystem Roundup: MoneyHero’s activist wants a sale, but Richard Li holds the votes",
+      "url": "https://e27.co/ecosystem-roundup-moneyheros-activist-wants-a-sale-but-richard-li-holds-the-votes-20261002/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-02T10:51:29+00:00",
-      "fetched_at": "2026-10-02T10:54:56+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in CUPS ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen.",
+      "published_at": "2026-10-02T10:58:09+00:00",
+      "fetched_at": "2026-10-02T11:04:43+00:00",
+      "summary": "Jonathan Honig, who owns about 9% of MoneyHero’s Class A shares, wants the Nasdaq-listed comparison platform sold. His open letter asks the board to hire an independent adviser and explore a sale before a 5 October deadline. Honig’s complaints are hard to dismiss: no permanent CEO six months after Rohith Murthy’s exit, revenue down from US$80.7 million in FY2023 […] The post Ecosystem Roundup: MoneyHero’s activist w…",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Patch",
-        "Schwachstelle",
-        "Security"
+        "APAC Trend Radar",
+        "Public Health"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f94e2e610714a2292eb5"
+      "id": "d32649f1959e4c96db15"
     },
     {
-      "title": "[NEU] [mittel] OpenBao: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3714",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "【速報】ヤマト運輸、不正アクセスで顧客情報流出か",
+      "url": "https://www.47news.jp/15026982.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-02T10:51:29+00:00",
-      "fetched_at": "2026-10-02T10:54:56+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenBao ausnutzen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen und um Informationen offenzulegen.",
+      "published_at": "2026-10-02T09:50:04+00:00",
+      "fetched_at": "2026-10-02T11:04:43+00:00",
+      "summary": "ヤマト運輸は2日、インターネット通販向けの決済サービスに不正アクセスがあり、顧客の氏名や住所、電話番号などの個人情報が流出した可能性があると発表した。クレジットカード情報やパスワードは含まれていないという。",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "96932fd06a88f623bc1b"
-    },
-    {
-      "title": "[UPDATE] [mittel] Python: Schwachstelle ermöglicht Manipulation und Offenlegung von Daten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3367",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-02T10:46:29+00:00",
-      "fetched_at": "2026-10-02T10:54:56+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Python ausnutzen, um Daten zu manipulieren oder offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8a0fcaabd2c0266ca1d2"
+      "id": "a77f5019935b1f1b7200"
     }
   ],
   "source_errors": [],

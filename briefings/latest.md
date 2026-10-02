@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T10:55:34+00:00_
+_Generiert: 2026-10-02T11:05:18+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk).
+50 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -196,6 +196,15 @@ _Generiert: 2026-10-02T10:55:34+00:00_
   - Warum relevant: Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Euro area quarterly balance of payments and international investment position: second quarter of 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Ecosystem Roundup: MoneyHero’s activist wants a sale, but Richard Li holds the votes** — Score 11, observation — [Quelle](https://e27.co/ecosystem-roundup-moneyheros-activist-wants-a-sale-but-richard-li-holds-the-votes-20261002/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-02T10:58:09+00:00`, fetched `2026-10-02T11:04:43+00:00`
+  - Treffer: APAC Trend Radar, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)
+  - Kurz: Jonathan Honig, who owns about 9% of MoneyHero’s Class A shares, wants the Nasdaq-listed comparison platform sold. His open letter asks the board to hire an independent adviser and explore a sale before a 5 October deadline. Honig’s complaints are hard to dismiss: no permanent CEO six months after Rohith Murthy’s exit, revenue down from US$80.7 million in FY2023 […] The post Ecosystem Roundup: MoneyHero’s activist w…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ** — Score 11, observation — [Quelle](https://labo.hatenastaff.com/entry/2026/10/02/113000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-02T02:39:19+00:00`, fetched `2026-10-02T05:23:25+00:00`
@@ -259,15 +268,6 @@ _Generiert: 2026-10-02T10:55:34+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-02 04:10:58 UTC 2026-10-02 04:10:58 UTC at epicenter Location 7.185°S 155.608°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **SMEs adopt AI four times slower than big business, the fix starts with the PC** — Score 8, observation — [Quelle](https://e27.co/how-ai-can-be-the-biggest-accelerator-for-smes-20260930/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-02T03:00:55+00:00`, fetched `2026-10-02T03:02:51+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Talking about artificial intelligence (AI) in the context of Small, Medium Enterprises (SMEs) is no longer a discussion about the future, but about the present. According to IMDA’s latest data, SMEs’ AI adoption rate has more than tripled in just one year: 14.5 per cent of SMEs have adopted AI as compared to 62.5 per […] The post SMEs adopt AI four times slower than big business, the fix starts with the PC appeared…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI時代の勉強法(2026)** — Score 8, observation — [Quelle](https://iwashi.co/2026/10/01/how-to-study-in-ai-era)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-01T23:26:31+00:00`, fetched `2026-10-02T00:52:30+00:00`
