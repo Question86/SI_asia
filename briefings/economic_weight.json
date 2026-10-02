@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T05:00:59+00:00",
+  "generated_at": "2026-10-02T05:24:23+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -724,7 +724,7 @@
       "p90_usd": 112800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T02:36:37+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -830,6 +830,23 @@
       "first_seen_at": "2026-09-03T14:34:12+00:00",
       "last_seen_at": "2026-09-03T14:34:12+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_aa69d5580928bdcd1ebb",
+      "title": "The advice gap: Why VCs don’t practice what they preach",
+      "event_classes": [
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 11120000.0,
+      "p50_usd": 1112000000.0,
+      "p90_usd": 111200000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-02T05:24:00+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_41161acb79759718291f",
@@ -3773,6 +3790,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_3a7bf2de406fc4388610",
+      "title": "M 5.1 - 159 km SE of Gizo, Solomon Islands",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_3dbfcfc39f34a1435ef4",
       "title": "M 5.0 - Fiji region",
       "event_classes": [
@@ -4432,7 +4466,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-02T04:53:55+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -5214,7 +5248,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-02T04:53:55+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -5847,23 +5881,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_3a7bf2de406fc4388610",
-      "title": "M 5.1 - 159 km SE of Gizo, Solomon Islands",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-02T05:00:43+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -5979,7 +5996,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -6421,7 +6438,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T01:21:11+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -6540,7 +6557,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T01:21:11+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -7730,7 +7747,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T03:29:31+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -8427,7 +8444,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T04:53:55+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -9787,7 +9804,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:29:39+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -14039,7 +14056,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T03:03:25+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -14991,7 +15008,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T03:49:12+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -15025,7 +15042,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T01:21:11+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -15365,7 +15382,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T04:24:46+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -16113,7 +16130,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T02:55:11+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -16489,6 +16506,23 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_c6fb8d34145222030524",
+      "title": "政策ダッシュボード一覧に国土強靭化の取組に関するダッシュボード（内閣官房）を掲載しました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-02T05:24:00+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -16896,7 +16930,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
       "last_seen_at": "2026-10-02T05:00:43+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_22f46873227d88b36a11",
@@ -17048,7 +17082,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -18001,7 +18035,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T02:36:37+00:00",
       "last_seen_at": "2026-10-02T05:00:43+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9344b26203e6d67b8d78",
@@ -18136,8 +18170,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T07:48:35+00:00",
-      "last_seen_at": "2026-10-01T22:53:18+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_9ee4a4eefa80fadb5a10",
@@ -18629,7 +18663,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T08:23:39+00:00",
-      "last_seen_at": "2026-10-02T05:00:43+00:00",
+      "last_seen_at": "2026-10-02T05:24:00+00:00",
       "status": "active"
     },
     {
@@ -19633,7 +19667,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T04:40:47+00:00",
       "last_seen_at": "2026-10-02T05:00:43+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a9f4d287cc08b9f0296e",
