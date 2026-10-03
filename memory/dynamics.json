@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-03T15:53:32Z",
+  "generated_at": "2026-10-03T17:24:15Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 30,
+    "dynamics": 32,
     "bands": {
       "strong": 9,
-      "watch": 9,
-      "quiet": 12
+      "watch": 8,
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
       "strong": 9,
-      "watch": 9,
-      "quiet": 12
+      "watch": 8,
+      "quiet": 15
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 106.34,
+      "age_days": 106.41,
       "topics": [
         "general"
       ],
@@ -40,7 +40,7 @@
         "momentum delta +3",
         "high terms: zero-day, rce, code",
         "security high-signal: zero-day, rce, code",
-        "aging penalty -8.0 for 106.3d old signal",
+        "aging penalty -8.0 for 106.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -50,7 +50,7 @@
       "url": "https://note.com/npaka/n/n2b9c36c471b6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 32.88,
+      "age_days": 32.95,
       "topics": [
         "ai",
         "security"
@@ -62,12 +62,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 10.67,
+      "baseline_z_hint": 10.1,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 10.67",
+        "baseline z_hint 10.10",
         "high terms: rce, code",
         "security high-signal: rce, code",
         "aging penalty -4.2 for 32.9d old signal",
@@ -80,7 +80,7 @@
       "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-03T08:23:00.000+00:00",
-      "age_days": 0.31,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -106,7 +106,7 @@
       "url": "https://note.com/npaka/n/n2b9c36c471b6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T04:08:11+00:00",
-      "age_days": 2.49,
+      "age_days": 2.55,
       "topics": [
         "ai",
         "security"
@@ -133,24 +133,25 @@
       "url": "https://voluntas.ghost.io/2026-10-first-half-llm/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T13:26:01+00:00",
-      "age_days": 0.1,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "strong",
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
         "high terms: 10",
         "single-source AI hype brake -8.0",
+        "krass gate: single-source non-official/non-identity signal capped",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -160,7 +161,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T06:25:52.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -185,7 +186,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:33:41+00:00",
-      "age_days": 0.64,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -211,7 +212,7 @@
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T01:40:44+00:00",
-      "age_days": 0.59,
+      "age_days": 0.66,
       "topics": [
         "general"
       ],
@@ -235,7 +236,7 @@
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-03T06:38:59+00:00",
-      "age_days": 0.39,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -259,7 +260,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T08:42:07+00:00",
-      "age_days": 1.3,
+      "age_days": 1.36,
       "topics": [
         "ai"
       ],
@@ -285,11 +286,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-28T23:45:53+00:00",
-      "age_days": 35.67,
+      "age_days": 35.73,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.36,
+      "dynamics_score": 17.34,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -301,33 +302,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -5.1 for 35.7d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "「決め方」の渡し方 / How to hand over the \"decision-making process\"",
-      "url": "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-03T14:42:48+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "aging penalty -5.2 for 35.7d old signal"
       ],
       "summary": ""
     },
@@ -336,7 +311,7 @@
       "url": "https://voluntas.ghost.io/2026-10-first-half-llm/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T08:13:44+00:00",
-      "age_days": 0.32,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "macro"
@@ -363,7 +338,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T14:21:50.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -384,11 +359,37 @@
       "summary": "Time 2026-10-03 13:51:11 UTC 2026-10-03 13:51:11 UTC at epicenter Location 27.495°S 179.483°W Depth 453.49 km (281.78 mi)"
     },
     {
+      "title": "「決め方」の渡し方 / How to hand over the \"decision-making process\"",
+      "url": "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-03T14:42:48+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 14.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明",
       "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T07:07:56+00:00",
-      "age_days": 0.37,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -412,7 +413,7 @@
       "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T04:30:15+00:00",
-      "age_days": 0.47,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -432,35 +433,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.5 - Kermadec Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-03T14:42:48+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
       "url": "https://revpdf.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:33:41+00:00",
-      "age_days": 0.64,
+      "age_days": 0.7,
       "topics": [
         "general"
       ],
@@ -480,11 +457,59 @@
       "summary": ""
     },
     {
+      "title": "ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府",
+      "url": "https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-03T17:12:39+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.5 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-03T14:42:48+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T22:00:08+00:00",
-      "age_days": 0.75,
+      "age_days": 0.81,
       "topics": [
         "general"
       ],
@@ -508,7 +533,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:45:23+00:00",
-      "age_days": 0.63,
+      "age_days": 0.69,
       "topics": [
         "general"
       ],
@@ -532,7 +557,7 @@
       "url": "https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T07:07:56+00:00",
-      "age_days": 0.37,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -558,7 +583,7 @@
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-03T06:38:25+00:00",
-      "age_days": 0.39,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "macro"
@@ -585,7 +610,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T06:38:59+00:00",
-      "age_days": 0.39,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -611,7 +636,7 @@
       "url": "https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T03:45:48+00:00",
-      "age_days": 0.51,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -637,7 +662,7 @@
       "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T14:56:01+00:00",
-      "age_days": 1.04,
+      "age_days": 1.1,
       "topics": [
         "general"
       ],
@@ -661,7 +686,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:45:10+00:00",
-      "age_days": 0.63,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -683,11 +708,37 @@
       "summary": "米Appleは10月2日（現地時間）、macOSの「フルディスクアクセス」（Full Disk Access）権限について、ユーザーがアプリにこの権限を与える際の制御を強化する方針を開発者向けサイトで発表した。具体的な導入時期や仕組みは明らかにしていない。 Appleによると、同社は開発者に強力なAPIを提供する一方、ユーザーのプラ..."
     },
     {
+      "title": "ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府",
+      "url": "https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-02T23:40:34+00:00",
+      "age_days": 0.74,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "内閣府規制改革推進室 内閣府科学技術・イノベーション推進事務局人工知能政策推進室 デジタル庁戦略・組織グループ 経済産業省経済産業政策局産業創造課 令和８年７月14日に閣議決定された「人工知能基本計画」では、単にＡＩを導入することにとどまらず、意思決定や業務の進め方を根底から見直すＡＸに率先して取り組..."
+    },
+    {
       "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
       "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 106.58,
+      "age_days": 106.64,
       "topics": [
         "ai"
       ],
@@ -714,7 +765,7 @@
       "url": "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-04-09T04:25:23+00:00",
-      "age_days": 177.48,
+      "age_days": 177.54,
       "topics": [
         "ai"
       ],
@@ -740,7 +791,7 @@
       "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T15:17:29+00:00",
-      "age_days": 1.03,
+      "age_days": 1.09,
       "topics": [
         "ai"
       ],
@@ -765,7 +816,7 @@
       "url": "https://revpdf.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-03-20T02:41:10+00:00",
-      "age_days": 197.55,
+      "age_days": 197.61,
       "topics": [
         "general"
       ],
