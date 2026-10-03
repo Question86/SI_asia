@@ -1,19 +1,19 @@
 # Senna Breaking
 
-_Generiert: 2026-10-02T23:57:27+00:00_
+_Generiert: 2026-10-03T00:33:41+00:00_
 
-## FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar
+## AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる
 
-- Ranking Score: `29.5`
+- Ranking Score: `30.5`
 - Raw Network Score: `26.1`
-- Max Monitor Score: `24`
+- Max Monitor Score: `21`
 - Reichweite: `specialist` / `2.5`
-- Early Signal: `nein`
+- Early Signal: `ja`
 - Dominanter Emitter: `nein`
-- Quellen: heise Security Alerts
+- Quellen: Hatena Bookmark Hotentry IT
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: stable (+0)
-- Erste Quelle: https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html
-- Handlung: HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.
+- Momentum: increasing (+1)
+- Erste Quelle: https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023
+- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 

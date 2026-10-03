@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-02T23:57:24+00:00_
+_Generiert: 2026-10-03T00:33:38+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar“ aus heise Security Alerts (Score 24, risk).
+2 neue relevante Treffer. Stärkstes Signal: „AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 21, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -65,297 +65,35 @@ _Generiert: 2026-10-02T23:57:24+00:00_
 
 ## Priorität Hoch
 
-- **FortiMail: Angriffe auf Zero-Day-Lücke laufen, Workaround verfügbar** — Score 24, risk — [Quelle](https://www.heise.de/news/FortiMail-Angriffe-auf-Zero-Day-Luecke-laufen-Workaround-verfuegbar-11473599.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-02T06:46:00.000+00:00`, fetched `2026-10-02T06:59:39+00:00`
-  - Treffer: Security, Watchgraph:cyber_active_exploitation
-  - Watchgraph: cyber_active_exploitation
-  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: Security (+7.5); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: Fortinet warnt vor Angriffen auf eine Zero-Day-Sicherheitslücke in FortiMail. Sie ermöglicht die Übernahme der Geräte aus dem Netz.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **A model guide for the GPT-6 family** — Score 23, observation — [Quelle](https://openai.com/index/practical-guide-building-gpt-6)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-10-02T16:15:00+00:00`, fetched `2026-10-02T16:18:20+00:00`
-  - Treffer: AI Agents, APAC Trend Radar, Content-Chance, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
-  - Kurz: Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Who gets to decide if AI is safe? Africa wants a say** — Score 20, observation — [Quelle](https://restofworld.org/2026/african-leaders-un-security-council-ai-safety/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-10-02T10:00:00+00:00`, fetched `2026-10-02T10:20:00+00:00`
-  - Treffer: Africa, AI/KI, Public Health, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Security (+6.0); Public Health (+6.2); Africa (+2.5); recent (+1.0)
-  - Kurz: African companies race to adopt American and Chinese AI, with little attention paid to safety.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Repository security advisory comments API in public preview** — Score 19, risk — [Quelle](https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-10-02T13:15:25+00:00`, fetched `2026-10-02T15:35:53+00:00`
-  - Treffer: CodeQL/Dependabot, GitHub, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+7.5); GitHub (+2.0); recent (+1.0)
-  - Kurz: You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory… The post Repository security advisory comments API in public preview appeared first on The GitHub Blog .
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The hidden economics of autonomous AI agents** — Score 19, opportunity — [Quelle](https://e27.co/the-hidden-economics-of-autonomous-ai-agents-20261002/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-02T03:28:53+00:00`, fetched `2026-10-02T03:28:54+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, founder, Watchgraph:ai_agents_workflow
+- **AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる** — Score 21, observation — [Quelle](https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-02T08:42:07+00:00`, fetched `2026-10-03T00:32:57+00:00`
+  - Treffer: AI Agents, GitHub, Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
   - Watchgraph: ai_agents_workflow
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: For many startup founders, the first attempt to understand the cost of artificial intelligence (AI) begins in the wrong place: the model provider’s pricing page. They calculate the price of input and output tokens, compare one model against another, and try to forecast usage as if AI were a simple utility meter. That approach may […] The post The hidden economics of autonomous AI agents appeared first on e27 .
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Singapore’s AI dividend will depend on what happens after the pilot phase** — Score 18, observation — [Quelle](https://e27.co/singapores-ai-dividend-will-depend-on-what-happens-after-the-pilot-phase-20261002/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-02T11:17:28+00:00`, fetched `2026-10-02T11:22:43+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Markets/Capital Structure
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph region southeast_asia: Singapore, ASEAN (+2.0)
-  - Kurz: Singapore’s early bet on artificial intelligence could give its economy a modest but meaningful lift as population ageing starts to bite. But the real test will not be how many companies say they use AI. It will be whether they can rebuild work around it. The ASEAN+3 Macroeconomic Research Office (AMRO) said in its annual […] The post Singapore’s AI dividend will depend on what happens after the pilot phase appeared…
+  - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 github.com Rustを書き始めた人にも使え...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Red Hat Enterprise Linux (libpcap): Schwachstelle ermöglicht Offenlegung von Informationen und Codeausführung** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3691)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-02T11:06:38+00:00`, fetched `2026-10-02T11:22:43+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (libpcap) ausnutzen, um Informationen offenzulegen und um beliebigen Programmcode auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [UNGEPATCHT] [mittel] CUPS: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3715)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-02T10:51:29+00:00`, fetched `2026-10-02T10:54:56+00:00`
-  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in CUPS ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [UNGEPATCHT] [kritisch] Foreman: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3712)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-02T10:26:30+00:00`, fetched `2026-10-02T10:34:05+00:00`
-  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Foreman ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **CISA ICS Advisory / ICS Medical Advisory（2026年10月01日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU91842649/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-10-02T10:00:15+09:00`, fetched `2026-10-02T01:20:34+00:00`
-  - Treffer: advisory, APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Why Philippine companies are winning AI mentions but losing control of context** — Score 16, observation — [Quelle](https://e27.co/why-philippine-companies-are-winning-ai-mentions-but-losing-control-of-context-20261002/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-02T04:48:10+00:00`, fetched `2026-10-02T04:53:18+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: Paris (+2.0)
-  - Kurz: For years, companies have treated Google rankings as the front door to online discovery. A new study from Manila-based digital marketing agency Spiralytics suggests that door is no longer the only one that matters. As consumers increasingly ask ChatGPT, Google Gemini and Perplexity for product recommendations, comparisons and buying advice, brands face a new visibility […] The post Why Philippine companies are winni…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Vulnérabilité dans F5 BIG-IP (23 septembre 2026)** — Score 16, risk — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1220/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-09-23T00:00:00+00:00`, fetched `2026-10-02T14:59:06+00:00`
-  - Treffer: avis, CERT-FR, Security, sécurité, vulnérabilité, éditeur
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
-  - Kurz: Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur indique que la vulnérabilité CVE-2026-94127 est activement exploitée. Des indicateurs de compromission sont disponibles dans l'avis de l'éditeur.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - 78 km WSW of San Nicolas, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1q)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-02T15:35:35.040+00:00`, fetched `2026-10-02T15:35:53+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-02 15:10:19 UTC 2026-10-02 15:10:19 UTC at epicenter Location 14.571°N 119.459°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 101 km NE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzy)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-02T07:24:34.040+00:00`, fetched `2026-10-02T07:28:01+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-02 06:48:06 UTC 2026-10-02 06:48:06 UTC at epicenter Location 7.951°S 121.099°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - 192 km WNW of Tobelo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzt)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-02T06:12:24.040+00:00`, fetched `2026-10-02T06:31:35+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-02 05:38:55 UTC 2026-10-02 05:38:55 UTC at epicenter Location 2.578°N 126.494°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年10月1日）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94648869/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-10-02T10:00:30+09:00`, fetched `2026-10-02T01:20:34+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.69が公開されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
-- **AI is rewriting the developer career ladder. Here’s how to stand out.** — Score 13, observation — [Quelle](https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-10-02T15:00:00+00:00`, fetched `2026-10-02T15:21:53+00:00`
-  - Treffer: AI/KI, Content-Chance, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Content-Chance (+6.2); GitHub (+2.0); recent (+1.0)
-  - Kurz: Learn three ways to get noticed and grow your career as AI reshapes how developers build software. The post AI is rewriting the developer career ladder. Here’s how to stand out. appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Euro area quarterly balance of payments and international investment position: second quarter of 2026** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html)
-  - Quelle: ECB Statistical Press Releases / `rss`
-  - Zeit: published `2026-10-02T08:00:00+00:00`, fetched `2026-10-02T08:28:31+00:00`
-  - Treffer: balance of payments, euro area, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Euro area quarterly balance of payments and international investment position: second quarter of 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.7 - 5 km NNE of Korumburra, Australia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz1y)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-02T16:17:19.040+00:00`, fetched `2026-10-02T16:18:20+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region australia: Australia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-02 16:01:39 UTC 2026-10-02 16:01:39 UTC at epicenter Location 38.380°S 145.840°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Ecosystem Roundup: MoneyHero’s activist wants a sale, but Richard Li holds the votes** — Score 11, observation — [Quelle](https://e27.co/ecosystem-roundup-moneyheros-activist-wants-a-sale-but-richard-li-holds-the-votes-20261002/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-02T10:58:09+00:00`, fetched `2026-10-02T11:04:43+00:00`
-  - Treffer: APAC Trend Radar, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)
-  - Kurz: Jonathan Honig, who owns about 9% of MoneyHero’s Class A shares, wants the Nasdaq-listed comparison platform sold. His open letter asks the board to hire an independent adviser and explore a sale before a 5 October deadline. Honig’s complaints are hard to dismiss: no permanent CEO six months after Rohith Murthy’s exit, revenue down from US$80.7 million in FY2023 […] The post Ecosystem Roundup: MoneyHero’s activist w…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ** — Score 11, observation — [Quelle](https://labo.hatenastaff.com/entry/2026/10/02/113000)
+- **Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF** — Score 4, observation — [Quelle](https://revpdf.com/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-02T02:39:19+00:00`, fetched `2026-10-02T05:23:25+00:00`
-  - Treffer: Hatena, hotentry, OpenAI
+  - Zeit: published `2026-03-20T02:41:10+00:00`, fetched `2026-10-03T00:32:57+00:00`
+  - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はてな匿名ダイアリー20周年の取り組みのひとつとして、実験的に新しい技術への対応を進めています。 先日お知らせしたChatGPTに続き、Claudeからもはてな匿名ダイアリーを利用できるようになりました。 Claudeとの会話の中から、はてな匿名ダイアリーの投稿を探したり、読んだり、投稿*1したりできます。 Claudeからは...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **MoneyHero’s activist investor wants a sale. Richard Li holds the real vote** — Score 11, observation — [Quelle](https://e27.co/moneyheros-activist-investor-wants-a-sale-richard-li-holds-the-real-vote-20261002/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-02T02:26:14+00:00`, fetched `2026-10-02T02:36:06+00:00`
-  - Treffer: APAC Trend Radar, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)
-  - Kurz: Every comparison site promises to find you a better deal. Jonathan Honig thinks it’s time MoneyHero found one for itself. On 29 September, the investor, who says he owns about 9 per cent of MoneyHero’s Class A shares, published an open letter asking the board to hire an independent adviser and explore a sale. Honig’s […] The post MoneyHero’s activist investor wants a sale. Richard Li holds the real vote appeared fir…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **New fields for SecurityAdvisory GraphQL API** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-10-02T13:18:00+00:00`, fetched `2026-10-02T15:35:53+00:00`
-  - Treffer: GitHub, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); GitHub (+2.0); recent (+1.0)
-  - Kurz: You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:… The post New fields for SecurityAdvisory GraphQL API appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Confidential comments on repository security advisories** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-10-02T13:15:40+00:00`, fetched `2026-10-02T13:35:59+00:00`
-  - Treffer: GitHub, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); GitHub (+2.0); recent (+1.0)
-  - Kurz: You can now post confidential comments on repository security advisories. Confidential comments are visible only to people with write access to the repository, so you can discuss a report with… The post Confidential comments on repository security advisories appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～** — Score 10, observation — [Quelle](https://lpi.or.jp/news/press/page/20261001_01/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-02T12:06:40+00:00`, fetched `2026-10-02T21:36:15+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～ Linux技術者認定「LinuC(リナック)」などを実施する特定非営利活動法人エルピーアイジャパン(以下:LPI-Japan、東京都千代田区、理事長 鈴木 敦夫)...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Households and non-financial corporations in the euro area: second quarter of 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_early2026q2~444dc6a8ee.en.html)
-  - Quelle: ECB Statistical Press Releases / `rss`
-  - Zeit: published `2026-10-02T09:00:00+00:00`, fetched `2026-10-02T09:18:46+00:00`
-  - Treffer: euro area, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Households and non-financial corporations in the euro area: second quarter of 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 171 km SE of Vilyuchinsk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8l)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-02T21:17:30.040+00:00`, fetched `2026-10-02T21:25:09+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-02 20:54:15 UTC 2026-10-02 20:54:15 UTC at epicenter Location 51.689°N 159.884°E Depth 30.93 km (19.22 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 136 km SSE of Vilyuchinsk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz8a)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-02T21:00:21.040+00:00`, fetched `2026-10-02T21:10:21+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-02 20:25:29 UTC 2026-10-02 20:25:29 UTC at epicenter Location 51.862°N 159.397°E Depth 38.83 km (24.13 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-02T13:00:00+00:00`, fetched `2026-10-02T13:22:25+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The advice gap: Why VCs don’t practice what they preach** — Score 9, opportunity — [Quelle](https://e27.co/the-advice-gap-why-vcs-dont-practice-what-they-preach-20261002/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-02T05:00:25+00:00`, fetched `2026-10-02T05:23:25+00:00`
-  - Treffer: APAC Trend Radar, founder, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Walk into any pitch meeting, attend any LP conference, or read any VC blog, and you’ll be handed the same well-worn gospel: build diverse teams, move fast, be transparent, hire for culture, flatten hierarchies, and always be learning. This is the catechism of the modern venture capitalist, wisdom dispensed freely, with conviction, to the founders […] The post The advice gap: Why VCs don’t practice what they preach a…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-02T11:30:00+00:00`, fetched `2026-10-02T11:34:44+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0)
+  - Kurz: The PDF editor that stays on your device. Edit text and images, redact, sign, compress, split, merge and convert PDFs, entirely on your own machine. No uploads. No accounts. No subscription. Just a fast, native app that does the work.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 
