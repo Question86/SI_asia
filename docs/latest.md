@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-03T20:06:11+00:00_
+_Generiert: 2026-10-03T21:11:08+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung“ aus heise Security Alerts (Score 24, risk).
+20 neue relevante Treffer. Stärkstes Signal: „Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung“ aus heise Security Alerts (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -86,6 +86,15 @@ _Generiert: 2026-10-03T20:06:11+00:00_
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: The design language that makes your AI harness better at design. https://impeccable.style Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install , then run /impeccable init inside your AI coding tool. Full docs: impeccable.style . Why Impeccable…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 121 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze6)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-03T20:48:12.040+00:00`, fetched `2026-10-03T21:10:34+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-03 20:33:45 UTC 2026-10-03 20:33:45 UTC at epicenter Location 14.105°N 93.352°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 72 km NE of Sittwe, Burma (Myanmar)** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdp)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-03T18:34:52.040+00:00`, fetched `2026-10-03T19:12:23+00:00`
@@ -103,15 +112,6 @@ _Generiert: 2026-10-03T20:06:11+00:00_
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-03 17:24:12 UTC 2026-10-03 17:24:12 UTC at epicenter Location 6.050°S 147.168°E Depth 81.86 km (50.87 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-03T14:21:50.040+00:00`, fetched `2026-10-03T14:42:06+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-03 13:51:11 UTC 2026-10-03 13:51:11 UTC at epicenter Location 27.495°S 179.483°W Depth 453.49 km (281.78 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **韓国6行に「AIハッキング」、4行で個人情報流出** — Score 8, observation — [Quelle](https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
