@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-03T21:11:08+00:00_
+_Generated: 2026-10-03T22:13:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `21`
 
 ## Top Signals
 
@@ -50,25 +50,25 @@ _Generated: 2026-10-03T21:11:08+00:00_
 - url: https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process
 - summary: 【Startup in Agile #7 】ボトルネックは人の意思決定？「決め方」の変遷教えて https://startup-in-agile.connpass.com/event/386112/
 
-### 7. Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan
+### 7. Microsoft Digital Defense Report 2026 | Microsoft
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-03T08:35:42+00:00`
+- url: https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/reports/microsoft-digital-defense-report/
+- summary: In an era of interconnected risk, attackers are increasingly exploiting the trusted identities, systems, relationships, and services organizations rely on most. The 2026 Microsoft Digital Defense Report reveals a fundamental shift in cybersecurity with the in…
+
+### 8. Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-10-02T22:00:08+00:00`
 - url: https://linuc.org/textbooks/network/
 - summary: ネットワークの仕組みを実習を通して基礎から学べる教材 「Linuxネットワーク標準教科書」は、Linux技術者教育に利用していただくことを目的として、LPI-Japanが無料で公開しています。 ネットワークの仕組みを実習を通して基礎から学べる教材です。実際にLinuxを操作して理解できます。 本教科書は、多くの教育機関から...
 
-### 8. pbakaus/impeccable
+### 9. pbakaus/impeccable
 - source: GitHub Trending RSS All Languages Daily
 - score: `11`
 - published: `None`
 - url: https://github.com/pbakaus/impeccable
 - summary: The design language that makes your AI harness better at design. https://impeccable.style Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quic…
-
-### 9. M 4.5 - 121 km SW of Puerto Madero, Mexico
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-03T20:48:12.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze6
-- summary: Time 2026-10-03 20:33:45 UTC 2026-10-03 20:33:45 UTC at epicenter Location 14.105°N 93.352°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
