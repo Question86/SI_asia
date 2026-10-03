@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-03T03:07:14Z_
+_Generated: 2026-10-03T03:41:23Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “AIに実装を任せながら、Rustを�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-10-03T00:33:41+00:00` / age_days `0.11`
+- Published: `2026-10-03T00:33:41+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “AIに実装を任せながら、Rustを�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-10-03T01:40:44+00:00` / age_days `0.06`
+- Published: `2026-10-03T01:40:44+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “AIに実装を任せながら、Rustを�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-10-02T08:42:07+00:00` / age_days `0.77`
+- Published: `2026-10-02T08:42:07+00:00` / age_days `0.79`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “AIに実装を任せながら、Rustを�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-10-03T00:33:41+00:00` / age_days `0.11`
+- Published: `2026-10-03T00:33:41+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “AIに実装を任せながら、Rustを�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-10-02T22:00:08+00:00` / age_days `0.21`
+- Published: `2026-10-02T22:00:08+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -62,17 +62,17 @@ Stärkste Dynamik nach Gate-Recheck: “AIに実装を任せながら、Rustを�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `106.05`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `106.07`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 0.33, single-source AI hype brake -8.0, aging penalty -8.0 for 106.0d old signal, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, baseline z_hint 0.30, single-source AI hype brake -8.0, aging penalty -8.0 for 106.1d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14
 
 ### 新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-10-02T15:17:29+00:00` / age_days `0.49`
+- Published: `2026-10-02T15:17:29+00:00` / age_days `0.52`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “AIに実装を任せながら、Rustを�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-03-20T02:41:10+00:00` / age_days `197.02`
+- Published: `2026-03-20T02:41:10+00:00` / age_days `197.04`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: aging penalty -16.0 for 197.0d old signal
