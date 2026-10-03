@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T07:48:33+00:00",
+  "generated_at": "2026-10-03T07:58:45+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3662,13 +3662,12 @@
     },
     "domain:qiita.com": {
       "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
-      "updated_at": "2026-10-03T07:48:33+00:00",
+      "updated_at": "2026-10-03T07:58:45+00:00",
       "network_scores": [
         6.1,
         6.1,
         6.1,
         6.1,
-        6.1,
         10.1,
         7.1,
         7.1,
@@ -3679,6 +3678,7 @@
         7.1,
         7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -3695,10 +3695,10 @@
         7.1,
         7.1
       ],
-      "rolling_average": 7.13,
+      "rolling_average": 7.17,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.03
+      "z_hint": -0.07
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -6989,19 +6989,20 @@
     },
     "earthquake:japan:4.8": {
       "title": "M 4.8 - 112 km S of Koshima, Japan",
-      "updated_at": "2026-10-03T07:48:33+00:00",
+      "updated_at": "2026-10-03T07:58:45+00:00",
       "network_scores": [
         20.7,
         17.7,
         20.7,
         17.7,
         17.7,
+        17.7,
         17.7
       ],
-      "rolling_average": 18.7,
+      "rolling_average": 18.56,
       "rolling_peak": 20.7,
       "last_score": 17.7,
-      "z_hint": -1.0
+      "z_hint": -0.86
     },
     "domain:four.htmx.org": {
       "title": "htmx 4.0.0 has been released!",
@@ -58785,7 +58786,7 @@
     },
     "title:rust-rust-learning-lab": {
       "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
-      "updated_at": "2026-10-03T07:48:33+00:00",
+      "updated_at": "2026-10-03T07:58:45+00:00",
       "network_scores": [
         26.1,
         23.1,
@@ -58803,16 +58804,17 @@
         23.1,
         23.1,
         23.1,
+        23.1,
         23.1
       ],
-      "rolling_average": 23.28,
+      "rolling_average": 23.27,
       "rolling_peak": 26.1,
       "last_score": 23.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "domain:revpdf.com": {
       "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
-      "updated_at": "2026-10-03T07:48:33+00:00",
+      "updated_at": "2026-10-03T07:58:45+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -58830,16 +58832,17 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.28,
+      "rolling_average": 6.27,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "domain:linuc.org": {
       "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
-      "updated_at": "2026-10-03T07:48:33+00:00",
+      "updated_at": "2026-10-03T07:58:45+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -58855,16 +58858,17 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.3,
+      "rolling_average": 13.29,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:web-cloudflareworkers": {
       "title": "宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』",
-      "updated_at": "2026-10-03T07:48:33+00:00",
+      "updated_at": "2026-10-03T07:58:45+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -58875,30 +58879,61 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.4,
+      "rolling_average": 7.37,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "github_repo:pbakaus/impeccable": {
       "title": "pbakaus/impeccable",
-      "updated_at": "2026-10-03T07:48:33+00:00",
+      "updated_at": "2026-10-03T07:58:45+00:00",
       "network_scores": [
         16.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.85,
+      "rolling_average": 13.7,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:apple-macos": {
       "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」",
-      "updated_at": "2026-10-03T07:48:33+00:00",
+      "updated_at": "2026-10-03T07:58:45+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.7,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.6
+    },
+    "domain:www.chosunonline.com": {
+      "title": "韓国6行に「AIハッキング」、4行で個人情報流出",
+      "updated_at": "2026-10-03T07:58:45+00:00",
+      "network_scores": [
+        13.1,
+        10.1,
+        10.1,
+        10.1
+      ],
+      "rolling_average": 10.85,
+      "rolling_peak": 13.1,
+      "last_score": 10.1,
+      "z_hint": -0.75
+    },
+    "url:https://www.itmedia.co.jp/news/article/2610/03/2000001981/": {
+      "title": "「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明",
+      "updated_at": "2026-10-03T07:58:45+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -58909,32 +58944,6 @@
       "rolling_peak": 10.1,
       "last_score": 7.1,
       "z_hint": -0.75
-    },
-    "domain:www.chosunonline.com": {
-      "title": "韓国6行に「AIハッキング」、4行で個人情報流出",
-      "updated_at": "2026-10-03T07:48:33+00:00",
-      "network_scores": [
-        13.1,
-        10.1,
-        10.1
-      ],
-      "rolling_average": 11.1,
-      "rolling_peak": 13.1,
-      "last_score": 10.1,
-      "z_hint": -1.0
-    },
-    "url:https://www.itmedia.co.jp/news/article/2610/03/2000001981/": {
-      "title": "「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明",
-      "updated_at": "2026-10-03T07:48:33+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 8.1,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -1.0
     }
   }
 }
