@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-03T13:25:58+00:00",
-  "run_id": "2026-10-03T13:25:58+00:00",
+  "generated_at": "2026-10-03T14:42:45+00:00",
+  "run_id": "2026-10-03T14:42:45+00:00",
   "date": "2026-10-03",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 13
+      "configured_public_sources_only": 15
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "new_relevant_findings": 2,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 1,
     "medium": 4,
-    "observe": 8,
-    "source_errors": 0
+    "observe": 10,
+    "source_errors": 1
   },
   "sections": {
     "high": [
@@ -245,6 +245,29 @@
     ],
     "observe": [
       {
+        "title": "「決め方」の渡し方 / How to hand over the \"decision-making process\"",
+        "url": "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-04-09T04:25:23+00:00",
+        "fetched_at": "2026-10-03T14:42:06+00:00",
+        "summary": "【Startup in Agile #7 】ボトルネックは人の意思決定？「決め方」の変遷教えて https://startup-in-agile.connpass.com/event/386112/",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Content-Chance",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "75242179a7a8e76ad1fc"
+      },
+      {
         "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
         "url": "https://linuc.org/textbooks/network/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -288,6 +311,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f1b0fec9dab700efda85"
+      },
+      {
+        "title": "M 4.5 - Kermadec Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-03T14:21:50.040+00:00",
+        "fetched_at": "2026-10-03T14:42:06+00:00",
+        "summary": "Time 2026-10-03 13:51:11 UTC 2026-10-03 13:51:11 UTC at epicenter Location 27.495°S 179.483°W Depth 453.49 km (281.78 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "fbcc3dc627db37f3868b"
       },
       {
         "title": "韓国6行に「AIハッキング」、4行で個人情報流出",
@@ -632,6 +691,29 @@
       "id": "e3f193da14dfea48882d"
     },
     {
+      "title": "「決め方」の渡し方 / How to hand over the \"decision-making process\"",
+      "url": "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-04-09T04:25:23+00:00",
+      "fetched_at": "2026-10-03T14:42:06+00:00",
+      "summary": "【Startup in Agile #7 】ボトルネックは人の意思決定？「決め方」の変遷教えて https://startup-in-agile.connpass.com/event/386112/",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "75242179a7a8e76ad1fc"
+    },
+    {
       "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -675,6 +757,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "f1b0fec9dab700efda85"
+    },
+    {
+      "title": "M 4.5 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-03T14:21:50.040+00:00",
+      "fetched_at": "2026-10-03T14:42:06+00:00",
+      "summary": "Time 2026-10-03 13:51:11 UTC 2026-10-03 13:51:11 UTC at epicenter Location 27.495°S 179.483°W Depth 453.49 km (281.78 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "fbcc3dc627db37f3868b"
     },
     {
       "title": "韓国6行に「AIハッキング」、4行で個人情報流出",
@@ -806,54 +924,73 @@
   ],
   "new_findings": [
     {
-      "title": "2026 年 10 月前半の LLM 利用状況",
-      "url": "https://voluntas.ghost.io/2026-10-first-half-llm/",
+      "title": "「決め方」の渡し方 / How to hand over the \"decision-making process\"",
+      "url": "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-03T08:13:44+00:00",
-      "fetched_at": "2026-10-03T13:25:23+00:00",
-      "summary": "あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。 サブスクサブスクは Ollama Cloud と Cursor と Codex の三つ。 Ollama CloudTeam プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替えた。 Ollama Cloud は月 $5...",
+      "published_at": "2026-04-09T04:25:23+00:00",
+      "fetched_at": "2026-10-03T14:42:06+00:00",
+      "summary": "【Startup in Agile #7 】ボトルネックは人の意思決定？「決め方」の変遷教えて https://startup-in-agile.connpass.com/event/386112/",
       "matched_keywords": [
-        "AI/KI",
+        "APAC Trend Radar",
+        "Content-Chance",
         "Hatena",
-        "hotentry",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
+        "hotentry"
       ],
-      "relevance_score": 20,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
+      "relevance_score": 13,
+      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "75242179a7a8e76ad1fc"
+    },
+    {
+      "title": "M 4.5 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-03T14:21:50.040+00:00",
+      "fetched_at": "2026-10-03T14:42:06+00:00",
+      "summary": "Time 2026-10-03 13:51:11 UTC 2026-10-03 13:51:11 UTC at epicenter Location 27.495°S 179.483°W Depth 453.49 km (281.78 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "ai_agents_workflow"
+        "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "id": "c4755f1654c5bba18e9e"
+      "id": "fbcc3dc627db37f3868b"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "cert_fr_alerts",
+      "source_name": "CERT-FR Alertes",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.cert.ssi.gouv.fr', port=443): Max retries exceeded with url: /alerte/feed/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.cert.ssi.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

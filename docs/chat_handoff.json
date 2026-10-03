@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-03T13:25:58+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-10-03T14:42:45+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "new_relevant_findings": 2,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 1,
     "medium": 4,
-    "observe": 8
+    "observe": 10
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung",
@@ -65,6 +65,16 @@
       "section": "medium"
     },
     {
+      "title": "「決め方」の渡し方 / How to hand over the \"decision-making process\"",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-04-09T04:25:23+00:00",
+      "relevance_score": 13,
+      "url": "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process",
+      "summary": "【Startup in Agile #7 】ボトルネックは人の意思決定？「決め方」の変遷教えて https://startup-in-agile.connpass.com/event/386112/",
+      "section": "observe"
+    },
+    {
       "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -85,23 +95,13 @@
       "section": "observe"
     },
     {
-      "title": "韓国6行に「AIハッキング」、4行で個人情報流出",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.5 - Kermadec Islands region",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-03T03:45:48+00:00",
-      "relevance_score": 8,
-      "url": "https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html",
-      "summary": "韓国6行に「AIハッキング」、4行で個人情報流出 1日から2日にかけて、新韓銀行・KB国民銀行・ハナ銀行・ウリ銀行・NH農協銀行・BNK釜山銀行など、韓国国内の少なくとも6つの銀行で、AI（人工知能）ツールを活用したとみられるハッキング攻撃が同時多発的に発生した。このうち三大銀行の新韓銀行（約2万5000人）、KB国民...",
-      "section": "observe"
-    },
-    {
-      "title": "「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-03T00:45:23+00:00",
-      "relevance_score": 5,
-      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
-      "summary": "メンズカジュアルブランド「アバハウス」などを展開するアバハウスインターナショナルは10月2日、第三者による社内システムへの不正アクセスで、顧客の個人情報が漏えいした可能性があると発表した。データベース全体に不正にアクセスされた可能性があり、会員情報を預かっているすべての顧客が対象になる可能性があると...",
+      "published_at": "2026-10-03T14:21:50.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
+      "summary": "Time 2026-10-03 13:51:11 UTC 2026-10-03 13:51:11 UTC at epicenter Location 27.495°S 179.483°W Depth 453.49 km (281.78 mi)",
       "section": "observe"
     }
   ],
@@ -110,152 +110,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung",
-        "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
-        "source": "heise Security Alerts",
-        "published_at": "2026-06-19T07:39:37+00:00",
-        "age_days": 106.29,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: zero-day, rce, code",
-          "security high-signal: zero-day, rce, code",
-          "aging penalty -8.0 for 106.3d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Codex Security ・ Claude Security 入門｜npaka",
-        "url": "https://note.com/npaka/n/n2b9c36c471b6",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-31T18:43:10+00:00",
-        "age_days": 32.83,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 11.23,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 11.23",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -4.1 for 32.8d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung",
-        "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-03T08:23:00.000+00:00",
-        "age_days": 0.26,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: zero-day, active, exploitation",
-          "security high-signal: zero-day, active, exploitation, code",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": "Sicherheitsforscher und Administratoren melden massenhafte Spontanreboots betroffener Geräte. Diese waren auf dem neuesten Patchstand."
-      },
-      {
-        "title": "Codex Security ・ Claude Security 入門｜npaka",
-        "url": "https://note.com/npaka/n/n2b9c36c471b6",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-01T04:08:11+00:00",
-        "age_days": 2.44,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": "「Codex Security」と「Claude Security」を使って、AIで自社サービスの脆弱性を発見・検証する方法を簡単にまとめました。 1. はじめにWebサービスでは、氏名やメールアドレス、住所など、多くの重要なデータを扱います。情報流出のニュースを見ると、自分たちのサービスにも、気付いていない脆弱性が残っているのでは..."
-      },
-      {
-        "title": "2026 年 10 月前半の LLM 利用状況",
-        "url": "https://voluntas.ghost.io/2026-10-first-half-llm/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-03T13:26:01+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "high terms: 10",
-          "single-source AI hype brake -8.0",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
