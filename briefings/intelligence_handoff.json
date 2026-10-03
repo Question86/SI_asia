@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-03T04:34:32Z",
+  "generated_at": "2026-10-03T04:54:11Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=22.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:33:41+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -41,7 +41,7 @@
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T01:40:44+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -65,7 +65,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T08:42:07+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -91,7 +91,7 @@
       "url": "https://revpdf.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:33:41+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -111,35 +111,11 @@
       "summary": ""
     },
     {
-      "title": "宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』",
-      "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-03T04:30:15+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T22:00:08+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -162,8 +138,32 @@
       "title": "宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』",
       "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html",
       "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-03T04:30:15+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』",
+      "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T14:56:01+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -187,7 +187,7 @@
       "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 106.11,
+      "age_days": 106.12,
       "topics": [
         "ai"
       ],
@@ -198,12 +198,12 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.27,
+      "baseline_z_hint": 0.23,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.27",
+        "baseline z_hint 0.23",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 106.1d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -215,7 +215,7 @@
       "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T15:17:29+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -240,7 +240,7 @@
       "url": "https://revpdf.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-03-20T02:41:10+00:00",
-      "age_days": 197.08,
+      "age_days": 197.09,
       "topics": [
         "general"
       ],
