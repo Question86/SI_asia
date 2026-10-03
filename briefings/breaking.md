@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-03T14:42:48+00:00_
+_Generiert: 2026-10-03T17:12:39+00:00_
 
 ## Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung
 

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T14:42:48+00:00",
-  "today_file_total": 15,
+  "generated_at": "2026-10-03T17:12:39+00:00",
+  "today_file_total": 16,
   "current_clusters": [
     {
       "key": "domain:www.heise.de",
@@ -103,29 +103,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:startup-in-agile.connpass.com",
-      "title": "「決め方」の渡し方 / How to hand over the \"decision-making process\"",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 18.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "earthquake:japan:4.8",
       "title": "M 4.8 - 112 km S of Koshima, Japan",
       "sources": [
@@ -151,29 +128,27 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "earthquake:m 4.5 - kermadec islands region:4.5",
-      "title": "M 4.5 - Kermadec Islands region",
+      "key": "domain:startup-in-agile.connpass.com",
+      "title": "「決め方」の渡し方 / How to hand over the \"decision-making process\"",
       "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
-        "tier1_official"
+        "tier3_specialist"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm"
+        "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process"
       ],
       "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
+      "max_score": 13,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.1,
       "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "domain:linuc.org",
@@ -222,6 +197,31 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "earthquake:m 4.5 - kermadec islands region:4.5",
+      "title": "M 4.5 - Kermadec Islands region",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "domain:www.chosunonline.com",
       "title": "韓国6行に「AIハッキング」、4行で個人情報流出",
       "sources": [
@@ -239,6 +239,29 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html",
+      "title": "ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],

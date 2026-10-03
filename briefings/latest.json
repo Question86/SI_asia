@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-03T14:42:45+00:00",
-  "run_id": "2026-10-03T14:42:45+00:00",
+  "generated_at": "2026-10-03T17:12:36+00:00",
+  "run_id": "2026-10-03T17:12:36+00:00",
   "date": "2026-10-03",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 16
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 1,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 1,
     "medium": 4,
-    "observe": 10,
-    "source_errors": 1
+    "observe": 11,
+    "source_errors": 0
   },
   "sections": {
     "high": [
@@ -411,6 +411,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b2b0f261153e8f1718fb"
+      },
+      {
+        "title": "ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府",
+        "url": "https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-02T23:40:34+00:00",
+        "fetched_at": "2026-10-03T17:12:05+00:00",
+        "summary": "内閣府規制改革推進室 内閣府科学技術・イノベーション推進事務局人工知能政策推進室 デジタル庁戦略・組織グループ 経済産業省経済産業政策局産業創造課 令和８年７月14日に閣議決定された「人工知能基本計画」では、単にＡＩを導入することにとどまらず、意思決定や業務の進め方を根底から見直すＡＸに率先して取り組...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1169c4e2837fff99050a"
       },
       {
         "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
@@ -859,6 +880,27 @@
       "id": "b2b0f261153e8f1718fb"
     },
     {
+      "title": "ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府",
+      "url": "https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-02T23:40:34+00:00",
+      "fetched_at": "2026-10-03T17:12:05+00:00",
+      "summary": "内閣府規制改革推進室 内閣府科学技術・イノベーション推進事務局人工知能政策推進室 デジタル庁戦略・組織グループ 経済産業省経済産業政策局産業創造課 令和８年７月14日に閣議決定された「人工知能基本計画」では、単にＡＩを導入することにとどまらず、意思決定や業務の進め方を根底から見直すＡＸに率先して取り組...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1169c4e2837fff99050a"
+    },
+    {
       "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
       "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
       "source": "Hatena Bookmark Hotentry IT",
@@ -924,73 +966,28 @@
   ],
   "new_findings": [
     {
-      "title": "「決め方」の渡し方 / How to hand over the \"decision-making process\"",
-      "url": "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process",
+      "title": "ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府",
+      "url": "https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-04-09T04:25:23+00:00",
-      "fetched_at": "2026-10-03T14:42:06+00:00",
-      "summary": "【Startup in Agile #7 】ボトルネックは人の意思決定？「決め方」の変遷教えて https://startup-in-agile.connpass.com/event/386112/",
+      "published_at": "2026-10-02T23:40:34+00:00",
+      "fetched_at": "2026-10-03T17:12:05+00:00",
+      "summary": "内閣府規制改革推進室 内閣府科学技術・イノベーション推進事務局人工知能政策推進室 デジタル庁戦略・組織グループ 経済産業省経済産業政策局産業創造課 令和８年７月14日に閣議決定された「人工知能基本計画」では、単にＡＩを導入することにとどまらず、意思決定や業務の進め方を根底から見直すＡＸに率先して取り組...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Content-Chance",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "75242179a7a8e76ad1fc"
-    },
-    {
-      "title": "M 4.5 - Kermadec Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-03T14:21:50.040+00:00",
-      "fetched_at": "2026-10-03T14:42:06+00:00",
-      "summary": "Time 2026-10-03 13:51:11 UTC 2026-10-03 13:51:11 UTC at epicenter Location 27.495°S 179.483°W Depth 453.49 km (281.78 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "fbcc3dc627db37f3868b"
+      "id": "1169c4e2837fff99050a"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "cert_fr_alerts",
-      "source_name": "CERT-FR Alertes",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.cert.ssi.gouv.fr', port=443): Max retries exceeded with url: /alerte/feed/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.cert.ssi.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

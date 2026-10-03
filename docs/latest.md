@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-03T14:42:45+00:00_
+_Generiert: 2026-10-03T17:12:36+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung“ aus heise Security Alerts (Score 24, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+16 neue relevante Treffer. Stärkstes Signal: „Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung“ aus heise Security Alerts (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -113,7 +113,3 @@ _Generiert: 2026-10-03T14:42:45+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `cert_fr_alerts` (rss): HTTPSConnectionPool(host='www.cert.ssi.gouv.fr', port=443): Max retries exceeded with url: /alerte/feed/ (Caused by NewConnectionError("HTTPSConnection(host='www.cert.ssi.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
