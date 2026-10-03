@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-03T06:38:56+00:00",
+  "generated_at": "2026-10-03T07:07:52+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 2,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 2,
-    "observe": 6
+    "observe": 8
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,23 +55,23 @@
       "section": "observe"
     },
     {
-      "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」",
+      "title": "韓国6行に「AIハッキング」、4行で個人情報流出",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-03T00:45:10+00:00",
-      "relevance_score": 5,
-      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
-      "summary": "米Appleは10月2日（現地時間）、macOSの「フルディスクアクセス」（Full Disk Access）権限について、ユーザーがアプリにこの権限を与える際の制御を強化する方針を開発者向けサイトで発表した。具体的な導入時期や仕組みは明らかにしていない。 Appleによると、同社は開発者に強力なAPIを提供する一方、ユーザーのプラ...",
+      "published_at": "2026-10-03T03:45:48+00:00",
+      "relevance_score": 8,
+      "url": "https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html",
+      "summary": "韓国6行に「AIハッキング」、4行で個人情報流出 1日から2日にかけて、新韓銀行・KB国民銀行・ハナ銀行・ウリ銀行・NH農協銀行・BNK釜山銀行など、韓国国内の少なくとも6つの銀行で、AI（人工知能）ツールを活用したとみられるハッキング攻撃が同時多発的に発生した。このうち三大銀行の新韓銀行（約2万5000人）、KB国民...",
       "section": "observe"
     },
     {
-      "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
+      "title": "「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-02T15:17:29+00:00",
+      "published_at": "2026-10-03T00:45:23+00:00",
       "relevance_score": 5,
-      "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
-      "summary": "はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな...",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
+      "summary": "メンズカジュアルブランド「アバハウス」などを展開するアバハウスインターナショナルは10月2日、第三者による社内システムへの不正アクセスで、顧客の個人情報が漏えいした可能性があると発表した。データベース全体に不正にアクセスされた可能性があり、会員情報を預かっているすべての顧客が対象になる可能性があると...",
       "section": "observe"
     }
   ],
@@ -80,140 +80,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “M 4.8 - 112 km S of Koshima, Japan” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "M 4.8 - 112 km S of Koshima, Japan",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-03T06:25:52.040+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-10-03 06:05:21 UTC 2026-10-03 06:05:21 UTC at epicenter Location 29.221°N 130.613°E Depth 37.47 km (23.28 mi)"
-      },
-      {
-        "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
-        "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-03T00:33:41+00:00",
-        "age_days": 0.27,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 22.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
-        "url": "https://linuc.org/textbooks/network/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-03T01:40:44+00:00",
-        "age_days": 0.22,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 20.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.8 - 112 km S of Koshima, Japan",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-28T23:45:53+00:00",
-        "age_days": 35.3,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.9,
-        "raw_band": "strong",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 1.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 1.00",
-          "aging penalty -5.0 for 35.3d old signal",
-          "stale single-source cap: max watch after 14d without fresh resonance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
-        "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-02T08:42:07+00:00",
-        "age_days": 0.93,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 18.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: code, 10",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 github.com Rustを書き始めた人にも使え..."
-      }
-    ]
-  }
+  ]
 }

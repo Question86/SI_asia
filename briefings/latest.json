@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T06:38:56+00:00",
-  "run_id": "2026-10-03T06:38:56+00:00",
+  "generated_at": "2026-10-03T07:07:52+00:00",
+  "run_id": "2026-10-03T07:07:52+00:00",
   "date": "2026-10-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 8
+      "configured_public_sources_only": 10
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 2,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 2,
-    "observe": 6,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -160,6 +160,49 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f1b0fec9dab700efda85"
+      },
+      {
+        "title": "韓国6行に「AIハッキング」、4行で個人情報流出",
+        "url": "https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-03T03:45:48+00:00",
+        "fetched_at": "2026-10-03T07:07:21+00:00",
+        "summary": "韓国6行に「AIハッキング」、4行で個人情報流出 1日から2日にかけて、新韓銀行・KB国民銀行・ハナ銀行・ウリ銀行・NH農協銀行・BNK釜山銀行など、韓国国内の少なくとも6つの銀行で、AI（人工知能）ツールを活用したとみられるハッキング攻撃が同時多発的に発生した。このうち三大銀行の新韓銀行（約2万5000人）、KB国民...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fd19a7e846c089725bb9"
+      },
+      {
+        "title": "「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明",
+        "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-03T00:45:23+00:00",
+        "fetched_at": "2026-10-03T07:07:21+00:00",
+        "summary": "メンズカジュアルブランド「アバハウス」などを展開するアバハウスインターナショナルは10月2日、第三者による社内システムへの不正アクセスで、顧客の個人情報が漏えいした可能性があると発表した。データベース全体に不正にアクセスされた可能性があり、会員情報を預かっているすべての顧客が対象になる可能性があると...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b9a0acd784784dd195da"
       },
       {
         "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」",
@@ -379,6 +422,49 @@
       "id": "f1b0fec9dab700efda85"
     },
     {
+      "title": "韓国6行に「AIハッキング」、4行で個人情報流出",
+      "url": "https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-03T03:45:48+00:00",
+      "fetched_at": "2026-10-03T07:07:21+00:00",
+      "summary": "韓国6行に「AIハッキング」、4行で個人情報流出 1日から2日にかけて、新韓銀行・KB国民銀行・ハナ銀行・ウリ銀行・NH農協銀行・BNK釜山銀行など、韓国国内の少なくとも6つの銀行で、AI（人工知能）ツールを活用したとみられるハッキング攻撃が同時多発的に発生した。このうち三大銀行の新韓銀行（約2万5000人）、KB国民...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fd19a7e846c089725bb9"
+    },
+    {
+      "title": "「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-03T00:45:23+00:00",
+      "fetched_at": "2026-10-03T07:07:21+00:00",
+      "summary": "メンズカジュアルブランド「アバハウス」などを展開するアバハウスインターナショナルは10月2日、第三者による社内システムへの不正アクセスで、顧客の個人情報が漏えいした可能性があると発表した。データベース全体に不正にアクセスされた可能性があり、会員情報を預かっているすべての顧客が対象になる可能性があると...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b9a0acd784784dd195da"
+    },
+    {
       "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」",
       "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -465,73 +551,35 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.8 - 112 km S of Koshima, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "韓国6行に「AIハッキング」、4行で個人情報流出",
+      "url": "https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-03T06:25:52.040+00:00",
-      "fetched_at": "2026-10-03T06:38:25+00:00",
-      "summary": "Time 2026-10-03 06:05:21 UTC 2026-10-03 06:05:21 UTC at epicenter Location 29.221°N 130.613°E Depth 37.47 km (23.28 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "e3f193da14dfea48882d"
-    },
-    {
-      "title": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-10-03T06:38:25+00:00",
-      "summary": "The design language that makes your AI harness better at design. https://impeccable.style Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install , then run /impeccable init inside your AI coding tool. Full docs: impeccable.style . Why Impeccable…",
+      "published_at": "2026-10-03T03:45:48+00:00",
+      "fetched_at": "2026-10-03T07:07:21+00:00",
+      "summary": "韓国6行に「AIハッキング」、4行で個人情報流出 1日から2日にかけて、新韓銀行・KB国民銀行・ハナ銀行・ウリ銀行・NH農協銀行・BNK釜山銀行など、韓国国内の少なくとも6つの銀行で、AI（人工知能）ツールを活用したとみられるハッキング攻撃が同時多発的に発生した。このうち三大銀行の新韓銀行（約2万5000人）、KB国民...",
       "matched_keywords": [
         "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Webentwicklung"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f1b0fec9dab700efda85"
+      "id": "fd19a7e846c089725bb9"
     },
     {
-      "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」",
-      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
+      "title": "「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-03T00:45:10+00:00",
-      "fetched_at": "2026-10-03T06:38:25+00:00",
-      "summary": "米Appleは10月2日（現地時間）、macOSの「フルディスクアクセス」（Full Disk Access）権限について、ユーザーがアプリにこの権限を与える際の制御を強化する方針を開発者向けサイトで発表した。具体的な導入時期や仕組みは明らかにしていない。 Appleによると、同社は開発者に強力なAPIを提供する一方、ユーザーのプラ...",
+      "published_at": "2026-10-03T00:45:23+00:00",
+      "fetched_at": "2026-10-03T07:07:21+00:00",
+      "summary": "メンズカジュアルブランド「アバハウス」などを展開するアバハウスインターナショナルは10月2日、第三者による社内システムへの不正アクセスで、顧客の個人情報が漏えいした可能性があると発表した。データベース全体に不正にアクセスされた可能性があり、会員情報を預かっているすべての顧客が対象になる可能性があると...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -543,7 +591,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b2b0f261153e8f1718fb"
+      "id": "b9a0acd784784dd195da"
     }
   ],
   "source_errors": [],

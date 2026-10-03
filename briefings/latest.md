@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-03T06:38:56+00:00_
+_Generiert: 2026-10-03T07:07:52+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 21, observation).
+10 neue relevante Treffer. Stärkstes Signal: „AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 21, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,6 +37,10 @@ _Generiert: 2026-10-03T06:38:56+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
+- **GDACS: Green flood alert in Malaysia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104207)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Malaysia
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:29.477km) in Russia 02/10/2026 16:34 UTC, Few people affected in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569129)
   - Quelle: GDACS
   - Zeit: ``
@@ -108,23 +112,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: The design language that makes your AI harness better at design. https://impeccable.style Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install , then run /impeccable init inside your AI coding tool. Full docs: impeccable.style . Why Impeccable…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/03/2000001983/)
+- **韓国6行に「AIハッキング」、4行で個人情報流出** — Score 8, observation — [Quelle](https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-03T00:45:10+00:00`, fetched `2026-10-03T06:38:25+00:00`
-  - Treffer: Hatena, hotentry
+  - Zeit: published `2026-10-03T03:45:48+00:00`, fetched `2026-10-03T07:07:21+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 米Appleは10月2日（現地時間）、macOSの「フルディスクアクセス」（Full Disk Access）権限について、ユーザーがアプリにこの権限を与える際の制御を強化する方針を開発者向けサイトで発表した。具体的な導入時期や仕組みは明らかにしていない。 Appleによると、同社は開発者に強力なAPIを提供する一方、ユーザーのプラ...
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 韓国6行に「AIハッキング」、4行で個人情報流出 1日から2日にかけて、新韓銀行・KB国民銀行・ハナ銀行・ウリ銀行・NH農協銀行・BNK釜山銀行など、韓国国内の少なくとも6つの銀行で、AI（人工知能）ツールを活用したとみられるハッキング攻撃が同時多発的に発生した。このうち三大銀行の新韓銀行（約2万5000人）、KB国民...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita** — Score 5, observation — [Quelle](https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14)
+- **「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/03/2000001981/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-02T15:17:29+00:00`, fetched `2026-10-03T01:12:49+00:00`
+  - Zeit: published `2026-10-03T00:45:23+00:00`, fetched `2026-10-03T07:07:21+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな...
+  - Kurz: メンズカジュアルブランド「アバハウス」などを展開するアバハウスインターナショナルは10月2日、第三者による社内システムへの不正アクセスで、顧客の個人情報が漏えいした可能性があると発表した。データベース全体に不正にアクセスされた可能性があり、会員情報を預かっているすべての顧客が対象になる可能性があると...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

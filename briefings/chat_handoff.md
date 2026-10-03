@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-03T06:38:56+00:00_
+_Generated: 2026-10-03T07:07:52+00:00_
 
 ## Status
 - status: `normal`
-- findings: `8`
+- findings: `10`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-10-03T06:38:56+00:00_
 - url: https://github.com/pbakaus/impeccable
 - summary: The design language that makes your AI harness better at design. https://impeccable.style Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quic…
 
-### 5. Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」
+### 5. 韓国6行に「AIハッキング」、4行で個人情報流出
 - source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-03T00:45:10+00:00`
-- url: https://www.itmedia.co.jp/news/article/2610/03/2000001983/
-- summary: 米Appleは10月2日（現地時間）、macOSの「フルディスクアクセス」（Full Disk Access）権限について、ユーザーがアプリにこの権限を与える際の制御を強化する方針を開発者向けサイトで発表した。具体的な導入時期や仕組みは明らかにしていない。 Appleによると、同社は開発者に強力なAPIを提供する一方、ユーザーのプラ...
+- score: `8`
+- published: `2026-10-03T03:45:48+00:00`
+- url: https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html
+- summary: 韓国6行に「AIハッキング」、4行で個人情報流出 1日から2日にかけて、新韓銀行・KB国民銀行・ハナ銀行・ウリ銀行・NH農協銀行・BNK釜山銀行など、韓国国内の少なくとも6つの銀行で、AI（人工知能）ツールを活用したとみられるハッキング攻撃が同時多発的に発生した。このうち三大銀行の新韓銀行（約2万5000人）、KB国民...
 
-### 6. 新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita
+### 6. 「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-10-02T15:17:29+00:00`
-- url: https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14
-- summary: はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな...
+- published: `2026-10-03T00:45:23+00:00`
+- url: https://www.itmedia.co.jp/news/article/2610/03/2000001981/
+- summary: メンズカジュアルブランド「アバハウス」などを展開するアバハウスインターナショナルは10月2日、第三者による社内システムへの不正アクセスで、顧客の個人情報が漏えいした可能性があると発表した。データベース全体に不正にアクセスされた可能性があり、会員情報を預かっているすべての顧客が対象になる可能性があると...
 
 END OF DOCUMENT
