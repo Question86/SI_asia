@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-03T02:35:10Z",
+  "generated_at": "2026-10-03T03:07:14Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 8,
     "bands": {
-      "strong": 1,
-      "watch": 3,
+      "strong": 2,
+      "watch": 2,
       "quiet": 4
     },
     "bands_after_gate_recheck": {
-      "strong": 1,
-      "watch": 3,
+      "strong": 2,
+      "watch": 2,
       "quiet": 4
     }
   },
@@ -22,7 +22,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:33:41+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -44,11 +44,35 @@
       "summary": ""
     },
     {
+      "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
+      "url": "https://linuc.org/textbooks/network/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-03T01:40:44+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T08:42:07+00:00",
-      "age_days": 0.75,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
@@ -70,35 +94,11 @@
       "summary": "はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 github.com Rustを書き始めた人にも使え..."
     },
     {
-      "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
-      "url": "https://linuc.org/textbooks/network/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-03T01:40:44+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
       "url": "https://revpdf.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:33:41+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -122,7 +122,7 @@
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T22:00:08+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -146,7 +146,7 @@
       "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 106.03,
+      "age_days": 106.05,
       "topics": [
         "ai"
       ],
@@ -157,12 +157,12 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.37,
+      "baseline_z_hint": 0.33,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.37",
+        "baseline z_hint 0.33",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 106.0d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -174,7 +174,7 @@
       "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T15:17:29+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -199,7 +199,7 @@
       "url": "https://revpdf.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-03-20T02:41:10+00:00",
-      "age_days": 197.0,
+      "age_days": 197.02,
       "topics": [
         "general"
       ],
