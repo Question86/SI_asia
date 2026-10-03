@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-03T11:53:55+00:00_
+_Generiert: 2026-10-03T13:25:58+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung“ aus heise Security Alerts (Score 24, risk).
+13 neue relevante Treffer. Stärkstes Signal: „Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung“ aus heise Security Alerts (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -37,6 +37,15 @@ _Generiert: 2026-10-03T11:53:55+00:00_
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 github.com Rustを書き始めた人にも使え...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **2026 年 10 月前半の LLM 利用状況** — Score 20, observation — [Quelle](https://voluntas.ghost.io/2026-10-first-half-llm/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-03T08:13:44+00:00`, fetched `2026-10-03T13:25:23+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
+  - Kurz: あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。 サブスクサブスクは Ollama Cloud と Cursor と Codex の三つ。 Ollama CloudTeam プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替えた。 Ollama Cloud は月 $5...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 112 km S of Koshima, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
