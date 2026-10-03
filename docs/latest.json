@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T08:23:46+00:00",
-  "run_id": "2026-10-03T08:23:46+00:00",
+  "generated_at": "2026-10-03T08:40:47+00:00",
+  "run_id": "2026-10-03T08:40:47+00:00",
   "date": "2026-10-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,16 +18,50 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 10,
-    "displayed_findings": 10,
-    "high": 0,
+    "new_relevant_findings": 1,
+    "today_file_total": 11,
+    "displayed_findings": 11,
+    "high": 1,
     "medium": 2,
     "observe": 8,
     "source_errors": 0
   },
   "sections": {
-    "high": [],
+    "high": [
+      {
+        "title": "Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung",
+        "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-10-03T08:23:00.000+00:00",
+        "fetched_at": "2026-10-03T08:40:11+00:00",
+        "summary": "Sicherheitsforscher und Administratoren melden massenhafte Spontanreboots betroffener Geräte. Diese waren auf dem neuesten Patchstand.",
+        "matched_keywords": [
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 24,
+        "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: zero-day"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "9122f0783f41d1a57391"
+      }
+    ],
     "medium": [
       {
         "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
@@ -292,6 +326,39 @@
   },
   "findings": [
     {
+      "title": "Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung",
+      "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-03T08:23:00.000+00:00",
+      "fetched_at": "2026-10-03T08:40:11+00:00",
+      "summary": "Sicherheitsforscher und Administratoren melden massenhafte Spontanreboots betroffener Geräte. Diese waren auf dem neuesten Patchstand.",
+      "matched_keywords": [
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 24,
+      "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: zero-day"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "9122f0783f41d1a57391"
+    },
+    {
       "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
@@ -549,7 +616,41 @@
       "id": "06cc9dae19e725a86f14"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung",
+      "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-03T08:23:00.000+00:00",
+      "fetched_at": "2026-10-03T08:40:11+00:00",
+      "summary": "Sicherheitsforscher und Administratoren melden massenhafte Spontanreboots betroffener Geräte. Diese waren auf dem neuesten Patchstand.",
+      "matched_keywords": [
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 24,
+      "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: zero-day"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "9122f0783f41d1a57391"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
