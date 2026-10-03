@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-03T20:23:27Z",
+  "generated_at": "2026-10-03T21:34:40Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 38,
+    "dynamics": 40,
     "bands": {
       "strong": 9,
-      "watch": 13,
-      "quiet": 16
+      "watch": 17,
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
       "strong": 9,
-      "watch": 13,
-      "quiet": 16
+      "watch": 17,
+      "quiet": 14
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 106.53,
+      "age_days": 106.58,
       "topics": [
         "general"
       ],
@@ -40,7 +40,7 @@
         "momentum delta +3",
         "high terms: zero-day, rce, code",
         "security high-signal: zero-day, rce, code",
-        "aging penalty -8.0 for 106.5d old signal",
+        "aging penalty -8.0 for 106.6d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -50,7 +50,7 @@
       "url": "https://note.com/npaka/n/n2b9c36c471b6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 33.07,
+      "age_days": 33.12,
       "topics": [
         "ai",
         "security"
@@ -62,12 +62,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.4,
+      "baseline_z_hint": 7.83,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 8.40",
+        "baseline z_hint 7.83",
         "high terms: rce, code",
         "security high-signal: rce, code",
         "aging penalty -4.2 for 33.1d old signal",
@@ -80,7 +80,7 @@
       "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-03T08:23:00.000+00:00",
-      "age_days": 0.5,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -106,7 +106,7 @@
       "url": "https://note.com/npaka/n/n2b9c36c471b6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T04:08:11+00:00",
-      "age_days": 2.68,
+      "age_days": 2.73,
       "topics": [
         "ai",
         "security"
@@ -133,7 +133,7 @@
       "url": "https://voluntas.ghost.io/2026-10-first-half-llm/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T13:26:01+00:00",
-      "age_days": 0.29,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -160,7 +160,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T06:25:52.040+00:00",
-      "age_days": 0.58,
+      "age_days": 0.63,
       "topics": [
         "disaster"
       ],
@@ -185,7 +185,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:33:41+00:00",
-      "age_days": 0.83,
+      "age_days": 0.88,
       "topics": [
         "ai"
       ],
@@ -211,7 +211,7 @@
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T01:40:44+00:00",
-      "age_days": 0.78,
+      "age_days": 0.83,
       "topics": [
         "general"
       ],
@@ -235,7 +235,7 @@
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-03T06:38:59+00:00",
-      "age_days": 0.57,
+      "age_days": 0.62,
       "topics": [
         "general"
       ],
@@ -259,7 +259,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T08:42:07+00:00",
-      "age_days": 1.49,
+      "age_days": 1.54,
       "topics": [
         "ai"
       ],
@@ -285,11 +285,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-28T23:45:53+00:00",
-      "age_days": 35.86,
+      "age_days": 35.91,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.3,
+      "dynamics_score": 17.28,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -310,7 +310,7 @@
       "url": "https://voluntas.ghost.io/2026-10-first-half-llm/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T08:13:44+00:00",
-      "age_days": 0.51,
+      "age_days": 0.56,
       "topics": [
         "ai",
         "macro"
@@ -333,11 +333,36 @@
       "summary": "あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。 サブスクサブスクは Ollama Cloud と Cursor と Codex の三つ。 Ollama CloudTeam プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替えた。 Ollama Cloud は月 $5..."
     },
     {
+      "title": "M 4.5 - 121 km SW of Puerto Madero, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-03T20:48:12.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-03 20:33:45 UTC 2026-10-03 20:33:45 UTC at epicenter Location 14.105°N 93.352°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.9 - 72 km NE of Sittwe, Burma (Myanmar)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T18:34:52.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -362,7 +387,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T17:52:33.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -387,7 +412,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T14:21:50.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -408,11 +433,35 @@
       "summary": "Time 2026-10-03 13:51:11 UTC 2026-10-03 13:51:11 UTC at epicenter Location 27.495°S 179.483°W Depth 453.49 km (281.78 mi)"
     },
     {
+      "title": "M 4.6 - 76 km NNE of Lae, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-03T18:21:14+00:00",
+      "age_days": 0.13,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.5 - Kermadec Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T14:42:48+00:00",
-      "age_days": 0.24,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -436,7 +485,7 @@
       "url": "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T14:42:48+00:00",
-      "age_days": 0.24,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -458,11 +507,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.6 - 76 km NNE of Lae, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdj",
+      "title": "M 4.9 - 72 km NE of Sittwe, Burma (Myanmar)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-03T18:21:14+00:00",
-      "age_days": 0.08,
+      "published_at": "2026-10-03T19:12:56+00:00",
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -486,7 +535,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T07:07:56+00:00",
-      "age_days": 0.55,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -510,6 +559,30 @@
       "url": "https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T17:12:39+00:00",
+      "age_days": 0.18,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "CSS の margin-trim でコンテナーの端の余白を取り除く",
+      "url": "https://azukiazusa.dev/blog/css-margin-trim/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-03T18:21:14+00:00",
       "age_days": 0.13,
       "topics": [
         "general"
@@ -534,7 +607,7 @@
       "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T04:30:15+00:00",
-      "age_days": 0.66,
+      "age_days": 0.71,
       "topics": [
         "general"
       ],
@@ -554,11 +627,35 @@
       "summary": ""
     },
     {
+      "title": "M 4.5 - 121 km SW of Puerto Madero, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-03T21:11:11+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
       "url": "https://revpdf.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:33:41+00:00",
-      "age_days": 0.83,
+      "age_days": 0.88,
       "topics": [
         "general"
       ],
@@ -578,59 +675,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.9 - 72 km NE of Sittwe, Burma (Myanmar)",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdp",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-03T19:12:56+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "CSS の margin-trim でコンテナーの端の余白を取り除く",
-      "url": "https://azukiazusa.dev/blog/css-margin-trim/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-03T18:21:14+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T22:00:08+00:00",
-      "age_days": 0.93,
+      "age_days": 0.98,
       "topics": [
         "general"
       ],
@@ -654,7 +703,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:45:23+00:00",
-      "age_days": 0.82,
+      "age_days": 0.87,
       "topics": [
         "general"
       ],
@@ -678,7 +727,7 @@
       "url": "https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T07:07:56+00:00",
-      "age_days": 0.55,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -704,7 +753,7 @@
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-03T06:38:25+00:00",
-      "age_days": 0.57,
+      "age_days": 0.62,
       "topics": [
         "ai",
         "macro"
@@ -731,7 +780,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T06:38:59+00:00",
-      "age_days": 0.57,
+      "age_days": 0.62,
       "topics": [
         "ai"
       ],
@@ -757,7 +806,7 @@
       "url": "https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T03:45:48+00:00",
-      "age_days": 0.69,
+      "age_days": 0.74,
       "topics": [
         "ai"
       ],
@@ -783,7 +832,7 @@
       "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T14:56:01+00:00",
-      "age_days": 1.23,
+      "age_days": 1.28,
       "topics": [
         "general"
       ],
@@ -807,7 +856,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:45:10+00:00",
-      "age_days": 0.82,
+      "age_days": 0.87,
       "topics": [
         "ai"
       ],
@@ -833,7 +882,7 @@
       "url": "https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T23:40:34+00:00",
-      "age_days": 0.86,
+      "age_days": 0.91,
       "topics": [
         "ai"
       ],
@@ -859,7 +908,7 @@
       "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 106.77,
+      "age_days": 106.82,
       "topics": [
         "ai"
       ],
@@ -886,7 +935,7 @@
       "url": "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-04-09T04:25:23+00:00",
-      "age_days": 177.67,
+      "age_days": 177.71,
       "topics": [
         "ai"
       ],
@@ -912,7 +961,7 @@
       "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T15:17:29+00:00",
-      "age_days": 1.21,
+      "age_days": 1.26,
       "topics": [
         "ai"
       ],
@@ -937,7 +986,7 @@
       "url": "https://azukiazusa.dev/blog/css-margin-trim/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T15:01:33+00:00",
-      "age_days": 1.22,
+      "age_days": 1.27,
       "topics": [
         "ai"
       ],
@@ -962,7 +1011,7 @@
       "url": "https://revpdf.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-03-20T02:41:10+00:00",
-      "age_days": 197.74,
+      "age_days": 197.79,
       "topics": [
         "general"
       ],
@@ -977,7 +1026,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -16.0 for 197.7d old signal"
+        "aging penalty -16.0 for 197.8d old signal"
       ],
       "summary": "The PDF editor that stays on your device. Edit text and images, redact, sign, compress, split, merge and convert PDFs, entirely on your own machine. No uploads. No accounts. No subscription. Just a fast, native app that does the work."
     }
