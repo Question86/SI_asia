@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T09:35:39+00:00",
+  "generated_at": "2026-10-03T09:46:24+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3662,7 +3662,7 @@
     },
     "domain:qiita.com": {
       "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
-      "updated_at": "2026-10-03T09:35:39+00:00",
+      "updated_at": "2026-10-03T09:46:24+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -3670,8 +3670,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -4321,7 +4321,7 @@
     },
     "domain:www.heise.de": {
       "title": "Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung",
-      "updated_at": "2026-10-03T09:35:39+00:00",
+      "updated_at": "2026-10-03T09:46:24+00:00",
       "network_scores": [
         26.1,
         26.1,
@@ -4347,8 +4347,8 @@
         26.1,
         26.1,
         26.1,
-        26.1,
         29.1,
+        26.1,
         26.1,
         26.1,
         26.1,
@@ -6989,7 +6989,7 @@
     },
     "earthquake:japan:4.8": {
       "title": "M 4.8 - 112 km S of Koshima, Japan",
-      "updated_at": "2026-10-03T09:35:39+00:00",
+      "updated_at": "2026-10-03T09:46:24+00:00",
       "network_scores": [
         20.7,
         17.7,
@@ -7003,12 +7003,13 @@
         17.7,
         17.7,
         17.7,
+        17.7,
         17.7
       ],
-      "rolling_average": 18.16,
+      "rolling_average": 18.13,
       "rolling_peak": 20.7,
       "last_score": 17.7,
-      "z_hint": -0.46
+      "z_hint": -0.43
     },
     "domain:four.htmx.org": {
       "title": "htmx 4.0.0 has been released!",
@@ -10231,7 +10232,7 @@
     },
     "domain:note.com": {
       "title": "Codex Security ・ Claude Security 入門｜npaka",
-      "updated_at": "2026-10-03T09:35:39+00:00",
+      "updated_at": "2026-10-03T09:46:24+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -10260,14 +10261,14 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         27.1,
+        24.1,
         24.1
       ],
-      "rolling_average": 8.33,
+      "rolling_average": 8.9,
       "rolling_peak": 27.1,
       "last_score": 24.1,
-      "z_hint": 15.77
+      "z_hint": 15.2
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -58792,7 +58793,7 @@
     },
     "title:rust-rust-learning-lab": {
       "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
-      "updated_at": "2026-10-03T09:35:39+00:00",
+      "updated_at": "2026-10-03T09:46:24+00:00",
       "network_scores": [
         26.1,
         23.1,
@@ -58817,18 +58818,20 @@
         23.1,
         23.1,
         23.1,
+        23.1,
         23.1
       ],
-      "rolling_average": 23.23,
+      "rolling_average": 23.22,
       "rolling_peak": 26.1,
       "last_score": 23.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "domain:revpdf.com": {
       "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
-      "updated_at": "2026-10-03T09:35:39+00:00",
+      "updated_at": "2026-10-03T09:46:24+00:00",
       "network_scores": [
         9.1,
+        6.1,
         6.1,
         6.1,
         6.1,
@@ -58860,7 +58863,7 @@
     },
     "domain:linuc.org": {
       "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
-      "updated_at": "2026-10-03T09:35:39+00:00",
+      "updated_at": "2026-10-03T09:46:24+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -58883,16 +58886,17 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.24,
+      "rolling_average": 13.23,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.14
+      "z_hint": -0.13
     },
     "title:web-cloudflareworkers": {
       "title": "宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』",
-      "updated_at": "2026-10-03T09:35:39+00:00",
+      "updated_at": "2026-10-03T09:46:24+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -58910,16 +58914,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.28,
+      "rolling_average": 7.27,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "github_repo:pbakaus/impeccable": {
       "title": "pbakaus/impeccable",
-      "updated_at": "2026-10-03T09:35:39+00:00",
+      "updated_at": "2026-10-03T09:46:24+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -58931,16 +58936,60 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.37,
+      "rolling_average": 13.35,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "title:apple-macos": {
       "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」",
-      "updated_at": "2026-10-03T09:35:39+00:00",
+      "updated_at": "2026-10-03T09:46:24+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.35,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.25
+    },
+    "domain:www.chosunonline.com": {
+      "title": "韓国6行に「AIハッキング」、4行で個人情報流出",
+      "updated_at": "2026-10-03T09:46:24+00:00",
+      "network_scores": [
+        13.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1
+      ],
+      "rolling_average": 10.37,
+      "rolling_peak": 13.1,
+      "last_score": 10.1,
+      "z_hint": -0.27
+    },
+    "url:https://www.itmedia.co.jp/news/article/2610/03/2000001981/": {
+      "title": "「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明",
+      "updated_at": "2026-10-03T09:46:24+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -58958,46 +59007,6 @@
       "rolling_peak": 10.1,
       "last_score": 7.1,
       "z_hint": -0.27
-    },
-    "domain:www.chosunonline.com": {
-      "title": "韓国6行に「AIハッキング」、4行で個人情報流出",
-      "updated_at": "2026-10-03T09:35:39+00:00",
-      "network_scores": [
-        13.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1
-      ],
-      "rolling_average": 10.4,
-      "rolling_peak": 13.1,
-      "last_score": 10.1,
-      "z_hint": -0.3
-    },
-    "url:https://www.itmedia.co.jp/news/article/2610/03/2000001981/": {
-      "title": "「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明",
-      "updated_at": "2026-10-03T09:35:39+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.4,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.3
     }
   }
 }

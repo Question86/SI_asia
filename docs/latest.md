@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-03T09:35:37+00:00_
+_Generiert: 2026-10-03T09:46:21+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung“ aus heise Security Alerts (Score 24, risk).
+12 neue relevante Treffer. Stärkstes Signal: „Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung“ aus heise Security Alerts (Score 24, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -95,3 +95,7 @@ _Generiert: 2026-10-03T09:35:37+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_open_market_operations` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
