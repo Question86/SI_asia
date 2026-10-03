@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T00:33:41+00:00",
+  "generated_at": "2026-10-03T01:13:28+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3661,10 +3661,9 @@
       "z_hint": 0.0
     },
     "domain:qiita.com": {
-      "title": "AIを業務改善につなげるための5ステップ ― サービスデザインを活用した要件定義 - Qiita",
-      "updated_at": "2026-10-01T23:58:39+00:00",
+      "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
+      "updated_at": "2026-10-03T01:13:28+00:00",
       "network_scores": [
-        6.1,
         6.1,
         6.1,
         6.1,
@@ -3693,12 +3692,13 @@
         7.1,
         7.1,
         7.1,
-        7.1
+        7.1,
+        10.1
       ],
-      "rolling_average": 6.5,
+      "rolling_average": 6.63,
       "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": 0.6
+      "last_score": 10.1,
+      "z_hint": 3.47
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -58781,25 +58781,27 @@
     },
     "title:rust-rust-learning-lab": {
       "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
-      "updated_at": "2026-10-03T00:33:41+00:00",
+      "updated_at": "2026-10-03T01:13:28+00:00",
       "network_scores": [
-        26.1
+        26.1,
+        23.1
       ],
-      "rolling_average": 26.1,
+      "rolling_average": 24.6,
       "rolling_peak": 26.1,
-      "last_score": 26.1,
-      "z_hint": 0.0
+      "last_score": 23.1,
+      "z_hint": -1.5
     },
     "domain:revpdf.com": {
       "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
-      "updated_at": "2026-10-03T00:33:41+00:00",
+      "updated_at": "2026-10-03T01:13:28+00:00",
       "network_scores": [
-        9.1
+        9.1,
+        6.1
       ],
-      "rolling_average": 9.1,
+      "rolling_average": 7.6,
       "rolling_peak": 9.1,
-      "last_score": 9.1,
-      "z_hint": 0.0
+      "last_score": 6.1,
+      "z_hint": -1.5
     }
   }
 }

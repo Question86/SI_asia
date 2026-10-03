@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-03T00:33:38+00:00_
+_Generiert: 2026-10-03T01:13:25+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 21, observation).
+3 neue relevante Treffer. Stärkstes Signal: „AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 21, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -81,6 +81,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita** — Score 5, observation — [Quelle](https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-02T15:17:29+00:00`, fetched `2026-10-03T01:12:49+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF** — Score 4, observation — [Quelle](https://revpdf.com/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-03-20T02:41:10+00:00`, fetched `2026-10-03T00:32:57+00:00`

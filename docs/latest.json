@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T00:33:38+00:00",
-  "run_id": "2026-10-03T00:33:38+00:00",
+  "generated_at": "2026-10-03T01:13:25+00:00",
+  "run_id": "2026-10-03T01:13:25+00:00",
   "date": "2026-10-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 3
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 1,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
     "medium": 1,
-    "observe": 1,
+    "observe": 2,
     "source_errors": 0
   },
   "sections": {
@@ -79,6 +79,27 @@
       }
     ],
     "observe": [
+      {
+        "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
+        "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-02T15:17:29+00:00",
+        "fetched_at": "2026-10-03T01:12:49+00:00",
+        "summary": "はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a061e0cd288b141a5d2b"
+      },
       {
         "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
         "url": "https://revpdf.com/",
@@ -152,6 +173,27 @@
       "id": "b6abd41a22390e85757c"
     },
     {
+      "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
+      "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-02T15:17:29+00:00",
+      "fetched_at": "2026-10-03T01:12:49+00:00",
+      "summary": "はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a061e0cd288b141a5d2b"
+    },
+    {
       "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
       "url": "https://revpdf.com/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -175,73 +217,25 @@
   ],
   "new_findings": [
     {
-      "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
-      "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
+      "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
+      "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-02T08:42:07+00:00",
-      "fetched_at": "2026-10-03T00:32:57+00:00",
-      "summary": "はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 github.com Rustを書き始めた人にも使え...",
-      "matched_keywords": [
-        "AI Agents",
-        "GitHub",
-        "Hatena",
-        "hotentry",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 21,
-      "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "b6abd41a22390e85757c"
-    },
-    {
-      "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
-      "url": "https://revpdf.com/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-03-20T02:41:10+00:00",
-      "fetched_at": "2026-10-03T00:32:57+00:00",
-      "summary": "The PDF editor that stays on your device. Edit text and images, redact, sign, compress, split, merge and convert PDFs, entirely on your own machine. No uploads. No accounts. No subscription. Just a fast, native app that does the work.",
+      "published_at": "2026-10-02T15:17:29+00:00",
+      "fetched_at": "2026-10-03T01:12:49+00:00",
+      "summary": "はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "06cc9dae19e725a86f14"
+      "id": "a061e0cd288b141a5d2b"
     }
   ],
   "source_errors": [],

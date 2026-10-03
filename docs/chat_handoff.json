@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-03T00:33:38+00:00",
+  "generated_at": "2026-10-03T01:13:25+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 1,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
     "medium": 1,
-    "observe": 1
+    "observe": 2
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -23,6 +23,16 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "summary": "はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 github.com Rustを書き始めた人にも使え...",
       "section": "medium"
+    },
+    {
+      "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-02T15:17:29+00:00",
+      "relevance_score": 5,
+      "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
+      "summary": "はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな...",
+      "section": "observe"
     },
     {
       "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
@@ -40,112 +50,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
-        "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-03T00:33:41+00:00",
-        "age_days": 0.0,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 25.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
-        "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-02T08:42:07+00:00",
-        "age_days": 0.66,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 18.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: code, 10",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 github.com Rustを書き始めた人にも使え..."
-      },
-      {
-        "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
-        "url": "https://revpdf.com/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-03T00:33:41+00:00",
-        "age_days": 0.0,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 10.5,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
-        "url": "https://revpdf.com/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-03-20T02:41:10+00:00",
-        "age_days": 196.91,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "aging penalty -16.0 for 196.9d old signal"
-        ],
-        "summary": "The PDF editor that stays on your device. Edit text and images, redact, sign, compress, split, merge and convert PDFs, entirely on your own machine. No uploads. No accounts. No subscription. Just a fast, native app that does the work."
-      }
-    ]
-  }
+  ]
 }
