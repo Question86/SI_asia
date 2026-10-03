@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-03T09:39:57Z_
+_Generated: 2026-10-03T09:50:33Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Netscaler-Admins aufgepasst: Zero-Day ve
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T07:39:37+00:00` / age_days `106.08`
+- Published: `2026-06-19T07:39:37+00:00` / age_days `106.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: zero-day, rce, code, security high-signal: zero-day, rce, code, aging penalty -8.0 for 106.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -22,17 +22,17 @@ Stärkste Dynamik nach Gate-Recheck: “Netscaler-Admins aufgepasst: Zero-Day ve
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-31T18:43:10+00:00` / age_days `32.62`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `32.63`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 15.77, high terms: rce, code, security high-signal: rce, code, aging penalty -4.1 for 32.6d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 15.20, high terms: rce, code, security high-signal: rce, code, aging penalty -4.1 for 32.6d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://note.com/npaka/n/n2b9c36c471b6
 
 ### Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-03T08:23:00.000+00:00` / age_days `0.05`
+- Published: `2026-10-03T08:23:00.000+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: zero-day, active, exploitation, security high-signal: zero-day, active, exploitation, code, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Netscaler-Admins aufgepasst: Zero-Day ve
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-01T04:08:11+00:00` / age_days `2.23`
+- Published: `2026-10-01T04:08:11+00:00` / age_days `2.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Netscaler-Admins aufgepasst: Zero-Day ve
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-03T06:25:52.040+00:00` / age_days `0.13`
+- Published: `2026-10-03T06:25:52.040+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Netscaler-Admins aufgepasst: Zero-Day ve
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-10-03T00:33:41+00:00` / age_days `0.38`
+- Published: `2026-10-03T00:33:41+00:00` / age_days `0.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Netscaler-Admins aufgepasst: Zero-Day ve
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-10-03T01:40:44+00:00` / age_days `0.33`
+- Published: `2026-10-03T01:40:44+00:00` / age_days `0.34`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Netscaler-Admins aufgepasst: Zero-Day ve
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-10-02T08:42:07+00:00` / age_days `1.04`
+- Published: `2026-10-02T08:42:07+00:00` / age_days `1.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -101,8 +101,8 @@ Stärkste Dynamik nach Gate-Recheck: “Netscaler-Admins aufgepasst: Zero-Day ve
 ### M 4.8 - 112 km S of Koshima, Japan
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `17.46`
-- Published: `2026-08-28T23:45:53+00:00` / age_days `35.41`
+- Dynamics score: `17.45`
+- Published: `2026-08-28T23:45:53+00:00` / age_days `35.42`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -5.0 for 35.4d old signal
