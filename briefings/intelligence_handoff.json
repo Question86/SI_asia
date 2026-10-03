@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-03T21:34:40Z",
+  "generated_at": "2026-10-03T22:41:00Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 106.58,
+      "age_days": 106.63,
       "topics": [
         "general"
       ],
@@ -43,7 +43,7 @@
       "url": "https://note.com/npaka/n/n2b9c36c471b6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 33.12,
+      "age_days": 33.17,
       "topics": [
         "ai",
         "security"
@@ -55,15 +55,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.83,
+      "baseline_z_hint": 7.27,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 7.83",
+        "baseline z_hint 7.27",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -4.2 for 33.1d old signal",
+        "aging penalty -4.3 for 33.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -73,7 +73,7 @@
       "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-03T08:23:00.000+00:00",
-      "age_days": 0.55,
+      "age_days": 0.6,
       "topics": [
         "security"
       ],
@@ -99,7 +99,7 @@
       "url": "https://note.com/npaka/n/n2b9c36c471b6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T04:08:11+00:00",
-      "age_days": 2.73,
+      "age_days": 2.77,
       "topics": [
         "ai",
         "security"
@@ -126,7 +126,7 @@
       "url": "https://voluntas.ghost.io/2026-10-first-half-llm/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T13:26:01+00:00",
-      "age_days": 0.34,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -149,11 +149,36 @@
       "summary": ""
     },
     {
+      "title": "Microsoft Digital Defense Report 2026 | Microsoft",
+      "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/reports/microsoft-digital-defense-report/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-03T08:35:42+00:00",
+      "age_days": 0.59,
+      "topics": [
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security, microsoft"
+      ],
+      "summary": "In an era of interconnected risk, attackers are increasingly exploiting the trusted identities, systems, relationships, and services organizations rely on most. The 2026 Microsoft Digital Defense Report reveals a fundamental shift in cybersecurity with the interconnected digital ecosystem and the..."
+    },
+    {
       "title": "M 4.8 - 112 km S of Koshima, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T06:25:52.040+00:00",
-      "age_days": 0.63,
+      "age_days": 0.68,
       "topics": [
         "disaster"
       ],
@@ -178,7 +203,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:33:41+00:00",
-      "age_days": 0.88,
+      "age_days": 0.92,
       "topics": [
         "ai"
       ],
@@ -204,7 +229,7 @@
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T01:40:44+00:00",
-      "age_days": 0.83,
+      "age_days": 0.88,
       "topics": [
         "general"
       ],
@@ -228,7 +253,7 @@
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-03T06:38:59+00:00",
-      "age_days": 0.62,
+      "age_days": 0.67,
       "topics": [
         "general"
       ],
@@ -252,7 +277,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T08:42:07+00:00",
-      "age_days": 1.54,
+      "age_days": 1.58,
       "topics": [
         "ai"
       ],
@@ -274,56 +299,28 @@
       "summary": "はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 github.com Rustを書き始めた人にも使え..."
     },
     {
-      "title": "M 4.8 - 112 km S of Koshima, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-28T23:45:53+00:00",
-      "age_days": 35.91,
+      "title": "Microsoft Digital Defense Report 2026 | Microsoft",
+      "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/reports/microsoft-digital-defense-report/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-03T22:13:31+00:00",
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.28,
+      "dynamics_score": 17.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "aging penalty -5.2 for 35.9d old signal"
+        "momentum delta +1"
       ],
       "summary": ""
-    },
-    {
-      "title": "2026 年 10 月前半の LLM 利用状況",
-      "url": "https://voluntas.ghost.io/2026-10-first-half-llm/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-03T08:13:44+00:00",
-      "age_days": 0.56,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code, 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。 サブスクサブスクは Ollama Cloud と Cursor と Codex の三つ。 Ollama CloudTeam プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替えた。 Ollama Cloud は月 $5..."
     }
   ],
   "read_order": [
@@ -335,8 +332,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 3
+      "strong": 10,
+      "watch": 2
     }
   }
 }
