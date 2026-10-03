@@ -280,6 +280,42 @@
     "id": "f1b0fec9dab700efda85"
   },
   {
+    "title": "M 4.6 - 76 km NNE of Lae, Papua New Guinea",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdj",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-03T17:52:33.040+00:00",
+    "fetched_at": "2026-10-03T18:20:42+00:00",
+    "summary": "Time 2026-10-03 17:24:12 UTC 2026-10-03 17:24:12 UTC at epicenter Location 6.050°S 147.168°E Depth 81.86 km (50.87 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "297bb39a723e3ca33349"
+  },
+  {
     "title": "M 4.5 - Kermadec Islands region",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -420,6 +456,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a061e0cd288b141a5d2b"
+  },
+  {
+    "title": "CSS の margin-trim でコンテナーの端の余白を取り除く",
+    "url": "https://azukiazusa.dev/blog/css-margin-trim/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-02T15:01:33+00:00",
+    "fetched_at": "2026-10-03T18:20:42+00:00",
+    "summary": "2026 年 9 月 27 日時点で、margin-trim はすべての主要ブラウザーで利用できる機能ではありません。Safari 16.4 で導入されていますが、Chromium や Firefox では未対応です。 カードの上下に余分な余白ができる まずは、margin-trim を使わない場合の余白を確認しましょう。次のカードには、見出しと 2 つの段落があり...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "49f49d7cfe3037ba93e9"
   },
   {
     "title": "宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』",
