@@ -100,5 +100,150 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung",
+        "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
+        "source": "heise Security Alerts",
+        "published_at": "2026-06-19T07:39:37+00:00",
+        "age_days": 106.12,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "high terms: zero-day, rce, code",
+          "security high-signal: zero-day, rce, code",
+          "aging penalty -8.0 for 106.1d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Codex Security ・ Claude Security 入門｜npaka",
+        "url": "https://note.com/npaka/n/n2b9c36c471b6",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-31T18:43:10+00:00",
+        "age_days": 32.66,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 13.5,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 13.50",
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "aging penalty -4.1 for 32.7d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung",
+        "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-03T08:23:00.000+00:00",
+        "age_days": 0.09,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "high terms: zero-day, active, exploitation",
+          "security high-signal: zero-day, active, exploitation, code",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "Sicherheitsforscher und Administratoren melden massenhafte Spontanreboots betroffener Geräte. Diese waren auf dem neuesten Patchstand."
+      },
+      {
+        "title": "Codex Security ・ Claude Security 入門｜npaka",
+        "url": "https://note.com/npaka/n/n2b9c36c471b6",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-01T04:08:11+00:00",
+        "age_days": 2.26,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "high terms: code",
+          "security high-signal: code",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "「Codex Security」と「Claude Security」を使って、AIで自社サービスの脆弱性を発見・検証する方法を簡単にまとめました。 1. はじめにWebサービスでは、氏名やメールアドレス、住所など、多くの重要なデータを扱います。情報流出のニュースを見ると、自分たちのサービスにも、気付いていない脆弱性が残っているのでは..."
+      },
+      {
+        "title": "M 4.8 - 112 km S of Koshima, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-03T06:25:52.040+00:00",
+        "age_days": 0.17,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 23.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "Time 2026-10-03 06:05:21 UTC 2026-10-03 06:05:21 UTC at epicenter Location 29.221°N 130.613°E Depth 37.47 km (23.28 mi)"
+      }
+    ]
+  }
 }
