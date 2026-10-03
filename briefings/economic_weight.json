@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T06:05:17+00:00",
+  "generated_at": "2026-10-03T06:39:16+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1219,8 +1219,8 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-28T23:45:53+00:00",
-      "last_seen_at": "2026-08-28T23:53:26+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-03T06:38:59+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_3f2b9b9b0e1d3ea93cdc",
@@ -7713,7 +7713,7 @@
       "p90_usd": 1208000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T00:33:41+00:00",
-      "last_seen_at": "2026-10-03T06:04:58+00:00",
+      "last_seen_at": "2026-10-03T06:38:59+00:00",
       "status": "active"
     },
     {
@@ -11624,7 +11624,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T01:40:44+00:00",
-      "last_seen_at": "2026-10-03T06:04:58+00:00",
+      "last_seen_at": "2026-10-03T06:38:59+00:00",
       "status": "active"
     },
     {
@@ -11762,6 +11762,23 @@
       "first_seen_at": "2026-09-08T05:58:24+00:00",
       "last_seen_at": "2026-09-08T22:21:16+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_cd58cd6b2b317f7e52ff",
+      "title": "pbakaus/impeccable",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-03T06:38:59+00:00",
+      "last_seen_at": "2026-10-03T06:38:59+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -17320,7 +17337,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T04:30:15+00:00",
-      "last_seen_at": "2026-10-03T06:04:58+00:00",
+      "last_seen_at": "2026-10-03T06:38:59+00:00",
       "status": "active"
     },
     {
@@ -17592,7 +17609,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-10-03T06:04:58+00:00",
+      "last_seen_at": "2026-10-03T06:38:59+00:00",
       "status": "active"
     },
     {
@@ -19721,6 +19738,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a5233992e48b04fd4e57",
+      "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-03T06:38:59+00:00",
+      "last_seen_at": "2026-10-03T06:38:59+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_017c3d08edef1ec4ff45",
       "title": "Can Ethereum clear US$2,672 this week and unlock a run to US$3,000?",
       "event_classes": [
@@ -20262,7 +20296,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T00:33:41+00:00",
-      "last_seen_at": "2026-10-03T06:04:58+00:00",
+      "last_seen_at": "2026-10-03T06:38:59+00:00",
       "status": "active"
     },
     {
