@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-03T17:24:15Z",
+  "generated_at": "2026-10-03T18:28:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 32,
+    "dynamics": 36,
     "bands": {
       "strong": 9,
-      "watch": 8,
-      "quiet": 15
+      "watch": 11,
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
       "strong": 9,
-      "watch": 8,
-      "quiet": 15
+      "watch": 11,
+      "quiet": 16
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 106.41,
+      "age_days": 106.45,
       "topics": [
         "general"
       ],
@@ -40,7 +40,7 @@
         "momentum delta +3",
         "high terms: zero-day, rce, code",
         "security high-signal: zero-day, rce, code",
-        "aging penalty -8.0 for 106.4d old signal",
+        "aging penalty -8.0 for 106.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -50,7 +50,7 @@
       "url": "https://note.com/npaka/n/n2b9c36c471b6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 32.95,
+      "age_days": 32.99,
       "topics": [
         "ai",
         "security"
@@ -62,15 +62,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 10.1,
+      "baseline_z_hint": 9.53,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 10.10",
+        "baseline z_hint 9.53",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -4.2 for 32.9d old signal",
+        "aging penalty -4.2 for 33.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -80,7 +80,7 @@
       "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-03T08:23:00.000+00:00",
-      "age_days": 0.38,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -106,7 +106,7 @@
       "url": "https://note.com/npaka/n/n2b9c36c471b6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T04:08:11+00:00",
-      "age_days": 2.55,
+      "age_days": 2.6,
       "topics": [
         "ai",
         "security"
@@ -133,25 +133,24 @@
       "url": "https://voluntas.ghost.io/2026-10-first-half-llm/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T13:26:01+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "krass",
+      "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "high terms: 10",
         "single-source AI hype brake -8.0",
-        "krass gate: single-source non-official/non-identity signal capped",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -161,7 +160,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T06:25:52.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -186,7 +185,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:33:41+00:00",
-      "age_days": 0.7,
+      "age_days": 0.75,
       "topics": [
         "ai"
       ],
@@ -212,7 +211,7 @@
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T01:40:44+00:00",
-      "age_days": 0.66,
+      "age_days": 0.7,
       "topics": [
         "general"
       ],
@@ -236,7 +235,7 @@
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-03T06:38:59+00:00",
-      "age_days": 0.45,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -260,7 +259,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T08:42:07+00:00",
-      "age_days": 1.36,
+      "age_days": 1.41,
       "topics": [
         "ai"
       ],
@@ -286,11 +285,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-28T23:45:53+00:00",
-      "age_days": 35.73,
+      "age_days": 35.78,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.34,
+      "dynamics_score": 17.33,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -302,7 +301,33 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -5.2 for 35.7d old signal"
+        "aging penalty -5.2 for 35.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "「決め方」の渡し方 / How to hand over the \"decision-making process\"",
+      "url": "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-03T14:42:48+00:00",
+      "age_days": 0.16,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +2",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -311,7 +336,7 @@
       "url": "https://voluntas.ghost.io/2026-10-first-half-llm/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T08:13:44+00:00",
-      "age_days": 0.38,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -334,11 +359,36 @@
       "summary": "あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。 サブスクサブスクは Ollama Cloud と Cursor と Codex の三つ。 Ollama CloudTeam プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替えた。 Ollama Cloud は月 $5..."
     },
     {
+      "title": "M 4.6 - 76 km NNE of Lae, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-03T17:52:33.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-03 17:24:12 UTC 2026-10-03 17:24:12 UTC at epicenter Location 6.050°S 147.168°E Depth 81.86 km (50.87 mi)"
+    },
+    {
       "title": "M 4.5 - Kermadec Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T14:21:50.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -359,28 +409,26 @@
       "summary": "Time 2026-10-03 13:51:11 UTC 2026-10-03 13:51:11 UTC at epicenter Location 27.495°S 179.483°W Depth 453.49 km (281.78 mi)"
     },
     {
-      "title": "「決め方」の渡し方 / How to hand over the \"decision-making process\"",
-      "url": "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.5 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T14:42:48+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 14.5,
+      "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -389,7 +437,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T07:07:56+00:00",
-      "age_days": 0.43,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -413,7 +461,7 @@
       "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T04:30:15+00:00",
-      "age_days": 0.54,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -433,11 +481,35 @@
       "summary": ""
     },
     {
+      "title": "M 4.6 - 76 km NNE of Lae, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-03T18:21:14+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
       "url": "https://revpdf.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:33:41+00:00",
-      "age_days": 0.7,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -457,35 +529,11 @@
       "summary": ""
     },
     {
-      "title": "ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府",
-      "url": "https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html",
+      "title": "CSS の margin-trim でコンテナーの端の余白を取り除く",
+      "url": "https://azukiazusa.dev/blog/css-margin-trim/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-03T17:12:39+00:00",
+      "published_at": "2026-10-03T18:21:14+00:00",
       "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.5 - Kermadec Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzcm",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-03T14:42:48+00:00",
-      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -509,7 +557,7 @@
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T22:00:08+00:00",
-      "age_days": 0.81,
+      "age_days": 0.85,
       "topics": [
         "general"
       ],
@@ -533,7 +581,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:45:23+00:00",
-      "age_days": 0.69,
+      "age_days": 0.74,
       "topics": [
         "general"
       ],
@@ -557,7 +605,7 @@
       "url": "https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T07:07:56+00:00",
-      "age_days": 0.43,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -579,11 +627,35 @@
       "summary": ""
     },
     {
+      "title": "ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府",
+      "url": "https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-03T17:12:39+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-03T06:38:25+00:00",
-      "age_days": 0.45,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "macro"
@@ -610,7 +682,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T06:38:59+00:00",
-      "age_days": 0.45,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -636,7 +708,7 @@
       "url": "https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T03:45:48+00:00",
-      "age_days": 0.57,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -662,7 +734,7 @@
       "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T14:56:01+00:00",
-      "age_days": 1.1,
+      "age_days": 1.15,
       "topics": [
         "general"
       ],
@@ -686,7 +758,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:45:10+00:00",
-      "age_days": 0.69,
+      "age_days": 0.74,
       "topics": [
         "ai"
       ],
@@ -712,7 +784,7 @@
       "url": "https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T23:40:34+00:00",
-      "age_days": 0.74,
+      "age_days": 0.78,
       "topics": [
         "ai"
       ],
@@ -738,7 +810,7 @@
       "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 106.64,
+      "age_days": 106.69,
       "topics": [
         "ai"
       ],
@@ -755,7 +827,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 106.6d old signal",
+        "aging penalty -8.0 for 106.7d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -765,7 +837,7 @@
       "url": "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-04-09T04:25:23+00:00",
-      "age_days": 177.54,
+      "age_days": 177.59,
       "topics": [
         "ai"
       ],
@@ -781,7 +853,7 @@
       "single_source_ai_capped": true,
       "why": [
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 177.5d old signal",
+        "aging penalty -16.0 for 177.6d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "【Startup in Agile #7 】ボトルネックは人の意思決定？「決め方」の変遷教えて https://startup-in-agile.connpass.com/event/386112/"
@@ -791,7 +863,7 @@
       "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T15:17:29+00:00",
-      "age_days": 1.09,
+      "age_days": 1.13,
       "topics": [
         "ai"
       ],
@@ -812,11 +884,36 @@
       "summary": "はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな..."
     },
     {
+      "title": "CSS の margin-trim でコンテナーの端の余白を取り除く",
+      "url": "https://azukiazusa.dev/blog/css-margin-trim/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-02T15:01:33+00:00",
+      "age_days": 1.14,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "2026 年 9 月 27 日時点で、margin-trim はすべての主要ブラウザーで利用できる機能ではありません。Safari 16.4 で導入されていますが、Chromium や Firefox では未対応です。 カードの上下に余分な余白ができる まずは、margin-trim を使わない場合の余白を確認しましょう。次のカードには、見出しと 2 つの段落があり..."
+    },
+    {
       "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
       "url": "https://revpdf.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-03-20T02:41:10+00:00",
-      "age_days": 197.61,
+      "age_days": 197.66,
       "topics": [
         "general"
       ],
@@ -831,7 +928,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -16.0 for 197.6d old signal"
+        "aging penalty -16.0 for 197.7d old signal"
       ],
       "summary": "The PDF editor that stays on your device. Edit text and images, redact, sign, compress, split, merge and convert PDFs, entirely on your own machine. No uploads. No accounts. No subscription. Just a fast, native app that does the work."
     }
