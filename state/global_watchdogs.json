@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T22:13:31+00:00",
+  "generated_at": "2026-10-03T23:14:53+00:00",
   "sections": {
     "global_security": [
       {
@@ -121,6 +121,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568726",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.9 - 39 km WSW of Tambolaka, Indonesia",
+        "summary": "M5.9 - 39 km WSW of Tambolaka, Indonesia. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer",
+        "published_at": "2026-10-03T22:55:55+00:00",
+        "metrics": {
+          "mag": 5.9,
+          "alert": "",
+          "sig": 536.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

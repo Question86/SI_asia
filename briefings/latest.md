@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-03T22:13:29+00:00_
+_Generiert: 2026-10-03T23:14:50+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung“ aus heise Security Alerts (Score 24, risk).
+22 neue relevante Treffer. Stärkstes Signal: „Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,6 +53,10 @@ _Generiert: 2026-10-03T22:13:29+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10.792km) in Japan 30/09/2026 05:00 UTC, 2 thousand in MMI -.
+- **USGS earthquake M5.9 - 39 km WSW of Tambolaka, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer)
+  - Quelle: USGS
+  - Zeit: `2026-10-03T22:55:55+00:00`
+  - Kurz: M5.9 - 39 km WSW of Tambolaka, Indonesia. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
