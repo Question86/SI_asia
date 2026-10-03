@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T23:57:46+00:00",
+  "generated_at": "2026-10-03T00:33:59+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -742,7 +742,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T11:05:22+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4469274d9f642c799f53",
@@ -1390,7 +1390,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b47b2e67825e83c18adc",
@@ -1458,7 +1458,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T06:55:03+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d15aba8293f087de53e5",
@@ -1526,7 +1526,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T07:22:32+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e1977ace65ebf1864c3b",
@@ -2240,7 +2240,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-02T16:18:57+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_41ec409d9571ce4d6a9e",
@@ -6065,7 +6065,7 @@
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b380be2049a414b6cdc6",
@@ -6133,7 +6133,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T15:36:24+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f8de791871e85abc0655",
@@ -6167,7 +6167,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T14:59:44+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_312491f5fdccda00a0b0",
@@ -6201,7 +6201,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6bd9db655618cf846ffa",
@@ -6643,7 +6643,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T01:21:11+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_68f7ce6a8e9b227f760a",
@@ -6762,7 +6762,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T01:21:11+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9107556a34988e1e4ea5",
@@ -7717,6 +7717,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_80a0c12c912fdc6892e7",
+      "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 120800.0,
+      "p50_usd": 12080000.0,
+      "p90_usd": 1208000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-03T00:33:41+00:00",
+      "last_seen_at": "2026-10-03T00:33:41+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_08c412fc7f71e8b9fc51",
       "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
       "event_classes": [
@@ -7952,7 +7969,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T03:29:31+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d96adc541632cfc44484",
@@ -8054,7 +8071,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T11:23:17+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0bef243a6873ae8f2268",
@@ -8666,7 +8683,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T04:53:55+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_97918260205036b4bb96",
@@ -8700,7 +8717,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a71916846dd64406ffc2",
@@ -9924,7 +9941,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T15:22:26+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_7fed16e421341a71fc3c",
@@ -10570,7 +10587,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_aded2857bce4fe598bda",
@@ -11574,7 +11591,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d44ba16b5cae98333f94",
@@ -13087,7 +13104,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_574beed208af3af2acc2",
@@ -18528,7 +18545,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T07:48:35+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9ee4a4eefa80fadb5a10",
@@ -20230,6 +20247,23 @@
       "first_seen_at": "2026-09-23T04:56:56+00:00",
       "last_seen_at": "2026-09-23T05:42:29+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_f5964213bf4e6a11db30",
+      "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-03T00:33:41+00:00",
+      "last_seen_at": "2026-10-03T00:33:41+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
