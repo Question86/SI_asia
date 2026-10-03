@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-03T01:13:25+00:00_
+_Generiert: 2026-10-03T01:40:42+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 21, observation).
+4 neue relevante Treffer. Stärkstes Signal: „AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 21, observation).
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan** — Score 11, observation — [Quelle](https://linuc.org/textbooks/network/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-02T22:00:08+00:00`, fetched `2026-10-03T01:40:10+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ネットワークの仕組みを実習を通して基礎から学べる教材 「Linuxネットワーク標準教科書」は、Linux技術者教育に利用していただくことを目的として、LPI-Japanが無料で公開しています。 ネットワークの仕組みを実習を通して基礎から学べる教材です。実際にLinuxを操作して理解できます。 本教科書は、多くの教育機関から...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita** — Score 5, observation — [Quelle](https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-02T15:17:29+00:00`, fetched `2026-10-03T01:12:49+00:00`
