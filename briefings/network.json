@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-03T06:04:58+00:00",
+  "generated_at": "2026-10-03T06:38:59+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 5,
-    "clusters": 5,
+    "findings": 8,
+    "clusters": 8,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
-    "dominance_penalized": 0
+    "dominance_penalized": 1
   },
   "clusters": [
     {
@@ -51,6 +51,85 @@
       "first_seen_at": "2026-10-03T00:33:41+00:00"
     },
     {
+      "key": "earthquake:japan:4.8",
+      "title": "M 4.8 - 112 km S of Koshima, Japan",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.3,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 20.7,
+      "ranking_score": 17.3,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.4,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-08-28T23:45:53+00:00"
+    },
+    {
+      "key": "github_repo:pbakaus/impeccable",
+      "title": "pbakaus/impeccable",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/pbakaus/impeccable"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-03T06:38:59+00:00"
+    },
+    {
       "key": "domain:linuc.org",
       "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
       "sources": [
@@ -89,6 +168,44 @@
       "first_seen_at": "2026-10-03T01:40:44+00:00"
     },
     {
+      "key": "title:apple-macos",
+      "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/03/2000001983/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-03T06:38:59+00:00"
+    },
+    {
       "key": "domain:qiita.com",
       "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
       "sources": [
@@ -106,18 +223,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 6.54,
+      "network_score": 6.53,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 7.1,
-      "ranking_score": 6.54,
+      "ranking_score": 6.53,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.04,
+      "baseline_bonus": 0.03,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -205,7 +322,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-03T06:04:59Z",
+    "generated_at": "2026-10-03T06:39:00Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

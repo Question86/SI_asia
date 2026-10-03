@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T06:04:58+00:00",
+  "generated_at": "2026-10-03T06:38:59+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3662,7 +3662,7 @@
     },
     "domain:qiita.com": {
       "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
-      "updated_at": "2026-10-03T06:04:58+00:00",
+      "updated_at": "2026-10-03T06:38:59+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -3672,7 +3672,6 @@
         6.1,
         6.1,
         6.1,
-        6.1,
         10.1,
         7.1,
         7.1,
@@ -3683,6 +3682,7 @@
         7.1,
         7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -3695,10 +3695,10 @@
         7.1,
         7.1
       ],
-      "rolling_average": 7.0,
+      "rolling_average": 7.03,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": 0.1
+      "z_hint": 0.07
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -6988,16 +6988,17 @@
       "z_hint": -0.3
     },
     "earthquake:japan:4.8": {
-      "title": "M 4.8 - 110 km E of Miyako, Japan",
-      "updated_at": "2026-08-28T23:53:26+00:00",
+      "title": "M 4.8 - 112 km S of Koshima, Japan",
+      "updated_at": "2026-10-03T06:38:59+00:00",
       "network_scores": [
         20.7,
-        17.7
+        17.7,
+        20.7
       ],
-      "rolling_average": 19.2,
+      "rolling_average": 19.7,
       "rolling_peak": 20.7,
-      "last_score": 17.7,
-      "z_hint": -1.5
+      "last_score": 20.7,
+      "z_hint": 1.0
     },
     "domain:four.htmx.org": {
       "title": "htmx 4.0.0 has been released!",
@@ -58781,7 +58782,7 @@
     },
     "title:rust-rust-learning-lab": {
       "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
-      "updated_at": "2026-10-03T06:04:58+00:00",
+      "updated_at": "2026-10-03T06:38:59+00:00",
       "network_scores": [
         26.1,
         23.1,
@@ -58795,16 +58796,17 @@
         23.1,
         23.1,
         23.1,
+        23.1,
         23.1
       ],
-      "rolling_average": 23.33,
+      "rolling_average": 23.31,
       "rolling_peak": 26.1,
       "last_score": 23.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "domain:revpdf.com": {
       "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
-      "updated_at": "2026-10-03T06:04:58+00:00",
+      "updated_at": "2026-10-03T06:38:59+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -58818,16 +58820,17 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.33,
+      "rolling_average": 6.31,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "domain:linuc.org": {
       "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
-      "updated_at": "2026-10-03T06:04:58+00:00",
+      "updated_at": "2026-10-03T06:38:59+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -58839,28 +58842,52 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.37,
+      "rolling_average": 13.35,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "title:web-cloudflareworkers": {
       "title": "宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』",
-      "updated_at": "2026-10-03T06:04:58+00:00",
+      "updated_at": "2026-10-03T06:38:59+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.6,
+      "rolling_average": 7.53,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
+    },
+    "github_repo:pbakaus/impeccable": {
+      "title": "pbakaus/impeccable",
+      "updated_at": "2026-10-03T06:38:59+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "title:apple-macos": {
+      "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」",
+      "updated_at": "2026-10-03T06:38:59+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
     }
   }
 }
