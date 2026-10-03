@@ -70,5 +70,136 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=22.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
+        "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-03T00:33:41+00:00",
+        "age_days": 0.17,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 22.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
+        "url": "https://linuc.org/textbooks/network/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-03T01:40:44+00:00",
+        "age_days": 0.12,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 20.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
+        "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-02T08:42:07+00:00",
+        "age_days": 0.83,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 18.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "high terms: code, 10",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": "はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 github.com Rustを書き始めた人にも使え..."
+      },
+      {
+        "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
+        "url": "https://revpdf.com/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-03T00:33:41+00:00",
+        "age_days": 0.17,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 13.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』",
+        "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-03T04:30:15+00:00",
+        "age_days": 0.0,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 11.5,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }

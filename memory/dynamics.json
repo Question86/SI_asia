@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-03T04:04:43Z",
+  "generated_at": "2026-10-03T04:34:32Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 8,
+    "dynamics": 10,
     "bands": {
       "strong": 2,
       "watch": 2,
-      "quiet": 4
+      "quiet": 6
     },
     "bands_after_gate_recheck": {
       "strong": 2,
       "watch": 2,
-      "quiet": 4
+      "quiet": 6
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:33:41+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -48,7 +48,7 @@
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T01:40:44+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -72,7 +72,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T08:42:07+00:00",
-      "age_days": 0.81,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
@@ -98,7 +98,7 @@
       "url": "https://revpdf.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:33:41+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -118,11 +118,35 @@
       "summary": ""
     },
     {
+      "title": "宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』",
+      "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-03T04:30:15+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T22:00:08+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -142,11 +166,35 @@
       "summary": "ネットワークの仕組みを実習を通して基礎から学べる教材 「Linuxネットワーク標準教科書」は、Linux技術者教育に利用していただくことを目的として、LPI-Japanが無料で公開しています。 ネットワークの仕組みを実習を通して基礎から学べる教材です。実際にLinuxを操作して理解できます。 本教科書は、多くの教育機関から..."
     },
     {
+      "title": "宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』",
+      "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-02T14:56:01+00:00",
+      "age_days": 0.57,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "かりんだよ！5周年記念ライブツアーに向けてアプリ、いや、Webサイトなんだけどアプリ風に！ファンのみなさんがセットリストを投稿したり、スタンプを集めたりできるWebアプリを作っています。本日はデバッグ配信！このブログは配信前に書いてますので配信がどうなったか分かりませんがまあまあの結果だったからこのブロ..."
+    },
+    {
       "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
       "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 106.09,
+      "age_days": 106.11,
       "topics": [
         "ai"
       ],
@@ -157,12 +205,12 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.3,
+      "baseline_z_hint": 0.27,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.30",
+        "baseline z_hint 0.27",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 106.1d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -174,7 +222,7 @@
       "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T15:17:29+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -199,7 +247,7 @@
       "url": "https://revpdf.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-03-20T02:41:10+00:00",
-      "age_days": 197.06,
+      "age_days": 197.08,
       "topics": [
         "general"
       ],
