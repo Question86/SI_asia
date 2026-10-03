@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T21:11:27+00:00",
+  "generated_at": "2026-10-03T22:13:49+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1219,7 +1219,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-28T23:45:53+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -3667,7 +3667,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-03T14:42:48+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -4687,7 +4687,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-03T19:12:56+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -5354,6 +5354,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_bd4419fd603f12c60af2",
+      "title": "M 4.5 - 121 km SW of Puerto Madero, Mexico",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_be1773026017601a03cd",
       "title": "M 5.2 - 79 km NE of Tadine, New Caledonia",
       "event_classes": [
@@ -5418,7 +5435,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-03T18:21:14+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -6100,23 +6117,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_bd4419fd603f12c60af2",
-      "title": "M 4.5 - 121 km SW of Puerto Madero, Mexico",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-03T21:11:11+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -7781,7 +7781,7 @@
       "p90_usd": 1208000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T00:33:41+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -7832,7 +7832,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T13:26:01+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -9974,7 +9974,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T14:42:48+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -10688,7 +10688,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -11709,7 +11709,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T06:38:59+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -11743,7 +11743,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T01:40:44+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -11881,6 +11881,23 @@
       "first_seen_at": "2026-09-08T05:58:24+00:00",
       "last_seen_at": "2026-09-08T22:21:16+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_13171edf4398de393c07",
+      "title": "Microsoft Digital Defense Report 2026 | Microsoft",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-03T22:13:31+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -14974,7 +14991,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T07:07:56+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -17456,7 +17473,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T04:30:15+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -17626,7 +17643,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -17728,7 +17745,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -17779,7 +17796,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T18:21:14+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -18527,7 +18544,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T17:12:39+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -18629,7 +18646,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T07:07:56+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -18850,7 +18867,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T06:38:59+00:00",
-      "last_seen_at": "2026-10-03T21:11:11+00:00",
+      "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "active"
     },
     {
@@ -20467,7 +20484,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-03T00:33:41+00:00",
       "last_seen_at": "2026-10-03T21:11:11+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_fcf0f3718148ac344a6d",
