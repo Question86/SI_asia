@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-03T06:25:32Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=22.0.",
+  "generated_at": "2026-10-03T07:01:59Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 112 km S of Koshima, Japan” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "M 4.8 - 112 km S of Koshima, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-03T06:25:52.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-03 06:05:21 UTC 2026-10-03 06:05:21 UTC at epicenter Location 29.221°N 130.613°E Depth 37.47 km (23.28 mi)"
+    },
+    {
       "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:33:41+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -41,7 +66,7 @@
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T01:40:44+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -61,11 +86,38 @@
       "summary": ""
     },
     {
+      "title": "M 4.8 - 112 km S of Koshima, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzb5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-28T23:45:53+00:00",
+      "age_days": 35.3,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 1.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 1.00",
+        "aging penalty -5.0 for 35.3d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T08:42:07+00:00",
-      "age_days": 0.91,
+      "age_days": 0.93,
       "topics": [
         "ai"
       ],
@@ -87,11 +139,35 @@
       "summary": "はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 github.com Rustを書き始めた人にも使え..."
     },
     {
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-03T06:38:59+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』",
       "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T04:30:15+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -115,7 +191,7 @@
       "url": "https://revpdf.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T00:33:41+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -139,7 +215,7 @@
       "url": "https://linuc.org/textbooks/network/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T22:00:08+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -159,11 +235,38 @@
       "summary": "ネットワークの仕組みを実習を通して基礎から学べる教材 「Linuxネットワーク標準教科書」は、Linux技術者教育に利用していただくことを目的として、LPI-Japanが無料で公開しています。 ネットワークの仕組みを実習を通して基礎から学べる教材です。実際にLinuxを操作して理解できます。 本教科書は、多くの教育機関から..."
     },
     {
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-03T06:38:25+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: root",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "The design language that makes your AI harness better at design. https://impeccable.style Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install…"
+    },
+    {
       "title": "宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』",
       "url": "https://ameblo.jp/miyamotokarin-official/entry-12980414977.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-02T14:56:01+00:00",
-      "age_days": 0.65,
+      "age_days": 0.67,
       "topics": [
         "general"
       ],
@@ -183,81 +286,30 @@
       "summary": "かりんだよ！5周年記念ライブツアーに向けてアプリ、いや、Webサイトなんだけどアプリ風に！ファンのみなさんがセットリストを投稿したり、スタンプを集めたりできるWebアプリを作っています。本日はデバッグ配信！このブログは配信前に書いてますので配信がどうなったか分かりませんがまあまあの結果だったからこのブロ..."
     },
     {
-      "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
-      "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
+      "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 106.19,
+      "published_at": "2026-10-03T06:38:59+00:00",
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 0,
+      "dynamics_score": 3.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 0.10",
+        "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 106.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
-      "url": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-02T15:17:29+00:00",
-      "age_days": 0.63,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな..."
-    },
-    {
-      "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
-      "url": "https://revpdf.com/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-03-20T02:41:10+00:00",
-      "age_days": 197.16,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "aging penalty -16.0 for 197.2d old signal"
-      ],
-      "summary": "The PDF editor that stays on your device. Edit text and images, redact, sign, compress, split, merge and convert PDFs, entirely on your own machine. No uploads. No accounts. No subscription. Just a fast, native app that does the work."
     }
   ],
   "read_order": [
@@ -269,9 +321,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 2,
-      "watch": 3,
-      "quiet": 5
+      "strong": 3,
+      "watch": 5,
+      "quiet": 4
     }
   }
 }
