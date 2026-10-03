@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-03T18:21:12+00:00_
+_Generiert: 2026-10-03T19:12:53+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung“ aus heise Security Alerts (Score 24, risk).
+19 neue relevante Treffer. Stärkstes Signal: „Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung“ aus heise Security Alerts (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -86,6 +86,15 @@ _Generiert: 2026-10-03T18:21:12+00:00_
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: The design language that makes your AI harness better at design. https://impeccable.style Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install , then run /impeccable init inside your AI coding tool. Full docs: impeccable.style . Why Impeccable…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 72 km NE of Sittwe, Burma (Myanmar)** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdp)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-03T18:34:52.040+00:00`, fetched `2026-10-03T19:12:23+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-03 18:12:46 UTC 2026-10-03 18:12:46 UTC at epicenter Location 20.606°N 93.399°E Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 76 km NNE of Lae, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzdj)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-03T17:52:33.040+00:00`, fetched `2026-10-03T18:20:42+00:00`
