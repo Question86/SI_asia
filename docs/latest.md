@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-03T03:12:04+00:00_
+_Generiert: 2026-10-03T04:30:11+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 21, observation).
+5 neue relevante Treffer. Stärkstes Signal: „AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 21, observation).
 
 ## Priorität Hoch
 
@@ -42,14 +42,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF** — Score 4, observation — [Quelle](https://revpdf.com/)
+- **宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』** — Score 5, observation — [Quelle](https://ameblo.jp/miyamotokarin-official/entry-12980414977.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-03-20T02:41:10+00:00`, fetched `2026-10-03T00:32:57+00:00`
+  - Zeit: published `2026-10-02T14:56:01+00:00`, fetched `2026-10-03T04:29:34+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0)
-  - Kurz: The PDF editor that stays on your device. Edit text and images, redact, sign, compress, split, merge and convert PDFs, entirely on your own machine. No uploads. No accounts. No subscription. Just a fast, native app that does the work.
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: かりんだよ！5周年記念ライブツアーに向けてアプリ、いや、Webサイトなんだけどアプリ風に！ファンのみなさんがセットリストを投稿したり、スタンプを集めたりできるWebアプリを作っています。本日はデバッグ配信！このブログは配信前に書いてますので配信がどうなったか分かりませんがまあまあの結果だったからこのブロ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

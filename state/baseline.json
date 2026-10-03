@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T03:12:07+00:00",
+  "generated_at": "2026-10-03T04:30:15+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3662,7 +3662,7 @@
     },
     "domain:qiita.com": {
       "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
-      "updated_at": "2026-10-03T03:12:07+00:00",
+      "updated_at": "2026-10-03T04:30:15+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -3678,7 +3678,6 @@
         6.1,
         6.1,
         6.1,
-        6.1,
         10.1,
         7.1,
         7.1,
@@ -3689,16 +3688,17 @@
         7.1,
         7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
         7.1,
         7.1
       ],
-      "rolling_average": 6.8,
+      "rolling_average": 6.83,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": 0.3
+      "z_hint": 0.27
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -58781,7 +58781,7 @@
     },
     "title:rust-rust-learning-lab": {
       "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
-      "updated_at": "2026-10-03T03:12:07+00:00",
+      "updated_at": "2026-10-03T04:30:15+00:00",
       "network_scores": [
         26.1,
         23.1,
@@ -58789,16 +58789,17 @@
         23.1,
         23.1,
         23.1,
+        23.1,
         23.1
       ],
-      "rolling_average": 23.53,
+      "rolling_average": 23.47,
       "rolling_peak": 26.1,
       "last_score": 23.1,
-      "z_hint": -0.43
+      "z_hint": -0.37
     },
     "domain:revpdf.com": {
       "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
-      "updated_at": "2026-10-03T03:12:07+00:00",
+      "updated_at": "2026-10-03T04:30:15+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -58806,27 +58807,40 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.53,
+      "rolling_average": 6.48,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "domain:linuc.org": {
       "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
-      "updated_at": "2026-10-03T03:12:07+00:00",
+      "updated_at": "2026-10-03T04:30:15+00:00",
       "network_scores": [
         16.1,
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.7,
+      "rolling_average": 13.6,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
+    },
+    "title:web-cloudflareworkers": {
+      "title": "宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』",
+      "updated_at": "2026-10-03T04:30:15+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
     }
   }
 }
