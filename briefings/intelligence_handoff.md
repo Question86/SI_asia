@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-04T10:37:49Z_
+_Generated: 2026-10-04T12:21:36Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-04T03:44:03+00:00` / age_days `0.29`
+- Published: `2026-10-04T03:44:03+00:00` / age_days `0.36`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, early terms: local, high terms: code, single-source AI hype brake -8.0, krass gate: single-source non-official/non-identity signal capped, single-source AI cap enforced after phrase recheck
@@ -22,17 +22,27 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-03T23:58:14.386+00:00` / age_days `0.44`
+- Published: `2026-10-03T23:58:14.386+00:00` / age_days `0.52`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, krass gate: single-source non-official/non-identity signal capped
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg
 
+### M 5.0 - 37 km N of Ruteng, Indonesia
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.0`
+- Published: `2026-10-04T10:31:08.040+00:00` / age_days `0.08`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5
+
 ### M 4.5 - 293 km SSE of Tabiauan, Philippines
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-03T23:39:45.040+00:00` / age_days `0.46`
+- Published: `2026-10-03T23:39:45.040+00:00` / age_days `0.53`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.5`
-- Published: `2026-09-30T02:57:23+00:00` / age_days `4.32`
+- Published: `2026-09-30T02:57:23+00:00` / age_days `4.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-09-26T12:11:15+00:00` / age_days `7.94`
+- Published: `2026-09-26T12:11:15+00:00` / age_days `8.01`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,17 +72,27 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `watch` (raw `strong`)
 - Dynamics score: `19.9`
-- Published: `2026-09-01T08:46:46+00:00` / age_days `33.08`
+- Published: `2026-09-01T08:46:46+00:00` / age_days `33.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -4.2 for 33.1d old signal, stale single-source cap: max watch after 14d without fresh resonance
+- Warum: momentum delta +3, aging penalty -4.3 for 33.1d old signal, stale single-source cap: max watch after 14d without fresh resonance
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg
+
+### M 5.0 - 37 km N of Ruteng, Indonesia
+
+- Band: `watch` (raw `strong`)
+- Dynamics score: `19.9`
+- Published: `2026-08-29T08:36:29+00:00` / age_days `36.16`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, baseline z_hint 2.90, aging penalty -5.3 for 36.2d old signal, stale single-source cap: max watch after 14d without fresh resonance
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5
 
 ### 自然言語で操作し、結果を検証するテストフレームワーク e2e
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-04T01:31:18+00:00` / age_days `0.38`
+- Published: `2026-10-04T01:31:18+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-04T01:57:32.040+00:00` / age_days `0.36`
+- Published: `2026-10-04T01:57:32.040+00:00` / age_days `0.43`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-10-04T02:29:16+00:00` / age_days `0.34`
+- Published: `2026-10-04T02:29:16+00:00` / age_days `0.41`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-10-04T02:29:16+00:00` / age_days `0.34`
+- Published: `2026-10-04T02:29:16+00:00` / age_days `0.41`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://gigazine.net/news/20261004-photon-matrix/
-
-### Effect-TS/effect
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `12.0`
-- Published: `2026-10-04T07:18:29+00:00` / age_days `0.14`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://github.com/Effect-TS/effect
-
-### 個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.5`
-- Published: `2026-10-04T09:33:59+00:00` / age_days `0.04`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://www.itmedia.co.jp/news/article/2610/04/2000001987/
 
 END OF DOCUMENT
