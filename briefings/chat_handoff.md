@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-04T20:07:48+00:00_
+_Generated: 2026-10-04T21:04:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `24`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-04T20:07:48+00:00_
 - url: https://www.itmedia.co.jp/news/article/2610/04/2000001986/
 - summary: 米OpenAIで主要モデルのリリースごとに公開する安全性報告書の執筆を統括していたデビッド・ロビンソン氏は10月3日（現地時間）、米The Atlanticに「I Quit OpenAI Because Its Culture Is Broken」（OpenAIの文化が壊れているから辞めた）と題した記事を寄稿し、今週同社を退社したことを明らかにした。 同氏は、AI企業...
 
-### 6. M 5.0 - 295 km S of Burica, Panama
+### 6. M 4.8 - 32 km SSE of Jurm, Afghanistan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-04T20:43:07.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkn
+- summary: Time 2026-10-04 20:27:25 UTC 2026-10-04 20:27:25 UTC at epicenter Location 36.611°N 71.022°E Depth 248.91 km (154.66 mi)
+
+### 7. M 5.0 - 295 km S of Burica, Panama
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-04T14:28:42.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8
 - summary: Time 2026-10-04 14:06:10 UTC 2026-10-04 14:06:10 UTC at epicenter Location 5.370°N 82.717°W Depth 10.00 km (6.21 mi)
 
-### 7. M 4.9 - 21 km NE of Lae, Papua New Guinea
+### 8. M 4.9 - 21 km NE of Lae, Papua New Guinea
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-04T01:57:32.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv
 - summary: Time 2026-10-04 01:38:46 UTC 2026-10-04 01:38:46 UTC at epicenter Location 6.592°S 147.135°E Depth 94.22 km (58.55 mi)
-
-### 8. AI に仕事を奪われるのはエンジニアではなくプロダクトマネージャーの方だった
-- source: Hatena Bookmark Hotentry IT
-- score: `9`
-- published: `2026-10-03T13:00:04+00:00`
-- url: https://portalshit.net/2026/10/03/ai-is-eating-product-management
-- summary: 生成 AI が人間の仕事を奪っていくという話が様々なところでなされている。ソフトウェア開発の現場で AI にジョブセキュリティを脅かされるのはエンジニアやデザイナーなどの作り手の方で、何を・なぜ作るべきか考えるプロダクトマネージャーに関しては AI に置き換えられにくい職業だと思っていた。 しかし実際に勤務先...
 
 END OF DOCUMENT
