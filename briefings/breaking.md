@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-04T05:17:48+00:00_
+_Generiert: 2026-10-04T07:18:29+00:00_
 
 ## GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.
 
