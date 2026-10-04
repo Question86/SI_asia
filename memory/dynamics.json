@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-04T22:50:18Z",
+  "generated_at": "2026-10-04T23:13:04Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "strong": 7,
-      "watch": 14,
-      "quiet": 19
+      "watch": 15,
+      "quiet": 18
     },
     "bands_after_gate_recheck": {
       "strong": 7,
-      "watch": 14,
-      "quiet": 19
+      "watch": 15,
+      "quiet": 18
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://github.com/egma-ai/jev-code-reviewer",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T03:44:03+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T23:58:14.386+00:00",
-      "age_days": 0.95,
+      "age_days": 0.97,
       "topics": [
         "disaster"
       ],
@@ -77,7 +77,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tziz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T13:05:17.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -102,7 +102,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T10:31:08.040+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "disaster"
       ],
@@ -127,7 +127,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T23:39:45.040+00:00",
-      "age_days": 0.97,
+      "age_days": 0.98,
       "topics": [
         "disaster"
       ],
@@ -152,7 +152,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:57:23+00:00",
-      "age_days": 4.83,
+      "age_days": 4.84,
       "topics": [
         "general"
       ],
@@ -176,7 +176,7 @@
       "url": "https://github.com/egma-ai/jev-code-reviewer",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T12:11:15+00:00",
-      "age_days": 8.44,
+      "age_days": 8.46,
       "topics": [
         "ai",
         "macro"
@@ -204,7 +204,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T08:46:46+00:00",
-      "age_days": 33.59,
+      "age_days": 33.6,
       "topics": [
         "general"
       ],
@@ -230,7 +230,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tziz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 108.34,
+      "age_days": 108.36,
       "topics": [
         "general"
       ],
@@ -247,7 +247,33 @@
       "why": [
         "momentum delta +3",
         "high terms: 10",
-        "aging penalty -8.0 for 108.3d old signal"
+        "aging penalty -8.0 for 108.4d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "最近プロジェクトマネジメントで感じたこと - Qiita",
+      "url": "https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 107.89,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.88,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 5.8,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 5.80",
+        "aging penalty -8.0 for 107.9d old signal"
       ],
       "summary": ""
     },
@@ -256,7 +282,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T08:36:29+00:00",
-      "age_days": 36.59,
+      "age_days": 36.61,
       "topics": [
         "general"
       ],
@@ -281,7 +307,7 @@
       "url": "https://azukiazusa.dev/blog/e2e-ai-testing/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T01:31:18+00:00",
-      "age_days": 0.89,
+      "age_days": 0.9,
       "topics": [
         "general"
       ],
@@ -305,7 +331,7 @@
       "url": "https://github.com/Effect-TS/effect",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-04T07:18:29+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "general"
       ],
@@ -329,7 +355,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T20:43:07.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -354,7 +380,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T14:28:42.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -379,7 +405,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T01:57:32.040+00:00",
-      "age_days": 0.87,
+      "age_days": 0.89,
       "topics": [
         "disaster"
       ],
@@ -404,7 +430,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T21:05:01+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -428,7 +454,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T15:02:36+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -452,7 +478,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T02:29:16+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "general"
       ],
@@ -476,7 +502,7 @@
       "url": "https://gigazine.net/news/20261004-photon-matrix/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T02:29:16+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "general"
       ],
@@ -500,7 +526,7 @@
       "url": "https://zenn.dev/qnighy/articles/json-ambiguity",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T22:08:54+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -524,7 +550,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T09:33:59+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -548,7 +574,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T10:46:03+00:00",
-      "age_days": 29.5,
+      "age_days": 29.52,
       "topics": [
         "ai"
       ],
@@ -575,7 +601,7 @@
       "url": "https://portalshit.net/2026/10/03/ai-is-eating-product-management",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T09:33:59+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -601,7 +627,7 @@
       "url": "https://gigazine.net/news/20261004-cloudflare-quick-tunnels/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 107.87,
+      "age_days": 107.89,
       "topics": [
         "general"
       ],
@@ -627,7 +653,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T23:32:18+00:00",
-      "age_days": 0.97,
+      "age_days": 0.99,
       "topics": [
         "ai"
       ],
@@ -653,7 +679,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUD02B5F0S6A001C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 107.86,
+      "age_days": 107.88,
       "topics": [
         "general"
       ],
@@ -678,7 +704,7 @@
       "url": "https://togetter.com/li/2753906",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T13:15:14+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -704,7 +730,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUD02B5F0S6A001C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T08:03:25+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "general"
       ],
@@ -728,7 +754,7 @@
       "url": "https://www.dtmstation.com/archives/80372.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T20:07:50+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -754,7 +780,7 @@
       "url": "https://portalshit.net/2026/10/03/ai-is-eating-product-management",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T13:00:04+00:00",
-      "age_days": 1.41,
+      "age_days": 1.43,
       "topics": [
         "ai"
       ],
@@ -780,7 +806,7 @@
       "url": "https://zenn.dev/qnighy/articles/json-ambiguity",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T09:27:45+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -804,7 +830,7 @@
       "url": "https://note.com/keitaro_shimizu/n/n1cd34c93e432",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T07:03:47+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "general"
       ],
@@ -828,7 +854,7 @@
       "url": "https://gigazine.net/news/20261004-cloudflare-quick-tunnels/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T03:07:44+00:00",
-      "age_days": 0.82,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -855,7 +881,7 @@
       "url": "https://togetter.com/li/2753949",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T08:48:45+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -881,7 +907,7 @@
       "url": "https://togetter.com/li/2753906",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T06:58:01+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -907,7 +933,7 @@
       "url": "https://gigazine.net/news/20261004-photon-matrix/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T23:12:52+00:00",
-      "age_days": 0.98,
+      "age_days": 1.0,
       "topics": [
         "ai"
       ],
@@ -929,39 +955,11 @@
       "summary": "スキャナーで蚊を検知して手で蚊を叩くよりも速くビームを発射する装置「Photon Matrix」の予約受付が始まりました。 国产PhotonMatrix便携式激光灭蚊设备爆单，海外众筹超250万美元-电子工程专辑 https://www.eet-china.com/news/202605289975.html Chinese-developed laser mosquito killer enters mass production - ..."
     },
     {
-      "title": "AIでの人員削減は現実的ではないと希望で語る人がいる中、外注はゼロにして社内の人間を20人から4人にした経営者の経験談を語る「築き上げてきたものがAIで完全に崩壊」",
-      "url": "https://togetter.com/li/2753949",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 107.43,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 3.6,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 3.27,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 3.27",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 107.4d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」公開。何歳？ 年収は？ モニタは何枚？ AIにどのくらいコードを書かせている？ 趣味は？ など集計結果",
       "url": "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T22:44:58+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -971,13 +969,41 @@
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
         "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "AIでの人員削減は現実的ではないと希望で語る人がいる中、外注はゼロにして社内の人間を20人から4人にした経営者の経験談を語る「築き上げてきたものがAIで完全に崩壊」",
+      "url": "https://togetter.com/li/2753949",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T12:31:48+00:00",
+      "age_days": 107.45,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.14,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.86,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.86",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 107.4d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -987,7 +1013,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T02:37:40+00:00",
-      "age_days": 0.84,
+      "age_days": 0.86,
       "topics": [
         "ai"
       ],
@@ -1007,33 +1033,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "米Googleは10月初旬に更新したGeminiのサポートページで、個人向け「Gemini」アプリで利用できるAIモデルを、加入しているGoogle AIの契約プランに応じて変更すると告知した。Google AIの有料プランを契約していない無料ユーザーについては10月9日から変更を適用し、利用できるモデルは「Flash-Lite」のみになる。 変更..."
-    },
-    {
-      "title": "AI時代に、次のベテランエンジニアは育つのか｜柴田 芳樹",
-      "url": "https://note.com/yoshiki_shibata/n/n185f3d9e13bc",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 34.17,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 1.39,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "aging penalty -4.6 for 34.2d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
