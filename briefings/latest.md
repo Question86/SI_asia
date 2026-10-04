@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-10-04T19:04:38+00:00_
+_Generiert: 2026-10-04T20:07:48+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.“ aus Hatena Bookmark Hotentry IT (Score 20, risk).
+23 neue relevante Treffer. Stärkstes Signal: „GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.“ aus Hatena Bookmark Hotentry IT (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-88779 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-04`
+  - Kurz: Known exploited vulnerability. Added 2026-10-04. Due 2026-10-07. Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability
 - **CISA KEV: CVE-2026-102490 Zammad GmbH Zammad** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-02`
@@ -25,10 +29,6 @@ _Generiert: 2026-10-04T19:04:38+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-30`
   - Kurz: Known exploited vulnerability. Added 2026-09-30. Due 2026-10-03. Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability
-- **CISA KEV: CVE-2026-86950 Apple Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-29`
-  - Kurz: Known exploited vulnerability. Added 2026-09-29. Due 2026-10-02. Apple Multiple Products Out-of-Bounds Write Vulnerability
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
@@ -53,10 +53,6 @@ _Generiert: 2026-10-04T19:04:38+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:29.477km) in Russia 02/10/2026 16:34 UTC, Few people affected in MMI III.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 40 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568826)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 40 thousand in MMI IV.
 
 ## Wirtschaft global
 

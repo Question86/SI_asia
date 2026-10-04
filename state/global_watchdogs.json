@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-04T19:04:40+00:00",
+  "generated_at": "2026-10-04T20:07:50+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-88779 Citrix NetScaler",
+        "summary": "Known exploited vulnerability. Added 2026-10-04. Due 2026-10-07. Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-10-04",
+        "metrics": {
+          "cve": "CVE-2026-88779"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -48,18 +60,6 @@
         "published_at": "2026-09-30",
         "metrics": {
           "cve": "CVE-2026-76504"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-86950 Apple Multiple Products",
-        "summary": "Known exploited vulnerability. Added 2026-09-29. Due 2026-10-02. Apple Multiple Products Out-of-Bounds Write Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-29",
-        "metrics": {
-          "cve": "CVE-2026-86950"
         }
       },
       {
@@ -119,16 +119,6 @@
         "summary": "Green earthquake (Magnitude 5.8M, Depth:29.477km) in Russia 02/10/2026 16:34 UTC, Few people affected in MMI III.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569129",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 40 thousand in MMI IV.",
-        "summary": "Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 40 thousand in MMI IV.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568826",
         "published_at": "",
         "metrics": {}
       }

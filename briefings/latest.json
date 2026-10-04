@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T19:04:38+00:00",
-  "run_id": "2026-10-04T19:04:38+00:00",
+  "generated_at": "2026-10-04T20:07:48+00:00",
+  "run_id": "2026-10-04T20:07:48+00:00",
   "date": "2026-10-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 23
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
     "medium": 5,
-    "observe": 17,
+    "observe": 18,
     "source_errors": 0
   },
   "sections": {
@@ -470,6 +470,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "508a83c85c9975d5ac88"
+      },
+      {
+        "title": "30年かけて育てた自動耳コピ「WaoN」がiOS/Macアプリに！AI時代にあえて挑む、0倍速でも音が鳴り続ける「わおん」",
+        "url": "https://www.dtmstation.com/archives/80372.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-04T10:17:28+00:00",
+        "fetched_at": "2026-10-04T20:07:15+00:00",
+        "summary": "録音された音楽から音符を取り出す「自動耳コピ」は、コンピュータと音楽の世界で昔から追い求められてきたテーマです。そうした中、物理学の研究者からプログラマーに転じた市來健吾（いちき けんご）さんが1996年に書き始め、GPLのオープンソースとして公開してきた採譜プログラム「WaoN」が、iPhone/iPad/Mac用のネイ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dbb16d227aa1c4ee5b3b"
       },
       {
         "title": "6年通った博士課程を、退学しました。 --社会人博士を志すあなたに、先に渡しておきたいこと--｜清水 啓太郎 / Keitaro Shimizu",
@@ -1041,6 +1062,27 @@
       "id": "508a83c85c9975d5ac88"
     },
     {
+      "title": "30年かけて育てた自動耳コピ「WaoN」がiOS/Macアプリに！AI時代にあえて挑む、0倍速でも音が鳴り続ける「わおん」",
+      "url": "https://www.dtmstation.com/archives/80372.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-04T10:17:28+00:00",
+      "fetched_at": "2026-10-04T20:07:15+00:00",
+      "summary": "録音された音楽から音符を取り出す「自動耳コピ」は、コンピュータと音楽の世界で昔から追い求められてきたテーマです。そうした中、物理学の研究者からプログラマーに転じた市來健吾（いちき けんご）さんが1996年に書き始め、GPLのオープンソースとして公開してきた採譜プログラム「WaoN」が、iPhone/iPad/Mac用のネイ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dbb16d227aa1c4ee5b3b"
+    },
+    {
       "title": "6年通った博士課程を、退学しました。 --社会人博士を志すあなたに、先に渡しておきたいこと--｜清水 啓太郎 / Keitaro Shimizu",
       "url": "https://note.com/keitaro_shimizu/n/n1cd34c93e432",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1169,13 +1211,13 @@
   ],
   "new_findings": [
     {
-      "title": "AI時代に、次のベテランエンジニアは育つのか｜柴田 芳樹",
-      "url": "https://note.com/yoshiki_shibata/n/n185f3d9e13bc",
+      "title": "30年かけて育てた自動耳コピ「WaoN」がiOS/Macアプリに！AI時代にあえて挑む、0倍速でも音が鳴り続ける「わおん」",
+      "url": "https://www.dtmstation.com/archives/80372.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-04T12:43:02+00:00",
-      "fetched_at": "2026-10-04T19:04:08+00:00",
-      "summary": "私は1978年4月にプログラミングを学び始めました。それから48年以上、さまざまなソフトウェア開発のプロジェクトに携わり、現在もソフトウェア開発を続けています。 この48年間で、ソフトウェア開発を取り巻く環境は大きく変わりました。 そして今、生成AIによって、また大きな変化が起きています。 しかし、今回の変化...",
+      "published_at": "2026-10-04T10:17:28+00:00",
+      "fetched_at": "2026-10-04T20:07:15+00:00",
+      "summary": "録音された音楽から音符を取り出す「自動耳コピ」は、コンピュータと音楽の世界で昔から追い求められてきたテーマです。そうした中、物理学の研究者からプログラマーに転じた市來健吾（いちき けんご）さんが1996年に書き始め、GPLのオープンソースとして公開してきた採譜プログラム「WaoN」が、iPhone/iPad/Mac用のネイ...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1187,7 +1229,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "508a83c85c9975d5ac88"
+      "id": "dbb16d227aa1c4ee5b3b"
     }
   ],
   "source_errors": [],
