@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-04T11:11:14+00:00_
+_Generated: 2026-10-04T13:15:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `18`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-04T11:11:14+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-10-03 23:37:35 UTC 2026-10-03 23:37:35 UTC at epicenter Location 4.822°N 95.243°E Depth 69.73 km (43.33 mi)
 
-### 3. M 5.0 - 37 km N of Ruteng, Indonesia
+### 3. M 4.6 - 110 km S of Dampit, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-10-04T13:05:17.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tziz
+- summary: Time 2026-10-04 12:36:47 UTC 2026-10-04 12:36:47 UTC at epicenter Location 9.201°S 112.640°E Depth 52.77 km (32.79 mi)
+
+### 4. M 5.0 - 37 km N of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-04T10:31:08.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5
 - summary: Time 2026-10-04 10:13:07 UTC 2026-10-04 10:13:07 UTC at epicenter Location 8.270°S 120.453°E Depth 10.00 km (6.21 mi)
-
-### 4. M 4.5 - 293 km SSE of Tabiauan, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-03T23:39:45.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7
-- summary: Time 2026-10-03 23:14:35 UTC 2026-10-03 23:14:35 UTC at epicenter Location 3.590°N 122.930°E Depth 575.04 km (357.31 mi)
 
 ### 5. 「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿
 - source: Hatena Bookmark Hotentry IT
