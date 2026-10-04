@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T00:06:24+00:00",
+  "generated_at": "2026-10-04T01:31:35+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1117,7 +1117,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T08:46:46+00:00",
-      "last_seen_at": "2026-10-04T00:06:07+00:00",
+      "last_seen_at": "2026-10-04T01:31:18+00:00",
       "status": "active"
     },
     {
@@ -1338,7 +1338,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-30T02:57:23+00:00",
-      "last_seen_at": "2026-10-04T00:06:07+00:00",
+      "last_seen_at": "2026-10-04T01:31:18+00:00",
       "status": "active"
     },
     {
@@ -10740,8 +10740,8 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T10:46:03+00:00",
-      "last_seen_at": "2026-09-27T23:53:06+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-04T01:31:18+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_bfddd68964286a495eee",
@@ -15386,6 +15386,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b4c01df9b6eeb639120c",
+      "title": "自然言語で操作し、結果を検証するテストフレームワーク e2e",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-04T01:31:18+00:00",
+      "last_seen_at": "2026-10-04T01:31:18+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_050660578420f6fb8ddb",
       "title": "Why Kyoto, not Tokyo, is Japan’s real deeptech bet",
       "event_classes": [
@@ -17490,7 +17507,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-10-04T00:06:07+00:00",
+      "last_seen_at": "2026-10-04T01:31:18+00:00",
       "status": "active"
     },
     {
