@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T02:29:33+00:00",
+  "generated_at": "2026-10-04T03:44:21+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1117,7 +1117,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T08:46:46+00:00",
-      "last_seen_at": "2026-10-04T02:29:16+00:00",
+      "last_seen_at": "2026-10-04T03:44:03+00:00",
       "status": "active"
     },
     {
@@ -1338,7 +1338,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-30T02:57:23+00:00",
-      "last_seen_at": "2026-10-04T02:29:16+00:00",
+      "last_seen_at": "2026-10-04T03:44:03+00:00",
       "status": "active"
     },
     {
@@ -4572,6 +4572,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_78c2f7fabbcabd431050",
+      "title": "M 4.9 - 21 km NE of Lae, Papua New Guinea",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-04T02:29:16+00:00",
+      "last_seen_at": "2026-10-04T03:44:03+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_78ce348f4b69466e76c5",
       "title": "M 4.9 - 136 km SSE of Vilyuchinsk, Russia",
       "event_classes": [
@@ -6117,23 +6134,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_78c2f7fabbcabd431050",
-      "title": "M 4.9 - 21 km NE of Lae, Papua New Guinea",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-04T02:29:16+00:00",
-      "last_seen_at": "2026-10-04T02:29:16+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -7970,6 +7970,23 @@
       "first_seen_at": "2026-09-29T06:42:56+00:00",
       "last_seen_at": "2026-09-29T23:56:49+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_600bb1165015b09f8014",
+      "title": "GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 120000.0,
+      "p50_usd": 12000000.0,
+      "p90_usd": 1200000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-04T03:44:03+00:00",
+      "last_seen_at": "2026-10-04T03:44:03+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2170780765320e429d3b",
@@ -10757,7 +10774,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T10:46:03+00:00",
-      "last_seen_at": "2026-10-04T02:29:16+00:00",
+      "last_seen_at": "2026-10-04T03:44:03+00:00",
       "status": "active"
     },
     {
@@ -14923,7 +14940,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T01:31:18+00:00",
-      "last_seen_at": "2026-10-04T02:29:16+00:00",
+      "last_seen_at": "2026-10-04T03:44:03+00:00",
       "status": "active"
     },
     {
@@ -15709,6 +15726,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ab7d44dda896feeef8c2",
+      "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-04T02:29:16+00:00",
+      "last_seen_at": "2026-10-04T03:44:03+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_b01010ae3b5a5885af0b",
       "title": "tanteki — 業務のための文書をもっと端的に",
       "event_classes": [
@@ -15860,23 +15894,6 @@
       "first_seen_at": "2026-09-14T07:35:53+00:00",
       "last_seen_at": "2026-09-14T09:28:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_ab7d44dda896feeef8c2",
-      "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 109600.0,
-      "p50_usd": 10960000.0,
-      "p90_usd": 1096000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-04T02:29:16+00:00",
-      "last_seen_at": "2026-10-04T02:29:16+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_01f8d7013bd851003572",
@@ -17541,7 +17558,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-10-04T02:29:16+00:00",
+      "last_seen_at": "2026-10-04T03:44:03+00:00",
       "status": "active"
     },
     {
