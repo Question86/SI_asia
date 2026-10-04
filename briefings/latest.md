@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-04T22:52:35+00:00_
+_Generiert: 2026-10-04T23:00:10+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.“ aus Hatena Bookmark Hotentry IT (Score 20, risk).
+27 neue relevante Treffer. Stärkstes Signal: „GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.“ aus Hatena Bookmark Hotentry IT (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -153,14 +153,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 生成 AI が人間の仕事を奪っていくという話が様々なところでなされている。ソフトウェア開発の現場で AI にジョブセキュリティを脅かされるのはエンジニアやデザイナーなどの作り手の方で、何を・なぜ作るべきか考えるプロダクトマネージャーに関しては AI に置き換えられにくい職業だと思っていた。 しかし実際に勤務先...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **自然言語で操作し、結果を検証するテストフレームワーク e2e** — Score 8, observation — [Quelle](https://azukiazusa.dev/blog/e2e-ai-testing/)
+- **最近プロジェクトマネジメントで感じたこと - Qiita** — Score 8, observation — [Quelle](https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-03T14:23:54+00:00`, fetched `2026-10-04T01:30:44+00:00`
+  - Zeit: published `2026-10-04T13:49:30+00:00`, fetched `2026-10-04T22:59:37+00:00`
   - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: e2e は自然言語による操作と、要素を指定した操作・アサーションを組み合わせられるテストフレームワークです。この記事では Todo アプリを対象に、AI に操作を任せて結果をコードで検証するテストを作成します。 E2E（End-to-End）テストでは、ユーザーがアプリケーションを操作する一連の流れを検証します。Playwright...
+  - Kurz: Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 最近のプロジェクトマネジメント業務を振り返って、学びの言語化をします。3つ大事だと思ったことを書きます。 この記事は、AI を使っていません（AI 使ってたら、もっとそれっぽい...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Effect-TS/effect** — Score 8, observation — [Quelle](https://github.com/Effect-TS/effect)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
