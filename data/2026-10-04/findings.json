@@ -98,6 +98,42 @@
     "id": "76bd19c5d7040e333412"
   },
   {
+    "title": "M 4.9 - 21 km NE of Lae, Papua New Guinea",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-04T01:57:32.040+00:00",
+    "fetched_at": "2026-10-04T02:28:42+00:00",
+    "summary": "Time 2026-10-04 01:38:46 UTC 2026-10-04 01:38:46 UTC at epicenter Location 6.592°S 147.135°E Depth 94.22 km (58.55 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "1102f0160acdaee39d36"
+  },
+  {
     "title": "自然言語で操作し、結果を検証するテストフレームワーク e2e",
     "url": "https://azukiazusa.dev/blog/e2e-ai-testing/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -118,6 +154,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6718cdaca589309c71b0"
+  },
+  {
+    "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
+    "url": "https://gigazine.net/news/20261004-photon-matrix/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-03T23:12:52+00:00",
+    "fetched_at": "2026-10-04T02:28:42+00:00",
+    "summary": "スキャナーで蚊を検知して手で蚊を叩くよりも速くビームを発射する装置「Photon Matrix」の予約受付が始まりました。 国产PhotonMatrix便携式激光灭蚊设备爆单，海外众筹超250万美元-电子工程专辑 https://www.eet-china.com/news/202605289975.html Chinese-developed laser mosquito killer enters mass production - ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9e55f71a501c46c48cce"
   },
   {
     "title": "地面に落としたネジをGrokに探してもらったらすぐ見つけてくれた話…画像処理におけるAIは強すぎる",
