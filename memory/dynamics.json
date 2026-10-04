@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-04T18:17:59Z",
+  "generated_at": "2026-10-04T19:39:28Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 39,
+    "dynamics": 40,
     "bands": {
       "strong": 7,
       "watch": 11,
-      "quiet": 21
+      "quiet": 22
     },
     "bands_after_gate_recheck": {
       "strong": 7,
       "watch": 11,
-      "quiet": 21
+      "quiet": 22
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://github.com/egma-ai/jev-code-reviewer",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T03:44:03+00:00",
-      "age_days": 0.61,
+      "age_days": 0.66,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T23:58:14.386+00:00",
-      "age_days": 0.76,
+      "age_days": 0.82,
       "topics": [
         "disaster"
       ],
@@ -77,7 +77,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tziz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T13:05:17.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -102,7 +102,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T10:31:08.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -127,7 +127,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T23:39:45.040+00:00",
-      "age_days": 0.78,
+      "age_days": 0.83,
       "topics": [
         "disaster"
       ],
@@ -152,7 +152,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:57:23+00:00",
-      "age_days": 4.64,
+      "age_days": 4.7,
       "topics": [
         "general"
       ],
@@ -176,7 +176,7 @@
       "url": "https://github.com/egma-ai/jev-code-reviewer",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T12:11:15+00:00",
-      "age_days": 8.25,
+      "age_days": 8.31,
       "topics": [
         "ai",
         "macro"
@@ -204,7 +204,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T08:46:46+00:00",
-      "age_days": 33.4,
+      "age_days": 33.45,
       "topics": [
         "general"
       ],
@@ -220,7 +220,7 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "aging penalty -4.3 for 33.4d old signal",
+        "aging penalty -4.4 for 33.5d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
@@ -230,7 +230,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tziz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 108.16,
+      "age_days": 108.21,
       "topics": [
         "general"
       ],
@@ -256,11 +256,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T08:36:29+00:00",
-      "age_days": 36.4,
+      "age_days": 36.46,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.11,
+      "dynamics_score": 17.09,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -272,7 +272,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -5.4 for 36.4d old signal"
+        "aging penalty -5.4 for 36.5d old signal"
       ],
       "summary": ""
     },
@@ -281,7 +281,7 @@
       "url": "https://azukiazusa.dev/blog/e2e-ai-testing/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T01:31:18+00:00",
-      "age_days": 0.7,
+      "age_days": 0.76,
       "topics": [
         "general"
       ],
@@ -305,7 +305,7 @@
       "url": "https://github.com/Effect-TS/effect",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-04T07:18:29+00:00",
-      "age_days": 0.46,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -329,7 +329,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T14:28:42.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -354,7 +354,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T01:57:32.040+00:00",
-      "age_days": 0.68,
+      "age_days": 0.74,
       "topics": [
         "disaster"
       ],
@@ -375,11 +375,35 @@
       "summary": "Time 2026-10-04 01:38:46 UTC 2026-10-04 01:38:46 UTC at epicenter Location 6.592°S 147.135°E Depth 94.22 km (58.55 mi)"
     },
     {
+      "title": "M 5.0 - 295 km S of Burica, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-04T15:02:36+00:00",
+      "age_days": 0.19,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.9 - 21 km NE of Lae, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T02:29:16+00:00",
-      "age_days": 0.66,
+      "age_days": 0.72,
       "topics": [
         "general"
       ],
@@ -403,7 +427,7 @@
       "url": "https://gigazine.net/news/20261004-photon-matrix/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T02:29:16+00:00",
-      "age_days": 0.66,
+      "age_days": 0.72,
       "topics": [
         "general"
       ],
@@ -423,35 +447,11 @@
       "summary": ""
     },
     {
-      "title": "M 5.0 - 295 km S of Burica, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-04T15:02:36+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに",
       "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T09:33:59+00:00",
-      "age_days": 0.36,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -471,43 +471,15 @@
       "summary": ""
     },
     {
-      "title": "AIでの人員削減は現実的ではないと希望で語る人がいる中、外注はゼロにして社内の人間を20人から4人にした経営者の経験談を語る「築き上げてきたものがAIで完全に崩壊」",
-      "url": "https://togetter.com/li/2753949",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 107.24,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 11.44,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 8.13,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 8.13",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 107.2d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
       "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T10:46:03+00:00",
-      "age_days": 29.31,
+      "age_days": 29.37,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 10.09,
+      "dynamics_score": 10.07,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -520,7 +492,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -2.9 for 29.3d old signal",
+        "aging penalty -2.9 for 29.4d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -530,7 +502,7 @@
       "url": "https://portalshit.net/2026/10/03/ai-is-eating-product-management",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T09:33:59+00:00",
-      "age_days": 0.36,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -552,36 +524,11 @@
       "summary": ""
     },
     {
-      "title": "6年通った博士課程を、退学しました。 --社会人博士を志すあなたに、先に渡しておきたいこと--｜清水 啓太郎 / Keitaro Shimizu",
-      "url": "https://note.com/keitaro_shimizu/n/n1cd34c93e432",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 33.98,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 9.46,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -4.5 for 34.0d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要",
       "url": "https://gigazine.net/news/20261004-cloudflare-quick-tunnels/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 107.68,
+      "age_days": 107.74,
       "topics": [
         "general"
       ],
@@ -607,7 +554,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T23:32:18+00:00",
-      "age_days": 0.78,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -633,7 +580,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUD02B5F0S6A001C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 107.67,
+      "age_days": 107.73,
       "topics": [
         "general"
       ],
@@ -658,7 +605,7 @@
       "url": "https://togetter.com/li/2753906",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T13:15:14+00:00",
-      "age_days": 0.21,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -684,7 +631,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUD02B5F0S6A001C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T08:03:25+00:00",
-      "age_days": 0.43,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -708,7 +655,7 @@
       "url": "https://portalshit.net/2026/10/03/ai-is-eating-product-management",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T13:00:04+00:00",
-      "age_days": 1.22,
+      "age_days": 1.28,
       "topics": [
         "ai"
       ],
@@ -730,11 +677,39 @@
       "summary": "生成 AI が人間の仕事を奪っていくという話が様々なところでなされている。ソフトウェア開発の現場で AI にジョブセキュリティを脅かされるのはエンジニアやデザイナーなどの作り手の方で、何を・なぜ作るべきか考えるプロダクトマネージャーに関しては AI に置き換えられにくい職業だと思っていた。 しかし実際に勤務先..."
     },
     {
+      "title": "AIでの人員削減は現実的ではないと希望で語る人がいる中、外注はゼロにして社内の人間を20人から4人にした経営者の経験談を語る「築き上げてきたものがAIで完全に崩壊」",
+      "url": "https://togetter.com/li/2753949",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T12:31:48+00:00",
+      "age_days": 107.3,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.42,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 4.93,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 4.93",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 107.3d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "6年通った博士課程を、退学しました。 --社会人博士を志すあなたに、先に渡しておきたいこと--｜清水 啓太郎 / Keitaro Shimizu",
       "url": "https://note.com/keitaro_shimizu/n/n1cd34c93e432",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T07:03:47+00:00",
-      "age_days": 0.47,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -758,7 +733,7 @@
       "url": "https://gigazine.net/news/20261004-cloudflare-quick-tunnels/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T03:07:44+00:00",
-      "age_days": 0.63,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -785,7 +760,7 @@
       "url": "https://togetter.com/li/2753949",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T08:48:45+00:00",
-      "age_days": 0.4,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -811,7 +786,7 @@
       "url": "https://togetter.com/li/2753906",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T06:58:01+00:00",
-      "age_days": 0.47,
+      "age_days": 0.53,
       "topics": [
         "ai"
       ],
@@ -837,7 +812,7 @@
       "url": "https://gigazine.net/news/20261004-photon-matrix/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T23:12:52+00:00",
-      "age_days": 0.8,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -859,11 +834,38 @@
       "summary": "スキャナーで蚊を検知して手で蚊を叩くよりも速くビームを発射する装置「Photon Matrix」の予約受付が始まりました。 国产PhotonMatrix便携式激光灭蚊设备爆单，海外众筹超250万美元-电子工程专辑 https://www.eet-china.com/news/202605289975.html Chinese-developed laser mosquito killer enters mass production - ..."
     },
     {
+      "title": "AI時代に、次のベテランエンジニアは育つのか｜柴田 芳樹",
+      "url": "https://note.com/yoshiki_shibata/n/n185f3d9e13bc",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 34.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.94,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "aging penalty -4.6 for 34.0d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに",
       "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T02:37:40+00:00",
-      "age_days": 0.65,
+      "age_days": 0.71,
       "topics": [
         "ai"
       ],
@@ -889,7 +891,7 @@
       "url": "https://azukiazusa.dev/blog/e2e-ai-testing/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T14:23:54+00:00",
-      "age_days": 1.16,
+      "age_days": 1.22,
       "topics": [
         "ai"
       ],
@@ -914,7 +916,7 @@
       "url": "https://github.com/Effect-TS/effect",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-04T07:17:54+00:00",
-      "age_days": 0.46,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -935,11 +937,36 @@
       "summary": "Build production-ready applications in TypeScript https://effect.website Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency, scheduling, trac…"
     },
     {
+      "title": "AI時代に、次のベテランエンジニアは育つのか｜柴田 芳樹",
+      "url": "https://note.com/yoshiki_shibata/n/n185f3d9e13bc",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-04T12:43:02+00:00",
+      "age_days": 0.29,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "私は1978年4月にプログラミングを学び始めました。それから48年以上、さまざまなソフトウェア開発のプロジェクトに携わり、現在もソフトウェア開発を続けています。 この48年間で、ソフトウェア開発を取り巻く環境は大きく変わりました。 そして今、生成AIによって、また大きな変化が起きています。 しかし、今回の変化..."
+    },
+    {
       "title": "AIで法律をリファクタリングする: Fableで改正候補条文を抽出 / 立法における\"Mythos Moment\"を考える｜安野貴博",
       "url": "https://note.com/takahiroanno/n/n3cd3c9a38e8e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T03:50:38+00:00",
-      "age_days": 0.6,
+      "age_days": 0.66,
       "topics": [
         "ai"
       ],
@@ -964,7 +991,7 @@
       "url": "https://togetter.com/li/2753802",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T00:47:30+00:00",
-      "age_days": 0.73,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -989,7 +1016,7 @@
       "url": "https://togetter.com/li/2753759",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T21:01:32+00:00",
-      "age_days": 0.89,
+      "age_days": 0.94,
       "topics": [
         "ai"
       ],
