@@ -100,5 +100,143 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.",
+        "url": "https://github.com/egma-ai/jev-code-reviewer",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-04T03:44:03+00:00",
+        "age_days": 0.8,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "krass",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "early terms: local",
+          "high terms: code",
+          "single-source AI hype brake -8.0",
+          "krass gate: single-source non-official/non-identity signal capped"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "M 5.6 - 80 km S of Banda Aceh, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-03T23:58:14.386+00:00",
+        "age_days": 0.95,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "krass",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10",
+          "krass gate: single-source non-official/non-identity signal capped"
+        ],
+        "summary": "PAGER - GREEN ShakeMap - IV Time 2026-10-03 23:37:35 UTC 2026-10-03 23:37:35 UTC at epicenter Location 4.822°N 95.243°E Depth 69.73 km (43.33 mi)"
+      },
+      {
+        "title": "M 4.6 - 110 km S of Dampit, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tziz",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-04T13:05:17.040+00:00",
+        "age_days": 0.41,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 23.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "Time 2026-10-04 12:36:47 UTC 2026-10-04 12:36:47 UTC at epicenter Location 9.201°S 112.640°E Depth 52.77 km (32.79 mi)"
+      },
+      {
+        "title": "M 5.0 - 37 km N of Ruteng, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-04T10:31:08.040+00:00",
+        "age_days": 0.51,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 23.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "Time 2026-10-04 10:13:07 UTC 2026-10-04 10:13:07 UTC at epicenter Location 8.270°S 120.453°E Depth 10.00 km (6.21 mi)"
+      },
+      {
+        "title": "M 4.5 - 293 km SSE of Tabiauan, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-03T23:39:45.040+00:00",
+        "age_days": 0.97,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 23.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "Time 2026-10-03 23:14:35 UTC 2026-10-03 23:14:35 UTC at epicenter Location 3.590°N 122.930°E Depth 575.04 km (357.31 mi)"
+      }
+    ]
+  }
 }
