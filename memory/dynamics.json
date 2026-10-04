@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-04T08:22:21Z",
+  "generated_at": "2026-10-04T10:37:49Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 21,
+    "dynamics": 27,
     "bands": {
       "strong": 5,
       "watch": 6,
-      "quiet": 10
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
       "strong": 5,
       "watch": 6,
-      "quiet": 10
+      "quiet": 16
     }
   },
   "top_dynamics": [
@@ -22,26 +22,26 @@
       "url": "https://github.com/egma-ai/jev-code-reviewer",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T03:44:03+00:00",
-      "age_days": 0.19,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "extreme",
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "early terms: local",
         "high terms: code",
         "single-source AI hype brake -8.0",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance",
+        "krass gate: single-source non-official/non-identity signal capped",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T23:58:14.386+00:00",
-      "age_days": 0.35,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -77,7 +77,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T23:39:45.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -102,7 +102,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:57:23+00:00",
-      "age_days": 4.23,
+      "age_days": 4.32,
       "topics": [
         "general"
       ],
@@ -126,7 +126,7 @@
       "url": "https://github.com/egma-ai/jev-code-reviewer",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T12:11:15+00:00",
-      "age_days": 7.84,
+      "age_days": 7.94,
       "topics": [
         "ai",
         "macro"
@@ -154,7 +154,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T08:46:46+00:00",
-      "age_days": 32.98,
+      "age_days": 33.08,
       "topics": [
         "general"
       ],
@@ -170,7 +170,7 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "aging penalty -4.2 for 33.0d old signal",
+        "aging penalty -4.2 for 33.1d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
@@ -180,7 +180,7 @@
       "url": "https://azukiazusa.dev/blog/e2e-ai-testing/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T01:31:18+00:00",
-      "age_days": 0.29,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -204,7 +204,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T01:57:32.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -229,7 +229,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T02:29:16+00:00",
-      "age_days": 0.25,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -253,7 +253,7 @@
       "url": "https://gigazine.net/news/20261004-photon-matrix/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T02:29:16+00:00",
-      "age_days": 0.25,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -277,14 +277,38 @@
       "url": "https://github.com/Effect-TS/effect",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-04T07:18:29+00:00",
+      "age_days": 0.14,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに",
+      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-04T09:33:59+00:00",
       "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 1,
@@ -301,11 +325,11 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T10:46:03+00:00",
-      "age_days": 28.9,
+      "age_days": 28.99,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 10.23,
+      "dynamics_score": 10.2,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -318,7 +342,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -2.8 for 28.9d old signal",
+        "aging penalty -2.8 for 29.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -328,7 +352,7 @@
       "url": "https://gigazine.net/news/20261004-cloudflare-quick-tunnels/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 107.27,
+      "age_days": 107.36,
       "topics": [
         "general"
       ],
@@ -345,7 +369,7 @@
       "why": [
         "momentum delta +3",
         "early terms: local",
-        "aging penalty -8.0 for 107.3d old signal"
+        "aging penalty -8.0 for 107.4d old signal"
       ],
       "summary": ""
     },
@@ -354,7 +378,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T23:32:18+00:00",
-      "age_days": 0.37,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
@@ -376,11 +400,63 @@
       "summary": "米OpenAIで主要モデルのリリースごとに公開する安全性報告書の執筆を統括していたデビッド・ロビンソン氏は10月3日（現地時間）、米The Atlanticに「I Quit OpenAI Because Its Culture Is Broken」（OpenAIの文化が壊れているから辞めた）と題した記事を寄稿し、今週同社を退社したことを明らかにした。 同氏は、AI企業..."
     },
     {
+      "title": "AI に仕事を奪われるのはエンジニアではなくプロダクトマネージャーの方だった",
+      "url": "https://portalshit.net/2026/10/03/ai-is-eating-product-management",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-04T09:33:59+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "AI に仕事を奪われるのはエンジニアではなくプロダクトマネージャーの方だった",
+      "url": "https://portalshit.net/2026/10/03/ai-is-eating-product-management",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-03T13:00:04+00:00",
+      "age_days": 0.9,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "生成 AI が人間の仕事を奪っていくという話が様々なところでなされている。ソフトウェア開発の現場で AI にジョブセキュリティを脅かされるのはエンジニアやデザイナーなどの作り手の方で、何を・なぜ作るべきか考えるプロダクトマネージャーに関しては AI に置き換えられにくい職業だと思っていた。 しかし実際に勤務先..."
+    },
+    {
       "title": "localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要",
       "url": "https://gigazine.net/news/20261004-cloudflare-quick-tunnels/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T03:07:44+00:00",
-      "age_days": 0.22,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -403,11 +479,38 @@
       "summary": "PC上で開発中のWebアプリを外部から確認するには、ポート開放やサーバー設定などの手間がかかります。以前レビューした「Cloudflare Tunnel」からさらに手軽になり、アカウント登録不要かつコマンド1つで利用可能でAI向けのJSON出力にも対応した「Cloudflare Quick Tunnels」を実際に使ってみました。 Cloudflare Quick ..."
     },
     {
+      "title": "AIで法律をリファクタリングする: Fableで改正候補条文を抽出 / 立法における\"Mythos Moment\"を考える｜安野貴博",
+      "url": "https://note.com/takahiroanno/n/n3cd3c9a38e8e",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 33.66,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 4.07,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "aging penalty -4.4 for 33.7d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
       "url": "https://gigazine.net/news/20261004-photon-matrix/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T23:12:52+00:00",
-      "age_days": 0.38,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -429,11 +532,37 @@
       "summary": "スキャナーで蚊を検知して手で蚊を叩くよりも速くビームを発射する装置「Photon Matrix」の予約受付が始まりました。 国产PhotonMatrix便携式激光灭蚊设备爆单，海外众筹超250万美元-电子工程专辑 https://www.eet-china.com/news/202605289975.html Chinese-developed laser mosquito killer enters mass production - ..."
     },
     {
+      "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに",
+      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-04T02:37:40+00:00",
+      "age_days": 0.33,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "米Googleは10月初旬に更新したGeminiのサポートページで、個人向け「Gemini」アプリで利用できるAIモデルを、加入しているGoogle AIの契約プランに応じて変更すると告知した。Google AIの有料プランを契約していない無料ユーザーについては10月9日から変更を適用し、利用できるモデルは「Flash-Lite」のみになる。 変更..."
+    },
+    {
       "title": "最近は商業誌の仕事でも普通にAIを使って効率化することが増えたので、どんどん触っておいた方がいいと推奨する→AI画像が問題になるが、叩き台など作業効率化はありでは？",
       "url": "https://togetter.com/li/2753802",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 106.83,
+      "age_days": 106.92,
       "topics": [
         "ai"
       ],
@@ -444,14 +573,14 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.69,
+      "baseline_z_hint": 1.62,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.69",
+        "baseline z_hint 1.62",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 106.8d old signal",
+        "aging penalty -8.0 for 106.9d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -461,7 +590,7 @@
       "url": "https://azukiazusa.dev/blog/e2e-ai-testing/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T14:23:54+00:00",
-      "age_days": 0.75,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -486,7 +615,7 @@
       "url": "https://github.com/Effect-TS/effect",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-04T07:17:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -507,11 +636,36 @@
       "summary": "Build production-ready applications in TypeScript https://effect.website Effect Effect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency, scheduling, trac…"
     },
     {
+      "title": "AIで法律をリファクタリングする: Fableで改正候補条文を抽出 / 立法における\"Mythos Moment\"を考える｜安野貴博",
+      "url": "https://note.com/takahiroanno/n/n3cd3c9a38e8e",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-04T03:50:38+00:00",
+      "age_days": 0.28,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "AIで法律をリファクタリングする: Fableで改正候補条文を抽出 / 立法における\"Mythos Moment\"を考える ソフトウェアにはリファクタリングという考え方がある。コードは開発が続くにつれ、どうやっても散らかってしまい、読みにくくなってゆく。部屋に物が増えると絶対に散らかるのと同じである。 すると、少しの変更を行..."
+    },
+    {
       "title": "最近は商業誌の仕事でも普通にAIを使って効率化することが増えたので、どんどん触っておいた方がいいと推奨する→AI画像が問題になるが、叩き台など作業効率化はありでは？",
       "url": "https://togetter.com/li/2753802",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T00:47:30+00:00",
-      "age_days": 0.32,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -536,7 +690,7 @@
       "url": "https://togetter.com/li/2753759",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-03T21:01:32+00:00",
-      "age_days": 0.47,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
