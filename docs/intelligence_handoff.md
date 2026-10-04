@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-04T22:28:31Z_
+_Generated: 2026-10-04T22:41:33Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-04T03:44:03+00:00` / age_days `0.78`
+- Published: `2026-10-04T03:44:03+00:00` / age_days `0.79`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, early terms: local, high terms: code, single-source AI hype brake -8.0, krass gate: single-source non-official/non-identity signal capped, single-source AI cap enforced after phrase recheck
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-03T23:58:14.386+00:00` / age_days `0.94`
+- Published: `2026-10-03T23:58:14.386+00:00` / age_days `0.95`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, krass gate: single-source non-official/non-identity signal capped
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-04T13:05:17.040+00:00` / age_days `0.39`
+- Published: `2026-10-04T13:05:17.040+00:00` / age_days `0.4`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-04T10:31:08.040+00:00` / age_days `0.5`
+- Published: `2026-10-04T10:31:08.040+00:00` / age_days `0.51`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-03T23:39:45.040+00:00` / age_days `0.95`
+- Published: `2026-10-03T23:39:45.040+00:00` / age_days `0.96`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.5`
-- Published: `2026-09-30T02:57:23+00:00` / age_days `4.81`
+- Published: `2026-09-30T02:57:23+00:00` / age_days `4.82`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-09-26T12:11:15+00:00` / age_days `8.43`
+- Published: `2026-09-26T12:11:15+00:00` / age_days `8.44`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `watch` (raw `strong`)
 - Dynamics score: `19.9`
-- Published: `2026-09-01T08:46:46+00:00` / age_days `33.57`
+- Published: `2026-09-01T08:46:46+00:00` / age_days `33.58`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -4.4 for 33.6d old signal, stale single-source cap: max watch after 14d without fresh resonance
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.5`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `108.33`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `108.34`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, aging penalty -8.0 for 108.3d old signal
@@ -101,8 +101,8 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 ### M 5.0 - 37 km N of Ruteng, Indonesia
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `17.05`
-- Published: `2026-08-29T08:36:29+00:00` / age_days `36.58`
+- Dynamics score: `17.04`
+- Published: `2026-08-29T08:36:29+00:00` / age_days `36.59`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -5.5 for 36.6d old signal
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-04T01:31:18+00:00` / age_days `0.87`
+- Published: `2026-10-04T01:31:18+00:00` / age_days `0.88`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Revi
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-04T07:18:29+00:00` / age_days `0.63`
+- Published: `2026-10-04T07:18:29+00:00` / age_days `0.64`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
