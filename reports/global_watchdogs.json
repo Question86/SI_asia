@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:14:53+00:00",
+  "generated_at": "2026-10-04T00:06:07+00:00",
   "sections": {
     "global_security": [
       {
@@ -95,6 +95,26 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:69.726km) in Indonesia 03/10/2026 23:37 UTC, 1.1 million in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:69.726km) in Indonesia 03/10/2026 23:37 UTC, 1.1 million in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569335",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.",
+        "summary": "Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569326",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:29.477km) in Russia 02/10/2026 16:34 UTC, Few people affected in MMI III.",
         "summary": "Green earthquake (Magnitude 5.8M, Depth:29.477km) in Russia 02/10/2026 16:34 UTC, Few people affected in MMI III.",
         "source": "GDACS",
@@ -125,15 +145,15 @@
       {
         "domain": "security",
         "severity": "watch",
-        "title": "USGS earthquake M5.9 - 39 km WSW of Tambolaka, Indonesia",
-        "summary": "M5.9 - 39 km WSW of Tambolaka, Indonesia. PAGER alert: none. Tsunami flag: 0.",
+        "title": "USGS earthquake M5.6 - 80 km S of Banda Aceh, Indonesia",
+        "summary": "M5.6 - 80 km S of Banda Aceh, Indonesia. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer",
-        "published_at": "2026-10-03T22:55:55+00:00",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg",
+        "published_at": "2026-10-03T23:37:35+00:00",
         "metrics": {
-          "mag": 5.9,
-          "alert": "",
-          "sig": 536.0,
+          "mag": 5.6,
+          "alert": "green",
+          "sig": 482.0,
           "tsunami": 0
         }
       }
