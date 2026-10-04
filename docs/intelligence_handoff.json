@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-04T04:18:04Z",
+  "generated_at": "2026-10-04T06:09:51Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,12 +15,12 @@
       "url": "https://github.com/egma-ai/jev-code-reviewer",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T03:44:03+00:00",
-      "age_days": 0.02,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "extreme",
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
@@ -34,7 +34,7 @@
         "early terms: local",
         "high terms: code",
         "single-source AI hype brake -8.0",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance",
+        "krass gate: single-source non-official/non-identity signal capped",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T23:58:14.386+00:00",
-      "age_days": 0.18,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -70,7 +70,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-03T23:39:45.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -95,7 +95,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-30T02:57:23+00:00",
-      "age_days": 4.06,
+      "age_days": 4.13,
       "topics": [
         "general"
       ],
@@ -119,7 +119,7 @@
       "url": "https://github.com/egma-ai/jev-code-reviewer",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-26T12:11:15+00:00",
-      "age_days": 7.67,
+      "age_days": 7.75,
       "topics": [
         "ai",
         "macro"
@@ -147,7 +147,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T08:46:46+00:00",
-      "age_days": 32.81,
+      "age_days": 32.89,
       "topics": [
         "general"
       ],
@@ -163,8 +163,32 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "aging penalty -4.1 for 32.8d old signal",
+        "aging penalty -4.2 for 32.9d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "自然言語で操作し、結果を検証するテストフレームワーク e2e",
+      "url": "https://azukiazusa.dev/blog/e2e-ai-testing/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-04T01:31:18+00:00",
+      "age_days": 0.19,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -173,7 +197,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-04T01:57:32.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -194,15 +218,15 @@
       "summary": "Time 2026-10-04 01:38:46 UTC 2026-10-04 01:38:46 UTC at epicenter Location 6.592°S 147.135°E Depth 94.22 km (58.55 mi)"
     },
     {
-      "title": "自然言語で操作し、結果を検証するテストフレームワーク e2e",
-      "url": "https://azukiazusa.dev/blog/e2e-ai-testing/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T01:31:18+00:00",
-      "age_days": 0.12,
+      "title": "M 4.9 - 21 km NE of Lae, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-04T02:29:16+00:00",
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.5,
+      "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -218,11 +242,35 @@
       "summary": ""
     },
     {
-      "title": "M 4.9 - 21 km NE of Lae, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
+      "url": "https://gigazine.net/news/20261004-photon-matrix/",
+      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T02:29:16+00:00",
-      "age_days": 0.08,
+      "age_days": 0.15,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要",
+      "url": "https://gigazine.net/news/20261004-cloudflare-quick-tunnels/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 107.17,
       "topics": [
         "general"
       ],
@@ -232,36 +280,14 @@
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
-      "url": "https://gigazine.net/news/20261004-photon-matrix/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T02:29:16+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
+        "momentum delta +3",
+        "early terms: local",
+        "aging penalty -8.0 for 107.2d old signal"
       ],
       "summary": ""
     },
@@ -270,11 +296,11 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T10:46:03+00:00",
-      "age_days": 28.73,
+      "age_days": 28.81,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 10.29,
+      "dynamics_score": 10.27,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -287,36 +313,10 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -2.7 for 28.7d old signal",
+        "aging penalty -2.7 for 28.8d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
-      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-03T23:32:18+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "米OpenAIで主要モデルのリリースごとに公開する安全性報告書の執筆を統括していたデビッド・ロビンソン氏は10月3日（現地時間）、米The Atlanticに「I Quit OpenAI Because Its Culture Is Broken」（OpenAIの文化が壊れているから辞めた）と題した記事を寄稿し、今週同社を退社したことを明らかにした。 同氏は、AI企業..."
     }
   ],
   "read_order": [
@@ -329,8 +329,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 3,
-      "quiet": 4
+      "watch": 5,
+      "quiet": 2
     }
   }
 }
