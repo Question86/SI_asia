@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T23:00:10+00:00",
-  "run_id": "2026-10-04T23:00:10+00:00",
+  "generated_at": "2026-10-04T23:19:36+00:00",
+  "run_id": "2026-10-04T23:19:36+00:00",
   "date": "2026-10-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 27,
     "displayed_findings": 27,
     "high": 0,
@@ -1409,30 +1409,7 @@
       "id": "13935cd6da05a7627f37"
     }
   ],
-  "new_findings": [
-    {
-      "title": "最近プロジェクトマネジメントで感じたこと - Qiita",
-      "url": "https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-04T13:49:30+00:00",
-      "fetched_at": "2026-10-04T22:59:37+00:00",
-      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 最近のプロジェクトマネジメント業務を振り返って、学びの言語化をします。3つ大事だと思ったことを書きます。 この記事は、AI を使っていません（AI 使ってたら、もっとそれっぽい...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1dcb4ceb3682c80ac010"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
