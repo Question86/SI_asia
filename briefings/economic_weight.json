@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T15:02:53+00:00",
+  "generated_at": "2026-10-04T16:40:35+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1117,7 +1117,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T08:46:46+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -1185,7 +1185,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T08:36:29+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -1202,7 +1202,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T11:56:17+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -1338,7 +1338,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-30T02:57:23+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -4045,6 +4045,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4c76e6522fe694cd86b4",
+      "title": "M 5.0 - 295 km S of Burica, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_4d28306243ebb97c0b7b",
       "title": "M 4.6 - 28 km ESE of Kuril’sk, Russia",
       "event_classes": [
@@ -4585,7 +4602,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-04T02:29:16+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -6136,23 +6153,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_4c76e6522fe694cd86b4",
-      "title": "M 5.0 - 295 km S of Burica, Panama",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-04T15:02:36+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -7509,7 +7509,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -7951,7 +7951,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T03:44:03+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -8393,7 +8393,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -10791,7 +10791,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T10:46:03+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -13239,7 +13239,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T09:33:59+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -14634,7 +14634,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T07:18:29+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -14991,7 +14991,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T01:31:18+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -15586,7 +15586,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T13:15:14+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -15807,7 +15807,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T02:29:16+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -17626,7 +17626,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -17779,7 +17779,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
@@ -18255,7 +18255,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T09:33:59+00:00",
-      "last_seen_at": "2026-10-04T15:02:36+00:00",
+      "last_seen_at": "2026-10-04T16:40:18+00:00",
       "status": "active"
     },
     {
