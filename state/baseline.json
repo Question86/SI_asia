@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T00:06:07+00:00",
+  "generated_at": "2026-10-04T01:31:18+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -5081,7 +5081,7 @@
     },
     "domain:togetter.com": {
       "title": "地面に落としたネジをGrokに探してもらったらすぐ見つけてくれた話…画像処理におけるAIは強すぎる",
-      "updated_at": "2026-10-04T00:06:07+00:00",
+      "updated_at": "2026-10-04T01:31:18+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -5111,13 +5111,13 @@
         7.1,
         7.1,
         7.1,
-        7.1,
-        10.1
+        10.1,
+        7.1
       ],
       "rolling_average": 7.2,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 2.9
+      "last_score": 7.1,
+      "z_hint": -0.1
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -11855,7 +11855,7 @@
     },
     "earthquake:indonesia:5.6": {
       "title": "M 5.6 - 80 km S of Banda Aceh, Indonesia",
-      "updated_at": "2026-10-04T00:06:07+00:00",
+      "updated_at": "2026-10-04T01:31:18+00:00",
       "network_scores": [
         21.7,
         21.7,
@@ -11885,13 +11885,13 @@
         21.7,
         21.7,
         21.7,
-        21.7,
-        24.7
+        24.7,
+        21.7
       ],
       "rolling_average": 21.8,
       "rolling_peak": 24.7,
-      "last_score": 24.7,
-      "z_hint": 2.9
+      "last_score": 21.7,
+      "z_hint": -0.1
     },
     "title:singapore-now-captures-per-cent-sea-startup-funding": {
       "title": "Singapore now captures 78 per cent of SEA’s startup funding",
@@ -19532,8 +19532,8 @@
       "z_hint": 0.0
     },
     "title:openai": {
-      "title": "OpenAI、最上位モデルのツール使用を伴う学習・評価・推論を全て停止したと発表",
-      "updated_at": "2026-09-27T23:53:06+00:00",
+      "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
+      "updated_at": "2026-10-04T01:31:18+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -19562,14 +19562,14 @@
         14.1,
         14.1,
         14.1,
-        14.1,
         17.1,
-        14.1
+        14.1,
+        17.1
       ],
-      "rolling_average": 14.2,
+      "rolling_average": 14.3,
       "rolling_peak": 17.1,
-      "last_score": 14.1,
-      "z_hint": -0.1
+      "last_score": 17.1,
+      "z_hint": 2.8
     },
     "earthquake:m 5.1 - 69 km e of antofagasta de la sierra, argentina:5.1": {
       "title": "M 5.1 - 69 km E of Antofagasta de la Sierra, Argentina",
@@ -54297,7 +54297,7 @@
     },
     "earthquake:philippines:4.5": {
       "title": "M 4.5 - 293 km SSE of Tabiauan, Philippines",
-      "updated_at": "2026-10-04T00:06:07+00:00",
+      "updated_at": "2026-10-04T01:31:18+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -54327,13 +54327,13 @@
         17.7,
         17.7,
         17.7,
-        17.7,
-        20.7
+        20.7,
+        17.7
       ],
       "rolling_average": 17.8,
       "rolling_peak": 20.7,
-      "last_score": 20.7,
-      "z_hint": 2.9
+      "last_score": 17.7,
+      "z_hint": -0.1
     },
     "title:why-social-commerce-seeding-replacing-upfront-influencer-retainers": {
       "title": "Why social commerce seeding is replacing upfront influencer retainers",
@@ -59265,6 +59265,17 @@
       "rolling_average": 10.1,
       "rolling_peak": 10.1,
       "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:e2e": {
+      "title": "自然言語で操作し、結果を検証するテストフレームワーク e2e",
+      "updated_at": "2026-10-04T01:31:18+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
       "z_hint": 0.0
     }
   }

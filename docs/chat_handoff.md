@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-04T00:06:04+00:00_
+_Generated: 2026-10-04T01:31:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `5`
 
 ## Top Signals
 
@@ -22,7 +22,21 @@ _Generated: 2026-10-04T00:06:04+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7
 - summary: Time 2026-10-03 23:14:35 UTC 2026-10-03 23:14:35 UTC at epicenter Location 3.590°N 122.930°E Depth 575.04 km (357.31 mi)
 
-### 3. 地面に落としたネジをGrokに探してもらったらすぐ見つけてくれた話…画像処理におけるAIは強すぎる
+### 3. 「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-10-03T23:32:18+00:00`
+- url: https://www.itmedia.co.jp/news/article/2610/04/2000001986/
+- summary: 米OpenAIで主要モデルのリリースごとに公開する安全性報告書の執筆を統括していたデビッド・ロビンソン氏は10月3日（現地時間）、米The Atlanticに「I Quit OpenAI Because Its Culture Is Broken」（OpenAIの文化が壊れているから辞めた）と題した記事を寄稿し、今週同社を退社したことを明らかにした。 同氏は、AI企業...
+
+### 4. 自然言語で操作し、結果を検証するテストフレームワーク e2e
+- source: Hatena Bookmark Hotentry IT
+- score: `8`
+- published: `2026-10-03T14:23:54+00:00`
+- url: https://azukiazusa.dev/blog/e2e-ai-testing/
+- summary: e2e は自然言語による操作と、要素を指定した操作・アサーションを組み合わせられるテストフレームワークです。この記事では Todo アプリを対象に、AI に操作を任せて結果をコードで検証するテストを作成します。 E2E（End-to-End）テストでは、ユーザーがアプリケーションを操作する一連の流れを検証します。Playwright...
+
+### 5. 地面に落としたネジをGrokに探してもらったらすぐ見つけてくれた話…画像処理におけるAIは強すぎる
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-03T21:01:32+00:00`
