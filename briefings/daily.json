@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T13:15:14+00:00",
-  "today_file_total": 18,
+  "generated_at": "2026-10-04T15:02:36+00:00",
+  "today_file_total": 20,
   "current_clusters": [
     {
       "key": "github_repo:egma-ai/jev-code-reviewer",
@@ -66,9 +66,9 @@
       "max_score": 15,
       "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.7,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -126,6 +126,31 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "earthquake:m 5.0 - 295 km s of burica, panama:5.0",
+      "title": "M 5.0 - 295 km S of Burica, Panama",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "title:openai",
       "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
       "sources": [
@@ -149,8 +174,8 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:www.nikkei.com",
-      "title": "日経にサイバー攻撃 情報漏洩、不審メール9000件送信 - 日本経済新聞",
+      "key": "domain:note.com",
+      "title": "6年通った博士課程を、退学しました。 --社会人博士を志すあなたに、先に渡しておきたいこと--｜清水 啓太郎 / Keitaro Shimizu",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -158,38 +183,16 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.nikkei.com/article/DGXZQOUD02B5F0S6A001C2000000/"
+        "https://note.com/keitaro_shimizu/n/n1cd34c93e432",
+        "https://note.com/takahiroanno/n/n3cd3c9a38e8e"
       ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
+      "finding_count": 2,
+      "max_score": 5,
+      "credibility_total": 2.1,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:nikkei.com",
-      "title": "「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー回答だったので「消費者庁に電話するしかねーな」とつぶやいたら、人間に繋がった",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://togetter.com/li/2753906"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.1,
+      "network_score": 12.2,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -313,6 +316,52 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:www.nikkei.com",
+      "title": "日経にサイバー攻撃 情報漏洩、不審メール9000件送信 - 日本経済新聞",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOUD02B5F0S6A001C2000000/"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:nikkei.com",
+      "title": "「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー回答だったので「消費者庁に電話するしかねーな」とつぶやいたら、人間に繋がった",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2753906"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "domain:www.eet-china.com",
       "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
       "sources": [
@@ -331,29 +380,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:note.com",
-      "title": "AIで法律をリファクタリングする: Fableで改正候補条文を抽出 / 立法における\"Mythos Moment\"を考える｜安野貴博",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://note.com/takahiroanno/n/n3cd3c9a38e8e"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
