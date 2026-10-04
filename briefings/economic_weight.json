@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T09:34:17+00:00",
+  "generated_at": "2026-10-04T11:11:33+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1117,7 +1117,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T08:46:46+00:00",
-      "last_seen_at": "2026-10-04T09:33:59+00:00",
+      "last_seen_at": "2026-10-04T11:11:17+00:00",
       "status": "active"
     },
     {
@@ -1185,8 +1185,8 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T08:36:29+00:00",
-      "last_seen_at": "2026-10-01T23:58:39+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-04T11:11:17+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_1eb1983ef98b0e807a3f",
@@ -1338,7 +1338,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-30T02:57:23+00:00",
-      "last_seen_at": "2026-10-04T09:33:59+00:00",
+      "last_seen_at": "2026-10-04T11:11:17+00:00",
       "status": "active"
     },
     {
@@ -4585,7 +4585,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-04T02:29:16+00:00",
-      "last_seen_at": "2026-10-04T09:33:59+00:00",
+      "last_seen_at": "2026-10-04T11:11:17+00:00",
       "status": "active"
     },
     {
@@ -7492,7 +7492,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-04T09:33:59+00:00",
+      "last_seen_at": "2026-10-04T11:11:17+00:00",
       "status": "active"
     },
     {
@@ -7934,7 +7934,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T03:44:03+00:00",
-      "last_seen_at": "2026-10-04T09:33:59+00:00",
+      "last_seen_at": "2026-10-04T11:11:17+00:00",
       "status": "active"
     },
     {
@@ -10774,7 +10774,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T10:46:03+00:00",
-      "last_seen_at": "2026-10-04T09:33:59+00:00",
+      "last_seen_at": "2026-10-04T11:11:17+00:00",
       "status": "active"
     },
     {
@@ -13209,6 +13209,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_113ad378c12b71535878",
+      "title": "AI に仕事を奪われるのはエンジニアではなくプロダクトマネージャーの方だった",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 111200.0,
+      "p50_usd": 11120000.0,
+      "p90_usd": 1112000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-04T09:33:59+00:00",
+      "last_seen_at": "2026-10-04T11:11:17+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_1154ef324f49cecbf918",
       "title": "AI が書く Go コードの品質を劇的に向上させる Linter: “declscope”",
       "event_classes": [
@@ -13718,23 +13735,6 @@
       "first_seen_at": "2026-09-11T01:08:28+00:00",
       "last_seen_at": "2026-09-11T13:48:13+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_113ad378c12b71535878",
-      "title": "AI に仕事を奪われるのはエンジニアではなくプロダクトマネージャーの方だった",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 111200.0,
-      "p50_usd": 11120000.0,
-      "p90_usd": 1112000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-04T09:33:59+00:00",
-      "last_seen_at": "2026-10-04T09:33:59+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -14617,7 +14617,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T07:18:29+00:00",
-      "last_seen_at": "2026-10-04T09:33:59+00:00",
+      "last_seen_at": "2026-10-04T11:11:17+00:00",
       "status": "active"
     },
     {
@@ -14974,7 +14974,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T01:31:18+00:00",
-      "last_seen_at": "2026-10-04T09:33:59+00:00",
+      "last_seen_at": "2026-10-04T11:11:17+00:00",
       "status": "active"
     },
     {
@@ -15773,7 +15773,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T02:29:16+00:00",
-      "last_seen_at": "2026-10-04T09:33:59+00:00",
+      "last_seen_at": "2026-10-04T11:11:17+00:00",
       "status": "active"
     },
     {
@@ -17592,7 +17592,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-10-04T09:33:59+00:00",
+      "last_seen_at": "2026-10-04T11:11:17+00:00",
       "status": "active"
     },
     {
@@ -17745,7 +17745,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-10-04T09:33:59+00:00",
+      "last_seen_at": "2026-10-04T11:11:17+00:00",
       "status": "active"
     },
     {
@@ -18206,6 +18206,23 @@
       "first_seen_at": "2026-09-20T09:40:46+00:00",
       "last_seen_at": "2026-09-20T13:01:44+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_5f72774d97fdaeebacff",
+      "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-04T09:33:59+00:00",
+      "last_seen_at": "2026-10-04T11:11:17+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_5f79fa25d6fec22a9127",
@@ -20059,23 +20076,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_5f72774d97fdaeebacff",
-      "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-04T09:33:59+00:00",
-      "last_seen_at": "2026-10-04T09:33:59+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
