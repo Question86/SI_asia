@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-04T09:33:56+00:00_
+_Generiert: 2026-10-04T11:11:14+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.“ aus Hatena Bookmark Hotentry IT (Score 20, risk).
+15 neue relevante Treffer. Stärkstes Signal: „GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.“ aus Hatena Bookmark Hotentry IT (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,10 +57,6 @@ _Generiert: 2026-10-04T09:33:56+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:8km) in Costa Rica 30/09/2026 21:55 UTC, 40 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10.792km) in Japan 30/09/2026 05:00 UTC, 2 thousand in MMI -.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1568726)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10.792km) in Japan 30/09/2026 05:00 UTC, 2 thousand in MMI -.
 
 ## Wirtschaft global
 
@@ -94,6 +90,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-10-03 23:37:35 UTC 2026-10-03 23:37:35 UTC at epicenter Location 4.822°N 95.243°E Depth 69.73 km (43.33 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.0 - 37 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-04T10:31:08.040+00:00`, fetched `2026-10-04T11:10:39+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-04 10:13:07 UTC 2026-10-04 10:13:07 UTC at epicenter Location 8.270°S 120.453°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 293 km SSE of Tabiauan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-04T09:33:56+00:00_
+_Generated: 2026-10-04T11:11:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `15`
 
 ## Top Signals
 
@@ -22,35 +22,42 @@ _Generated: 2026-10-04T09:33:56+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-10-03 23:37:35 UTC 2026-10-03 23:37:35 UTC at epicenter Location 4.822°N 95.243°E Depth 69.73 km (43.33 mi)
 
-### 3. M 4.5 - 293 km SSE of Tabiauan, Philippines
+### 3. M 5.0 - 37 km N of Ruteng, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-10-04T10:31:08.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5
+- summary: Time 2026-10-04 10:13:07 UTC 2026-10-04 10:13:07 UTC at epicenter Location 8.270°S 120.453°E Depth 10.00 km (6.21 mi)
+
+### 4. M 4.5 - 293 km SSE of Tabiauan, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-03T23:39:45.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7
 - summary: Time 2026-10-03 23:14:35 UTC 2026-10-03 23:14:35 UTC at epicenter Location 3.590°N 122.930°E Depth 575.04 km (357.31 mi)
 
-### 4. 「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿
+### 5. 「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-10-03T23:32:18+00:00`
 - url: https://www.itmedia.co.jp/news/article/2610/04/2000001986/
 - summary: 米OpenAIで主要モデルのリリースごとに公開する安全性報告書の執筆を統括していたデビッド・ロビンソン氏は10月3日（現地時間）、米The Atlanticに「I Quit OpenAI Because Its Culture Is Broken」（OpenAIの文化が壊れているから辞めた）と題した記事を寄稿し、今週同社を退社したことを明らかにした。 同氏は、AI企業...
 
-### 5. M 4.9 - 21 km NE of Lae, Papua New Guinea
+### 6. M 4.9 - 21 km NE of Lae, Papua New Guinea
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-04T01:57:32.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv
 - summary: Time 2026-10-04 01:38:46 UTC 2026-10-04 01:38:46 UTC at epicenter Location 6.592°S 147.135°E Depth 94.22 km (58.55 mi)
 
-### 6. AI に仕事を奪われるのはエンジニアではなくプロダクトマネージャーの方だった
+### 7. AI に仕事を奪われるのはエンジニアではなくプロダクトマネージャーの方だった
 - source: Hatena Bookmark Hotentry IT
 - score: `9`
 - published: `2026-10-03T13:00:04+00:00`
 - url: https://portalshit.net/2026/10/03/ai-is-eating-product-management
 - summary: 生成 AI が人間の仕事を奪っていくという話が様々なところでなされている。ソフトウェア開発の現場で AI にジョブセキュリティを脅かされるのはエンジニアやデザイナーなどの作り手の方で、何を・なぜ作るべきか考えるプロダクトマネージャーに関しては AI に置き換えられにくい職業だと思っていた。 しかし実際に勤務先...
 
-### 7. 自然言語で操作し、結果を検証するテストフレームワーク e2e
+### 8. 自然言語で操作し、結果を検証するテストフレームワーク e2e
 - source: Hatena Bookmark Hotentry IT
 - score: `8`
 - published: `2026-10-03T14:23:54+00:00`
