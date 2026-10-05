@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T09:00:52+00:00_
+_Generiert: 2026-10-05T09:36:45+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+34 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-05 01:18:50 UTC 2026-10-05 01:18:50 UTC at epicenter Location 0.433°S 19.965°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **俺のAIプログラミング手法(2026/10/05)** — Score 8, observation — [Quelle](https://zenn.dev/mizchi/articles/ai-coding-loop-formal)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-05T06:52:58+00:00`, fetched `2026-10-05T09:36:14+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 棚卸し的な記事です。 人間の役割を定義する モデルの性能を評価する 無茶振りしてどこまで出来るか観察 何ができて、何ができなかったことがドメイン知識になる ループを構築する 自動化して得られた時間で、評価指標を改善する 評価指標を作る どの数値を改善すべきか、トレードオフは何を優先すべきか ループのイテレ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Stop calling Southeast Asia an emerging market in mobile. It is where the behaviour gets invented** — Score 8, observation — [Quelle](https://e27.co/stop-calling-southeast-asia-an-emerging-market-in-mobile-it-is-where-the-behaviour-gets-invented-20261004/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-05T04:00:36+00:00`, fetched `2026-10-05T04:00:46+00:00`
@@ -158,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
   - Kurz: In November, ASEAN leaders are scheduled to sign the Digital Economy Framework Agreement (DEFA), the first region-wide pact written specifically for the digital economy. Negotiators closed the text in Manila in May, and ASEAN’s own statement puts the prize at up to US$2 trillion in digital economy value by 2030 if the agreement is implemented […] The post Stop calling Southeast Asia an emerging market in mobile. It…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Basel III applicable in almost all member jurisdictions by 2027** — Score 8, observation — [Quelle](https://www.bis.org/media-releases/20261005-basel-iii-applicable-almost-all-member-jurisdictions-2027)
+  - Quelle: BIS Press Releases / `rss`
+  - Zeit: published `2026-10-05T00:00:00+00:00`, fetched `2026-10-05T09:36:14+00:00`
+  - Treffer: Basel, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); Basel (+2.5); recent (+1.0)
+  - Kurz: Three quarters of the Basel Committee’s 27 member jurisdictions have now published regulations implementing the full set of Basel III standards. Almost all member jurisdictions have publicly announced that banks must apply Basel III by April 2027 or earlier. The Committee will continue to closely monitor and assess the full and consistent implementation of Basel III standards.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Warnung vor Angriffen auf Zammad und Citrix NetScaler** — Score 7, observation — [Quelle](https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html)
   - Quelle: heise Security Alerts / `rss`
@@ -185,15 +203,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **シニアになりきれない中堅エンジニアは、何を読めばいいのか 2026年版 - じゃあ、おうちで学べる** — Score 5, observation — [Quelle](https://syu-m-5151.hatenablog.com/entry/2026/10/05/132102)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-05T04:55:25+00:00`, fetched `2026-10-05T07:58:00+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに 自分の仕事ができるようになったら、その先は何を勉強すればいいのだろう。今の仕事で足りないものは少し分かってきた。でも、それを身につけた頃にも、同じ働き方が求められているだろうか。 AI時代に何が必要になるのか、私にもはっきり分かっているわけではない。自分が経験してきた仕事のやり方が、そのま...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **tester-army/e2e** — Score 5, observation — [Quelle](https://github.com/tester-army/e2e)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
