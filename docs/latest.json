@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T05:58:54+00:00",
-  "run_id": "2026-10-05T05:58:54+00:00",
+  "generated_at": "2026-10-05T06:51:46+00:00",
+  "run_id": "2026-10-05T06:51:46+00:00",
   "date": "2026-10-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 17
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 7,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
-    "medium": 2,
-    "observe": 15,
+    "medium": 4,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -78,6 +78,43 @@
         "id": "37e71f2b0640e42f5051"
       },
       {
+        "title": "M 4.8 - 191 km ESE of Sarangani, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-05T06:40:40.040+00:00",
+        "fetched_at": "2026-10-05T06:51:14+00:00",
+        "summary": "Time 2026-10-05 06:14:15 UTC 2026-10-05 06:14:15 UTC at epicenter Location 4.498°N 126.939°E Depth 51.29 km (31.87 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "950c8a64ef7d2de4afec"
+      },
+      {
         "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
         "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -98,6 +135,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "74ef0c2f3a22390a78a6"
+      },
+      {
+        "title": "GROWIにおけるアクセス制限不備の脆弱性",
+        "url": "https://jvn.jp/jp/JVN24352487/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-10-05T15:00:00+09:00",
+        "fetched_at": "2026-10-05T06:51:14+00:00",
+        "summary": "株式会社GROWIが提供するGROWIには、アクセス制限不備の脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2b55d9804bc9a46a9f95"
       }
     ],
     "observe": [
@@ -122,6 +181,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "712130aa81b87322f3a4"
+      },
+      {
+        "title": "OneByZero raises US$20M Series A to help enterprises move AI from pilots to production",
+        "url": "https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-05T06:00:45+00:00",
+        "fetched_at": "2026-10-05T06:51:14+00:00",
+        "summary": "For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that experimentation into systems that work inside heavily regulated businesses without breaking compliance, confusing staff or creating new […] The post OneByZero raises…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "012dc9828548cfed4711"
       },
       {
         "title": "M 5.0 - 71 km E of ‘Ohonua, Tonga",
@@ -296,6 +377,66 @@
         "id": "170b40a995eec0aa2a65"
       },
       {
+        "title": "Warnung vor Angriffen auf Zammad und Citrix NetScaler",
+        "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-10-05T06:41:00.000+00:00",
+        "fetched_at": "2026-10-05T06:51:14+00:00",
+        "summary": "Bösartige Akteure attackieren aktuell nicht nur Sicherheitslücken in Citrix NetScaler, sondern auch in Zammad. Davor warnt die CISA.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4d9e77cdeda1d672111b"
+      },
+      {
+        "title": "Microsoft schiebt Exchange-Update nach",
+        "url": "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-10-05T06:26:00.000+00:00",
+        "fetched_at": "2026-10-05T06:51:14+00:00",
+        "summary": "Zum Wochenende hat Microsoft weitere Exchange-Updates nachgelegt. Sie stopfen eine Rechteausweitungslücke.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "28bafea3ba179f29e850"
+      },
+      {
+        "title": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました",
+        "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-05T06:00:00+00:00",
+        "fetched_at": "2026-10-05T06:51:14+00:00",
+        "summary": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d9701c54c1a5ca4777b8"
+      },
+      {
         "title": "A funding round can improve your metrics without improving your company",
         "url": "https://e27.co/a-funding-round-can-improve-your-metrics-without-improving-your-company-20261004/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -315,6 +456,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6e5442e850befefdf097"
+      },
+      {
+        "title": "【速報】大和証券に不正アクセス、22万件漏えいか",
+        "url": "https://www.47news.jp/15038299.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-05T04:29:00+00:00",
+        "fetched_at": "2026-10-05T06:51:14+00:00",
+        "summary": "大和証券グループ本社は5日、不正アクセスにより、個人を特定できない情報を含め約22万件の情報が漏えいした可能性があると発表した。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "721bd4b9b0335264c587"
       },
       {
         "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表",
@@ -513,6 +675,43 @@
       "id": "37e71f2b0640e42f5051"
     },
     {
+      "title": "M 4.8 - 191 km ESE of Sarangani, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-05T06:40:40.040+00:00",
+      "fetched_at": "2026-10-05T06:51:14+00:00",
+      "summary": "Time 2026-10-05 06:14:15 UTC 2026-10-05 06:14:15 UTC at epicenter Location 4.498°N 126.939°E Depth 51.29 km (31.87 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "950c8a64ef7d2de4afec"
+    },
+    {
       "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
       "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -535,6 +734,28 @@
       "id": "74ef0c2f3a22390a78a6"
     },
     {
+      "title": "GROWIにおけるアクセス制限不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN24352487/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-05T15:00:00+09:00",
+      "fetched_at": "2026-10-05T06:51:14+00:00",
+      "summary": "株式会社GROWIが提供するGROWIには、アクセス制限不備の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2b55d9804bc9a46a9f95"
+    },
+    {
       "title": "AIエージェントによる通信が1700％増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
       "url": "https://forbesjapan.com/articles/detail/105823",
       "source": "Hatena Bookmark Hotentry IT",
@@ -555,6 +776,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "712130aa81b87322f3a4"
+    },
+    {
+      "title": "OneByZero raises US$20M Series A to help enterprises move AI from pilots to production",
+      "url": "https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-05T06:00:45+00:00",
+      "fetched_at": "2026-10-05T06:51:14+00:00",
+      "summary": "For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that experimentation into systems that work inside heavily regulated businesses without breaking compliance, confusing staff or creating new […] The post OneByZero raises…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "012dc9828548cfed4711"
     },
     {
       "title": "M 5.0 - 71 km E of ‘Ohonua, Tonga",
@@ -729,6 +972,66 @@
       "id": "170b40a995eec0aa2a65"
     },
     {
+      "title": "Warnung vor Angriffen auf Zammad und Citrix NetScaler",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-05T06:41:00.000+00:00",
+      "fetched_at": "2026-10-05T06:51:14+00:00",
+      "summary": "Bösartige Akteure attackieren aktuell nicht nur Sicherheitslücken in Citrix NetScaler, sondern auch in Zammad. Davor warnt die CISA.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4d9e77cdeda1d672111b"
+    },
+    {
+      "title": "Microsoft schiebt Exchange-Update nach",
+      "url": "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-05T06:26:00.000+00:00",
+      "fetched_at": "2026-10-05T06:51:14+00:00",
+      "summary": "Zum Wochenende hat Microsoft weitere Exchange-Updates nachgelegt. Sie stopfen eine Rechteausweitungslücke.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "28bafea3ba179f29e850"
+    },
+    {
+      "title": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました",
+      "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-05T06:00:00+00:00",
+      "fetched_at": "2026-10-05T06:51:14+00:00",
+      "summary": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d9701c54c1a5ca4777b8"
+    },
+    {
       "title": "A funding round can improve your metrics without improving your company",
       "url": "https://e27.co/a-funding-round-can-improve-your-metrics-without-improving-your-company-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -748,6 +1051,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6e5442e850befefdf097"
+    },
+    {
+      "title": "【速報】大和証券に不正アクセス、22万件漏えいか",
+      "url": "https://www.47news.jp/15038299.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-05T04:29:00+00:00",
+      "fetched_at": "2026-10-05T06:51:14+00:00",
+      "summary": "大和証券グループ本社は5日、不正アクセスにより、個人を特定できない情報を含め約22万件の情報が漏えいした可能性があると発表した。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "721bd4b9b0335264c587"
     },
     {
       "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表",
@@ -897,19 +1221,20 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.0 - 71 km E of ‘Ohonua, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme",
+      "title": "M 4.8 - 191 km ESE of Sarangani, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-05T05:46:50.040+00:00",
-      "fetched_at": "2026-10-05T05:58:23+00:00",
-      "summary": "Time 2026-10-05 05:26:44 UTC 2026-10-05 05:26:44 UTC at epicenter Location 21.421°S 174.268°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-10-05T06:40:40.040+00:00",
+      "fetched_at": "2026-10-05T06:51:14+00:00",
+      "summary": "Time 2026-10-05 06:14:15 UTC 2026-10-05 06:14:15 UTC at epicenter Location 4.498°N 126.939°E Depth 51.29 km (31.87 mi)",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -930,7 +1255,132 @@
         "HD",
         "LOW"
       ],
-      "id": "8334de0a01f3f1b3b349"
+      "id": "950c8a64ef7d2de4afec"
+    },
+    {
+      "title": "GROWIにおけるアクセス制限不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN24352487/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-05T15:00:00+09:00",
+      "fetched_at": "2026-10-05T06:51:14+00:00",
+      "summary": "株式会社GROWIが提供するGROWIには、アクセス制限不備の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2b55d9804bc9a46a9f95"
+    },
+    {
+      "title": "OneByZero raises US$20M Series A to help enterprises move AI from pilots to production",
+      "url": "https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-05T06:00:45+00:00",
+      "fetched_at": "2026-10-05T06:51:14+00:00",
+      "summary": "For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that experimentation into systems that work inside heavily regulated businesses without breaking compliance, confusing staff or creating new […] The post OneByZero raises…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "012dc9828548cfed4711"
+    },
+    {
+      "title": "Warnung vor Angriffen auf Zammad und Citrix NetScaler",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-05T06:41:00.000+00:00",
+      "fetched_at": "2026-10-05T06:51:14+00:00",
+      "summary": "Bösartige Akteure attackieren aktuell nicht nur Sicherheitslücken in Citrix NetScaler, sondern auch in Zammad. Davor warnt die CISA.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4d9e77cdeda1d672111b"
+    },
+    {
+      "title": "Microsoft schiebt Exchange-Update nach",
+      "url": "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-05T06:26:00.000+00:00",
+      "fetched_at": "2026-10-05T06:51:14+00:00",
+      "summary": "Zum Wochenende hat Microsoft weitere Exchange-Updates nachgelegt. Sie stopfen eine Rechteausweitungslücke.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "28bafea3ba179f29e850"
+    },
+    {
+      "title": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました",
+      "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-05T06:00:00+00:00",
+      "fetched_at": "2026-10-05T06:51:14+00:00",
+      "summary": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d9701c54c1a5ca4777b8"
+    },
+    {
+      "title": "【速報】大和証券に不正アクセス、22万件漏えいか",
+      "url": "https://www.47news.jp/15038299.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-05T04:29:00+00:00",
+      "fetched_at": "2026-10-05T06:51:14+00:00",
+      "summary": "大和証券グループ本社は5日、不正アクセスにより、個人を特定できない情報を含め約22万件の情報が漏えいした可能性があると発表した。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "721bd4b9b0335264c587"
     }
   ],
   "source_errors": [],

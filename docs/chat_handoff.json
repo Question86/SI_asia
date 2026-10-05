@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-05T05:58:54+00:00",
+  "generated_at": "2026-10-05T06:51:46+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 7,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
-    "medium": 2,
-    "observe": 15
+    "medium": 4,
+    "observe": 20
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -25,6 +25,16 @@
       "section": "medium"
     },
     {
+      "title": "M 4.8 - 191 km ESE of Sarangani, Philippines",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-05T06:40:40.040+00:00",
+      "relevance_score": 15,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
+      "summary": "Time 2026-10-05 06:14:15 UTC 2026-10-05 06:14:15 UTC at epicenter Location 4.498°N 126.939°E Depth 51.29 km (31.87 mi)",
+      "section": "medium"
+    },
+    {
       "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -35,6 +45,16 @@
       "section": "medium"
     },
     {
+      "title": "GROWIにおけるアクセス制限不備の脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-05T15:00:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/jp/JVN24352487/",
+      "summary": "株式会社GROWIが提供するGROWIには、アクセス制限不備の脆弱性が存在します。",
+      "section": "medium"
+    },
+    {
       "title": "AIエージェントによる通信が1700％増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -42,6 +62,16 @@
       "relevance_score": 11,
       "url": "https://forbesjapan.com/articles/detail/105823",
       "summary": "AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...",
+      "section": "observe"
+    },
+    {
+      "title": "OneByZero raises US$20M Series A to help enterprises move AI from pilots to production",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-05T06:00:45+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/",
+      "summary": "For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that exper…",
       "section": "observe"
     },
     {
@@ -62,16 +92,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7",
       "summary": "Time 2026-10-05 04:16:23 UTC 2026-10-05 04:16:23 UTC at epicenter Location 45.953°N 151.868°E Depth 35.00 km (21.75 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "Change fatigue is an organisational design problem, not a resilience problem",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-05T03:00:23+00:00",
-      "relevance_score": 9,
-      "url": "https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/",
-      "summary": "In my work with organisations, I often hear people describe barely adjusting to one restructure before the next one begins. The remark is usually made in passing, which tells you something on its own. Change has become familiar enough that people know how to…",
       "section": "observe"
     }
   ],

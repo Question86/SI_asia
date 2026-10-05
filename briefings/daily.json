@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T05:58:57+00:00",
-  "today_file_total": 17,
+  "generated_at": "2026-10-05T06:51:49+00:00",
+  "today_file_total": 24,
   "current_clusters": [
     {
       "key": "title:why-southeast-asia-coding-race-moving-models-infrastructure",
@@ -28,6 +28,103 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
+      "key": "title:2026",
+      "title": "ノア・スミス「AI は大卒の雇用を奪ってない（けどアーティストの仕事は奪ってる）」（2026年10月1日）",
+      "sources": [
+        "Hatena Bookmark Hotentry IT",
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/",
+        "https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age"
+      ],
+      "finding_count": 2,
+      "max_score": 9,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": true,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 22.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:philippines:4.8",
+      "title": "M 4.8 - 191 km ESE of Sarangani, Philippines",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:growi",
+      "title": "GROWIにおけるアクセス制限不備の脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/jp/JVN24352487/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:www.heise.de",
+      "title": "Warnung vor Angriffen auf Zammad und Citrix NetScaler",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html",
+        "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html"
+      ],
+      "finding_count": 2,
+      "max_score": 7,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 17.2,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
       "key": "title:everyone-can-build-now-almost-nobody-can-see",
       "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
       "sources": [
@@ -51,29 +148,27 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 5.0 - 71 km e of ‘ohonua, tonga:5.0",
-      "title": "M 5.0 - 71 km E of ‘Ohonua, Tonga",
+      "key": "title:onebyzero-raises-20m-series-help-enterprises-move-pilots",
+      "title": "OneByZero raises US$20M Series A to help enterprises move AI from pilots to production",
       "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
-        "tier1_official"
+        "tier3_specialist"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme"
+        "https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/"
       ],
       "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
+      "max_score": 10,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 14.7,
+      "network_score": 15.1,
       "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "domain:forbesjapan.com",
@@ -97,6 +192,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 5.0 - 71 km e of ‘ohonua, tonga:5.0",
+      "title": "M 5.0 - 71 km E of ‘Ohonua, Tonga",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 4.5 - kuril islands:4.5",
@@ -172,29 +292,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:2026",
-      "title": "ノア・スミス「AI は大卒の雇用を奪ってない（けどアーティストの仕事は奪ってる）」（2026年10月1日）",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:stop-calling-southeast-asia-emerging-market-mobile-where",
       "title": "Stop calling Southeast Asia an emerging market in mobile. It is where the behaviour gets invented",
       "sources": [
@@ -212,6 +309,29 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://www.47news.jp/15038299.html",
+      "title": "【速報】大和証券に不正アクセス、22万件漏えいか",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.47news.jp/15038299.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -351,52 +471,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:nearly-half-asia-pacific-consumers-open-stablecoins-within",
-      "title": "Nearly half of Asia Pacific consumers open to stablecoins within five years, Visa says",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/nearly-half-of-asia-pacific-consumers-open-to-stablecoins-within-five-years-visa-says-20261005/"
-      ],
-      "finding_count": 1,
-      "max_score": 4,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 6.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:bitcoin-jumped-350-this-real-breakout-short-squeeze",
-      "title": "Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a short squeeze?",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/"
-      ],
-      "finding_count": 1,
-      "max_score": 4,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 6.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

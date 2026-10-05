@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T05:58:57+00:00",
+  "generated_at": "2026-10-05T06:51:49+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -4320,10 +4320,9 @@
       "z_hint": 0.0
     },
     "domain:www.heise.de": {
-      "title": "Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung",
-      "updated_at": "2026-10-03T23:14:53+00:00",
+      "title": "Warnung vor Angriffen auf Zammad und Citrix NetScaler",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
-        26.1,
         26.1,
         26.1,
         26.1,
@@ -4352,12 +4351,13 @@
         26.1,
         26.1,
         26.1,
-        26.1
+        26.1,
+        17.2
       ],
-      "rolling_average": 26.2,
+      "rolling_average": 25.9,
       "rolling_peak": 29.1,
-      "last_score": 26.1,
-      "z_hint": -0.1
+      "last_score": 17.2,
+      "z_hint": -8.7
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -4986,7 +4986,7 @@
     },
     "title:2026": {
       "title": "ノア・スミス「AI は大卒の雇用を奪ってない（けどアーティストの仕事は奪ってる）」（2026年10月1日）",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -5015,14 +5015,14 @@
         10.1,
         10.1,
         10.1,
-        10.1,
         14.1,
-        11.1
+        11.1,
+        22.2
       ],
-      "rolling_average": 10.27,
-      "rolling_peak": 14.1,
-      "last_score": 11.1,
-      "z_hint": 0.83
+      "rolling_average": 10.67,
+      "rolling_peak": 22.2,
+      "last_score": 22.2,
+      "z_hint": 11.53
     },
     "url:https://www.digital.go.jp/policies/digital_promotion_staff/application-for-student": {
       "title": "18歳未満のデジタル推進委員応募について、「募集要項」と「プライバシーポリシー」を更新しました",
@@ -5081,9 +5081,8 @@
     },
     "domain:togetter.com": {
       "title": "「AIに読ませるエサとして人間の書いた文章を作って売る」みたいな時給30〜100ドルのアルバイトがあるが、学習に必要な「人間の書いた文章」は大抵読み尽くしたらしい",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
-        9.2,
         9.2,
         9.2,
         9.2,
@@ -5112,12 +5111,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 11.1,
+      "rolling_average": 11.03,
       "rolling_peak": 16.3,
       "last_score": 7.1,
-      "z_hint": -4.0
+      "z_hint": -3.93
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -6003,8 +6003,8 @@
       "z_hint": -0.2
     },
     "title:growi": {
-      "title": "GROWIにおける複数の脆弱性",
-      "updated_at": "2026-08-28T23:53:26+00:00",
+      "title": "GROWIにおけるアクセス制限不備の脆弱性",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -6020,12 +6020,13 @@
         16.1,
         16.1,
         16.1,
-        16.1
+        16.1,
+        19.1
       ],
-      "rolling_average": 16.3,
+      "rolling_average": 16.47,
       "rolling_peak": 19.1,
-      "last_score": 16.1,
-      "z_hint": -0.2
+      "last_score": 19.1,
+      "z_hint": 2.63
     },
     "title:soy": {
       "title": "SOYシリーズにおける複数の脆弱性",
@@ -7307,8 +7308,8 @@
       "z_hint": 0.0
     },
     "earthquake:philippines:4.8": {
-      "title": "M 4.8 - 78 km WSW of San Nicolas, Philippines",
-      "updated_at": "2026-10-02T23:57:27+00:00",
+      "title": "M 4.8 - 191 km ESE of Sarangani, Philippines",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -7339,12 +7340,12 @@
         17.7,
         17.7,
         17.7,
-        17.7
+        20.7
       ],
-      "rolling_average": 17.7,
-      "rolling_peak": 17.7,
-      "last_score": 17.7,
-      "z_hint": 0.0
+      "rolling_average": 17.8,
+      "rolling_peak": 20.7,
+      "last_score": 20.7,
+      "z_hint": 2.9
     },
     "url:https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/": {
       "title": "AI語に親しむ",
@@ -7915,13 +7916,12 @@
     },
     "domain:blog.shibayu36.org": {
       "title": "株式会社LayerXに入社しました - $shibayu36->blog;",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         7.1,
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
         7.1,
         7.1,
@@ -7937,6 +7937,7 @@
         7.1,
         7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -10247,9 +10248,8 @@
     },
     "domain:note.com": {
       "title": "プログラミングの基本原理｜shi3z",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
-        24.1,
         24.1,
         24.1,
         24.1,
@@ -10278,12 +10278,13 @@
         10.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 12.64,
+      "rolling_average": 12.08,
       "rolling_peak": 24.1,
       "last_score": 7.1,
-      "z_hint": -5.54
+      "z_hint": -4.98
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -39360,7 +39361,7 @@
     },
     "domain:forbesjapan.com": {
       "title": "AIエージェントによる通信が1700％増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         13.1,
         13.1,
@@ -39381,8 +39382,8 @@
         13.1,
         13.1,
         13.1,
-        13.1,
         16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -59655,7 +59656,7 @@
     },
     "title:everyone-can-build-now-almost-nobody-can-see": {
       "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         20.1,
         17.1,
@@ -59667,16 +59668,17 @@
         17.1,
         17.1,
         17.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 17.37,
+      "rolling_average": 17.35,
       "rolling_peak": 20.1,
       "last_score": 17.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "url:https://aikido-community.jp/articles/quiet-business-app-database-access": {
       "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -59688,16 +59690,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.37,
+      "rolling_average": 7.35,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "earthquake:central mid-atlantic ridge:5.3": {
       "title": "M 5.3 - central Mid-Atlantic Ridge",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -59708,18 +59711,20 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.0,
+      "rolling_average": 11.97,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:funding-round-can-improve-your-metrics-without-improving": {
       "title": "A funding round can improve your metrics without improving your company",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         11.1,
+        8.1,
         8.1,
         8.1,
         8.1,
@@ -59729,14 +59734,14 @@
         8.1,
         8.1
       ],
-      "rolling_average": 8.43,
+      "rolling_average": 8.4,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:change-fatigue-organisational-design-problem-not-resilience-problem": {
       "title": "Change fatigue is an organisational design problem, not a resilience problem",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         14.1,
         11.1,
@@ -59744,108 +59749,138 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.53,
+      "rolling_average": 11.47,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.43
+      "z_hint": -0.37
     },
     "title:why-southeast-asia-coding-race-moving-models-infrastructure": {
       "title": "Why Southeast Asia’s AI coding race is moving from models to infrastructure",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         28.1,
         25.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.7,
+      "rolling_average": 25.6,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:stop-calling-southeast-asia-emerging-market-mobile-where": {
       "title": "Stop calling Southeast Asia an emerging market in mobile. It is where the behaviour gets invented",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         13.1,
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.7,
+      "rolling_average": 10.6,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:microsoft-365-google-workspace": {
       "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.7,
+      "rolling_average": 7.6,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:bitcoin-jumped-350-this-real-breakout-short-squeeze": {
       "title": "Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a short squeeze?",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         9.1,
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.7,
+      "rolling_average": 6.6,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "earthquake:m 4.5 - kuril islands:4.5": {
       "title": "M 4.5 - Kuril Islands",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         14.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.7,
+      "rolling_average": 12.45,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:nearly-half-asia-pacific-consumers-open-stablecoins-within": {
       "title": "Nearly half of Asia Pacific consumers open to stablecoins within five years, Visa says",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
         9.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 7.1,
+      "rolling_average": 6.85,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "earthquake:m 5.0 - 71 km e of ‘ohonua, tonga:5.0": {
       "title": "M 5.0 - 71 km E of ‘Ohonua, Tonga",
-      "updated_at": "2026-10-05T05:58:57+00:00",
+      "updated_at": "2026-10-05T06:51:49+00:00",
       "network_scores": [
-        14.7
+        14.7,
+        11.7
       ],
-      "rolling_average": 14.7,
+      "rolling_average": 13.2,
       "rolling_peak": 14.7,
-      "last_score": 14.7,
+      "last_score": 11.7,
+      "z_hint": -1.5
+    },
+    "title:onebyzero-raises-20m-series-help-enterprises-move-pilots": {
+      "title": "OneByZero raises US$20M Series A to help enterprises move AI from pilots to production",
+      "updated_at": "2026-10-05T06:51:49+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "url:https://www.47news.jp/15038299.html": {
+      "title": "【速報】大和証券に不正アクセス、22万件漏えいか",
+      "updated_at": "2026-10-05T06:51:49+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
       "z_hint": 0.0
     }
   }

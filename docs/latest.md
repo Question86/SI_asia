@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T05:58:54+00:00_
+_Generiert: 2026-10-05T06:51:46+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+24 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
   - Kurz: For the past three years, much of the AI debate inside Southeast Asia’s engineering teams has centred on a familiar question: which model is best? Founders, CTOs and developers compared GPT-4, Claude, Codex, Cursor and open-weight models on code completion, documentation, debugging and speed. For many startups, the first wave of AI developer adoption meant […] The post Why Southeast Asia’s AI coding race is moving f…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 191 km ESE of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-05T06:40:40.040+00:00`, fetched `2026-10-05T06:51:14+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-05 06:14:15 UTC 2026-10-05 06:14:15 UTC at epicenter Location 4.498°N 126.939°E Depth 51.29 km (31.87 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Everyone can build with AI now. Almost nobody can see what’s coming** — Score 15, observation — [Quelle](https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-05T01:00:34+00:00`, fetched `2026-10-05T01:03:18+00:00`
@@ -30,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: This week, two numbers came out of the same region within days of each other, and almost nobody put them side by side. On September 3, Singapore’s central bank committed SG$220 million over three years to fintech and AI infrastructure under a fourth-generation innovation scheme. Around the same time, a Tracxn landscape report showed Southeast […] The post Everyone can build with AI now. Almost nobody can see what’s…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GROWIにおけるアクセス制限不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN24352487/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-10-05T15:00:00+09:00`, fetched `2026-10-05T06:51:14+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 株式会社GROWIが提供するGROWIには、アクセス制限不備の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -41,6 +59,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **OneByZero raises US$20M Series A to help enterprises move AI from pilots to production** — Score 10, observation — [Quelle](https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-05T06:00:45+00:00`, fetched `2026-10-05T06:51:14+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
+  - Kurz: For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that experimentation into systems that work inside heavily regulated businesses without breaking compliance, confusing staff or creating new […] The post OneByZero raises…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 71 km E of ‘Ohonua, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -96,28 +123,47 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
   - Kurz: In November, ASEAN leaders are scheduled to sign the Digital Economy Framework Agreement (DEFA), the first region-wide pact written specifically for the digital economy. Negotiators closed the text in Manila in May, and ASEAN’s own statement puts the prize at up to US$2 trillion in digital economy value by 2030 if the agreement is implemented […] The post Stop calling Southeast Asia an emerging market in mobile. It…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **A funding round can improve your metrics without improving your company** — Score 6, observation — [Quelle](https://e27.co/a-funding-round-can-improve-your-metrics-without-improving-your-company-20261004/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-05T02:00:14+00:00`, fetched `2026-10-05T02:09:18+00:00`
-  - Treffer: APAC Trend Radar, funding
+- **Warnung vor Angriffen auf Zammad und Citrix NetScaler** — Score 7, observation — [Quelle](https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-05T06:41:00.000+00:00`, fetched `2026-10-05T06:51:14+00:00`
+  - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)
-  - Kurz: The months after a funding round can make a company look dramatically stronger. Revenue rises. The team grows. New markets open. Customer logos multiply. The board deck becomes easier to read because almost every chart is moving in the right direction. But the harder question is not on the dashboard: after the round, what became […] The post A funding round can improve your metrics without improving your company app…
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Bösartige Akteure attackieren aktuell nicht nur Sicherheitslücken in Citrix NetScaler, sondern auch in Zammad. Davor warnt die CISA.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/news/2145512.html)
+- **Microsoft schiebt Exchange-Update nach** — Score 7, observation — [Quelle](https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-05T06:26:00.000+00:00`, fetched `2026-10-05T06:51:14+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Zum Wochenende hat Microsoft weitere Exchange-Updates nachgelegt. Sie stopfen eine Rechteausweitungslücke.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-05T06:00:00+00:00`, fetched `2026-10-05T06:51:14+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **【速報】大和証券に不正アクセス、22万件漏えいか** — Score 5, observation — [Quelle](https://www.47news.jp/15038299.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-05T01:09:28+00:00`, fetched `2026-10-05T04:00:46+00:00`
+  - Zeit: published `2026-10-05T04:29:00+00:00`, fetched `2026-10-05T06:51:14+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表
+  - Kurz: 大和証券グループ本社は5日、不正アクセスにより、個人を特定できない情報を含め約22万件の情報が漏えいした可能性があると発表した。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
