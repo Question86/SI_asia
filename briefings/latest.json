@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T22:53:34+00:00",
-  "run_id": "2026-10-05T22:53:34+00:00",
+  "generated_at": "2026-10-05T23:00:58+00:00",
+  "run_id": "2026-10-05T23:00:58+00:00",
   "date": "2026-10-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 67,
     "displayed_findings": 67,
     "high": 0,
@@ -3383,50 +3383,7 @@
       "id": "df983882c992140385b5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
-      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-05T22:42:14+00:00",
-      "fetched_at": "2026-10-05T22:53:02+00:00",
-      "summary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one… The post Secret scanning adds detectors for Lovable, Supabase, and more appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "CodeQL/Dependabot",
-        "GitHub"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "02615515093dd109c903"
-    },
-    {
-      "title": "ウナギ稚魚の生産コストが4万円→1800円に 約20分の1以下に削減 水産研究・教育機構が大型水槽を開発 | himanews",
-      "url": "https://himanews.jp/2145532462-2/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-05T09:34:02+00:00",
-      "fetched_at": "2026-10-05T22:53:02+00:00",
-      "summary": "ウナギ稚魚の生産コストが4万円→1800円に 約20分の1以下に削減 水産研究・教育機構が大型水槽を開発 2025 7/08 記事によると… ウナギ稚魚を大量生育でコスト4万円から1800円に 水産研究・教育機構が大型水槽開発 水産研究・教育機構とヤンマーホールディングスなどは8日、ウナギの稚魚の生産コストを大幅に削減できる...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8c7aa2987b2275fefd2d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
