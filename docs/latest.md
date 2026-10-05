@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T22:45:09+00:00_
+_Generiert: 2026-10-05T22:53:34+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+67 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Secret scanning adds detectors for Lovable, Supabase, and more** — Score 12, opportunity — [Quelle](https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-05T22:42:14+00:00`, fetched `2026-10-05T22:53:02+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one… The post Secret scanning adds detectors for Lovable, Supabase, and more appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Announcing 20260088 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260088.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-10-05T14:40:22+00:00`, fetched `2026-10-05T13:52:59+00:00`
@@ -240,15 +249,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-05 11:47:07 UTC 2026-10-05 11:47:07 UTC at epicenter Location 15.716°S 167.148°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-05T08:00:00+00:00`, fetched `2026-10-05T08:35:36+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
