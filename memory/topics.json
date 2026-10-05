@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-05T23:21:24+00:00",
+  "generated_at": "2026-10-05T23:32:01+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-10-05T00:00:00+00:00",
         "relevance_score": 21,
         "url": "https://www.bis.org/speeches/20261005-payments-age-ai-agents"
+      },
+      {
+        "title": "Codex Cloudを利用してコード修正してもらっていたら本名が駄々洩れしていた話 | Pandora Pocket",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-05T22:42:54+00:00",
+        "relevance_score": 18,
+        "url": "https://blog.hitsujin.jp/entry/2026/10/05/codex-cloud-git-author"
       },
       {
         "title": "[NEU] [hoch] Microsoft Exchange Server: Schwachstelle ermöglicht Privilegieneskalation",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-25T00:00:00+00:00",
         "relevance_score": 11,
         "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1229/"
-      },
-      {
-        "title": "0G picks Singapore as global base, expands AI research into badminton",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-05T11:30:56+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/0g-picks-singapore-as-global-base-expands-ai-research-into-badminton-20261005/"
       }
     ],
     "security": [
@@ -219,6 +219,57 @@
         "url": "https://www.bis.org/media-releases/20261005-basel-iii-applicable-almost-all-member-jurisdictions-2027"
       }
     ],
+    "github": [
+      {
+        "title": "Codex Cloudを利用してコード修正してもらっていたら本名が駄々洩れしていた話 | Pandora Pocket",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-05T22:42:54+00:00",
+        "relevance_score": 18,
+        "url": "https://blog.hitsujin.jp/entry/2026/10/05/codex-cloud-git-author"
+      },
+      {
+        "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-05T01:00:34+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/"
+      },
+      {
+        "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-05T22:42:14+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more"
+      },
+      {
+        "title": "ReviewBench: An open benchmark for AI code review",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-10-05T15:59:40+00:00",
+        "relevance_score": 9,
+        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/"
+      },
+      {
+        "title": "Unvalidated npm trusted publishing configurations now expire",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-02T19:07:04+00:00",
+        "relevance_score": 5,
+        "url": "https://github.blog/changelog/2026-10-02-unvalidated-npm-trusted-publishing-configurations-now-expire"
+      },
+      {
+        "title": "npm staged publishing now supports creating new packages",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-02T19:05:17+00:00",
+        "relevance_score": 5,
+        "url": "https://github.blog/changelog/2026-10-02-npm-staged-publishing-now-supports-creating-new-packages"
+      },
+      {
+        "title": "tester-army/e2e",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/tester-army/e2e"
+      }
+    ],
     "geopolitics": [
       {
         "title": "[NEU] [hoch] Microsoft Exchange Server: Schwachstelle ermöglicht Privilegieneskalation",
@@ -361,50 +412,6 @@
         "published_at": "2026-10-05T01:35:49.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp"
-      }
-    ],
-    "github": [
-      {
-        "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-05T01:00:34+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/"
-      },
-      {
-        "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-05T22:42:14+00:00",
-        "relevance_score": 12,
-        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more"
-      },
-      {
-        "title": "ReviewBench: An open benchmark for AI code review",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-10-05T15:59:40+00:00",
-        "relevance_score": 9,
-        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/"
-      },
-      {
-        "title": "Unvalidated npm trusted publishing configurations now expire",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-02T19:07:04+00:00",
-        "relevance_score": 5,
-        "url": "https://github.blog/changelog/2026-10-02-unvalidated-npm-trusted-publishing-configurations-now-expire"
-      },
-      {
-        "title": "npm staged publishing now supports creating new packages",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-02T19:05:17+00:00",
-        "relevance_score": 5,
-        "url": "https://github.blog/changelog/2026-10-02-npm-staged-publishing-now-supports-creating-new-packages"
-      },
-      {
-        "title": "tester-army/e2e",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/tester-army/e2e"
       }
     ]
   }

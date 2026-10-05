@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-05T23:21:24+00:00_
+_Generated: 2026-10-05T23:32:01+00:00_
 
 ## Status
 - status: `normal`
-- findings: `67`
+- findings: `68`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-05T23:21:24+00:00_
 - url: https://www.bis.org/speeches/20261005-payments-age-ai-agents
 - summary: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at Sibos 2026, Miami, Florida, 29 September 2026.
 
-### 4. [NEU] [hoch] Microsoft Exchange Server: Schwachstelle ermöglicht Privilegieneskalation
-- source: BSI CERT-Bund Security Advisories
+### 4. Codex Cloudを利用してコード修正してもらっていたら本名が駄々洩れしていた話 | Pandora Pocket
+- source: Hatena Bookmark Hotentry IT
 - score: `18`
-- published: `2026-10-05T08:55:47+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718
-- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Microsoft Exchange Server ausnutzen, um seine Privilegien zu erhöhen, wodurch er Zugriff auf die Postfächer anderer Benutzer innerhalb derselben Organisation erhält und E-Mail-Nachrichten so…
+- published: `2026-10-05T22:42:54+00:00`
+- url: https://blog.hitsujin.jp/entry/2026/10/05/codex-cloud-git-author
+- summary: 最近Codex Cloudが新しくなり、OpenAI側のクラウド環境でGitHub連携をして手軽に開発ができるようになりました。 ちょうど土日に実家に帰らないといけない用事があり自宅のPCの電源を入れていなかったのですが、もうすぐ期限が切れてしまうリセット権がもったいなかったので、この機会にCodex Cloudを利用して趣味で制作...
 
 ### 5. Secret scanning adds detectors for Lovable, Supabase, and more
 - source: GitHub Changelog Atom
