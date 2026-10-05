@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T15:37:59+00:00",
-  "run_id": "2026-10-05T15:37:59+00:00",
+  "generated_at": "2026-10-05T15:51:43+00:00",
+  "run_id": "2026-10-05T15:51:43+00:00",
   "date": "2026-10-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 58,
     "displayed_findings": 58,
     "high": 0,
@@ -2857,49 +2857,7 @@
       "id": "df983882c992140385b5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Opening address - “Key trends 2026” conference",
-      "url": "https://www.bis.org/speeches/20261005-opening-address-key-trends-2026-conference",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-05T00:00:00+00:00",
-      "fetched_at": "2026-10-05T15:37:28+00:00",
-      "summary": "Opening address by Dr Jorgovanka Tabaković, Governor of the National Bank of Serbia, at the “Key trends 2026” conference, organised by the Association of Serbian Banks, Chamber of Commerce and Industry of Serbia and Association of Serbian Insurers, Zlatibor, 28 September 2026.",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Macro/Policy"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0f08449b64013243a99e"
-    },
-    {
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-05T15:00:00+00:00",
-      "fetched_at": "2026-10-05T15:37:28+00:00",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "425ee13224e314c790f1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
