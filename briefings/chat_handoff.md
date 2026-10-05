@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-05T07:22:43+00:00_
+_Generated: 2026-10-05T07:58:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `28`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-05T07:22:43+00:00_
 - url: https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/
 - summary: For the past three years, much of the AI debate inside Southeast Asia’s engineering teams has centred on a familiar question: which model is best? Founders, CTOs and developers compared GPT-4, Claude, Codex, Cursor and open-weight models on code completion, d…
 
-### 2. M 4.8 - 191 km ESE of Sarangani, Philippines
+### 2. M 4.9 - Volcano Islands, Japan region
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `18`
+- published: `2026-10-05T07:40:32.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt
+- summary: Time 2026-10-05 07:13:38 UTC 2026-10-05 07:13:38 UTC at epicenter Location 22.849°N 144.044°E Depth 35.00 km (21.75 mi)
+
+### 3. M 4.8 - 191 km ESE of Sarangani, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-05T06:40:40.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk
 - summary: Time 2026-10-05 06:14:15 UTC 2026-10-05 06:14:15 UTC at epicenter Location 4.498°N 126.939°E Depth 51.29 km (31.87 mi)
 
-### 3. Everyone can build with AI now. Almost nobody can see what’s coming
+### 4. Everyone can build with AI now. Almost nobody can see what’s coming
 - source: e27 Asia Startup and Tech Feed
 - score: `15`
 - published: `2026-10-05T01:00:34+00:00`
 - url: https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/
 - summary: This week, two numbers came out of the same region within days of each other, and almost nobody put them side by side. On September 3, Singapore’s central bank committed SG$220 million over three years to fintech and AI infrastructure under a fourth-generatio…
-
-### 4. GROWIにおけるアクセス制限不備の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-05T15:00:00+09:00`
-- url: https://jvn.jp/jp/JVN24352487/
-- summary: 株式会社GROWIが提供するGROWIには、アクセス制限不備の脆弱性が存在します。
 
 ### 5. AIエージェントによる通信が1700％増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
 - source: Hatena Bookmark Hotentry IT

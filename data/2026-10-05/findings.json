@@ -48,6 +48,55 @@
     "id": "37e71f2b0640e42f5051"
   },
   {
+    "title": "M 4.9 - Volcano Islands, Japan region",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-05T07:40:32.040+00:00",
+    "fetched_at": "2026-10-05T07:58:00+00:00",
+    "summary": "Time 2026-10-05 07:13:38 UTC 2026-10-05 07:13:38 UTC at epicenter Location 22.849°N 144.044°E Depth 35.00 km (21.75 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami",
+      "Watchgraph:volcano_aviation"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami, volcano_aviation (+6.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami",
+      "volcano_aviation"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake",
+      "volcano_aviation: volcano"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW",
+      "DIS",
+      "CMCSA",
+      "TKO",
+      "FWONK",
+      "ABNB",
+      "BKNG",
+      "DAL",
+      "UAL",
+      "AAL"
+    ],
+    "id": "1114638b6c1721617b00"
+  },
+  {
     "title": "M 4.8 - 191 km ESE of Sarangani, Philippines",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -446,6 +495,27 @@
     "id": "6e5442e850befefdf097"
   },
   {
+    "title": "シニアになりきれない中堅エンジニアは、何を読めばいいのか 2026年版 - じゃあ、おうちで学べる",
+    "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/05/132102",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-05T04:55:25+00:00",
+    "fetched_at": "2026-10-05T07:58:00+00:00",
+    "summary": "はじめに 自分の仕事ができるようになったら、その先は何を勉強すればいいのだろう。今の仕事で足りないものは少し分かってきた。でも、それを身につけた頃にも、同じ働き方が求められているだろうか。 AI時代に何が必要になるのか、私にもはっきり分かっているわけではない。自分が経験してきた仕事のやり方が、そのま...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0fc1e878e9b7a89ef748"
+  },
+  {
     "title": "【速報】大和証券に不正アクセス、22万件漏えいか",
     "url": "https://www.47news.jp/15038299.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -570,6 +640,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "79195b9348f3f7c8d142"
+  },
+  {
+    "title": "tester-army/e2e",
+    "url": "https://github.com/tester-army/e2e",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-10-05T07:58:00+00:00",
+    "summary": "Next generation e2e testing framework for web and mobile apps. https://tester.army/e2e e2e e2e is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test. // tests/checkout.e2e.ts import { test, expect } from 'e2e'; test('a member upgrades to Pro', async ({ app, agent, screen }…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "GitHub Trending"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "822589e7e382872a066d"
   },
   {
     "title": "Nearly half of Asia Pacific consumers open to stablecoins within five years, Visa says",
