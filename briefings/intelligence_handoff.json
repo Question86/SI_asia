@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-05T21:14:07Z",
+  "generated_at": "2026-10-05T21:30:18Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Denial of Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T08:55:47+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://jvn.jp/jp/JVN24352487/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-05T15:00:00+09:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -64,7 +64,7 @@
       "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-10-05T15:59:40+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "macro"
@@ -90,7 +90,7 @@
       "url": "https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T02:29:33+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -111,37 +111,11 @@
       "summary": "今日も今日とて，「AI は雇用を奪ってるの？」の果てしない物語のページをめくろう．いくつか面白いネタが出てきてる．まず，Indeed の賃金データが出てるんだけど，これを見ると AI 曝露度が高い仕事をしてる労働者の賃金は，そんなに AI 曝露度が高くない仕事の労働者たちの賃金よりもずっと急速に伸びてる： Source: ..."
     },
     {
-      "title": "The AI boom is making the world’s cheapest smartphones disappear",
-      "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "published_at": "2026-10-05T10:00:43+00:00",
-      "age_days": 0.47,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 25.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: shortage",
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models."
-    },
-    {
       "title": "From digital banking to resilient banking - technology, cyber security and ai as pillars of trust",
       "url": "https://www.bis.org/speeches/20261005-digital-banking-resilient-banking-technology-cyber-security-and-ai-pillars-trust",
       "source": "BIS Central Bankers Speeches, BIS Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 109.28,
+      "age_days": 109.29,
       "topics": [
         "ai",
         "security"
@@ -153,13 +127,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.16,
+      "baseline_z_hint": 4.01,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 5.16",
+        "baseline z_hint 4.01",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 109.3d old signal",
@@ -172,7 +146,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260088.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 109.28,
+      "age_days": 109.29,
       "topics": [
         "general"
       ],
@@ -183,13 +157,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.49,
+      "baseline_z_hint": 2.12,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 2.49",
+        "baseline z_hint 2.12",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 109.3d old signal",
@@ -202,7 +176,7 @@
       "url": "https://www.bis.org/speeches/20261005-opening-address-key-trends-2026-conference",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-05T00:00:00+00:00",
-      "age_days": 0.88,
+      "age_days": 0.9,
       "topics": [
         "macro"
       ],
@@ -230,7 +204,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3294",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T12:10:58+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -256,7 +230,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2430",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T11:31:42+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -282,7 +256,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3648",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T10:18:02+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -304,11 +278,38 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder Cross-Site-Scripting- und Spoofing-Angriffe durchzuführen."
     },
     {
+      "title": "AIでサイバー攻撃のコスト激減 数行の指示だけで27社に侵入、カード情報60万件超が流出 - 週刊アスキー",
+      "url": "https://weekly.ascii.jp/elem/000/004/439/4439882/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-05T08:05:24+00:00",
+      "age_days": 0.56,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "わずか数行の指示を出すだけで、AIが脆弱性を探し、侵入し、カード情報まで盗み出す──。サイバー攻撃の自動化が実戦段階に迫っている。 セキュリティ企業Gambit Securityの9月22日の報告によると、金銭目的の攻撃者が複数のオープンソースAIエージェントを使い、数百店のオンラインショップを攻撃した。2026年9月10～15..."
+    },
+    {
       "title": "Payments in the age of AI agents",
       "url": "https://www.bis.org/speeches/20261005-payments-age-ai-agents",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-05T00:00:00+00:00",
-      "age_days": 0.88,
+      "age_days": 0.9,
       "topics": [
         "ai",
         "macro"
