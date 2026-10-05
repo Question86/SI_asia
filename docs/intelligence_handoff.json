@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-05T01:25:17Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Everyone can build with AI now. Almost nobody can see what’s coming” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.0.",
+  "generated_at": "2026-10-05T02:03:08Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AIエージェントによる通信が1700％増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 | Forbes JAPAN 公式サイト（フォーブス ジャパン）” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=17.69.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,15 +11,67 @@
   ],
   "top_dynamics": [
     {
+      "title": "AIエージェントによる通信が1700％増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "url": "https://forbesjapan.com/articles/detail/105823",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-19T02:28:57+00:00",
+      "age_days": 15.98,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 17.69,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 5.3 - central Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-05T01:35:49.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10, 9.9"
+      ],
+      "summary": "Time 2026-10-05 01:18:50 UTC 2026-10-05 01:18:50 UTC at epicenter Location 0.433°S 19.965°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
       "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T01:03:54+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 19.0,
+      "dynamics_score": 16.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -37,28 +89,26 @@
       "summary": ""
     },
     {
-      "title": "株式会社LayerXに入社しました - $shibayu36->blog;",
-      "url": "https://blog.shibayu36.org/entry/2026/10/05/074417",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T02:26:46+00:00",
-      "age_days": 35.96,
+      "title": "M 5.3 - central Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-05T01:45:56+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.34,
+      "dynamics_score": 13.4,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.8,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.80",
-        "aging penalty -5.2 for 36.0d old signal"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -67,7 +117,7 @@
       "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T01:00:34+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -93,11 +143,11 @@
       "url": "https://aikido-community.jp/articles/quiet-business-app-database-access",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T01:03:54+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.5,
+      "dynamics_score": 9.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -116,8 +166,59 @@
       "title": "株式会社LayerXに入社しました - $shibayu36->blog;",
       "url": "https://blog.shibayu36.org/entry/2026/10/05/074417",
       "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-30T02:26:46+00:00",
+      "age_days": 35.98,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.76,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -5.2 for 36.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "AIエージェントによる通信が1700％増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "url": "https://forbesjapan.com/articles/detail/105823",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-04T18:34:21+00:00",
+      "age_days": 0.31,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用..."
+    },
+    {
+      "title": "株式会社LayerXに入社しました - $shibayu36->blog;",
+      "url": "https://blog.shibayu36.org/entry/2026/10/05/074417",
+      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T23:13:04+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -143,7 +244,7 @@
       "url": "https://aikido-community.jp/articles/quiet-business-app-database-access",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T23:57:28+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -173,8 +274,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "watch": 3,
-      "quiet": 3
+      "watch": 5,
+      "quiet": 5
     }
   }
 }
