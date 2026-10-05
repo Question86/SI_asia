@@ -100,5 +100,144 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “From digital banking to resilient banking - technology, cyber security and ai as pillars of trust” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=61.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "From digital banking to resilient banking - technology, cyber security and ai as pillars of trust",
+        "url": "https://www.bis.org/speeches/20261005-digital-banking-resilient-banking-technology-cyber-security-and-ai-pillars-trust",
+        "source": "BIS Central Bankers Speeches, BIS Press Releases",
+        "published_at": "2026-06-18T14:33:45+00:00",
+        "age_days": 108.97,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 61.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 2,
+        "momentum_delta": 3,
+        "baseline_z_hint": 26.06,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "source breadth +2",
+          "momentum delta +3",
+          "baseline z_hint 26.06",
+          "high terms: rce",
+          "security high-signal: rce",
+          "aging penalty -8.0 for 109.0d old signal"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3294",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-05T12:10:58+00:00",
+        "age_days": 0.07,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: angriffe",
+          "security high-signal: angriffe"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Daten zu manipulieren, Denial-of-Service-Zustände herbeizuführen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2430",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-05T11:31:42+00:00",
+        "age_days": 0.09,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: angriffe",
+          "security high-signal: angriffe"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff oder andere, nicht näher spezifizierte Angriffe durchzuführen."
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3648",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-05T10:18:02+00:00",
+        "age_days": 0.15,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: angriffe, code",
+          "security high-signal: angriffe, code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder Cross-Site-Scripting- und Spoofing-Angriffe durchzuführen."
+      },
+      {
+        "title": "[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-05T08:55:47+00:00",
+        "age_days": 0.2,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: citrix",
+          "security high-signal: citrix"
+        ],
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Citrix Systems NetScaler ADC und Gateway ausnutzen, um einen Denial of Service Angriff durchzuführen."
+      }
+    ]
+  }
 }
