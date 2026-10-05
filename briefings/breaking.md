@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-05T17:34:33+00:00_
+_Generiert: 2026-10-05T17:47:41+00:00_
 
 ## From digital banking to resilient banking - technology, cyber security and ai as pillars of trust
 
@@ -19,7 +19,7 @@ _Generiert: 2026-10-05T17:34:33+00:00_
 
 ## Announcing 20260088 (MRO,liquidity providing), for 7 days deadline 09:30
 
-- Ranking Score: `22.79`
+- Ranking Score: `22.68`
 - Raw Network Score: `22.2`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`
