@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T04:01:20+00:00_
+_Generiert: 2026-10-05T04:32:02+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+13 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global

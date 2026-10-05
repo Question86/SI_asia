@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-05T04:01:20+00:00",
+  "generated_at": "2026-10-05T04:32:02+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "new_relevant_findings": 1,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
     "medium": 2,
-    "observe": 10
+    "observe": 11
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -80,141 +80,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a short squeeze?” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=21.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a short squeeze?",
-        "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-05T03:45:31+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 21.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10, breakout",
-          "security high-signal: rce, 10, breakout"
-        ],
-        "summary": "Bitcoin rose 1.81 per cent to US$86,350.24 in 24 hours, slightly outperforming the broader market, which gained 1.45 per cent. The move looks modest on the surface. Underneath, two forces drove the gain. Renewed spot ETF demand and a softer macro backdrop gave the largest cryptocurrency a firmer floor. A short squeeze…"
-      },
-      {
-        "title": "Why Southeast Asia’s AI coding race is moving from models to infrastructure",
-        "url": "https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-05T04:01:22+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "single-source AI hype brake -8.0",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Why Southeast Asia’s AI coding race is moving from models to infrastructure",
-        "url": "https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-05T03:58:37+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 20.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: code, 10",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "For the past three years, much of the AI debate inside Southeast Asia’s engineering teams has centred on a familiar question: which model is best? Founders, CTOs and developers compared GPT-4, Claude, Codex, Cursor and open-weight models on code completion, documentation, debugging and speed. For many startups, the fi…"
-      },
-      {
-        "title": "M 5.3 - central Mid-Atlantic Ridge",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-05T01:35:49.040+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10, 9.9"
-        ],
-        "summary": "Time 2026-10-05 01:18:50 UTC 2026-10-05 01:18:50 UTC at epicenter Location 0.433°S 19.965°W Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 5.3 - central Mid-Atlantic Ridge",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-05T01:45:56+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 16.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
