@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T03:35:58+00:00_
+_Generiert: 2026-10-05T04:01:20+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „Everyone can build with AI now. Almost nobody can see what’s coming“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
+12 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Why Southeast Asia’s AI coding race is moving from models to infrastructure** — Score 23, observation — [Quelle](https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-05T03:58:37+00:00`, fetched `2026-10-05T04:00:46+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder, OpenAI, Southeast Asia, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
+  - Kurz: For the past three years, much of the AI debate inside Southeast Asia’s engineering teams has centred on a familiar question: which model is best? Founders, CTOs and developers compared GPT-4, Claude, Codex, Cursor and open-weight models on code completion, documentation, debugging and speed. For many startups, the first wave of AI developer adoption meant […] The post Why Southeast Asia’s AI coding race is moving f…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Everyone can build with AI now. Almost nobody can see what’s coming** — Score 15, observation — [Quelle](https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-05T01:00:34+00:00`, fetched `2026-10-05T01:03:18+00:00`
@@ -51,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-05 01:18:50 UTC 2026-10-05 01:18:50 UTC at epicenter Location 0.433°S 19.965°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Stop calling Southeast Asia an emerging market in mobile. It is where the behaviour gets invented** — Score 8, observation — [Quelle](https://e27.co/stop-calling-southeast-asia-an-emerging-market-in-mobile-it-is-where-the-behaviour-gets-invented-20261004/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-05T04:00:36+00:00`, fetched `2026-10-05T04:00:46+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
+  - Kurz: In November, ASEAN leaders are scheduled to sign the Digital Economy Framework Agreement (DEFA), the first region-wide pact written specifically for the digital economy. Negotiators closed the text in Manila in May, and ASEAN’s own statement puts the prize at up to US$2 trillion in digital economy value by 2030 if the agreement is implemented […] The post Stop calling Southeast Asia an emerging market in mobile. It…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **A funding round can improve your metrics without improving your company** — Score 6, observation — [Quelle](https://e27.co/a-funding-round-can-improve-your-metrics-without-improving-your-company-20261004/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-05T02:00:14+00:00`, fetched `2026-10-05T02:09:18+00:00`
@@ -60,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)
   - Kurz: The months after a funding round can make a company look dramatically stronger. Revenue rises. The team grows. New markets open. Customer logos multiply. The board deck becomes easier to read because almost every chart is moving in the right direction. But the harder question is not on the dashboard: after the round, what became […] The post A funding round can improve your metrics without improving your company app…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/news/2145512.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-05T01:09:28+00:00`, fetched `2026-10-05T04:00:46+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「AIに読ませるエサとして人間の書いた文章を作って売る」みたいな時給30〜100ドルのアルバイトがあるが、学習に必要な「人間の書いた文章」は大抵読み尽くしたらしい** — Score 5, observation — [Quelle](https://togetter.com/li/2754205)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-05T00:37:16+00:00`, fetched `2026-10-05T03:04:18+00:00`
@@ -68,15 +95,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 威岡公平 @Kouhei_Takeoka 検索したら出てくるんですけど、いま「AIに読ませるエサとして人間の書いた文章を作って売る」みたいなアルバイトあるんですよ、時給30〜100ドルとかで。最近「LLMの性能が天井になる」みたいな議論出てんですけど、理由は簡単で、学習に必要な「人間の書いた文章」はだいたい読み尽くしたらし...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」** — Score 5, observation — [Quelle](https://aikido-community.jp/articles/quiet-business-app-database-access)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-04T23:57:28+00:00`, fetched `2026-10-05T01:03:18+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 9月下旬に相次いだ日本郵便・ヤマト・佐川・セイコーマート・タイムズカー・ニッポンレンタカーの不正アクセスを並べ、被害範囲の境界と発覚のきっかけから共通する攻撃パターンを推測します。攻撃者は先に正常な利用パターンを読み、アプリの正規の経路でデータを読んでいたのではないか。...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
