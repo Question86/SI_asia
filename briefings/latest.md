@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T21:20:16+00:00_
+_Generiert: 2026-10-05T21:33:27+00:00_
 
 ## Kurzlage
 
@@ -41,14 +41,14 @@ _Generiert: 2026-10-05T21:20:16+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Honduras
+- **GDACS: Green flood alert in Nicaragua** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104210)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Nicaragua
 - **GDACS: Green notification for tropical cyclone KOGUMA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001333)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone KOGUMA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Volcano Islands, Japan Region 04/10/2026 11:12 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569426)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Volcano Islands, Japan Region 04/10/2026 11:12 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569326)
   - Quelle: GDACS
   - Zeit: ``
