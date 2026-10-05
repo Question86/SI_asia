@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T15:00:45+00:00",
-  "candidate_count": 1639,
+  "generated_at": "2026-10-05T15:38:48+00:00",
+  "candidate_count": 1641,
   "candidates": [
     {
       "amount_native": 2000000000000.0,
@@ -23140,6 +23140,42 @@
       "snippet": "ed Arab Emirates (+$17 billion) and Qatar (+$12 billion) ( Graph 4.A ). Borrowers in emerging Europe saw an increase of $33 billion. The largest increases were vis-à-vis Türkiye (+$6 billion) and Romania (+$2 billion). Credit to Latin America rose by $31 billion, driven by Brazil (+$11 billion) and Colombia (+$8 billion). The respective year-on-year growth rates conse",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/publications/202601-commentary-ibs-gli"
+    },
+    {
+      "candidate_id": "cand_fbef2830f0758273b618",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20261005-opening-address-key-trends-2026-conference",
+      "observed_at": "2026-10-05T15:38:28+00:00",
+      "currency": "EUR",
+      "amount_native": 5700000000.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "ve seen such years before. When I came to the helm of the NBS in August 2012, I found double-digit inflation and a dinar that had lost 33.2% of its value in just four years, while EUR 5.7 bn had been spent defending it. As much as EUR 5.7 bn had been spent from the NBS FX reserves to defend that exchange rate, and yet the dinar was not defended. One in five loans was",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
+    },
+    {
+      "candidate_id": "cand_28bab7762f0fb8707fd8",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20261005-opening-address-key-trends-2026-conference",
+      "observed_at": "2026-10-05T15:38:28+00:00",
+      "currency": "EUR",
+      "amount_native": 5700000000.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "of the NBS in August 2012, I found double-digit inflation and a dinar that had lost 33.2% of its value in just four years, while EUR 5.7 bn had been spent defending it. As much as EUR 5.7 bn had been spent from the NBS FX reserves to defend that exchange rate, and yet the dinar was not defended. One in five loans was non-performing, and with such a burden it was diffi",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 5000000000.0,
