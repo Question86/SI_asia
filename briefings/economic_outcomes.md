@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-10-05T02:45:48+00:00`
+Generated: `2026-10-05T03:05:16+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -18,6 +18,7 @@ Generated: `2026-10-05T02:45:48+00:00`
 | 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
 | M 5.4 - north of Svalbard | $0 | — | 0 | 0 | dormant |
+| Change fatigue is an organisational design problem, not a resilience problem | $0 | — | 0 | 0 | active |
 | Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性 | $0 | — | 0 | 0 | dormant |
 | BuilderIO/agent-native | $0 | — | 0 | 0 | dormant |
 | OpenAI’s GPT-6 Sol and GPT-6 Luna now available | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-10-05T02:45:48+00:00`
 | WebMCPがアツいので見てほしい \| DevelopersIO | $0 | — | 0 | 0 | dormant |
 | 普通のサイトを見ていただけなのに「ウイルス感染」の表示が閉じられない！ 「サポート詐欺」の画面を閉じる方法 突然親から「ネットを使っていたら変な画面が出て消えないんだけど」と電話がかかってきたら…？ | $0 | — | 0 | 0 | dormant |
 | Why Kyoto, not Tokyo, is Japan’s real deeptech bet | $0 | — | 0 | 0 | dormant |
-| M 6.2 - South Sandwich Islands region | $0 | — | 0 | 0 | dormant |
