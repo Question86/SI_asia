@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T01:46:12+00:00",
+  "generated_at": "2026-10-05T02:10:14+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -3314,6 +3314,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_0cbbb91edf05f6557019",
+      "title": "M 5.3 - central Mid-Atlantic Ridge",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-05T01:45:56+00:00",
+      "last_seen_at": "2026-10-05T02:09:56+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_0e61e527cb9f9b8d5498",
       "title": "M 5.1 - 96 km ESE of Isangel, Vanuatu",
       "event_classes": [
@@ -6170,23 +6187,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_0cbbb91edf05f6557019",
-      "title": "M 5.3 - central Mid-Atlantic Ridge",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-05T01:45:56+00:00",
-      "last_seen_at": "2026-10-05T01:45:56+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -7511,6 +7511,23 @@
       "first_seen_at": "2026-09-07T04:27:21+00:00",
       "last_seen_at": "2026-09-07T12:18:08+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_518b1a562b7f0a28d898",
+      "title": "A funding round can improve your metrics without improving your company",
+      "event_classes": [
+        "funding"
+      ],
+      "capital_channels": [
+        "investment"
+      ],
+      "p10_usd": 1088000.0,
+      "p50_usd": 27200000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-05T02:09:56+00:00",
+      "last_seen_at": "2026-10-05T02:09:56+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_5a8609c38e0d544999d3",
@@ -9226,7 +9243,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T01:03:54+00:00",
-      "last_seen_at": "2026-10-05T01:45:56+00:00",
+      "last_seen_at": "2026-10-05T02:09:56+00:00",
       "status": "active"
     },
     {
@@ -11658,7 +11675,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-19T02:28:57+00:00",
-      "last_seen_at": "2026-10-05T01:45:56+00:00",
+      "last_seen_at": "2026-10-05T02:09:56+00:00",
       "status": "active"
     },
     {
@@ -17609,7 +17626,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T02:26:46+00:00",
-      "last_seen_at": "2026-10-05T01:45:56+00:00",
+      "last_seen_at": "2026-10-05T02:09:56+00:00",
       "status": "active"
     },
     {
@@ -19428,7 +19445,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T01:03:54+00:00",
-      "last_seen_at": "2026-10-05T01:45:56+00:00",
+      "last_seen_at": "2026-10-05T02:09:56+00:00",
       "status": "active"
     },
     {

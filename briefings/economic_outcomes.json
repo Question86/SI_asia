@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T01:46:14+00:00",
+  "generated_at": "2026-10-05T02:10:17+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -665,12 +665,12 @@
     {
       "event_id": "evt_0cbbb91edf05f6557019",
       "title": "M 5.3 - central Mid-Atlantic Ridge",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -4104,6 +4104,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_518b1a562b7f0a28d898",
+      "title": "A funding round can improve your metrics without improving your company",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_519266b8d2b8e470900c",
