@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T04:32:02+00:00_
+_Generiert: 2026-10-05T05:11:00+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+15 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -42,6 +42,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - Kuril Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-05T04:36:07.040+00:00`, fetched `2026-10-05T05:10:29+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-05 04:16:23 UTC 2026-10-05 04:16:23 UTC at epicenter Location 45.953°N 151.868°E Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Change fatigue is an organisational design problem, not a resilience problem** — Score 9, observation — [Quelle](https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-05T03:00:23+00:00`, fetched `2026-10-05T03:04:18+00:00`

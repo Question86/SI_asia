@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-05T04:32:05+00:00_
+_Generiert: 2026-10-05T05:11:03+00:00_
 
 ## Why Southeast Asia’s AI coding race is moving from models to infrastructure
 
