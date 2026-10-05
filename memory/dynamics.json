@@ -1,215 +1,85 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-05T00:43:29Z",
+  "generated_at": "2026-10-05T01:25:17Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 40,
+    "dynamics": 6,
     "bands": {
-      "strong": 8,
-      "watch": 15,
-      "quiet": 17
+      "watch": 3,
+      "quiet": 3
     },
     "bands_after_gate_recheck": {
-      "strong": 8,
-      "watch": 15,
-      "quiet": 17
+      "watch": 3,
+      "quiet": 3
     }
   },
   "top_dynamics": [
     {
-      "title": "何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料",
-      "url": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T23:05:07+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 25.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "これには思わず二度見、いや三度見しました！ Photoshop, Illustrator, Premiere Pro, Lightroom, Acrobat Pro, After Effects, InDesignのAdobeのアプリ7種類をAdobeのコードを一切使用せずに、完全に新しいコードを使用して各アプリの機能を忠実に再現したオープンソースのアプリを紹介します。 しかも、すべてのアプ..."
-    },
-    {
-      "title": "GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.",
-      "url": "https://github.com/egma-ai/jev-code-reviewer",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T03:44:03+00:00",
-      "age_days": 0.87,
+      "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
+      "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-05T01:03:54+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3",
-        "early terms: local",
-        "high terms: code",
+        "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "krass gate: single-source non-official/non-identity signal capped",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
     {
-      "title": "M 5.6 - 80 km S of Banda Aceh, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-03T23:58:14.386+00:00",
-      "age_days": 1.03,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-10-03 23:37:35 UTC 2026-10-03 23:37:35 UTC at epicenter Location 4.822°N 95.243°E Depth 69.73 km (43.33 mi)"
-    },
-    {
-      "title": "M 4.6 - 110 km S of Dampit, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tziz",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-04T13:05:17.040+00:00",
-      "age_days": 0.48,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-04 12:36:47 UTC 2026-10-04 12:36:47 UTC at epicenter Location 9.201°S 112.640°E Depth 52.77 km (32.79 mi)"
-    },
-    {
-      "title": "M 5.0 - 37 km N of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-04T10:31:08.040+00:00",
-      "age_days": 0.59,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-04 10:13:07 UTC 2026-10-04 10:13:07 UTC at epicenter Location 8.270°S 120.453°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.5 - 293 km SSE of Tabiauan, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-03T23:39:45.040+00:00",
-      "age_days": 1.04,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-03 23:14:35 UTC 2026-10-03 23:14:35 UTC at epicenter Location 3.590°N 122.930°E Depth 575.04 km (357.31 mi)"
-    },
-    {
-      "title": "M 4.5 - 293 km SSE of Tabiauan, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-30T02:57:23+00:00",
-      "age_days": 4.91,
+      "title": "株式会社LayerXに入社しました - $shibayu36->blog;",
+      "url": "https://blog.shibayu36.org/entry/2026/10/05/074417",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-30T02:26:46+00:00",
+      "age_days": 35.96,
       "topics": [
         "general"
       ],
-      "dynamics_score": 22.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 14.34,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
+      "baseline_z_hint": 2.8,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3"
+        "momentum delta +3",
+        "baseline z_hint 2.80",
+        "aging penalty -5.2 for 36.0d old signal"
       ],
       "summary": ""
     },
     {
-      "title": "GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.",
-      "url": "https://github.com/egma-ai/jev-code-reviewer",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-26T12:11:15+00:00",
-      "age_days": 8.52,
+      "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
+      "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-05T01:00:34+00:00",
+      "age_days": 0.02,
       "topics": [
-        "ai",
-        "macro"
+        "ai"
       ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 0,
@@ -217,322 +87,25 @@
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "early terms: local",
-        "high terms: code",
+        "high terms: 10",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "Most PRs that are generated by agents today get YOLO merged because its hard for human mind to comprehend when your agent just suddenly shows up with 230 file changes. This is an attempt to reduce the mental burden by classifying each change in a review to P0, P1, P2. Only P0 are shown by default..."
+      "summary": "This week, two numbers came out of the same region within days of each other, and almost nobody put them side by side. On September 3, Singapore’s central bank committed SG$220 million over three years to fintech and AI infrastructure under a fourth-generation innovation scheme. Around the same time, a Tracxn landscap…"
     },
     {
-      "title": "M 5.6 - 80 km S of Banda Aceh, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-01T08:46:46+00:00",
-      "age_days": 33.66,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -4.4 for 33.7d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.6 - 110 km S of Dampit, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tziz",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 108.42,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10",
-        "aging penalty -8.0 for 108.4d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.0 - 37 km N of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-29T08:36:29+00:00",
-      "age_days": 36.67,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.01,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -5.5 for 36.7d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "自然言語で操作し、結果を検証するテストフレームワーク e2e",
-      "url": "https://azukiazusa.dev/blog/e2e-ai-testing/",
+      "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
+      "url": "https://aikido-community.jp/articles/quiet-business-app-database-access",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T01:31:18+00:00",
-      "age_days": 0.97,
+      "published_at": "2026-10-05T01:03:54+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Effect-TS/effect",
-      "url": "https://github.com/Effect-TS/effect",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-10-04T07:18:29+00:00",
-      "age_days": 0.73,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.8 - 32 km SSE of Jurm, Afghanistan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkn",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-04T20:43:07.040+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-04 20:27:25 UTC 2026-10-04 20:27:25 UTC at epicenter Location 36.611°N 71.022°E Depth 248.91 km (154.66 mi)"
-    },
-    {
-      "title": "M 5.0 - 295 km S of Burica, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-04T14:28:42.040+00:00",
-      "age_days": 0.43,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-04 14:06:10 UTC 2026-10-04 14:06:10 UTC at epicenter Location 5.370°N 82.717°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.9 - 21 km NE of Lae, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-04T01:57:32.040+00:00",
-      "age_days": 0.95,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-04 01:38:46 UTC 2026-10-04 01:38:46 UTC at epicenter Location 6.592°S 147.135°E Depth 94.22 km (58.55 mi)"
-    },
-    {
-      "title": "M 4.8 - 32 km SSE of Jurm, Afghanistan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkn",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-04T21:05:01+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.0 - 295 km S of Burica, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-04T15:02:36+00:00",
-      "age_days": 0.4,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.9 - 21 km NE of Lae, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-04T02:29:16+00:00",
-      "age_days": 0.93,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
-      "url": "https://gigazine.net/news/20261004-photon-matrix/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T02:29:16+00:00",
-      "age_days": 0.93,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料",
-      "url": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T23:59:05+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 1,
@@ -545,168 +118,15 @@
       "summary": ""
     },
     {
-      "title": "JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通",
-      "url": "https://zenn.dev/qnighy/articles/json-ambiguity",
+      "title": "株式会社LayerXに入社しました - $shibayu36->blog;",
+      "url": "https://blog.shibayu36.org/entry/2026/10/05/074417",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T22:08:54+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに",
-      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T09:33:59+00:00",
-      "age_days": 0.63,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "最近プロジェクトマネジメントで感じたこと - Qiita",
-      "url": "https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 107.95,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.64,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.4,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.40",
-        "aging penalty -8.0 for 107.9d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
-      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-05T10:46:03+00:00",
-      "age_days": 29.58,
+      "published_at": "2026-10-04T23:13:04+00:00",
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "aging penalty -3.0 for 29.6d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AI に仕事を奪われるのはエンジニアではなくプロダクトマネージャーの方だった",
-      "url": "https://portalshit.net/2026/10/03/ai-is-eating-product-management",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T09:33:59+00:00",
-      "age_days": 0.63,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要",
-      "url": "https://gigazine.net/news/20261004-cloudflare-quick-tunnels/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 107.95,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "early terms: local",
-        "aging penalty -8.0 for 107.9d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
-      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-03T23:32:18+00:00",
-      "age_days": 1.05,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 9.0,
+      "dynamics_score": 2.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -721,145 +141,18 @@
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "米OpenAIで主要モデルのリリースごとに公開する安全性報告書の執筆を統括していたデビッド・ロビンソン氏は10月3日（現地時間）、米The Atlanticに「I Quit OpenAI Because Its Culture Is Broken」（OpenAIの文化が壊れているから辞めた）と題した記事を寄稿し、今週同社を退社したことを明らかにした。 同氏は、AI企業..."
+      "summary": "2026/10/01から株式会社LayerXに入社しました。バクラクでAIエージェント関連の機能開発に携わっていく予定です。 layerx.co.jp bakuraku.jp 3年ほど前から@serimaさんに継続的に声をかけてもらっていて、LayerXへの温度感は少しずつ上がっていました。そこにタイミングが来たため入社を決めました。特に大きな理由は次..."
     },
     {
-      "title": "日経にサイバー攻撃 情報漏洩、不審メール9000件送信 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUD02B5F0S6A001C2000000/",
+      "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
+      "url": "https://aikido-community.jp/articles/quiet-business-app-database-access",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 107.94,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 107.9d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー回答だったので「消費者庁に電話するしかねーな」とつぶやいたら、人間に繋がった",
-      "url": "https://togetter.com/li/2753906",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T13:15:14+00:00",
-      "age_days": 0.48,
+      "published_at": "2026-10-04T23:57:28+00:00",
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "日経にサイバー攻撃 情報漏洩、不審メール9000件送信 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUD02B5F0S6A001C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T08:03:25+00:00",
-      "age_days": 0.69,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "日本経済新聞社は4日、社員が使っていた業務ソフト「マイクロソフト365」のアカウントがサイバー攻撃を受け、なりすましメール約9000件が送信されたと発表した。第三者が不正にログインしたとみられる。送信先のメールアドレスや氏名のほか、一部メールの内容が漏洩したとみられる。日経は個人情報保護委員会に報告し、..."
-    },
-    {
-      "title": "世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」公開。何歳？ 年収は？ モニタは何枚？ AIにどのくらいコードを書かせている？ 趣味は？ など集計結果",
-      "url": "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T22:44:58+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "30年かけて育てた自動耳コピ「WaoN」がiOS/Macアプリに！AI時代にあえて挑む、0倍速でも音が鳴り続ける「わおん」",
-      "url": "https://www.dtmstation.com/archives/80372.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T20:07:50+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AI に仕事を奪われるのはエンジニアではなくプロダクトマネージャーの方だった",
-      "url": "https://portalshit.net/2026/10/03/ai-is-eating-product-management",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-03T13:00:04+00:00",
-      "age_days": 1.49,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
+      "dynamics_score": 0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -870,165 +163,11 @@
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "high terms: 10",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "生成 AI が人間の仕事を奪っていくという話が様々なところでなされている。ソフトウェア開発の現場で AI にジョブセキュリティを脅かされるのはエンジニアやデザイナーなどの作り手の方で、何を・なぜ作るべきか考えるプロダクトマネージャーに関しては AI に置き換えられにくい職業だと思っていた。 しかし実際に勤務先..."
-    },
-    {
-      "title": "JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通",
-      "url": "https://zenn.dev/qnighy/articles/json-ambiguity",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T09:27:45+00:00",
-      "age_days": 0.64,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通 タイトルは「JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通じて明らかにします。..."
-    },
-    {
-      "title": "6年通った博士課程を、退学しました。 --社会人博士を志すあなたに、先に渡しておきたいこと--｜清水 啓太郎 / Keitaro Shimizu",
-      "url": "https://note.com/keitaro_shimizu/n/n1cd34c93e432",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T07:03:47+00:00",
-      "age_days": 0.74,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "6年通った博士課程を、退学しました東京大学の博士課程に、社会人として約6年在籍していました。 その課程を、修了ではなく退学というかたちで終えることにしました。 正直に書きます。悔しいです。悲しいです。 自分で決めたことなのに、いまだに飲み込みきれていない感覚があります。 ただ、6年という時間は、失敗の記..."
-    },
-    {
-      "title": "localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要",
-      "url": "https://gigazine.net/news/20261004-cloudflare-quick-tunnels/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T03:07:44+00:00",
-      "age_days": 0.9,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "PC上で開発中のWebアプリを外部から確認するには、ポート開放やサーバー設定などの手間がかかります。以前レビューした「Cloudflare Tunnel」からさらに手軽になり、アカウント登録不要かつコマンド1つで利用可能でAI向けのJSON出力にも対応した「Cloudflare Quick Tunnels」を実際に使ってみました。 Cloudflare Quick ..."
-    },
-    {
-      "title": "AIでの人員削減は現実的ではないと希望で語る人がいる中、外注はゼロにして社内の人間を20人から4人にした経営者の経験談を語る「築き上げてきたものがAIで完全に崩壊」",
-      "url": "https://togetter.com/li/2753949",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T08:48:45+00:00",
-      "age_days": 0.66,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Yuichiro Minato @MinatoYuichiro 今まで会社経営して築き上げてきたものがAIで完全に崩壊したので、急いで次を探してます。10年かけて量子コンピュータアプリ関連でようやく手がかりをつかんだと思ったら足元から色々崩れ落ちてほんとこの年齢でやり直しきくのか不明すぎて。 2026-10-03 22:49:07 Yuichiro Minato @Min..."
-    },
-    {
-      "title": "「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー回答だったので「消費者庁に電話するしかねーな」とつぶやいたら、人間に繋がった",
-      "url": "https://togetter.com/li/2753906",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T06:58:01+00:00",
-      "age_days": 0.74,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "日本経済新聞 電子版（日経電子版） @nikkei 三井住友銀行、Oliveの電話問い合わせの72%をAIだけで解決 nikkei.com/article/DGXZQO… AIオペレーターは24時間365日稼働。夜間や年末年始も対応可能です。有人対応と同様の応答品質を確保しているといいます。人とAIの役割分担をどう進めてきたのでしょうか。 2026-10-01 16..."
-    },
-    {
-      "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
-      "url": "https://gigazine.net/news/20261004-photon-matrix/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-03T23:12:52+00:00",
-      "age_days": 1.06,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "スキャナーで蚊を検知して手で蚊を叩くよりも速くビームを発射する装置「Photon Matrix」の予約受付が始まりました。 国产PhotonMatrix便携式激光灭蚊设备爆单，海外众筹超250万美元-电子工程专辑 https://www.eet-china.com/news/202605289975.html Chinese-developed laser mosquito killer enters mass production - ..."
+      "summary": "9月下旬に相次いだ日本郵便・ヤマト・佐川・セイコーマート・タイムズカー・ニッポンレンタカーの不正アクセスを並べ、被害範囲の境界と発覚のきっかけから共通する攻撃パターンを推測します。攻撃者は先に正常な利用パターンを読み、アプリの正規の経路でデータを読んでいたのではないか。..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Everyone can build with AI now. Almost nobody can see what’s coming” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.0."
 }
