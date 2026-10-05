@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T06:51:46+00:00",
-  "run_id": "2026-10-05T06:51:46+00:00",
+  "generated_at": "2026-10-05T07:22:43+00:00",
+  "run_id": "2026-10-05T07:22:43+00:00",
   "date": "2026-10-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 24
+      "configured_public_sources_only": 25
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 1,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
     "medium": 4,
-    "observe": 20,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -375,6 +375,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "170b40a995eec0aa2a65"
+      },
+      {
+        "title": "EVs to make up over half of Singapore vehicle sales in 2026, BMI says",
+        "url": "https://e27.co/evs-to-make-up-over-half-of-singapore-vehicle-sales-in-2026-bmi-says-20261005/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-05T07:00:58+00:00",
+        "fetched_at": "2026-10-05T07:22:13+00:00",
+        "summary": "Singapore’s electric vehicle (EV) market is no longer waiting for a breakthrough moment. In 2026, the shift is already visible on the road, in dealerships, and across public car parks where chargers have become a more common part of the urban landscape. But the next stage of growth may be harder than the first. EV […] The post EVs to make up over half of Singapore vehicle sales in 2026, BMI says appeared first on e2…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c250e1c16d037b9ce97d"
       },
       {
         "title": "Warnung vor Angriffen auf Zammad und Citrix NetScaler",
@@ -972,6 +992,26 @@
       "id": "170b40a995eec0aa2a65"
     },
     {
+      "title": "EVs to make up over half of Singapore vehicle sales in 2026, BMI says",
+      "url": "https://e27.co/evs-to-make-up-over-half-of-singapore-vehicle-sales-in-2026-bmi-says-20261005/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-05T07:00:58+00:00",
+      "fetched_at": "2026-10-05T07:22:13+00:00",
+      "summary": "Singapore’s electric vehicle (EV) market is no longer waiting for a breakthrough moment. In 2026, the shift is already visible on the road, in dealerships, and across public car parks where chargers have become a more common part of the urban landscape. But the next stage of growth may be harder than the first. EV […] The post EVs to make up over half of Singapore vehicle sales in 2026, BMI says appeared first on e2…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c250e1c16d037b9ce97d"
+    },
+    {
       "title": "Warnung vor Angriffen auf Zammad und Citrix NetScaler",
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html",
       "source": "heise Security Alerts",
@@ -1221,166 +1261,24 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.8 - 191 km ESE of Sarangani, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-05T06:40:40.040+00:00",
-      "fetched_at": "2026-10-05T06:51:14+00:00",
-      "summary": "Time 2026-10-05 06:14:15 UTC 2026-10-05 06:14:15 UTC at epicenter Location 4.498°N 126.939°E Depth 51.29 km (31.87 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "950c8a64ef7d2de4afec"
-    },
-    {
-      "title": "GROWIにおけるアクセス制限不備の脆弱性",
-      "url": "https://jvn.jp/jp/JVN24352487/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-05T15:00:00+09:00",
-      "fetched_at": "2026-10-05T06:51:14+00:00",
-      "summary": "株式会社GROWIが提供するGROWIには、アクセス制限不備の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2b55d9804bc9a46a9f95"
-    },
-    {
-      "title": "OneByZero raises US$20M Series A to help enterprises move AI from pilots to production",
-      "url": "https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/",
+      "title": "EVs to make up over half of Singapore vehicle sales in 2026, BMI says",
+      "url": "https://e27.co/evs-to-make-up-over-half-of-singapore-vehicle-sales-in-2026-bmi-says-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-05T06:00:45+00:00",
-      "fetched_at": "2026-10-05T06:51:14+00:00",
-      "summary": "For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that experimentation into systems that work inside heavily regulated businesses without breaking compliance, confusing staff or creating new […] The post OneByZero raises…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "012dc9828548cfed4711"
-    },
-    {
-      "title": "Warnung vor Angriffen auf Zammad und Citrix NetScaler",
-      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-05T06:41:00.000+00:00",
-      "fetched_at": "2026-10-05T06:51:14+00:00",
-      "summary": "Bösartige Akteure attackieren aktuell nicht nur Sicherheitslücken in Citrix NetScaler, sondern auch in Zammad. Davor warnt die CISA.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4d9e77cdeda1d672111b"
-    },
-    {
-      "title": "Microsoft schiebt Exchange-Update nach",
-      "url": "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-05T06:26:00.000+00:00",
-      "fetched_at": "2026-10-05T06:51:14+00:00",
-      "summary": "Zum Wochenende hat Microsoft weitere Exchange-Updates nachgelegt. Sie stopfen eine Rechteausweitungslücke.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "28bafea3ba179f29e850"
-    },
-    {
-      "title": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました",
-      "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-05T06:00:00+00:00",
-      "fetched_at": "2026-10-05T06:51:14+00:00",
-      "summary": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました",
+      "published_at": "2026-10-05T07:00:58+00:00",
+      "fetched_at": "2026-10-05T07:22:13+00:00",
+      "summary": "Singapore’s electric vehicle (EV) market is no longer waiting for a breakthrough moment. In 2026, the shift is already visible on the road, in dealerships, and across public car parks where chargers have become a more common part of the urban landscape. But the next stage of growth may be harder than the first. EV […] The post EVs to make up over half of Singapore vehicle sales in 2026, BMI says appeared first on e2…",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d9701c54c1a5ca4777b8"
-    },
-    {
-      "title": "【速報】大和証券に不正アクセス、22万件漏えいか",
-      "url": "https://www.47news.jp/15038299.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-05T04:29:00+00:00",
-      "fetched_at": "2026-10-05T06:51:14+00:00",
-      "summary": "大和証券グループ本社は5日、不正アクセスにより、個人を特定できない情報を含め約22万件の情報が漏えいした可能性があると発表した。",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "721bd4b9b0335264c587"
+      "id": "c250e1c16d037b9ce97d"
     }
   ],
   "source_errors": [],

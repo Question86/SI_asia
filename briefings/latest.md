@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T06:51:46+00:00_
+_Generiert: 2026-10-05T07:22:43+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+25 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,6 +45,10 @@ _Generiert: 2026-10-05T06:51:46+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Nicaragua
+- **GDACS: Green flood alert in Portugal** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104212)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Portugal
 - **GDACS: Green notification for tropical cyclone KOGUMA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001333)
   - Quelle: GDACS
   - Zeit: ``
