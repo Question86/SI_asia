@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T23:59:22+00:00",
+  "generated_at": "2026-10-05T01:04:11+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1118,7 +1118,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T08:46:46+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_488f808bc84348b635cd",
@@ -1186,7 +1186,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T08:36:29+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1eb1983ef98b0e807a3f",
@@ -1203,7 +1203,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T11:56:17+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_23fb8afd580f37b46528",
@@ -1339,7 +1339,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-30T02:57:23+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8791ef1d70e8b95e43a7",
@@ -4059,7 +4059,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-04T15:02:36+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4d28306243ebb97c0b7b",
@@ -4603,7 +4603,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-04T02:29:16+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_78ce348f4b69466e76c5",
@@ -5453,7 +5453,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-04T21:05:01+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c19d70e6de559f08e3bc",
@@ -7969,7 +7969,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T03:44:03+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6b0264822f432b8657b9",
@@ -8411,7 +8411,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ccc81cd853a94a4b2b98",
@@ -9381,6 +9381,23 @@
       "first_seen_at": "2026-09-25T18:01:52+00:00",
       "last_seen_at": "2026-09-25T23:54:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_4ad77e8615dd0464ac5d",
+      "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116000.0,
+      "p50_usd": 11600000.0,
+      "p90_usd": 1160000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-05T01:03:54+00:00",
+      "last_seen_at": "2026-10-05T01:03:54+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_070b081f5eeabbc39c41",
@@ -10809,7 +10826,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T10:46:03+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_bfddd68964286a495eee",
@@ -13257,7 +13274,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T09:33:59+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1154ef324f49cecbf918",
@@ -14451,6 +14468,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_6b11db6b3a5b5690827d",
+      "title": "何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-04T23:59:05+00:00",
+      "last_seen_at": "2026-10-04T23:59:05+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_6db17a52a659563574f1",
       "title": "深刻化する“サイバー蝗害”―Linuxカーネルソースに群がる貪欲で超非効率な「AIイナゴ」たち | gihyo.jp",
       "event_classes": [
@@ -14652,7 +14686,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T07:18:29+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_81874d8f55a883f762df",
@@ -15009,7 +15043,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T01:31:18+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b6fb52cecf38c467c1d5",
@@ -15505,23 +15539,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_6b11db6b3a5b5690827d",
-      "title": "何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-04T23:59:05+00:00",
-      "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_050660578420f6fb8ddb",
       "title": "Why Kyoto, not Tokyo, is Japan’s real deeptech bet",
       "event_classes": [
@@ -15621,7 +15638,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T13:15:14+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5753717b8affe05997a9",
@@ -15842,7 +15859,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T02:29:16+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b01010ae3b5a5885af0b",
@@ -17575,8 +17592,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T02:26:46+00:00",
-      "last_seen_at": "2026-08-31T05:56:06+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-05T01:03:54+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_1d33b2043090d1470a74",
@@ -17661,7 +17678,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_22f46873227d88b36a11",
@@ -17814,7 +17831,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3798464737d06de06243",
@@ -17916,7 +17933,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3bf882e0f0d8589a296b",
@@ -18953,7 +18970,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T22:44:58+00:00",
       "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_981a9fca29c178671b81",
@@ -20195,6 +20212,23 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_c392cb3d624db5b49528",
+      "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-05T01:03:54+00:00",
+      "last_seen_at": "2026-10-05T01:03:54+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
