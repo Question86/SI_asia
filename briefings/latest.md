@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T23:00:58+00:00_
+_Generiert: 2026-10-05T23:21:24+00:00_
 
 ## Kurzlage
 
@@ -41,10 +41,6 @@ _Generiert: 2026-10-05T23:00:58+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Honduras
-- **GDACS: Green flood alert in Nicaragua** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104210)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Nicaragua
 - **GDACS: Green notification for tropical cyclone KOGUMA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001333)
   - Quelle: GDACS
   - Zeit: ``
