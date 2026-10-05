@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T02:09:52+00:00_
+_Generiert: 2026-10-05T02:45:24+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,10 @@ _Generiert: 2026-10-05T02:09:52+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
-- **GDACS: Green flood alert in Malaysia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104207)
+- **GDACS: Green notification for tropical cyclone KOGUMA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001333)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Malaysia
+  - Kurz: Green notification for tropical cyclone KOGUMA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Volcano Islands, Japan Region 04/10/2026 11:12 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569426)
   - Quelle: GDACS
   - Zeit: ``

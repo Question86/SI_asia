@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T02:09:52+00:00",
-  "run_id": "2026-10-05T02:09:52+00:00",
+  "generated_at": "2026-10-05T02:45:24+00:00",
+  "run_id": "2026-10-05T02:45:24+00:00",
   "date": "2026-10-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 6,
     "displayed_findings": 6,
     "high": 0,
@@ -321,29 +321,7 @@
       "id": "edb22c5aaae423f1f55a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "A funding round can improve your metrics without improving your company",
-      "url": "https://e27.co/a-funding-round-can-improve-your-metrics-without-improving-your-company-20261004/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-05T02:00:14+00:00",
-      "fetched_at": "2026-10-05T02:09:18+00:00",
-      "summary": "The months after a funding round can make a company look dramatically stronger. Revenue rises. The team grows. New markets open. Customer logos multiply. The board deck becomes easier to read because almost every chart is moving in the right direction. But the harder question is not on the dashboard: after the round, what became […] The post A funding round can improve your metrics without improving your company app…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "funding"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6e5442e850befefdf097"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
