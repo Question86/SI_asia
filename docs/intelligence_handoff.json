@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-05T07:36:51Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ノア・スミス「AI は大卒の雇用を奪ってない（けどアーティストの仕事は奪ってる）」（2026年10月1日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=32.55.",
+  "generated_at": "2026-10-05T08:06:06Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ノア・スミス「AI は大卒の雇用を奪ってない（けどアーティストの仕事は奪ってる）」（2026年10月1日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=32.21.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -15,26 +15,26 @@
       "url": "https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/",
       "source": "Hatena Bookmark Hotentry IT, Japan Digital Agency News RSS",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 107.84,
+      "age_days": 107.86,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 32.55,
+      "dynamics_score": 32.21,
       "raw_band": "krass",
       "dynamic_band": "krass",
       "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.23,
+      "baseline_z_hint": 7.92,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 8.23",
+        "baseline z_hint 7.92",
         "high terms: 10",
-        "aging penalty -8.0 for 107.8d old signal"
+        "aging penalty -8.0 for 107.9d old signal"
       ],
       "summary": ""
     },
@@ -43,7 +43,7 @@
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-05T06:41:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -69,7 +69,7 @@
       "url": "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-05T06:26:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security",
         "infra"
@@ -95,7 +95,7 @@
       "url": "https://jvn.jp/jp/JVN24352487/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-05T15:00:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -119,7 +119,7 @@
       "url": "https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T02:29:33+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -140,11 +140,36 @@
       "summary": "今日も今日とて，「AI は雇用を奪ってるの？」の果てしない物語のページをめくろう．いくつか面白いネタが出てきてる．まず，Indeed の賃金データが出てるんだけど，これを見ると AI 曝露度が高い仕事をしてる労働者の賃金は，そんなに AI 曝露度が高くない仕事の労働者たちの賃金よりもずっと急速に伸びてる： Source: ..."
     },
     {
+      "title": "M 4.9 - Volcano Islands, Japan region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-05T07:40:32.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-05 07:13:38 UTC 2026-10-05 07:13:38 UTC at epicenter Location 22.849°N 144.044°E Depth 35.00 km (21.75 mi)"
+    },
+    {
       "title": "Why Southeast Asia’s AI coding race is moving from models to infrastructure",
       "url": "https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T04:01:22+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -171,7 +196,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T06:40:40.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -196,7 +221,7 @@
       "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:45:31+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -222,7 +247,7 @@
       "url": "https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:58:37+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -245,11 +270,38 @@
       "summary": "For the past three years, much of the AI debate inside Southeast Asia’s engineering teams has centred on a familiar question: which model is best? Founders, CTOs and developers compared GPT-4, Claude, Codex, Cursor and open-weight models on code completion, documentation, debugging and speed. For many startups, the fi…"
     },
     {
+      "title": "M 4.9 - Volcano Islands, Japan region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-06-19T20:12:42+00:00",
+      "age_days": 107.5,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 4.3,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 4.30",
+        "aging penalty -8.0 for 107.5d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Change fatigue is an organisational design problem, not a resilience problem",
       "url": "https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:04:52+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -267,56 +319,6 @@
         "momentum delta +3"
       ],
       "summary": ""
-    },
-    {
-      "title": "Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a short squeeze?",
-      "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-05T04:01:22+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: breakout"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "GROWIにおけるアクセス制限不備の脆弱性",
-      "url": "https://jvn.jp/jp/JVN24352487/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 37.73,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.15,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -5.9 for 37.7d old signal"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -329,8 +331,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 8,
-      "watch": 3
+      "strong": 9,
+      "watch": 2
     }
   }
 }
