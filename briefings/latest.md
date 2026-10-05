@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T02:45:24+00:00_
+_Generiert: 2026-10-05T03:04:49+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „Everyone can build with AI now. Almost nobody can see what’s coming“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
+8 neue relevante Treffer. Stärkstes Signal: „Everyone can build with AI now. Almost nobody can see what’s coming“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -90,6 +90,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Change fatigue is an organisational design problem, not a resilience problem** — Score 9, observation — [Quelle](https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-05T03:00:23+00:00`, fetched `2026-10-05T03:04:18+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
+  - Kurz: In my work with organisations, I often hear people describe barely adjusting to one restructure before the next one begins. The remark is usually made in passing, which tells you something on its own. Change has become familiar enough that people know how to keep functioning through it, even while they are worn out by […] The post Change fatigue is an organisational design problem, not a resilience problem appeared…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - central Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-05T01:35:49.040+00:00`, fetched `2026-10-05T01:45:22+00:00`
@@ -108,6 +117,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)
   - Kurz: The months after a funding round can make a company look dramatically stronger. Revenue rises. The team grows. New markets open. Customer logos multiply. The board deck becomes easier to read because almost every chart is moving in the right direction. But the harder question is not on the dashboard: after the round, what became […] The post A funding round can improve your metrics without improving your company app…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「AIに読ませるエサとして人間の書いた文章を作って売る」みたいな時給30〜100ドルのアルバイトがあるが、学習に必要な「人間の書いた文章」は大抵読み尽くしたらしい** — Score 5, observation — [Quelle](https://togetter.com/li/2754205)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-05T00:37:16+00:00`, fetched `2026-10-05T03:04:18+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 威岡公平 @Kouhei_Takeoka 検索したら出てくるんですけど、いま「AIに読ませるエサとして人間の書いた文章を作って売る」みたいなアルバイトあるんですよ、時給30〜100ドルとかで。最近「LLMの性能が天井になる」みたいな議論出てんですけど、理由は簡単で、学習に必要な「人間の書いた文章」はだいたい読み尽くしたらし...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」** — Score 5, observation — [Quelle](https://aikido-community.jp/articles/quiet-business-app-database-access)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-04T23:57:28+00:00`, fetched `2026-10-05T01:03:18+00:00`
@@ -116,15 +134,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 9月下旬に相次いだ日本郵便・ヤマト・佐川・セイコーマート・タイムズカー・ニッポンレンタカーの不正アクセスを並べ、被害範囲の境界と発覚のきっかけから共通する攻撃パターンを推測します。攻撃者は先に正常な利用パターンを読み、アプリの正規の経路でデータを読んでいたのではないか。...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **株式会社LayerXに入社しました - $shibayu36->blog;** — Score 5, observation — [Quelle](https://blog.shibayu36.org/entry/2026/10/05/074417)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-04T23:13:04+00:00`, fetched `2026-10-05T01:03:18+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2026/10/01から株式会社LayerXに入社しました。バクラクでAIエージェント関連の機能開発に携わっていく予定です。 layerx.co.jp bakuraku.jp 3年ほど前から@serimaさんに継続的に声をかけてもらっていて、LayerXへの温度感は少しずつ上がっていました。そこにタイミングが来たため入社を決めました。特に大きな理由は次...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T02:45:24+00:00",
-  "run_id": "2026-10-05T02:45:24+00:00",
+  "generated_at": "2026-10-05T03:04:49+00:00",
+  "run_id": "2026-10-05T03:04:49+00:00",
   "date": "2026-10-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 8
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 2,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 1,
-    "observe": 5,
+    "observe": 7,
     "source_errors": 0
   },
   "sections": {
@@ -74,6 +74,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "712130aa81b87322f3a4"
+      },
+      {
+        "title": "Change fatigue is an organisational design problem, not a resilience problem",
+        "url": "https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-05T03:00:23+00:00",
+        "fetched_at": "2026-10-05T03:04:18+00:00",
+        "summary": "In my work with organisations, I often hear people describe barely adjusting to one restructure before the next one begins. The remark is usually made in passing, which tells you something on its own. Change has become familiar enough that people know how to keep functioning through it, even while they are worn out by […] The post Change fatigue is an organisational design problem, not a resilience problem appeared…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Content-Chance"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9c57043aaed8e944683f"
       },
       {
         "title": "M 5.3 - central Mid-Atlantic Ridge",
@@ -131,6 +152,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6e5442e850befefdf097"
+      },
+      {
+        "title": "「AIに読ませるエサとして人間の書いた文章を作って売る」みたいな時給30〜100ドルのアルバイトがあるが、学習に必要な「人間の書いた文章」は大抵読み尽くしたらしい",
+        "url": "https://togetter.com/li/2754205",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-05T00:37:16+00:00",
+        "fetched_at": "2026-10-05T03:04:18+00:00",
+        "summary": "威岡公平 @Kouhei_Takeoka 検索したら出てくるんですけど、いま「AIに読ませるエサとして人間の書いた文章を作って売る」みたいなアルバイトあるんですよ、時給30〜100ドルとかで。最近「LLMの性能が天井になる」みたいな議論出てんですけど、理由は簡単で、学習に必要な「人間の書いた文章」はだいたい読み尽くしたらし...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "36fdbd38cc0c240eb57b"
       },
       {
         "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
@@ -222,6 +264,27 @@
       "id": "712130aa81b87322f3a4"
     },
     {
+      "title": "Change fatigue is an organisational design problem, not a resilience problem",
+      "url": "https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-05T03:00:23+00:00",
+      "fetched_at": "2026-10-05T03:04:18+00:00",
+      "summary": "In my work with organisations, I often hear people describe barely adjusting to one restructure before the next one begins. The remark is usually made in passing, which tells you something on its own. Change has become familiar enough that people know how to keep functioning through it, even while they are worn out by […] The post Change fatigue is an organisational design problem, not a resilience problem appeared…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9c57043aaed8e944683f"
+    },
+    {
       "title": "M 5.3 - central Mid-Atlantic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -279,6 +342,27 @@
       "id": "6e5442e850befefdf097"
     },
     {
+      "title": "「AIに読ませるエサとして人間の書いた文章を作って売る」みたいな時給30〜100ドルのアルバイトがあるが、学習に必要な「人間の書いた文章」は大抵読み尽くしたらしい",
+      "url": "https://togetter.com/li/2754205",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-05T00:37:16+00:00",
+      "fetched_at": "2026-10-05T03:04:18+00:00",
+      "summary": "威岡公平 @Kouhei_Takeoka 検索したら出てくるんですけど、いま「AIに読ませるエサとして人間の書いた文章を作って売る」みたいなアルバイトあるんですよ、時給30〜100ドルとかで。最近「LLMの性能が天井になる」みたいな議論出てんですけど、理由は簡単で、学習に必要な「人間の書いた文章」はだいたい読み尽くしたらし...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "36fdbd38cc0c240eb57b"
+    },
+    {
       "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
       "url": "https://aikido-community.jp/articles/quiet-business-app-database-access",
       "source": "Hatena Bookmark Hotentry IT",
@@ -321,7 +405,50 @@
       "id": "edb22c5aaae423f1f55a"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Change fatigue is an organisational design problem, not a resilience problem",
+      "url": "https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-05T03:00:23+00:00",
+      "fetched_at": "2026-10-05T03:04:18+00:00",
+      "summary": "In my work with organisations, I often hear people describe barely adjusting to one restructure before the next one begins. The remark is usually made in passing, which tells you something on its own. Change has become familiar enough that people know how to keep functioning through it, even while they are worn out by […] The post Change fatigue is an organisational design problem, not a resilience problem appeared…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9c57043aaed8e944683f"
+    },
+    {
+      "title": "「AIに読ませるエサとして人間の書いた文章を作って売る」みたいな時給30〜100ドルのアルバイトがあるが、学習に必要な「人間の書いた文章」は大抵読み尽くしたらしい",
+      "url": "https://togetter.com/li/2754205",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-05T00:37:16+00:00",
+      "fetched_at": "2026-10-05T03:04:18+00:00",
+      "summary": "威岡公平 @Kouhei_Takeoka 検索したら出てくるんですけど、いま「AIに読ませるエサとして人間の書いた文章を作って売る」みたいなアルバイトあるんですよ、時給30〜100ドルとかで。最近「LLMの性能が天井になる」みたいな議論出てんですけど、理由は簡単で、学習に必要な「人間の書いた文章」はだいたい読み尽くしたらし...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "36fdbd38cc0c240eb57b"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
