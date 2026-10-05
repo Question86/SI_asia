@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T13:34:56+00:00_
+_Generiert: 2026-10-05T13:53:27+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+55 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Announcing 20260088 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260088.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-10-05T14:40:22+00:00`, fetched `2026-10-05T13:52:59+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260088 (MRO,liquidity providing), for 7 days deadline 09:30
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Building advertising for the way people use AI** — Score 11, opportunity — [Quelle](https://openai.com/index/new-chatgpt-ads-format-and-measurement)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-10-05T10:00:00+00:00`, fetched `2026-10-05T10:36:36+00:00`
@@ -122,6 +131,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux d'Ubuntu (25 septembre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1229/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-25T00:00:00+00:00`, fetched `2026-10-05T13:52:59+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **0G picks Singapore as global base, expands AI research into badminton** — Score 10, observation — [Quelle](https://e27.co/0g-picks-singapore-as-global-base-expands-ai-research-into-badminton-20261005/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -149,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
   - Kurz: For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that experimentation into systems that work inside heavily regulated businesses without breaking compliance, confusing staff or creating new […] The post OneByZero raises…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Zabbix Agent (24 septembre 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1226/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-24T00:00:00+00:00`, fetched `2026-10-05T13:52:59+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Zabbix Agent. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 21 km S of Luganville, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tznh)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -213,33 +240,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0)
   - Kurz: Remarks by Mr John C Williams, President and Chief Executive Officer of the Federal Reserve Bank of New York, at the University at Buffalo, Buffalo, New York, 29 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Leading the next chapter - Islamic finance as a catalyst for national prosperity** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261005-leading-next-chapter-islamic-finance-catalyst-national-prosperity)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-05T00:00:00+00:00`, fetched `2026-10-05T12:49:02+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: Presentation by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the Financial Institutions' Directors Education (FIDE) Forum “Advancing Islamic finance as part of the national agenda”, Kuala Lumpur, 24 September 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Basel III applicable in almost all member jurisdictions by 2027** — Score 8, observation — [Quelle](https://www.bis.org/media-releases/20261005-basel-iii-applicable-almost-all-member-jurisdictions-2027)
-  - Quelle: BIS Press Releases / `rss`
-  - Zeit: published `2026-10-05T00:00:00+00:00`, fetched `2026-10-05T09:36:14+00:00`
-  - Treffer: Basel, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); Basel (+2.5); recent (+1.0)
-  - Kurz: Three quarters of the Basel Committee’s 27 member jurisdictions have now published regulations implementing the full set of Basel III standards. Almost all member jurisdictions have publicly announced that banks must apply Basel III by April 2027 or earlier. The Committee will continue to closely monitor and assess the full and consistent implementation of Basel III standards.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Accelerating Hong Kong’s bond market development - building a diversified, deep, dynamic and digital-native market** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261005-accelerating-hong-kongs-bond-market-development-building-diversified-deep-dynamic-and-digital-native-market)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-05T00:00:00+00:00`, fetched `2026-10-05T12:49:02+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
-  - Kurz: Welcoming remarks and keynote address by Mr Eddie Yue, Chief Executive of the Hong Kong Monetary Authority, at the Treasury Markets Summit 2026, Hong Kong, 23 September 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 

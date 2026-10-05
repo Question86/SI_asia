@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-05T13:34:56+00:00",
+  "generated_at": "2026-10-05T13:53:27+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 50,
-    "displayed_findings": 50,
+    "new_relevant_findings": 5,
+    "today_file_total": 55,
+    "displayed_findings": 55,
     "high": 0,
     "medium": 12,
-    "observe": 38
+    "observe": 43
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "Announcing 20260088 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-10-05T14:40:22+00:00",
+      "relevance_score": 12,
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260088.en.html",
+      "summary": "Announcing 20260088 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "section": "observe"
+    },
+    {
       "title": "Building advertising for the way people use AI",
       "source": "OpenAI News RSS",
       "source_type": "rss",
@@ -75,23 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "0G picks Singapore as global base, expands AI research into badminton",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (25 septembre 2026)",
+      "source": "CERT-FR Avis de sécurité",
       "source_type": "rss",
-      "published_at": "2026-10-05T11:30:56+00:00",
-      "relevance_score": 10,
-      "url": "https://e27.co/0g-picks-singapore-as-global-base-expands-ai-research-into-badminton-20261005/",
-      "summary": "For most artificial intelligence companies, Singapore is either a regional sales base or a policy-friendly testbed. For Zero Gravity, better known as 0G, the city-state is now becoming something more central: its global headquarters. The AI infrastructure com…",
-      "section": "observe"
-    },
-    {
-      "title": "アマゾン「Audible」、本の登場人物と会話できる新機能を提供へ",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-05T06:43:08+00:00",
-      "relevance_score": 10,
-      "url": "https://japan.cnet.com/article/35253230/",
-      "summary": "Amazon傘下のAudibleは、オーディオブック配信サービス「Audible」の没入感を高めようとしている。同社は米国時間10月1日、本を聴く体験を広げるため、AIを活用した3つの新機能を発表した。これにより、ユーザーは登場人物のガイドを確認し、物語に参加するとともに、聴いている本に登場する都市や名所について詳しく知...",
+      "published_at": "2026-09-25T00:00:00+00:00",
+      "relevance_score": 11,
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1229/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
       "section": "observe"
     }
   ],
@@ -100,144 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “From digital banking to resilient banking - technology, cyber security and ai as pillars of trust” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=61.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "From digital banking to resilient banking - technology, cyber security and ai as pillars of trust",
-        "url": "https://www.bis.org/speeches/20261005-digital-banking-resilient-banking-technology-cyber-security-and-ai-pillars-trust",
-        "source": "BIS Central Bankers Speeches, BIS Press Releases",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 108.97,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 61.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 2,
-        "momentum_delta": 3,
-        "baseline_z_hint": 26.06,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "source breadth +2",
-          "momentum delta +3",
-          "baseline z_hint 26.06",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 109.0d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3294",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-05T12:10:58+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Daten zu manipulieren, Denial-of-Service-Zustände herbeizuführen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2430",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-05T11:31:42+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff oder andere, nicht näher spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3648",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-05T10:18:02+00:00",
-        "age_days": 0.15,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder Cross-Site-Scripting- und Spoofing-Angriffe durchzuführen."
-      },
-      {
-        "title": "[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-05T08:55:47+00:00",
-        "age_days": 0.2,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: citrix",
-          "security high-signal: citrix"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Citrix Systems NetScaler ADC und Gateway ausnutzen, um einen Denial of Service Angriff durchzuführen."
-      }
-    ]
-  }
+  ]
 }
