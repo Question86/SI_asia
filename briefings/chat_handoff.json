@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-05T01:03:52+00:00",
+  "generated_at": "2026-10-05T01:45:53+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "new_relevant_findings": 2,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
     "medium": 1,
-    "observe": 2
+    "observe": 4
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -23,6 +23,26 @@
       "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
       "summary": "This week, two numbers came out of the same region within days of each other, and almost nobody put them side by side. On September 3, Singapore’s central bank committed SG$220 million over three years to fintech and AI infrastructure under a fourth-generatio…",
       "section": "medium"
+    },
+    {
+      "title": "AIエージェントによる通信が1700％増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-04T18:34:21+00:00",
+      "relevance_score": 11,
+      "url": "https://forbesjapan.com/articles/detail/105823",
+      "summary": "AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...",
+      "section": "observe"
+    },
+    {
+      "title": "M 5.3 - central Mid-Atlantic Ridge",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-05T01:35:49.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
+      "summary": "Time 2026-10-05 01:18:50 UTC 2026-10-05 01:18:50 UTC at epicenter Location 0.433°S 19.965°W Depth 10.00 km (6.21 mi)",
+      "section": "observe"
     },
     {
       "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
@@ -50,139 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Everyone can build with AI now. Almost nobody can see what’s coming” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
-        "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-05T01:03:54+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "株式会社LayerXに入社しました - $shibayu36->blog;",
-        "url": "https://blog.shibayu36.org/entry/2026/10/05/074417",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-30T02:26:46+00:00",
-        "age_days": 35.96,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 14.34,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.8,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.80",
-          "aging penalty -5.2 for 36.0d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
-        "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-05T01:00:34+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 12.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: 10",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "This week, two numbers came out of the same region within days of each other, and almost nobody put them side by side. On September 3, Singapore’s central bank committed SG$220 million over three years to fintech and AI infrastructure under a fourth-generation innovation scheme. Around the same time, a Tracxn landscap…"
-      },
-      {
-        "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
-        "url": "https://aikido-community.jp/articles/quiet-business-app-database-access",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-05T01:03:54+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 11.5,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "株式会社LayerXに入社しました - $shibayu36->blog;",
-        "url": "https://blog.shibayu36.org/entry/2026/10/05/074417",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-04T23:13:04+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 2.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: 10",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "2026/10/01から株式会社LayerXに入社しました。バクラクでAIエージェント関連の機能開発に携わっていく予定です。 layerx.co.jp bakuraku.jp 3年ほど前から@serimaさんに継続的に声をかけてもらっていて、LayerXへの温度感は少しずつ上がっていました。そこにタイミングが来たため入社を決めました。特に大きな理由は次..."
-      }
-    ]
-  }
+  ]
 }
