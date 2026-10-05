@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T10:15:52+00:00",
+  "generated_at": "2026-10-05T10:37:41+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -1254,7 +1254,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_18dff45d65b96974d398",
@@ -1904,6 +1904,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_2421f9730e94812bf745",
+      "title": "焼肉きんぐに不正アクセス、1078万人分の情報流出 アプリ登録者ほぼ全員が対象",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_2435f818a57175ba52b4",
@@ -8624,7 +8635,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9ee4a4eefa80fadb5a10",
@@ -10857,7 +10868,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ccc81cd853a94a4b2b98",
