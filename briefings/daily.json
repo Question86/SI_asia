@@ -1,32 +1,7 @@
 {
-  "generated_at": "2026-10-05T10:37:06+00:00",
+  "generated_at": "2026-10-05T10:50:45+00:00",
   "today_file_total": 39,
   "current_clusters": [
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [hoch] Microsoft Exchange Server: Schwachstelle ermöglicht Privilegieneskalation",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3648",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719"
-      ],
-      "finding_count": 3,
-      "max_score": 18,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 27.3,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
     {
       "key": "title:why-southeast-asia-coding-race-moving-models-infrastructure",
       "title": "Why Southeast Asia’s AI coding race is moving from models to infrastructure",
@@ -50,6 +25,31 @@
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[NEU] [hoch] Microsoft Exchange Server: Schwachstelle ermöglicht Privilegieneskalation",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3648",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719"
+      ],
+      "finding_count": 3,
+      "max_score": 18,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 24.3,
+      "hot": true,
+      "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
@@ -191,9 +191,9 @@
       "max_score": 11,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
@@ -459,24 +459,24 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:1078",
-      "title": "焼肉きんぐに不正アクセス、1078万人分の情報流出 アプリ登録者ほぼ全員が対象",
+      "key": "title:evs-make-over-half-singapore-vehicle-sales-2026",
+      "title": "EVs to make up over half of Singapore vehicle sales in 2026, BMI says",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://ascii.jp/elem/000/004/440/4440100/"
+        "https://e27.co/evs-to-make-up-over-half-of-singapore-vehicle-sales-in-2026-bmi-says-20261005/"
       ],
       "finding_count": 1,
-      "max_score": 5,
+      "max_score": 7,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
