@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-05T09:36:45+00:00_
+_Generated: 2026-10-05T09:56:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `35`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-05T09:36:45+00:00_
 - url: https://forbesjapan.com/articles/detail/105823
 - summary: AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...
 
-### 6. OneByZero raises US$20M Series A to help enterprises move AI from pilots to production
+### 6. アマゾン「Audible」、本の登場人物と会話できる新機能を提供へ
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-10-05T06:43:08+00:00`
+- url: https://japan.cnet.com/article/35253230/
+- summary: Amazon傘下のAudibleは、オーディオブック配信サービス「Audible」の没入感を高めようとしている。同社は米国時間10月1日、本を聴く体験を広げるため、AIを活用した3つの新機能を発表した。これにより、ユーザーは登場人物のガイドを確認し、物語に参加するとともに、聴いている本に登場する都市や名所について詳しく知...
+
+### 7. OneByZero raises US$20M Series A to help enterprises move AI from pilots to production
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-05T06:00:45+00:00`
 - url: https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/
 - summary: For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that exper…
 
-### 7. Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy
+### 8. Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy
 - source: ECB Press Releases Speeches Interviews
 - score: `9`
 - published: `2026-10-05T08:00:00+00:00`
 - url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html
 - summary: Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy
-
-### 8. M 5.0 - 71 km E of ‘Ohonua, Tonga
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-05T05:46:50.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme
-- summary: Time 2026-10-05 05:26:44 UTC 2026-10-05 05:26:44 UTC at epicenter Location 21.421°S 174.268°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
