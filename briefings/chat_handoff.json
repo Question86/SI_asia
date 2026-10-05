@@ -70,5 +70,136 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “M 5.3 - central Mid-Atlantic Ridge” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=17.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "M 5.3 - central Mid-Atlantic Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-05T01:35:49.040+00:00",
+        "age_days": 0.07,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 17.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10, 9.9"
+        ],
+        "summary": "Time 2026-10-05 01:18:50 UTC 2026-10-05 01:18:50 UTC at epicenter Location 0.433°S 19.965°W Depth 10.00 km (6.21 mi)"
+      },
+      {
+        "title": "M 5.3 - central Mid-Atlantic Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-05T01:45:56+00:00",
+        "age_days": 0.07,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 16.5,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
+        "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-05T01:03:54+00:00",
+        "age_days": 0.1,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 16.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Change fatigue is an organisational design problem, not a resilience problem",
+        "url": "https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-05T03:04:52+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 15.5,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
+        "url": "https://aikido-community.jp/articles/quiet-business-app-database-access",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-05T01:03:54+00:00",
+        "age_days": 0.1,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 14.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
