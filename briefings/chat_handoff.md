@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-05T05:38:51+00:00_
+_Generated: 2026-10-05T05:58:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `17`
 
 ## Top Signals
 
@@ -29,25 +29,25 @@ _Generated: 2026-10-05T05:38:51+00:00_
 - url: https://forbesjapan.com/articles/detail/105823
 - summary: AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...
 
-### 4. M 4.5 - Kuril Islands
+### 4. M 5.0 - 71 km E of ‘Ohonua, Tonga
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-05T05:46:50.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme
+- summary: Time 2026-10-05 05:26:44 UTC 2026-10-05 05:26:44 UTC at epicenter Location 21.421°S 174.268°W Depth 10.00 km (6.21 mi)
+
+### 5. M 4.5 - Kuril Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-05T04:36:07.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7
 - summary: Time 2026-10-05 04:16:23 UTC 2026-10-05 04:16:23 UTC at epicenter Location 45.953°N 151.868°E Depth 35.00 km (21.75 mi)
 
-### 5. Change fatigue is an organisational design problem, not a resilience problem
+### 6. Change fatigue is an organisational design problem, not a resilience problem
 - source: e27 Asia Startup and Tech Feed
 - score: `9`
 - published: `2026-10-05T03:00:23+00:00`
 - url: https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/
 - summary: In my work with organisations, I often hear people describe barely adjusting to one restructure before the next one begins. The remark is usually made in passing, which tells you something on its own. Change has become familiar enough that people know how to…
-
-### 6. ノア・スミス「AI は大卒の雇用を奪ってない（けどアーティストの仕事は奪ってる）」（2026年10月1日）
-- source: Hatena Bookmark Hotentry IT
-- score: `9`
-- published: `2026-10-05T02:29:33+00:00`
-- url: https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/
-- summary: 今日も今日とて，「AI は雇用を奪ってるの？」の果てしない物語のページをめくろう．いくつか面白いネタが出てきてる．まず，Indeed の賃金データが出てるんだけど，これを見ると AI 曝露度が高い仕事をしてる労働者の賃金は，そんなに AI 曝露度が高くない仕事の労働者たちの賃金よりもずっと急速に伸びてる： Source: ...
 
 END OF DOCUMENT
