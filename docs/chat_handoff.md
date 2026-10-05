@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-05T07:58:35+00:00_
+_Generated: 2026-10-05T08:36:10+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `30`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-05T07:58:35+00:00_
 - url: https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/
 - summary: For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that exper…
 
-### 7. M 5.0 - 71 km E of ‘Ohonua, Tonga
+### 7. Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy
+- source: ECB Press Releases Speeches Interviews
+- score: `9`
+- published: `2026-10-05T08:00:00+00:00`
+- url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html
+- summary: Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy
+
+### 8. M 5.0 - 71 km E of ‘Ohonua, Tonga
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-05T05:46:50.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme
 - summary: Time 2026-10-05 05:26:44 UTC 2026-10-05 05:26:44 UTC at epicenter Location 21.421°S 174.268°W Depth 10.00 km (6.21 mi)
-
-### 8. M 4.5 - Kuril Islands
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-05T04:36:07.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7
-- summary: Time 2026-10-05 04:16:23 UTC 2026-10-05 04:16:23 UTC at epicenter Location 45.953°N 151.868°E Depth 35.00 km (21.75 mi)
 
 END OF DOCUMENT

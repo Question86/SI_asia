@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T07:58:35+00:00_
+_Generiert: 2026-10-05T08:36:10+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+30 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -146,6 +146,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
   - Kurz: For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that experimentation into systems that work inside heavily regulated businesses without breaking compliance, confusing staff or creating new […] The post OneByZero raises…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-10-05T08:00:00+00:00`, fetched `2026-10-05T08:35:36+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 71 km E of ‘Ohonua, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
