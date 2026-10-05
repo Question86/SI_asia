@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T12:49:40+00:00_
+_Generiert: 2026-10-05T13:07:18+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+50 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -21,6 +21,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
   - Kurz: For the past three years, much of the AI debate inside Southeast Asia’s engineering teams has centred on a familiar question: which model is best? Founders, CTOs and developers compared GPT-4, Claude, Codex, Cursor and open-weight models on code completion, documentation, debugging and speed. For many startups, the first wave of AI developer adoption meant […] The post Why Southeast Asia’s AI coding race is moving f…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **From digital banking to resilient banking - technology, cyber security and ai as pillars of trust** — Score 22, observation — [Quelle](https://www.bis.org/speeches/20261005-digital-banking-resilient-banking-technology-cyber-security-and-ai-pillars-trust)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-05T00:00:00+00:00`, fetched `2026-10-05T13:06:47+00:00`
+  - Treffer: AI/KI, banking, Macro/Policy, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Security (+7.5); Macro/Policy (+5.0); banking (+2.5); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
+  - Kurz: Address by Mr Rohit Jain, Deputy Governor of the Reserve Bank of India, at the 13th SBI (State Bank of India) Banking and Economics Conclave, Mumbai, 24 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Payments in the age of AI agents** — Score 21, opportunity — [Quelle](https://www.bis.org/speeches/20261005-payments-age-ai-agents)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-05T00:00:00+00:00`, fetched `2026-10-05T13:06:47+00:00`
+  - Treffer: AI Agents, AI/KI, Macro/Policy, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at Sibos 2026, Miami, Florida, 29 September 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **[NEU] [hoch] Microsoft Exchange Server: Schwachstelle ermöglicht Privilegieneskalation** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-05T08:55:47+00:00`, fetched `2026-10-05T09:00:09+00:00`
@@ -186,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 今日も今日とて，「AI は雇用を奪ってるの？」の果てしない物語のページをめくろう．いくつか面白いネタが出てきてる．まず，Indeed の賃金データが出てるんだけど，これを見ると AI 曝露度が高い仕事をしてる労働者の賃金は，そんなに AI 曝露度が高くない仕事の労働者たちの賃金よりもずっと急速に伸びてる： Source: ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Unwavering dedication** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261005-unwavering-dedication)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-05T00:00:00+00:00`, fetched `2026-10-05T13:06:47+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0)
+  - Kurz: Remarks by Mr John C Williams, President and Chief Executive Officer of the Federal Reserve Bank of New York, at the University at Buffalo, Buffalo, New York, 29 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Leading the next chapter - Islamic finance as a catalyst for national prosperity** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261005-leading-next-chapter-islamic-finance-catalyst-national-prosperity)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-10-05T00:00:00+00:00`, fetched `2026-10-05T12:49:02+00:00`
@@ -213,19 +240,11 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
   - Kurz: Welcoming remarks and keynote address by Mr Eddie Yue, Chief Executive of the Hong Kong Monetary Authority, at the Treasury Markets Summit 2026, Hong Kong, 23 September 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Warnung vor Angriffen auf Zammad und Citrix NetScaler** — Score 7, observation — [Quelle](https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-05T06:41:00.000+00:00`, fetched `2026-10-05T06:51:14+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Bösartige Akteure attackieren aktuell nicht nur Sicherheitslücken in Citrix NetScaler, sondern auch in Zammad. Davor warnt die CISA.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten

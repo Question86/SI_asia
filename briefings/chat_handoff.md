@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-05T12:49:40+00:00_
+_Generated: 2026-10-05T13:07:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `47`
+- findings: `50`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-05T12:49:40+00:00_
 - url: https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/
 - summary: For the past three years, much of the AI debate inside Southeast Asia’s engineering teams has centred on a familiar question: which model is best? Founders, CTOs and developers compared GPT-4, Claude, Codex, Cursor and open-weight models on code completion, d…
 
-### 2. [NEU] [hoch] Microsoft Exchange Server: Schwachstelle ermöglicht Privilegieneskalation
+### 2. From digital banking to resilient banking - technology, cyber security and ai as pillars of trust
+- source: BIS Central Bankers Speeches
+- score: `22`
+- published: `2026-10-05T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20261005-digital-banking-resilient-banking-technology-cyber-security-and-ai-pillars-trust
+- summary: Address by Mr Rohit Jain, Deputy Governor of the Reserve Bank of India, at the 13th SBI (State Bank of India) Banking and Economics Conclave, Mumbai, 24 September 2026.
+
+### 3. Payments in the age of AI agents
+- source: BIS Central Bankers Speeches
+- score: `21`
+- published: `2026-10-05T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20261005-payments-age-ai-agents
+- summary: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at Sibos 2026, Miami, Florida, 29 September 2026.
+
+### 4. [NEU] [hoch] Microsoft Exchange Server: Schwachstelle ermöglicht Privilegieneskalation
 - source: BSI CERT-Bund Security Advisories
 - score: `18`
 - published: `2026-10-05T08:55:47+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Microsoft Exchange Server ausnutzen, um seine Privilegien zu erhöhen, wodurch er Zugriff auf die Postfächer anderer Benutzer innerhalb derselben Organisation erhält und E-Mail-Nachrichten so…
-
-### 3. M 4.9 - Volcano Islands, Japan region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `18`
-- published: `2026-10-05T07:40:32.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt
-- summary: Time 2026-10-05 07:13:38 UTC 2026-10-05 07:13:38 UTC at epicenter Location 22.849°N 144.044°E Depth 35.00 km (21.75 mi)
-
-### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-05T12:10:58+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3294
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Daten zu manipulieren, Denial-of-Service-Zustände herbeizuführen oder andere, nicht näher spezifizierte Angriffe durc…
 
 ### 5. Building advertising for the way people use AI
 - source: OpenAI News RSS

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-05T12:49:40+00:00",
+  "generated_at": "2026-10-05T13:07:18+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 47,
-    "displayed_findings": 47,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 0,
-    "medium": 10,
-    "observe": 37
+    "medium": 12,
+    "observe": 38
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -25,6 +25,26 @@
       "section": "medium"
     },
     {
+      "title": "From digital banking to resilient banking - technology, cyber security and ai as pillars of trust",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-05T00:00:00+00:00",
+      "relevance_score": 22,
+      "url": "https://www.bis.org/speeches/20261005-digital-banking-resilient-banking-technology-cyber-security-and-ai-pillars-trust",
+      "summary": "Address by Mr Rohit Jain, Deputy Governor of the Reserve Bank of India, at the 13th SBI (State Bank of India) Banking and Economics Conclave, Mumbai, 24 September 2026.",
+      "section": "medium"
+    },
+    {
+      "title": "Payments in the age of AI agents",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-05T00:00:00+00:00",
+      "relevance_score": 21,
+      "url": "https://www.bis.org/speeches/20261005-payments-age-ai-agents",
+      "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at Sibos 2026, Miami, Florida, 29 September 2026.",
+      "section": "medium"
+    },
+    {
       "title": "[NEU] [hoch] Microsoft Exchange Server: Schwachstelle ermöglicht Privilegieneskalation",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
@@ -32,26 +52,6 @@
       "relevance_score": 18,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718",
       "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Microsoft Exchange Server ausnutzen, um seine Privilegien zu erhöhen, wodurch er Zugriff auf die Postfächer anderer Benutzer innerhalb derselben Organisation erhält und E-Mail-Nachrichten so…",
-      "section": "medium"
-    },
-    {
-      "title": "M 4.9 - Volcano Islands, Japan region",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-05T07:40:32.040+00:00",
-      "relevance_score": 18,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt",
-      "summary": "Time 2026-10-05 07:13:38 UTC 2026-10-05 07:13:38 UTC at epicenter Location 22.849°N 144.044°E Depth 35.00 km (21.75 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-05T12:10:58+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3294",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Daten zu manipulieren, Denial-of-Service-Zustände herbeizuführen oder andere, nicht näher spezifizierte Angriffe durc…",
       "section": "medium"
     },
     {
@@ -100,143 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Leading the next chapter - Islamic finance as a catalyst for national prosperity” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=54.5.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Leading the next chapter - Islamic finance as a catalyst for national prosperity",
-        "url": "https://www.bis.org/speeches/20261005-leading-next-chapter-islamic-finance-catalyst-national-prosperity",
-        "source": "BIS Central Bankers Speeches, BIS Press Releases",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 108.93,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 54.5,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 2,
-        "momentum_delta": 3,
-        "baseline_z_hint": 16.83,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "source breadth +2",
-          "momentum delta +3",
-          "baseline z_hint 16.83",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 108.9d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3294",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-05T12:10:58+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Daten zu manipulieren, Denial-of-Service-Zustände herbeizuführen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2430",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-05T11:31:42+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff oder andere, nicht näher spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3648",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-05T10:18:02+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder Cross-Site-Scripting- und Spoofing-Angriffe durchzuführen."
-      },
-      {
-        "title": "[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-05T08:55:47+00:00",
-        "age_days": 0.17,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: citrix",
-          "security high-signal: citrix"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Citrix Systems NetScaler ADC und Gateway ausnutzen, um einen Denial of Service Angriff durchzuführen."
-      }
-    ]
-  }
+  ]
 }
