@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-05T22:51:05Z",
+  "generated_at": "2026-10-05T23:14:10Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 4,
-      "krass": 5,
-      "strong": 19,
-      "watch": 12
+      "krass": 6,
+      "strong": 20,
+      "watch": 10
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 27,
-      "watch": 12
+      "strong": 29,
+      "watch": 10
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T08:55:47+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 38.36,
+      "age_days": 38.38,
       "topics": [
         "security",
         "infra"
@@ -77,7 +77,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T08:55:47+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "ai",
         "security",
@@ -105,7 +105,7 @@
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-05T06:41:00.000+00:00",
-      "age_days": 0.67,
+      "age_days": 0.69,
       "topics": [
         "ai",
         "security"
@@ -131,7 +131,7 @@
       "url": "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-05T06:26:00.000+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "security",
         "infra"
@@ -157,7 +157,7 @@
       "url": "https://jvn.jp/jp/JVN24352487/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-05T15:00:00+09:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [
         "security"
       ],
@@ -181,7 +181,7 @@
       "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-10-05T15:59:40+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -207,7 +207,7 @@
       "url": "https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T02:29:33+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "ai"
       ],
@@ -232,7 +232,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T07:40:32.040+00:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "disaster"
       ],
@@ -257,7 +257,7 @@
       "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-05T10:00:43+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -279,11 +279,35 @@
       "summary": "AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models."
     },
     {
+      "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-05T22:42:14+00:00",
+      "age_days": 0.02,
+      "topics": [],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one… The post Secret scanning adds detectors for Lovable, Supabase, and more appeared first on The GitHub Blog ."
+    },
+    {
       "title": "From digital banking to resilient banking - technology, cyber security and ai as pillars of trust",
       "url": "https://www.bis.org/speeches/20261005-digital-banking-resilient-banking-technology-cyber-security-and-ai-pillars-trust",
       "source": "BIS Central Bankers Speeches, BIS Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 109.35,
+      "age_days": 109.36,
       "topics": [
         "ai",
         "security"
@@ -295,16 +319,16 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.32,
+      "baseline_z_hint": 0.18,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 0.32",
+        "baseline z_hint 0.18",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 109.3d old signal",
+        "aging penalty -8.0 for 109.4d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -314,7 +338,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260088.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 109.35,
+      "age_days": 109.36,
       "topics": [
         "general"
       ],
@@ -325,16 +349,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.27,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 0.27",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 109.3d old signal",
+        "aging penalty -8.0 for 109.4d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -344,7 +367,7 @@
       "url": "https://www.bis.org/speeches/20261005-opening-address-key-trends-2026-conference",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-05T00:00:00+00:00",
-      "age_days": 0.95,
+      "age_days": 0.97,
       "topics": [
         "macro"
       ],
@@ -372,7 +395,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3294",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T12:10:58+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -398,7 +421,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2430",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T11:31:42+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -424,7 +447,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3648",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T10:18:02+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -450,7 +473,7 @@
       "url": "https://weekly.ascii.jp/elem/000/004/439/4439882/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T08:05:24+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "ai",
         "security"
@@ -477,7 +500,7 @@
       "url": "https://www.bis.org/speeches/20261005-payments-age-ai-agents",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-05T00:00:00+00:00",
-      "age_days": 0.95,
+      "age_days": 0.97,
       "topics": [
         "ai",
         "macro"
@@ -501,11 +524,36 @@
       "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at Sibos 2026, Miami, Florida, 29 September 2026."
     },
     {
+      "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-05T22:53:37+00:00",
+      "age_days": 0.01,
+      "topics": [],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Why Southeast Asia’s AI coding race is moving from models to infrastructure",
       "url": "https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T04:01:22+00:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "ai"
       ],
@@ -532,7 +580,7 @@
       "url": "https://www.bis.org/speeches/20261005-digital-banking-resilient-banking-technology-cyber-security-and-ai-pillars-trust",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-05T00:00:00+00:00",
-      "age_days": 0.95,
+      "age_days": 0.97,
       "topics": [
         "ai",
         "security",
@@ -560,7 +608,7 @@
       "url": "https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/",
       "source": "Hatena Bookmark Hotentry IT, Japan Digital Agency News RSS",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 108.47,
+      "age_days": 108.49,
       "topics": [
         "ai"
       ],
@@ -587,7 +635,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tznu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T14:11:56.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -612,7 +660,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T06:40:40.040+00:00",
-      "age_days": 0.67,
+      "age_days": 0.69,
       "topics": [
         "disaster"
       ],
@@ -637,7 +685,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzpq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T17:56:31+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -662,7 +710,7 @@
       "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:45:31+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "ai",
         "macro"
@@ -688,7 +736,7 @@
       "url": "https://www.bis.org/speeches/20261005-accelerating-hong-kongs-bond-market-development-building-diversified-deep-dynamic-and-digital-native-market",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-05T00:00:00+00:00",
-      "age_days": 0.95,
+      "age_days": 0.97,
       "topics": [
         "macro"
       ],
@@ -714,7 +762,7 @@
       "url": "https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:58:37+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "ai",
         "macro"
@@ -741,7 +789,7 @@
       "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 110.09,
+      "age_days": 110.1,
       "topics": [
         "ai"
       ],
@@ -752,12 +800,12 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.32,
+      "baseline_z_hint": 0.18,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.32",
+        "baseline z_hint 0.18",
         "AXI0M/User-Yps identity hit",
         "aging penalty -8.0 for 110.1d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit",
@@ -770,7 +818,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1229/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-17T12:58:59+00:00",
-      "age_days": 18.41,
+      "age_days": 18.43,
       "topics": [
         "general"
       ],
@@ -795,7 +843,7 @@
       "url": "https://ascii.jp/elem/000/004/440/4440100/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T10:37:06+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "general"
       ],
@@ -820,7 +868,7 @@
       "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-05T10:00:00+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -846,7 +894,7 @@
       "url": "https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:04:52+00:00",
-      "age_days": 0.82,
+      "age_days": 0.84,
       "topics": [
         "general"
       ],
@@ -870,7 +918,7 @@
       "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T04:01:22+00:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "general"
       ],
@@ -895,7 +943,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-19T20:12:42+00:00",
-      "age_days": 108.11,
+      "age_days": 108.13,
       "topics": [
         "disaster"
       ],
@@ -920,7 +968,7 @@
       "url": "https://e27.co/stop-calling-southeast-asia-an-emerging-market-in-mobile-it-is-where-the-behaviour-gets-invented-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T04:01:22+00:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "macro"
       ],
@@ -944,7 +992,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1228/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-05T13:53:29+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -968,7 +1016,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1227/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-05T13:53:29+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -992,7 +1040,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzsc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T20:44:56.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -1011,56 +1059,6 @@
         "high terms: 10, 9.8"
       ],
       "summary": "Time 2026-10-05 20:22:59 UTC 2026-10-05 20:22:59 UTC at epicenter Location 24.424°S 179.811°E Depth 518.64 km (322.27 mi)"
-    },
-    {
-      "title": "M 4.7 - 105 km WNW of Höfn, Iceland",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzpq",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-05T17:54:05.040+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-05 17:28:24 UTC 2026-10-05 17:28:24 UTC at epicenter Location 64.509°N 17.312°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.6 - 21 km S of Luganville, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tznh",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-05T12:12:42.040+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-05 11:47:07 UTC 2026-10-05 11:47:07 UTC at epicenter Location 15.716°S 167.148°E Depth 35.00 km (21.75 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Denial of Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."

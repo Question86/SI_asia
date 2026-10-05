@@ -100,5 +100,149 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “From digital banking to resilient banking - technology, cyber security and ai as pillars of trust” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=50.2.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "From digital banking to resilient banking - technology, cyber security and ai as pillars of trust",
+        "url": "https://www.bis.org/speeches/20261005-digital-banking-resilient-banking-technology-cyber-security-and-ai-pillars-trust",
+        "source": "BIS Central Bankers Speeches, BIS Press Releases",
+        "published_at": "2026-06-18T14:33:45+00:00",
+        "age_days": 109.36,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 50.2,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 2,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.18,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "source breadth +2",
+          "momentum delta +3",
+          "baseline z_hint 0.18",
+          "high terms: rce",
+          "security high-signal: rce",
+          "aging penalty -8.0 for 109.4d old signal"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Announcing 20260088 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260088.en.html",
+        "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
+        "published_at": "2026-06-18T14:33:45+00:00",
+        "age_days": 109.36,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 40.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 2,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "source breadth +2",
+          "momentum delta +3",
+          "high terms: rce",
+          "security high-signal: rce",
+          "aging penalty -8.0 for 109.4d old signal"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Opening address - “Key trends 2026” conference",
+        "url": "https://www.bis.org/speeches/20261005-opening-address-key-trends-2026-conference",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-05T00:00:00+00:00",
+        "age_days": 0.97,
+        "topics": [
+          "axiom",
+          "macro"
+        ],
+        "dynamics_score": 35.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce, 10",
+          "security high-signal: rce, 10",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Opening address by Dr Jorgovanka Tabaković, Governor of the National Bank of Serbia, at the “Key trends 2026” conference, organised by the Association of Serbian Banks, Chamber of Commerce and Industry of Serbia and Association of Serbian Insurers, Zlatibor, 28 September 2026."
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3294",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-05T12:10:58+00:00",
+        "age_days": 0.46,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: angriffe",
+          "security high-signal: angriffe"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Daten zu manipulieren, Denial-of-Service-Zustände herbeizuführen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2430",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-05T11:31:42+00:00",
+        "age_days": 0.49,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: angriffe",
+          "security high-signal: angriffe"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff oder andere, nicht näher spezifizierte Angriffe durchzuführen."
+      }
+    ]
+  }
 }
