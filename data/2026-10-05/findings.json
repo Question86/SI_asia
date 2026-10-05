@@ -48,6 +48,31 @@
     "id": "37e71f2b0640e42f5051"
   },
   {
+    "title": "[NEU] [hoch] Microsoft Exchange Server: Schwachstelle ermöglicht Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-05T08:55:47+00:00",
+    "fetched_at": "2026-10-05T09:00:09+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Microsoft Exchange Server ausnutzen, um seine Privilegien zu erhöhen, wodurch er Zugriff auf die Postfächer anderer Benutzer innerhalb derselben Organisation erhält und E-Mail-Nachrichten sowie Anhänge lesen kann.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Exchange",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); Exchange (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b43e350f6d5d91b04d0a"
+  },
+  {
     "title": "M 4.9 - Volcano Islands, Japan region",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -176,6 +201,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2b55d9804bc9a46a9f95"
+  },
+  {
+    "title": "[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-05T08:55:47+00:00",
+    "fetched_at": "2026-10-05T09:00:09+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Citrix Systems NetScaler ADC und Gateway ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "35d46ab693cb37978919"
   },
   {
     "title": "AIエージェントによる通信が1700％増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-05T08:36:10+00:00",
+  "generated_at": "2026-10-05T09:00:52+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-10-05T03:58:37+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/"
+      },
+      {
+        "title": "[NEU] [hoch] Microsoft Exchange Server: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-05T08:55:47+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718"
       },
       {
         "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
@@ -66,13 +73,80 @@
         "published_at": "2026-10-04T23:57:28+00:00",
         "relevance_score": 5,
         "url": "https://aikido-community.jp/articles/quiet-business-app-database-access"
+      }
+    ],
+    "security": [
+      {
+        "title": "[NEU] [hoch] Microsoft Exchange Server: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-05T08:55:47+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718"
       },
       {
-        "title": "株式会社LayerXに入社しました - $shibayu36->blog;",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-04T23:13:04+00:00",
-        "relevance_score": 5,
-        "url": "https://blog.shibayu36.org/entry/2026/10/05/074417"
+        "title": "GROWIにおけるアクセス制限不備の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-05T15:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN24352487/"
+      },
+      {
+        "title": "[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-05T08:55:47+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719"
+      },
+      {
+        "title": "Warnung vor Angriffen auf Zammad und Citrix NetScaler",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-05T06:41:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html"
+      },
+      {
+        "title": "Microsoft schiebt Exchange-Update nach",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-05T06:26:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Microsoft Exchange Server: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-05T08:55:47+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718"
+      },
+      {
+        "title": "[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-05T08:55:47+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719"
+      },
+      {
+        "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-10-05T08:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html"
+      },
+      {
+        "title": "Warnung vor Angriffen auf Zammad und Citrix NetScaler",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-05T06:41:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html"
+      },
+      {
+        "title": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-10-05T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age"
       }
     ],
     "general": [
@@ -198,52 +272,6 @@
         "published_at": "2026-10-05T03:45:31+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/"
-      }
-    ],
-    "security": [
-      {
-        "title": "GROWIにおけるアクセス制限不備の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-05T15:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN24352487/"
-      },
-      {
-        "title": "Warnung vor Angriffen auf Zammad und Citrix NetScaler",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-05T06:41:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html"
-      },
-      {
-        "title": "Microsoft schiebt Exchange-Update nach",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-05T06:26:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-10-05T08:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html"
-      },
-      {
-        "title": "Warnung vor Angriffen auf Zammad und Citrix NetScaler",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-05T06:41:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html"
-      },
-      {
-        "title": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-10-05T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age"
       }
     ]
   }
