@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-10-05T14:59:45+00:00_
+_Generiert: 2026-10-05T15:38:03+00:00_
 
 ## From digital banking to resilient banking - technology, cyber security and ai as pillars of trust
 
-- Ranking Score: `35.5`
-- Raw Network Score: `42.7`
+- Ranking Score: `38.0`
+- Raw Network Score: `47.8`
 - Max Monitor Score: `22`
 - Reichweite: `institutional` / `5.0`
 - Early Signal: `nein`
@@ -13,13 +13,13 @@ _Generiert: 2026-10-05T14:59:45+00:00_
 - Quellen: BIS Central Bankers Speeches, BIS Press Releases
 - Klassen: central_bank, tier3_specialist
 - Cross-source bestaetigt: ja
-- Momentum: stable (+0)
+- Momentum: increasing (+1)
 - Erste Quelle: https://www.bis.org/speeches/20261005-digital-banking-resilient-banking-technology-cyber-security-and-ai-pillars-trust
 - Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 
 ## Announcing 20260088 (MRO,liquidity providing), for 7 days deadline 09:30
 
-- Ranking Score: `22.16`
+- Ranking Score: `22.23`
 - Raw Network Score: `22.2`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`
