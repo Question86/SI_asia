@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-10-05T11:22:25+00:00",
-  "today_file_total": 39,
+  "generated_at": "2026-10-05T11:35:57+00:00",
+  "today_file_total": 41,
   "current_clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[NEU] [hoch] Microsoft Exchange Server: Schwachstelle ermöglicht Privilegieneskalation",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2430",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3648",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719"
+      ],
+      "finding_count": 4,
+      "max_score": 18,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 29.4,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
     {
       "key": "title:why-southeast-asia-coding-race-moving-models-infrastructure",
       "title": "Why Southeast Asia’s AI coding race is moving from models to infrastructure",
@@ -25,31 +51,6 @@
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [hoch] Microsoft Exchange Server: Schwachstelle ermöglicht Privilegieneskalation",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3718",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3648",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719"
-      ],
-      "finding_count": 3,
-      "max_score": 18,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 24.3,
-      "hot": true,
-      "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
@@ -174,6 +175,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:picks-singapore-global-base-expands-research-badminton",
+      "title": "0G picks Singapore as global base, expands AI research into badminton",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/0g-picks-singapore-as-global-base-expands-ai-research-into-badminton-20261005/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "domain:openai.com",
@@ -454,29 +478,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:evs-make-over-half-singapore-vehicle-sales-2026",
-      "title": "EVs to make up over half of Singapore vehicle sales in 2026, BMI says",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/evs-to-make-up-over-half-of-singapore-vehicle-sales-in-2026-bmi-says-20261005/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

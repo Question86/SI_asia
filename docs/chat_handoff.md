@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-05T11:22:22+00:00_
+_Generated: 2026-10-05T11:35:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `41`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-05T11:22:22+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt
 - summary: Time 2026-10-05 07:13:38 UTC 2026-10-05 07:13:38 UTC at epicenter Location 22.849°N 144.044°E Depth 35.00 km (21.75 mi)
 
-### 4. M 4.8 - 191 km ESE of Sarangani, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-05T06:40:40.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk
-- summary: Time 2026-10-05 06:14:15 UTC 2026-10-05 06:14:15 UTC at epicenter Location 4.498°N 126.939°E Depth 51.29 km (31.87 mi)
+### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-05T11:31:42+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2430
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff oder andere, nicht näher spezifizierte Angriffe durchzuführen.
 
 ### 5. Building advertising for the way people use AI
 - source: OpenAI News RSS
@@ -50,18 +50,18 @@ _Generated: 2026-10-05T11:22:22+00:00_
 - url: https://forbesjapan.com/articles/detail/105823
 - summary: AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...
 
-### 7. アマゾン「Audible」、本の登場人物と会話できる新機能を提供へ
+### 7. 0G picks Singapore as global base, expands AI research into badminton
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-10-05T11:30:56+00:00`
+- url: https://e27.co/0g-picks-singapore-as-global-base-expands-ai-research-into-badminton-20261005/
+- summary: For most artificial intelligence companies, Singapore is either a regional sales base or a policy-friendly testbed. For Zero Gravity, better known as 0G, the city-state is now becoming something more central: its global headquarters. The AI infrastructure com…
+
+### 8. アマゾン「Audible」、本の登場人物と会話できる新機能を提供へ
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-10-05T06:43:08+00:00`
 - url: https://japan.cnet.com/article/35253230/
 - summary: Amazon傘下のAudibleは、オーディオブック配信サービス「Audible」の没入感を高めようとしている。同社は米国時間10月1日、本を聴く体験を広げるため、AIを活用した3つの新機能を発表した。これにより、ユーザーは登場人物のガイドを確認し、物語に参加するとともに、聴いている本に登場する都市や名所について詳しく知...
-
-### 8. OneByZero raises US$20M Series A to help enterprises move AI from pilots to production
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-10-05T06:00:45+00:00`
-- url: https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/
-- summary: For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that exper…
 
 END OF DOCUMENT
