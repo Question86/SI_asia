@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T01:04:11+00:00",
+  "generated_at": "2026-10-05T01:46:12+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -6170,6 +6170,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_0cbbb91edf05f6557019",
+      "title": "M 5.3 - central Mid-Atlantic Ridge",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-05T01:45:56+00:00",
+      "last_seen_at": "2026-10-05T01:45:56+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -9196,6 +9213,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4ad77e8615dd0464ac5d",
+      "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116000.0,
+      "p50_usd": 11600000.0,
+      "p90_usd": 1160000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-05T01:03:54+00:00",
+      "last_seen_at": "2026-10-05T01:45:56+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_4e11f1957135cfe1738b",
       "title": "AI, quantum computing and the future of cyber threats",
       "event_classes": [
@@ -9381,23 +9415,6 @@
       "first_seen_at": "2026-09-25T18:01:52+00:00",
       "last_seen_at": "2026-09-25T23:54:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_4ad77e8615dd0464ac5d",
-      "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 116000.0,
-      "p50_usd": 11600000.0,
-      "p90_usd": 1160000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-05T01:03:54+00:00",
-      "last_seen_at": "2026-10-05T01:03:54+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_070b081f5eeabbc39c41",
@@ -11641,8 +11658,8 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-19T02:28:57+00:00",
-      "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-05T01:45:56+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_99397910c1bd5bbe64ac",
@@ -17592,7 +17609,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T02:26:46+00:00",
-      "last_seen_at": "2026-10-05T01:03:54+00:00",
+      "last_seen_at": "2026-10-05T01:45:56+00:00",
       "status": "active"
     },
     {
@@ -19398,6 +19415,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c392cb3d624db5b49528",
+      "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-05T01:03:54+00:00",
+      "last_seen_at": "2026-10-05T01:45:56+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_c45b057fdf8f516f5e77",
       "title": "jsonize で JSON を Unix パイプラインの共通言語にする",
       "event_classes": [
@@ -20212,23 +20246,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_c392cb3d624db5b49528",
-      "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-05T01:03:54+00:00",
-      "last_seen_at": "2026-10-05T01:03:54+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
