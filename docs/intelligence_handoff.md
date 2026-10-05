@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-05T22:41:57Z_
+_Generated: 2026-10-05T22:51:05Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Citrix NetScaler ADC und Ga
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-10-05T08:55:47+00:00` / age_days `0.57`
+- Published: `2026-10-05T08:55:47+00:00` / age_days `0.58`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: citrix, security high-signal: citrix
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Citrix NetScaler ADC und Ga
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-05T15:59:40+00:00` / age_days `0.28`
+- Published: `2026-10-05T15:59:40+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Citrix NetScaler ADC und Ga
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-05T02:29:33+00:00` / age_days `0.84`
+- Published: `2026-10-05T02:29:33+00:00` / age_days `0.85`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
@@ -52,20 +52,20 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Citrix NetScaler ADC und Ga
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `109.34`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `109.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: source breadth +2, momentum delta +3, baseline z_hint 0.09, high terms: rce, security high-signal: rce, aging penalty -8.0 for 109.3d old signal, extreme gate recheck: insufficient independent/current evidence
+- Warum: source breadth +2, momentum delta +3, baseline z_hint 0.32, high terms: rce, security high-signal: rce, aging penalty -8.0 for 109.3d old signal, extreme gate recheck: insufficient independent/current evidence
 - Quelle: https://www.bis.org/speeches/20261005-digital-banking-resilient-banking-technology-cyber-security-and-ai-pillars-trust
 
 ### Announcing 20260088 (MRO,liquidity providing), for 7 days deadline 09:30
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `109.34`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `109.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: source breadth +2, momentum delta +3, baseline z_hint 0.64, high terms: rce, security high-signal: rce, aging penalty -8.0 for 109.3d old signal, extreme gate recheck: insufficient independent/current evidence
+- Warum: source breadth +2, momentum delta +3, baseline z_hint 0.27, high terms: rce, security high-signal: rce, aging penalty -8.0 for 109.3d old signal, extreme gate recheck: insufficient independent/current evidence
 - Quelle: http://www.ecb.europa.eu/mopo/implement/omo/html/20260088.en.html
 
 ### Opening address - “Key trends 2026” conference
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Citrix NetScaler ADC und Ga
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-05T08:05:24+00:00` / age_days `0.61`
+- Published: `2026-10-05T08:05:24+00:00` / age_days `0.62`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase

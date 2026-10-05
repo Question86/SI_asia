@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-05T22:41:57Z",
+  "generated_at": "2026-10-05T22:51:05Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Denial of Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T08:55:47+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "security"
       ],
@@ -64,7 +64,7 @@
       "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-10-05T15:59:40+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -90,7 +90,7 @@
       "url": "https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T02:29:33+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -115,7 +115,7 @@
       "url": "https://www.bis.org/speeches/20261005-digital-banking-resilient-banking-technology-cyber-security-and-ai-pillars-trust",
       "source": "BIS Central Bankers Speeches, BIS Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 109.34,
+      "age_days": 109.35,
       "topics": [
         "ai",
         "security"
@@ -127,13 +127,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.09,
+      "baseline_z_hint": 0.32,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 0.09",
+        "baseline z_hint 0.32",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 109.3d old signal",
@@ -146,7 +146,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260088.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 109.34,
+      "age_days": 109.35,
       "topics": [
         "general"
       ],
@@ -157,13 +157,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.64,
+      "baseline_z_hint": 0.27,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 0.64",
+        "baseline z_hint 0.27",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 109.3d old signal",
@@ -282,7 +282,7 @@
       "url": "https://weekly.ascii.jp/elem/000/004/439/4439882/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T08:05:24+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "ai",
         "security"
