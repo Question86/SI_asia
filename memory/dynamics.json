@@ -1,54 +1,211 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-05T05:08:04Z",
+  "generated_at": "2026-10-05T07:36:51Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 26,
+    "dynamics": 40,
     "bands": {
-      "strong": 3,
-      "watch": 12,
-      "quiet": 11
+      "krass": 1,
+      "strong": 8,
+      "watch": 22,
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
-      "strong": 3,
-      "watch": 12,
-      "quiet": 11
+      "krass": 1,
+      "strong": 8,
+      "watch": 22,
+      "quiet": 9
     }
   },
   "top_dynamics": [
+    {
+      "title": "ノア・スミス「AI は大卒の雇用を奪ってない（けどアーティストの仕事は奪ってる）」（2026年10月1日）",
+      "url": "https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/",
+      "source": "Hatena Bookmark Hotentry IT, Japan Digital Agency News RSS",
+      "published_at": "2026-06-19T11:28:55+00:00",
+      "age_days": 107.84,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 32.55,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 2,
+      "momentum_delta": 3,
+      "baseline_z_hint": 8.23,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "source breadth +2",
+        "momentum delta +3",
+        "baseline z_hint 8.23",
+        "high terms: 10",
+        "aging penalty -8.0 for 107.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Warnung vor Angriffen auf Zammad und Citrix NetScaler",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-10-05T06:41:00.000+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, citrix",
+        "security high-signal: angriffe, citrix"
+      ],
+      "summary": "Bösartige Akteure attackieren aktuell nicht nur Sicherheitslücken in Citrix NetScaler, sondern auch in Zammad. Davor warnt die CISA."
+    },
+    {
+      "title": "Microsoft schiebt Exchange-Update nach",
+      "url": "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-10-05T06:26:00.000+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security",
+        "infra"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: exchange",
+        "security high-signal: exchange"
+      ],
+      "summary": "Zum Wochenende hat Microsoft weitere Exchange-Updates nachgelegt. Sie stopfen eine Rechteausweitungslücke."
+    },
+    {
+      "title": "GROWIにおけるアクセス制限不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN24352487/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-05T15:00:00+09:00",
+      "age_days": 0.07,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "株式会社GROWIが提供するGROWIには、アクセス制限不備の脆弱性が存在します。"
+    },
+    {
+      "title": "ノア・スミス「AI は大卒の雇用を奪ってない（けどアーティストの仕事は奪ってる）」（2026年10月1日）",
+      "url": "https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-05T02:29:33+00:00",
+      "age_days": 0.21,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, 10",
+        "security high-signal: rce, 10"
+      ],
+      "summary": "今日も今日とて，「AI は雇用を奪ってるの？」の果てしない物語のページをめくろう．いくつか面白いネタが出てきてる．まず，Indeed の賃金データが出てるんだけど，これを見ると AI 曝露度が高い仕事をしてる労働者の賃金は，そんなに AI 曝露度が高くない仕事の労働者たちの賃金よりもずっと急速に伸びてる： Source: ..."
+    },
     {
       "title": "Why Southeast Asia’s AI coding race is moving from models to infrastructure",
       "url": "https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T04:01:22+00:00",
-      "age_days": 0.05,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 24.5,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 4.8 - 191 km ESE of Sarangani, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-05T06:40:40.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-05 06:14:15 UTC 2026-10-05 06:14:15 UTC at epicenter Location 4.498°N 126.939°E Depth 51.29 km (31.87 mi)"
     },
     {
       "title": "Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a short squeeze?",
       "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:45:31+00:00",
-      "age_days": 0.06,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -74,7 +231,7 @@
       "url": "https://e27.co/why-southeast-asias-ai-coding-race-is-moving-from-models-to-infrastructure-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:58:37+00:00",
-      "age_days": 0.05,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -101,7 +258,7 @@
       "url": "https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:04:52+00:00",
-      "age_days": 0.09,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -121,11 +278,135 @@
       "summary": ""
     },
     {
+      "title": "Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a short squeeze?",
+      "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-05T04:01:22+00:00",
+      "age_days": 0.15,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: breakout"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "GROWIにおけるアクセス制限不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN24352487/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 37.73,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.15,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -5.9 for 37.7d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Stop calling Southeast Asia an emerging market in mobile. It is where the behaviour gets invented",
+      "url": "https://e27.co/stop-calling-southeast-asia-an-emerging-market-in-mobile-it-is-where-the-behaviour-gets-invented-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-05T04:01:22+00:00",
+      "age_days": 0.15,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 5.0 - 71 km E of ‘Ohonua, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-05T05:46:50.040+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-05 05:26:44 UTC 2026-10-05 05:26:44 UTC at epicenter Location 21.421°S 174.268°W Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 4.5 - Kuril Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-05T04:36:07.040+00:00",
+      "age_days": 0.13,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-05 04:16:23 UTC 2026-10-05 04:16:23 UTC at epicenter Location 45.953°N 151.868°E Depth 35.00 km (21.75 mi)"
+    },
+    {
       "title": "M 5.3 - central Mid-Atlantic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T01:35:49.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -146,11 +427,60 @@
       "summary": "Time 2026-10-05 01:18:50 UTC 2026-10-05 01:18:50 UTC at epicenter Location 0.433°S 19.965°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.8 - 191 km ESE of Sarangani, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-29T06:55:03+00:00",
+      "age_days": 37.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.89,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -5.6 for 37.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.5 - Kuril Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-05T05:11:03+00:00",
+      "age_days": 0.1,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.3 - central Mid-Atlantic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-05T01:45:56+00:00",
-      "age_days": 0.14,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -174,7 +504,7 @@
       "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T01:03:54+00:00",
-      "age_days": 0.17,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -200,7 +530,7 @@
       "url": "https://e27.co/a-funding-round-can-improve-your-metrics-without-improving-your-company-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T02:09:56+00:00",
-      "age_days": 0.12,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -220,11 +550,59 @@
       "summary": ""
     },
     {
+      "title": "M 5.0 - 71 km E of ‘Ohonua, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzme",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-05T05:58:57+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2145512.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-05T04:01:22+00:00",
+      "age_days": 0.15,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
       "url": "https://aikido-community.jp/articles/quiet-business-app-database-access",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T01:03:54+00:00",
-      "age_days": 0.17,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -248,7 +626,7 @@
       "url": "https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T03:00:23+00:00",
-      "age_days": 0.09,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -268,15 +646,15 @@
       "summary": "In my work with organisations, I often hear people describe barely adjusting to one restructure before the next one begins. The remark is usually made in passing, which tells you something on its own. Change has become familiar enough that people know how to keep functioning through it, even while they are worn out by…"
     },
     {
-      "title": "Bitcoin jumped 1.81% to US$86,350.24. Is this a real breakout or a short squeeze?",
-      "url": "https://e27.co/bitcoin-jumped-1-81-to-us86350-24-is-this-a-real-breakout-or-a-short-squeeze-20261005/",
+      "title": "EVs to make up over half of Singapore vehicle sales in 2026, BMI says",
+      "url": "https://e27.co/evs-to-make-up-over-half-of-singapore-vehicle-sales-in-2026-bmi-says-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-05T04:01:22+00:00",
-      "age_days": 0.05,
+      "published_at": "2026-10-05T07:22:46+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.0,
+      "dynamics_score": 13.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -287,8 +665,57 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "high terms: breakout"
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Warnung vor Angriffen auf Zammad und Citrix NetScaler",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 108.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: angriffe, citrix",
+        "aging penalty -8.0 for 108.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Nearly half of Asia Pacific consumers open to stablecoins within five years, Visa says",
+      "url": "https://e27.co/nearly-half-of-asia-pacific-consumers-open-to-stablecoins-within-five-years-visa-says-20261005/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-05T05:11:03+00:00",
+      "age_days": 0.1,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -297,7 +724,7 @@
       "url": "https://e27.co/stop-calling-southeast-asia-an-emerging-market-in-mobile-it-is-where-the-behaviour-gets-invented-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T04:00:36+00:00",
-      "age_days": 0.05,
+      "age_days": 0.15,
       "topics": [
         "macro"
       ],
@@ -321,7 +748,7 @@
       "url": "https://forbesjapan.com/articles/detail/105823",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:28:57+00:00",
-      "age_days": 16.11,
+      "age_days": 16.21,
       "topics": [
         "ai"
       ],
@@ -343,35 +770,11 @@
       "summary": ""
     },
     {
-      "title": "Stop calling Southeast Asia an emerging market in mobile. It is where the behaviour gets invented",
-      "url": "https://e27.co/stop-calling-southeast-asia-an-emerging-market-in-mobile-it-is-where-the-behaviour-gets-invented-20261004/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-05T04:01:22+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
       "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T01:00:34+00:00",
-      "age_days": 0.17,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -393,36 +796,11 @@
       "summary": "This week, two numbers came out of the same region within days of each other, and almost nobody put them side by side. On September 3, Singapore’s central bank committed SG$220 million over three years to fintech and AI infrastructure under a fourth-generation innovation scheme. Around the same time, a Tracxn landscap…"
     },
     {
-      "title": "プログラミングの基本原理｜shi3z",
-      "url": "https://note.com/shi3zblog/n/nf59b8740cd24",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 34.43,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.8,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -4.7 for 34.4d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "A funding round can improve your metrics without improving your company",
       "url": "https://e27.co/a-funding-round-can-improve-your-metrics-without-improving-your-company-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-05T02:00:14+00:00",
-      "age_days": 0.13,
+      "age_days": 0.23,
       "topics": [
         "macro"
       ],
@@ -442,11 +820,36 @@
       "summary": "The months after a funding round can make a company look dramatically stronger. Revenue rises. The team grows. New markets open. Customer logos multiply. The board deck becomes easier to read because almost every chart is moving in the right direction. But the harder question is not on the dashboard: after the round,…"
     },
     {
-      "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2145512.html",
+      "title": "プログラミングの基本原理｜shi3z",
+      "url": "https://note.com/shi3zblog/n/nf59b8740cd24",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-05T04:01:22+00:00",
-      "age_days": 0.05,
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 34.54,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 9.26,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -4.7 for 34.5d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "【速報】大和証券に不正アクセス、22万件漏えいか",
+      "url": "https://www.47news.jp/15038299.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-05T06:51:49+00:00",
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -470,11 +873,11 @@
       "url": "https://blog.shibayu36.org/entry/2026/10/05/074417",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:26:46+00:00",
-      "age_days": 36.11,
+      "age_days": 36.22,
       "topics": [
         "general"
       ],
-      "dynamics_score": 8.71,
+      "dynamics_score": 8.67,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -486,7 +889,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -5.3 for 36.1d old signal"
+        "aging penalty -5.3 for 36.2d old signal"
       ],
       "summary": ""
     },
@@ -495,7 +898,7 @@
       "url": "https://forbesjapan.com/articles/detail/105823",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T18:34:21+00:00",
-      "age_days": 0.44,
+      "age_days": 0.54,
       "topics": [
         "ai"
       ],
@@ -517,158 +920,105 @@
       "summary": "AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用..."
     },
     {
-      "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2145512.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-05T01:09:28+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表"
-    },
-    {
-      "title": "プログラミングの基本原理｜shi3z",
-      "url": "https://note.com/shi3zblog/n/nf59b8740cd24",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T22:18:25+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "東十条の駅を降りると、すぐに階段がある。 その階段を登ろうとすると、シスターズの長女が言った。 「まるで流れるように南口に行きますね」 「君はジッダという街を知っているか?」 サウジアラビアにある街、ジッダにあるキング・アブドゥルアズィーズ国際空港には、他の空港にはない珍しいターミナルがある。 ハッジ..."
-    },
-    {
-      "title": "「AIに読ませるエサとして人間の書いた文章を作って売る」みたいな時給30〜100ドルのアルバイトがあるが、学習に必要な「人間の書いた文章」は大抵読み尽くしたらしい",
-      "url": "https://togetter.com/li/2754205",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 107.69,
+      "title": "OneByZero raises US$20M Series A to help enterprises move AI from pilots to production",
+      "url": "https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-05T06:00:45+00:00",
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 3.0,
+      "dynamics_score": 7.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3",
         "high terms: 10",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 107.7d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that experimentation into systems that work inside heavily regulated b…"
+    },
+    {
+      "title": "OneByZero raises US$20M Series A to help enterprises move AI from pilots to production",
+      "url": "https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-05T06:51:49+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
     {
-      "title": "「AIに読ませるエサとして人間の書いた文章を作って売る」みたいな時給30〜100ドルのアルバイトがあるが、学習に必要な「人間の書いた文章」は大抵読み尽くしたらしい",
-      "url": "https://togetter.com/li/2754205",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-05T00:37:16+00:00",
-      "age_days": 0.19,
+      "title": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました",
+      "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-05T06:00:00+00:00",
+      "age_days": 0.07,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 2.0,
+      "dynamics_score": 6.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "no strong comparative reason"
       ],
-      "summary": "威岡公平 @Kouhei_Takeoka 検索したら出てくるんですけど、いま「AIに読ませるエサとして人間の書いた文章を作って売る」みたいなアルバイトあるんですよ、時給30〜100ドルとかで。最近「LLMの性能が天井になる」みたいな議論出てんですけど、理由は簡単で、学習に必要な「人間の書いた文章」はだいたい読み尽くしたらし..."
+      "summary": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました"
     },
     {
-      "title": "株式会社LayerXに入社しました - $shibayu36->blog;",
-      "url": "https://blog.shibayu36.org/entry/2026/10/05/074417",
+      "title": "【速報】大和証券に不正アクセス、22万件漏えいか",
+      "url": "https://www.47news.jp/15038299.html",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T23:13:04+00:00",
-      "age_days": 0.25,
+      "published_at": "2026-10-05T04:29:00+00:00",
+      "age_days": 0.13,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 2.0,
+      "dynamics_score": 5.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "no strong comparative reason"
       ],
-      "summary": "2026/10/01から株式会社LayerXに入社しました。バクラクでAIエージェント関連の機能開発に携わっていく予定です。 layerx.co.jp bakuraku.jp 3年ほど前から@serimaさんに継続的に声をかけてもらっていて、LayerXへの温度感は少しずつ上がっていました。そこにタイミングが来たため入社を決めました。特に大きな理由は次..."
-    },
-    {
-      "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
-      "url": "https://aikido-community.jp/articles/quiet-business-app-database-access",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T23:57:28+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "9月下旬に相次いだ日本郵便・ヤマト・佐川・セイコーマート・タイムズカー・ニッポンレンタカーの不正アクセスを並べ、被害範囲の境界と発覚のきっかけから共通する攻撃パターンを推測します。攻撃者は先に正常な利用パターンを読み、アプリの正規の経路でデータを読んでいたのではないか。..."
+      "summary": "大和証券グループ本社は5日、不正アクセスにより、個人を特定できない情報を含め約22万件の情報が漏えいした可能性があると発表した。"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Why Southeast Asia’s AI coding race is moving from models to infrastructure” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.5."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ノア・スミス「AI は大卒の雇用を奪ってない（けどアーティストの仕事は奪ってる）」（2026年10月1日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=32.55."
 }
