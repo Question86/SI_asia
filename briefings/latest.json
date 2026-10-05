@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T09:56:42+00:00",
-  "run_id": "2026-10-05T09:56:42+00:00",
+  "generated_at": "2026-10-05T10:15:15+00:00",
+  "run_id": "2026-10-05T10:15:15+00:00",
   "date": "2026-10-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 35
+      "configured_public_sources_only": 36
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
     "medium": 7,
-    "observe": 28,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -658,6 +658,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6e5442e850befefdf097"
+      },
+      {
+        "title": "The AI boom is making the world’s cheapest smartphones disappear",
+        "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-05T10:00:43+00:00",
+        "fetched_at": "2026-10-05T10:14:43+00:00",
+        "summary": "AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models.",
+        "matched_keywords": [
+          "AI/KI"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "AI/KI (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b71ca4135b1713d5f37d"
       },
       {
         "title": "シニアになりきれない中堅エンジニアは、何を読めばいいのか 2026年版 - じゃあ、おうちで学べる",
@@ -1520,6 +1540,26 @@
       "id": "6e5442e850befefdf097"
     },
     {
+      "title": "The AI boom is making the world’s cheapest smartphones disappear",
+      "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-05T10:00:43+00:00",
+      "fetched_at": "2026-10-05T10:14:43+00:00",
+      "summary": "AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models.",
+      "matched_keywords": [
+        "AI/KI"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "AI/KI (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b71ca4135b1713d5f37d"
+    },
+    {
       "title": "シニアになりきれない中堅エンジニアは、何を読めばいいのか 2026年版 - じゃあ、おうちで学べる",
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/10/05/132102",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1751,26 +1791,24 @@
   ],
   "new_findings": [
     {
-      "title": "アマゾン「Audible」、本の登場人物と会話できる新機能を提供へ",
-      "url": "https://japan.cnet.com/article/35253230/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "The AI boom is making the world’s cheapest smartphones disappear",
+      "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-05T06:43:08+00:00",
-      "fetched_at": "2026-10-05T09:56:12+00:00",
-      "summary": "Amazon傘下のAudibleは、オーディオブック配信サービス「Audible」の没入感を高めようとしている。同社は米国時間10月1日、本を聴く体験を広げるため、AIを活用した3つの新機能を発表した。これにより、ユーザーは登場人物のガイドを確認し、物語に参加するとともに、聴いている本に登場する都市や名所について詳しく知...",
+      "published_at": "2026-10-05T10:00:43+00:00",
+      "fetched_at": "2026-10-05T10:14:43+00:00",
+      "summary": "AI data centers are driving demand for memory chips, pushing phone makers to raise prices and abandon some of their most affordable models.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
+        "AI/KI"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "AI/KI (+3.8); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "15ed82f1814474f28c43"
+      "id": "b71ca4135b1713d5f37d"
     }
   ],
   "source_errors": [],
