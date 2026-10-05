@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T05:11:21+00:00",
+  "generated_at": "2026-10-05T05:39:19+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -3327,7 +3327,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-05T01:45:56+00:00",
-      "last_seen_at": "2026-10-05T05:11:03+00:00",
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
       "status": "active"
     },
     {
@@ -4519,6 +4519,23 @@
       "first_seen_at": "2026-09-01T19:00:47+00:00",
       "last_seen_at": "2026-09-01T19:00:47+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_700d73638d95093bf03d",
+      "title": "M 4.5 - Kuril Islands",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-05T05:11:03+00:00",
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_708d18e04d67e39e893d",
@@ -6187,23 +6204,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_700d73638d95093bf03d",
-      "title": "M 4.5 - Kuril Islands",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-05T05:11:03+00:00",
-      "last_seen_at": "2026-10-05T05:11:03+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -7543,7 +7543,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T02:09:56+00:00",
-      "last_seen_at": "2026-10-05T05:11:03+00:00",
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
       "status": "active"
     },
     {
@@ -7611,7 +7611,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T04:01:22+00:00",
-      "last_seen_at": "2026-10-05T05:11:03+00:00",
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
       "status": "active"
     },
     {
@@ -9277,7 +9277,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T01:03:54+00:00",
-      "last_seen_at": "2026-10-05T05:11:03+00:00",
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
       "status": "active"
     },
     {
@@ -10314,8 +10314,8 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:29:39+00:00",
-      "last_seen_at": "2026-10-02T10:55:37+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_d59144f763d03cab2105",
@@ -11709,7 +11709,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-19T02:28:57+00:00",
-      "last_seen_at": "2026-10-05T05:11:03+00:00",
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
       "status": "active"
     },
     {
@@ -13324,7 +13324,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T03:04:52+00:00",
-      "last_seen_at": "2026-10-05T05:11:03+00:00",
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
       "status": "active"
     },
     {
@@ -14872,7 +14872,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T04:01:22+00:00",
-      "last_seen_at": "2026-10-05T05:11:03+00:00",
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
       "status": "active"
     },
     {
@@ -17694,7 +17694,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T02:26:46+00:00",
-      "last_seen_at": "2026-10-05T05:11:03+00:00",
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
       "status": "active"
     },
     {
@@ -17779,7 +17779,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-10-05T05:11:03+00:00",
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
       "status": "active"
     },
     {
@@ -17932,7 +17932,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-10-05T05:11:03+00:00",
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
       "status": "active"
     },
     {
@@ -19173,7 +19173,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T04:01:22+00:00",
-      "last_seen_at": "2026-10-05T05:11:03+00:00",
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
       "status": "active"
     },
     {
@@ -19530,7 +19530,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T01:03:54+00:00",
-      "last_seen_at": "2026-10-05T05:11:03+00:00",
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
       "status": "active"
     },
     {
@@ -20401,6 +20401,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_08ce8715412f4a13cfab",
+      "title": "Nearly half of Asia Pacific consumers open to stablecoins within five years, Visa says",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-05T05:11:03+00:00",
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_0c6710a679cf664f6705",
       "title": "GitHub availability report: August 2026",
       "event_classes": [
@@ -20874,7 +20891,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T04:01:22+00:00",
-      "last_seen_at": "2026-10-05T05:11:03+00:00",
+      "last_seen_at": "2026-10-05T05:38:54+00:00",
       "status": "active"
     },
     {
@@ -20944,23 +20961,6 @@
       "first_seen_at": "2026-09-23T04:56:56+00:00",
       "last_seen_at": "2026-09-23T05:42:29+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_08ce8715412f4a13cfab",
-      "title": "Nearly half of Asia Pacific consumers open to stablecoins within five years, Visa says",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 107200.0,
-      "p50_usd": 10720000.0,
-      "p90_usd": 1072000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-05T05:11:03+00:00",
-      "last_seen_at": "2026-10-05T05:11:03+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
