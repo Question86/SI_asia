@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-05T19:58:13+00:00_
+_Generated: 2026-10-05T21:20:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `60`
+- findings: `64`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-05T19:58:13+00:00_
 - url: https://openai.com/index/new-chatgpt-ads-format-and-measurement
 - summary: OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.
 
-### 7. AIエージェントによる通信が1700％増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+### 7. AIでサイバー攻撃のコスト激減 数行の指示だけで27社に侵入、カード情報60万件超が流出 - 週刊アスキー
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-05T08:05:24+00:00`
+- url: https://weekly.ascii.jp/elem/000/004/439/4439882/
+- summary: わずか数行の指示を出すだけで、AIが脆弱性を探し、侵入し、カード情報まで盗み出す──。サイバー攻撃の自動化が実戦段階に迫っている。 セキュリティ企業Gambit Securityの9月22日の報告によると、金銭目的の攻撃者が複数のオープンソースAIエージェントを使い、数百店のオンラインショップを攻撃した。2026年9月10～15...
+
+### 8. AIエージェントによる通信が1700％増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-10-04T18:34:21+00:00`
 - url: https://forbesjapan.com/articles/detail/105823
 - summary: AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...
-
-### 8. Multiples vulnérabilités dans le noyau Linux d'Ubuntu (25 septembre 2026)
-- source: CERT-FR Avis de sécurité
-- score: `11`
-- published: `2026-09-25T00:00:00+00:00`
-- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1229/
-- summary: De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.
 
 END OF DOCUMENT

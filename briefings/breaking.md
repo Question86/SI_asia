@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-05T19:58:16+00:00_
+_Generiert: 2026-10-05T21:20:18+00:00_
 
 ## From digital banking to resilient banking - technology, cyber security and ai as pillars of trust
 
-- Ranking Score: `32.56`
+- Ranking Score: `32.1`
 - Raw Network Score: `44.8`
 - Max Monitor Score: `22`
 - Reichweite: `institutional` / `5.0`
