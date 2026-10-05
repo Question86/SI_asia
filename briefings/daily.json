@@ -1,279 +1,33 @@
 {
-  "generated_at": "2026-10-04T23:59:05+00:00",
-  "today_file_total": 28,
+  "generated_at": "2026-10-05T01:03:54+00:00",
+  "today_file_total": 3,
   "current_clusters": [
     {
-      "key": "github_repo:egma-ai/jev-code-reviewer",
-      "title": "GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.",
+      "key": "title:everyone-can-build-now-almost-nobody-can-see",
+      "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://github.com/egma-ai/jev-code-reviewer"
-      ],
-      "finding_count": 1,
-      "max_score": 20,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 22.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:indonesia:5.6",
-      "title": "M 5.6 - 80 km S of Banda Aceh, Indonesia",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfg"
-      ],
-      "finding_count": 1,
-      "max_score": 19,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:indonesia:4.6",
-      "title": "M 4.6 - 110 km S of Dampit, Indonesia",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tziz"
+        "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/"
       ],
       "finding_count": 1,
       "max_score": 15,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 17.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:indonesia:5.0",
-      "title": "M 5.0 - 37 km N of Ruteng, Indonesia",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzi5"
-      ],
-      "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 17.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:philippines:4.5",
-      "title": "M 4.5 - 293 km SSE of Tabiauan, Philippines",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7"
-      ],
-      "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 17.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:openai",
-      "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2610/04/2000001986/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:togetter.com",
-      "title": "AIでの人員削減は現実的ではないと希望で語る人がいる中、外注はゼロにして社内の人間を20人から4人にした経営者の経験談を語る「築き上げてきたものがAIで完全に崩壊」",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://togetter.com/li/2753949",
-        "https://togetter.com/li/2753802",
-        "https://togetter.com/li/2753759"
-      ],
-      "finding_count": 3,
-      "max_score": 7,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.3,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:coliss.com",
-      "title": "何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 13.1,
+      "network_score": 20.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 4.8 - 32 km sse of jurm, afghanistan:4.8",
-      "title": "M 4.8 - 32 km SSE of Jurm, Afghanistan",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkn"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.0 - 295 km s of burica, panama:5.0",
-      "title": "M 5.0 - 295 km S of Burica, Panama",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzj8"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 4.9 - 21 km ne of lae, papua new guinea:4.9",
-      "title": "M 4.9 - 21 km NE of Lae, Papua New Guinea",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzfv"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "domain:note.com",
-      "title": "AI時代に、次のベテランエンジニアは育つのか｜柴田 芳樹",
+      "key": "url:https://aikido-community.jp/articles/quiet-business-app-database-access",
+      "title": "最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -281,201 +35,38 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://note.com/yoshiki_shibata/n/n185f3d9e13bc",
-        "https://note.com/keitaro_shimizu/n/n1cd34c93e432",
-        "https://note.com/takahiroanno/n/n3cd3c9a38e8e"
-      ],
-      "finding_count": 3,
-      "max_score": 5,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.3,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:portalshit.net",
-      "title": "AI に仕事を奪われるのはエンジニアではなくプロダクトマネージャーの方だった",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://portalshit.net/2026/10/03/ai-is-eating-product-management"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:qiita.com",
-      "title": "最近プロジェクトマネジメントで感じたこと - Qiita",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:e2e",
-      "title": "自然言語で操作し、結果を検証するテストフレームワーク e2e",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://azukiazusa.dev/blog/e2e-ai-testing/"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "github_repo:effect-ts/effect",
-      "title": "Effect-TS/effect",
-      "sources": [
-        "GitHub Trending RSS All Languages Daily"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/Effect-TS/effect"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:www.nikkei.com",
-      "title": "日経にサイバー攻撃 情報漏洩、不審メール9000件送信 - 日本経済新聞",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.nikkei.com/article/DGXZQOUD02B5F0S6A001C2000000/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:nikkei.com",
-      "title": "「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー回答だったので「消費者庁に電話するしかねーな」とつぶやいたら、人間に繋がった",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://togetter.com/li/2753906"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:www.eet-china.com",
-      "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://gigazine.net/news/20261004-photon-matrix/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:state-devs-2026",
-      "title": "世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」公開。何歳？ 年収は？ モニタは何枚？ AIにどのくらいコードを書かせている？ 趣味は？ など集計結果",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html"
+        "https://aikido-community.jp/articles/quiet-business-app-database-access"
       ],
       "finding_count": 1,
       "max_score": 5,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:blog.shibayu36.org",
+      "title": "株式会社LayerXに入社しました - $shibayu36->blog;",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://blog.shibayu36.org/entry/2026/10/05/074417"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
