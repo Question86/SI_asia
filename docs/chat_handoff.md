@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-05T11:57:05+00:00_
+_Generated: 2026-10-05T12:19:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `41`
+- findings: `44`
 
 ## Top Signals
 
@@ -32,9 +32,9 @@ _Generated: 2026-10-05T11:57:05+00:00_
 ### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-10-05T11:31:42+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2430
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff oder andere, nicht näher spezifizierte Angriffe durchzuführen.
+- published: `2026-10-05T12:10:58+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3294
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Daten zu manipulieren, Denial-of-Service-Zustände herbeizuführen oder andere, nicht näher spezifizierte Angriffe durc…
 
 ### 5. Building advertising for the way people use AI
 - source: OpenAI News RSS
