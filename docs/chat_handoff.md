@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-05T05:11:00+00:00_
+_Generated: 2026-10-05T05:38:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `16`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-10-05T05:11:00+00:00_
 - url: https://e27.co/change-fatigue-is-an-organisational-design-problem-not-a-resilience-problem-20261004/
 - summary: In my work with organisations, I often hear people describe barely adjusting to one restructure before the next one begins. The remark is usually made in passing, which tells you something on its own. Change has become familiar enough that people know how to…
 
-### 6. M 5.3 - central Mid-Atlantic Ridge
-- source: USGS M4.5+ Earthquakes Past Hour
+### 6. ノア・スミス「AI は大卒の雇用を奪ってない（けどアーティストの仕事は奪ってる）」（2026年10月1日）
+- source: Hatena Bookmark Hotentry IT
 - score: `9`
-- published: `2026-10-05T01:35:49.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp
-- summary: Time 2026-10-05 01:18:50 UTC 2026-10-05 01:18:50 UTC at epicenter Location 0.433°S 19.965°W Depth 10.00 km (6.21 mi)
+- published: `2026-10-05T02:29:33+00:00`
+- url: https://econ101.jp/noah-smith_ai-isnt-taking-college-jobs/
+- summary: 今日も今日とて，「AI は雇用を奪ってるの？」の果てしない物語のページをめくろう．いくつか面白いネタが出てきてる．まず，Indeed の賃金データが出てるんだけど，これを見ると AI 曝露度が高い仕事をしてる労働者の賃金は，そんなに AI 曝露度が高くない仕事の労働者たちの賃金よりもずっと急速に伸びてる： Source: ...
 
 END OF DOCUMENT
