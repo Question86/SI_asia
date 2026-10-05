@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T07:23:19+00:00",
+  "generated_at": "2026-10-05T07:59:14+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -1237,12 +1237,12 @@
     {
       "event_id": "evt_18bf1abf2435d84d77a9",
       "title": "EVs to make up over half of Singapore vehicle sales in 2026, BMI says",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -1496,7 +1496,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1cddebda19b41815876f",
@@ -1738,7 +1738,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2170780765320e429d3b",
@@ -1860,6 +1860,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_23745927d9e2ff37f777",
+      "title": "tester-army/e2e",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_23ce80d6a54962d8221c",
@@ -3157,7 +3168,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_3f3cc2b07a63ed6cf103",
@@ -10406,7 +10417,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c39c68387b68393d229a",
@@ -11836,7 +11847,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_dfc6dbfb411c256ec157",
