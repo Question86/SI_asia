@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T22:45:31+00:00",
+  "generated_at": "2026-10-05T22:53:53+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1236,7 +1236,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T05:39:36+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -1457,7 +1457,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T06:55:03+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -1491,7 +1491,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T16:09:35+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -3906,7 +3906,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-05T17:56:31+00:00",
       "last_seen_at": "2026-10-05T22:45:12+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3dbfcfc39f34a1435ef4",
@@ -4653,7 +4653,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-02T04:53:55+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -6268,7 +6268,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -7084,7 +7084,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -7509,7 +7509,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T06:51:49+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -7628,7 +7628,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -7679,7 +7679,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T04:01:22+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -9005,7 +9005,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -9345,7 +9345,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T01:03:54+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -10382,7 +10382,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:29:39+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -11135,6 +11135,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_0179c38e8dc959d9f1aa",
+      "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-05T22:53:37+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_062e97ed5d926e4dc4f8",
       "title": "AIでサイバー攻撃のコスト激減 数行の指示だけで27社に侵入、カード情報60万件超が流出 - 週刊アスキー",
       "event_classes": [
@@ -11148,7 +11165,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T21:20:18+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -11318,7 +11335,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T12:58:59+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -11794,7 +11811,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-19T02:28:57+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -12814,7 +12831,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T13:53:29+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -12916,7 +12933,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-05T11:35:57+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -12984,7 +13001,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
@@ -13562,7 +13579,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-10-05T22:45:12+00:00",
+      "last_seen_at": "2026-10-05T22:53:37+00:00",
       "status": "active"
     },
     {
