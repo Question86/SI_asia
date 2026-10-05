@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-05T12:19:20+00:00_
+_Generiert: 2026-10-05T12:49:40+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+47 neue relevante Treffer. Stärkstes Signal: „Why Southeast Asia’s AI coding race is moving from models to infrastructure“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 今日も今日とて，「AI は雇用を奪ってるの？」の果てしない物語のページをめくろう．いくつか面白いネタが出てきてる．まず，Indeed の賃金データが出てるんだけど，これを見ると AI 曝露度が高い仕事をしてる労働者の賃金は，そんなに AI 曝露度が高くない仕事の労働者たちの賃金よりもずっと急速に伸びてる： Source: ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Leading the next chapter - Islamic finance as a catalyst for national prosperity** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261005-leading-next-chapter-islamic-finance-catalyst-national-prosperity)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-05T00:00:00+00:00`, fetched `2026-10-05T12:49:02+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
+  - Kurz: Presentation by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the Financial Institutions' Directors Education (FIDE) Forum “Advancing Islamic finance as part of the national agenda”, Kuala Lumpur, 24 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Basel III applicable in almost all member jurisdictions by 2027** — Score 8, observation — [Quelle](https://www.bis.org/media-releases/20261005-basel-iii-applicable-almost-all-member-jurisdictions-2027)
   - Quelle: BIS Press Releases / `rss`
   - Zeit: published `2026-10-05T00:00:00+00:00`, fetched `2026-10-05T09:36:14+00:00`
@@ -195,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); Basel (+2.5); recent (+1.0)
   - Kurz: Three quarters of the Basel Committee’s 27 member jurisdictions have now published regulations implementing the full set of Basel III standards. Almost all member jurisdictions have publicly announced that banks must apply Basel III by April 2027 or earlier. The Committee will continue to closely monitor and assess the full and consistent implementation of Basel III standards.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Accelerating Hong Kong’s bond market development - building a diversified, deep, dynamic and digital-native market** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261005-accelerating-hong-kongs-bond-market-development-building-diversified-deep-dynamic-and-digital-native-market)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-05T00:00:00+00:00`, fetched `2026-10-05T12:49:02+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
+  - Kurz: Welcoming remarks and keynote address by Mr Eddie Yue, Chief Executive of the Hong Kong Monetary Authority, at the Treasury Markets Summit 2026, Hong Kong, 23 September 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Warnung vor Angriffen auf Zammad und Citrix NetScaler** — Score 7, observation — [Quelle](https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-05T06:41:00.000+00:00`, fetched `2026-10-05T06:51:14+00:00`
@@ -203,24 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Bösartige Akteure attackieren aktuell nicht nur Sicherheitslücken in Citrix NetScaler, sondern auch in Zammad. Davor warnt die CISA.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Microsoft schiebt Exchange-Update nach** — Score 7, observation — [Quelle](https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-05T06:26:00.000+00:00`, fetched `2026-10-05T06:51:14+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Zum Wochenende hat Microsoft weitere Exchange-Updates nachgelegt. Sie stopfen eine Rechteausweitungslücke.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-05T06:00:00+00:00`, fetched `2026-10-05T06:51:14+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
