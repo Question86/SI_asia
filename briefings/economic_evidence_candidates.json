@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T14:23:47+00:00",
-  "candidate_count": 1686,
+  "generated_at": "2026-10-06T14:51:13+00:00",
+  "candidate_count": 1688,
   "candidates": [
     {
       "amount_native": 2000000000000.0,
@@ -1072,6 +1072,24 @@
       "snippet": "n to €155 billion). The increase in the surplus for primary income in the four quarters to the second quarter of 2026 was mainly due to a larger surplus for other investment (from €12 billion to €29 billion) and a larger surplus for direct investment (from €53 billion to €59 billion). These developments were partly offset by a larger deficit for portfolio equity (from",
       "source_priority": "primary_hint",
       "source_url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html"
+    },
+    {
+      "candidate_id": "cand_0f6171be7e159a8f3965",
+      "event_id": "evt_624a2e3ce3ccd3efe095",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm",
+      "observed_at": "2026-10-06T14:51:04+00:00",
+      "currency": "USD",
+      "amount_native": 10000000000.0,
+      "amount_usd": 10000000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_624a2e3ce3ccd3efe095:unclassified",
+      "attribution_probability": null,
+      "snippet": "ank portfolios defined by asset size and updates to the large bank tailoring framework. For the past 15 years, a community bank has been defined as a bank with assets of less than $10 billion. 4 Fixed asset thresholds can push a smaller noncomplex bank into a higher supervisory tier with standards designed for more complex institutions and stronger supervisory scrutiny",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.8,
+      "review_status": "pending"
     },
     {
       "amount_native": 1000000000.0,
@@ -3254,6 +3272,24 @@
       "snippet": "illion) and, to a lesser extent, by a larger deficit for secondary income (up from €178 billion to €205 billion). These developments were partly offset by a switch from a deficit (€10 billion) to a surplus (€36 billion) for primary income and a larger surplus for services (up from €145 billion to €163 billion). Chart 2 Selected items of the euro area financial account",
       "source_priority": "primary_hint",
       "source_url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html"
+    },
+    {
+      "candidate_id": "cand_19cd1a8a2fc0bcbd495a",
+      "event_id": "evt_624a2e3ce3ccd3efe095",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm",
+      "observed_at": "2026-10-06T14:51:04+00:00",
+      "currency": "USD",
+      "amount_native": 10000000000.0,
+      "amount_usd": 10000000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_624a2e3ce3ccd3efe095:unclassified",
+      "attribution_probability": null,
+      "snippet": "ers) or static standards are used to create different tiers of institutions for regulatory and supervisory purposes (like the definition of a community bank being generally set at $10 billion in assets) become irrational over time. These thresholds matter. They limit a bank's activities and impact the proportionality of supervisory oversight. Every standard reflects a",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.6,
+      "review_status": "pending"
     },
     {
       "amount_native": 8000000000.0,
