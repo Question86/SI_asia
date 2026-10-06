@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T10:50:41+00:00_
+_Generiert: 2026-10-06T10:59:26+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+60 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 用途にもよるけど、現時点では ChatGPT ＞ Claude ＞＞＞ Gemini という印象です。 AI同士で議論させると、Geminiの能力の低さが目立ちます。 Gemini自身が「GeminiはChatGPTやClaudeより劣っている」と自白しているので間違いありません。 しかしGeminiには、自分で自分の間違いを認めるだけの判断力は残されていました...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Repo markets and monetary policy implementation** — Score 11, opportunity — [Quelle](https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-06T00:00:00+00:00`, fetched `2026-10-06T10:58:55+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region canada: Canada, Bank of Canada (+2.0)
+  - Kurz: Remarks by Mr Toni Gravelle, Deputy Governor of the Bank of Canada, at the Bloomberg Canadian Finance Conference, New York City, 29 September 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet** — Score 10, observation — [Quelle](https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-06T02:00:44+00:00`, fetched `2026-10-06T02:04:38+00:00`
@@ -249,15 +258,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: IT企業「GMOインターネットグループ」傘下の「GMOリサーチ＆AI」は、運営しているアンケートサイトに不正アクセスがあり、会員の個人情報94万件余りが流出したと発表しました。 流出したのは氏名や生…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Special remarks - JC3 Journey to Zero Conference 2026** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261006-special-remarks-jc3-journey-zero-conference-2026)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-06T00:00:00+00:00`, fetched `2026-10-06T10:50:11+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: Speech by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the JC3 Journey to Zero Conference 2026, Kuala Lumpur, 29 September 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Not just AI. China is building technologies that challenge U.S. dominance** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-america-tech-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-10-06T10:00:00+00:00`, fetched `2026-10-06T10:23:09+00:00`
