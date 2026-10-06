@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-06T07:02:44+00:00_
+_Generated: 2026-10-06T07:30:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `33`
 
 ## Top Signals
 
-### 1. AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain
+### 1. thedotmack/claude-mem
+- source: GitHub Trending RSS All Languages Daily
+- score: `22`
+- published: `None`
+- url: https://github.com/thedotmack/claude-mem
+- summary: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode…
+
+### 2. AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-10-06T02:00:10+00:00`
 - url: https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/
 - summary: The artificial intelligence investment story is beginning to move beyond the most obvious winners. For much of the past three years, the market’s attention has centred on graphics processing units (GPUs), high-bandwidth memory and the companies supplying the…
 
-### 2. The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia
+### 3. The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-10-06T01:00:35+00:00`
 - url: https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/
 - summary: The most consequential AI launch of the past week was one that never happened. On the eve of its annual developer conference, OpenAI shelved GPT-6.1 Astra, the model expected to power ChatGPT and Codex next month and built to handle complex tasks with less hu…
 
-### 3. Investors do not just fund startups. They fund predictability
+### 4. Investors do not just fund startups. They fund predictability
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-10-06T01:00:24+00:00`
 - url: https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/
 - summary: Southeast Asia has become one of the world’s most competitive regions for investment. Global companies are diversifying supply chains beyond China. Governments are offering tax incentives, industrial land and digital-economy programmes. New capital is flowing…
-
-### 4. East Asia’s crypto market splits as Korea bets on AI tokens and Hong Kong courts institutions
-- source: e27 Asia Startup and Tech Feed
-- score: `18`
-- published: `2026-10-06T04:01:42+00:00`
-- url: https://e27.co/east-asias-crypto-market-splits-as-korea-bets-on-ai-tokens-and-hong-kong-courts-institutions-20261006/
-- summary: East Asia’s crypto market is no longer moving as one bloc. New regional data shows a fragmented landscape where South Korea is trading artificial intelligence-linked tokens at scale, Hong Kong is pulling in institutional capital, Japan’s retail users are quie…
 
 ### 5. 政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました
 - source: Japan Digital Agency News RSS
