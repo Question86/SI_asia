@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T05:36:55+00:00",
+  "generated_at": "2026-10-06T05:50:25+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -2211,7 +2211,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_28a6bc6471eec481b650",
@@ -6292,7 +6292,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_728175d4a33061652d12",
@@ -9834,7 +9834,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b454b7d89a3a09a62594",
@@ -10508,6 +10508,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c0d52073caa28750a3ab",
+      "title": "GMOグループ会社に不正アクセス 会員の個人情報94万件余流出か | NHKニュース",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_c0dfded64dd61d6977ad",
       "title": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も",
       "deduplicated_buckets": 0,
@@ -10829,12 +10840,12 @@
     {
       "event_id": "evt_c67d8a10a9fe5840008a",
       "title": "The junior developer dilemma: How AI is reshaping tech talent in Southeast Asia",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {

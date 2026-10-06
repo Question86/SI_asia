@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T05:36:42+00:00",
+  "generated_at": "2026-10-06T05:50:11+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1338,7 +1338,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-14T11:31:15+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -1406,7 +1406,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -1593,7 +1593,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-06T05:20:26+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -6302,8 +6302,8 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-05T23:42:57+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_b380be2049a414b6cdc6",
@@ -6574,7 +6574,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T03:10:58+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -7169,7 +7169,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T05:06:13+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -7697,7 +7697,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
       "last_seen_at": "2026-10-06T05:36:25+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0b8f55a038be7b409784",
@@ -8053,7 +8053,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T01:47:10+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -8121,7 +8121,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T01:47:10+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -8240,7 +8240,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T02:05:09+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -8665,7 +8665,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T04:27:57+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -11079,7 +11079,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T03:10:58+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -11150,6 +11150,23 @@
       "first_seen_at": "2026-09-04T01:50:38+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_c67d8a10a9fe5840008a",
+      "title": "The junior developer dilemma: How AI is reshaping tech talent in Southeast Asia",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_cba6f75efca96f60fd51",
@@ -11303,23 +11320,6 @@
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_c67d8a10a9fe5840008a",
-      "title": "The junior developer dilemma: How AI is reshaping tech talent in Southeast Asia",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-06T05:36:25+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_062e97ed5d926e4dc4f8",
@@ -12015,7 +12015,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T05:20:26+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -12066,7 +12066,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T03:10:58+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -13579,7 +13579,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T02:05:09+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -14770,7 +14770,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T04:01:56+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -16066,6 +16066,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c0d52073caa28750a3ab",
+      "title": "GMOグループ会社に不正アクセス 会員の個人情報94万件余流出か | NHKニュース",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-06T05:49:53+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_050660578420f6fb8ddb",
       "title": "Why Kyoto, not Tokyo, is Japan’s real deeptech bet",
       "event_classes": [
@@ -16929,7 +16946,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T03:10:58+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -17609,7 +17626,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T05:20:26+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -18544,7 +18561,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T00:59:38+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:49:53+00:00",
       "status": "active"
     },
     {
@@ -19922,7 +19939,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T02:05:09+00:00",
       "last_seen_at": "2026-10-06T05:36:25+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b4b4055435c137598963",
