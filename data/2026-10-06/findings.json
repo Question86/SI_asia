@@ -918,6 +918,44 @@
     "id": "607858187bc66cf69da2"
   },
   {
+    "title": "M 5.9 - 264 km SSW of Severo-Kuril’sk, Russia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-06T17:15:49.033+00:00",
+    "fetched_at": "2026-10-06T17:19:31+00:00",
+    "summary": "PAGER - GREEN ShakeMap - IV Time 2026-10-06 16:48:21 UTC 2026-10-06 16:48:21 UTC at epicenter Location 48.455°N 154.809°E Depth 26.05 km (16.18 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "917aa92b68e8cf6f6c94"
+  },
+  {
     "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
     "url": "https://openai.com/index/atlassian-partnership",
     "source": "OpenAI News RSS",
@@ -1023,6 +1061,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4992e9326179c773581b"
+  },
+  {
+    "title": "M 5.1 - 34 km NNW of Bāgeshwar, India",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-06T17:13:12.340+00:00",
+    "fetched_at": "2026-10-06T17:19:31+00:00",
+    "summary": "DYFI? - IV Time 2026-10-06 16:53:11 UTC 2026-10-06 16:53:11 UTC at epicenter Location 30.117°N 79.615°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "d12d68167e38a18150c7"
   },
   {
     "title": "M 4.9 - 48 km NNE of Semporna, Malaysia",
