@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T00:44:30+00:00",
+  "generated_at": "2026-10-06T01:47:10+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2816,10 +2816,9 @@
       "z_hint": 0.0
     },
     "domain:gigazine.net": {
-      "title": "localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要",
-      "updated_at": "2026-10-04T23:59:05+00:00",
+      "title": "TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる",
+      "updated_at": "2026-10-06T01:47:10+00:00",
       "network_scores": [
-        13.1,
         13.1,
         13.1,
         13.1,
@@ -2848,12 +2847,13 @@
         7.1,
         7.1,
         7.1,
-        7.1
+        7.1,
+        10.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.5,
       "rolling_peak": 13.1,
-      "last_score": 7.1,
-      "z_hint": -1.5
+      "last_score": 10.1,
+      "z_hint": 1.6
     },
     "title:acrab-raises-350m-advance-agentic-compute-infrastructure": {
       "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
@@ -8702,7 +8702,7 @@
     },
     "title:yahoo": {
       "title": "ランサム集団キリンの中心メンバー、日本で拘束 アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース",
-      "updated_at": "2026-10-06T00:44:30+00:00",
+      "updated_at": "2026-10-06T01:47:10+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -8732,13 +8732,13 @@
         7.1,
         7.1,
         7.1,
-        7.1,
-        10.1
+        10.1,
+        7.1
       ],
       "rolling_average": 7.2,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 2.9
+      "last_score": 7.1,
+      "z_hint": -0.1
     },
     "title:environmental-ethics-should-product-decision-not-sustainability-footnote": {
       "title": "The environmental ethics of AI should be a product decision, not a sustainability footnote",
@@ -60816,6 +60816,28 @@
       "rolling_peak": 23.1,
       "last_score": 20.1,
       "z_hint": -1.5
+    },
+    "title:agent-that-lied-what-gpt-astra-cancellation-means": {
+      "title": "The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia",
+      "updated_at": "2026-10-06T01:47:10+00:00",
+      "network_scores": [
+        25.1
+      ],
+      "rolling_average": 25.1,
+      "rolling_peak": 25.1,
+      "last_score": 25.1,
+      "z_hint": 0.0
+    },
+    "title:investors-not-just-fund-startups-they-fund-predictability": {
+      "title": "Investors do not just fund startups. They fund predictability",
+      "updated_at": "2026-10-06T01:47:10+00:00",
+      "network_scores": [
+        25.1
+      ],
+      "rolling_average": 25.1,
+      "rolling_peak": 25.1,
+      "last_score": 25.1,
+      "z_hint": 0.0
     }
   }
 }
