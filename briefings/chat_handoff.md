@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-06T02:56:36+00:00_
+_Generated: 2026-10-06T03:10:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `12`
 
 ## Top Signals
 
@@ -29,32 +29,39 @@ _Generated: 2026-10-06T02:56:36+00:00_
 - url: https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/
 - summary: Southeast Asia has become one of the world’s most competitive regions for investment. Global companies are diversifying supply chains beyond China. Governments are offering tax incentives, industrial land and digital-economy programmes. New capital is flowing…
 
-### 4. Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet
+### 4. MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-10-06T12:00:15+09:00`
+- url: https://jvn.jp/jp/JVN13510969/
+- summary: Measurement Computing Corporationが提供するUniversal Library for Linux (uldaq)には、スタックベースのバッファオーバーフローの脆弱性が存在します。
+
+### 5. Gartner says AI will kill the entry-level marketing job by 2030. Here’s why that’s the wrong takeaway
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-10-06T03:00:16+00:00`
+- url: https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/
+- summary: Nearly one in five marketing leaders has already eliminated roles because automation now handles the work. That is the finding behind a new Gartner prediction, which Marketing Week reported this week: by 2030, most high-performing marketing teams will be able…
+
+### 6. Geminiの使いどころ🥹
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-06T01:10:59+00:00`
+- url: https://anond.hatelabo.jp/20261006101040
+- summary: 用途にもよるけど、現時点では ChatGPT ＞ Claude ＞＞＞ Gemini という印象です。 AI同士で議論させると、Geminiの能力の低さが目立ちます。 Gemini自身が「GeminiはChatGPTやClaudeより劣っている」と自白しているので間違いありません。 しかしGeminiには、自分で自分の間違いを認めるだけの判断力は残されていました...
+
+### 7. Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-06T02:00:44+00:00`
 - url: https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/
 - summary: In 2021, I invested in one of the robotics startups that was solving for real world problems. The idea was to look beyond the screen and make every hardware talking through new robo technology. My thesis was clear, after the software it’s hardware that will b…
 
-### 5. ランサム集団キリンの中心メンバー、日本で拘束 アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-05T23:08:08+00:00`
-- url: https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b
-- summary: 昨年9月末のアサヒグループホールディングスへのサイバー攻撃について、犯行声明を出したハッカー集団「Qilin」のウェブサイトの一部=セキュリティー会社提供（朝日新聞） 世界各国の企業などにサイバー攻撃を繰り返すランサムウェア（身代金ウイルス）集団「Qilin（キリン）」の中心メンバーでロシア国籍の男（28）を...
-
-### 6. TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-05T23:08:07+00:00`
-- url: https://gigazine.net/news/20261006-homa-protocol-replace-tcp/
-- summary: ウェブやクラウドを支える通信プロトコル「TCP」はAI向けデータセンターの通信には適していないとして、スタンフォード大学のジョン・オースターハウト名誉教授がトランスポートプロトコル「Homa」への移行を訴えています。Homaは短いメッセージを優先的に処理することで通信遅延を抑える仕組みを備えており、既存のTCP...
-
-### 7. 日立製作所とアンソロピックが提携、「米国AIの軍門に降った」と思う人が知らない事実
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-05T11:40:57+00:00`
-- url: https://diamond.jp/articles/-/400443
-- summary: 日立製作所の笠戸事業所（山口県下松市）で製造されたJR九州の885系特急電車。独自開発したアルミダブルスキン構造の次世代鉄道車両システム「A-train」が採用されている Photo:PIXTA 日立製作所が米Anthropicとの戦略的提携を発表しました。このニュースを見て、「日立ほどの企業でも基盤AIでは米国の軍門に降ったのか...
+### 8. 古川大臣記者会見（令和8年10月6日）動画を掲載しました
+- source: Japan Digital Agency News RSS
+- score: `6`
+- published: `2026-10-06T02:59:42+00:00`
+- url: https://www.digital.go.jp/speech/minister-261006-01
+- summary: 古川大臣記者会見（令和8年10月6日）動画を掲載しました
 
 END OF DOCUMENT
