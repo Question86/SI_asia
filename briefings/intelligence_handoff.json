@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-05T23:49:30Z",
+  "generated_at": "2026-10-06T00:40:07Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Denial of Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3719",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T08:55:47+00:00",
-      "age_days": 0.62,
+      "age_days": 0.66,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://jvn.jp/jp/JVN24352487/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-05T15:00:00+09:00",
-      "age_days": 0.74,
+      "age_days": 0.78,
       "topics": [
         "security"
       ],
@@ -64,7 +64,7 @@
       "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-10-05T15:59:40+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "macro"
@@ -90,7 +90,7 @@
       "url": "https://www.bis.org/speeches/20261005-digital-banking-resilient-banking-technology-cyber-security-and-ai-pillars-trust",
       "source": "BIS Central Bankers Speeches, BIS Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 109.39,
+      "age_days": 109.42,
       "topics": [
         "ai",
         "security"
@@ -120,7 +120,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260088.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 109.39,
+      "age_days": 109.42,
       "topics": [
         "general"
       ],
@@ -149,7 +149,7 @@
       "url": "https://www.bis.org/speeches/20261005-opening-address-key-trends-2026-conference",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-05T00:00:00+00:00",
-      "age_days": 0.99,
+      "age_days": 1.03,
       "topics": [
         "macro"
       ],
@@ -177,7 +177,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3294",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T12:10:58+00:00",
-      "age_days": 0.49,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -203,7 +203,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2430",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T11:31:42+00:00",
-      "age_days": 0.51,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -229,7 +229,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3648",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-05T10:18:02+00:00",
-      "age_days": 0.56,
+      "age_days": 0.6,
       "topics": [
         "security"
       ],
@@ -255,7 +255,7 @@
       "url": "https://weekly.ascii.jp/elem/000/004/439/4439882/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T08:05:24+00:00",
-      "age_days": 0.66,
+      "age_days": 0.69,
       "topics": [
         "ai",
         "security"
@@ -282,7 +282,7 @@
       "url": "https://www.bis.org/speeches/20261005-payments-age-ai-agents",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-05T00:00:00+00:00",
-      "age_days": 0.99,
+      "age_days": 1.03,
       "topics": [
         "ai",
         "macro"
@@ -310,7 +310,7 @@
       "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-05T22:53:37+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
