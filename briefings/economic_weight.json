@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T17:00:53+00:00",
+  "generated_at": "2026-10-06T17:20:22+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -173,7 +173,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -244,6 +244,24 @@
       "first_seen_at": "2026-09-18T16:57:23+00:00",
       "last_seen_at": "2026-09-18T16:57:23+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_0a0a4e425e561847523e",
+      "title": "M 5.1 - 34 km NNW of Bāgeshwar, India",
+      "event_classes": [
+        "natural_disaster",
+        "conflict"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800000.0,
+      "p50_usd": 11280000000.0,
+      "p90_usd": 1128000000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-06T17:20:02+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_ae1c2a05cd8a2967d47c",
@@ -1338,7 +1356,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-14T11:31:15+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -1406,7 +1424,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -1593,7 +1611,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-06T05:20:26+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -1969,6 +1987,23 @@
       "first_seen_at": "2026-09-29T12:06:28+00:00",
       "last_seen_at": "2026-09-29T23:56:49+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_c011425b698cc0869bb7",
+      "title": "M 5.9 - 264 km SSW of Severo-Kuril’sk, Russia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-06T17:20:02+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_016849870c540dd48378",
@@ -6336,7 +6371,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -6608,7 +6643,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T03:10:58+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -7203,7 +7238,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T05:06:13+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -7713,7 +7748,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -7951,7 +7986,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T10:50:44+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -7985,7 +8020,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T07:30:43+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -8121,7 +8156,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T01:47:10+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -8189,7 +8224,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T01:47:10+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -8206,7 +8241,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T09:01:25+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -8325,7 +8360,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T02:05:09+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -8750,7 +8785,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T04:27:57+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -9227,7 +9262,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-06T17:00:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a2888de3c57b771f0196",
@@ -9243,7 +9278,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T10:50:44+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -11182,7 +11217,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T06:37:23+00:00",
       "last_seen_at": "2026-10-06T17:00:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ad6ea218e4d9e377105b",
@@ -12185,7 +12220,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T03:10:58+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
@@ -13919,7 +13954,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-10-06T17:00:22+00:00",
+      "last_seen_at": "2026-10-06T17:20:02+00:00",
       "status": "active"
     },
     {
