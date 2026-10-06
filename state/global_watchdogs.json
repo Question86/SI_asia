@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:58:26+00:00",
+  "generated_at": "2026-10-06T19:16:16+00:00",
   "sections": {
     "global_security": [
       {
@@ -84,16 +84,6 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Guatemala",
-        "summary": "Green flood alert in Guatemala",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104213",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.",
         "summary": "Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.",
@@ -124,16 +114,6 @@
       },
       {
         "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.",
-        "summary": "Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569326",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.5 - 92 km NNW of Aleneva, Alaska",
         "summary": "M5.5 - 92 km NNW of Aleneva, Alaska. PAGER alert: green. Tsunami flag: 0.",
@@ -143,7 +123,7 @@
         "metrics": {
           "mag": 5.5,
           "alert": "green",
-          "sig": 579.0,
+          "sig": 598.0,
           "tsunami": 0
         }
       }

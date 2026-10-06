@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T18:58:23+00:00_
+_Generiert: 2026-10-06T19:16:13+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,6 @@ _Generiert: 2026-10-06T18:58:23+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
-- **GDACS: Green flood alert in Guatemala** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104213)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Guatemala
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569807)
   - Quelle: GDACS
   - Zeit: ``
@@ -53,10 +49,6 @@ _Generiert: 2026-10-06T18:58:23+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone KOGUMA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569326)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.
 - **USGS earthquake M5.5 - 92 km NNW of Aleneva, Alaska** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuxgky)
   - Quelle: USGS
   - Zeit: `2026-10-06T18:34:31+00:00`
