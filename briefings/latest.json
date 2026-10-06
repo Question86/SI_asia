@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T10:23:41+00:00",
-  "run_id": "2026-10-06T10:23:41+00:00",
+  "generated_at": "2026-10-06T10:37:45+00:00",
+  "run_id": "2026-10-06T10:37:45+00:00",
   "date": "2026-10-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 48
+      "configured_public_sources_only": 52
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 48,
-    "displayed_findings": 48,
+    "new_relevant_findings": 4,
+    "today_file_total": 52,
+    "displayed_findings": 52,
     "high": 0,
-    "medium": 22,
-    "observe": 26,
+    "medium": 24,
+    "observe": 28,
     "source_errors": 0
   },
   "sections": {
@@ -282,6 +282,30 @@
         "id": "386044d5f63064ba517a"
       },
       {
+        "title": "[NEU] [hoch] Android Patchday Oktober 2026: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3740",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-06T10:20:46+00:00",
+        "fetched_at": "2026-10-06T10:37:16+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Patch",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "417e96b0ef0958e6cb6d"
+      },
+      {
         "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737",
         "source": "BSI CERT-Bund Security Advisories",
@@ -483,6 +507,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4f670beeb0ef8ccec24c"
+      },
+      {
+        "title": "[NEU] [hoch] BuildKit: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3741",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-06T10:25:46+00:00",
+        "fetched_at": "2026-10-06T10:37:16+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in BuildKit ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen sowie einen Denial-of-Service-Zustand auszulösen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "11f89f6c56facd30024b"
       },
       {
         "title": "[NEU] [niedrig] GnuPG: Schwachstelle ermöglicht Manipulation von Dateien",
@@ -937,6 +984,26 @@
         "id": "0fe5ea0634171fac65ee"
       },
       {
+        "title": "Shaping inclusive transitions in Asia - enhancing SMEs’ resilience and adaptation to climate change",
+        "url": "https://www.bis.org/speeches/20261006-shaping-inclusive-transitions-asia-enhancing-smes-resilience-and-adaptation-climate-change",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-06T00:00:00+00:00",
+        "fetched_at": "2026-10-06T10:37:16+00:00",
+        "summary": "Welcome remarks by Mr Darryl Chan, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Capacity-building Alliance of Sustainable Investment (CASI) Sustainability Forum \"Shaping inclusive transitions in Asia: enhancing SMEs’ resilience and adaptation to climate change\", Hong Kong, 11 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2e0be8c9797f18ce0450"
+      },
+      {
         "title": "Not just AI. China is building technologies that challenge U.S. dominance",
         "url": "https://restofworld.org/2026/china-america-tech-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "source": "Rest of World Global Tech Feed",
@@ -1016,6 +1083,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5d8352d700add8419afc"
+      },
+      {
+        "title": "Economic policymaking in a changing world",
+        "url": "https://www.bis.org/speeches/20261006-economic-policymaking-changing-world",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-06T00:00:00+00:00",
+        "fetched_at": "2026-10-06T10:37:16+00:00",
+        "summary": "Keynote address by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, at the North West University and University of Mauritius Social Sciences International Research Conference (SSIRC) 2026, Port Louis, 9 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c44ec5c999cc5dd93fac"
       },
       {
         "title": "楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出",
@@ -1503,6 +1590,30 @@
       "id": "386044d5f63064ba517a"
     },
     {
+      "title": "[NEU] [hoch] Android Patchday Oktober 2026: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3740",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-06T10:20:46+00:00",
+      "fetched_at": "2026-10-06T10:37:16+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "417e96b0ef0958e6cb6d"
+    },
+    {
       "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1704,6 +1815,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "4f670beeb0ef8ccec24c"
+    },
+    {
+      "title": "[NEU] [hoch] BuildKit: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3741",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-06T10:25:46+00:00",
+      "fetched_at": "2026-10-06T10:37:16+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in BuildKit ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen sowie einen Denial-of-Service-Zustand auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "11f89f6c56facd30024b"
     },
     {
       "title": "[NEU] [niedrig] GnuPG: Schwachstelle ermöglicht Manipulation von Dateien",
@@ -2156,6 +2290,26 @@
       "id": "0fe5ea0634171fac65ee"
     },
     {
+      "title": "Shaping inclusive transitions in Asia - enhancing SMEs’ resilience and adaptation to climate change",
+      "url": "https://www.bis.org/speeches/20261006-shaping-inclusive-transitions-asia-enhancing-smes-resilience-and-adaptation-climate-change",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-06T00:00:00+00:00",
+      "fetched_at": "2026-10-06T10:37:16+00:00",
+      "summary": "Welcome remarks by Mr Darryl Chan, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Capacity-building Alliance of Sustainable Investment (CASI) Sustainability Forum \"Shaping inclusive transitions in Asia: enhancing SMEs’ resilience and adaptation to climate change\", Hong Kong, 11 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e0be8c9797f18ce0450"
+    },
+    {
       "title": "Not just AI. China is building technologies that challenge U.S. dominance",
       "url": "https://restofworld.org/2026/china-america-tech-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -2235,6 +2389,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "5d8352d700add8419afc"
+    },
+    {
+      "title": "Economic policymaking in a changing world",
+      "url": "https://www.bis.org/speeches/20261006-economic-policymaking-changing-world",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-06T00:00:00+00:00",
+      "fetched_at": "2026-10-06T10:37:16+00:00",
+      "summary": "Keynote address by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, at the North West University and University of Mauritius Social Sciences International Research Conference (SSIRC) 2026, Port Louis, 9 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c44ec5c999cc5dd93fac"
     },
     {
       "title": "楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出",
@@ -2469,24 +2643,91 @@
   ],
   "new_findings": [
     {
-      "title": "Not just AI. China is building technologies that challenge U.S. dominance",
-      "url": "https://restofworld.org/2026/china-america-tech-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
+      "title": "[NEU] [hoch] Android Patchday Oktober 2026: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3740",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-06T10:00:00+00:00",
-      "fetched_at": "2026-10-06T10:23:09+00:00",
-      "summary": "From batteries and solar panels to drones and satellites, China is building tech capabilities that extend well beyond AI, writes Steve Feldstein in his new book, \"Bytes and Bullets: Global Rivalries, Big Tech, and the New Shape of Modern Warfare.\"",
+      "published_at": "2026-10-06T10:20:46+00:00",
+      "fetched_at": "2026-10-06T10:37:16+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
-        "AI/KI"
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7b9400a35cf4189c41e2"
+      "id": "417e96b0ef0958e6cb6d"
+    },
+    {
+      "title": "[NEU] [hoch] BuildKit: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3741",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-06T10:25:46+00:00",
+      "fetched_at": "2026-10-06T10:37:16+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in BuildKit ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen sowie einen Denial-of-Service-Zustand auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "11f89f6c56facd30024b"
+    },
+    {
+      "title": "Shaping inclusive transitions in Asia - enhancing SMEs’ resilience and adaptation to climate change",
+      "url": "https://www.bis.org/speeches/20261006-shaping-inclusive-transitions-asia-enhancing-smes-resilience-and-adaptation-climate-change",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-06T00:00:00+00:00",
+      "fetched_at": "2026-10-06T10:37:16+00:00",
+      "summary": "Welcome remarks by Mr Darryl Chan, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Capacity-building Alliance of Sustainable Investment (CASI) Sustainability Forum \"Shaping inclusive transitions in Asia: enhancing SMEs’ resilience and adaptation to climate change\", Hong Kong, 11 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e0be8c9797f18ce0450"
+    },
+    {
+      "title": "Economic policymaking in a changing world",
+      "url": "https://www.bis.org/speeches/20261006-economic-policymaking-changing-world",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-06T00:00:00+00:00",
+      "fetched_at": "2026-10-06T10:37:16+00:00",
+      "summary": "Keynote address by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, at the North West University and University of Mauritius Social Sciences International Research Conference (SSIRC) 2026, Port Louis, 9 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c44ec5c999cc5dd93fac"
     }
   ],
   "source_errors": [],

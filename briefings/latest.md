@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T10:23:41+00:00_
+_Generiert: 2026-10-06T10:37:45+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „thedotmack/claude-mem“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+52 neue relevante Treffer. Stärkstes Signal: „thedotmack/claude-mem“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Zabbix Frontend ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [hoch] Android Patchday Oktober 2026: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3740)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-06T10:20:46+00:00`, fetched `2026-10-06T10:37:16+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um beliebigen Programmcode auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-06T07:55:46+00:00`, fetched `2026-10-06T08:00:11+00:00`
@@ -122,15 +131,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Informationen offenzulegen, Daten zu verfälschen oder zu manipulieren oder Denial-of-Service-Zustände zu verursachen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Microsoft Office: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-06T05:40:46+00:00`, fetched `2026-10-06T05:49:20+00:00`
-  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Microsoft Teams, Microsoft Azure Managed Instance und Microsoft Service Bus ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen oder Daten zu manipulieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - State of Yap, Federated States of Micronesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -270,6 +270,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: IT企業「GMOインターネットグループ」傘下の「GMOリサーチ＆AI」は、運営しているアンケートサイトに不正アクセスがあり、会員の個人情報94万件余りが流出したと発表しました。 流出したのは氏名や生…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Shaping inclusive transitions in Asia - enhancing SMEs’ resilience and adaptation to climate change** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261006-shaping-inclusive-transitions-asia-enhancing-smes-resilience-and-adaptation-climate-change)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-06T00:00:00+00:00`, fetched `2026-10-06T10:37:16+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
+  - Kurz: Welcome remarks by Mr Darryl Chan, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Capacity-building Alliance of Sustainable Investment (CASI) Sustainability Forum "Shaping inclusive transitions in Asia: enhancing SMEs’ resilience and adaptation to climate change", Hong Kong, 11 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Not just AI. China is building technologies that challenge U.S. dominance** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-america-tech-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-10-06T10:00:00+00:00`, fetched `2026-10-06T10:23:09+00:00`
@@ -297,15 +306,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年10月6日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **boykopovar/AnyPS5** — Score 5, observation — [Quelle](https://github.com/boykopovar/AnyPS5)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-10-06T07:30:10+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
+- **Economic policymaking in a changing world** — Score 6, opportunity — [Quelle](https://www.bis.org/speeches/20261006-economic-policymaking-changing-world)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-06T00:00:00+00:00`, fetched `2026-10-06T10:37:16+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Tool for automatic PS5 executables porting to Linux and Windows https://discord.gg/BHFztBPUe About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emulation or separate runtime process. Usage , Build instructions , Technical debt of the project ,…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Keynote address by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, at the North West University and University of Mauritius Social Sciences International Research Conference (SSIRC) 2026, Port Louis, 9 September 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
