@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-06T09:01:25+00:00",
+  "generated_at": "2026-10-06T09:26:21+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 43,
-    "clusters": 34,
+    "findings": 44,
+    "clusters": 35,
     "cross_source_confrmed": 0,
     "hot": 1,
     "early_signals": 1,
-    "dominance_penalized": 5
+    "dominance_penalized": 6
   },
   "clusters": [
     {
@@ -26,19 +26,19 @@
       "max_score": 20,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 29.5,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 27.0,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 25.1,
-      "ranking_score": 29.5,
+      "raw_network_score": 22.1,
+      "ranking_score": 27.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": true,
       "early_signal_bonus": 5.5,
@@ -87,49 +87,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-06T07:30:43+00:00"
-    },
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] Zabbix (Frontend): Schwachstelle ermöglicht Cross-Site Scripting",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3723",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3724",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3736"
-      ],
-      "finding_count": 9,
-      "max_score": 17,
-      "credibility_total": 9.45,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.52,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 35.9,
-      "ranking_score": 21.52,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 3.02,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:bottleneck-economy-taking-shape-across-southeast-asia-chip",
@@ -250,6 +207,49 @@
       "first_seen_at": "2026-10-06T01:47:10+00:00"
     },
     {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [mittel] Zabbix (Frontend): Schwachstelle ermöglicht Cross-Site Scripting",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3723",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3724",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3736"
+      ],
+      "finding_count": 9,
+      "max_score": 17,
+      "credibility_total": 9.45,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 21.42,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 35.9,
+      "ranking_score": 21.42,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 2.92,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
       "key": "title:east-asia-crypto-market-splits-korea-bets-tokens",
       "title": "East Asia’s crypto market splits as Korea bets on AI tokens and Hong Kong courts institutions",
       "sources": [
@@ -307,18 +307,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 17.02,
+      "network_score": 16.9,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 16.1,
-      "ranking_score": 17.02,
+      "ranking_score": 16.9,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.52,
+      "baseline_bonus": 1.4,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -621,18 +621,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.56,
+      "network_score": 12.55,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 15.2,
-      "ranking_score": 12.56,
+      "ranking_score": 12.55,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.06,
+      "baseline_bonus": 0.05,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -716,6 +716,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-06T02:05:09+00:00"
+    },
+    {
+      "key": "earthquake:m 4.9 - 55 km ese of kokopo, papua new guinea:4.9",
+      "title": "M 4.9 - 55 km ESE of Kokopo, Papua New Guinea",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzvn"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 14.7,
+      "ranking_score": 10.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-10-06T09:26:21+00:00"
     },
     {
       "key": "earthquake:chile:4.7",
@@ -1332,7 +1373,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-06T09:01:25Z",
+    "generated_at": "2026-10-06T09:26:22Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
