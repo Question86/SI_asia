@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T14:51:13+00:00",
+  "generated_at": "2026-10-06T15:01:11+00:00",
   "candidate_count": 1688,
   "candidates": [
     {
@@ -1074,22 +1074,25 @@
       "source_url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bq261002~5e0dd6a1f4.en.html"
     },
     {
-      "candidate_id": "cand_0f6171be7e159a8f3965",
-      "event_id": "evt_624a2e3ce3ccd3efe095",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm",
-      "observed_at": "2026-10-06T14:51:04+00:00",
-      "currency": "USD",
       "amount_native": 10000000000.0,
       "amount_usd": 10000000000.0,
-      "conversion_status": "not_required",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_624a2e3ce3ccd3efe095:unclassified",
       "attribution_probability": null,
-      "snippet": "ank portfolios defined by asset size and updates to the large bank tailoring framework. For the past 15 years, a community bank has been defined as a bank with assets of less than $10 billion. 4 Fixed asset thresholds can push a smaller noncomplex bank into a higher supervisory tier with standards designed for more complex institutions and stronger supervisory scrutiny",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "primary_hint",
       "candidate_confidence": 0.8,
-      "review_status": "pending"
+      "candidate_id": "cand_0f6171be7e159a8f3965",
+      "component_confidence": 0.55,
+      "component_suggestion": "transfers",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_624a2e3ce3ccd3efe095",
+      "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
+      "observed_at": "2026-10-06T14:51:04+00:00",
+      "overlap_group_suggestion": "evt_624a2e3ce3ccd3efe095:transfers:d86d4d09d63d",
+      "review_status": "pending",
+      "snippet": "ank portfolios defined by asset size and updates to the large bank tailoring framework. For the past 15 years, a community bank has been defined as a bank with assets of less than $10 billion. 4 Fixed asset thresholds can push a smaller noncomplex bank into a higher supervisory tier with standards designed for more complex institutions and stronger supervisory scrutiny",
+      "source_priority": "primary_hint",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm"
     },
     {
       "amount_native": 1000000000.0,
@@ -3274,22 +3277,25 @@
       "source_url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html"
     },
     {
-      "candidate_id": "cand_19cd1a8a2fc0bcbd495a",
-      "event_id": "evt_624a2e3ce3ccd3efe095",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm",
-      "observed_at": "2026-10-06T14:51:04+00:00",
-      "currency": "USD",
       "amount_native": 10000000000.0,
       "amount_usd": 10000000000.0,
-      "conversion_status": "not_required",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_624a2e3ce3ccd3efe095:unclassified",
       "attribution_probability": null,
-      "snippet": "ers) or static standards are used to create different tiers of institutions for regulatory and supervisory purposes (like the definition of a community bank being generally set at $10 billion in assets) become irrational over time. These thresholds matter. They limit a bank's activities and impact the proportionality of supervisory oversight. Every standard reflects a",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "primary_hint",
       "candidate_confidence": 0.6,
-      "review_status": "pending"
+      "candidate_id": "cand_19cd1a8a2fc0bcbd495a",
+      "component_confidence": 0.0,
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_624a2e3ce3ccd3efe095",
+      "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
+      "observed_at": "2026-10-06T14:51:04+00:00",
+      "overlap_group_suggestion": "evt_624a2e3ce3ccd3efe095:unknown:d4e303d1cfc8",
+      "review_status": "pending",
+      "snippet": "ers) or static standards are used to create different tiers of institutions for regulatory and supervisory purposes (like the definition of a community bank being generally set at $10 billion in assets) become irrational over time. These thresholds matter. They limit a bank's activities and impact the proportionality of supervisory oversight. Every standard reflects a",
+      "source_priority": "primary_hint",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm"
     },
     {
       "amount_native": 8000000000.0,
