@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-06T01:53:54Z",
+  "generated_at": "2026-10-06T02:23:14Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:00:35+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -38,11 +38,41 @@
       "summary": "The most consequential AI launch of the past week was one that never happened. On the eve of its annual developer conference, OpenAI shelved GPT-6.1 Astra, the model expected to power ChatGPT and Codex next month and built to handle complex tasks with less human supervision. The reason was not that it was too weak. [……"
     },
     {
+      "title": "AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain",
+      "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-06T02:00:10+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security",
+        "infra",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: supply, chain",
+        "high terms: 10",
+        "security high-signal: 10",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "The artificial intelligence investment story is beginning to move beyond the most obvious winners. For much of the past three years, the market’s attention has centred on graphics processing units (GPUs), high-bandwidth memory and the companies supplying the raw compute needed to train large AI models. That first wave…"
+    },
+    {
       "title": "Investors do not just fund startups. They fund predictability",
       "url": "https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:00:24+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security",
@@ -68,16 +98,45 @@
       "summary": "Southeast Asia has become one of the world’s most competitive regions for investment. Global companies are diversifying supply chains beyond China. Governments are offering tax incentives, industrial land and digital-economy programmes. New capital is flowing into manufacturing, data centres, semiconductors and techno…"
     },
     {
+      "title": "AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain",
+      "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-06T02:05:09+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "infra"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "early terms: supply, chain",
+        "single-source AI hype brake -8.0",
+        "krass gate: single-source non-official/non-identity signal capped",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Investors do not just fund startups. They fund predictability",
       "url": "https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:47:10+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "extreme",
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
@@ -88,7 +147,7 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +1",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
     },
@@ -97,11 +156,11 @@
       "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:47:10+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 24.0,
+      "dynamics_score": 21.5,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
@@ -119,15 +178,39 @@
       "summary": ""
     },
     {
+      "title": "Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet",
+      "url": "https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-06T02:05:09+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "ランサム集団キリンの中心メンバー、日本で拘束 アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T00:59:38+00:00",
-      "age_days": 36.04,
+      "age_days": 36.06,
       "topics": [
         "general"
       ],
-      "dynamics_score": 8.74,
+      "dynamics_score": 8.73,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -139,16 +222,43 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -5.3 for 36.0d old signal"
+        "aging penalty -5.3 for 36.1d old signal"
       ],
       "summary": ""
+    },
+    {
+      "title": "Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet",
+      "url": "https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-06T02:00:44+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "In 2021, I invested in one of the robotics startups that was solving for real world problems. The idea was to look beyond the screen and make every hardware talking through new robo technology. My thesis was clear, after the software it’s hardware that will be disrupted. Since AI disrupted the market after 2022, my [……"
     },
     {
       "title": "ランサム集団キリンの中心メンバー、日本で拘束 アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T23:08:08+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -168,29 +278,27 @@
       "summary": "昨年9月末のアサヒグループホールディングスへのサイバー攻撃について、犯行声明を出したハッカー集団「Qilin」のウェブサイトの一部=セキュリティー会社提供（朝日新聞） 世界各国の企業などにサイバー攻撃を繰り返すランサムウェア（身代金ウイルス）集団「Qilin（キリン）」の中心メンバーでロシア国籍の男（28）を..."
     },
     {
-      "title": "TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる",
-      "url": "https://gigazine.net/news/20261006-homa-protocol-replace-tcp/",
+      "title": "日立製作所とアンソロピックが提携、「米国AIの軍門に降った」と思う人が知らない事実",
+      "url": "https://diamond.jp/articles/-/400443",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 109.0,
+      "published_at": "2026-10-06T02:05:09+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 2.26,
+      "dynamics_score": 3.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 1.6,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 1.60",
+        "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 109.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -200,7 +308,7 @@
       "url": "https://gigazine.net/news/20261006-homa-protocol-replace-tcp/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T23:08:07+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -231,8 +339,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
-      "quiet": 4
+      "strong": 6,
+      "watch": 1,
+      "quiet": 5
     }
   }
 }
