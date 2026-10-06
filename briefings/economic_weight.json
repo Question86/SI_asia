@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T05:20:44+00:00",
+  "generated_at": "2026-10-06T05:36:42+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -379,7 +379,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T03:33:03+00:00",
       "last_seen_at": "2026-10-06T05:20:26+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ba08d4bd315956d1d3e3",
@@ -1338,7 +1338,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-14T11:31:15+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
@@ -1406,7 +1406,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
@@ -1580,6 +1580,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e940cc7a0c9b4d04cde8",
+      "title": "M 4.9 - State of Yap, Federated States of Micronesia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1160000.0,
+      "p50_usd": 116000000.0,
+      "p90_usd": 11600000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_eca31d00efcb436d9db3",
       "title": "M 5.3 - 0 km NNE of Yōkaichiba, Japan",
       "event_classes": [
@@ -1612,23 +1629,6 @@
       "first_seen_at": "2026-09-01T13:58:29+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_e940cc7a0c9b4d04cde8",
-      "title": "M 4.9 - State of Yap, Federated States of Micronesia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1160000.0,
-      "p50_usd": 116000000.0,
-      "p90_usd": 11600000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-06T05:20:26+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_010865faf79d8c1f952b",
@@ -6574,7 +6574,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T03:10:58+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
@@ -7169,7 +7169,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T05:06:13+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
@@ -7696,7 +7696,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
@@ -8053,7 +8053,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T01:47:10+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
@@ -8121,7 +8121,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T01:47:10+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
@@ -8240,7 +8240,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T02:05:09+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
@@ -8665,7 +8665,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T04:27:57+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
@@ -11079,7 +11079,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T03:10:58+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
@@ -11303,6 +11303,23 @@
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_c67d8a10a9fe5840008a",
+      "title": "The junior developer dilemma: How AI is reshaping tech talent in Southeast Asia",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-06T05:36:25+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_062e97ed5d926e4dc4f8",
@@ -11985,6 +12002,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a8b9aa641cc82423d63a",
+      "title": "ハッカーが楽天会員1億100万件の個人情報 販売を主張―氏名・住所・ポイント情報のサンプル掲載、漏洩元・真正性は未確認|セキュリティニュースのセキュリティ対策Lab",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_a9168860075ad99c5a0d",
       "title": "Claude Codeで開発以外の業務も爆速化しよう！",
       "event_classes": [
@@ -12032,7 +12066,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T03:10:58+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
@@ -12323,23 +12357,6 @@
       "first_seen_at": "2026-09-08T05:58:24+00:00",
       "last_seen_at": "2026-09-08T22:21:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_a8b9aa641cc82423d63a",
-      "title": "ハッカーが楽天会員1億100万件の個人情報 販売を主張―氏名・住所・ポイント情報のサンプル掲載、漏洩元・真正性は未確認|セキュリティニュースのセキュリティ対策Lab",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112800.0,
-      "p50_usd": 11280000.0,
-      "p90_usd": 1128000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-06T05:20:26+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -13562,7 +13579,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T02:05:09+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
@@ -14753,7 +14770,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T04:01:56+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
@@ -16912,7 +16929,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T03:10:58+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
@@ -17579,6 +17596,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d0c97198986b9c98fb2b",
+      "title": "TalentHero, DeeMoney form Thai JV to connect hiring, payroll and payments",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_d0e3cefd6ca241b3f59a",
       "title": "GitHub - fallow-rs/fallow: Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion e",
       "event_classes": [
@@ -17798,23 +17832,6 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_d0c97198986b9c98fb2b",
-      "title": "TalentHero, DeeMoney form Thai JV to connect hiring, payroll and payments",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108800.0,
-      "p50_usd": 10880000.0,
-      "p90_usd": 1088000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-06T05:20:26+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -18527,7 +18544,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T00:59:38+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
@@ -19904,7 +19921,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T02:05:09+00:00",
-      "last_seen_at": "2026-10-06T05:20:26+00:00",
+      "last_seen_at": "2026-10-06T05:36:25+00:00",
       "status": "active"
     },
     {
