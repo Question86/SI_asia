@@ -1,28 +1,78 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-06T02:50:41Z_
+_Generated: 2026-10-06T03:17:49Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
+Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「チケット流通センター」における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
+
+### Androidアプリ「チケット流通センター」における複数の脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-10-06T12:00:00+09:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: jvn, security
+- Quelle: https://jvn.jp/jp/JVN53292492/
+
+### MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-10-06T03:10:58+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://jvn.jp/jp/JVN13510969/
+
+### MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-06T12:00:15+09:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
+- Quelle: https://jvn.jp/jp/JVN13510969/
+
+### The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-10-06T01:47:10+00:00` / age_days `0.06`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/
 
 ### The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-06T01:00:35+00:00` / age_days `0.08`
+- Published: `2026-10-06T01:00:35+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/
 
+### Gartner says AI will kill the entry-level marketing job by 2030. Here’s why that’s the wrong takeaway
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-06T03:10:58+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +1, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/
+
 ### AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-06T02:00:10+00:00` / age_days `0.04`
+- Published: `2026-10-06T02:00:10+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, high terms: 10, security high-signal: 10, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,100 +82,50 @@ Stärkste Dynamik nach Gate-Recheck: “The agent that lied: what GPT-6.1 Astra�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-06T01:00:24+00:00` / age_days `0.08`
+- Published: `2026-10-06T01:00:24+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, high terms: 10, security high-signal: 10, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/
 
-### AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain
+### Gartner says AI will kill the entry-level marketing job by 2030. Here’s why that’s the wrong takeaway
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.9`
-- Published: `2026-10-06T02:05:09+00:00` / age_days `0.03`
+- Published: `2026-10-06T03:00:16+00:00` / age_days `0.01`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, early terms: supply, chain, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/
+- Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/
 
 ### Investors do not just fund startups. They fund predictability
 
-- Band: `strong` (raw `extreme`)
+- Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-06T01:47:10+00:00` / age_days `0.04`
+- Published: `2026-10-06T01:47:10+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, krass gate: single-source non-official/non-identity signal capped
 - Quelle: https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/
 
-### The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia
+### AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-10-06T01:47:10+00:00` / age_days `0.04`
+- Published: `2026-10-06T02:05:09+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +2, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/
+- Warum: momentum delta +3, early terms: supply, chain, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/
 
-### Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet
+### Androidアプリ「チケット流通センター」における複数の脆弱性
 
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-10-06T02:05:09+00:00` / age_days `0.03`
+- Band: `watch` (raw `extreme`)
+- Dynamics score: `19.9`
+- Published: `2026-09-09T12:51:45+00:00` / age_days `26.6`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/
-
-### ランサム集団キリンの中心メンバー、日本で拘束 アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `8.72`
-- Published: `2026-08-31T00:59:38+00:00` / age_days `36.08`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -5.3 for 36.1d old signal
-- Quelle: https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b
-
-### Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `7.0`
-- Published: `2026-10-06T02:00:44+00:00` / age_days `0.03`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/
-
-### ランサム集団キリンの中心メンバー、日本で拘束 アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `5.0`
-- Published: `2026-10-05T23:08:08+00:00` / age_days `0.15`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b
-
-### TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `2.0`
-- Published: `2026-10-05T23:08:07+00:00` / age_days `0.15`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://gigazine.net/news/20261006-homa-protocol-replace-tcp/
-
-### 日立製作所とアンソロピックが提携、「米国AIの軍門に降った」と思う人が知らない事実
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `1.0`
-- Published: `2026-10-06T02:05:09+00:00` / age_days `0.03`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://diamond.jp/articles/-/400443
+- Warum: momentum delta +3, baseline z_hint 11.60, aging penalty -2.0 for 26.6d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance, stale single-source cap: max watch after 14d without fresh resonance
+- Quelle: https://jvn.jp/jp/JVN53292492/
 
 END OF DOCUMENT

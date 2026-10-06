@@ -1,29 +1,131 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-06T02:50:41Z",
+  "generated_at": "2026-10-06T03:17:49Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 14,
+    "dynamics": 24,
     "bands": {
-      "krass": 1,
-      "strong": 5,
-      "watch": 1,
-      "quiet": 7
+      "krass": 3,
+      "extreme": 1,
+      "strong": 7,
+      "watch": 4,
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
-      "strong": 6,
-      "watch": 1,
-      "quiet": 7
+      "strong": 11,
+      "watch": 4,
+      "quiet": 9
     }
   },
   "top_dynamics": [
+    {
+      "title": "Androidアプリ「チケット流通センター」における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN53292492/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-06T12:00:00+09:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "株式会社ウェイブダッシュが提供するAndroidアプリ「チケット流通センター」には、複数の脆弱性が存在します。"
+    },
+    {
+      "title": "MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性",
+      "url": "https://jvn.jp/jp/JVN13510969/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-06T03:10:58+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性",
+      "url": "https://jvn.jp/jp/JVN13510969/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-06T12:00:15+09:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Measurement Computing Corporationが提供するUniversal Library for Linux (uldaq)には、スタックベースのバッファオーバーフローの脆弱性が存在します。"
+    },
+    {
+      "title": "The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia",
+      "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-06T01:47:10+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
     {
       "title": "The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia",
       "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:00:35+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -46,11 +148,39 @@
       "summary": "The most consequential AI launch of the past week was one that never happened. On the eve of its annual developer conference, OpenAI shelved GPT-6.1 Astra, the model expected to power ChatGPT and Codex next month and built to handle complex tasks with less human supervision. The reason was not that it was too weak. [……"
     },
     {
+      "title": "Gartner says AI will kill the entry-level marketing job by 2030. Here’s why that’s the wrong takeaway",
+      "url": "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-06T03:10:58+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain",
       "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T02:00:10+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security",
@@ -80,7 +210,7 @@
       "url": "https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:00:24+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security",
@@ -106,14 +236,14 @@
       "summary": "Southeast Asia has become one of the world’s most competitive regions for investment. Global companies are diversifying supply chains beyond China. Governments are offering tax incentives, industrial land and digital-economy programmes. New capital is flowing into manufacturing, data centres, semiconductors and techno…"
     },
     {
-      "title": "AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain",
-      "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
+      "title": "Gartner says AI will kill the entry-level marketing job by 2030. Here’s why that’s the wrong takeaway",
+      "url": "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-06T02:05:09+00:00",
-      "age_days": 0.03,
+      "published_at": "2026-10-06T03:00:16+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
-        "infra"
+        "macro"
       ],
       "dynamics_score": 24.9,
       "raw_band": "strong",
@@ -121,51 +251,52 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
-        "early terms: supply, chain",
-        "single-source AI hype brake -8.0",
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": ""
+      "summary": "Nearly one in five marketing leaders has already eliminated roles because automation now handles the work. That is the finding behind a new Gartner prediction, which Marketing Week reported this week: by 2030, most high-performing marketing teams will be able to drop the traditional bottom rungs of the corporate ladde…"
     },
     {
       "title": "Investors do not just fund startups. They fund predictability",
       "url": "https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:47:10+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "extreme",
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        "momentum delta +3",
+        "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
     },
     {
-      "title": "The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia",
-      "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
+      "title": "AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain",
+      "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-06T01:47:10+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-10-06T02:05:09+00:00",
+      "age_days": 0.05,
       "topics": [
-        "ai"
+        "ai",
+        "infra"
       ],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -173,14 +304,43 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
+        "early terms: supply, chain",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Androidアプリ「チケット流通センター」における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN53292492/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-09T12:51:45+00:00",
+      "age_days": 26.6,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "extreme",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 11.6,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 11.60",
+        "aging penalty -2.0 for 26.6d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance",
+        "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
     },
@@ -189,11 +349,35 @@
       "url": "https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T02:05:09+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.0,
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Geminiの使いどころ🥹",
+      "url": "https://anond.hatelabo.jp/20261006101040",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-06T03:10:58+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -209,11 +393,60 @@
       "summary": ""
     },
     {
+      "title": "古川大臣記者会見（令和8年10月6日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261006-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-06T03:10:58+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "古川大臣記者会見（令和8年10月6日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261006-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-06T02:59:42+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "古川大臣記者会見（令和8年10月6日）動画を掲載しました"
+    },
+    {
       "title": "ランサム集団キリンの中心メンバー、日本で拘束 アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T00:59:38+00:00",
-      "age_days": 36.08,
+      "age_days": 36.1,
       "topics": [
         "general"
       ],
@@ -234,11 +467,37 @@
       "summary": ""
     },
     {
+      "title": "Geminiの使いどころ🥹",
+      "url": "https://anond.hatelabo.jp/20261006101040",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-06T01:10:59+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "用途にもよるけど、現時点では ChatGPT ＞ Claude ＞＞＞ Gemini という印象です。 AI同士で議論させると、Geminiの能力の低さが目立ちます。 Gemini自身が「GeminiはChatGPTやClaudeより劣っている」と自白しているので間違いありません。 しかしGeminiには、自分で自分の間違いを認めるだけの判断力は残されていました..."
+    },
+    {
       "title": "Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet",
       "url": "https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T02:00:44+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -261,11 +520,37 @@
       "summary": "In 2021, I invested in one of the robotics startups that was solving for real world problems. The idea was to look beyond the screen and make every hardware talking through new robo technology. My thesis was clear, after the software it’s hardware that will be disrupted. Since AI disrupted the market after 2022, my [……"
     },
     {
+      "title": "日立製作所とアンソロピックが提携、「米国AIの軍門に降った」と思う人が知らない事実",
+      "url": "https://diamond.jp/articles/-/400443",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-06T02:05:09+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "ランサム集団キリンの中心メンバー、日本で拘束 アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T23:08:08+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -289,7 +574,7 @@
       "url": "https://gigazine.net/news/20261006-homa-protocol-replace-tcp/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T23:08:07+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -311,37 +596,11 @@
       "summary": "ウェブやクラウドを支える通信プロトコル「TCP」はAI向けデータセンターの通信には適していないとして、スタンフォード大学のジョン・オースターハウト名誉教授がトランスポートプロトコル「Homa」への移行を訴えています。Homaは短いメッセージを優先的に処理することで通信遅延を抑える仕組みを備えており、既存のTCP..."
     },
     {
-      "title": "日立製作所とアンソロピックが提携、「米国AIの軍門に降った」と思う人が知らない事実",
-      "url": "https://diamond.jp/articles/-/400443",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-06T02:05:09+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 1.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる",
       "url": "https://gigazine.net/news/20261006-homa-protocol-replace-tcp/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 109.04,
+      "age_days": 109.06,
       "topics": [
         "ai"
       ],
@@ -358,7 +617,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 109.0d old signal",
+        "aging penalty -8.0 for 109.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -368,7 +627,7 @@
       "url": "https://diamond.jp/articles/-/400443",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-05T11:40:57+00:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -389,5 +648,5 @@
       "summary": "日立製作所の笠戸事業所（山口県下松市）で製造されたJR九州の885系特急電車。独自開発したアルミダブルスキン構造の次世代鉄道車両システム「A-train」が採用されている Photo:PIXTA 日立製作所が米Anthropicとの戦略的提携を発表しました。このニュースを見て、「日立ほどの企業でも基盤AIでは米国の軍門に降ったのか..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「チケット流通センター」における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
