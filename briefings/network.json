@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:16:16+00:00",
+  "generated_at": "2026-10-06T19:31:03+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 86,
@@ -107,20 +107,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 23.37,
+      "network_score": 23.27,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "raw_network_score": 23.2,
-      "ranking_score": 23.37,
+      "ranking_score": 23.27,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.87,
+      "baseline_bonus": 2.77,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -286,49 +286,6 @@
       "first_seen_at": "2026-10-06T01:47:10+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Schwachstelle ermöglicht Offenlegung von Informationen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3755",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3751",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2832",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3740",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737"
-      ],
-      "finding_count": 20,
-      "max_score": 17,
-      "credibility_total": 21.0,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 19.51,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 59.0,
-      "ranking_score": 19.51,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.01,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
       "key": "title:east-asia-crypto-market-splits-korea-bets-tokens",
       "title": "East Asia’s crypto market splits as Korea bets on AI tokens and Hong Kong courts institutions",
       "sources": [
@@ -367,6 +324,49 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-06T04:27:57+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Schwachstelle ermöglicht Offenlegung von Informationen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3755",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3751",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2832",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3740",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737"
+      ],
+      "finding_count": 20,
+      "max_score": 17,
+      "credibility_total": 21.0,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 19.26,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 59.0,
+      "ranking_score": 19.26,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.76,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "url:https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics",
@@ -777,20 +777,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.01,
+      "network_score": 12.98,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 15.7,
-      "ranking_score": 13.01,
+      "ranking_score": 12.98,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.61,
+      "baseline_bonus": 0.58,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -823,18 +823,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.82,
+      "network_score": 12.92,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 37.2,
-      "ranking_score": 12.82,
+      "ranking_score": 12.92,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.82,
+      "baseline_bonus": 0.92,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1237,47 +1237,6 @@
       "first_seen_at": "2026-08-30T05:39:01+00:00"
     },
     {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
-      "sources": [
-        "ECB Press Releases Speeches Interviews"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
-        "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html"
-      ],
-      "finding_count": 3,
-      "max_score": 9,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.54,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 15.3,
-      "ranking_score": 9.54,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.54,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
-    {
       "key": "title:starting-behave-less-like-tool-more-like-teammate",
       "title": "AI is starting to behave less like a tool and more like a teammate",
       "sources": [
@@ -1352,6 +1311,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-06T05:49:53+00:00"
+    },
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
+      "sources": [
+        "ECB Press Releases Speeches Interviews"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
+        "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html"
+      ],
+      "finding_count": 3,
+      "max_score": 9,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.48,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 15.3,
+      "ranking_score": 9.48,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.48,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "domain:restofworld.org",
@@ -2043,7 +2043,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-06T19:16:16Z",
+    "generated_at": "2026-10-06T19:31:04Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
