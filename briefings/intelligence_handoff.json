@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-06T04:18:07Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「チケット流通センター」における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-10-06T04:45:10Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Geminiの使いどころ🥹” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.33.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "Geminiの使いどころ🥹",
+      "url": "https://anond.hatelabo.jp/20261006101040",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-06T03:10:58+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.33,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 3.48,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 3.48"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Androidアプリ「チケット流通センター」における複数の脆弱性",
       "url": "https://jvn.jp/jp/JVN53292492/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-06T12:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -39,7 +64,7 @@
       "url": "https://jvn.jp/jp/JVN13510969/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-06T12:00:15+09:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -65,7 +90,7 @@
       "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:47:10+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -88,11 +113,40 @@
       "summary": ""
     },
     {
+      "title": "East Asia’s crypto market splits as Korea bets on AI tokens and Hong Kong courts institutions",
+      "url": "https://e27.co/east-asias-crypto-market-splits-as-korea-bets-on-ai-tokens-and-hong-kong-courts-institutions-20261006/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-06T04:01:42+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: chain, regional",
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "East Asia’s crypto market is no longer moving as one bloc. New regional data shows a fragmented landscape where South Korea is trading artificial intelligence-linked tokens at scale, Hong Kong is pulling in institutional capital, Japan’s retail users are quietly moving on-chain, and China’s stablecoin activity is expa…"
+    },
+    {
       "title": "The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia",
       "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:00:35+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -119,7 +173,7 @@
       "url": "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T03:10:58+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -147,7 +201,7 @@
       "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T02:00:10+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security",
@@ -177,7 +231,7 @@
       "url": "https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:00:24+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security",
@@ -207,7 +261,7 @@
       "url": "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T03:00:16+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -235,7 +289,7 @@
       "url": "https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:47:10+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -256,14 +310,14 @@
       "summary": ""
     },
     {
-      "title": "AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain",
-      "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
+      "title": "East Asia’s crypto market splits as Korea bets on AI tokens and Hong Kong courts institutions",
+      "url": "https://e27.co/east-asias-crypto-market-splits-as-korea-bets-on-ai-tokens-and-hong-kong-courts-institutions-20261006/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-06T02:05:09+00:00",
-      "age_days": 0.09,
+      "published_at": "2026-10-06T04:27:57+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
-        "infra"
+        "macro"
       ],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -271,66 +325,16 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3",
-        "early terms: supply, chain",
+        "momentum delta +1",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性",
-      "url": "https://jvn.jp/jp/JVN13510969/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-06T03:10:58+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.8 - 86 km N of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-06T04:00:46.040+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-06 03:42:43 UTC 2026-10-06 03:42:43 UTC at epicenter Location 7.832°S 120.393°E Depth 8.65 km (5.38 mi)"
     }
   ],
   "read_order": [

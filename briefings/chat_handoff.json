@@ -100,5 +100,146 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性",
+        "url": "https://jvn.jp/jp/JVN13510969/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-06T12:00:15+09:00",
+        "age_days": 0.07,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "security high-signal: 10"
+        ],
+        "summary": "Measurement Computing Corporationが提供するUniversal Library for Linux (uldaq)には、スタックベースのバッファオーバーフローの脆弱性が存在します。"
+      },
+      {
+        "title": "The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia",
+        "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-06T01:47:10+00:00",
+        "age_days": 0.12,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 37.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "East Asia’s crypto market splits as Korea bets on AI tokens and Hong Kong courts institutions",
+        "url": "https://e27.co/east-asias-crypto-market-splits-as-korea-bets-on-ai-tokens-and-hong-kong-courts-institutions-20261006/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-06T04:01:42+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 34.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: chain, regional",
+          "high terms: 10",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "East Asia’s crypto market is no longer moving as one bloc. New regional data shows a fragmented landscape where South Korea is trading artificial intelligence-linked tokens at scale, Hong Kong is pulling in institutional capital, Japan’s retail users are quietly moving on-chain, and China’s stablecoin activity is expa…"
+      },
+      {
+        "title": "The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia",
+        "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-06T01:00:35+00:00",
+        "age_days": 0.16,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code, 10",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "The most consequential AI launch of the past week was one that never happened. On the eve of its annual developer conference, OpenAI shelved GPT-6.1 Astra, the model expected to power ChatGPT and Codex next month and built to handle complex tasks with less human supervision. The reason was not that it was too weak. [……"
+      },
+      {
+        "title": "Gartner says AI will kill the entry-level marketing job by 2030. Here’s why that’s the wrong takeaway",
+        "url": "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-06T03:10:58+00:00",
+        "age_days": 0.07,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 29.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
