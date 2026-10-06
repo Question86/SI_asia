@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T11:02:17+00:00",
+  "generated_at": "2026-10-06T11:21:02+00:00",
   "candidate_count": 1674,
   "candidates": [
     {
@@ -23245,22 +23245,25 @@
       "source_url": "https://www.bis.org/publications/202601-commentary-ibs-gli"
     },
     {
-      "candidate_id": "cand_81341feb4a4a7e573d05",
-      "event_id": "evt_5a8609c38e0d544999d3",
-      "source_url": "https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation",
-      "observed_at": "2026-10-06T11:02:04+00:00",
-      "currency": "USD",
       "amount_native": 70000000000.0,
       "amount_usd": 70000000000.0,
-      "conversion_status": "not_required",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
       "attribution_probability": null,
-      "snippet": "two-week term repos more actively can impact our reserves . It could mean they sometimes exceed our best estimate of steady-state demand for reserves, which remains $50 billion to $70 billion. But keeping the supply of reserves within this range is not an objective in itself. What matters most is deploying our operations as needed to control our policy rate when imbala",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.35,
-      "review_status": "pending"
+      "candidate_id": "cand_81341feb4a4a7e573d05",
+      "component_confidence": 0.0,
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
+      "observed_at": "2026-10-06T11:02:04+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:04aae6551112",
+      "review_status": "pending",
+      "snippet": "two-week term repos more actively can impact our reserves . It could mean they sometimes exceed our best estimate of steady-state demand for reserves, which remains $50 billion to $70 billion. But keeping the supply of reserves within this range is not an objective in itself. What matters most is deploying our operations as needed to control our policy rate when imbala",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation"
     },
     {
       "amount_native": 55800000000.0,
@@ -23326,22 +23329,25 @@
       "source_url": "https://www.bis.org/publications/202601-commentary-ibs-gli"
     },
     {
-      "candidate_id": "cand_5753264bc1e6202980cd",
-      "event_id": "evt_5a8609c38e0d544999d3",
-      "source_url": "https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation",
-      "observed_at": "2026-10-06T11:02:04+00:00",
-      "currency": "USD",
       "amount_native": 50000000000.0,
       "amount_usd": 50000000000.0,
-      "conversion_status": "not_required",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
       "attribution_probability": null,
-      "snippet": "ssure. 8 Using two-week term repos more actively can impact our reserves . It could mean they sometimes exceed our best estimate of steady-state demand for reserves, which remains $50 billion to $70 billion. But keeping the supply of reserves within this range is not an objective in itself. What matters most is deploying our operations as needed to control our policy r",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.35,
-      "review_status": "pending"
+      "candidate_id": "cand_5753264bc1e6202980cd",
+      "component_confidence": 0.0,
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
+      "observed_at": "2026-10-06T11:02:04+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:a9c6dce4bb5c",
+      "review_status": "pending",
+      "snippet": "ssure. 8 Using two-week term repos more actively can impact our reserves . It could mean they sometimes exceed our best estimate of steady-state demand for reserves, which remains $50 billion to $70 billion. But keeping the supply of reserves within this range is not an objective in itself. What matters most is deploying our operations as needed to control our policy r",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation"
     },
     {
       "amount_native": 48000000000.0,
