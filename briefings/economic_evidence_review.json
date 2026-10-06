@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T10:51:21+00:00",
+  "generated_at": "2026-10-06T11:02:17+00:00",
   "fx_as_of": null,
-  "candidate_count": 1672,
+  "candidate_count": 1674,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 1672
+    "pending": 1674
   },
   "coverage_warning": null,
   "candidates": [
@@ -23175,6 +23175,27 @@
       "source_url": "https://www.bis.org/publications/202601-commentary-ibs-gli"
     },
     {
+      "amount_native": 70000000000.0,
+      "amount_usd": 70000000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_81341feb4a4a7e573d05",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-06T11:02:04+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:04aae6551112",
+      "review_status": "pending",
+      "snippet": "two-week term repos more actively can impact our reserves . It could mean they sometimes exceed our best estimate of steady-state demand for reserves, which remains $50 billion to $70 billion. But keeping the supply of reserves within this range is not an objective in itself. What matters most is deploying our operations as needed to control our policy rate when imbala",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 55800000000.0,
       "amount_usd": 55800000000.0,
       "attribution_probability": null,
@@ -23236,6 +23257,27 @@
       "snippet": "this graph Graph 3 Open the interactive graph Cross-border bank credit to EMDEs continued to expand through Q3 2025. Credit to borrowers in Africa and the Middle East expanded by $52 billion, driven by lending to the United Arab Emirates (+$17 billion) and Qatar (+$12 billion) ( Graph 4.A ). Borrowers in emerging Europe saw an increase of $33 billion. The largest incr",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/publications/202601-commentary-ibs-gli"
+    },
+    {
+      "amount_native": 50000000000.0,
+      "amount_usd": 50000000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_5753264bc1e6202980cd",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-06T11:02:04+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:a9c6dce4bb5c",
+      "review_status": "pending",
+      "snippet": "ssure. 8 Using two-week term repos more actively can impact our reserves . It could mean they sometimes exceed our best estimate of steady-state demand for reserves, which remains $50 billion to $70 billion. But keeping the supply of reserves within this range is not an objective in itself. What matters most is deploying our operations as needed to control our policy r",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 48000000000.0,
