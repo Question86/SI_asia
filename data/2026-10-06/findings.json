@@ -157,6 +157,30 @@
     "id": "553e4e007e86754a136e"
   },
   {
+    "title": "[UPDATE] [hoch] Microsoft Office: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-06T05:40:46+00:00",
+    "fetched_at": "2026-10-06T05:49:20+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Teams, Microsoft Azure Managed Instance und Microsoft Service Bus ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen oder Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c208aca4e65c8c6672ce"
+  },
+  {
     "title": "M 4.9 - State of Yap, Federated States of Micronesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -441,6 +465,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "baf650946a53ad4bb67c"
+  },
+  {
+    "title": "GMOグループ会社に不正アクセス 会員の個人情報94万件余流出か | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261006de55007",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-06T02:45:48+00:00",
+    "fetched_at": "2026-10-06T05:49:20+00:00",
+    "summary": "IT企業「GMOインターネットグループ」傘下の「GMOリサーチ＆AI」は、運営しているアンケートサイトに不正アクセスがあり、会員の個人情報94万件余りが流出したと発表しました。 流出したのは氏名や生…",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0fe5ea0634171fac65ee"
   },
   {
     "title": "TalentHero, DeeMoney form Thai JV to connect hiring, payroll and payments",

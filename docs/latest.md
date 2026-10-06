@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T05:36:23+00:00_
+_Generiert: 2026-10-06T05:49:50+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+24 neue relevante Treffer. Stärkstes Signal: „AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Supply Chain Security (+8.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Southeast Asia has become one of the world’s most competitive regions for investment. Global companies are diversifying supply chains beyond China. Governments are offering tax incentives, industrial land and digital-economy programmes. New capital is flowing into manufacturing, data centres, semiconductors and technology companies. Yet investors evaluating the region are looking beyond growth rates and startup […]…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Microsoft Office: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-06T05:40:46+00:00`, fetched `2026-10-06T05:49:20+00:00`
+  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Microsoft Teams, Microsoft Azure Managed Instance und Microsoft Service Bus ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen oder Daten zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - State of Yap, Federated States of Micronesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-06T04:58:57.040+00:00`, fetched `2026-10-06T05:19:52+00:00`
@@ -132,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: In 2021, I invested in one of the robotics startups that was solving for real world problems. The idea was to look beyond the screen and make every hardware talking through new robo technology. My thesis was clear, after the software it’s hardware that will be disrupted. Since AI disrupted the market after 2022, my […] The post Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet appeared first…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GMOグループ会社に不正アクセス 会員の個人情報94万件余流出か | NHKニュース** — Score 8, observation — [Quelle](https://news.web.nhk/newsweb/na/nd-20261006de55007)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-06T02:45:48+00:00`, fetched `2026-10-06T05:49:20+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: IT企業「GMOインターネットグループ」傘下の「GMOリサーチ＆AI」は、運営しているアンケートサイトに不正アクセスがあり、会員の個人情報94万件余りが流出したと発表しました。 流出したのは氏名や生…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **古川大臣記者会見（令和8年10月6日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261006-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-06T02:59:42+00:00`, fetched `2026-10-06T03:10:28+00:00`
@@ -140,15 +158,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年10月6日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **geminiが難しい** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20261006091814)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-06T00:20:20+00:00`, fetched `2026-10-06T04:27:26+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: １秒でもキチガイ意固地モードに入ると検索を行わなくなってしまう 検索しろつっても検索しないし なんで検索せんのやって聞いたら「お前の聞き方が悪いんちゃうの？この事柄について最新の情報をWebで検索してくださいみたいな感じで聞けよ(ワラ)」って言ってくるから、「じゃあさっきの情報について最新の情報をWebで...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
