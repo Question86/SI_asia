@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-10-05T23:43:49+00:00`
+Generated: `2026-10-06T00:44:48+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -11,7 +11,7 @@ Generated: `2026-10-05T23:43:49+00:00`
 | M 5.0 - 124 km N of Metinaro, Timor Leste | $0 | — | 0 | 0 | dormant |
 | AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する | $0 | — | 0 | 0 | dormant |
 | ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明 | $0 | — | 0 | 0 | dormant |
-| Secret scanning adds detectors for Lovable, Supabase, and more | $0 | — | 0 | 0 | active |
+| Secret scanning adds detectors for Lovable, Supabase, and more | $0 | — | 0 | 0 | dormant |
 | anthropics/financial-services | $0 | — | 0 | 0 | dormant |
 | Can Ethereum clear US$2,672 this week and unlock a run to US$3,000? | $0 | — | 0 | 0 | dormant |
 | ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました | $0 | — | 0 | 0 | dormant |
