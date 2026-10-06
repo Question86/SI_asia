@@ -1,12 +1,13 @@
 # Economic Evidence Candidates
 
-Generated: `2026-10-06T12:39:57+00:00`
+Generated: `2026-10-06T13:23:03+00:00`
 
 > Candidates are not accepted evidence and carry no causal attribution.
 
 | Event | Amount | Currency | Confidence | Source | Status |
 |---|---:|---|---:|---|---|
 | `evt_624a2e3ce3ccd3efe095` | 2,000,000,000,000 | USD | 0.88 | primary_hint | pending |
+| `evt_43856848b80264610146` | 127,000,000,000 | EUR | 0.88 | primary_hint | pending |
 | `evt_43856848b80264610146` | 18,050,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 3,480,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 3,450,000,000,000 | EUR | 0.80 | primary_hint | pending |
@@ -45,4 +46,3 @@ Generated: `2026-10-06T12:39:57+00:00`
 | `evt_43856848b80264610146` | 193,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 184,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 179,000,000,000 | EUR | 0.80 | primary_hint | pending |
-| `evt_43856848b80264610146` | 165,000,000,000 | EUR | 0.80 | primary_hint | pending |
