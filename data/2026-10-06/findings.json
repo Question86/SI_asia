@@ -336,6 +336,29 @@
     "id": "4f670beeb0ef8ccec24c"
   },
   {
+    "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3564",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-06T06:35:46+00:00",
+    "fetched_at": "2026-10-06T07:02:12+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um Dateien zu manipulieren Informationen offenzulegen oder einen Denial of Service zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "846d8ccc3f8c60a2e345"
+  },
+  {
     "title": "[UPDATE] [mittel] Rapid7 Velociraptor: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3731",
     "source": "BSI CERT-Bund Security Advisories",
@@ -524,6 +547,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4c01e687d57e5fac56fd"
+  },
+  {
+    "title": "Philip R. Lane: Interview with Ansa",
+    "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-10-06T07:00:00+00:00",
+    "fetched_at": "2026-10-06T07:02:12+00:00",
+    "summary": "Philip R. Lane: Interview with Ansa",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "837fca82ae5a9179ad75"
   },
   {
     "title": "AI is starting to behave less like a tool and more like a teammate",
