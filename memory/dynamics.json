@@ -1,22 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-06T07:28:15Z",
+  "generated_at": "2026-10-06T07:49:02Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 7,
+      "krass": 8,
       "extreme": 2,
       "strong": 16,
-      "watch": 12,
-      "quiet": 3
+      "watch": 14
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 24,
-      "watch": 12,
-      "quiet": 3
+      "strong": 25,
+      "watch": 14
     }
   },
   "top_dynamics": [
@@ -25,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T05:40:46+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -50,7 +48,7 @@
       "url": "https://jvn.jp/jp/JVN53292492/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-06T12:00:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -74,7 +72,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T05:20:26+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -99,7 +97,7 @@
       "url": "https://jvn.jp/jp/JVN13510969/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-06T12:00:15+09:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -125,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3564",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T06:35:46+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -152,7 +150,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3731",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T06:05:46+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -174,11 +172,38 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Rapid7 Velociraptor ausnutzen, um Dateien zu manipulieren, Sicherheitsmaßnahmen zu umgehen, erweiterte Berechtigungen zu erlangen und vertrauliche Informationen offenzulegen."
     },
     {
+      "title": "[UPDATE] [hoch] Microsoft Office: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 38.74,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "security high-signal: microsoft",
+        "aging penalty -6.2 for 38.7d old signal",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": ""
+    },
+    {
       "title": "ハッカーが楽天会員1億100万件の個人情報 販売を主張―氏名・住所・ポイント情報のサンプル掲載、漏洩元・真正性は未確認|セキュリティニュースのセキュリティ対策Lab",
       "url": "https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T03:06:03+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -204,7 +229,7 @@
       "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:47:10+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -231,7 +256,7 @@
       "url": "https://e27.co/east-asias-crypto-market-splits-as-korea-bets-on-ai-tokens-and-hong-kong-courts-institutions-20261006/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T04:01:42+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -260,7 +285,7 @@
       "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:00:35+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -287,7 +312,7 @@
       "url": "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T03:10:58+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -311,39 +336,11 @@
       "summary": ""
     },
     {
-      "title": "[UPDATE] [hoch] Microsoft Office: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 38.72,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -6.2 for 38.7d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
       "title": "AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain",
       "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T02:00:10+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security",
@@ -373,7 +370,7 @@
       "url": "https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:00:24+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "security",
@@ -399,11 +396,37 @@
       "summary": "Southeast Asia has become one of the world’s most competitive regions for investment. Global companies are diversifying supply chains beyond China. Governments are offering tax incentives, industrial land and digital-economy programmes. New capital is flowing into manufacturing, data centres, semiconductors and techno…"
     },
     {
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-06T07:30:43+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Gartner says AI will kill the entry-level marketing job by 2030. Here’s why that’s the wrong takeaway",
       "url": "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T03:00:16+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -431,7 +454,7 @@
       "url": "https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:47:10+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -456,7 +479,7 @@
       "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T02:05:09+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "infra"
@@ -480,11 +503,35 @@
       "summary": ""
     },
     {
+      "title": "政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました",
+      "url": "https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-06T06:37:23+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性",
       "url": "https://jvn.jp/jp/JVN13510969/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-06T03:10:58+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -508,7 +555,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T04:58:57.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "macro",
         "disaster"
@@ -534,7 +581,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T04:51:32.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -559,7 +606,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T04:00:46.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -584,7 +631,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T05:20:26+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "macro"
       ],
@@ -604,51 +651,27 @@
       "summary": ""
     },
     {
-      "title": "政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました",
-      "url": "https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-06T06:37:23+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 21.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Geminiの使いどころ🥹",
       "url": "https://anond.hatelabo.jp/20261006101040",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T03:10:58+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
-      "dynamics_score": 20.22,
+      "dynamics_score": 20.2,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.2,
+      "baseline_z_hint": 0.18,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.20"
+        "baseline z_hint 0.18"
       ],
       "summary": ""
     },
@@ -657,7 +680,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261006-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-06T03:10:58+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -682,7 +705,7 @@
       "url": "https://jvn.jp/jp/JVN53292492/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T12:51:45+00:00",
-      "age_days": 26.78,
+      "age_days": 26.79,
       "topics": [
         "general"
       ],
@@ -693,12 +716,12 @@
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.3,
+      "baseline_z_hint": 5.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 5.30",
+        "baseline z_hint 5.00",
         "aging penalty -2.0 for 26.8d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
@@ -709,7 +732,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:31:15+00:00",
-      "age_days": 21.83,
+      "age_days": 21.85,
       "topics": [
         "general"
       ],
@@ -731,11 +754,35 @@
       "summary": ""
     },
     {
+      "title": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-06T07:30:43+00:00",
+      "age_days": 0.01,
+      "topics": [],
+      "dynamics_score": 19.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": ""
+    },
+    {
       "title": "East Asia’s crypto market splits as Korea bets on AI tokens and Hong Kong courts institutions",
       "url": "https://e27.co/east-asias-crypto-market-splits-as-korea-bets-on-ai-tokens-and-hong-kong-courts-institutions-20261006/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T04:27:57+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -762,7 +809,7 @@
       "url": "https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T02:05:09+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -782,11 +829,37 @@
       "summary": ""
     },
     {
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-06T07:30:10+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More https://claude-mem.ai 🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹…"
+    },
+    {
       "title": "M 4.7 - 36 km WNW of Ollagüe, Chile",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T06:36:06.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -811,11 +884,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T21:47:43+00:00",
-      "age_days": 32.4,
+      "age_days": 32.42,
       "topics": [
         "general"
       ],
-      "dynamics_score": 18.51,
+      "dynamics_score": 18.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -836,7 +909,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261006de55007",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T05:49:53+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -860,7 +933,7 @@
       "url": "https://e27.co/the-junior-developer-dilemma-how-ai-is-reshaping-tech-talent-in-southeast-asia-20261006/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T05:36:25+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -886,7 +959,7 @@
       "url": "https://e27.co/can-bitcoin-defend-us85000-support-or-will-weakening-bids-send-it-toward-us83000-20261006/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T03:33:03+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -910,7 +983,7 @@
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-06T07:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "macro"
       ],
@@ -930,11 +1003,38 @@
       "summary": "Philip R. Lane: Interview with Ansa"
     },
     {
+      "title": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-06T07:30:10+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Tool for automatic PS5 executables porting to Linux and Windows https://discord.gg/BHFztBPUe About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No…"
+    },
+    {
       "title": "M 4.7 - 36 km WNW of Ollagüe, Chile",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T05:39:01+00:00",
-      "age_days": 37.08,
+      "age_days": 37.09,
       "topics": [
         "general"
       ],
@@ -953,103 +1053,6 @@
         "aging penalty -5.6 for 37.1d old signal"
       ],
       "summary": ""
-    },
-    {
-      "title": "政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました",
-      "url": "https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-06T06:10:19+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました"
-    },
-    {
-      "title": "古川大臣記者会見（令和8年10月6日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261006-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-06T02:59:42+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "古川大臣記者会見（令和8年10月6日）動画を掲載しました"
-    },
-    {
-      "title": "Philip R. Lane: Interview with Ansa",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 109.7,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 109.7d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相：時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=2026100600559&g=eco",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-06T05:32:06+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相 時事通信 政治部2026年10月06日14時02分配信 記者会見する古川俊治デジタル相＝６日、デジタル庁 古川俊治デジタル相は６日の記者会見で、大和証券など民間企業で頻発する不正アクセスによる個人情報の流出事案について「サイバー攻撃は企業や組織だけの..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Office: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
