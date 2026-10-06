@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T04:47:43+00:00_
+_Generiert: 2026-10-06T05:20:23+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+21 neue relevante Treffer. Stärkstes Signal: „AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -38,6 +38,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: Supply Chain Security (+8.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Southeast Asia has become one of the world’s most competitive regions for investment. Global companies are diversifying supply chains beyond China. Governments are offering tax incentives, industrial land and digital-economy programmes. New capital is flowing into manufacturing, data centres, semiconductors and technology companies. Yet investors evaluating the region are looking beyond growth rates and startup […]…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.9 - State of Yap, Federated States of Micronesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-06T04:58:57.040+00:00`, fetched `2026-10-06T05:19:52+00:00`
+  - Treffer: Climate/Disaster Infrastructure, GitHub Actions, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: GitHub Actions (+6.2); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-06 04:40:28 UTC 2026-10-06 04:40:28 UTC at epicenter Location 6.782°N 144.407°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.6 - Izu Islands, Japan region** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuq)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-06T04:51:32.040+00:00`, fetched `2026-10-06T05:19:52+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-06 04:28:36 UTC 2026-10-06 04:28:36 UTC at epicenter Location 29.020°N 142.845°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 86 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -78,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Nearly one in five marketing leaders has already eliminated roles because automation now handles the work. That is the finding behind a new Gartner prediction, which Marketing Week reported this week: by 2030, most high-performing marketing teams will be able to drop the traditional bottom rungs of the corporate ladder. The headline number is 18 […] The post Gartner says AI will kill the entry-level marketing job by…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **ハッカーが楽天会員1億100万件の個人情報 販売を主張―氏名・住所・ポイント情報のサンプル掲載、漏洩元・真正性は未確認|セキュリティニュースのセキュリティ対策Lab** — Score 11, observation — [Quelle](https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-06T03:06:03+00:00`, fetched `2026-10-06T05:19:52+00:00`
+  - Treffer: Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: セキュリティ対策Labが掲載された18件を確認したところ、レギュラー、シルバー、ゴールドの各レコードについて、ランクとポイント数・獲得回数の明確な矛盾は確認できませんでした。 例えば、ゴールドと記録されたサンプルは700ポイント・7回の条件を満たしつつ、プラチナの2,000ポイント・15回の両条件までは満たしてい...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Geminiの使いどころ🥹** — Score 11, observation — [Quelle](https://anond.hatelabo.jp/20261006101040)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-06T01:10:59+00:00`, fetched `2026-10-06T03:10:28+00:00`
@@ -122,15 +149,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: １秒でもキチガイ意固地モードに入ると検索を行わなくなってしまう 検索しろつっても検索しないし なんで検索せんのやって聞いたら「お前の聞き方が悪いんちゃうの？この事柄について最新の情報をWebで検索してくださいみたいな感じで聞けよ(ワラ)」って言ってくるから、「じゃあさっきの情報について最新の情報をWebで...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ランサム集団キリンの中心メンバー、日本で拘束 アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース** — Score 5, observation — [Quelle](https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-05T23:08:08+00:00`, fetched `2026-10-06T00:44:01+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 昨年9月末のアサヒグループホールディングスへのサイバー攻撃について、犯行声明を出したハッカー集団「Qilin」のウェブサイトの一部=セキュリティー会社提供（朝日新聞） 世界各国の企業などにサイバー攻撃を繰り返すランサムウェア（身代金ウイルス）集団「Qilin（キリン）」の中心メンバーでロシア国籍の男（28）を...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
