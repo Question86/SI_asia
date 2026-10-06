@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:22:23+00:00",
+  "generated_at": "2026-10-06T13:37:21+00:00",
   "today_file_total": 74,
   "current_clusters": [
     {
@@ -51,9 +51,9 @@
       "max_score": 12,
       "credibility_total": 10.5,
       "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 39.0,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 33.0,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -201,31 +201,6 @@
         "capitals_power_centers"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
-      "sources": [
-        "ECB Press Releases Speeches Interviews"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
-        "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html"
-      ],
-      "finding_count": 3,
-      "max_score": 9,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 21.3,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
       "key": "title:east-asia-crypto-market-splits-korea-bets-tokens",
@@ -397,70 +372,26 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-suse-septembre",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (25 septembre 2026)",
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
       "sources": [
-        "CERT-FR Avis de sécurité"
+        "ECB Press Releases Speeches Interviews"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1231/"
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
+        "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html"
       ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
+      "finding_count": 3,
+      "max_score": 9,
+      "credibility_total": 3.15,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-red-hat",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (25 septembre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1230/"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-debian-lts",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (25 septembre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1232/"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.3,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -488,6 +419,75 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:gif",
+      "title": "政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:junior-developer-dilemma-reshaping-tech-talent-southeast-asia",
+      "title": "The junior developer dilemma: How AI is reshaping tech talent in Southeast Asia",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/the-junior-developer-dilemma-how-ai-is-reshaping-tech-talent-in-southeast-asia-20261006/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:gartner-says-will-kill-entry-level-marketing-job",
+      "title": "Gartner says AI will kill the entry-level marketing job by 2030. Here’s why that’s the wrong takeaway",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     }
   ]
 }

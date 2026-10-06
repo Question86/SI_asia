@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T13:22:19+00:00",
-  "run_id": "2026-10-06T13:22:19+00:00",
+  "generated_at": "2026-10-06T13:37:19+00:00",
+  "run_id": "2026-10-06T13:37:19+00:00",
   "date": "2026-10-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
+    "new_relevant_findings": 0,
     "today_file_total": 74,
     "displayed_findings": 74,
     "high": 0,
@@ -3607,160 +3607,7 @@
       "id": "8fed855ceab1d614bbee"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (25 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1230/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-25T00:00:00+00:00",
-      "fetched_at": "2026-10-06T13:21:44+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Linux",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5044ad952f4d63fbf6b9"
-    },
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (25 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1231/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-25T00:00:00+00:00",
-      "fetched_at": "2026-10-06T13:21:44+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Linux",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "79f51059c8820b4818f8"
-    },
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (25 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1232/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-25T00:00:00+00:00",
-      "fetched_at": "2026-10-06T13:21:44+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Linux",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "516c76d1a5e85a4c7acf"
-    },
-    {
-      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-10-06T13:00:00+00:00",
-      "fetched_at": "2026-10-06T13:21:44+00:00",
-      "summary": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b47a353469845bb20bae"
-    },
-    {
-      "title": "Frank Elderson: Effective supervision through timely remediation",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-10-06T13:00:00+00:00",
-      "fetched_at": "2026-10-06T13:21:44+00:00",
-      "summary": "Frank Elderson: Effective supervision through timely remediation",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9fa0259ab935656602e9"
-    },
-    {
-      "title": "Keynote address - Islamic Finance News Asia Forum 2026",
-      "url": "https://www.bis.org/speeches/20261006-keynote-address-islamic-finance-news-asia-forum-2026",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-06T00:00:00+00:00",
-      "fetched_at": "2026-10-06T13:21:44+00:00",
-      "summary": "Keynote address by Mr Mohamad Ali Iqbal, Assistant Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the Islamic Finance News (IFN) Asia Forum 2026, Kuala Lumpur, 29 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3e9a96e22a940a385660"
-    },
-    {
-      "title": "The dual mandate in rural America",
-      "url": "https://www.bis.org/speeches/20261006-dual-mandate-rural-america",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-06T00:00:00+00:00",
-      "fetched_at": "2026-10-06T13:21:44+00:00",
-      "summary": "Speech by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the 2026 Investing in Rural America Conference, organised by the Federal Reserve Bank of Richmond, Asheville, North Carolina, 30 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "27841343cbdd04c836dc"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
