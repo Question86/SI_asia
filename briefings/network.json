@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:44:50+00:00",
+  "generated_at": "2026-10-06T18:01:26+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 84,
@@ -267,18 +267,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 20.55,
+      "network_score": 20.24,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 59.0,
-      "ranking_score": 20.55,
+      "ranking_score": 20.24,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.05,
+      "baseline_bonus": 1.74,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -756,6 +756,50 @@
       "first_seen_at": "2026-10-06T03:10:58+00:00"
     },
     {
+      "key": "domain:www.bis.org",
+      "title": "Thailand's new horizons - empowering people, building resilience",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20261006-thailands-new-horizons-empowering-people-building-resilience",
+        "https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation",
+        "https://www.bis.org/speeches/20261006-economic-conditions-and-monetary-policy",
+        "https://www.bis.org/speeches/20261006-dual-mandate-rural-america",
+        "https://www.bis.org/speeches/20261006-supervisory-risk-appetite-efficiency-and-effectiveness",
+        "https://www.bis.org/speeches/20261006-special-remarks-jc3-journey-zero-conference-2026"
+      ],
+      "finding_count": 12,
+      "max_score": 12,
+      "credibility_total": 12.6,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.51,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 37.2,
+      "ranking_score": 12.51,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.51,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
       "key": "title:gemini",
       "title": "Geminiの使いどころ🥹",
       "sources": [
@@ -945,50 +989,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-01T13:58:29+00:00"
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "Thailand's new horizons - empowering people, building resilience",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20261006-thailands-new-horizons-empowering-people-building-resilience",
-        "https://www.bis.org/speeches/20261006-repo-markets-and-monetary-policy-implementation",
-        "https://www.bis.org/speeches/20261006-economic-conditions-and-monetary-policy",
-        "https://www.bis.org/speeches/20261006-dual-mandate-rural-america",
-        "https://www.bis.org/speeches/20261006-supervisory-risk-appetite-efficiency-and-effectiveness",
-        "https://www.bis.org/speeches/20261006-special-remarks-jc3-journey-zero-conference-2026"
-      ],
-      "finding_count": 12,
-      "max_score": 12,
-      "credibility_total": 12.6,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.41,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 37.2,
-      "ranking_score": 12.41,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.41,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "earthquake:m 5.9 - 264 km ssw of severo-kuril’sk, russia:5.9",
@@ -1213,18 +1213,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 9.82,
+      "network_score": 9.75,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 15.3,
-      "ranking_score": 9.82,
+      "ranking_score": 9.75,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.82,
+      "baseline_bonus": 0.75,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1310,44 +1310,6 @@
       "first_seen_at": "2026-10-06T05:49:53+00:00"
     },
     {
-      "key": "url:https://www.itmedia.co.jp/aiplus/article/2610/06/2000002065/",
-      "title": "チームみらい安野氏「サイバー攻撃能力の高いAIモデルが拡散」 相次ぐ情報漏えい受け「対応を急ぐ必要がある」",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.itmedia.co.jp/aiplus/article/2610/06/2000002065/"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-06T17:44:50+00:00"
-    },
-    {
       "key": "domain:restofworld.org",
       "title": "Not just AI. China is building technologies that challenge U.S. dominance",
       "sources": [
@@ -1365,18 +1327,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 8.57,
+      "network_score": 8.54,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 9.1,
-      "ranking_score": 8.57,
+      "ranking_score": 8.54,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.07,
+      "baseline_bonus": 0.04,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1539,6 +1501,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-06T03:10:58+00:00"
+    },
+    {
+      "key": "url:https://www.itmedia.co.jp/aiplus/article/2610/06/2000002065/",
+      "title": "チームみらい安野氏「サイバー攻撃能力の高いAIモデルが拡散」 相次ぐ情報漏えい受け「対応を急ぐ必要がある」",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.itmedia.co.jp/aiplus/article/2610/06/2000002065/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-06T17:44:50+00:00"
     },
     {
       "key": "url:https://giginet.hateblo.jp/entry/2026/09/22/114642",
@@ -1999,7 +1999,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-06T17:44:51Z",
+    "generated_at": "2026-10-06T18:01:27Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

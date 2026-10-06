@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T17:44:48+00:00_
+_Generiert: 2026-10-06T18:01:23+00:00_
 
 ## Kurzlage
 
@@ -53,10 +53,6 @@ _Generiert: 2026-10-06T17:44:48+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.
-- **USGS earthquake M5.9 - 264 km SSW of Severo-Kuril’sk, Russia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy)
-  - Quelle: USGS
-  - Zeit: `2026-10-06T16:48:21+00:00`
-  - Kurz: M5.9 - 264 km SSW of Severo-Kuril’sk, Russia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
