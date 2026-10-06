@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T03:52:23+00:00_
+_Generiert: 2026-10-06T04:01:53+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+15 neue relevante Treffer. Stärkstes Signal: „AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -38,6 +38,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: Supply Chain Security (+8.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Southeast Asia has become one of the world’s most competitive regions for investment. Global companies are diversifying supply chains beyond China. Governments are offering tax incentives, industrial land and digital-economy programmes. New capital is flowing into manufacturing, data centres, semiconductors and technology companies. Yet investors evaluating the region are looking beyond growth rates and startup […]…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.8 - 86 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-06T04:00:46.040+00:00`, fetched `2026-10-06T04:01:19+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-06 03:42:43 UTC 2026-10-06 03:42:43 UTC at epicenter Location 7.832°S 120.393°E Depth 8.65 km (5.38 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN13510969/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -87,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: In 2021, I invested in one of the robotics startups that was solving for real world problems. The idea was to look beyond the screen and make every hardware talking through new robo technology. My thesis was clear, after the software it’s hardware that will be disrupted. Since AI disrupted the market after 2022, my […] The post Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet appeared first…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI is starting to behave less like a tool and more like a teammate** — Score 8, observation — [Quelle](https://e27.co/ai-is-starting-to-behave-less-like-a-tool-and-more-like-a-teammate-20261004/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-06T04:00:26+00:00`, fetched `2026-10-06T04:01:19+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Most AI writing about work still treats the technology like an advanced tool. That framing made sense when AI mainly waited for a prompt, returned an answer, and stopped there. But that is no longer the whole picture. In more organisations, AI is starting to look less like software you use and more like a […] The post AI is starting to behave less like a tool and more like a teammate appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **古川大臣記者会見（令和8年10月6日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261006-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-06T02:59:42+00:00`, fetched `2026-10-06T03:10:28+00:00`
@@ -113,15 +131,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ウェブやクラウドを支える通信プロトコル「TCP」はAI向けデータセンターの通信には適していないとして、スタンフォード大学のジョン・オースターハウト名誉教授がトランスポートプロトコル「Homa」への移行を訴えています。Homaは短いメッセージを優先的に処理することで通信遅延を抑える仕組みを備えており、既存のTCP...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Can Bitcoin defend US$85,000 support, or will weakening bids send it toward US$83,000?** — Score 4, observation — [Quelle](https://e27.co/can-bitcoin-defend-us85000-support-or-will-weakening-bids-send-it-toward-us83000-20261006/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-06T03:18:48+00:00`, fetched `2026-10-06T03:32:32+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The tech-led rally on Wall Street pushed the Nasdaq 100 to a record close of 31,076 and lifted the S&P 500 by 0.7 per cent, while the Dow Jones added 91 points, or 0.18 per cent, to close at 51,268. Nvidia gained 2.1 per cent, and Microsoft added 1.5 per cent, powering large-cap advances. Investors […] The post Can Bitcoin defend US$85,000 support, or will weakening bids send it toward US$83,000? appeared first on e…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

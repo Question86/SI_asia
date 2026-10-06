@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-06T03:52:23+00:00_
+_Generated: 2026-10-06T04:01:53+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `15`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-06T03:52:23+00:00_
 - url: https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/
 - summary: Southeast Asia has become one of the world’s most competitive regions for investment. Global companies are diversifying supply chains beyond China. Governments are offering tax incentives, industrial land and digital-economy programmes. New capital is flowing…
 
-### 4. MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-06T12:00:15+09:00`
-- url: https://jvn.jp/jp/JVN13510969/
-- summary: Measurement Computing Corporationが提供するUniversal Library for Linux (uldaq)には、スタックベースのバッファオーバーフローの脆弱性が存在します。
+### 4. M 4.8 - 86 km N of Ruteng, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-10-06T04:00:46.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj
+- summary: Time 2026-10-06 03:42:43 UTC 2026-10-06 03:42:43 UTC at epicenter Location 7.832°S 120.393°E Depth 8.65 km (5.38 mi)
 
 ### 5. Gartner says AI will kill the entry-level marketing job by 2030. Here’s why that’s the wrong takeaway
 - source: e27 Asia Startup and Tech Feed
@@ -57,11 +57,11 @@ _Generated: 2026-10-06T03:52:23+00:00_
 - url: https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/
 - summary: In 2021, I invested in one of the robotics startups that was solving for real world problems. The idea was to look beyond the screen and make every hardware talking through new robo technology. My thesis was clear, after the software it’s hardware that will b…
 
-### 8. 古川大臣記者会見（令和8年10月6日）動画を掲載しました
-- source: Japan Digital Agency News RSS
-- score: `6`
-- published: `2026-10-06T02:59:42+00:00`
-- url: https://www.digital.go.jp/speech/minister-261006-01
-- summary: 古川大臣記者会見（令和8年10月6日）動画を掲載しました
+### 8. AI is starting to behave less like a tool and more like a teammate
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-10-06T04:00:26+00:00`
+- url: https://e27.co/ai-is-starting-to-behave-less-like-a-tool-and-more-like-a-teammate-20261004/
+- summary: Most AI writing about work still treats the technology like an advanced tool. That framing made sense when AI mainly waited for a prompt, returned an answer, and stopped there. But that is no longer the whole picture. In more organisations, AI is starting to…
 
 END OF DOCUMENT
