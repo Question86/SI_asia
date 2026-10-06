@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-06T04:01:53+00:00_
+_Generated: 2026-10-06T04:27:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `17`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-06T04:01:53+00:00_
 - url: https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/
 - summary: Southeast Asia has become one of the world’s most competitive regions for investment. Global companies are diversifying supply chains beyond China. Governments are offering tax incentives, industrial land and digital-economy programmes. New capital is flowing…
 
-### 4. M 4.8 - 86 km N of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-06T04:00:46.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj
-- summary: Time 2026-10-06 03:42:43 UTC 2026-10-06 03:42:43 UTC at epicenter Location 7.832°S 120.393°E Depth 8.65 km (5.38 mi)
+### 4. East Asia’s crypto market splits as Korea bets on AI tokens and Hong Kong courts institutions
+- source: e27 Asia Startup and Tech Feed
+- score: `18`
+- published: `2026-10-06T04:01:42+00:00`
+- url: https://e27.co/east-asias-crypto-market-splits-as-korea-bets-on-ai-tokens-and-hong-kong-courts-institutions-20261006/
+- summary: East Asia’s crypto market is no longer moving as one bloc. New regional data shows a fragmented landscape where South Korea is trading artificial intelligence-linked tokens at scale, Hong Kong is pulling in institutional capital, Japan’s retail users are quie…
 
 ### 5. Gartner says AI will kill the entry-level marketing job by 2030. Here’s why that’s the wrong takeaway
 - source: e27 Asia Startup and Tech Feed
