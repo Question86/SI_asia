@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-06T02:05:06+00:00",
-  "run_id": "2026-10-06T02:05:06+00:00",
+  "generated_at": "2026-10-06T02:36:39+00:00",
+  "run_id": "2026-10-06T02:36:39+00:00",
   "date": "2026-10-06",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 7
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 7,
     "displayed_findings": 7,
     "high": 0,
     "medium": 3,
     "observe": 4,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -433,75 +433,15 @@
       "id": "53fab9ae3ca1ae5c9034"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain",
-      "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
       "source_type": "rss",
-      "published_at": "2026-10-06T02:00:10+00:00",
-      "fetched_at": "2026-10-06T02:04:38+00:00",
-      "summary": "The artificial intelligence investment story is beginning to move beyond the most obvious winners. For much of the past three years, the market’s attention has centred on graphics processing units (GPUs), high-bandwidth memory and the companies supplying the raw compute needed to train large AI models. That first wave is not over. But according to […] The post AI’s bottleneck economy is taking shape across Southeast…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia",
-        "Supply Chain Security"
-      ],
-      "relevance_score": 20,
-      "relevance_reason": "AI/KI (+3.8); Supply Chain Security (+10.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6ede05c82d2751cba708"
-    },
-    {
-      "title": "Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet",
-      "url": "https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-06T02:00:44+00:00",
-      "fetched_at": "2026-10-06T02:04:38+00:00",
-      "summary": "In 2021, I invested in one of the robotics startups that was solving for real world problems. The idea was to look beyond the screen and make every hardware talking through new robo technology. My thesis was clear, after the software it’s hardware that will be disrupted. Since AI disrupted the market after 2022, my […] The post Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet appeared first…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4c01e687d57e5fac56fd"
-    },
-    {
-      "title": "日立製作所とアンソロピックが提携、「米国AIの軍門に降った」と思う人が知らない事実",
-      "url": "https://diamond.jp/articles/-/400443",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-05T11:40:57+00:00",
-      "fetched_at": "2026-10-06T02:04:38+00:00",
-      "summary": "日立製作所の笠戸事業所（山口県下松市）で製造されたJR九州の885系特急電車。独自開発したアルミダブルスキン構造の次世代鉄道車両システム「A-train」が採用されている Photo:PIXTA 日立製作所が米Anthropicとの戦略的提携を発表しました。このニュースを見て、「日立ほどの企業でも基盤AIでは米国の軍門に降ったのか...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "53fab9ae3ca1ae5c9034"
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f79f7a3d590>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
