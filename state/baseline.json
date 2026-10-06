@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T02:36:41+00:00",
+  "generated_at": "2026-10-06T02:56:40+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2817,12 +2817,11 @@
     },
     "domain:gigazine.net": {
       "title": "TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる",
-      "updated_at": "2026-10-06T02:36:41+00:00",
+      "updated_at": "2026-10-06T02:56:40+00:00",
       "network_scores": [
         13.1,
         13.1,
         13.1,
-        13.1,
         10.1,
         7.1,
         7.1,
@@ -2847,13 +2846,14 @@
         7.1,
         7.1,
         10.1,
+        7.1,
         7.1,
         7.1
       ],
-      "rolling_average": 8.1,
+      "rolling_average": 7.9,
       "rolling_peak": 13.1,
       "last_score": 7.1,
-      "z_hint": -1.0
+      "z_hint": -0.8
     },
     "title:acrab-raises-350m-advance-agentic-compute-infrastructure": {
       "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
@@ -8702,7 +8702,7 @@
     },
     "title:yahoo": {
       "title": "ランサム集団キリンの中心メンバー、日本で拘束 アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース",
-      "updated_at": "2026-10-06T02:36:41+00:00",
+      "updated_at": "2026-10-06T02:56:40+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -8729,8 +8729,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1
@@ -60819,20 +60819,35 @@
     },
     "title:agent-that-lied-what-gpt-astra-cancellation-means": {
       "title": "The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia",
-      "updated_at": "2026-10-06T02:36:41+00:00",
+      "updated_at": "2026-10-06T02:56:40+00:00",
       "network_scores": [
         25.1,
         22.1,
+        22.1,
         22.1
       ],
-      "rolling_average": 23.1,
+      "rolling_average": 22.85,
       "rolling_peak": 25.1,
       "last_score": 22.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:investors-not-just-fund-startups-they-fund-predictability": {
       "title": "Investors do not just fund startups. They fund predictability",
-      "updated_at": "2026-10-06T02:36:41+00:00",
+      "updated_at": "2026-10-06T02:56:40+00:00",
+      "network_scores": [
+        25.1,
+        22.1,
+        22.1,
+        22.1
+      ],
+      "rolling_average": 22.85,
+      "rolling_peak": 25.1,
+      "last_score": 22.1,
+      "z_hint": -0.75
+    },
+    "title:bottleneck-economy-taking-shape-across-southeast-asia-chip": {
+      "title": "AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain",
+      "updated_at": "2026-10-06T02:56:40+00:00",
       "network_scores": [
         25.1,
         22.1,
@@ -60843,41 +60858,31 @@
       "last_score": 22.1,
       "z_hint": -1.0
     },
-    "title:bottleneck-economy-taking-shape-across-southeast-asia-chip": {
-      "title": "AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain",
-      "updated_at": "2026-10-06T02:36:41+00:00",
-      "network_scores": [
-        25.1,
-        22.1
-      ],
-      "rolling_average": 23.6,
-      "rolling_peak": 25.1,
-      "last_score": 22.1,
-      "z_hint": -1.5
-    },
     "title:why-southeast-asia-vcs-should-pay-attention-a16z": {
       "title": "Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet",
-      "updated_at": "2026-10-06T02:36:41+00:00",
+      "updated_at": "2026-10-06T02:56:40+00:00",
       "network_scores": [
         15.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 13.6,
+      "rolling_average": 13.1,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "url:https://diamond.jp/articles/-/400443": {
       "title": "日立製作所とアンソロピックが提携、「米国AIの軍門に降った」と思う人が知らない事実",
-      "updated_at": "2026-10-06T02:36:41+00:00",
+      "updated_at": "2026-10-06T02:56:40+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.1,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     }
   }
 }
