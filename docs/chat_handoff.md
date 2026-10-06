@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-06T18:29:24+00:00_
+_Generated: 2026-10-06T18:58:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `85`
+- findings: `86`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-06T18:29:24+00:00_
 - url: https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/
 - summary: The artificial intelligence investment story is beginning to move beyond the most obvious winners. For much of the past three years, the market’s attention has centred on graphics processing units (GPUs), high-bandwidth memory and the companies supplying the…
 
-### 5. M 5.9 - 264 km SSW of Severo-Kuril’sk, Russia
+### 5. M 5.5 - 92 km NNW of Aleneva, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-06T18:57:51.996+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuxgky
+- summary: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-10-06 18:34:31 UTC 2026-10-06 18:34:31 UTC at epicenter Location 58.802°N 153.609°W Depth 87.60 km (54.43 mi)
+
+### 6. M 5.9 - 264 km SSW of Severo-Kuril’sk, Russia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-06T17:15:49.033+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-10-06 16:48:21 UTC 2026-10-06 16:48:21 UTC at epicenter Location 48.455°N 154.809°E Depth 26.05 km (16.18 mi)
 
-### 6. Atlassian and OpenAI expand partnership to turn enterprise knowledge into action
+### 7. Atlassian and OpenAI expand partnership to turn enterprise knowledge into action
 - source: OpenAI News RSS
 - score: `12`
 - published: `2026-10-06T16:00:00+00:00`
 - url: https://openai.com/index/atlassian-partnership
 - summary: Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.
 
-### 7. 政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました
+### 8. 政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました
 - source: Japan Digital Agency News RSS
 - score: `12`
 - published: `2026-10-06T06:10:19+00:00`
 - url: https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework
 - summary: 政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました
-
-### 8. The junior developer dilemma: How AI is reshaping tech talent in Southeast Asia
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-06T05:21:26+00:00`
-- url: https://e27.co/the-junior-developer-dilemma-how-ai-is-reshaping-tech-talent-in-southeast-asia-20261006/
-- summary: Across Southeast Asia’s technology hubs, engineering leaders are getting used to a new kind of productivity curve. In Singapore, Jakarta, Manila and Ho Chi Minh City, software teams are shipping faster, clearing backlogs more quickly and leaning on AI tools f…
 
 END OF DOCUMENT
