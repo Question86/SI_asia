@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T03:10:56+00:00_
+_Generiert: 2026-10-06T03:33:01+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+13 neue relevante Treffer. Stärkstes Signal: „AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -170,6 +170,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ウェブやクラウドを支える通信プロトコル「TCP」はAI向けデータセンターの通信には適していないとして、スタンフォード大学のジョン・オースターハウト名誉教授がトランスポートプロトコル「Homa」への移行を訴えています。Homaは短いメッセージを優先的に処理することで通信遅延を抑える仕組みを備えており、既存のTCP...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Can Bitcoin defend US$85,000 support, or will weakening bids send it toward US$83,000?** — Score 4, observation — [Quelle](https://e27.co/can-bitcoin-defend-us85000-support-or-will-weakening-bids-send-it-toward-us83000-20261006/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-06T03:18:48+00:00`, fetched `2026-10-06T03:32:32+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The tech-led rally on Wall Street pushed the Nasdaq 100 to a record close of 31,076 and lifted the S&P 500 by 0.7 per cent, while the Dow Jones added 91 points, or 0.18 per cent, to close at 51,268. Nvidia gained 2.1 per cent, and Microsoft added 1.5 per cent, powering large-cap advances. Investors […] The post Can Bitcoin defend US$85,000 support, or will weakening bids send it toward US$83,000? appeared first on e…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
