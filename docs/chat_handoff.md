@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-06T23:01:15+00:00_
+_Generated: 2026-10-06T23:21:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `95`
+- findings: `97`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-06T23:01:15+00:00_
 - url: https://openai.com/index/atlassian-partnership
 - summary: Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.
 
-### 8. 政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました
-- source: Japan Digital Agency News RSS
+### 8. How Jump Trading is scaling quant research with ChatGPT
+- source: OpenAI News RSS
 - score: `12`
-- published: `2026-10-06T06:10:19+00:00`
-- url: https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework
-- summary: 政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました
+- published: `2026-10-06T12:00:00+00:00`
+- url: https://openai.com/index/jump-trading
+- summary: Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.
 
 END OF DOCUMENT

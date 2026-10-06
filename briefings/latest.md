@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T23:01:15+00:00_
+_Generiert: 2026-10-06T23:21:59+00:00_
 
 ## Kurzlage
 
-95 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+97 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -238,6 +238,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Webentwicklung (+3.8); recent (+1.0)
   - Kurz: Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **How Jump Trading is scaling quant research with ChatGPT** — Score 12, observation — [Quelle](https://openai.com/index/jump-trading)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-06T12:00:00+00:00`, fetched `2026-10-06T23:21:27+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
+  - Kurz: Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました** — Score 12, observation — [Quelle](https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-06T06:10:19+00:00`, fetched `2026-10-06T06:36:50+00:00`
@@ -336,15 +345,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans le noyau Linux de Debian LTS (25 septembre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1232/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-09-25T00:00:00+00:00`, fetched `2026-10-06T13:21:44+00:00`
-  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
