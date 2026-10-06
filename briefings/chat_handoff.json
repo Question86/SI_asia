@@ -100,5 +100,141 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Microsoft Office: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "[UPDATE] [hoch] Microsoft Office: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-06T05:40:46+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Teams, Microsoft Azure Managed Instance und Microsoft Service Bus ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen oder Daten zu manipulieren."
+      },
+      {
+        "title": "MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性",
+        "url": "https://jvn.jp/jp/JVN13510969/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-06T12:00:15+09:00",
+        "age_days": 0.14,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "security high-signal: 10"
+        ],
+        "summary": "Measurement Computing Corporationが提供するUniversal Library for Linux (uldaq)には、スタックベースのバッファオーバーフローの脆弱性が存在します。"
+      },
+      {
+        "title": "[UPDATE] [hoch] Microsoft Office: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-28T14:08:37+00:00",
+        "age_days": 38.68,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 30.81,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "security high-signal: microsoft",
+          "aging penalty -6.2 for 38.7d old signal"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "ハッカーが楽天会員1億100万件の個人情報 販売を主張―氏名・住所・ポイント情報のサンプル掲載、漏洩元・真正性は未確認|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-06T03:06:03+00:00",
+        "age_days": 0.14,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "security high-signal: 10"
+        ],
+        "summary": "セキュリティ対策Labが掲載された18件を確認したところ、レギュラー、シルバー、ゴールドの各レコードについて、ランクとポイント数・獲得回数の明確な矛盾は確認できませんでした。 例えば、ゴールドと記録されたサンプルは700ポイント・7回の条件を満たしつつ、プラチナの2,000ポイント・15回の両条件までは満たしてい..."
+      },
+      {
+        "title": "The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia",
+        "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-06T01:47:10+00:00",
+        "age_days": 0.19,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 37.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
