@@ -1,15 +1,58 @@
 {
-  "generated_at": "2026-10-06T08:31:01+00:00",
+  "generated_at": "2026-10-06T08:51:05+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 37,
-    "clusters": 32,
+    "findings": 42,
+    "clusters": 33,
     "cross_source_confrmed": 0,
-    "hot": 1,
-    "early_signals": 1,
+    "hot": 0,
+    "early_signals": 0,
     "dominance_penalized": 5
   },
   "clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [mittel] Zabbix (Frontend): Schwachstelle ermöglicht Cross-Site Scripting",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3723",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3724",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3736"
+      ],
+      "finding_count": 9,
+      "max_score": 17,
+      "credibility_total": 9.45,
+      "cross_source_confirmed": false,
+      "momentum_delta": 4,
+      "momentum_status": "increasing",
+      "network_score": 31.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 47.9,
+      "ranking_score": 31.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 8.0,
+      "baseline_bonus": 5.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
     {
       "key": "github_repo:thedotmack/claude-mem",
       "title": "thedotmack/claude-mem",
@@ -28,69 +71,27 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 29.0,
-      "hot": true,
+      "network_score": 23.5,
+      "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 24.1,
-      "ranking_score": 29.0,
+      "ranking_score": 23.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-06T07:30:43+00:00"
-    },
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] Zabbix (Frontend): Schwachstelle ermöglicht Cross-Site Scripting",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3564",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3731"
-      ],
-      "finding_count": 5,
-      "max_score": 17,
-      "credibility_total": 5.25,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 22.22,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 30.5,
-      "ranking_score": 22.22,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.22,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
+      "first_seen_at": "2026-10-06T07:30:43+00:00"
     },
     {
       "key": "title:bottleneck-economy-taking-shape-across-southeast-asia-chip",
@@ -268,18 +269,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 17.26,
+      "network_score": 17.14,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 16.1,
-      "ranking_score": 17.26,
+      "ranking_score": 17.14,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.76,
+      "baseline_bonus": 1.64,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -720,44 +721,6 @@
       "first_seen_at": "2026-08-30T05:39:01+00:00"
     },
     {
-      "key": "domain:togetter.com",
-      "title": "「このシステム納得いかないんだが」横浜市内のバス停の並び方に関するルールがおかしい？→どんな理屈なのか考察する人たち",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://togetter.com/li/2754733"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.09,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 10.09,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.09,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T12:31:48+00:00"
-    },
-    {
       "key": "title:starting-behave-less-like-tool-more-like-teammate",
       "title": "AI is starting to behave less like a tool and more like a teammate",
       "sources": [
@@ -834,8 +797,8 @@
       "first_seen_at": "2026-10-06T05:49:53+00:00"
     },
     {
-      "key": "url:https://ascii.jp/elem/000/004/439/4439144/",
-      "title": "楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出",
+      "key": "domain:delete-all.hatenablog.com",
+      "title": "快適さは誰かの犠牲のうえに成り立っている。 - Everything you've ever Dreamed",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -843,7 +806,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://ascii.jp/elem/000/004/439/4439144/"
+        "https://delete-all.hatenablog.com/entry/2026/10/06/130000"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -869,7 +832,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-10-06T08:31:01+00:00"
+      "first_seen_at": "2026-10-06T08:51:05+00:00"
     },
     {
       "key": "domain:www.ecb.europa.eu",
@@ -987,6 +950,44 @@
       "first_seen_at": "2026-10-06T03:10:58+00:00"
     },
     {
+      "key": "url:https://ascii.jp/elem/000/004/439/4439144/",
+      "title": "楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://ascii.jp/elem/000/004/439/4439144/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-06T08:31:01+00:00"
+    },
+    {
       "key": "domain:www.jiji.com",
       "title": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相：時事ドットコム",
       "sources": [
@@ -1023,6 +1024,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
+      "key": "domain:togetter.com",
+      "title": "「このシステム納得いかないんだが」横浜市内のバス停の並び方に関するルールがおかしい？→どんな理屈なのか考察する人たち",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2754733"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T12:31:48+00:00"
     },
     {
       "key": "title:google-google-markdown",
@@ -1255,7 +1294,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-06T08:31:01Z",
+    "generated_at": "2026-10-06T08:51:06Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

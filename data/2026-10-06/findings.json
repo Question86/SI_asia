@@ -432,6 +432,98 @@
     "id": "4f670beeb0ef8ccec24c"
   },
   {
+    "title": "[UPDATE] [hoch] Apache Struts: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3723",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-06T08:47:06+00:00",
+    "fetched_at": "2026-10-06T08:50:34+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache Struts ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4f123b783b9691e70d87"
+  },
+  {
+    "title": "[UPDATE] [mittel] Zabbix: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3724",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-06T08:47:05+00:00",
+    "fetched_at": "2026-10-06T08:50:34+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Zabbix ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, und um Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b09673e942df523cdcab"
+  },
+  {
+    "title": "[UPDATE] [mittel] RabbitMQ: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3736",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-06T08:47:05+00:00",
+    "fetched_at": "2026-10-06T08:50:34+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in RabbitMQ ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a56db7be279961e95719"
+  },
+  {
+    "title": "[UPDATE] [mittel] Grafana: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3675",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-06T08:46:44+00:00",
+    "fetched_at": "2026-10-06T08:50:34+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Grafana ausnutzen, um Informationen offenzulegen und Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8e5ae1f1bfd7544334ba"
+  },
+  {
     "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3564",
     "source": "BSI CERT-Bund Security Advisories",
@@ -789,6 +881,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2ccedb822b307955d379"
+  },
+  {
+    "title": "快適さは誰かの犠牲のうえに成り立っている。 - Everything you've ever Dreamed",
+    "url": "https://delete-all.hatenablog.com/entry/2026/10/06/130000",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-06T05:05:03+00:00",
+    "fetched_at": "2026-10-06T08:50:34+00:00",
+    "summary": "「超大手企業の独身寮がじつに素晴らしい」という記事を読んだ。きっと素晴らしい寮なのだろう。大変結構。僕は給食会社の営業部長だ。あまり知られていないけれど寮管理業務は給食会社の事業のひとつだ。社員食堂とあわせて受託するケースが多い。僕自身、寮管理業務契約を取ったことも、現場に入ったこともあるので寮...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8b35530193baa3dee793"
   },
   {
     "title": "「このシステム納得いかないんだが」横浜市内のバス停の並び方に関するルールがおかしい？→どんな理屈なのか考察する人たち",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T08:30:52+00:00_
+_Generiert: 2026-10-06T08:51:03+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „thedotmack/claude-mem“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+42 neue relevante Treffer. Stärkstes Signal: „thedotmack/claude-mem“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,8 +29,30 @@ _Generiert: 2026-10-06T08:30:52+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-30`
   - Kurz: Known exploited vulnerability. Added 2026-09-30. Due 2026-10-03. Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f34942e5210>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Thailand
+- **GDACS: Green flood alert in Mexico** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104191)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Mexico
+- **GDACS: Green flood alert in Guatemala** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104213)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Guatemala
+- **GDACS: Green notification for tropical cyclone KOGUMA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001333)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone KOGUMA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569326)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:45.951km) in Indonesia 03/10/2026 22:55 UTC, 130 thousand in MMI V.
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:29.477km) in Russia 02/10/2026 16:34 UTC, Few people affected in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569129)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:29.477km) in Russia 02/10/2026 16:34 UTC, Few people affected in MMI III.
 
 ## Wirtschaft global
 
