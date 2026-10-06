@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T22:53:38+00:00",
-  "run_id": "2026-10-06T22:53:38+00:00",
+  "generated_at": "2026-10-06T23:01:15+00:00",
+  "run_id": "2026-10-06T23:01:15+00:00",
   "date": "2026-10-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 95,
     "displayed_findings": 95,
     "high": 0,
@@ -4753,29 +4753,7 @@
       "id": "1d42d450bdaa727ba3b3"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-06T12:00:00+00:00",
-      "fetched_at": "2026-10-06T22:53:07+00:00",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4a515fa55901e8b9d96c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
