@@ -90,5 +90,152 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia",
+        "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-06T01:00:35+00:00",
+        "age_days": 0.08,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code, 10",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "The most consequential AI launch of the past week was one that never happened. On the eve of its annual developer conference, OpenAI shelved GPT-6.1 Astra, the model expected to power ChatGPT and Codex next month and built to handle complex tasks with less human supervision. The reason was not that it was too weak. [……"
+      },
+      {
+        "title": "AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain",
+        "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-06T02:00:10+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "ai",
+          "security",
+          "infra",
+          "macro"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "early terms: supply, chain",
+          "high terms: 10",
+          "security high-signal: 10",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "The artificial intelligence investment story is beginning to move beyond the most obvious winners. For much of the past three years, the market’s attention has centred on graphics processing units (GPUs), high-bandwidth memory and the companies supplying the raw compute needed to train large AI models. That first wave…"
+      },
+      {
+        "title": "Investors do not just fund startups. They fund predictability",
+        "url": "https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-06T01:00:24+00:00",
+        "age_days": 0.08,
+        "topics": [
+          "ai",
+          "security",
+          "infra",
+          "macro"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "early terms: supply, chain",
+          "high terms: 10",
+          "security high-signal: 10",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "Southeast Asia has become one of the world’s most competitive regions for investment. Global companies are diversifying supply chains beyond China. Governments are offering tax incentives, industrial land and digital-economy programmes. New capital is flowing into manufacturing, data centres, semiconductors and techno…"
+      },
+      {
+        "title": "AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain",
+        "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-06T02:05:09+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "ai",
+          "infra"
+        ],
+        "dynamics_score": 26.5,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +1",
+          "early terms: supply, chain",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Investors do not just fund startups. They fund predictability",
+        "url": "https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-06T01:47:10+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 2,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +2",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
