@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-06T08:00:47+00:00",
+  "generated_at": "2026-10-06T08:30:52+00:00",
   "topics": {
     "ai": [
       {
@@ -216,6 +216,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [mittel] Zabbix (Frontend): Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-06T08:25:46+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722"
+      },
+      {
         "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-06T07:55:46+00:00",
@@ -295,11 +302,25 @@
         "url": "https://www.digital.go.jp/speech/minister-261006-01"
       },
       {
+        "title": "楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-06T06:21:53+00:00",
+        "relevance_score": 5,
+        "url": "https://ascii.jp/elem/000/004/439/4439144/"
+      },
+      {
         "title": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相：時事ドットコム",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-06T05:32:06+00:00",
         "relevance_score": 5,
         "url": "https://www.jiji.com/jc/article?k=2026100600559&g=eco"
+      },
+      {
+        "title": "「このシステム納得いかないんだが」横浜市内のバス停の並び方に関するルールがおかしい？→どんな理屈なのか考察する人たち",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-06T04:11:53+00:00",
+        "relevance_score": 5,
+        "url": "https://togetter.com/li/2754733"
       },
       {
         "title": "Google ドライブ、Google ドキュメントでMarkdown（.md）をそのまま扱えるように／フォーマット変換不要、そのままプレビューや編集・共同作業が可能に",

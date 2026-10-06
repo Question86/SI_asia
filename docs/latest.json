@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T08:00:47+00:00",
-  "run_id": "2026-10-06T08:00:47+00:00",
+  "generated_at": "2026-10-06T08:30:52+00:00",
+  "run_id": "2026-10-06T08:30:52+00:00",
   "date": "2026-10-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 34
+      "configured_public_sources_only": 37
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "new_relevant_findings": 3,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
-    "medium": 14,
-    "observe": 20,
+    "medium": 15,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -233,6 +233,30 @@
           "EWZ"
         ],
         "id": "553e4e007e86754a136e"
+      },
+      {
+        "title": "[UPDATE] [mittel] Zabbix (Frontend): Schwachstelle ermöglicht Cross-Site Scripting",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-06T08:25:46+00:00",
+        "fetched_at": "2026-10-06T08:30:21+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Zabbix Frontend ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security",
+          "Webentwicklung"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "386044d5f63064ba517a"
       },
       {
         "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
@@ -757,6 +781,27 @@
         "id": "5d8352d700add8419afc"
       },
       {
+        "title": "楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出",
+        "url": "https://ascii.jp/elem/000/004/439/4439144/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-06T06:21:53+00:00",
+        "fetched_at": "2026-10-06T08:30:21+00:00",
+        "summary": "楽天グループのクラウドストレージサービス「楽天ドライブ」は10月6日、使用する一部システムが第三者から不正アクセスを受けたと発表した。システムの管理用アカウントの認証情報を不正に取得され、内部へアクセスされたという。 最も影響が大きいのは、楽天ドライブ上に保存されたデータだ。2026年1月29日から9月17日...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "84bbb10ee6778db2d2db"
+      },
+      {
         "title": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相：時事ドットコム",
         "url": "https://www.jiji.com/jc/article?k=2026100600559&g=eco",
         "source": "Hatena Bookmark Hotentry IT",
@@ -776,6 +821,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2ccedb822b307955d379"
+      },
+      {
+        "title": "「このシステム納得いかないんだが」横浜市内のバス停の並び方に関するルールがおかしい？→どんな理屈なのか考察する人たち",
+        "url": "https://togetter.com/li/2754733",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-06T04:11:53+00:00",
+        "fetched_at": "2026-10-06T08:30:21+00:00",
+        "summary": "やまさん @yamasaruyama @SOG55585235 ちょっとよく分からんのだけど 後続バスの列は別に並んでんの？ 普通は1列に並んで乗れる人から乗っていくもんだと思うけど 2026-10-06 09:47:35 SOG @SOG55585235 @yamasaruyama 列自体は1列しか無いです なので前に並んでる人達が行先違いで乗らなければ抜いて行って乗車するので...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7c0b3d08531eef02f458"
       },
       {
         "title": "Google ドライブ、Google ドキュメントでMarkdown（.md）をそのまま扱えるように／フォーマット変換不要、そのままプレビューや編集・共同作業が可能に",
@@ -1130,6 +1196,30 @@
         "EWZ"
       ],
       "id": "553e4e007e86754a136e"
+    },
+    {
+      "title": "[UPDATE] [mittel] Zabbix (Frontend): Schwachstelle ermöglicht Cross-Site Scripting",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-06T08:25:46+00:00",
+      "fetched_at": "2026-10-06T08:30:21+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Zabbix Frontend ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Webentwicklung"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "386044d5f63064ba517a"
     },
     {
       "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
@@ -1652,6 +1742,27 @@
       "id": "5d8352d700add8419afc"
     },
     {
+      "title": "楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出",
+      "url": "https://ascii.jp/elem/000/004/439/4439144/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-06T06:21:53+00:00",
+      "fetched_at": "2026-10-06T08:30:21+00:00",
+      "summary": "楽天グループのクラウドストレージサービス「楽天ドライブ」は10月6日、使用する一部システムが第三者から不正アクセスを受けたと発表した。システムの管理用アカウントの認証情報を不正に取得され、内部へアクセスされたという。 最も影響が大きいのは、楽天ドライブ上に保存されたデータだ。2026年1月29日から9月17日...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "84bbb10ee6778db2d2db"
+    },
+    {
       "title": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相：時事ドットコム",
       "url": "https://www.jiji.com/jc/article?k=2026100600559&g=eco",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1671,6 +1782,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "2ccedb822b307955d379"
+    },
+    {
+      "title": "「このシステム納得いかないんだが」横浜市内のバス停の並び方に関するルールがおかしい？→どんな理屈なのか考察する人たち",
+      "url": "https://togetter.com/li/2754733",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-06T04:11:53+00:00",
+      "fetched_at": "2026-10-06T08:30:21+00:00",
+      "summary": "やまさん @yamasaruyama @SOG55585235 ちょっとよく分からんのだけど 後続バスの列は別に並んでんの？ 普通は1列に並んで乗れる人から乗っていくもんだと思うけど 2026-10-06 09:47:35 SOG @SOG55585235 @yamasaruyama 列自体は1列しか無いです なので前に並んでる人達が行先違いで乗らなければ抜いて行って乗車するので...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7c0b3d08531eef02f458"
     },
     {
       "title": "Google ドライブ、Google ドキュメントでMarkdown（.md）をそのまま扱えるように／フォーマット変換不要、そのままプレビューや編集・共同作業が可能に",
@@ -1821,28 +1953,70 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737",
+      "title": "[UPDATE] [mittel] Zabbix (Frontend): Schwachstelle ermöglicht Cross-Site Scripting",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-06T07:55:46+00:00",
-      "fetched_at": "2026-10-06T08:00:11+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Informationen offenzulegen, Daten zu verfälschen oder zu manipulieren oder Denial-of-Service-Zustände zu verursachen.",
+      "published_at": "2026-10-06T08:25:46+00:00",
+      "fetched_at": "2026-10-06T08:30:21+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Zabbix Frontend ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Microsoft",
         "Schwachstelle",
-        "Security"
+        "Security",
+        "Webentwicklung"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6995e9dab8c31524521c"
+      "id": "386044d5f63064ba517a"
+    },
+    {
+      "title": "楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出",
+      "url": "https://ascii.jp/elem/000/004/439/4439144/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-06T06:21:53+00:00",
+      "fetched_at": "2026-10-06T08:30:21+00:00",
+      "summary": "楽天グループのクラウドストレージサービス「楽天ドライブ」は10月6日、使用する一部システムが第三者から不正アクセスを受けたと発表した。システムの管理用アカウントの認証情報を不正に取得され、内部へアクセスされたという。 最も影響が大きいのは、楽天ドライブ上に保存されたデータだ。2026年1月29日から9月17日...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "84bbb10ee6778db2d2db"
+    },
+    {
+      "title": "「このシステム納得いかないんだが」横浜市内のバス停の並び方に関するルールがおかしい？→どんな理屈なのか考察する人たち",
+      "url": "https://togetter.com/li/2754733",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-06T04:11:53+00:00",
+      "fetched_at": "2026-10-06T08:30:21+00:00",
+      "summary": "やまさん @yamasaruyama @SOG55585235 ちょっとよく分からんのだけど 後続バスの列は別に並んでんの？ 普通は1列に並んで乗れる人から乗っていくもんだと思うけど 2026-10-06 09:47:35 SOG @SOG55585235 @yamasaruyama 列自体は1列しか無いです なので前に並んでる人達が行先違いで乗らなければ抜いて行って乗車するので...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7c0b3d08531eef02f458"
     }
   ],
   "source_errors": [],
