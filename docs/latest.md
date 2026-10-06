@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T05:20:23+00:00_
+_Generiert: 2026-10-06T05:36:23+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+22 neue relevante Treffer. Stärkstes Signal: „AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **The junior developer dilemma: How AI is reshaping tech talent in Southeast Asia** — Score 12, observation — [Quelle](https://e27.co/the-junior-developer-dilemma-how-ai-is-reshaping-tech-talent-in-southeast-asia-20261006/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-06T05:21:26+00:00`, fetched `2026-10-06T05:35:55+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Across Southeast Asia’s technology hubs, engineering leaders are getting used to a new kind of productivity curve. In Singapore, Jakarta, Manila and Ho Chi Minh City, software teams are shipping faster, clearing backlogs more quickly and leaning on AI tools for work that once consumed hours of developer time. The latest shift is not just […] The post The junior developer dilemma: How AI is reshaping tech talent in S…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Gartner says AI will kill the entry-level marketing job by 2030. Here’s why that’s the wrong takeaway** — Score 12, opportunity — [Quelle](https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-06T03:00:16+00:00`, fetched `2026-10-06T03:10:28+00:00`
@@ -122,15 +131,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: In 2021, I invested in one of the robotics startups that was solving for real world problems. The idea was to look beyond the screen and make every hardware talking through new robo technology. My thesis was clear, after the software it’s hardware that will be disrupted. Since AI disrupted the market after 2022, my […] The post Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet appeared first…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI is starting to behave less like a tool and more like a teammate** — Score 8, observation — [Quelle](https://e27.co/ai-is-starting-to-behave-less-like-a-tool-and-more-like-a-teammate-20261004/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-06T04:00:26+00:00`, fetched `2026-10-06T04:01:19+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Most AI writing about work still treats the technology like an advanced tool. That framing made sense when AI mainly waited for a prompt, returned an answer, and stopped there. But that is no longer the whole picture. In more organisations, AI is starting to look less like software you use and more like a […] The post AI is starting to behave less like a tool and more like a teammate appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **古川大臣記者会見（令和8年10月6日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261006-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
