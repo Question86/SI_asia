@@ -1,58 +1,15 @@
 {
-  "generated_at": "2026-10-06T09:53:22+00:00",
+  "generated_at": "2026-10-06T10:01:05+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 46,
-    "clusters": 35,
+    "findings": 47,
+    "clusters": 36,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
     "dominance_penalized": 6
   },
   "clusters": [
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] Zabbix (Frontend): Schwachstelle ermöglicht Cross-Site Scripting",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3739",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3738",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3723"
-      ],
-      "finding_count": 11,
-      "max_score": 17,
-      "credibility_total": 11.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 28.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 46.1,
-      "ranking_score": 28.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 5.0,
-      "baseline_bonus": 5.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
     {
       "key": "github_repo:thedotmack/claude-mem",
       "title": "thedotmack/claude-mem",
@@ -92,6 +49,49 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-06T07:30:43+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [mittel] Zabbix (Frontend): Schwachstelle ermöglicht Cross-Site Scripting",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3739",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3738",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3723"
+      ],
+      "finding_count": 11,
+      "max_score": 17,
+      "credibility_total": 11.55,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 22.62,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 40.1,
+      "ranking_score": 22.62,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 4.12,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:addressing-digital-shift-accounting-erp-trend-singapore",
@@ -307,18 +307,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 16.66,
+      "network_score": 16.54,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 16.1,
-      "ranking_score": 16.66,
+      "ranking_score": 16.54,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.16,
+      "baseline_bonus": 1.04,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -621,18 +621,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.55,
+      "network_score": 12.54,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 15.2,
-      "ranking_score": 12.55,
+      "ranking_score": 12.54,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.05,
+      "baseline_bonus": 0.04,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -716,6 +716,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-06T02:05:09+00:00"
+    },
+    {
+      "key": "domain:www.heise.de",
+      "title": "Android-Patchday: Google stopft diverse Rechteausweitungslücken",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Android-Patchday-Google-stopft-diverse-Rechteausweitungsluecken-11477435.html"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 11.35,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.1,
+      "ranking_score": 11.35,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.35,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "earthquake:chile:4.7",
@@ -1373,7 +1411,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-06T09:53:22Z",
+    "generated_at": "2026-10-06T10:01:06Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
