@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T10:01:03+00:00_
+_Generiert: 2026-10-06T10:23:41+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „thedotmack/claude-mem“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+48 neue relevante Treffer. Stärkstes Signal: „thedotmack/claude-mem“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -269,6 +269,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: IT企業「GMOインターネットグループ」傘下の「GMOリサーチ＆AI」は、運営しているアンケートサイトに不正アクセスがあり、会員の個人情報94万件余りが流出したと発表しました。 流出したのは氏名や生…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Not just AI. China is building technologies that challenge U.S. dominance** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-america-tech-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-10-06T10:00:00+00:00`, fetched `2026-10-06T10:23:09+00:00`
+  - Treffer: AI/KI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: From batteries and solar panels to drones and satellites, China is building tech capabilities that extend well beyond AI, writes Steve Feldstein in his new book, "Bytes and Bullets: Global Rivalries, Big Tech, and the New Shape of Modern Warfare."
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Android-Patchday: Google stopft diverse Rechteausweitungslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Android-Patchday-Google-stopft-diverse-Rechteausweitungsluecken-11477435.html)
   - Quelle: heise Security Alerts / `rss`
