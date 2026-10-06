@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T10:37:47+00:00",
-  "today_file_total": 52,
+  "generated_at": "2026-10-06T10:50:44+00:00",
+  "today_file_total": 58,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -23,9 +23,60 @@
       "max_score": 17,
       "credibility_total": 13.65,
       "cross_source_confirmed": false,
-      "momentum_delta": 2,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 44.3,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "Thailand's new horizons - empowering people, building resilience",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20261006-thailands-new-horizons-empowering-people-building-resilience",
+        "https://www.bis.org/speeches/20261006-economic-conditions-and-monetary-policy",
+        "https://www.bis.org/speeches/20261006-special-remarks-jc3-journey-zero-conference-2026",
+        "https://www.bis.org/speeches/20261006-shaping-inclusive-transitions-asia-enhancing-smes-resilience-and-adaptation-climate-change",
+        "https://www.bis.org/speeches/20261005-keynote-speech-money2020-middle-east",
+        "https://www.bis.org/speeches/20261006-economic-policymaking-changing-world"
+      ],
+      "finding_count": 6,
+      "max_score": 12,
+      "credibility_total": 6.3,
+      "cross_source_confirmed": false,
+      "momentum_delta": 4,
       "momentum_status": "increasing",
-      "network_score": 50.3,
+      "network_score": 36.6,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "title:code-scanning-scan-enablement-status-security-overview",
+      "title": "Code scanning AI Scan enablement status in security overview",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview"
+      ],
+      "finding_count": 1,
+      "max_score": 23,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 28.1,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -152,6 +203,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "url:https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics",
+      "title": "漏洩ラッシュは本当にラッシュなのか 公的統計と公式発表で確かめてみた",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "title:east-asia-crypto-market-splits-korea-bets-tokens",
       "title": "East Asia’s crypto market splits as Korea bets on AI tokens and Hong Kong courts institutions",
       "sources": [
@@ -175,30 +249,6 @@
         "capitals_power_centers"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "Shaping inclusive transitions in Asia - enhancing SMEs’ resilience and adaptation to climate change",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20261006-shaping-inclusive-transitions-asia-enhancing-smes-resilience-and-adaptation-climate-change",
-        "https://www.bis.org/speeches/20261006-economic-policymaking-changing-world"
-      ],
-      "finding_count": 2,
-      "max_score": 8,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 18.2,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
       "key": "earthquake:m 4.9 - state of yap, federated states of micronesia:4.9",
@@ -438,52 +488,6 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:100-lab",
-      "title": "ハッカーが楽天会員1億100万件の個人情報 販売を主張―氏名・住所・ポイント情報のサンプル掲載、漏洩元・真正性は未確認|セキュリティニュースのセキュリティ対策Lab",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:why-southeast-asia-vcs-should-pay-attention-a16z",
-      "title": "Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
 }

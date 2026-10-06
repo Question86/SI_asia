@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-06T10:37:45+00:00",
+  "generated_at": "2026-10-06T10:50:41+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 52,
-    "displayed_findings": 52,
+    "new_relevant_findings": 6,
+    "today_file_total": 58,
+    "displayed_findings": 58,
     "high": 0,
-    "medium": 24,
-    "observe": 28
+    "medium": 26,
+    "observe": 32
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Code scanning AI Scan enablement status in security overview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-06T10:23:38+00:00",
+      "relevance_score": 23,
+      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "summary": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in…",
+      "section": "medium"
+    },
     {
       "title": "thedotmack/claude-mem",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -42,16 +52,6 @@
       "relevance_score": 20,
       "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
       "summary": "The artificial intelligence investment story is beginning to move beyond the most obvious winners. For much of the past three years, the market’s attention has centred on graphics processing units (GPUs), high-bandwidth memory and the companies supplying the…",
-      "section": "medium"
-    },
-    {
-      "title": "The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-06T01:00:35+00:00",
-      "relevance_score": 20,
-      "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
-      "summary": "The most consequential AI launch of the past week was one that never happened. On the eve of its annual developer conference, OpenAI shelved GPT-6.1 Astra, the model expected to power ChatGPT and Codex next month and built to handle complex tasks with less hu…",
       "section": "medium"
     },
     {
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "M 4.7 - 36 km WNW of Ollagüe, Chile",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Thailand's new horizons - empowering people, building resilience",
+      "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
-      "published_at": "2026-10-06T06:36:06.040+00:00",
-      "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6",
-      "summary": "Time 2026-10-06 06:16:33 UTC 2026-10-06 06:16:33 UTC at epicenter Location 21.159°S 68.603°W Depth 122.01 km (75.81 mi)",
+      "published_at": "2026-10-06T00:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://www.bis.org/speeches/20261006-thailands-new-horizons-empowering-people-building-resilience",
+      "summary": "Speech by Mr Vitai Ratanakorn, Governor of the Bank of Thailand, at the Bangkok Business Summit 2026 \"Reinvent Thailand, resilient ASEAN\", Bangkok, 3 September 2026.",
       "section": "observe"
     }
   ],

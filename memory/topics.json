@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-06T10:37:45+00:00",
+  "generated_at": "2026-10-06T10:50:41+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Code scanning AI Scan enablement status in security overview",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-06T10:23:38+00:00",
+        "relevance_score": 23,
+        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview"
+      },
       {
         "title": "thedotmack/claude-mem",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -47,6 +54,13 @@
         "url": "https://e27.co/east-asias-crypto-market-splits-as-korea-bets-on-ai-tokens-and-hong-kong-courts-institutions-20261006/"
       },
       {
+        "title": "漏洩ラッシュは本当にラッシュなのか 公的統計と公式発表で確かめてみた",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-06T06:19:59+00:00",
+        "relevance_score": 16,
+        "url": "https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics"
+      },
+      {
         "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-06T06:35:46+00:00",
@@ -59,23 +73,88 @@
         "published_at": "2026-10-06T05:21:26+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/the-junior-developer-dilemma-how-ai-is-reshaping-tech-talent-in-southeast-asia-20261006/"
+      }
+    ],
+    "security": [
+      {
+        "title": "Code scanning AI Scan enablement status in security overview",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-06T10:23:38+00:00",
+        "relevance_score": 23,
+        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview"
       },
       {
-        "title": "Gartner says AI will kill the entry-level marketing job by 2030. Here’s why that’s the wrong takeaway",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-06T03:00:16+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/"
+        "title": "[UPDATE] [mittel] Zabbix (Frontend): Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-06T08:25:46+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722"
       },
       {
-        "title": "Geminiの使いどころ🥹",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-06T01:10:59+00:00",
-        "relevance_score": 11,
-        "url": "https://anond.hatelabo.jp/20261006101040"
+        "title": "[NEU] [hoch] Android Patchday Oktober 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-06T10:20:46+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3740"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-06T07:55:46+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737"
+      },
+      {
+        "title": "[UPDATE] [hoch] Microsoft Office: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-06T05:40:46+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692"
+      },
+      {
+        "title": "MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-06T12:00:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN13510969/"
+      },
+      {
+        "title": "Androidアプリ「チケット流通センター」における複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-06T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN53292492/"
+      },
+      {
+        "title": "[NEU] [hoch] BuildKit: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-06T10:25:46+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3741"
+      },
+      {
+        "title": "[NEU] [niedrig] GnuPG: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-06T09:40:49+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3739"
+      },
+      {
+        "title": "[NEU] [hoch] LibreOffice: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-06T09:40:48+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3738"
       }
     ],
     "github": [
+      {
+        "title": "Code scanning AI Scan enablement status in security overview",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-06T10:23:38+00:00",
+        "relevance_score": 23,
+        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview"
+      },
       {
         "title": "thedotmack/claude-mem",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -163,11 +242,11 @@
         "url": "https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/"
       },
       {
-        "title": "Philip R. Lane: Interview with Ansa",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-10-06T07:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html"
+        "title": "Economic conditions and monetary policy",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-06T00:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.bis.org/speeches/20261006-economic-conditions-and-monetary-policy"
       }
     ],
     "economy": [
@@ -221,6 +300,13 @@
         "url": "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/"
       },
       {
+        "title": "Thailand's new horizons - empowering people, building resilience",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-06T00:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://www.bis.org/speeches/20261006-thailands-new-horizons-empowering-people-building-resilience"
+      },
+      {
         "title": "Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-06T02:00:44+00:00",
@@ -228,90 +314,11 @@
         "url": "https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/"
       },
       {
-        "title": "Shaping inclusive transitions in Asia - enhancing SMEs’ resilience and adaptation to climate change",
+        "title": "Economic conditions and monetary policy",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-10-06T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/speeches/20261006-shaping-inclusive-transitions-asia-enhancing-smes-resilience-and-adaptation-climate-change"
-      },
-      {
-        "title": "Economic policymaking in a changing world",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-06T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261006-economic-policymaking-changing-world"
-      }
-    ],
-    "security": [
-      {
-        "title": "[UPDATE] [mittel] Zabbix (Frontend): Schwachstelle ermöglicht Cross-Site Scripting",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-06T08:25:46+00:00",
-        "relevance_score": 17,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722"
-      },
-      {
-        "title": "[NEU] [hoch] Android Patchday Oktober 2026: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-06T10:20:46+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3740"
-      },
-      {
-        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-06T07:55:46+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737"
-      },
-      {
-        "title": "[UPDATE] [hoch] Microsoft Office: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-06T05:40:46+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692"
-      },
-      {
-        "title": "MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-06T12:00:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN13510969/"
-      },
-      {
-        "title": "Androidアプリ「チケット流通センター」における複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-06T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN53292492/"
-      },
-      {
-        "title": "[NEU] [hoch] BuildKit: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-06T10:25:46+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3741"
-      },
-      {
-        "title": "[NEU] [niedrig] GnuPG: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-06T09:40:49+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3739"
-      },
-      {
-        "title": "[NEU] [hoch] LibreOffice: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-06T09:40:48+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3738"
-      },
-      {
-        "title": "[UPDATE] [hoch] Apache Struts: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-06T08:47:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3723"
+        "relevance_score": 9,
+        "url": "https://www.bis.org/speeches/20261006-economic-conditions-and-monetary-policy"
       }
     ],
     "general": [

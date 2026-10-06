@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T10:37:45+00:00_
+_Generiert: 2026-10-06T10:50:41+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „thedotmack/claude-mem“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+58 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Code scanning AI Scan enablement status in security overview** — Score 23, observation — [Quelle](https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-06T10:23:38+00:00`, fetched `2026-10-06T10:50:11+00:00`
+  - Treffer: AI/KI, CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); AI/KI (+3.8); Security (+7.5); GitHub (+2.0); recent (+1.0)
+  - Kurz: Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository… The post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **thedotmack/claude-mem** — Score 22, observation — [Quelle](https://github.com/thedotmack/claude-mem)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-10-06T07:30:10+00:00`
@@ -132,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Informationen offenzulegen, Daten zu verfälschen oder zu manipulieren oder Denial-of-Service-Zustände zu verursachen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **漏洩ラッシュは本当にラッシュなのか 公的統計と公式発表で確かめてみた** — Score 16, risk — [Quelle](https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-06T06:19:59+00:00`, fetched `2026-10-06T10:50:11+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 9月の終わりごろから、情報漏洩のニュースをやたらとよく見るなと感じていました。タイムズカー、セイコーマート、東京メトロ、OZmallと数日おきに続き、10月に入ると焼肉きんぐです。SNSでも、さすがに多すぎるのではという声や、AIが攻撃に使われているのではという声をよく見かけました。 ただ、「よく見る」と「増え...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - State of Yap, Federated States of Micronesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-06T04:58:57.040+00:00`, fetched `2026-10-06T05:19:52+00:00`
@@ -207,6 +225,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Nearly one in five marketing leaders has already eliminated roles because automation now handles the work. That is the finding behind a new Gartner prediction, which Marketing Week reported this week: by 2030, most high-performing marketing teams will be able to drop the traditional bottom rungs of the corporate ladder. The headline number is 18 […] The post Gartner says AI will kill the entry-level marketing job by…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Thailand's new horizons - empowering people, building resilience** — Score 12, opportunity — [Quelle](https://www.bis.org/speeches/20261006-thailands-new-horizons-empowering-people-building-resilience)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-06T00:00:00+00:00`, fetched `2026-10-06T10:50:11+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand, ASEAN (+2.0)
+  - Kurz: Speech by Mr Vitai Ratanakorn, Governor of the Bank of Thailand, at the Bangkok Business Summit 2026 "Reinvent Thailand, resilient ASEAN", Bangkok, 3 September 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 4.7 - 36 km WNW of Ollagüe, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-06T06:36:06.040+00:00`, fetched `2026-10-06T06:36:50+00:00`
@@ -252,6 +279,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-06 08:45:26 UTC 2026-10-06 08:45:26 UTC at epicenter Location 4.477°S 152.752°E Depth 20.64 km (12.83 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Economic conditions and monetary policy** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261006-economic-conditions-and-monetary-policy)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-06T00:00:00+00:00`, fetched `2026-10-06T10:50:11+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at the Detroit Economic Club, Detroit, Michigan, 29 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Philip R. Lane: Interview with Ansa** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-10-06T07:00:00+00:00`, fetched `2026-10-06T07:02:12+00:00`
@@ -270,15 +306,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: IT企業「GMOインターネットグループ」傘下の「GMOリサーチ＆AI」は、運営しているアンケートサイトに不正アクセスがあり、会員の個人情報94万件余りが流出したと発表しました。 流出したのは氏名や生…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Shaping inclusive transitions in Asia - enhancing SMEs’ resilience and adaptation to climate change** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261006-shaping-inclusive-transitions-asia-enhancing-smes-resilience-and-adaptation-climate-change)
+- **Special remarks - JC3 Journey to Zero Conference 2026** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261006-special-remarks-jc3-journey-zero-conference-2026)
   - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-06T00:00:00+00:00`, fetched `2026-10-06T10:37:16+00:00`
+  - Zeit: published `2026-10-06T00:00:00+00:00`, fetched `2026-10-06T10:50:11+00:00`
   - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
-  - Kurz: Welcome remarks by Mr Darryl Chan, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Capacity-building Alliance of Sustainable Investment (CASI) Sustainability Forum "Shaping inclusive transitions in Asia: enhancing SMEs’ resilience and adaptation to climate change", Hong Kong, 11 September 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
+  - Kurz: Speech by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the JC3 Journey to Zero Conference 2026, Kuala Lumpur, 29 September 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Not just AI. China is building technologies that challenge U.S. dominance** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-america-tech-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-10-06T10:00:00+00:00`, fetched `2026-10-06T10:23:09+00:00`
@@ -297,24 +333,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Im Oktober versorgt Google mehr als 25 Sicherheitslücken mit Patches. Sieben gelten als kritisches Risiko.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **古川大臣記者会見（令和8年10月6日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261006-01)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-06T02:59:42+00:00`, fetched `2026-10-06T03:10:28+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 古川大臣記者会見（令和8年10月6日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Economic policymaking in a changing world** — Score 6, opportunity — [Quelle](https://www.bis.org/speeches/20261006-economic-policymaking-changing-world)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-06T00:00:00+00:00`, fetched `2026-10-06T10:37:16+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
-  - Kurz: Keynote address by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, at the North West University and University of Mauritius Social Sciences International Research Conference (SSIRC) 2026, Port Louis, 9 September 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
