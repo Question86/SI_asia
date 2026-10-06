@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T13:37:19+00:00_
+_Generiert: 2026-10-06T13:50:14+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+77 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand, ASEAN (+2.0)
   - Kurz: Speech by Mr Vitai Ratanakorn, Governor of the Bank of Thailand, at the Bangkok Business Summit 2026 "Reinvent Thailand, resilient ASEAN", Bangkok, 3 September 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 4.9 - 48 km NNE of Semporna, Malaysia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzwg)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-06T13:47:32.040+00:00`, fetched `2026-10-06T13:49:45+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-06 13:11:22 UTC 2026-10-06 13:11:22 UTC at epicenter Location 4.867°N 118.829°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.7 - 36 km WNW of Ollagüe, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-06T06:36:06.040+00:00`, fetched `2026-10-06T06:36:50+00:00`
@@ -267,15 +276,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-06 08:45:26 UTC 2026-10-06 08:45:26 UTC at epicenter Location 4.477°S 152.752°E Depth 20.64 km (12.83 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Economic conditions and monetary policy** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261006-economic-conditions-and-monetary-policy)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-06T00:00:00+00:00`, fetched `2026-10-06T10:50:11+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
-  - Kurz: Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at the Detroit Economic Club, Detroit, Michigan, 29 September 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
