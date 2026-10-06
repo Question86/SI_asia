@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-06T20:59:10+00:00",
+  "generated_at": "2026-10-06T21:43:05+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 89,
     "clusters": 55,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 12
   },
   "clusters": [
@@ -89,44 +89,6 @@
       "first_seen_at": "2026-10-06T07:30:43+00:00"
     },
     {
-      "key": "title:eli5-archify-explainer",
-      "title": "説明スキルの比較：ELI5、Archify、Explainer",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://blog.lai.so/eli5-archify-explainer-skills/"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 23.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 18.1,
-      "ranking_score": 23.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-06T20:38:47+00:00"
-    },
-    {
       "key": "domain:openai.com",
       "title": "Advancing computer use with Ironclad",
       "sources": [
@@ -145,20 +107,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 22.63,
+      "network_score": 22.52,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "raw_network_score": 23.2,
-      "ranking_score": 22.63,
+      "ranking_score": 22.52,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.13,
+      "baseline_bonus": 2.02,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -405,6 +367,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
+      "key": "title:eli5-archify-explainer",
+      "title": "説明スキルの比較：ELI5、Archify、Explainer",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://blog.lai.so/eli5-archify-explainer-skills/"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 17.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-06T20:38:47+00:00"
     },
     {
       "key": "url:https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics",
@@ -815,20 +815,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.86,
+      "network_score": 12.84,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 15.7,
-      "ranking_score": 12.86,
+      "ranking_score": 12.84,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.46,
+      "baseline_bonus": 0.44,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1093,18 +1093,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.29,
+      "network_score": 12.18,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 37.2,
-      "ranking_score": 12.29,
+      "ranking_score": 12.18,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.29,
+      "baseline_bonus": 0.18,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1371,18 +1371,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 9.06,
+      "network_score": 9.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 15.3,
-      "ranking_score": 9.06,
+      "ranking_score": 9.0,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.06,
+      "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1583,44 +1583,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-06T03:10:58+00:00"
-    },
-    {
-      "key": "title:building-git-infrastructure-agent-scale-development",
-      "title": "Building Git infrastructure for agent-scale development",
-      "sources": [
-        "GitHub Blog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/"
-      ],
-      "finding_count": 1,
-      "max_score": 3,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 7.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 8.1,
-      "ranking_score": 7.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-06T20:59:10+00:00"
     },
     {
       "key": "url:https://www.itmedia.co.jp/aiplus/article/2610/06/2000002065/",
@@ -2117,6 +2079,44 @@
       "first_seen_at": "2026-10-06T03:33:03+00:00"
     },
     {
+      "key": "title:building-git-infrastructure-agent-scale-development",
+      "title": "Building Git infrastructure for agent-scale development",
+      "sources": [
+        "GitHub Blog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/"
+      ],
+      "finding_count": 1,
+      "max_score": 3,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 4.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 5.1,
+      "ranking_score": 4.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-06T20:59:10+00:00"
+    },
+    {
       "key": "title:stacked-pull-requests-generally-available",
       "title": "Stacked pull requests generally available",
       "sources": [
@@ -2157,7 +2157,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-06T20:59:11Z",
+    "generated_at": "2026-10-06T21:43:06Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

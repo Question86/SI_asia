@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T20:59:07+00:00_
+_Generiert: 2026-10-06T21:43:03+00:00_
 
 ## Kurzlage
 
@@ -37,6 +37,10 @@ _Generiert: 2026-10-06T20:59:07+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
+- **GDACS: Green notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001334)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569807)
   - Quelle: GDACS
   - Zeit: ``
