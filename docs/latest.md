@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-06T14:23:00+00:00_
+_Generiert: 2026-10-06T14:50:26+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+78 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan enablement status in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -120,6 +120,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-06 03:42:43 UTC 2026-10-06 03:42:43 UTC at epicenter Location 7.832°S 120.393°E Depth 8.65 km (5.38 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Bowman, Modernizing the Regulatory and Supervisory Landscape** — Score 14, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-10-06T14:45:00+00:00`, fetched `2026-10-06T14:49:55+00:00`
+  - Treffer: banking, Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); banking (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At the 2026 Community Banking Research Conference, sponsored by the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St. Louis, Missouri
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN13510969/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-06T12:00:15+09:00`, fetched `2026-10-06T03:10:28+00:00`
