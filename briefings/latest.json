@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T15:00:24+00:00",
-  "run_id": "2026-10-06T15:00:24+00:00",
+  "generated_at": "2026-10-06T15:22:39+00:00",
+  "run_id": "2026-10-06T15:22:39+00:00",
   "date": "2026-10-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 79,
     "displayed_findings": 79,
     "high": 0,
@@ -3849,29 +3849,7 @@
       "id": "8fed855ceab1d614bbee"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Resilience, integration and competitiveness - building the future of European banking",
-      "url": "https://www.bis.org/speeches/20261006-resilience-integration-and-competitiveness-building-future-european-banking",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-06T00:00:00+00:00",
-      "fetched_at": "2026-10-06T14:59:48+00:00",
-      "summary": "Keynote speech by Mr Boris Vujčić, Vice-President of the European Central Bank, at the tenth annual conference of the European Systemic Risk Board (ESRB), Frankfurt am Main, 2 October 2026.",
-      "matched_keywords": [
-        "banking",
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); banking (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7e8ba8c10cc13756dcd0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
