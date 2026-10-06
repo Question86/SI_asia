@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-10-06T03:11:16+00:00`
+Generated: `2026-10-06T03:33:21+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -27,10 +27,10 @@ Generated: `2026-10-06T03:11:16+00:00`
 | 一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも \| kawarimidoll.com | conflict | $109.60M | $10.96B | $1.10T | 0.31 |
 | Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert | conflict | $109.60M | $10.96B | $1.10T | 0.31 |
 | Bitcoin’s corrective pullback or the start of a deeper drop toward US$79,600? | conflict | $107.20M | $10.72B | $1.07T | 0.31 |
+| Can Bitcoin defend US$85,000 support, or will weakening bids send it toward US$83,000? | conflict | $107.20M | $10.72B | $1.07T | 0.31 |
 | CodeQL 2.26.4 improves GitHub actions security detections | regulation | $12.40M | $1.24B | $124.00B | 0.31 |
 | [MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024) | vulnerability, exploit, regulation | $12.00M | $1.20B | $120.00B | 0.31 |
 | Gitlawb/openclaude | regulation | $12.00M | $1.20B | $120.00B | 0.31 |
-| The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T | regulation | $11.92M | $1.19B | $119.20B | 0.31 |
 
 ## Interpretation
 
