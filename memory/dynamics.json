@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-06T09:17:11Z",
+  "generated_at": "2026-10-06T10:14:48Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 11,
-      "extreme": 2,
-      "strong": 22,
-      "watch": 5
+      "krass": 12,
+      "extreme": 3,
+      "strong": 24,
+      "watch": 1
     },
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 34,
-      "watch": 5
+      "krass": 2,
+      "strong": 37,
+      "watch": 1
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T05:40:46+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -44,11 +44,36 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Teams, Microsoft Azure Managed Instance und Microsoft Service Bus ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen oder Daten zu manipulieren."
     },
     {
+      "title": "[NEU] [hoch] LibreOffice: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3738",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-06T09:40:48+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in LibreOffice ausnutzen, um Informationen offenzulegen, Daten zu manipulieren und beliebigen Code auszuführen."
+    },
+    {
       "title": "Androidアプリ「チケット流通センター」における複数の脆弱性",
       "url": "https://jvn.jp/jp/JVN53292492/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-06T12:00:00+09:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -68,11 +93,35 @@
       "summary": "株式会社ウェイブダッシュが提供するAndroidアプリ「チケット流通センター」には、複数の脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [niedrig] GnuPG: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3739",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-06T09:40:49+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GnuPG ausnutzen, um Dateien zu manipulieren."
+    },
+    {
       "title": "[UPDATE] [mittel] Zabbix: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3724",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T08:47:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -96,7 +145,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3736",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T08:47:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -120,7 +169,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T05:20:26+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -145,7 +194,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T07:55:46+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -171,7 +220,7 @@
       "url": "https://jvn.jp/jp/JVN13510969/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-06T12:00:15+09:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -197,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3723",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T08:47:06+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -223,7 +272,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3675",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T08:46:44+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -249,7 +298,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3564",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T06:35:46+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "security"
@@ -276,7 +325,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3731",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T06:05:46+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -302,7 +351,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T03:06:03+00:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -324,11 +373,38 @@
       "summary": "セキュリティ対策Labが掲載された18件を確認したところ、レギュラー、シルバー、ゴールドの各レコードについて、ランクとポイント数・獲得回数の明確な矛盾は確認できませんでした。 例えば、ゴールドと記録されたサンプルは700ポイント・7回の条件を満たしつつ、プラチナの2,000ポイント・15回の両条件までは満たしてい..."
     },
     {
+      "title": "Addressing the Digital Shift – AI Accounting ERP Trend in Singapore",
+      "url": "https://e27.co/top-5-popular-ai-accounting-erp-for-smb-in-singapore-20261006/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-06T09:01:25+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia",
       "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:47:10+00:00",
-      "age_days": 0.31,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -355,7 +431,7 @@
       "url": "https://e27.co/east-asias-crypto-market-splits-as-korea-bets-on-ai-tokens-and-hong-kong-courts-institutions-20261006/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T04:01:42+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -384,7 +460,7 @@
       "url": "https://e27.co/top-5-popular-ai-accounting-erp-for-smb-in-singapore-20261006/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T08:55:15+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -412,7 +488,7 @@
       "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:00:35+00:00",
-      "age_days": 0.34,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -439,7 +515,7 @@
       "url": "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T03:10:58+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -467,7 +543,7 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-06T07:30:43+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -494,7 +570,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 38.8,
+      "age_days": 38.84,
       "topics": [
         "security"
       ],
@@ -505,12 +581,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.56,
+      "baseline_z_hint": 10.29,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 7.56",
+        "baseline z_hint 10.29",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -6.2 for 38.8d old signal",
@@ -523,7 +599,7 @@
       "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T02:00:10+00:00",
-      "age_days": 0.3,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "security",
@@ -553,7 +629,7 @@
       "url": "https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:00:24+00:00",
-      "age_days": 0.34,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "security",
@@ -583,7 +659,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3722",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T08:25:46+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -609,7 +685,7 @@
       "url": "https://e27.co/gartner-says-ai-will-kill-the-entry-level-marketing-job-by-2030-heres-why-thats-the-wrong-takeaway-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T03:00:16+00:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -637,7 +713,7 @@
       "url": "https://e27.co/investors-do-not-just-fund-startups-they-fund-predictability-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:47:10+00:00",
-      "age_days": 0.31,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -658,37 +734,36 @@
       "summary": ""
     },
     {
-      "title": "Addressing the Digital Shift – AI Accounting ERP Trend in Singapore",
-      "url": "https://e27.co/top-5-popular-ai-accounting-erp-for-smb-in-singapore-20261006/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-06T09:01:25+00:00",
-      "age_days": 0.01,
+      "title": "Android-Patchday: Google stopft diverse Rechteausweitungslücken",
+      "url": "https://www.heise.de/news/Android-Patchday-Google-stopft-diverse-Rechteausweitungsluecken-11477435.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-10-06T09:52:00.000+00:00",
+      "age_days": 0.02,
       "topics": [
-        "ai"
+        "security"
       ],
       "dynamics_score": 24.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "high terms: kritisch",
+        "security high-signal: kritisch"
       ],
-      "summary": ""
+      "summary": "Im Oktober versorgt Google mehr als 25 Sicherheitslücken mit Patches. Sieben gelten als kritisches Risiko."
     },
     {
       "title": "AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain",
       "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T02:05:09+00:00",
-      "age_days": 0.3,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "infra"
@@ -712,11 +787,38 @@
       "summary": ""
     },
     {
+      "title": "Android-Patchday: Google stopft diverse Rechteausweitungslücken",
+      "url": "https://www.heise.de/news/Android-Patchday-Google-stopft-diverse-Rechteausweitungsluecken-11477435.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 109.11,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 23.46,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.87,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 0.87",
+        "security high-signal: google",
+        "aging penalty -8.0 for 109.1d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性",
       "url": "https://jvn.jp/jp/JVN13510969/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-06T03:10:58+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -740,7 +842,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T04:58:57.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "macro",
         "disaster"
@@ -766,7 +868,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T04:51:32.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -791,7 +893,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T04:00:46.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -816,7 +918,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-06T05:20:26+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "macro"
       ],
@@ -840,7 +942,7 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-06T07:30:43+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [],
       "dynamics_score": 22.0,
       "raw_band": "strong",
@@ -864,7 +966,7 @@
       "url": "https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-06T06:37:23+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -888,23 +990,23 @@
       "url": "https://anond.hatelabo.jp/20261006101040",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T03:10:58+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
-      "dynamics_score": 20.16,
+      "dynamics_score": 20.12,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.14,
+      "baseline_z_hint": 0.11,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.14"
+        "baseline z_hint 0.11"
       ],
       "summary": ""
     },
@@ -913,7 +1015,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261006-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-06T03:10:58+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -938,7 +1040,7 @@
       "url": "https://jvn.jp/jp/JVN53292492/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T12:51:45+00:00",
-      "age_days": 26.85,
+      "age_days": 26.89,
       "topics": [
         "general"
       ],
@@ -949,119 +1051,16 @@
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 3.8,
+      "baseline_z_hint": 2.6,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 3.80",
-        "aging penalty -2.0 for 26.9d old signal",
+        "baseline z_hint 2.60",
+        "aging penalty -2.1 for 26.9d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
-    },
-    {
-      "title": "M 4.6 - Izu Islands, Japan region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuq",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-14T11:31:15+00:00",
-      "age_days": 21.91,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -0.3 for 21.9d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "East Asia’s crypto market splits as Korea bets on AI tokens and Hong Kong courts institutions",
-      "url": "https://e27.co/east-asias-crypto-market-splits-as-korea-bets-on-ai-tokens-and-hong-kong-courts-institutions-20261006/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-06T04:27:57+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet",
-      "url": "https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-06T02:05:09+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-10-06T07:30:10+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More https://claude-mem.ai 🇨🇳 中文 • 🇹🇼 繁體中文 • 🇯🇵 日本語 • 🇵🇹…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Office: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."

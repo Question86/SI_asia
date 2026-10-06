@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-06T09:17:11Z",
+  "generated_at": "2026-10-06T10:14:48Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Office: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2692",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T05:40:46+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -36,11 +36,36 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Teams, Microsoft Azure Managed Instance und Microsoft Service Bus ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen oder Daten zu manipulieren."
     },
     {
+      "title": "[NEU] [hoch] LibreOffice: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3738",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-06T09:40:48+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in LibreOffice ausnutzen, um Informationen offenzulegen, Daten zu manipulieren und beliebigen Code auszuführen."
+    },
+    {
       "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3737",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T07:55:46+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -66,7 +91,7 @@
       "url": "https://jvn.jp/jp/JVN13510969/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-06T12:00:15+09:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -92,7 +117,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3723",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T08:47:06+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -118,7 +143,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3675",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T08:46:44+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -144,7 +169,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3564",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T06:35:46+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "security"
@@ -171,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3731",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-06T06:05:46+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -197,7 +222,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T03:06:03+00:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -219,11 +244,38 @@
       "summary": "セキュリティ対策Labが掲載された18件を確認したところ、レギュラー、シルバー、ゴールドの各レコードについて、ランクとポイント数・獲得回数の明確な矛盾は確認できませんでした。 例えば、ゴールドと記録されたサンプルは700ポイント・7回の条件を満たしつつ、プラチナの2,000ポイント・15回の両条件までは満たしてい..."
     },
     {
+      "title": "Addressing the Digital Shift – AI Accounting ERP Trend in Singapore",
+      "url": "https://e27.co/top-5-popular-ai-accounting-erp-for-smb-in-singapore-20261006/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-06T09:01:25+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia",
       "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T01:47:10+00:00",
-      "age_days": 0.31,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -250,7 +302,7 @@
       "url": "https://e27.co/east-asias-crypto-market-splits-as-korea-bets-on-ai-tokens-and-hong-kong-courts-institutions-20261006/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-06T04:01:42+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -273,61 +325,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "East Asia’s crypto market is no longer moving as one bloc. New regional data shows a fragmented landscape where South Korea is trading artificial intelligence-linked tokens at scale, Hong Kong is pulling in institutional capital, Japan’s retail users are quietly moving on-chain, and China’s stablecoin activity is expa…"
-    },
-    {
-      "title": "Addressing the Digital Shift – AI Accounting ERP Trend in Singapore",
-      "url": "https://e27.co/top-5-popular-ai-accounting-erp-for-smb-in-singapore-20261006/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-06T08:55:15+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Selecting a scalable enterprise solution is no longer just an operational choice; it is a core business strategy. For small and medium businesses navigating a highly digitalized economy, legacy architectures fail to meet modern efficiency standards. Integrating advanced automation into financial workflows is crucial f…"
-    },
-    {
-      "title": "The agent that lied: what GPT-6.1 Astra’s cancellation means for Southeast Asia",
-      "url": "https://e27.co/the-agent-that-lied-what-gpt-6-1-astras-cancellation-means-for-southeast-asia-20261005/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-06T01:00:35+00:00",
-      "age_days": 0.34,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code, 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The most consequential AI launch of the past week was one that never happened. On the eve of its annual developer conference, OpenAI shelved GPT-6.1 Astra, the model expected to power ChatGPT and Codex next month and built to handle complex tasks with less human supervision. The reason was not that it was too weak. [……"
     }
   ],
   "read_order": [
@@ -339,8 +336,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11
+      "krass": 2,
+      "strong": 10
     }
   }
 }
