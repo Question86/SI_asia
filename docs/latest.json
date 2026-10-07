@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T08:02:00+00:00",
-  "run_id": "2026-10-07T08:02:00+00:00",
+  "generated_at": "2026-10-07T08:34:04+00:00",
+  "run_id": "2026-10-07T08:34:04+00:00",
   "date": "2026-10-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 3,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 5,
-    "observe": 21,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -347,6 +347,42 @@
         "id": "962adf1e23ffaa42831b"
       },
       {
+        "title": "M 4.9 - 80 km SW of El Arenal, Mexico",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0q1",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-07T08:02:16.040+00:00",
+        "fetched_at": "2026-10-07T08:33:32+00:00",
+        "summary": "Time 2026-10-07 07:43:19 UTC 2026-10-07 07:43:19 UTC at epicenter Location 14.621°N 93.189°W Depth 61.65 km (38.31 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "0d5ebf9f476c2c61e81a"
+      },
+      {
         "title": "M 4.9 - South Sandwich Islands region",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0pb",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -437,6 +473,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bdf3914179de55ba0c2c"
+      },
+      {
+        "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-10-07T08:00:00+00:00",
+        "fetched_at": "2026-10-07T08:33:32+00:00",
+        "summary": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fdf0a9ec14029ef9c0bc"
       },
       {
         "title": "AI could turn concierge medicine into the future interface to healthcare",
@@ -581,6 +637,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "02cfd37ffd9ec31f3dff"
+      },
+      {
+        "title": "【速報】HIS、顧客6百人超パスポート情報流出か",
+        "url": "https://www.47news.jp/15049148.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-07T06:37:46+00:00",
+        "fetched_at": "2026-10-07T08:33:32+00:00",
+        "summary": "旅行大手エイチ・アイ・エス（HIS）は7日、不正アクセスを受けて最大627人分の顧客のパスポート情報が流出した恐れがあると発表した。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e18f37a158a529a17a2b"
       },
       {
         "title": "【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG",
@@ -1027,6 +1104,42 @@
       "id": "962adf1e23ffaa42831b"
     },
     {
+      "title": "M 4.9 - 80 km SW of El Arenal, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0q1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-07T08:02:16.040+00:00",
+      "fetched_at": "2026-10-07T08:33:32+00:00",
+      "summary": "Time 2026-10-07 07:43:19 UTC 2026-10-07 07:43:19 UTC at epicenter Location 14.621°N 93.189°W Depth 61.65 km (38.31 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "0d5ebf9f476c2c61e81a"
+    },
+    {
       "title": "M 4.9 - South Sandwich Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0pb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1117,6 +1230,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bdf3914179de55ba0c2c"
+    },
+    {
+      "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-10-07T08:00:00+00:00",
+      "fetched_at": "2026-10-07T08:33:32+00:00",
+      "summary": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fdf0a9ec14029ef9c0bc"
     },
     {
       "title": "AI could turn concierge medicine into the future interface to healthcare",
@@ -1263,6 +1396,27 @@
       "id": "02cfd37ffd9ec31f3dff"
     },
     {
+      "title": "【速報】HIS、顧客6百人超パスポート情報流出か",
+      "url": "https://www.47news.jp/15049148.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-07T06:37:46+00:00",
+      "fetched_at": "2026-10-07T08:33:32+00:00",
+      "summary": "旅行大手エイチ・アイ・エス（HIS）は7日、不正アクセスを受けて最大627人分の顧客のパスポート情報が流出した恐れがあると発表した。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e18f37a158a529a17a2b"
+    },
+    {
       "title": "【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG",
       "url": "https://newsdig.tbs.co.jp/articles/-/2995228",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1391,40 +1545,81 @@
   ],
   "new_findings": [
     {
-      "title": "2026-015: Critical Vulnerability in Multiple Atlassian Products",
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-015/",
-      "source": "CERT-EU Security Advisories",
+      "title": "M 4.9 - 80 km SW of El Arenal, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0q1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-07T09:52:48+00:00",
-      "fetched_at": "2026-10-07T08:01:24+00:00",
-      "summary": "On 5 October 2026, Atlassian published a security advisory addressing a critical arbitrary file access vulnerability. It affects Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye. CERT-EU strongly recommends upgrading all affected installations to a fixed version as soon as possible, starting with…",
+      "published_at": "2026-10-07T08:02:16.040+00:00",
+      "fetched_at": "2026-10-07T08:33:32+00:00",
+      "summary": "Time 2026-10-07 07:43:19 UTC 2026-10-07 07:43:19 UTC at epicenter Location 14.621°N 93.189°W Depth 61.65 km (38.31 mi)",
       "matched_keywords": [
-        "CERT-EU",
-        "CodeQL/Dependabot",
-        "Security",
-        "Watchgraph:cyber_active_exploitation",
-        "Webentwicklung"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+7.5); Webentwicklung (+3.8); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "cyber_active_exploitation"
+        "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "cyber_active_exploitation: critical vulnerability"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "id": "95b79e6eacb184ba887a"
+      "id": "0d5ebf9f476c2c61e81a"
+    },
+    {
+      "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-10-07T08:00:00+00:00",
+      "fetched_at": "2026-10-07T08:33:32+00:00",
+      "summary": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fdf0a9ec14029ef9c0bc"
+    },
+    {
+      "title": "【速報】HIS、顧客6百人超パスポート情報流出か",
+      "url": "https://www.47news.jp/15049148.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-07T06:37:46+00:00",
+      "fetched_at": "2026-10-07T08:33:32+00:00",
+      "summary": "旅行大手エイチ・アイ・エス（HIS）は7日、不正アクセスを受けて最大627人分の顧客のパスポート情報が流出した恐れがあると発表した。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e18f37a158a529a17a2b"
     }
   ],
   "source_errors": [],
