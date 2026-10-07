@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-07T10:22:53+00:00",
+  "generated_at": "2026-10-07T10:36:40+00:00",
   "topics": {
     "security": [
       {
@@ -26,6 +26,13 @@
         "url": "https://jvn.jp/jp/JVN91153973/"
       },
       {
+        "title": "[NEU] [hoch] SonicWall SMA1000: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:31:46+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3757"
+      },
+      {
         "title": "相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-07T06:59:02+00:00",
@@ -47,6 +54,13 @@
         "published_at": "2026-10-07T09:52:48+00:00",
         "relevance_score": 23,
         "url": "https://cert.europa.eu/publications/security-advisories/2026-015/"
+      },
+      {
+        "title": "[NEU] [hoch] SonicWall SMA1000: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:31:46+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3757"
       },
       {
         "title": "Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45",
