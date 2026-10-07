@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-07T07:03:08+00:00_
+_Generated: 2026-10-07T07:32:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `25`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-07T07:03:08+00:00_
 - url: https://jvn.jp/jp/JVN91153973/
 - summary: シックス・アパート株式会社が提供するMovable Typeには複数の脆弱性が存在します。
 
-### 5. Southeast Asia’s foodtech winners are the least glamorous ones
+### 5. Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-10-07T08:15:18+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260089.en.html
+- summary: Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45
+
+### 6. Southeast Asia’s foodtech winners are the least glamorous ones
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-07T06:03:47+00:00`
 - url: https://e27.co/southeast-asias-foodtech-winners-are-the-least-glamorous-ones-20261007/
 - summary: Southeast Asia’s foodtech story was supposed to be about disruption: lab-grown shrimp on every plate, groceries at your door in 15 minutes, ghost kitchens replacing the corner restaurant. The reality has been humbler, and arguably more interesting. The 2022 c…
 
-### 6. Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke
+### 7. Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke
 - source: heise Security Alerts
 - score: `11`
 - published: `2026-10-07T06:50:00.000+00:00`
 - url: https://www.heise.de/news/Jetzt-aktualisieren-Atlassian-warnt-vor-kritischer-Data-Center-Luecke-11478707.html
 - summary: Ein kritisches Leck in Atlassians Data-Center-Produkten ermöglicht unbefugten Dateizugriff ohne Anmeldung. Updates stehen bereit.
 
-### 7. When the carer has dementia too: Japan turns to physical AI to rescue eldercare
+### 8. When the carer has dementia too: Japan turns to physical AI to rescue eldercare
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-07T05:30:38+00:00`
 - url: https://e27.co/when-the-carer-has-dementia-too-japan-turns-to-physical-ai-to-rescue-eldercare-20261007/
 - summary: Some Japanese words resist translation. Take rōrō kaigo (老老介護). The character rō means “elderly”, and repeating it describes an elderly person caring for another elderly person, such as an 80-year-old husband looking after his equally frail wife on his own. T…
-
-### 8. Why Southeast Asia is underbuilt in the categories that produce its most durable companies
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-10-07T01:00:55+00:00`
-- url: https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/
-- summary: Ask anyone to name Southeast Asia’s most successful startups and you will hear the same names. Grab. Sea. GoTo. Each is a consumer company. Each won by reaching enormous numbers of users, burning enormous amounts of capital, and surviving long enough to conso…
 
 END OF DOCUMENT

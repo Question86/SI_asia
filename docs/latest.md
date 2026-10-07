@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T07:03:08+00:00_
+_Generiert: 2026-10-07T07:32:32+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „Southeast Asian tech leaders are learning to trust AI agents, but not with production“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+25 neue relevante Treffer. Stärkstes Signal: „Southeast Asian tech leaders are learning to trust AI agents, but not with production“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260089.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-10-07T08:15:18+00:00`, fetched `2026-10-07T07:32:03+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Southeast Asia’s foodtech winners are the least glamorous ones** — Score 12, observation — [Quelle](https://e27.co/southeast-asias-foodtech-winners-are-the-least-glamorous-ones-20261007/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-07T06:03:47+00:00`, fetched `2026-10-07T06:37:08+00:00`
@@ -105,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-07 02:49:59 UTC 2026-10-07 02:49:59 UTC at epicenter Location 20.979°S 169.001°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Preserving financial stability in an evolving world** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261006-preserving-financial-stability-evolving-world)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-07T00:00:00+00:00`, fetched `2026-10-07T07:32:03+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
+  - Kurz: Special address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at the Fifth Kautilya Economic Conclave, Mumbai, 3 October 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **事業者のデジタル化等に係る関係省庁等連絡会議（第12回）の資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/private-business-dx/86bd4f54-9356-4451-adfc-cf578720ed5c)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-07T06:00:00+00:00`, fetched `2026-10-07T06:37:08+00:00`
