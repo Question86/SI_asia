@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T14:18:27+00:00",
-  "run_id": "2026-10-07T14:18:27+00:00",
+  "generated_at": "2026-10-07T14:50:05+00:00",
+  "run_id": "2026-10-07T14:50:05+00:00",
   "date": "2026-10-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 67
+      "configured_public_sources_only": 68
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 67,
-    "displayed_findings": 67,
+    "new_relevant_findings": 1,
+    "today_file_total": 68,
+    "displayed_findings": 68,
     "high": 0,
     "medium": 22,
-    "observe": 45,
+    "observe": 46,
     "source_errors": 0
   },
   "sections": {
@@ -1427,6 +1427,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fff60b415e4c02a1836f"
+      },
+      {
+        "title": "Technology, money and the financial infrastructure of the future",
+        "url": "https://www.bis.org/speeches/20261007-technology-money-and-financial-infrastructure-future",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-07T00:00:00+00:00",
+        "fetched_at": "2026-10-07T14:49:36+00:00",
+        "summary": "Keynote speech by Mr José Luis Escrivá, Governor of the Bank of Spain, at the 10th Annual Conference of Mediterranean Central Banks \"Digital currencies, payments and reserve management”, Roda de Berà, 1 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fb213c4d069e63825b1d"
       },
       {
         "title": "Gold between continuity and change",
@@ -3097,6 +3117,26 @@
       "id": "fff60b415e4c02a1836f"
     },
     {
+      "title": "Technology, money and the financial infrastructure of the future",
+      "url": "https://www.bis.org/speeches/20261007-technology-money-and-financial-infrastructure-future",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "fetched_at": "2026-10-07T14:49:36+00:00",
+      "summary": "Keynote speech by Mr José Luis Escrivá, Governor of the Bank of Spain, at the 10th Annual Conference of Mediterranean Central Banks \"Digital currencies, payments and reserve management”, Roda de Berà, 1 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fb213c4d069e63825b1d"
+    },
+    {
       "title": "Gold between continuity and change",
       "url": "https://www.bis.org/speeches/20261007-gold-between-continuity-and-change",
       "source": "BIS Central Bankers Speeches",
@@ -3365,7 +3405,28 @@
       "id": "58fccdef7314ae1ef99a"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Technology, money and the financial infrastructure of the future",
+      "url": "https://www.bis.org/speeches/20261007-technology-money-and-financial-infrastructure-future",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "fetched_at": "2026-10-07T14:49:36+00:00",
+      "summary": "Keynote speech by Mr José Luis Escrivá, Governor of the Bank of Spain, at the 10th Annual Conference of Mediterranean Central Banks \"Digital currencies, payments and reserve management”, Roda de Berà, 1 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fb213c4d069e63825b1d"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
