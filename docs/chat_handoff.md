@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-07T20:37:59+00:00_
+_Generated: 2026-10-07T20:50:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `82`
+- findings: `83`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-07T20:37:59+00:00_
 - url: https://www.bis.org/speeches/20261007-data-version-godzilla-versus-kong-fred-takes-ai
 - summary: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at "Navigating trust, AI and storytelling in a world of data", FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri, 1 October 2026.
 
-### 8. Purpose-built model for leaked secret detection
+### 8. Claude Haiku 5.5 in GitHub Copilot
 - source: GitHub Changelog Atom
 - score: `11`
-- published: `2026-10-07T16:13:56+00:00`
-- url: https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection
-- summary: Secret protection should keep pace with the way you build software, whether you write code yourself or work with an AI agent. With our new purpose-built model, we’re bringing context-aware… The post Purpose-built model for leaked secret detection appeared fir…
+- published: `2026-10-07T20:12:18+00:00`
+- url: https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot
+- summary: Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early… The post Claude Haiku 5.5 in GitHub Copilot appeared fir…
 
 END OF DOCUMENT

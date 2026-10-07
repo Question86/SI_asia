@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T20:37:59+00:00",
-  "run_id": "2026-10-07T20:37:59+00:00",
+  "generated_at": "2026-10-07T20:50:11+00:00",
+  "run_id": "2026-10-07T20:50:11+00:00",
   "date": "2026-10-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 82
+      "configured_public_sources_only": 83
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 82,
-    "displayed_findings": 82,
+    "today_file_total": 83,
+    "displayed_findings": 83,
     "high": 0,
     "medium": 22,
-    "observe": 60,
+    "observe": 61,
     "source_errors": 0
   },
   "sections": {
@@ -690,6 +690,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3c3cbb3f3061adc5152d"
+      },
+      {
+        "title": "Claude Haiku 5.5 in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-07T20:12:18+00:00",
+        "fetched_at": "2026-10-07T20:49:42+00:00",
+        "summary": "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early… The post Claude Haiku 5.5 in GitHub Copilot appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI Agents",
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bf277321918452f43805"
       },
       {
         "title": "Purpose-built model for leaked secret detection",
@@ -2717,6 +2739,28 @@
       "id": "3c3cbb3f3061adc5152d"
     },
     {
+      "title": "Claude Haiku 5.5 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-07T20:12:18+00:00",
+      "fetched_at": "2026-10-07T20:49:42+00:00",
+      "summary": "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early… The post Claude Haiku 5.5 in GitHub Copilot appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bf277321918452f43805"
+    },
+    {
       "title": "Purpose-built model for leaked secret detection",
       "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
       "source": "GitHub Changelog Atom",
@@ -4081,25 +4125,26 @@
   ],
   "new_findings": [
     {
-      "title": "伝書鳩に不正アクセス 野鳩侵入で情報漏えい２４０万件",
-      "url": "https://kyoko-np.net/2026100801.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Claude Haiku 5.5 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-10-07T15:56:47+00:00",
-      "fetched_at": "2026-10-07T20:37:27+00:00",
-      "summary": "伝書鳩による通信サービスを提供するピジョネットインターナショナル（東京都西多摩郡）は７日、外部からの不正アクセスによって約２４０万件の情報が漏えいした可能性があると発表した。認証していない野鳩が侵入した形跡があったという。 同社によると、３日に外部からの不正アクセスを確認した。伝書鳩を飼育する鳩舎...",
+      "published_at": "2026-10-07T20:12:18+00:00",
+      "fetched_at": "2026-10-07T20:49:42+00:00",
+      "summary": "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early… The post Claude Haiku 5.5 in GitHub Copilot appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "AI Agents",
+        "Copilot",
+        "GitHub"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2f1434ff13f4f0a5d129"
+      "id": "bf277321918452f43805"
     }
   ],
   "source_errors": [],
