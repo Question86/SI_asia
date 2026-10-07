@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T03:29:40+00:00",
+  "generated_at": "2026-10-07T03:52:36+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1050,7 +1050,7 @@
       "p90_usd": 108800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T01:03:31+00:00",
-      "last_seen_at": "2026-10-07T03:29:23+00:00",
+      "last_seen_at": "2026-10-07T03:52:19+00:00",
       "status": "active"
     },
     {
@@ -4522,6 +4522,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_6880ad6674dd13e95712",
+      "title": "M 4.8 - 132 km ENE of Tadine, New Caledonia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-07T03:29:23+00:00",
+      "last_seen_at": "2026-10-07T03:52:19+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_68d241031fe2c9a05515",
       "title": "M 5.0 - Mariana Islands region",
       "event_classes": [
@@ -6375,23 +6392,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_6880ad6674dd13e95712",
-      "title": "M 4.8 - 132 km ENE of Tadine, New Caledonia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-07T03:29:23+00:00",
-      "last_seen_at": "2026-10-07T03:29:23+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -6541,7 +6541,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-07T03:29:23+00:00",
+      "last_seen_at": "2026-10-07T03:52:19+00:00",
       "status": "active"
     },
     {
@@ -7767,6 +7767,23 @@
       "first_seen_at": "2026-10-05T02:09:56+00:00",
       "last_seen_at": "2026-10-05T09:56:45+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_ce6f2f0dbb48534594d0",
+      "title": "Light liquidations and flat funding: Is Bitcoin about to explode?",
+      "event_classes": [
+        "funding"
+      ],
+      "capital_channels": [
+        "investment"
+      ],
+      "p10_usd": 1088000.0,
+      "p50_usd": 27200000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-07T03:52:19+00:00",
+      "last_seen_at": "2026-10-07T03:52:19+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_5a8609c38e0d544999d3",
@@ -9890,7 +9907,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T03:29:23+00:00",
-      "last_seen_at": "2026-10-07T03:29:23+00:00",
+      "last_seen_at": "2026-10-07T03:52:19+00:00",
       "status": "active"
     },
     {
@@ -12985,7 +13002,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T01:03:31+00:00",
-      "last_seen_at": "2026-10-07T03:29:23+00:00",
+      "last_seen_at": "2026-10-07T03:52:19+00:00",
       "status": "active"
     },
     {
@@ -14856,7 +14873,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T01:43:55+00:00",
-      "last_seen_at": "2026-10-07T03:29:23+00:00",
+      "last_seen_at": "2026-10-07T03:52:19+00:00",
       "status": "active"
     },
     {
@@ -17270,7 +17287,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T01:03:31+00:00",
-      "last_seen_at": "2026-10-07T03:29:23+00:00",
+      "last_seen_at": "2026-10-07T03:52:19+00:00",
       "status": "active"
     },
     {
@@ -17593,7 +17610,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T03:01:05+00:00",
-      "last_seen_at": "2026-10-07T03:29:23+00:00",
+      "last_seen_at": "2026-10-07T03:52:19+00:00",
       "status": "active"
     },
     {
@@ -18885,7 +18902,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-10-07T03:29:23+00:00",
+      "last_seen_at": "2026-10-07T03:52:19+00:00",
       "status": "active"
     },
     {
@@ -18919,7 +18936,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T03:01:05+00:00",
-      "last_seen_at": "2026-10-07T03:29:23+00:00",
+      "last_seen_at": "2026-10-07T03:52:19+00:00",
       "status": "active"
     },
     {
@@ -19582,7 +19599,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T01:03:31+00:00",
-      "last_seen_at": "2026-10-07T03:29:23+00:00",
+      "last_seen_at": "2026-10-07T03:52:19+00:00",
       "status": "active"
     },
     {
@@ -21061,7 +21078,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T00:03:52+00:00",
-      "last_seen_at": "2026-10-07T03:29:23+00:00",
+      "last_seen_at": "2026-10-07T03:52:19+00:00",
       "status": "active"
     },
     {
