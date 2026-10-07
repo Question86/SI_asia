@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-07T10:49:28+00:00_
+_Generated: 2026-10-07T11:00:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `42`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-07T10:49:28+00:00_
 - url: https://e27.co/southeast-asian-tech-leaders-are-learning-to-trust-ai-agents-but-not-with-production-20261007/
 - summary: AI coding agents have moved quickly from novelty to daily tool inside Southeast Asian engineering teams. Across Singapore, Bangkok, Jakarta and Ho Chi Minh City, developers are no longer just asking AI to complete a line of code or explain an error message. T…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）
+### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-07T10:57:11+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3743
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise einen Denial-of-Service-Angriff auszulösen, Daten zu manipulieren oder offenzulegen oder Sicherheitsmaßnahmen zu umg…
+
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-10-07T09:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU94062711/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. Granite Asia, Google AI Futures Fund team up to back Asia’s AI founders
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-10-07T03:28:35+00:00`
-- url: https://e27.co/granite-asia-google-ai-futures-fund-team-up-to-back-asias-ai-founders-20261007/
-- summary: Asia’s AI founders are increasingly facing a split-screen reality. Investor interest is high, but building at the frontier of artificial intelligence still requires more than a seed cheque. Startups need access to large models, cloud infrastructure, technical…
 
 ### 5. Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication

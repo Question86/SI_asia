@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-07T10:49:28+00:00",
+  "generated_at": "2026-10-07T11:00:18+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-10-07T09:52:48+00:00",
         "relevance_score": 23,
         "url": "https://cert.europa.eu/publications/security-advisories/2026-015/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:57:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3743"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）",
@@ -24,6 +31,13 @@
         "published_at": "2026-10-07T14:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN91153973/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Langflow: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:57:10+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3728"
       },
       {
         "title": "[NEU] [mittel] Devolutions Server: Mehrere Schwachstellen",
@@ -59,20 +73,6 @@
         "published_at": "2026-10-07T10:41:45+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3760"
-      },
-      {
-        "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-07T10:36:45+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3758"
-      },
-      {
-        "title": "[NEU] [hoch] SonicWall SMA1000: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-07T10:31:46+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3757"
       }
     ],
     "geopolitics": [
