@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T13:08:12+00:00",
-  "candidate_count": 1714,
+  "generated_at": "2026-10-07T13:32:23+00:00",
+  "candidate_count": 1715,
   "candidates": [
     {
       "amount_native": 2000000000000.0,
@@ -7200,6 +7200,24 @@
       "snippet": "and medium enterprises have already experienced some form of cyberattack. Globally, the picture is starker still: industry estimates now put the annual cost of cybercrime at some US$10.5 trillion a year — a sum that, were it a national economy, would rank among the three largest in the world. And the frontier of this risk is moving faster than our institutions can easily t",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/speeches/20260915-securing-ugandas-digital-future-collaboration-resilience-and-trust"
+    },
+    {
+      "candidate_id": "cand_b80b474b8ddabeaaa7bd",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20261007-opportunity-and-trust-europes-capital-market-and-irish-funds-sector",
+      "observed_at": "2026-10-07T13:32:09+00:00",
+      "currency": "EUR",
+      "amount_native": 5600000000000.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "for the invitation to speak here today. The success of Ireland’s funds sector is well known. Europe’s second-largest fund domicile and a top-three global player, Ireland now hosts €5.6 trillion in investment fund assets and serves investors around the world. This success is a credit to the industry – the firms and the people in this room – and has been built on the stron",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.55,
+      "review_status": "pending"
     },
     {
       "amount_native": 2100000000000.0,

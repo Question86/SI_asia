@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T13:08:12+00:00",
+  "generated_at": "2026-10-07T13:32:23+00:00",
   "fx_as_of": null,
-  "candidate_count": 1714,
+  "candidate_count": 1715,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 1714
+    "pending": 1715
   },
   "coverage_warning": null,
   "candidates": [
@@ -22759,6 +22759,25 @@
       "snippet": "still lags behind the United States. 6 7 In parallel, European initiatives like InvestAI and the Scaleup Europe Fund can help mobilise additional investment in AI infrastructure. €30 billion for AI Gigafactories – to develop advanced AI in the EU – is a good start. At the same time, AI investment activity will also depend on what happens in financial markets, and whet",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/speeches/20260930-hearing-committee-economic-and-monetary-affairs-european-parliament"
+    },
+    {
+      "amount_native": 5600000000000.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_b80b474b8ddabeaaa7bd",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-07T13:32:09+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:capital_allocation:59e52c2f7395",
+      "review_status": "pending",
+      "snippet": "for the invitation to speak here today. The success of Ireland’s funds sector is well known. Europe’s second-largest fund domicile and a top-three global player, Ireland now hosts €5.6 trillion in investment fund assets and serves investors around the world. This success is a credit to the industry – the firms and the people in this room – and has been built on the stron",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261007-opportunity-and-trust-europes-capital-market-and-irish-funds-sector",
+      "component_confidence": 0.55
     },
     {
       "amount_native": 1300000000000.0,
