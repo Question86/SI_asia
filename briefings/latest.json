@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T12:48:11+00:00",
-  "run_id": "2026-10-07T12:48:11+00:00",
+  "generated_at": "2026-10-07T13:07:24+00:00",
+  "run_id": "2026-10-07T13:07:24+00:00",
   "date": "2026-10-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 57
+      "configured_public_sources_only": 59
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 57,
-    "displayed_findings": 57,
+    "new_relevant_findings": 2,
+    "today_file_total": 59,
+    "displayed_findings": 59,
     "high": 0,
     "medium": 21,
-    "observe": 36,
+    "observe": 38,
     "source_errors": 0
   },
   "sections": {
@@ -1001,6 +1001,26 @@
         "id": "bdf3914179de55ba0c2c"
       },
       {
+        "title": "Diagnostic challenges for ECB monetary policy",
+        "url": "https://www.bis.org/speeches/20261007-diagnostic-challenges-ecb-monetary-policy",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-07T00:00:00+00:00",
+        "fetched_at": "2026-10-07T13:06:51+00:00",
+        "summary": "Keynote speech by Philip R Lane, Member of the Executive Board of the European Central Bank, at the 9th “ECB Conference on Monetary Policy 2026: bridging science and practice”, Frankfurt am Main, 5 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "77c85dfd0c52cc4b6403"
+      },
+      {
         "title": "最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
         "url": "https://joisino.hatenablog.com/entry/filler",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1083,6 +1103,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fb5a9233d1add2e3d2b1"
+      },
+      {
+        "title": "Modernizing financial regulation - initial observations from eSLR",
+        "url": "https://www.bis.org/speeches/20261007-modernizing-financial-regulation-initial-observations-eslr",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-07T00:00:00+00:00",
+        "fetched_at": "2026-10-07T13:06:51+00:00",
+        "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Atlantic Council 2026 CEO &amp; Senior Management Summit, Washington DC, 1 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b0ccc7d5f3c15b8103ac"
       },
       {
         "title": "The new engineering bottleneck isn’t writing code, it’s trusting it",
@@ -2427,6 +2467,26 @@
       "id": "bdf3914179de55ba0c2c"
     },
     {
+      "title": "Diagnostic challenges for ECB monetary policy",
+      "url": "https://www.bis.org/speeches/20261007-diagnostic-challenges-ecb-monetary-policy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "fetched_at": "2026-10-07T13:06:51+00:00",
+      "summary": "Keynote speech by Philip R Lane, Member of the Executive Board of the European Central Bank, at the 9th “ECB Conference on Monetary Policy 2026: bridging science and practice”, Frankfurt am Main, 5 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "77c85dfd0c52cc4b6403"
+    },
+    {
       "title": "最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
       "url": "https://joisino.hatenablog.com/entry/filler",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2509,6 +2569,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "fb5a9233d1add2e3d2b1"
+    },
+    {
+      "title": "Modernizing financial regulation - initial observations from eSLR",
+      "url": "https://www.bis.org/speeches/20261007-modernizing-financial-regulation-initial-observations-eslr",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "fetched_at": "2026-10-07T13:06:51+00:00",
+      "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Atlantic Council 2026 CEO &amp; Senior Management Summit, Washington DC, 1 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b0ccc7d5f3c15b8103ac"
     },
     {
       "title": "The new engineering bottleneck isn’t writing code, it’s trusting it",
@@ -2883,107 +2963,44 @@
   ],
   "new_findings": [
     {
-      "title": "The data version of Godzilla versus Kong - FRED takes on AI",
-      "url": "https://www.bis.org/speeches/20261007-data-version-godzilla-versus-kong-fred-takes-ai",
+      "title": "Diagnostic challenges for ECB monetary policy",
+      "url": "https://www.bis.org/speeches/20261007-diagnostic-challenges-ecb-monetary-policy",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-10-07T00:00:00+00:00",
-      "fetched_at": "2026-10-07T12:47:39+00:00",
-      "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at \"Navigating trust, AI and storytelling in a world of data\", FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri, 1 October 2026.",
-      "matched_keywords": [
-        "AI/KI",
-        "Macro/Policy"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3c3cbb3f3061adc5152d"
-    },
-    {
-      "title": "Monetary policy in a world of overlapping shocks",
-      "url": "https://www.bis.org/speeches/20261007-monetary-policy-world-overlapping-shocks",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "fetched_at": "2026-10-07T12:47:39+00:00",
-      "summary": "Speech by Ms Isabel Schnabel, Member of the Executive Board of the European Central Bank, at the 8th Capital Markets Seminar, co-hosted by the European Commission, European Investment Bank and the European Stability Mechanism, Luxembourg, 30 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "9eb750b8fa995a32f2f4"
-    },
-    {
-      "title": "The US economy and monetary policy",
-      "url": "https://www.bis.org/speeches/20261007-us-economy-and-monetary-policy",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "fetched_at": "2026-10-07T12:47:39+00:00",
-      "summary": "Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the Darden School of Business, University of Virginia, Charlottesville, Virginia, 1 October 2026.",
+      "fetched_at": "2026-10-07T13:06:51+00:00",
+      "summary": "Keynote speech by Philip R Lane, Member of the Executive Board of the European Central Bank, at the 9th “ECB Conference on Monetary Policy 2026: bridging science and practice”, Frankfurt am Main, 5 October 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
       "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d3e8f91e8a5a49b3c003"
-    },
-    {
-      "title": "Gold between continuity and change",
-      "url": "https://www.bis.org/speeches/20261007-gold-between-continuity-and-change",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "fetched_at": "2026-10-07T12:47:39+00:00",
-      "summary": "Welcome remarks by Mr Sergio Nicoletti Altimari, Deputy Governor of the Bank of Italy, at the Global Precious Metals Conference, Sorrento, 5 October 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d2627bf54827b8577682"
+      "id": "77c85dfd0c52cc4b6403"
+    },
+    {
+      "title": "Modernizing financial regulation - initial observations from eSLR",
+      "url": "https://www.bis.org/speeches/20261007-modernizing-financial-regulation-initial-observations-eslr",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "fetched_at": "2026-10-07T13:06:51+00:00",
+      "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Atlantic Council 2026 CEO &amp; Senior Management Summit, Washington DC, 1 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b0ccc7d5f3c15b8103ac"
     }
   ],
   "source_errors": [],
