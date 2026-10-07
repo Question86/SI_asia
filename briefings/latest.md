@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T17:17:00+00:00_
+_Generiert: 2026-10-07T17:36:09+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
+72 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
