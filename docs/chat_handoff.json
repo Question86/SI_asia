@@ -80,5 +80,140 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）",
+        "url": "https://jvn.jp/vu/JVNVU94062711/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-07T09:00:00+09:00",
+        "age_days": 0.18,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "security high-signal: 10"
+        ],
+        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+      },
+      {
+        "title": "AI could turn concierge medicine into the future interface to healthcare",
+        "url": "https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-07T01:30:31+00:00",
+        "age_days": 0.12,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 25.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "Concierge medicine is expensive for a simple reason: physician attention is scarce. A typical primary-care doctor may be responsible for 2,000 or more patients, while concierge practices generally restrict panels to 400 or fewer to 600. Patients pay annual retainers ranging from a few thousand dollars to tens of thous…"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）",
+        "url": "https://jvn.jp/vu/JVNVU94062711/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 110.1,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 19.9,
+        "raw_band": "strong",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "high terms: 10",
+          "aging penalty -8.0 for 110.1d old signal",
+          "stale single-source cap: max watch after 14d without fresh resonance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Granite Asia, Google AI Futures Fund team up to back Asia’s AI founders",
+        "url": "https://e27.co/granite-asia-google-ai-futures-fund-team-up-to-back-asias-ai-founders-20261007/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-07T03:29:23+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 19.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 2,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +2",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Why Southeast Asia is underbuilt in the categories that produce its most durable companies",
+        "url": "https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-07T01:03:31+00:00",
+        "age_days": 0.14,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 19.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
