@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-07T05:38:32+00:00_
+_Generiert: 2026-10-07T05:52:28+00:00_
 
 ## Southeast Asian tech leaders are learning to trust AI agents, but not with production
 
