@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T23:34:43+00:00_
+_Generiert: 2026-10-07T23:46:47+00:00_
 
 ## Kurzlage
 
-87 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
+88 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -154,6 +154,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: シックス・アパート株式会社が提供するMovable Typeには複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **2026年 情報漏洩Tier表** — Score 14, observation — [Quelle](https://ai.itokoba.com/security-tier/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-07T11:58:19+00:00`, fetched `2026-10-07T23:46:18+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年に公表された国内の事案・国内で利用されるサービス。掲載数は会社数・独立した事件数とは異なります。続報に応じて更新します。 公表日は続報・報道の掲載日を含みます。出典は各事案の詳細記事に掲載しています。 共有
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans GitLab (30 septembre 2026)** — Score 14, risk — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1242/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-09-30T00:00:00+00:00`, fetched `2026-10-07T13:57:32+00:00`
