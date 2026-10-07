@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T01:43:55+00:00",
+  "generated_at": "2026-10-07T02:08:03+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2868,7 +2868,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）",
-      "updated_at": "2026-10-07T01:43:55+00:00",
+      "updated_at": "2026-10-07T02:08:03+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2896,8 +2896,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1
       ],
@@ -3662,9 +3662,8 @@
     },
     "domain:qiita.com": {
       "title": "2026年の情報漏洩を手口で分類してみた - Qiita",
-      "updated_at": "2026-10-07T01:43:55+00:00",
+      "updated_at": "2026-10-07T02:08:03+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -3693,6 +3692,7 @@
         10.1,
         10.1,
         10.1,
+        7.1,
         7.1
       ],
       "rolling_average": 7.8,
@@ -62272,7 +62272,60 @@
     },
     "url:https://www.yomiuri.co.jp/national/20261006-gyt1t00373/": {
       "title": "サイバー攻撃で企業・団体の情報漏えい被害最多、今年５００件超・すでに過去２年に並ぶ…ＡＩ使い弱点探索か",
-      "updated_at": "2026-10-07T01:43:55+00:00",
+      "updated_at": "2026-10-07T02:08:03+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.85,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.75
+    },
+    "title:why-southeast-asia-underbuilt-categories-that-produce-its": {
+      "title": "Why Southeast Asia is underbuilt in the categories that produce its most durable companies",
+      "updated_at": "2026-10-07T02:08:03+00:00",
+      "network_scores": [
+        15.1,
+        12.1,
+        12.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 15.1,
+      "last_score": 12.1,
+      "z_hint": -1.0
+    },
+    "url:https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d": {
+      "title": "国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました",
+      "updated_at": "2026-10-07T02:08:03+00:00",
+      "network_scores": [
+        11.1,
+        8.1,
+        8.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -1.0
+    },
+    "title:update-your-ide-restore-agent-activity-copilot-usage": {
+      "title": "Update your IDE to restore agent activity in Copilot usage metrics",
+      "updated_at": "2026-10-07T02:08:03+00:00",
+      "network_scores": [
+        11.1,
+        8.1,
+        8.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -1.0
+    },
+    "url:https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html": {
+      "title": "【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選",
+      "updated_at": "2026-10-07T02:08:03+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -62283,64 +62336,17 @@
       "last_score": 7.1,
       "z_hint": -1.0
     },
-    "title:why-southeast-asia-underbuilt-categories-that-produce-its": {
-      "title": "Why Southeast Asia is underbuilt in the categories that produce its most durable companies",
-      "updated_at": "2026-10-07T01:43:55+00:00",
-      "network_scores": [
-        15.1,
-        12.1
-      ],
-      "rolling_average": 13.6,
-      "rolling_peak": 15.1,
-      "last_score": 12.1,
-      "z_hint": -1.5
-    },
-    "url:https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d": {
-      "title": "国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました",
-      "updated_at": "2026-10-07T01:43:55+00:00",
-      "network_scores": [
-        11.1,
-        8.1
-      ],
-      "rolling_average": 9.6,
-      "rolling_peak": 11.1,
-      "last_score": 8.1,
-      "z_hint": -1.5
-    },
-    "title:update-your-ide-restore-agent-activity-copilot-usage": {
-      "title": "Update your IDE to restore agent activity in Copilot usage metrics",
-      "updated_at": "2026-10-07T01:43:55+00:00",
-      "network_scores": [
-        11.1,
-        8.1
-      ],
-      "rolling_average": 9.6,
-      "rolling_peak": 11.1,
-      "last_score": 8.1,
-      "z_hint": -1.5
-    },
-    "url:https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html": {
-      "title": "【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選",
-      "updated_at": "2026-10-07T01:43:55+00:00",
-      "network_scores": [
-        10.1,
-        7.1
-      ],
-      "rolling_average": 8.6,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -1.5
-    },
     "title:could-turn-concierge-medicine-future-interface-healthcare": {
       "title": "AI could turn concierge medicine into the future interface to healthcare",
-      "updated_at": "2026-10-07T01:43:55+00:00",
+      "updated_at": "2026-10-07T02:08:03+00:00",
       "network_scores": [
-        13.1
+        13.1,
+        10.1
       ],
-      "rolling_average": 13.1,
+      "rolling_average": 11.6,
       "rolling_peak": 13.1,
-      "last_score": 13.1,
-      "z_hint": 0.0
+      "last_score": 10.1,
+      "z_hint": -1.5
     }
   }
 }
