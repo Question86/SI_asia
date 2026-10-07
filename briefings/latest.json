@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T17:36:09+00:00",
-  "run_id": "2026-10-07T17:36:09+00:00",
+  "generated_at": "2026-10-07T17:49:58+00:00",
+  "run_id": "2026-10-07T17:49:58+00:00",
   "date": "2026-10-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 72
+      "configured_public_sources_only": 74
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "new_relevant_findings": 2,
+    "today_file_total": 74,
+    "displayed_findings": 74,
     "high": 0,
     "medium": 22,
-    "observe": 50,
+    "observe": 52,
     "source_errors": 0
   },
   "sections": {
@@ -1168,6 +1168,28 @@
         "id": "77c85dfd0c52cc4b6403"
       },
       {
+        "title": "Secret protection must scale with software",
+        "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-07T17:45:34+00:00",
+        "fetched_at": "2026-10-07T17:49:25+00:00",
+        "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI/KI",
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bcb6c5f25cc833d35127"
+      },
+      {
         "title": "最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
         "url": "https://joisino.hatenablog.com/entry/filler",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1208,6 +1230,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fdf0a9ec14029ef9c0bc"
+      },
+      {
+        "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+        "url": "https://openai.com/index/radisson",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-07T07:00:00+00:00",
+        "fetched_at": "2026-10-07T17:49:25+00:00",
+        "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5a4c5fc56d7442fead76"
       },
       {
         "title": "AI could turn concierge medicine into the future interface to healthcare",
@@ -2954,6 +2996,28 @@
       "id": "77c85dfd0c52cc4b6403"
     },
     {
+      "title": "Secret protection must scale with software",
+      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-07T17:45:34+00:00",
+      "fetched_at": "2026-10-07T17:49:25+00:00",
+      "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bcb6c5f25cc833d35127"
+    },
+    {
       "title": "最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
       "url": "https://joisino.hatenablog.com/entry/filler",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2994,6 +3058,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "fdf0a9ec14029ef9c0bc"
+    },
+    {
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-07T07:00:00+00:00",
+      "fetched_at": "2026-10-07T17:49:25+00:00",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5a4c5fc56d7442fead76"
     },
     {
       "title": "AI could turn concierge medicine into the future interface to healthcare",
@@ -3603,25 +3687,46 @@
   ],
   "new_findings": [
     {
-      "title": "IDCFクラウドへのランサム攻撃、495の企業・自治体に影響 一部には「復元難しい」との通達も",
-      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002107/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Secret protection must scale with software",
+      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+      "source": "GitHub Blog Atom",
       "source_type": "rss",
-      "published_at": "2026-10-07T14:11:42+00:00",
-      "fetched_at": "2026-10-07T17:35:40+00:00",
-      "summary": "ソフトバンク子会社のIDCフロンティアは10月7日、法人向けクラウドサービス「IDCFクラウド」で起きている障害について、第三者によるランサムウェア攻撃が原因だったと明かし、影響範囲は495の企業・自治体に及ぶと発表した。これを受け、同日朝から利用企業によるサービス停止や一部機能の不具合の公表が相次いでいる。...",
+      "published_at": "2026-10-07T17:45:34+00:00",
+      "fetched_at": "2026-10-07T17:49:25+00:00",
+      "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "AI/KI",
+        "Copilot",
+        "GitHub"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "13e39736ff3801514fb9"
+      "id": "bcb6c5f25cc833d35127"
+    },
+    {
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-07T07:00:00+00:00",
+      "fetched_at": "2026-10-07T17:49:25+00:00",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5a4c5fc56d7442fead76"
     }
   ],
   "source_errors": [],
