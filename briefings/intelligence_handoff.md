@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-07T09:18:23Z_
+_Generated: 2026-10-07T09:44:59Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-07T14:00:00+09:00` / age_days `0.18`
+- Published: `2026-10-07T14:00:00+09:00` / age_days `0.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-10-07T01:30:31+00:00` / age_days `0.32`
+- Published: `2026-10-07T01:30:31+00:00` / age_days `0.34`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -32,17 +32,17 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `110.78`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `110.8`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: source breadth +2, momentum delta +3, baseline z_hint 6.09, high terms: rce, security high-signal: rce, aging penalty -8.0 for 110.8d old signal, extreme gate recheck: insufficient independent/current evidence
+- Warum: source breadth +2, momentum delta +3, baseline z_hint 5.86, high terms: rce, security high-signal: rce, aging penalty -8.0 for 110.8d old signal, extreme gate recheck: insufficient independent/current evidence
 - Quelle: http://www.ecb.europa.eu/mopo/implement/omo/html/20260089.en.html
 
 ### Southeast Asian tech leaders are learning to trust AI agents, but not with production
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-07T04:30:07+00:00` / age_days `0.2`
+- Published: `2026-10-07T04:30:07+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, 10, security high-signal: rce, code, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -52,17 +52,27 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-07T09:00:00+09:00` / age_days `0.39`
+- Published: `2026-10-07T09:00:00+09:00` / age_days `0.41`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
 - Quelle: https://jvn.jp/vu/JVNVU94062711/
 
+### 相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-07T06:59:02+00:00` / age_days `0.12`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html
+
 ### Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-07T06:50:00.000+00:00` / age_days `0.1`
+- Published: `2026-10-07T06:50:00.000+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, security high-signal: kritisch, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -72,17 +82,17 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-10T08:29:02+00:00` / age_days `27.03`
+- Published: `2026-09-10T08:29:02+00:00` / age_days `27.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 10.30, high terms: critical, rce, security high-signal: critical, rce, aging penalty -2.1 for 27.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 9.90, high terms: critical, rce, security high-signal: critical, rce, aging penalty -2.1 for 27.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://cert.europa.eu/publications/security-advisories/2026-015/
 
 ### Southeast Asian tech leaders are learning to trust AI agents, but not with production
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-07T04:49:50+00:00` / age_days `0.19`
+- Published: `2026-10-07T04:49:50+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-07T05:38:32+00:00` / age_days `0.15`
+- Published: `2026-10-07T05:38:32+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおける複数の脆弱�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-10-07T06:37:42+00:00` / age_days `0.11`
+- Published: `2026-10-07T06:37:42+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://e27.co/southeast-asias-foodtech-winners-are-the-least-glamorous-ones-20261007/
-
-### The new engineering bottleneck isn’t writing code, it’s trusting it
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `21.0`
-- Published: `2026-10-07T04:02:10+00:00` / age_days `0.22`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, high terms: code
-- Quelle: https://e27.co/the-new-engineering-bottleneck-isnt-writing-code-its-trusting-it-20261004/
 
 END OF DOCUMENT
