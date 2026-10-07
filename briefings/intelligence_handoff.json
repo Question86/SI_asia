@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-07T13:42:45Z",
+  "generated_at": "2026-10-07T13:55:59Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] GIMP: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3789",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T12:07:09+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3757",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T10:31:46+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260089.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 110.96,
+      "age_days": 110.97,
       "topics": [
         "general"
       ],
@@ -76,13 +76,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.87,
+      "baseline_z_hint": 2.64,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 2.87",
+        "baseline z_hint 2.64",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 111.0d old signal",
@@ -95,7 +95,7 @@
       "url": "https://e27.co/southeast-asian-tech-leaders-are-learning-to-trust-ai-agents-but-not-with-production-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T04:30:07+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -124,7 +124,7 @@
       "url": "https://jvn.jp/vu/JVNVU94062711/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-07T09:00:00+09:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "security"
       ],
@@ -150,7 +150,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3787",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T12:07:09+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -176,7 +176,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3792",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T12:07:09+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -202,7 +202,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3728",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T10:57:10+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -228,7 +228,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3761",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T10:46:45+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -254,7 +254,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3762",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-07T10:46:45+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
