@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T06:00:16+00:00_
+_Generiert: 2026-10-07T06:37:39+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Southeast Asian tech leaders are learning to trust AI agents, but not with production“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+22 neue relevante Treffer. Stärkstes Signal: „Southeast Asian tech leaders are learning to trust AI agents, but not with production“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -112,6 +112,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Southeast Asia’s foodtech winners are the least glamorous ones** — Score 12, observation — [Quelle](https://e27.co/southeast-asias-foodtech-winners-are-the-least-glamorous-ones-20261007/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-07T06:03:47+00:00`, fetched `2026-10-07T06:37:08+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia, Watchgraph:agriculture_food_fertilizer
+  - Watchgraph: agriculture_food_fertilizer
+  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
+  - Kurz: Southeast Asia’s foodtech story was supposed to be about disruption: lab-grown shrimp on every plate, groceries at your door in 15 minutes, ghost kitchens replacing the corner restaurant. The reality has been humbler, and arguably more interesting. The 2022 correction thinned the herd, the eFishery scandal and TaniHub’s collapse left scars, and many of the […] The post Southeast Asia’s foodtech winners are the least…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **When the carer has dementia too: Japan turns to physical AI to rescue eldercare** — Score 10, observation — [Quelle](https://e27.co/when-the-carer-has-dementia-too-japan-turns-to-physical-ai-to-rescue-eldercare-20261007/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-07T05:30:38+00:00`, fetched `2026-10-07T05:37:50+00:00`
@@ -148,14 +157,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-07 02:49:59 UTC 2026-10-07 02:49:59 UTC at epicenter Location 20.979°S 169.001°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI could turn concierge medicine into the future interface to healthcare** — Score 8, observation — [Quelle](https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-07T01:30:31+00:00`, fetched `2026-10-07T01:43:20+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+- **事業者のデジタル化等に係る関係省庁等連絡会議（第12回）の資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/private-business-dx/86bd4f54-9356-4451-adfc-cf578720ed5c)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-07T06:00:00+00:00`, fetched `2026-10-07T06:37:08+00:00`
+  - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Concierge medicine is expensive for a simple reason: physician attention is scarce. A typical primary-care doctor may be responsible for 2,000 or more patients, while concierge practices generally restrict panels to 400 or fewer to 600. Patients pay annual retainers ranging from a few thousand dollars to tens of thousands for longer appointments and faster […] The post AI could turn concierge medicine into the futur…
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 事業者のデジタル化等に係る関係省庁等連絡会議（第12回）の資料等を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d)
   - Quelle: Japan Digital Agency News RSS / `rss`
@@ -175,6 +184,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
   - Kurz: If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is rolling out… The post Update your IDE to restore agent activity in Copilot usage metrics appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG** — Score 5, observation — [Quelle](https://newsdig.tbs.co.jp/articles/-/2995228)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-07T04:48:04+00:00`, fetched `2026-10-07T06:37:08+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 去年、アサヒビールへのサイバー攻撃を行ったハッカー集団「Qilin」。その中心メンバーが拘束されたことをめぐり、QilinがJNNの取材に応じました。アサヒグループホールディングスなど世界の企業にサイバー攻撃を…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **バイブコーディングで作った公開中のWebアプリ、9割に脆弱性 MSの研究者など調査** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/07/2000002055/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-07T03:23:49+00:00`, fetched `2026-10-07T05:37:50+00:00`
@@ -192,15 +210,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 『ザ・バンド かつて僕らは兄弟だった』や『ナワリヌイ』などのドキュメンタリー映画の監督として知られる新鋭ダニエル・ロアーが、AIをテーマとするドキュメンタリー映画を手がけたと知り、是非観たいと思っていたところ、『ジ・AIドック オア・ハウ・アイ・ビケイム・アン・アポカロプティミスト』という腹立たしいほ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-06T21:30:06+00:00`, fetched `2026-10-07T01:02:54+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
