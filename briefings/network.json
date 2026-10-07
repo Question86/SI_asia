@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T08:34:07+00:00",
+  "generated_at": "2026-10-07T08:54:57+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 29,
@@ -28,20 +28,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 28.89,
+      "network_score": 28.74,
       "hot": false,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.1,
-      "ranking_score": 28.89,
+      "ranking_score": 28.74,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 4.39,
+      "baseline_bonus": 4.24,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -49,47 +49,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-10T08:29:02+00:00"
-    },
-    {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45",
-      "sources": [
-        "ECB Open Market Operations and Communication",
-        "ECB Press Releases Speeches Interviews"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260089.en.html",
-        "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html"
-      ],
-      "finding_count": 2,
-      "max_score": 12,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": true,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 26.82,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 25.2,
-      "ranking_score": 26.82,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 5.5,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 3.82,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:southeast-asian-tech-leaders-are-learning-trust-agents",
@@ -130,6 +89,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-07T04:49:50+00:00"
+    },
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45",
+      "sources": [
+        "ECB Open Market Operations and Communication",
+        "ECB Press Releases Speeches Interviews"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260089.en.html",
+        "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html"
+      ],
+      "finding_count": 2,
+      "max_score": 12,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": true,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 23.03,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 22.2,
+      "ranking_score": 23.03,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 5.5,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 2.53,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -265,18 +265,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.85,
+      "network_score": 13.79,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.1,
-      "ranking_score": 13.85,
+      "ranking_score": 13.79,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.35,
+      "baseline_bonus": 1.29,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -404,47 +404,6 @@
       "first_seen_at": "2026-10-07T01:03:31+00:00"
     },
     {
-      "key": "earthquake:m 4.9 - 80 km sw of el arenal, mexico:4.9",
-      "title": "M 4.9 - 80 km SW of El Arenal, Mexico",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "emergency_official",
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0q1"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.9,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 14.7,
-      "ranking_score": 10.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-10-07T08:34:07+00:00"
-    },
-    {
       "key": "title:could-turn-concierge-medicine-future-interface-healthcare",
       "title": "AI could turn concierge medicine into the future interface to healthcare",
       "sources": [
@@ -522,44 +481,6 @@
       "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "title:his",
-      "title": "【速報】HIS、顧客6百人超パスポート情報流出か",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.47news.jp/15049148.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-07T08:34:07+00:00"
-    },
-    {
       "key": "title:engineering-bottleneck-isn-writing-code-trusting",
       "title": "The new engineering bottleneck isn’t writing code, it’s trusting it",
       "sources": [
@@ -596,6 +517,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-07T04:02:10+00:00"
+    },
+    {
+      "key": "earthquake:m 4.9 - 80 km sw of el arenal, mexico:4.9",
+      "title": "M 4.9 - 80 km SW of El Arenal, Mexico",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0q1"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 11.7,
+      "ranking_score": 8.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-10-07T08:34:07+00:00"
     },
     {
       "key": "earthquake:m 4.9 - south sandwich islands region:4.9",
@@ -870,6 +832,44 @@
       "first_seen_at": "2026-10-07T01:03:31+00:00"
     },
     {
+      "key": "title:his",
+      "title": "【速報】HIS、顧客6百人超パスポート情報流出か",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.47news.jp/15049148.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-07T08:34:07+00:00"
+    },
+    {
       "key": "title:qilin-tbs-news-dig",
       "title": "【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG",
       "sources": [
@@ -1100,7 +1100,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-07T08:34:07Z",
+    "generated_at": "2026-10-07T08:54:57Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
