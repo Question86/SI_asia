@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-07T11:47:19+00:00_
+_Generated: 2026-10-07T12:17:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `46`
+- findings: `53`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-07T11:47:19+00:00_
 - url: https://e27.co/southeast-asian-tech-leaders-are-learning-to-trust-ai-agents-but-not-with-production-20261007/
 - summary: AI coding agents have moved quickly from novelty to daily tool inside Southeast Asian engineering teams. Across Singapore, Bangkok, Jakarta and Ho Chi Minh City, developers are no longer just asking AI to complete a line of code or explain an error message. T…
 
-### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+### 3. [NEU] [mittel] Red Hat Enterprise Linux (sequoia-openpgp, perl-DBI): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-10-07T10:57:11+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3743
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise einen Denial-of-Service-Angriff auszulösen, Daten zu manipulieren oder offenzulegen oder Sicherheitsmaßnahmen zu umg…
+- published: `2026-10-07T12:07:09+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3790
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen.
 
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）
-- source: JVN Japan Vulnerability Notes
+### 4. [NEU] [UNGEPATCHT] [hoch] GIMP: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-10-07T09:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU94062711/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+- published: `2026-10-07T12:07:09+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3789
+- summary: Ein lokaler Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren und möglicherweise beliebigen Code auszuführen.
 
 ### 5. Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
