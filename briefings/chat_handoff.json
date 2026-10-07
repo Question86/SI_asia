@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-07T03:52:16+00:00",
+  "generated_at": "2026-10-07T04:02:07+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
     "medium": 2,
-    "observe": 11
+    "observe": 12
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,13 +65,13 @@
       "section": "observe"
     },
     {
-      "title": "Light liquidations and flat funding: Is Bitcoin about to explode?",
+      "title": "The new engineering bottleneck isn’t writing code, it’s trusting it",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-07T03:40:22+00:00",
-      "relevance_score": 6,
-      "url": "https://e27.co/light-liquidations-and-flat-funding-is-bitcoin-about-to-explode-20261007/",
-      "summary": "Bitcoin traded in a narrow band near US$85,400 to US$85,550 during early October 7, 2026. Live aggregator readings clustered around US$85,435 to US$85,542. The 24-hour change settled at roughly -0.3 per cent to -0.5 per cent on most feeds, though one snapshot…",
+      "published_at": "2026-10-07T04:00:42+00:00",
+      "relevance_score": 7,
+      "url": "https://e27.co/the-new-engineering-bottleneck-isnt-writing-code-its-trusting-it-20261004/",
+      "summary": "For the past two years, the story engineering teams told about AI was simple: it writes code faster, so teams ship faster. That story is only half true. Code does get written faster. But Google’s 2025 DORA report, based on analysis of over 1,100 open-ended re…",
       "section": "observe"
     }
   ],
@@ -80,140 +80,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）",
-        "url": "https://jvn.jp/vu/JVNVU94062711/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-07T09:00:00+09:00",
-        "age_days": 0.17,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "AI could turn concierge medicine into the future interface to healthcare",
-        "url": "https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-07T01:30:31+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 25.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "Concierge medicine is expensive for a simple reason: physician attention is scarce. A typical primary-care doctor may be responsible for 2,000 or more patients, while concierge practices generally restrict panels to 400 or fewer to 600. Patients pay annual retainers ranging from a few thousand dollars to tens of thous…"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）",
-        "url": "https://jvn.jp/vu/JVNVU94062711/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 110.08,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.9,
-        "raw_band": "strong",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: 10",
-          "aging penalty -8.0 for 110.1d old signal",
-          "stale single-source cap: max watch after 14d without fresh resonance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Why Southeast Asia is underbuilt in the categories that produce its most durable companies",
-        "url": "https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-07T01:03:31+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Why Southeast Asia is underbuilt in the categories that produce its most durable companies",
-        "url": "https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-07T01:00:55+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "axiom",
-          "macro"
-        ],
-        "dynamics_score": 18.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Ask anyone to name Southeast Asia’s most successful startups and you will hear the same names. Grab. Sea. GoTo. Each is a consumer company. Each won by reaching enormous numbers of users, burning enormous amounts of capital, and surviving long enough to consolidate a market. This is the story the region tells about it…"
-      }
-    ]
-  }
+  ]
 }

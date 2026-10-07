@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T03:52:16+00:00_
+_Generiert: 2026-10-07T04:02:07+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+14 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -60,14 +60,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Concierge medicine is expensive for a simple reason: physician attention is scarce. A typical primary-care doctor may be responsible for 2,000 or more patients, while concierge practices generally restrict panels to 400 or fewer to 600. Patients pay annual retainers ranging from a few thousand dollars to tens of thousands for longer appointments and faster […] The post AI could turn concierge medicine into the futur…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Light liquidations and flat funding: Is Bitcoin about to explode?** — Score 6, observation — [Quelle](https://e27.co/light-liquidations-and-flat-funding-is-bitcoin-about-to-explode-20261007/)
+- **The new engineering bottleneck isn’t writing code, it’s trusting it** — Score 7, observation — [Quelle](https://e27.co/the-new-engineering-bottleneck-isnt-writing-code-its-trusting-it-20261004/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-07T03:40:22+00:00`, fetched `2026-10-07T03:51:41+00:00`
-  - Treffer: APAC Trend Radar, funding
+  - Zeit: published `2026-10-07T04:00:42+00:00`, fetched `2026-10-07T04:01:31+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0)
-  - Kurz: Bitcoin traded in a narrow band near US$85,400 to US$85,550 during early October 7, 2026. Live aggregator readings clustered around US$85,435 to US$85,542. The 24-hour change settled at roughly -0.3 per cent to -0.5 per cent on most feeds, though one snapshot briefly showed a small positive. There were no sustained breakouts in either direction. […] The post Light liquidations and flat funding: Is Bitcoin about to e…
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: For the past two years, the story engineering teams told about AI was simple: it writes code faster, so teams ship faster. That story is only half true. Code does get written faster. But Google’s 2025 DORA report, based on analysis of over 1,100 open-ended responses from Google software engineers, found that higher AI adoption […] The post The new engineering bottleneck isn’t writing code, it’s trusting it appeared…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d)
   - Quelle: Japan Digital Agency News RSS / `rss`
