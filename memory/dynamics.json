@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-07T05:43:29Z",
+  "generated_at": "2026-10-07T05:54:58Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 38,
@@ -9,13 +9,13 @@
       "extreme": 1,
       "krass": 1,
       "strong": 5,
-      "watch": 15,
-      "quiet": 16
+      "watch": 14,
+      "quiet": 17
     },
     "bands_after_gate_recheck": {
       "strong": 7,
-      "watch": 15,
-      "quiet": 16
+      "watch": 14,
+      "quiet": 17
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://jvn.jp/jp/JVN91153973/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-07T14:00:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -42,30 +42,6 @@
         "security high-signal: jvn, security"
       ],
       "summary": "シックス・アパート株式会社が提供するMovable Typeには複数の脆弱性が存在します。"
-    },
-    {
-      "title": "Movable Typeにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN91153973/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-07T05:38:32+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
     },
     {
       "title": "AI could turn concierge medicine into the future interface to healthcare",
@@ -97,7 +73,7 @@
       "url": "https://e27.co/southeast-asian-tech-leaders-are-learning-to-trust-ai-agents-but-not-with-production-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T04:30:07+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -126,7 +102,7 @@
       "url": "https://jvn.jp/vu/JVNVU94062711/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-07T09:00:00+09:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -152,24 +128,49 @@
       "url": "https://e27.co/southeast-asian-tech-leaders-are-learning-to-trust-ai-agents-but-not-with-production-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T04:49:50+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 24.5,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
         "single-source AI hype brake -8.0",
+        "krass gate: single-source non-official/non-identity signal capped",
         "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Movable Typeにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN91153973/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-07T05:38:32+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -178,7 +179,7 @@
       "url": "https://e27.co/the-new-engineering-bottleneck-isnt-writing-code-its-trusting-it-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T04:02:10+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -230,7 +231,7 @@
       "url": "https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T01:03:31+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -246,32 +247,6 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "バイブコーディングで作った公開中のWebアプリ、9割に脆弱性 MSの研究者など調査",
-      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002055/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-12T10:39:40+00:00",
-      "age_days": 24.79,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 18.36,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -1.3 for 24.8d old signal"
       ],
       "summary": ""
     },
@@ -305,7 +280,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0pb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-07T05:26:50.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -330,7 +305,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ns",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-07T03:14:09.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -355,7 +330,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ns",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-07T03:29:23+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -379,7 +354,7 @@
       "url": "https://e27.co/granite-asia-google-ai-futures-fund-team-up-to-back-asias-ai-founders-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T03:29:23+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -405,7 +380,7 @@
       "url": "https://e27.co/light-liquidations-and-flat-funding-is-bitcoin-about-to-explode-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T03:52:19+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -429,7 +404,7 @@
       "url": "https://e27.co/europes-trade-truce-with-america-has-not-restored-trust-in-american-business-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T03:01:05+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -453,7 +428,7 @@
       "url": "https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-07T01:03:31+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -477,7 +452,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-07T01:03:31+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -521,28 +496,27 @@
       "summary": ""
     },
     {
-      "title": "M 4.9 - South Sandwich Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0pb",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-06-17T20:32:17+00:00",
-      "age_days": 111.38,
+      "title": "バイブコーディングで作った公開中のWebアプリ、9割に脆弱性 MSの研究者など調査",
+      "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002055/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-12T10:39:40+00:00",
+      "age_days": 24.8,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.59,
+      "dynamics_score": 12.67,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -8.0 for 111.4d old signal"
+        "aging penalty -1.3 for 24.8d old signal"
       ],
       "summary": ""
     },
@@ -551,7 +525,7 @@
       "url": "https://e27.co/granite-asia-google-ai-futures-fund-team-up-to-back-asias-ai-founders-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T03:28:35+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -625,7 +599,7 @@
       "url": "https://qiita.com/yama3133/items/071119dfea9ed24d0948",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T15:28:35+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -671,28 +645,27 @@
       "summary": ""
     },
     {
-      "title": "When the carer has dementia too: Japan turns to physical AI to rescue eldercare",
-      "url": "https://e27.co/when-the-carer-has-dementia-too-japan-turns-to-physical-ai-to-rescue-eldercare-20261007/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-07T05:38:32+00:00",
-      "age_days": 0.0,
+      "title": "M 4.9 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0pb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-06-17T20:32:17+00:00",
+      "age_days": 111.39,
       "topics": [
-        "ai"
+        "general"
       ],
       "dynamics_score": 8.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3",
+        "aging penalty -8.0 for 111.4d old signal"
       ],
       "summary": ""
     },
@@ -701,7 +674,7 @@
       "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-07T01:03:31+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -727,7 +700,7 @@
       "url": "https://e27.co/when-the-carer-has-dementia-too-japan-turns-to-physical-ai-to-rescue-eldercare-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T05:30:38+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -749,11 +722,37 @@
       "summary": "Some Japanese words resist translation. Take rōrō kaigo (老老介護). The character rō means “elderly”, and repeating it describes an elderly person caring for another elderly person, such as an 80-year-old husband looking after his equally frail wife on his own. That is the reality the word captures. Then there is the dark…"
     },
     {
+      "title": "When the carer has dementia too: Japan turns to physical AI to rescue eldercare",
+      "url": "https://e27.co/when-the-carer-has-dementia-too-japan-turns-to-physical-ai-to-rescue-eldercare-20261007/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-07T05:38:32+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AI破滅論と『終末ファシズム』、そしてアポカロプティミストとして生きること",
       "url": "https://wirelesswire.jp/2026/10/94606/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-07T03:01:05+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -804,7 +803,7 @@
       "url": "https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-07T00:57:35+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -828,7 +827,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T21:30:06+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -852,7 +851,7 @@
       "url": "https://e27.co/the-new-engineering-bottleneck-isnt-writing-code-its-trusting-it-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T04:00:42+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -904,7 +903,7 @@
       "url": "https://e27.co/europes-trade-truce-with-america-has-not-restored-trust-in-american-business-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T03:00:06+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -930,7 +929,7 @@
       "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-06T23:43:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
