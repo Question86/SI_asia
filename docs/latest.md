@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T06:37:39+00:00_
+_Generiert: 2026-10-07T07:03:08+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „Southeast Asian tech leaders are learning to trust AI agents, but not with production“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+23 neue relevante Treffer. Stärkstes Signal: „Southeast Asian tech leaders are learning to trust AI agents, but not with production“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -59,6 +59,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: Southeast Asia’s foodtech story was supposed to be about disruption: lab-grown shrimp on every plate, groceries at your door in 15 minutes, ghost kitchens replacing the corner restaurant. The reality has been humbler, and arguably more interesting. The 2022 correction thinned the herd, the eFishery scandal and TaniHub’s collapse left scars, and many of the […] The post Southeast Asia’s foodtech winners are the least…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke** — Score 11, observation — [Quelle](https://www.heise.de/news/Jetzt-aktualisieren-Atlassian-warnt-vor-kritischer-Data-Center-Luecke-11478707.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-07T06:50:00.000+00:00`, fetched `2026-10-07T07:02:39+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: Ein kritisches Leck in Atlassians Data-Center-Produkten ermöglicht unbefugten Dateizugriff ohne Anmeldung. Updates stehen bereit.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **When the carer has dementia too: Japan turns to physical AI to rescue eldercare** — Score 10, observation — [Quelle](https://e27.co/when-the-carer-has-dementia-too-japan-turns-to-physical-ai-to-rescue-eldercare-20261007/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

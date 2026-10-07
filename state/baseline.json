@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T06:37:42+00:00",
+  "generated_at": "2026-10-07T07:03:11+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -59,7 +59,7 @@
     },
     "earthquake:m 4.9 - south sandwich islands region:4.9": {
       "title": "M 4.9 - South Sandwich Islands region",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -86,8 +86,8 @@
         11.7,
         11.7,
         11.7,
-        11.7,
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7
@@ -2868,7 +2868,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2884,8 +2884,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -3662,9 +3662,8 @@
     },
     "domain:qiita.com": {
       "title": "2026年の情報漏洩を手口で分類してみた - Qiita",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -3681,6 +3680,7 @@
         10.1,
         10.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -4320,8 +4320,8 @@
       "z_hint": 0.0
     },
     "domain:www.heise.de": {
-      "title": "Android-Patchday: Google stopft diverse Rechteausweitungslücken",
-      "updated_at": "2026-10-06T23:46:08+00:00",
+      "title": "Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -4352,12 +4352,12 @@
         9.1,
         9.1,
         9.1,
-        9.1
+        16.1
       ],
-      "rolling_average": 9.1,
-      "rolling_peak": 9.1,
-      "last_score": 9.1,
-      "z_hint": 0.0
+      "rolling_average": 9.33,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 6.77
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -29902,7 +29902,7 @@
     },
     "title:web": {
       "title": "バイブコーディングで作った公開中のWebアプリ、9割に脆弱性 MSの研究者など調査",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -29929,8 +29929,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1
@@ -62272,7 +62272,108 @@
     },
     "url:https://www.yomiuri.co.jp/national/20261006-gyt1t00373/": {
       "title": "サイバー攻撃で企業・団体の情報漏えい被害最多、今年５００件超・すでに過去２年に並ぶ…ＡＩ使い弱点探索か",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.29,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.19
+    },
+    "title:why-southeast-asia-underbuilt-categories-that-produce-its": {
+      "title": "Why Southeast Asia is underbuilt in the categories that produce its most durable companies",
+      "updated_at": "2026-10-07T07:03:11+00:00",
+      "network_scores": [
+        15.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1
+      ],
+      "rolling_average": 12.3,
+      "rolling_peak": 15.1,
+      "last_score": 12.1,
+      "z_hint": -0.2
+    },
+    "url:https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d": {
+      "title": "国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました",
+      "updated_at": "2026-10-07T07:03:11+00:00",
+      "network_scores": [
+        11.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1
+      ],
+      "rolling_average": 8.3,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -0.2
+    },
+    "title:update-your-ide-restore-agent-activity-copilot-usage": {
+      "title": "Update your IDE to restore agent activity in Copilot usage metrics",
+      "updated_at": "2026-10-07T07:03:11+00:00",
+      "network_scores": [
+        11.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1
+      ],
+      "rolling_average": 8.3,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -0.2
+    },
+    "url:https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html": {
+      "title": "【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -62295,105 +62396,9 @@
       "last_score": 7.1,
       "z_hint": -0.2
     },
-    "title:why-southeast-asia-underbuilt-categories-that-produce-its": {
-      "title": "Why Southeast Asia is underbuilt in the categories that produce its most durable companies",
-      "updated_at": "2026-10-07T06:37:42+00:00",
-      "network_scores": [
-        15.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1
-      ],
-      "rolling_average": 12.31,
-      "rolling_peak": 15.1,
-      "last_score": 12.1,
-      "z_hint": -0.21
-    },
-    "url:https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d": {
-      "title": "国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました",
-      "updated_at": "2026-10-07T06:37:42+00:00",
-      "network_scores": [
-        11.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1
-      ],
-      "rolling_average": 8.31,
-      "rolling_peak": 11.1,
-      "last_score": 8.1,
-      "z_hint": -0.21
-    },
-    "title:update-your-ide-restore-agent-activity-copilot-usage": {
-      "title": "Update your IDE to restore agent activity in Copilot usage metrics",
-      "updated_at": "2026-10-07T06:37:42+00:00",
-      "network_scores": [
-        11.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1
-      ],
-      "rolling_average": 8.31,
-      "rolling_peak": 11.1,
-      "last_score": 8.1,
-      "z_hint": -0.21
-    },
-    "url:https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html": {
-      "title": "【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選",
-      "updated_at": "2026-10-07T06:37:42+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.31,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.21
-    },
     "title:could-turn-concierge-medicine-future-interface-healthcare": {
       "title": "AI could turn concierge medicine into the future interface to healthcare",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -62407,16 +62412,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.33,
+      "rolling_average": 10.31,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:europe-trade-truce-america-has-not-restored-trust": {
       "title": "Europe’s trade truce with America has not restored trust in American business",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -62427,16 +62433,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.4,
+      "rolling_average": 8.37,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "url:https://wirelesswire.jp/2026/10/94606/": {
       "title": "AI破滅論と『終末ファシズム』、そしてアポカロプティミストとして生きること",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -62447,16 +62454,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.4,
+      "rolling_average": 7.37,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:granite-asia-google-futures-fund-team-back-asia": {
       "title": "Granite Asia, Google AI Futures Fund team up to back Asia’s AI founders",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
         20.1,
         17.1,
@@ -62466,16 +62474,17 @@
         17.1,
         17.1,
         17.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 17.43,
+      "rolling_average": 17.4,
       "rolling_peak": 20.1,
       "last_score": 17.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "earthquake:m 4.8 - 132 km ene of tadine, new caledonia:4.8": {
       "title": "M 4.8 - 132 km ENE of Tadine, New Caledonia",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -62485,16 +62494,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.03,
+      "rolling_average": 12.0,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:light-liquidations-flat-funding-bitcoin-about-explode": {
       "title": "Light liquidations and flat funding: Is Bitcoin about to explode?",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -62503,18 +62513,20 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.47,
+      "rolling_average": 8.43,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "title:engineering-bottleneck-isn-writing-code-trusting": {
       "title": "The new engineering bottleneck isn’t writing code, it’s trusting it",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
         12.1,
+        9.1,
         9.1,
         9.1,
         9.1,
@@ -62522,86 +62534,92 @@
         9.1,
         9.1
       ],
-      "rolling_average": 9.53,
+      "rolling_average": 9.47,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "title:southeast-asian-tech-leaders-are-learning-trust-agents": {
       "title": "Southeast Asian tech leaders are learning to trust AI agents, but not with production",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
         28.1,
         25.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.7,
+      "rolling_average": 25.6,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:movable-type": {
       "title": "Movable Typeにおける複数の脆弱性",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
         19.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.85,
+      "rolling_average": 16.7,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:when-carer-has-dementia-too-japan-turns-physical": {
       "title": "When the carer has dementia too: Japan turns to physical AI to rescue eldercare",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
         15.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.85,
+      "rolling_average": 12.7,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:southeast-asia-foodtech-winners-are-least-glamorous-ones": {
       "title": "Southeast Asia’s foodtech winners are the least glamorous ones",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
-        17.1
+        17.1,
+        14.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 15.6,
       "rolling_peak": 17.1,
-      "last_score": 17.1,
-      "z_hint": 0.0
+      "last_score": 14.1,
+      "z_hint": -1.5
     },
     "url:https://www.digital.go.jp/councils/private-business-dx/86bd4f54-9356-4451-adfc-cf578720ed5c": {
       "title": "事業者のデジタル化等に係る関係省庁等連絡会議（第12回）の資料等を掲載しました",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
-        11.1
+        11.1,
+        8.1
       ],
-      "rolling_average": 11.1,
+      "rolling_average": 9.6,
       "rolling_peak": 11.1,
-      "last_score": 11.1,
-      "z_hint": 0.0
+      "last_score": 8.1,
+      "z_hint": -1.5
     },
     "title:qilin-tbs-news-dig": {
       "title": "【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG",
-      "updated_at": "2026-10-07T06:37:42+00:00",
+      "updated_at": "2026-10-07T07:03:11+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
+      "last_score": 7.1,
+      "z_hint": -1.5
     }
   }
 }
