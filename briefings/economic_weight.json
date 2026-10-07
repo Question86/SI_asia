@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T17:50:23+00:00",
+  "generated_at": "2026-10-07T17:59:19+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -298,6 +298,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b98b418d980a21353466",
+      "title": "Secret protection must scale with software",
+      "event_classes": [
+        "conflict"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400000.0,
+      "p50_usd": 11040000000.0,
+      "p90_usd": 1104000000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_e285043b7f7e29c9bf0e",
       "title": "GitHub - dmtrKovalenko/bashka: Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
       "event_classes": [
@@ -330,23 +347,6 @@
       "first_seen_at": "2026-09-02T03:38:48+00:00",
       "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_b98b418d980a21353466",
-      "title": "Secret protection must scale with software",
-      "event_classes": [
-        "conflict"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400000.0,
-      "p50_usd": 11040000000.0,
-      "p90_usd": 1104000000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-07T17:50:01+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2190f6a9690332b3e6dc",
@@ -1322,7 +1322,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T05:30:29+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -3702,7 +3702,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-07T15:31:50+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -6065,8 +6065,8 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T09:38:46+00:00",
-      "last_seen_at": "2026-10-07T17:36:11+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_e3b72d64234569d5072c",
@@ -6456,7 +6456,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -6592,7 +6592,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -6711,7 +6711,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-25T09:53:09+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -7102,7 +7102,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T05:38:32+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -7612,7 +7612,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T13:58:07+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -7884,7 +7884,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -7969,7 +7969,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T04:49:50+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -9431,7 +9431,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -9839,7 +9839,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T08:29:02+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -10009,7 +10009,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T03:29:23+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -11352,7 +11352,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T06:37:42+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -11420,7 +11420,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -11744,7 +11744,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T13:58:07+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -12934,7 +12934,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T05:38:32+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -13155,7 +13155,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T01:03:31+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -14226,7 +14226,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {
@@ -16437,7 +16437,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-12T10:39:40+00:00",
-      "last_seen_at": "2026-10-07T17:50:01+00:00",
+      "last_seen_at": "2026-10-07T17:58:51+00:00",
       "status": "active"
     },
     {

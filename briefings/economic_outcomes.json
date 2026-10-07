@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T17:50:52+00:00",
+  "generated_at": "2026-10-07T17:59:44+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -10499,13 +10499,13 @@
     {
       "event_id": "evt_b98b418d980a21353466",
       "title": "Secret protection must scale with software",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b9e2035b72777801567e",
@@ -12672,7 +12672,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_e1c63a0688150c751892",

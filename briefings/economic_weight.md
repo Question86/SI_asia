@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-10-07T17:50:23+00:00`
+Generated: `2026-10-07T17:59:19+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -23,9 +23,9 @@ Generated: `2026-10-07T17:50:23+00:00`
 | Stage-only npm tokens for safer automation | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 | Multiples vulnérabilités dans les produits VMware (07 septembre 2026) | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
 | Singapore’s robotics dominance is a warning sign dressed up as good news | conflict | $111.20M | $11.12B | $1.11T | 0.31 |
+| Secret protection must scale with software | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 | GitHub - dmtrKovalenko/bashka: Stop running unverified bash scripts to install software! curl <url> \| bashKA for static verification of bash script safty and managing installed software | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 | Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
-| Secret protection must scale with software | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 | 一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも \| kawarimidoll.com | conflict | $109.60M | $10.96B | $1.10T | 0.31 |
 | Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert | conflict | $109.60M | $10.96B | $1.10T | 0.31 |
 | Bitcoin’s corrective pullback or the start of a deeper drop toward US$79,600? | conflict | $107.20M | $10.72B | $1.07T | 0.31 |
