@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T17:49:58+00:00",
-  "run_id": "2026-10-07T17:49:58+00:00",
+  "generated_at": "2026-10-07T17:58:48+00:00",
+  "run_id": "2026-10-07T17:58:48+00:00",
   "date": "2026-10-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 74,
     "displayed_findings": 74,
     "high": 0,
@@ -3685,50 +3685,7 @@
       "id": "58fccdef7314ae1ef99a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Secret protection must scale with software",
-      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-07T17:45:34+00:00",
-      "fetched_at": "2026-10-07T17:49:25+00:00",
-      "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bcb6c5f25cc833d35127"
-    },
-    {
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-07T07:00:00+00:00",
-      "fetched_at": "2026-10-07T17:49:25+00:00",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5a4c5fc56d7442fead76"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
