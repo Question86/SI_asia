@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-07T11:34:31+00:00",
+  "generated_at": "2026-10-07T11:47:22+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 45,
-    "clusters": 34,
+    "findings": 46,
+    "clusters": 35,
     "cross_source_confrmed": 1,
     "hot": 1,
     "early_signals": 0,
@@ -28,20 +28,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 27.18,
+      "network_score": 27.02,
       "hot": false,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.1,
-      "ranking_score": 27.18,
+      "ranking_score": 27.02,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.68,
+      "baseline_bonus": 2.52,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -111,18 +111,18 @@
       "cross_source_confirmed": true,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 22.11,
+      "network_score": 22.02,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 22.2,
-      "ranking_score": 22.11,
+      "ranking_score": 22.02,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 5.5,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.61,
+      "baseline_bonus": 1.52,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -309,18 +309,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.69,
+      "network_score": 14.58,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 15.2,
-      "ranking_score": 14.69,
+      "ranking_score": 14.58,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.19,
+      "baseline_bonus": 2.08,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -428,18 +428,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.26,
+      "network_score": 13.21,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.1,
-      "ranking_score": 13.26,
+      "ranking_score": 13.21,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.76,
+      "baseline_bonus": 0.71,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -643,8 +643,8 @@
       "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "title:idc",
-      "title": "当社サービスの一部システムに対する不正アクセスについて | IDCフロンティア",
+      "key": "url:https://www.47news.jp/15049544.html",
+      "title": "【速報】損保ジャパン、6万件の顧客情報漏えいか",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -652,7 +652,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.idcf.jp/news/topics/20261007001"
+        "https://www.47news.jp/15049544.html"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -678,7 +678,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-10-07T11:34:31+00:00"
+      "first_seen_at": "2026-10-07T11:47:22+00:00"
     },
     {
       "key": "title:engineering-bottleneck-isn-writing-code-trusting",
@@ -1111,6 +1111,44 @@
       "first_seen_at": "2026-10-07T08:34:07+00:00"
     },
     {
+      "key": "title:idc",
+      "title": "当社サービスの一部システムに対する不正アクセスについて | IDCフロンティア",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.idcf.jp/news/topics/20261007001"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-07T11:34:31+00:00"
+    },
+    {
       "key": "title:qilin-tbs-news-dig",
       "title": "【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG",
       "sources": [
@@ -1341,7 +1379,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-07T11:34:32Z",
+    "generated_at": "2026-10-07T11:47:23Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T11:34:28+00:00",
-  "run_id": "2026-10-07T11:34:28+00:00",
+  "generated_at": "2026-10-07T11:47:19+00:00",
+  "run_id": "2026-10-07T11:47:19+00:00",
   "date": "2026-10-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 45
+      "configured_public_sources_only": 46
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 45,
-    "displayed_findings": 45,
+    "today_file_total": 46,
+    "displayed_findings": 46,
     "high": 0,
     "medium": 15,
-    "observe": 30,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -982,6 +982,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "02cfd37ffd9ec31f3dff"
+      },
+      {
+        "title": "【速報】損保ジャパン、6万件の顧客情報漏えいか",
+        "url": "https://www.47news.jp/15049544.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-07T07:40:55+00:00",
+        "fetched_at": "2026-10-07T11:46:45+00:00",
+        "summary": "損害保険ジャパンは7日、外部の委託先が不正アクセスを受け、約6万件の顧客情報が漏えいした可能性があると発表した。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d375b235ab4e614c787f"
       },
       {
         "title": "【速報】HIS、顧客6百人超パスポート情報流出か",
@@ -2125,6 +2146,27 @@
       "id": "02cfd37ffd9ec31f3dff"
     },
     {
+      "title": "【速報】損保ジャパン、6万件の顧客情報漏えいか",
+      "url": "https://www.47news.jp/15049544.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-07T07:40:55+00:00",
+      "fetched_at": "2026-10-07T11:46:45+00:00",
+      "summary": "損害保険ジャパンは7日、外部の委託先が不正アクセスを受け、約6万件の顧客情報が漏えいした可能性があると発表した。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d375b235ab4e614c787f"
+    },
+    {
       "title": "【速報】HIS、顧客6百人超パスポート情報流出か",
       "url": "https://www.47news.jp/15049148.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2313,13 +2355,13 @@
   ],
   "new_findings": [
     {
-      "title": "当社サービスの一部システムに対する不正アクセスについて | IDCフロンティア",
-      "url": "https://www.idcf.jp/news/topics/20261007001",
+      "title": "【速報】損保ジャパン、6万件の顧客情報漏えいか",
+      "url": "https://www.47news.jp/15049544.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-07T05:02:16+00:00",
-      "fetched_at": "2026-10-07T11:33:58+00:00",
-      "summary": "2026年10月7日 このたび、当社クラウドサービス「IDCFクラウド」の一部のシステムに対する第三者からの不正アクセスにより、 サービスの一部に障害が発生しています。対象のお客さまには個別にご連絡させていただいています。 現在、障害解消に向けて調査対応を進めており、障害が発生していないその他の領域の安全性確...",
+      "published_at": "2026-10-07T07:40:55+00:00",
+      "fetched_at": "2026-10-07T11:46:45+00:00",
+      "summary": "損害保険ジャパンは7日、外部の委託先が不正アクセスを受け、約6万件の顧客情報が漏えいした可能性があると発表した。",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2331,7 +2373,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6c4598cb5966ae6e8433"
+      "id": "d375b235ab4e614c787f"
     }
   ],
   "source_errors": [],
