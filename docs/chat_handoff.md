@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-07T03:29:20+00:00_
+_Generated: 2026-10-07T03:52:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `12`
+- findings: `13`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-10-07T03:29:20+00:00_
 - url: https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/
 - summary: Concierge medicine is expensive for a simple reason: physician attention is scarce. A typical primary-care doctor may be responsible for 2,000 or more patients, while concierge practices generally restrict panels to 400 or fewer to 600. Patients pay annual re…
 
-### 6. Europe’s trade truce with America has not restored trust in American business
+### 6. Light liquidations and flat funding: Is Bitcoin about to explode?
 - source: e27 Asia Startup and Tech Feed
 - score: `6`
-- published: `2026-10-07T03:00:06+00:00`
-- url: https://e27.co/europes-trade-truce-with-america-has-not-restored-trust-in-american-business-20261004/
-- summary: For much of the past three decades, American companies operating overseas benefited from a powerful assumption: that despite periodic political turbulence at home, the United States (US) remained a predictable and broadly reliable commercial partner. That ass…
+- published: `2026-10-07T03:40:22+00:00`
+- url: https://e27.co/light-liquidations-and-flat-funding-is-bitcoin-about-to-explode-20261007/
+- summary: Bitcoin traded in a narrow band near US$85,400 to US$85,550 during early October 7, 2026. Live aggregator readings clustered around US$85,435 to US$85,542. The 24-hour change settled at roughly -0.3 per cent to -0.5 per cent on most feeds, though one snapshot…
 
 END OF DOCUMENT
