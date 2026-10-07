@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-07T13:47:28+00:00",
+  "generated_at": "2026-10-07T13:58:03+00:00",
   "topics": {
     "security": [
       {
@@ -170,6 +170,13 @@
         "url": "https://www.bis.org/speeches/20261007-data-version-godzilla-versus-kong-fred-takes-ai"
       },
       {
+        "title": "Multiples vulnérabilités dans OpenSSL (30 septembre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-09-30T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1241/"
+      },
+      {
         "title": "When the carer has dementia too: Japan turns to physical AI to rescue eldercare",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-07T05:30:38+00:00",
@@ -210,13 +217,6 @@
         "published_at": "2026-10-07T01:30:31+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/"
-      },
-      {
-        "title": "The Czech koruna 50 years after the beginning of the post-Bretton Woods system and the Czech National Bank 100 years after the establishment of the National Bank of Czechoslovakia",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-07T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/speeches/20261007-czech-koruna-50-years-after-beginning-post-bretton-woods-system-and-czech-national-bank-100-years-after-establishment"
       }
     ],
     "github": [
@@ -358,6 +358,20 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ns"
       },
       {
+        "title": "Multiples vulnérabilités dans Redmine (01 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-01T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1245/"
+      },
+      {
+        "title": "Multiples vulnérabilités dans CPython (01 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-01T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1243/"
+      },
+      {
         "title": "事業者のデジタル化等に係る関係省庁等連絡会議（第12回）の資料等を掲載しました",
         "source": "Japan Digital Agency News RSS",
         "published_at": "2026-10-07T06:00:00+00:00",
@@ -370,20 +384,6 @@
         "published_at": "2026-10-07T00:57:35+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d"
-      },
-      {
-        "title": "【速報】損保ジャパン、6万件の顧客情報漏えいか",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-07T07:40:55+00:00",
-        "relevance_score": 5,
-        "url": "https://www.47news.jp/15049544.html"
-      },
-      {
-        "title": "【速報】HIS、顧客6百人超パスポート情報流出か",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-07T06:37:46+00:00",
-        "relevance_score": 5,
-        "url": "https://www.47news.jp/15049148.html"
       }
     ]
   }
