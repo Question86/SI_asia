@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T12:17:46+00:00_
+_Generiert: 2026-10-07T12:48:11+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
+57 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: Southeast Asia’s foodtech story was supposed to be about disruption: lab-grown shrimp on every plate, groceries at your door in 15 minutes, ghost kitchens replacing the corner restaurant. The reality has been humbler, and arguably more interesting. The 2022 correction thinned the herd, the eFishery scandal and TaniHub’s collapse left scars, and many of the […] The post Southeast Asia’s foodtech winners are the least…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The data version of Godzilla versus Kong - FRED takes on AI** — Score 12, observation — [Quelle](https://www.bis.org/speeches/20261007-data-version-godzilla-versus-kong-fred-takes-ai)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-07T00:00:00+00:00`, fetched `2026-10-07T12:47:39+00:00`
+  - Treffer: AI/KI, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at "Navigating trust, AI and storytelling in a world of data", FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri, 1 October 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ** — Score 11, observation — [Quelle](https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-07T06:59:02+00:00`, fetched `2026-10-07T09:29:06+00:00`
@@ -150,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Ask anyone to name Southeast Asia’s most successful startups and you will hear the same names. Grab. Sea. GoTo. Each is a consumer company. Each won by reaching enormous numbers of users, burning enormous amounts of capital, and surviving long enough to consolidate a market. This is the story the region tells about itself. It […] The post Why Southeast Asia is underbuilt in the categories that produce its most durab…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Monetary policy in a world of overlapping shocks** — Score 10, observation — [Quelle](https://www.bis.org/speeches/20261007-monetary-policy-world-overlapping-shocks)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-07T00:00:00+00:00`, fetched `2026-10-07T12:47:39+00:00`
+  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Speech by Ms Isabel Schnabel, Member of the Executive Board of the European Central Bank, at the 8th Capital Markets Seminar, co-hosted by the European Commission, European Investment Bank and the European Stability Mechanism, Luxembourg, 30 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0qs)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-07T10:40:45.040+00:00`, fetched `2026-10-07T10:48:59+00:00`
@@ -177,14 +195,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-07 04:39:26 UTC 2026-10-07 04:39:26 UTC at epicenter Location 55.674°S 30.029°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Preserving financial stability in an evolving world** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261006-preserving-financial-stability-evolving-world)
+- **The US economy and monetary policy** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261007-us-economy-and-monetary-policy)
   - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-07T00:00:00+00:00`, fetched `2026-10-07T07:32:03+00:00`
+  - Zeit: published `2026-10-07T00:00:00+00:00`, fetched `2026-10-07T12:47:39+00:00`
   - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
-  - Kurz: Special address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at the Fifth Kautilya Economic Conclave, Mumbai, 3 October 2026.
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the Darden School of Business, University of Virginia, Charlottesville, Virginia, 1 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ** — Score 8, observation — [Quelle](https://joisino.hatenablog.com/entry/filler)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -204,15 +222,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The Czech koruna 50 years after the beginning of the post-Bretton Woods system and the Czech National Bank 100 years after the establishment of the National Bank of Czechoslovakia** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261007-czech-koruna-50-years-after-beginning-post-bretton-woods-system-and-czech-national-bank-100-years-after-establishment)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-07T00:00:00+00:00`, fetched `2026-10-07T12:17:16+00:00`
-  - Treffer: banking, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0)
-  - Kurz: Opening remarks by Mr Jan Frait, Deputy Governor of the Czech National Bank, at the “New challenges in central banking” conference marking the 100th anniversary of the Czech National Bank, Prague, 6 October 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **事業者のデジタル化等に係る関係省庁等連絡会議（第12回）の資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/private-business-dx/86bd4f54-9356-4451-adfc-cf578720ed5c)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-07T06:00:00+00:00`, fetched `2026-10-07T06:37:08+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 事業者のデジタル化等に係る関係省庁等連絡会議（第12回）の資料等を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-07T00:57:35+00:00`, fetched `2026-10-07T01:02:54+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
