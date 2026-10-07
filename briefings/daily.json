@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-10-07T07:32:34+00:00",
-  "today_file_total": 25,
+  "generated_at": "2026-10-07T08:02:03+00:00",
+  "today_file_total": 26,
   "current_clusters": [
+    {
+      "key": "domain:cert.europa.eu",
+      "title": "2026-015: Critical Vulnerability in Multiple Atlassian Products",
+      "sources": [
+        "CERT-EU Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://cert.europa.eu/publications/security-advisories/2026-015/"
+      ],
+      "finding_count": 1,
+      "max_score": 23,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 28.1,
+      "hot": true,
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
     {
       "key": "title:southeast-asian-tech-leaders-are-learning-trust-agents",
       "title": "Southeast Asian tech leaders are learning to trust AI agents, but not with production",
@@ -76,29 +101,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45",
-      "sources": [
-        "ECB Open Market Operations and Communication"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260089.en.html"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 17.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:movable-type",
       "title": "Movable Typeにおける複数の脆弱性",
       "sources": [
@@ -120,6 +122,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45",
+      "sources": [
+        "ECB Open Market Operations and Communication"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260089.en.html"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:southeast-asia-foodtech-winners-are-least-glamorous-ones",
@@ -144,29 +169,6 @@
       "watchgraph_modules": [
         "agriculture_food_fertilizer"
       ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "Preserving financial stability in an evolving world",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20261006-preserving-financial-stability-evolving-world"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
@@ -289,6 +291,29 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "Preserving financial stability in an evolving world",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20261006-preserving-financial-stability-evolving-world"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:could-turn-concierge-medicine-future-interface-healthcare",
@@ -447,29 +472,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 8.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:qilin-tbs-news-dig",
-      "title": "【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://newsdig.tbs.co.jp/articles/-/2995228"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

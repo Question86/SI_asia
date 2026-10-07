@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-07T07:32:32+00:00_
+_Generated: 2026-10-07T08:02:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `26`
 
 ## Top Signals
 
-### 1. Southeast Asian tech leaders are learning to trust AI agents, but not with production
+### 1. 2026-015: Critical Vulnerability in Multiple Atlassian Products
+- source: CERT-EU Security Advisories
+- score: `23`
+- published: `2026-10-07T09:52:48+00:00`
+- url: https://cert.europa.eu/publications/security-advisories/2026-015/
+- summary: On 5 October 2026, Atlassian published a security advisory addressing a critical arbitrary file access vulnerability. It affects Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center,…
+
+### 2. Southeast Asian tech leaders are learning to trust AI agents, but not with production
 - source: e27 Asia Startup and Tech Feed
 - score: `23`
 - published: `2026-10-07T04:30:07+00:00`
 - url: https://e27.co/southeast-asian-tech-leaders-are-learning-to-trust-ai-agents-but-not-with-production-20261007/
 - summary: AI coding agents have moved quickly from novelty to daily tool inside Southeast Asian engineering teams. Across Singapore, Bangkok, Jakarta and Ho Chi Minh City, developers are no longer just asking AI to complete a line of code or explain an error message. T…
 
-### 2. CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）
+### 3. CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-10-07T09:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU94062711/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. Granite Asia, Google AI Futures Fund team up to back Asia’s AI founders
+### 4. Granite Asia, Google AI Futures Fund team up to back Asia’s AI founders
 - source: e27 Asia Startup and Tech Feed
 - score: `15`
 - published: `2026-10-07T03:28:35+00:00`
 - url: https://e27.co/granite-asia-google-ai-futures-fund-team-up-to-back-asias-ai-founders-20261007/
 - summary: Asia’s AI founders are increasingly facing a split-screen reality. Investor interest is high, but building at the frontier of artificial intelligence still requires more than a seed cheque. Startups need access to large models, cloud infrastructure, technical…
-
-### 4. Movable Typeにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-07T14:00:00+09:00`
-- url: https://jvn.jp/jp/JVN91153973/
-- summary: シックス・アパート株式会社が提供するMovable Typeには複数の脆弱性が存在します。
 
 ### 5. Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication

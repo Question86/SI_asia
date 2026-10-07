@@ -1,8 +1,75 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-07T07:32:32+00:00",
+  "generated_at": "2026-10-07T08:02:00+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "2026-015: Critical Vulnerability in Multiple Atlassian Products",
+        "source": "CERT-EU Security Advisories",
+        "published_at": "2026-10-07T09:52:48+00:00",
+        "relevance_score": 23,
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-015/"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-07T09:00:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU94062711/"
+      },
+      {
+        "title": "Movable Typeにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-07T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN91153973/"
+      },
+      {
+        "title": "Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-07T06:50:00.000+00:00",
+        "relevance_score": 11,
+        "url": "https://www.heise.de/news/Jetzt-aktualisieren-Atlassian-warnt-vor-kritischer-Data-Center-Luecke-11478707.html"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "2026-015: Critical Vulnerability in Multiple Atlassian Products",
+        "source": "CERT-EU Security Advisories",
+        "published_at": "2026-10-07T09:52:48+00:00",
+        "relevance_score": 23,
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-015/"
+      },
+      {
+        "title": "Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-10-07T08:15:18+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260089.en.html"
+      },
+      {
+        "title": "Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-07T06:50:00.000+00:00",
+        "relevance_score": 11,
+        "url": "https://www.heise.de/news/Jetzt-aktualisieren-Atlassian-warnt-vor-kritischer-Data-Center-Luecke-11478707.html"
+      },
+      {
+        "title": "The new engineering bottleneck isn’t writing code, it’s trusting it",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-07T04:00:42+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/the-new-engineering-bottleneck-isnt-writing-code-its-trusting-it-20261004/"
+      },
+      {
+        "title": "Europe’s trade truce with America has not restored trust in American business",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-07T03:00:06+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/europes-trade-truce-with-america-has-not-restored-trust-in-american-business-20261004/"
+      }
+    ],
     "ai": [
       {
         "title": "Southeast Asian tech leaders are learning to trust AI agents, but not with production",
@@ -126,59 +193,6 @@
         "published_at": "2026-10-07T00:00:00+00:00",
         "relevance_score": 9,
         "url": "https://www.bis.org/speeches/20261006-preserving-financial-stability-evolving-world"
-      }
-    ],
-    "security": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-07T09:00:00+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU94062711/"
-      },
-      {
-        "title": "Movable Typeにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-07T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN91153973/"
-      },
-      {
-        "title": "Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-07T06:50:00.000+00:00",
-        "relevance_score": 11,
-        "url": "https://www.heise.de/news/Jetzt-aktualisieren-Atlassian-warnt-vor-kritischer-Data-Center-Luecke-11478707.html"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Announcing 20260089 (OT,liquidity providing), for 7 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-10-07T08:15:18+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260089.en.html"
-      },
-      {
-        "title": "Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-07T06:50:00.000+00:00",
-        "relevance_score": 11,
-        "url": "https://www.heise.de/news/Jetzt-aktualisieren-Atlassian-warnt-vor-kritischer-Data-Center-Luecke-11478707.html"
-      },
-      {
-        "title": "The new engineering bottleneck isn’t writing code, it’s trusting it",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-07T04:00:42+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/the-new-engineering-bottleneck-isnt-writing-code-its-trusting-it-20261004/"
-      },
-      {
-        "title": "Europe’s trade truce with America has not restored trust in American business",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-07T03:00:06+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/europes-trade-truce-with-america-has-not-restored-trust-in-american-business-20261004/"
       }
     ],
     "general": [
