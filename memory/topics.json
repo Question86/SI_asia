@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-07T10:36:40+00:00",
+  "generated_at": "2026-10-07T10:49:28+00:00",
   "topics": {
     "security": [
       {
@@ -26,25 +26,53 @@
         "url": "https://jvn.jp/jp/JVN91153973/"
       },
       {
+        "title": "[NEU] [mittel] Devolutions Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:46:46+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3763"
+      },
+      {
+        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:46:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3761"
+      },
+      {
+        "title": "[NEU] [hoch] Aruba ClearPass Policy Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:46:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3762"
+      },
+      {
+        "title": "[NEU] [mittel] NetBox: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:41:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3759"
+      },
+      {
+        "title": "[NEU] [hoch] Aruba ArubaOS Switch: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:41:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3760"
+      },
+      {
+        "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:36:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3758"
+      },
+      {
         "title": "[NEU] [hoch] SonicWall SMA1000: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-07T10:31:46+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3757"
-      },
-      {
-        "title": "相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-07T06:59:02+00:00",
-        "relevance_score": 11,
-        "url": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html"
-      },
-      {
-        "title": "Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-07T06:50:00.000+00:00",
-        "relevance_score": 11,
-        "url": "https://www.heise.de/news/Jetzt-aktualisieren-Atlassian-warnt-vor-kritischer-Data-Center-Luecke-11478707.html"
       }
     ],
     "geopolitics": [
@@ -54,6 +82,48 @@
         "published_at": "2026-10-07T09:52:48+00:00",
         "relevance_score": 23,
         "url": "https://cert.europa.eu/publications/security-advisories/2026-015/"
+      },
+      {
+        "title": "[NEU] [mittel] Devolutions Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:46:46+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3763"
+      },
+      {
+        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:46:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3761"
+      },
+      {
+        "title": "[NEU] [hoch] Aruba ClearPass Policy Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:46:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3762"
+      },
+      {
+        "title": "[NEU] [mittel] NetBox: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:41:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3759"
+      },
+      {
+        "title": "[NEU] [hoch] Aruba ArubaOS Switch: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:41:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3760"
+      },
+      {
+        "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-07T10:36:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3758"
       },
       {
         "title": "[NEU] [hoch] SonicWall SMA1000: Mehrere Schwachstellen",
@@ -75,34 +145,6 @@
         "published_at": "2026-10-07T06:50:00.000+00:00",
         "relevance_score": 11,
         "url": "https://www.heise.de/news/Jetzt-aktualisieren-Atlassian-warnt-vor-kritischer-Data-Center-Luecke-11478707.html"
-      },
-      {
-        "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-10-07T08:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html"
-      },
-      {
-        "title": "The new engineering bottleneck isn’t writing code, it’s trusting it",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-07T04:00:42+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/the-new-engineering-bottleneck-isnt-writing-code-its-trusting-it-20261004/"
-      },
-      {
-        "title": "Europe’s trade truce with America has not restored trust in American business",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-07T03:00:06+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/europes-trade-truce-with-america-has-not-restored-trust-in-american-business-20261004/"
-      },
-      {
-        "title": "Conflict in the Red Sea is forcing cloud giants to find a new route for the internet",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-10-07T10:00:41+00:00",
-        "relevance_score": 3,
-        "url": "https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       }
     ],
     "ai": [
@@ -253,6 +295,13 @@
         "url": "https://e27.co/southeast-asias-foodtech-winners-are-the-least-glamorous-ones-20261007/"
       },
       {
+        "title": "M 4.5 - south of the Fiji Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-07T10:40:45.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0qs"
+      },
+      {
         "title": "M 4.9 - 80 km SW of El Arenal, Mexico",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-07T08:02:16.040+00:00",
@@ -307,13 +356,6 @@
         "published_at": "2026-10-07T03:23:49+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002055/"
-      },
-      {
-        "title": "【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-06T21:30:06+00:00",
-        "relevance_score": 5,
-        "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html"
       }
     ]
   }
