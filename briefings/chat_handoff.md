@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-07T09:03:30+00:00_
+_Generated: 2026-10-07T09:29:40+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `30`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-07T09:03:30+00:00_
 - url: https://e27.co/southeast-asias-foodtech-winners-are-the-least-glamorous-ones-20261007/
 - summary: Southeast Asia’s foodtech story was supposed to be about disruption: lab-grown shrimp on every plate, groceries at your door in 15 minutes, ghost kitchens replacing the corner restaurant. The reality has been humbler, and arguably more interesting. The 2022 c…
 
-### 7. Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke
+### 7. 相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-07T06:59:02+00:00`
+- url: https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html
+- summary: 1.記事概要 国内の法人・企業が運営するWEBシステムからの情報漏洩が相次いでいます。後述の通り過去のサイバー攻撃と異なる点が多いため、セキュリティ専門家間でも事件に関する解釈が一部揺らいでいます。また、被害公表においても「不正アクセス」「個人情報◯◯件漏洩」といった概要の説明はあっても、他組織が自社シ...
+
+### 8. Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke
 - source: heise Security Alerts
 - score: `11`
 - published: `2026-10-07T06:50:00.000+00:00`
 - url: https://www.heise.de/news/Jetzt-aktualisieren-Atlassian-warnt-vor-kritischer-Data-Center-Luecke-11478707.html
 - summary: Ein kritisches Leck in Atlassians Data-Center-Produkten ermöglicht unbefugten Dateizugriff ohne Anmeldung. Updates stehen bereit.
-
-### 8. When the carer has dementia too: Japan turns to physical AI to rescue eldercare
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-10-07T05:30:38+00:00`
-- url: https://e27.co/when-the-carer-has-dementia-too-japan-turns-to-physical-ai-to-rescue-eldercare-20261007/
-- summary: Some Japanese words resist translation. Take rōrō kaigo (老老介護). The character rō means “elderly”, and repeating it describes an elderly person caring for another elderly person, such as an 80-year-old husband looking after his equally frail wife on his own. T…
 
 END OF DOCUMENT

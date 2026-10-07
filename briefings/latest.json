@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T09:03:30+00:00",
-  "run_id": "2026-10-07T09:03:30+00:00",
+  "generated_at": "2026-10-07T09:29:40+00:00",
+  "run_id": "2026-10-07T09:29:40+00:00",
   "date": "2026-10-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 30
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 1,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
     "medium": 5,
-    "observe": 24,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -260,6 +260,28 @@
           "soy"
         ],
         "id": "3547391cb61a47342b65"
+      },
+      {
+        "title": "相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ",
+        "url": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-07T06:59:02+00:00",
+        "fetched_at": "2026-10-07T09:29:06+00:00",
+        "summary": "1.記事概要 国内の法人・企業が運営するWEBシステムからの情報漏洩が相次いでいます。後述の通り過去のサイバー攻撃と異なる点が多いため、セキュリティ専門家間でも事件に関する解釈が一部揺らいでいます。また、被害公表においても「不正アクセス」「個人情報◯◯件漏洩」といった概要の説明はあっても、他組織が自社シ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Security"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ce6bde2773cdf4b6e0cb"
       },
       {
         "title": "Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke",
@@ -1019,6 +1041,28 @@
       "id": "3547391cb61a47342b65"
     },
     {
+      "title": "相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ",
+      "url": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-07T06:59:02+00:00",
+      "fetched_at": "2026-10-07T09:29:06+00:00",
+      "summary": "1.記事概要 国内の法人・企業が運営するWEBシステムからの情報漏洩が相次いでいます。後述の通り過去のサイバー攻撃と異なる点が多いため、セキュリティ専門家間でも事件に関する解釈が一部揺らいでいます。また、被害公表においても「不正アクセス」「個人情報◯◯件漏洩」といった概要の説明はあっても、他組織が自社シ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ce6bde2773cdf4b6e0cb"
+    },
+    {
       "title": "Jetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke",
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-Atlassian-warnt-vor-kritischer-Data-Center-Luecke-11478707.html",
       "source": "heise Security Alerts",
@@ -1543,7 +1587,30 @@
       "id": "2cf46f7a644f49b32ba7"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ",
+      "url": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-07T06:59:02+00:00",
+      "fetched_at": "2026-10-07T09:29:06+00:00",
+      "summary": "1.記事概要 国内の法人・企業が運営するWEBシステムからの情報漏洩が相次いでいます。後述の通り過去のサイバー攻撃と異なる点が多いため、セキュリティ専門家間でも事件に関する解釈が一部揺らいでいます。また、被害公表においても「不正アクセス」「個人情報◯◯件漏洩」といった概要の説明はあっても、他組織が自社シ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ce6bde2773cdf4b6e0cb"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
