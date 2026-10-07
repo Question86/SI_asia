@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T23:08:12+00:00_
+_Generiert: 2026-10-07T23:23:47+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
+87 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,14 +29,14 @@ _Generiert: 2026-10-07T23:08:12+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-30`
   - Kurz: Known exploited vulnerability. Added 2026-09-30. Due 2026-10-03. Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability
-- **GDACS: Green flood alert in Mexico** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104191)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Mexico
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Thailand
+- **GDACS: Green flood alert in Mexico** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104191)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Mexico
 - **GDACS: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.056 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001335)
   - Quelle: GDACS
   - Zeit: ``

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T23:08:12+00:00",
-  "run_id": "2026-10-07T23:08:12+00:00",
+  "generated_at": "2026-10-07T23:23:47+00:00",
+  "run_id": "2026-10-07T23:23:47+00:00",
   "date": "2026-10-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 86
+      "configured_public_sources_only": 87
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 86,
-    "displayed_findings": 86,
+    "today_file_total": 87,
+    "displayed_findings": 87,
     "high": 0,
     "medium": 22,
-    "observe": 64,
+    "observe": 65,
     "source_errors": 0
   },
   "sections": {
@@ -1847,6 +1847,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "02cfd37ffd9ec31f3dff"
+      },
+      {
+        "title": "IDCFクラウドへのランサムウェア攻撃についてまとめてみた - piyolog",
+        "url": "https://piyolog.hatenadiary.jp/entry/2026/10/08/070606",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-07T22:19:57+00:00",
+        "fetched_at": "2026-10-07T23:23:08+00:00",
+        "summary": "2026年10月7日、IDCフロンティアは、同社が提供するクラウドサービス「IDCFクラウド」の一部のシステムが第三者からのランサムウェア攻撃を受け、障害が発生していると公表しました。ここでは関連する情報をまとめます。 東日本リージョン1への攻撃 IDCフロンティアは10月7日13時52分の第1報で、「IDCFクラウド」の一部...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "98e15d53399efe102d82"
       },
       {
         "title": "【速報】RTX Spark搭載Surfaceが正式発表、18コア/24GBモデルや20コア/128GBモデル",
@@ -3960,6 +3981,27 @@
       "id": "02cfd37ffd9ec31f3dff"
     },
     {
+      "title": "IDCFクラウドへのランサムウェア攻撃についてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/10/08/070606",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-07T22:19:57+00:00",
+      "fetched_at": "2026-10-07T23:23:08+00:00",
+      "summary": "2026年10月7日、IDCフロンティアは、同社が提供するクラウドサービス「IDCFクラウド」の一部のシステムが第三者からのランサムウェア攻撃を受け、障害が発生していると公表しました。ここでは関連する情報をまとめます。 東日本リージョン1への攻撃 IDCフロンティアは10月7日13時52分の第1報で、「IDCFクラウド」の一部...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "98e15d53399efe102d82"
+    },
+    {
       "title": "【速報】RTX Spark搭載Surfaceが正式発表、18コア/24GBモデルや20コア/128GBモデル",
       "url": "https://pc.watch.impress.co.jp/docs/news/2146579.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4253,13 +4295,13 @@
   ],
   "new_findings": [
     {
-      "title": "【速報】RTX Spark搭載Surfaceが正式発表、18コア/24GBモデルや20コア/128GBモデル",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2146579.html",
+      "title": "IDCFクラウドへのランサムウェア攻撃についてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/10/08/070606",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-07T18:17:08+00:00",
-      "fetched_at": "2026-10-07T23:07:45+00:00",
-      "summary": "【速報】RTX Spark搭載Surfaceが正式発表、18コア/24GBモデルや20コア/128GBモデル",
+      "published_at": "2026-10-07T22:19:57+00:00",
+      "fetched_at": "2026-10-07T23:23:08+00:00",
+      "summary": "2026年10月7日、IDCフロンティアは、同社が提供するクラウドサービス「IDCFクラウド」の一部のシステムが第三者からのランサムウェア攻撃を受け、障害が発生していると公表しました。ここでは関連する情報をまとめます。 東日本リージョン1への攻撃 IDCフロンティアは10月7日13時52分の第1報で、「IDCFクラウド」の一部...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -4271,7 +4313,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cf467b7a1a2bcd1af347"
+      "id": "98e15d53399efe102d82"
     }
   ],
   "source_errors": [],

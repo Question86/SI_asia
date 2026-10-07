@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-07T23:08:15+00:00",
+  "generated_at": "2026-10-07T23:23:50+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 86,
-    "clusters": 57,
+    "findings": 87,
+    "clusters": 58,
     "cross_source_confrmed": 1,
     "hot": 0,
     "early_signals": 0,
@@ -702,20 +702,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.06,
+      "network_score": 12.0,
       "hot": false,
       "watchgraph_modules": [
         "capitals_power_centers"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 39.3,
-      "ranking_score": 12.06,
+      "ranking_score": 12.0,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.06,
+      "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1107,8 +1107,8 @@
       "first_seen_at": "2026-09-24T13:34:21+00:00"
     },
     {
-      "key": "title:rtx-spark-surface-24gb-128gb",
-      "title": "【速報】RTX Spark搭載Surfaceが正式発表、18コア/24GBモデルや20コア/128GBモデル",
+      "key": "title:idcf-piyolog",
+      "title": "IDCFクラウドへのランサムウェア攻撃についてまとめてみた - piyolog",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -1116,7 +1116,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://pc.watch.impress.co.jp/docs/news/2146579.html"
+        "https://piyolog.hatenadiary.jp/entry/2026/10/08/070606"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -1142,7 +1142,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-10-07T23:08:15+00:00"
+      "first_seen_at": "2026-10-07T23:23:50+00:00"
     },
     {
       "key": "title:engineering-bottleneck-isn-writing-code-trusting",
@@ -1775,6 +1775,44 @@
       "first_seen_at": "2026-10-07T01:03:31+00:00"
     },
     {
+      "key": "title:rtx-spark-surface-24gb-128gb",
+      "title": "【速報】RTX Spark搭載Surfaceが正式発表、18コア/24GBモデルや20コア/128GBモデル",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://pc.watch.impress.co.jp/docs/news/2146579.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-07T23:08:15+00:00"
+    },
+    {
       "key": "domain:kyoko-np.net",
       "title": "伝書鳩に不正アクセス 野鳩侵入で情報漏えい２４０万件",
       "sources": [
@@ -2233,7 +2271,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-07T23:08:16Z",
+    "generated_at": "2026-10-07T23:23:50Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
