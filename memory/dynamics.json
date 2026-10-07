@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-07T02:38:09Z",
+  "generated_at": "2026-10-07T03:36:53Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 16,
+    "dynamics": 24,
     "bands": {
       "krass": 1,
       "strong": 1,
-      "watch": 5,
-      "quiet": 9
+      "watch": 10,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "strong": 2,
-      "watch": 5,
-      "quiet": 9
+      "watch": 10,
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T01:30:31+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/vu/JVNVU94062711/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-07T09:00:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://jvn.jp/vu/JVNVU94062711/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 110.03,
+      "age_days": 110.07,
       "topics": [
         "general"
       ],
@@ -91,8 +91,58 @@
       "why": [
         "momentum delta +3",
         "high terms: 10",
-        "aging penalty -8.0 for 110.0d old signal",
+        "aging penalty -8.0 for 110.1d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Granite Asia, Google AI Futures Fund team up to back Asia’s AI founders",
+      "url": "https://e27.co/granite-asia-google-ai-futures-fund-team-up-to-back-asias-ai-founders-20261007/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-07T03:29:23+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Why Southeast Asia is underbuilt in the categories that produce its most durable companies",
+      "url": "https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-07T01:03:31+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -101,7 +151,7 @@
       "url": "https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-07T01:00:55+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "macro"
       ],
@@ -122,34 +172,59 @@
       "summary": "Ask anyone to name Southeast Asia’s most successful startups and you will hear the same names. Grab. Sea. GoTo. Each is a consumer company. Each won by reaching enormous numbers of users, burning enormous amounts of capital, and surviving long enough to consolidate a market. This is the story the region tells about it…"
     },
     {
-      "title": "Why Southeast Asia is underbuilt in the categories that produce its most durable companies",
-      "url": "https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-07T01:03:31+00:00",
-      "age_days": 0.07,
+      "title": "M 4.8 - 132 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ns",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-07T03:14:09.040+00:00",
+      "age_days": 0.02,
       "topics": [
-        "general"
+        "disaster"
       ],
-      "dynamics_score": 16.5,
+      "dynamics_score": 17.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-07 02:49:59 UTC 2026-10-07 02:49:59 UTC at epicenter Location 20.979°S 169.001°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました",
+      "url": "https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-07T01:03:31+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
       ],
       "summary": ""
     },
     {
-      "title": "サイバー攻撃で企業・団体の情報漏えい被害最多、今年５００件超・すでに過去２年に並ぶ…ＡＩ使い弱点探索か",
-      "url": "https://www.yomiuri.co.jp/national/20261006-GYT1T00373/",
+      "title": "【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-07T00:03:52+00:00",
+      "published_at": "2026-10-07T01:03:31+00:00",
       "age_days": 0.11,
       "topics": [
         "general"
@@ -170,50 +245,100 @@
       "summary": ""
     },
     {
-      "title": "国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました",
-      "url": "https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-07T01:03:31+00:00",
-      "age_days": 0.07,
+      "title": "サイバー攻撃で企業・団体の情報漏えい被害最多、今年５００件超・すでに過去２年に並ぶ…ＡＩ使い弱点探索か",
+      "url": "https://www.yomiuri.co.jp/national/20261006-GYT1T00373/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-07T00:03:52+00:00",
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
-      "dynamics_score": 12.5,
+      "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3"
       ],
       "summary": ""
     },
     {
-      "title": "【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-07T01:03:31+00:00",
-      "age_days": 0.07,
+      "title": "M 4.8 - 132 km ENE of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ns",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-07T03:29:23+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.5,
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Granite Asia, Google AI Futures Fund team up to back Asia’s AI founders",
+      "url": "https://e27.co/granite-asia-google-ai-futures-fund-team-up-to-back-asias-ai-founders-20261007/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-07T03:28:35+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Asia’s AI founders are increasingly facing a split-screen reality. Investor interest is high, but building at the frontier of artificial intelligence still requires more than a seed cheque. Startups need access to large models, cloud infrastructure, technical feedback, distribution channels and patient capital, all wh…"
+    },
+    {
+      "title": "Europe’s trade truce with America has not restored trust in American business",
+      "url": "https://e27.co/europes-trade-truce-with-america-has-not-restored-trust-in-american-business-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-07T03:01:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -222,7 +347,7 @@
       "url": "https://www.yomiuri.co.jp/national/20261006-GYT1T00373/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T20:11:53+00:00",
-      "age_days": 0.27,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -246,7 +371,7 @@
       "url": "https://qiita.com/yama3133/items/071119dfea9ed24d0948",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T15:28:35+00:00",
-      "age_days": 0.46,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -266,11 +391,63 @@
       "summary": "はじめに 2026年に入って、国内外で大きな情報漏洩が続いています。特に6月から10月初旬には、タイムズカー(約660万アカウント)、焼肉きんぐ(約1,079万件)、アフラック生命(約440万人)、デンマークの住民登録簿(約880万人)などが公表されました。 この記事では、公表された事案を入口の手口で4つに分け、一次情報(各社・..."
     },
     {
+      "title": "AI could turn concierge medicine into the future interface to healthcare",
+      "url": "https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-07T01:43:55+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Update your IDE to restore agent activity in Copilot usage metrics",
+      "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-07T01:03:31+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "2026年の情報漏洩を手口で分類してみた - Qiita",
       "url": "https://qiita.com/yama3133/items/071119dfea9ed24d0948",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 110.03,
+      "age_days": 110.07,
       "topics": [
         "general"
       ],
@@ -286,7 +463,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 110.0d old signal"
+        "aging penalty -8.0 for 110.1d old signal"
       ],
       "summary": ""
     },
@@ -295,7 +472,7 @@
       "url": "https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-07T00:57:35+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -319,7 +496,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T21:30:06+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -339,63 +516,37 @@
       "summary": "【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選"
     },
     {
-      "title": "Update your IDE to restore agent activity in Copilot usage metrics",
-      "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-10-07T01:03:31+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AI could turn concierge medicine into the future interface to healthcare",
-      "url": "https://e27.co/ai-could-turn-concierge-medicine-into-the-future-interface-to-healthcare-20260916/",
+      "title": "Europe’s trade truce with America has not restored trust in American business",
+      "url": "https://e27.co/europes-trade-truce-with-america-has-not-restored-trust-in-american-business-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-07T01:43:55+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-10-07T03:00:06+00:00",
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 4.0,
+      "dynamics_score": 3.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "high terms: 10",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": ""
+      "summary": "For much of the past three decades, American companies operating overseas benefited from a powerful assumption: that despite periodic political turbulence at home, the United States (US) remained a predictable and broadly reliable commercial partner. That assumption has been badly tested. Yet the latest phase of the U…"
     },
     {
       "title": "Update your IDE to restore agent activity in Copilot usage metrics",
       "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-06T23:43:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -415,6 +566,58 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is rolling out… The post Update your IDE to restore agent activity in Copilot usage metrics appeared first on The GitHub Blog ."
+    },
+    {
+      "title": "AI破滅論と『終末ファシズム』、そしてアポカロプティミストとして生きること",
+      "url": "https://wirelesswire.jp/2026/10/94606/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-06T23:07:20+00:00",
+      "age_days": 0.19,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "『ザ・バンド かつて僕らは兄弟だった』や『ナワリヌイ』などのドキュメンタリー映画の監督として知られる新鋭ダニエル・ロアーが、AIをテーマとするドキュメンタリー映画を手がけたと知り、是非観たいと思っていたところ、『ジ・AIドック オア・ハウ・アイ・ビケイム・アン・アポカロプティミスト』という腹立たしいほ..."
+    },
+    {
+      "title": "AI破滅論と『終末ファシズム』、そしてアポカロプティミストとして生きること",
+      "url": "https://wirelesswire.jp/2026/10/94606/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-07T03:01:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 1.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AI could turn concierge medicine into the future interface to healthcare” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0."
