@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-07T00:03:49+00:00",
+  "generated_at": "2026-10-07T01:03:28+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 5,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 1,
-    "observe": 1
+    "observe": 6
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -25,13 +25,43 @@
       "section": "medium"
     },
     {
-      "title": "サイバー攻撃で企業・団体の情報漏えい被害最多、今年５００件超・すでに過去２年に並ぶ…ＡＩ使い弱点探索か",
+      "title": "Why Southeast Asia is underbuilt in the categories that produce its most durable companies",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-07T01:00:55+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/why-southeast-asia-is-underbuilt-in-the-categories-that-produce-its-most-durable-companies-20260916/",
+      "summary": "Ask anyone to name Southeast Asia’s most successful startups and you will hear the same names. Grab. Sea. GoTo. Each is a consumer company. Each won by reaching enormous numbers of users, burning enormous amounts of capital, and surviving long enough to conso…",
+      "section": "observe"
+    },
+    {
+      "title": "国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-07T00:57:35+00:00",
+      "relevance_score": 6,
+      "url": "https://www.digital.go.jp/councils/kyotsu/d28b2235-3290-4d80-8a08-c992fceda49d",
+      "summary": "国・地方デジタル共通基盤推進連絡協議会（第8回）の資料等を掲載しました",
+      "section": "observe"
+    },
+    {
+      "title": "Update your IDE to restore agent activity in Copilot usage metrics",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-06T23:43:00+00:00",
+      "relevance_score": 6,
+      "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+      "summary": "If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is rolling out… The post Update your IDE to restore agent activity in Copilot usage metrics appeared firs…",
+      "section": "observe"
+    },
+    {
+      "title": "【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-06T20:11:53+00:00",
+      "published_at": "2026-10-06T21:30:06+00:00",
       "relevance_score": 5,
-      "url": "https://www.yomiuri.co.jp/national/20261006-GYT1T00373/",
-      "summary": "【読売新聞】 国内企業・団体のシステムがサイバー攻撃を受けて利用者らの情報が漏えいする被害が、今年に入り５００件超に上り、すでに過去２年に並ぶ規模となっていることがわかった。広範囲の企業が標的となっており、専門家は、ＡＩ（人工知能）",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html",
+      "summary": "【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選",
       "section": "observe"
     }
   ],
@@ -40,116 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）",
-        "url": "https://jvn.jp/vu/JVNVU94062711/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-07T09:00:00+09:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月06日）",
-        "url": "https://jvn.jp/vu/JVNVU94062711/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 109.95,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.9,
-        "raw_band": "krass",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.9,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.90",
-          "high terms: 10",
-          "aging penalty -8.0 for 109.9d old signal",
-          "krass gate: single-source non-official/non-identity signal capped",
-          "stale single-source cap: max watch after 14d without fresh resonance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "サイバー攻撃で企業・団体の情報漏えい被害最多、今年５００件超・すでに過去２年に並ぶ…ＡＩ使い弱点探索か",
-        "url": "https://www.yomiuri.co.jp/national/20261006-GYT1T00373/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-07T00:03:52+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 11.5,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "サイバー攻撃で企業・団体の情報漏えい被害最多、今年５００件超・すでに過去２年に並ぶ…ＡＩ使い弱点探索か",
-        "url": "https://www.yomiuri.co.jp/national/20261006-GYT1T00373/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-06T20:11:53+00:00",
-        "age_days": 0.19,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 10.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10"
-        ],
-        "summary": "【読売新聞】 国内企業・団体のシステムがサイバー攻撃を受けて利用者らの情報が漏えいする被害が、今年に入り５００件超に上り、すでに過去２年に並ぶ規模となっていることがわかった。広範囲の企業が標的となっており、専門家は、ＡＩ（人工知能）"
-      }
-    ]
-  }
+  ]
 }
