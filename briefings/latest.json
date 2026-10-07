@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-07T11:20:51+00:00",
-  "run_id": "2026-10-07T11:20:51+00:00",
+  "generated_at": "2026-10-07T11:34:28+00:00",
+  "run_id": "2026-10-07T11:34:28+00:00",
   "date": "2026-10-07",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 44
+      "configured_public_sources_only": 45
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 44,
-    "displayed_findings": 44,
+    "new_relevant_findings": 1,
+    "today_file_total": 45,
+    "displayed_findings": 45,
     "high": 0,
     "medium": 15,
-    "observe": 29,
-    "source_errors": 1
+    "observe": 30,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1003,6 +1003,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e18f37a158a529a17a2b"
+      },
+      {
+        "title": "当社サービスの一部システムに対する不正アクセスについて | IDCフロンティア",
+        "url": "https://www.idcf.jp/news/topics/20261007001",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-07T05:02:16+00:00",
+        "fetched_at": "2026-10-07T11:33:58+00:00",
+        "summary": "2026年10月7日 このたび、当社クラウドサービス「IDCFクラウド」の一部のシステムに対する第三者からの不正アクセスにより、 サービスの一部に障害が発生しています。対象のお客さまには個別にご連絡させていただいています。 現在、障害解消に向けて調査対応を進めており、障害が発生していないその他の領域の安全性確...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6c4598cb5966ae6e8433"
       },
       {
         "title": "【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG",
@@ -2125,6 +2146,27 @@
       "id": "e18f37a158a529a17a2b"
     },
     {
+      "title": "当社サービスの一部システムに対する不正アクセスについて | IDCフロンティア",
+      "url": "https://www.idcf.jp/news/topics/20261007001",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-07T05:02:16+00:00",
+      "fetched_at": "2026-10-07T11:33:58+00:00",
+      "summary": "2026年10月7日 このたび、当社クラウドサービス「IDCFクラウド」の一部のシステムに対する第三者からの不正アクセスにより、 サービスの一部に障害が発生しています。対象のお客さまには個別にご連絡させていただいています。 現在、障害解消に向けて調査対応を進めており、障害が発生していないその他の領域の安全性確...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6c4598cb5966ae6e8433"
+    },
+    {
       "title": "【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG",
       "url": "https://newsdig.tbs.co.jp/articles/-/2995228",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2271,73 +2313,28 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.7 - 22 km WNW of Manado, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0qw",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-07T11:16:03.040+00:00",
-      "fetched_at": "2026-10-07T11:20:11+00:00",
-      "summary": "Time 2026-10-07 10:57:34 UTC 2026-10-07 10:57:34 UTC at epicenter Location 1.580°N 124.670°E Depth 139.83 km (86.89 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "63fbfc7fc096cb4030af"
-    },
-    {
-      "title": "最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
-      "url": "https://joisino.hatenablog.com/entry/filler",
+      "title": "当社サービスの一部システムに対する不正アクセスについて | IDCフロンティア",
+      "url": "https://www.idcf.jp/news/topics/20261007001",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-07T08:57:44+00:00",
-      "fetched_at": "2026-10-07T11:20:11+00:00",
-      "summary": "LLM の「思考」といえば思考の連鎖 (Chain of Thought; CoT) が有名ですが、思考の連鎖はいわば「喋りながら考えている」ことに相当します。これに対して、最近の LLM は「黙って」考えられるようになってきています。 鍵となるのはフィラートークン (filler tokens) です。これは「.」などの意味のないトークンのことで...",
+      "published_at": "2026-10-07T05:02:16+00:00",
+      "fetched_at": "2026-10-07T11:33:58+00:00",
+      "summary": "2026年10月7日 このたび、当社クラウドサービス「IDCFクラウド」の一部のシステムに対する第三者からの不正アクセスにより、 サービスの一部に障害が発生しています。対象のお客さまには個別にご連絡させていただいています。 現在、障害解消に向けて調査対応を進めており、障害が発生していないその他の領域の安全性確...",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3a04f9abeecd4aa65bba"
+      "id": "6c4598cb5966ae6e8433"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "twcert_security_news",
-      "source_name": "TWCERT/CC Security News RSS",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

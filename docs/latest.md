@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T11:20:51+00:00_
+_Generiert: 2026-10-07T11:34:28+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+45 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -241,7 +241,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
