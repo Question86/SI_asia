@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T16:01:21+00:00",
-  "run_id": "2026-10-07T16:01:21+00:00",
+  "generated_at": "2026-10-07T16:29:31+00:00",
+  "run_id": "2026-10-07T16:29:31+00:00",
   "date": "2026-10-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 70
+      "configured_public_sources_only": 71
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 70,
-    "displayed_findings": 70,
+    "new_relevant_findings": 1,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 0,
     "medium": 22,
-    "observe": 48,
+    "observe": 49,
     "source_errors": 0
   },
   "sections": {
@@ -690,6 +690,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3c3cbb3f3061adc5152d"
+      },
+      {
+        "title": "Helping teens learn, plan, and shape the future of AI",
+        "url": "https://openai.com/index/teens-learn-and-plan",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-07T12:00:00+00:00",
+        "fetched_at": "2026-10-07T16:29:01+00:00",
+        "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f624f370b90731f13844"
       },
       {
         "title": "相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ",
@@ -2436,6 +2457,27 @@
       "id": "3c3cbb3f3061adc5152d"
     },
     {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-07T12:00:00+00:00",
+      "fetched_at": "2026-10-07T16:29:01+00:00",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f624f370b90731f13844"
+    },
+    {
       "title": "相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ",
       "url": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3517,7 +3559,29 @@
       "id": "58fccdef7314ae1ef99a"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-07T12:00:00+00:00",
+      "fetched_at": "2026-10-07T16:29:01+00:00",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f624f370b90731f13844"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T16:01:21+00:00_
+_Generiert: 2026-10-07T16:29:31+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
+71 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -197,6 +197,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at "Navigating trust, AI and storytelling in a world of data", FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri, 1 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Helping teens learn, plan, and shape the future of AI** — Score 11, observation — [Quelle](https://openai.com/index/teens-learn-and-plan)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-07T12:00:00+00:00`, fetched `2026-10-07T16:29:01+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ** — Score 11, observation — [Quelle](https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-07T06:59:02+00:00`, fetched `2026-10-07T09:29:06+00:00`
@@ -295,15 +304,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: LLM の「思考」といえば思考の連鎖 (Chain of Thought; CoT) が有名ですが、思考の連鎖はいわば「喋りながら考えている」ことに相当します。これに対して、最近の LLM は「黙って」考えられるようになってきています。 鍵となるのはフィラートークン (filler tokens) です。これは「.」などの意味のないトークンのことで...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-07T08:00:00+00:00`, fetched `2026-10-07T08:33:32+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
