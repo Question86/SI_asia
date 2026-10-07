@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T21:00:09+00:00",
+  "generated_at": "2026-10-07T21:21:22+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -1508,6 +1508,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1b366742e973eb2c3ff2",
+      "title": "手動テストを渡すだけでE2Eが完成する仕組みを作りました - kickflow Tech Blog",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_1b4f723a0ec7cbdc7e9d",
@@ -4169,7 +4180,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4b46e3ad78f52ee8a36e",
