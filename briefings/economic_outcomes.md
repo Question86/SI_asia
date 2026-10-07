@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-10-06T23:46:42+00:00`
+Generated: `2026-10-07T00:04:10+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -14,7 +14,7 @@ Generated: `2026-10-06T23:46:42+00:00`
 | Secret scanning adds detectors for Lovable, Supabase, and more | $0 | — | 0 | 0 | dormant |
 | anthropics/financial-services | $0 | — | 0 | 0 | dormant |
 | Can Ethereum clear US$2,672 this week and unlock a run to US$3,000? | $0 | — | 0 | 0 | dormant |
-| Investors do not just fund startups. They fund predictability | $0 | — | 0 | 0 | active |
+| Investors do not just fund startups. They fund predictability | $0 | — | 0 | 0 | dormant |
 | ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました | $0 | — | 0 | 0 | dormant |
 | Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026) | $0 | — | 0 | 0 | dormant |
 | 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
