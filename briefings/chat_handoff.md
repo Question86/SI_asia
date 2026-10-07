@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-07T17:58:48+00:00_
+_Generated: 2026-10-07T18:28:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `74`
+- findings: `76`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-07T17:58:48+00:00_
 - url: https://www.bis.org/speeches/20261007-data-version-godzilla-versus-kong-fred-takes-ai
 - summary: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at "Navigating trust, AI and storytelling in a world of data", FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri, 1 October 2026.
 
-### 8. Helping teens learn, plan, and shape the future of AI
-- source: OpenAI News RSS
+### 8. Purpose-built model for leaked secret detection
+- source: GitHub Changelog Atom
 - score: `11`
-- published: `2026-10-07T12:00:00+00:00`
-- url: https://openai.com/index/teens-learn-and-plan
-- summary: College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.
+- published: `2026-10-07T16:13:56+00:00`
+- url: https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection
+- summary: Secret protection should keep pace with the way you build software, whether you write code yourself or work with an AI agent. With our new purpose-built model, we’re bringing context-aware… The post Purpose-built model for leaked secret detection appeared fir…
 
 END OF DOCUMENT

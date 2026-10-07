@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-07T17:58:48+00:00_
+_Generiert: 2026-10-07T18:28:00+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
+76 neue relevante Treffer. Stärkstes Signal: „2026-015: Critical Vulnerability in Multiple Atlassian Products“ aus CERT-EU Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -132,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at "Navigating trust, AI and storytelling in a world of data", FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri, 1 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Purpose-built model for leaked secret detection** — Score 11, risk — [Quelle](https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-07T16:13:56+00:00`, fetched `2026-10-07T18:27:30+00:00`
+  - Treffer: AI Agents, AI/KI, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: Secret protection should keep pace with the way you build software, whether you write code yourself or work with an AI agent. With our new purpose-built model, we’re bringing context-aware… The post Purpose-built model for leaked secret detection appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Helping teens learn, plan, and shape the future of AI** — Score 11, observation — [Quelle](https://openai.com/index/teens-learn-and-plan)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-10-07T12:00:00+00:00`, fetched `2026-10-07T16:29:01+00:00`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the Darden School of Business, University of Virginia, Charlottesville, Virginia, 1 October 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Secret protection must scale with software** — Score 8, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-10-07T17:45:34+00:00`, fetched `2026-10-07T17:49:25+00:00`
-  - Treffer: AI/KI, Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)
-  - Kurz: Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
