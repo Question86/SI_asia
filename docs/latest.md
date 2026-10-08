@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T09:42:27+00:00_
+_Generiert: 2026-10-08T09:57:01+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+40 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -195,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafting AppsのPhotoCraftで、PSDを作成し、レイヤーを作成し、日本語フォントを使用したものです。 Crafting Appsは、Photoshop, Illustrator, Premiere Pro,...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **SonicWall SMA1000: Lücke mit Höchstwertung öffnet interne Funktionen** — Score 7, observation — [Quelle](https://www.heise.de/news/SonicWall-SMA1000-Luecke-mit-Hoechstwertung-oeffnet-interne-Funktionen-11480426.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-08T09:41:00.000+00:00`, fetched `2026-10-08T09:56:31+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: SMA1000-Appliances von SonicWall sollen vor dem unbefugten Zugriff aufs Netz schützen. Eine kritische Lücke ermöglicht das aber.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Shifting ground – how geopolitics is reshaping growth, monetary policy and the role of gold as a reserve asset** — Score 7, opportunity — [Quelle](https://www.bis.org/speeches/20261007-shifting-ground-how-geopolitics-reshaping-growth-monetary-policy-and-role-gold-reserve-asset)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-10-08T00:00:00+00:00`, fetched `2026-10-08T09:24:50+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
   - Kurz: Speech by Mr Brian Langrin, Governor of the Bank of Jamaica, at the Monetary Policy Decision Press Briefing, Kingston, 29 September 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **直近で相次いでいる国内組織における不正アクセスに関する注意喚起** — Score 5, observation — [Quelle](https://www.jpcert.or.jp/at/2026/at260030.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-08T02:17:29+00:00`, fetched `2026-10-08T03:46:36+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: JPCERT-AT-2026-0030 JPCERT/CC 2026-10-08 I. 概要各被害公表や報道のとおり、直近2026年9月前後で国内組織における不正アクセスによる個人情報等の漏えい被害が相次いでいます。 複数の製品やサービスで被害が発生している中、技術的な情報の共有が不足しており、把握している情報は限定的かつ断片的であるものの、攻...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

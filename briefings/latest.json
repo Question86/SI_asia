@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T09:42:27+00:00",
-  "run_id": "2026-10-08T09:42:27+00:00",
+  "generated_at": "2026-10-08T09:57:01+00:00",
+  "run_id": "2026-10-08T09:57:01+00:00",
   "date": "2026-10-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 39
+      "configured_public_sources_only": 40
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 1,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
     "medium": 12,
-    "observe": 27,
+    "observe": 28,
     "source_errors": 0
   },
   "sections": {
@@ -767,6 +767,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "83fb375038be442c4724"
+      },
+      {
+        "title": "SonicWall SMA1000: Lücke mit Höchstwertung öffnet interne Funktionen",
+        "url": "https://www.heise.de/news/SonicWall-SMA1000-Luecke-mit-Hoechstwertung-oeffnet-interne-Funktionen-11480426.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-10-08T09:41:00.000+00:00",
+        "fetched_at": "2026-10-08T09:56:31+00:00",
+        "summary": "SMA1000-Appliances von SonicWall sollen vor dem unbefugten Zugriff aufs Netz schützen. Eine kritische Lücke ermöglicht das aber.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "228f0fe818e096edbc4a"
       },
       {
         "title": "Shifting ground – how geopolitics is reshaping growth, monetary policy and the role of gold as a reserve asset",
@@ -1814,6 +1834,26 @@
       "id": "83fb375038be442c4724"
     },
     {
+      "title": "SonicWall SMA1000: Lücke mit Höchstwertung öffnet interne Funktionen",
+      "url": "https://www.heise.de/news/SonicWall-SMA1000-Luecke-mit-Hoechstwertung-oeffnet-interne-Funktionen-11480426.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-08T09:41:00.000+00:00",
+      "fetched_at": "2026-10-08T09:56:31+00:00",
+      "summary": "SMA1000-Appliances von SonicWall sollen vor dem unbefugten Zugriff aufs Netz schützen. Eine kritische Lücke ermöglicht das aber.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "228f0fe818e096edbc4a"
+    },
+    {
       "title": "Shifting ground – how geopolitics is reshaping growth, monetary policy and the role of gold as a reserve asset",
       "url": "https://www.bis.org/speeches/20261007-shifting-ground-how-geopolitics-reshaping-growth-monetary-policy-and-role-gold-reserve-asset",
       "source": "BIS Central Bankers Speeches",
@@ -2121,64 +2161,24 @@
   ],
   "new_findings": [
     {
-      "title": "Sustainable finance and the shifting risk landscape",
-      "url": "https://www.bis.org/speeches/20261008-sustainable-finance-and-shifting-risk-landscape",
-      "source": "BIS Central Bankers Speeches",
+      "title": "SonicWall SMA1000: Lücke mit Höchstwertung öffnet interne Funktionen",
+      "url": "https://www.heise.de/news/SonicWall-SMA1000-Luecke-mit-Hoechstwertung-oeffnet-interne-Funktionen-11480426.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "fetched_at": "2026-10-08T09:41:55+00:00",
-      "summary": "Address by Ms Fundi Tshazibana, Deputy Governor of the South African Reserve Bank, at the Bloomberg Sustainable Finance Conversations, Bloomberg, Johannesburg, 30 September 2026.",
+      "published_at": "2026-10-08T09:41:00.000+00:00",
+      "fetched_at": "2026-10-08T09:56:31+00:00",
+      "summary": "SMA1000-Appliances von SonicWall sollen vor dem unbefugten Zugriff aufs Netz schützen. Eine kritische Lücke ermöglicht das aber.",
       "matched_keywords": [
-        "Macro/Policy"
+        "Security"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cd4cc93656048c49d224"
-    },
-    {
-      "title": "Turning opportunities into progress - innovation meets regulation",
-      "url": "https://www.bis.org/speeches/20261007-turning-opportunities-progress-innovation-meets-regulation",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "fetched_at": "2026-10-08T09:41:55+00:00",
-      "summary": "Address by Dr Jorgovanka Tabaković, Governor of the National Bank of Serbia, at the FIC &amp; EBRD Financial Services Conference “Turning opportunities into progress: innovation meets regulation”, Belgrade, 30 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "237cbca28bd7a1ca2706"
-    },
-    {
-      "title": "The European project, the role of rating agencies and the prospects of the Greek economy",
-      "url": "https://www.bis.org/speeches/20261007-european-project-role-rating-agencies-and-prospects-greek-economy",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "fetched_at": "2026-10-08T09:41:55+00:00",
-      "summary": "Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the Annual Reunion of the Scope Ratings \"The European project, the role of rating agencies and the prospects of the Greek economy\", Athens, 24 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0eede9e4eaea4f07ca0f"
+      "id": "228f0fe818e096edbc4a"
     }
   ],
   "source_errors": [],
