@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T02:58:25+00:00_
+_Generiert: 2026-10-08T03:25:40+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+8 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -82,6 +82,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Supply Chain Security (+8.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Over the past year, the question I hear from operators shipping into three or four ASEAN markets has quietly changed. It used to be about the tariff. Now it is about the paperwork. Which certificate does this lane need? Who in our supply chain can prove where this component was made? Why does the same […] The post ASEAN just upgraded its trade rulebook. Most operators will scale on the old one appeared first on e27 .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.7 - 101 km NE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0vw)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-08T03:17:55.040+00:00`, fetched `2026-10-08T03:25:11+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-08 03:00:01 UTC 2026-10-08 03:00:01 UTC at epicenter Location 7.899°S 121.044°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Southeast Asia’s biggest tech IPO of the year is a landlord** — Score 14, observation — [Quelle](https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-08T01:00:31+00:00`, fetched `2026-10-08T01:01:09+00:00`
@@ -94,6 +103,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Southeast Asia is digitising health records. Making them portable is the harder problem** — Score 12, observation — [Quelle](https://e27.co/southeast-asia-is-digitising-health-records-making-them-portable-is-the-harder-problem-20261004/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-08T03:00:06+00:00`, fetched `2026-10-08T03:25:11+00:00`
+  - Treffer: APAC Trend Radar, Public Health, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: Healthcare digitisation usually becomes visible through the applications people interact with: patient portals, telehealth platforms, digital prescriptions and, increasingly, digital health wallets. But the interface is rarely the difficult part. In March 2026, the World Health Organisation (WHO), the Alliance for Health Policy and Systems Research and Temasek Foundation launched a three-year initiative to help […]…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SEA’s insurers face a new question: what happens when customers have agents?** — Score 12, observation — [Quelle](https://e27.co/seas-insurers-face-a-new-question-what-happens-when-customers-have-agents-20261007/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-08T02:00:37+00:00`, fetched `2026-10-08T02:06:53+00:00`
