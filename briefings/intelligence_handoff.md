@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-08T08:32:18Z_
+_Generated: 2026-10-08T09:45:44Z_
 
 ## Lageurteil
 
@@ -12,17 +12,27 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] VMware Fusion und Workst
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-10-08T07:51:46+00:00` / age_days `0.03`
+- Published: `2026-10-08T07:51:46+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3169
 
+### M 5.5 - 17 km SW of Burias, Philippines
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.5`
+- Published: `2026-10-08T08:38:35+00:00` / age_days `0.05`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4
+
 ### Southeast Asia’s biggest tech IPO of the year is a landlord
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-08T01:00:31+00:00` / age_days `0.31`
+- Published: `2026-10-08T01:00:31+00:00` / age_days `0.36`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: active, rce, 10, security high-signal: active, rce, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] VMware Fusion und Workst
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-08T05:51:45+00:00` / age_days `0.11`
+- Published: `2026-10-08T05:51:45+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] VMware Fusion und Workst
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-08T06:57:00.000+00:00` / age_days `0.07`
+- Published: `2026-10-08T06:57:00.000+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, kritisch, security high-signal: angriffe, kritisch, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] VMware Fusion und Workst
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-08T05:39:43+00:00` / age_days `0.12`
+- Published: `2026-10-08T05:39:43+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] VMware Fusion und Workst
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-08T05:30:39+00:00` / age_days `0.13`
+- Published: `2026-10-08T05:30:39+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -72,57 +82,47 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] VMware Fusion und Workst
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-08T02:07:23+00:00` / age_days `0.27`
+- Published: `2026-10-08T02:07:23+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://e27.co/asean-just-upgraded-its-trade-rulebook-most-operators-will-scale-on-the-old-one-20261004/
 
+### Where AI risks meet
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `111.8`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -8.0 for 111.8d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://www.bis.org/speeches/20261007-where-ai-risks-meet
+
 ### ASEAN just upgraded its trade rulebook. Most operators will scale on the old one
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-08T02:00:25+00:00` / age_days `0.27`
+- Published: `2026-10-08T02:00:25+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, high terms: rce, 10, security high-signal: rce, 10, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://e27.co/asean-just-upgraded-its-trade-rulebook-most-operators-will-scale-on-the-old-one-20261004/
 
-### morluto/rea
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-08T07:36:14+00:00` / age_days `0.04`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2, krass gate: single-source non-official/non-identity signal capped
-- Quelle: https://github.com/morluto/rea
-
 ### デジタル庁におけるデジタル人材確保・育成計画を更新しました
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-08T06:00:00+00:00` / age_days `0.11`
+- Published: `2026-10-08T06:00:00+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
 - Quelle: https://www.digital.go.jp/about/human-resource-plan
 
-### Southeast Asia’s biggest tech IPO of the year is a landlord
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-10-08T01:01:39+00:00` / age_days `0.31`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/
-
 ### Bitcoin’s US$83,000 test: Can institutional demand hold the line?
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-10-08T04:50:58+00:00` / age_days `0.15`
+- Published: `2026-10-08T04:50:58+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
