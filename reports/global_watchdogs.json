@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-10-08T17:19:32+00:00",
+  "generated_at": "2026-10-08T17:33:26+00:00",
   "sections": {
     "global_security": [
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-88779 Citrix NetScaler",
-        "summary": "Known exploited vulnerability. Added 2026-10-04. Due 2026-10-07. Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+        "title": "CISA KEV: CVE-2015-5477 ISC BIND",
+        "summary": "Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11.  ISC BIND Data Processing Errors Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-04",
+        "published_at": "2026-10-08",
         "metrics": {
-          "cve": "CVE-2026-88779"
+          "cve": "CVE-2015-5477"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-102490 Zammad GmbH Zammad",
-        "summary": "Known exploited vulnerability. Added 2026-10-02. Due 2026-10-05. Zammad GmbH Zammad Improper Privilege Management Vulnerability",
+        "title": "CISA KEV: CVE-2016-3081 Apache Struts",
+        "summary": "Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. Apache Struts Command Injection Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-02",
+        "published_at": "2026-10-08",
         "metrics": {
-          "cve": "CVE-2026-102490"
+          "cve": "CVE-2016-3081"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-102489 Zammad GmbH Zammad",
-        "summary": "Known exploited vulnerability. Added 2026-10-02. Due 2026-10-05. Zammad GmbH Zammad Session Fixation Vulnerability",
+        "title": "CISA KEV: CVE-2023-22894 Strapi Strapi",
+        "summary": "Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. Strapi Cleartext Storage of Sensitive Information Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-02",
+        "published_at": "2026-10-08",
         "metrics": {
-          "cve": "CVE-2026-102489"
+          "cve": "CVE-2023-22894"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-104286 Fortinet FortiMail",
-        "summary": "Known exploited vulnerability. Added 2026-10-01. Due 2026-10-04. Fortinet FortiMail Path Traversal Vulnerability",
+        "title": "CISA KEV: CVE-2021-3199 ONLYOFFICE Docs",
+        "summary": "Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ONLYOFFICE Docs Server Path Traversal Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-01",
+        "published_at": "2026-10-08",
         "metrics": {
-          "cve": "CVE-2026-104286"
+          "cve": "CVE-2021-3199"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-76504 Cisco Catalyst SD-WAN Manager",
-        "summary": "Known exploited vulnerability. Added 2026-09-30. Due 2026-10-03. Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability",
+        "title": "CISA KEV: CVE-2015-3306 ProFTPD ProFTPD",
+        "summary": "Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ProFTPD Improper Access Control Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-30",
+        "published_at": "2026-10-08",
         "metrics": {
-          "cve": "CVE-2026-76504"
+          "cve": "CVE-2015-3306"
         }
       },
       {

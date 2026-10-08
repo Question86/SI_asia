@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T17:19:28+00:00_
+_Generiert: 2026-10-08T17:33:22+00:00_
 
 ## Kurzlage
 
@@ -9,26 +9,26 @@ _Generiert: 2026-10-08T17:19:28+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **CISA KEV: CVE-2026-88779 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+- **CISA KEV: CVE-2015-5477 ISC BIND** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-10-04`
-  - Kurz: Known exploited vulnerability. Added 2026-10-04. Due 2026-10-07. Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability
-- **CISA KEV: CVE-2026-102490 Zammad GmbH Zammad** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-10-08`
+  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11.  ISC BIND Data Processing Errors Vulnerability
+- **CISA KEV: CVE-2016-3081 Apache Struts** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-10-02`
-  - Kurz: Known exploited vulnerability. Added 2026-10-02. Due 2026-10-05. Zammad GmbH Zammad Improper Privilege Management Vulnerability
-- **CISA KEV: CVE-2026-102489 Zammad GmbH Zammad** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-10-08`
+  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. Apache Struts Command Injection Vulnerability
+- **CISA KEV: CVE-2023-22894 Strapi Strapi** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-10-02`
-  - Kurz: Known exploited vulnerability. Added 2026-10-02. Due 2026-10-05. Zammad GmbH Zammad Session Fixation Vulnerability
-- **CISA KEV: CVE-2026-104286 Fortinet FortiMail** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-10-08`
+  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. Strapi Cleartext Storage of Sensitive Information Vulnerability
+- **CISA KEV: CVE-2021-3199 ONLYOFFICE Docs** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-10-01`
-  - Kurz: Known exploited vulnerability. Added 2026-10-01. Due 2026-10-04. Fortinet FortiMail Path Traversal Vulnerability
-- **CISA KEV: CVE-2026-76504 Cisco Catalyst SD-WAN Manager** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-10-08`
+  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ONLYOFFICE Docs Server Path Traversal Vulnerability
+- **CISA KEV: CVE-2015-3306 ProFTPD ProFTPD** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-09-30`
-  - Kurz: Known exploited vulnerability. Added 2026-09-30. Due 2026-10-03. Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability
+  - Zeit: `2026-10-08`
+  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ProFTPD Improper Access Control Vulnerability
 - **GDACS: Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570077)
   - Quelle: GDACS
   - Zeit: ``
