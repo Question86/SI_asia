@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T09:43:06+00:00",
+  "generated_at": "2026-10-08T09:57:35+00:00",
   "candidate_count": 1744,
   "candidates": [
     {
@@ -24797,22 +24797,23 @@
       "source_url": "https://www.bis.org/publications/202601-commentary-ibs-gli"
     },
     {
-      "candidate_id": "cand_3f3ddc32c13e0ac32b79",
-      "event_id": "evt_5a8609c38e0d544999d3",
-      "source_url": "https://www.bis.org/speeches/20261007-turning-opportunities-progress-innovation-meets-regulation",
-      "observed_at": "2026-10-08T09:42:55+00:00",
-      "currency": "EUR",
       "amount_native": 30800000000.0,
       "amount_usd": null,
-      "conversion_status": "pending_fx",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
       "attribution_probability": null,
-      "snippet": "osted a large group of institutional investors. We started the discussion roughly as follows: In August, Serbia's y-o-y inflation stood at 2.2%. Gross FX reserves reached a record EUR 30.8 bn at end-August, while net FX reserves were also at their record high. Global business conditions are challenging, uncertainty is high, and in Serbia you have: inflation within the",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.35,
-      "review_status": "pending"
+      "candidate_id": "cand_3f3ddc32c13e0ac32b79",
+      "component_confidence": 0.0,
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-08T09:42:55+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:bb585710505b",
+      "review_status": "pending",
+      "snippet": "osted a large group of institutional investors. We started the discussion roughly as follows: In August, Serbia's y-o-y inflation stood at 2.2%. Gross FX reserves reached a record EUR 30.8 bn at end-August, while net FX reserves were also at their record high. Global business conditions are challenging, uncertainty is high, and in Serbia you have: inflation within the",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261007-turning-opportunities-progress-innovation-meets-regulation"
     },
     {
       "amount_native": 30600000000.0,
