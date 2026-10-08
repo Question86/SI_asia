@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T10:12:14+00:00_
+_Generiert: 2026-10-08T10:32:26+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+43 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: Insurance has spent the past year experimenting with generative AI in the most obvious corners of the enterprise: summarising emails, extracting details from claims forms, drafting responses for call-centre agents, and speeding up document-heavy back-office work. Those are useful gains. But a new whitepaper by Google Cloud and CoverGo argues that they may also be […] The post SEA’s insurers face a new question: what…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Introductory statement - roundtable "Preparing for transformative AI"** — Score 12, observation — [Quelle](https://www.bis.org/speeches/20261008-introductory-statement-roundtable-preparing-transformative-ai)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-08T00:00:00+00:00`, fetched `2026-10-08T10:31:55+00:00`
+  - Treffer: AI/KI, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0)
+  - Kurz: Introductory statement by Dr Fritzi Köhler-Geib, Member of the Executive Board of the Deutsche Bundesbank, at the roundtable "Preparing for transformative AI", Brussels, 1 October 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Angriffe auf Atlassian-Data-Center-Lücke haben begonnen** — Score 11, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-08T06:57:00.000+00:00`, fetched `2026-10-08T07:06:34+00:00`
@@ -168,14 +177,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0)
   - Kurz: Welcome address by Ms Christine Lagarde, President of the European Central Bank and Chair of the European Systemic Risk Board, at the Tenth Annual Conference of the European Systemic Risk Board, Frankfurt am Main, 1 October 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 5.5 - west of Macquarie Island** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws)
+- **M 5.1 - 236 km E of Levuka, Fiji** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-08T07:02:59.040+00:00`, fetched `2026-10-08T07:06:34+00:00`
+  - Zeit: published `2026-10-08T10:21:28.040+00:00`, fetched `2026-10-08T10:31:55+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-08 06:46:47 UTC 2026-10-08 06:46:47 UTC at epicenter Location 52.548°S 140.212°E Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-10-08 10:07:28 UTC 2026-10-08 10:07:28 UTC at epicenter Location 18.015°S 178.455°W Depth 602.27 km (374.23 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Piero Cipollone: Interview with Corriere della Sera** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: デジタル庁におけるデジタル人材確保・育成計画を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Update and outlook for the Jamaican economy** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20261007-update-and-outlook-jamaican-economy)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-08T00:00:00+00:00`, fetched `2026-10-08T09:24:50+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
-  - Kurz: Speech by Mr Brian Langrin, Governor of the Bank of Jamaica, at the Monetary Policy Decision Press Briefing, Kingston, 29 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
