@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T23:02:30+00:00",
-  "run_id": "2026-10-08T23:02:30+00:00",
+  "generated_at": "2026-10-08T23:22:55+00:00",
+  "run_id": "2026-10-08T23:22:55+00:00",
   "date": "2026-10-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 80,
     "displayed_findings": 80,
     "high": 0,
@@ -4055,30 +4055,7 @@
       "id": "75e04212962661c67b82"
     }
   ],
-  "new_findings": [
-    {
-      "title": "情報漏えいの公表急増――いま増えているのは「攻撃」ではなく「発覚」 | SECURITY DRIVE",
-      "url": "https://securitydrive.jp/column/0023/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-08T06:38:37+00:00",
-      "fetched_at": "2026-10-08T23:01:58+00:00",
-      "summary": "情報漏えいの公表急増――いま増えているのは「攻撃」ではなく「発覚」 2026年9月、国内で不正アクセスや情報漏えいの公表が相次いだ。タイムズカーの約660万アカウント、セイコーマートのアプリ会員約57万アカウントをはじめ、わずか数日の間に大手・官公庁が次々と被害を明らかにした。なぜいまこの短期間で公表が爆増し...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Security"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e7f838c65dca4f4048d9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
