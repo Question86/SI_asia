@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-08T05:25:25+00:00_
+_Generated: 2026-10-08T05:39:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `17`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-08T05:25:25+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0vw
 - summary: Time 2026-10-08 03:00:01 UTC 2026-10-08 03:00:01 UTC at epicenter Location 7.899°S 121.044°E Depth 10.00 km (6.21 mi)
 
-### 4. Southeast Asia’s biggest tech IPO of the year is a landlord
+### 4. Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deployment gap
 - source: e27 Asia Startup and Tech Feed
 - score: `14`
-- published: `2026-10-08T01:00:31+00:00`
-- url: https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/
-- summary: For the better part of a decade, Southeast Asia rehearsed its big public-markets moment with a familiar cast: a ride-hailing superapp, a gaming-and-e-commerce giant, a merged Indonesian decacorn. The next star, we assumed, would be another consumer platform t…
+- published: `2026-10-08T05:30:39+00:00`
+- url: https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/
+- summary: For many companies, the harder part of artificial intelligence is no longer running a pilot. It is turning that pilot into something reliable enough to sit inside daily operations. That gap is what Singtel’s RE:AI and the Singapore Institute of Technology (SI…
 
 ### 5. Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups
 - source: e27 Asia Startup and Tech Feed

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T05:25:25+00:00",
-  "run_id": "2026-10-08T05:25:25+00:00",
+  "generated_at": "2026-10-08T05:39:39+00:00",
+  "run_id": "2026-10-08T05:39:39+00:00",
   "date": "2026-10-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
-    "medium": 4,
+    "medium": 5,
     "observe": 12,
     "source_errors": 0
   },
@@ -125,6 +125,28 @@
           "LOW"
         ],
         "id": "ef85b84c8b0e63b57e9d"
+      },
+      {
+        "title": "Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deployment gap",
+        "url": "https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-08T05:30:39+00:00",
+        "fetched_at": "2026-10-08T05:39:06+00:00",
+        "summary": "For many companies, the harder part of artificial intelligence is no longer running a pilot. It is turning that pilot into something reliable enough to sit inside daily operations. That gap is what Singtel’s RE:AI and the Singapore Institute of Technology (SIT) are trying to address through a new partnership with the SIT x NVIDIA […] The post Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deploym…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Webentwicklung"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.8); Webentwicklung (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2370938110b192c2250e"
       },
       {
         "title": "Southeast Asia’s biggest tech IPO of the year is a landlord",
@@ -567,6 +589,28 @@
       "id": "ef85b84c8b0e63b57e9d"
     },
     {
+      "title": "Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deployment gap",
+      "url": "https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-08T05:30:39+00:00",
+      "fetched_at": "2026-10-08T05:39:06+00:00",
+      "summary": "For many companies, the harder part of artificial intelligence is no longer running a pilot. It is turning that pilot into something reliable enough to sit inside daily operations. That gap is what Singtel’s RE:AI and the Singapore Institute of Technology (SIT) are trying to address through a new partnership with the SIT x NVIDIA […] The post Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deploym…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Webentwicklung"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); Webentwicklung (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2370938110b192c2250e"
+    },
+    {
       "title": "Southeast Asia’s biggest tech IPO of the year is a landlord",
       "url": "https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -907,41 +951,26 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.0 - 92 km N of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deployment gap",
+      "url": "https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-08T05:04:14.040+00:00",
-      "fetched_at": "2026-10-08T05:24:57+00:00",
-      "summary": "Time 2026-10-08 04:48:59 UTC 2026-10-08 04:48:59 UTC at epicenter Location 7.776°S 120.540°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-10-08T05:30:39+00:00",
+      "fetched_at": "2026-10-08T05:39:06+00:00",
+      "summary": "For many companies, the harder part of artificial intelligence is no longer running a pilot. It is turning that pilot into something reliable enough to sit inside daily operations. That gap is what Singtel’s RE:AI and the Singapore Institute of Technology (SIT) are trying to address through a new partnership with the SIT x NVIDIA […] The post Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deploym…",
       "matched_keywords": [
+        "AI/KI",
         "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Webentwicklung"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "9043454c7f4967a85547"
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); Webentwicklung (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2370938110b192c2250e"
     }
   ],
   "source_errors": [],
