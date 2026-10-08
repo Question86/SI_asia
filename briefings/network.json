@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T19:58:41+00:00",
+  "generated_at": "2026-10-08T20:20:21+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 74,
@@ -129,49 +129,6 @@
       "first_seen_at": "2026-10-08T07:36:14+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [mittel] Red Hat Enterprise Linux (resteasy): Schwachstelle ermöglicht Offenlegung von Informationen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3814",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3813",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3818",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3817",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3815"
-      ],
-      "finding_count": 14,
-      "max_score": 16,
-      "credibility_total": 14.7,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 18.47,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 45.4,
-      "ranking_score": 18.47,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.97,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
       "key": "earthquake:philippines:5.5",
       "title": "M 5.5 - 17 km SW of Burias, Philippines",
       "sources": [
@@ -211,6 +168,49 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-10-08T08:38:35+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (resteasy): Schwachstelle ermöglicht Offenlegung von Informationen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3814",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3813",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3818",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3817",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3815"
+      ],
+      "finding_count": 14,
+      "max_score": 16,
+      "credibility_total": 14.7,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 18.31,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 45.4,
+      "ranking_score": 18.31,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.81,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:mas-gives-singapore-financial-firms-one-year-prepare",
@@ -551,20 +551,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.98,
+      "network_score": 13.97,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 18.3,
-      "ranking_score": 13.98,
+      "ranking_score": 13.97,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.48,
+      "baseline_bonus": 0.47,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -711,18 +711,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.54,
+      "network_score": 12.52,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 17.3,
-      "ranking_score": 12.54,
+      "ranking_score": 12.52,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.04,
+      "baseline_bonus": 0.02,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1747,7 +1747,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-08T19:58:41Z",
+    "generated_at": "2026-10-08T20:20:22Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
