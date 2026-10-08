@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T05:40:00+00:00",
+  "generated_at": "2026-10-08T05:53:21+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1254,7 +1254,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T08:36:29+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
@@ -1322,7 +1322,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T05:30:29+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
@@ -3158,8 +3158,8 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-13T13:07:27+00:00",
-      "last_seen_at": "2026-09-27T23:53:06+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_e0bf7b1aa5d332821d71",
@@ -4331,7 +4331,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-08T04:01:00+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
@@ -8156,7 +8156,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T02:07:23+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
@@ -10183,6 +10183,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_3a4777feac339c134ab0",
+      "title": "Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deployment gap",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_457e7be43e096f5d757d",
       "title": "tech-leads-club/agent-skills",
       "event_classes": [
@@ -10451,7 +10468,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T01:01:39+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
@@ -10589,23 +10606,6 @@
       "first_seen_at": "2026-09-15T05:35:26+00:00",
       "last_seen_at": "2026-09-15T23:55:14+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_3a4777feac339c134ab0",
-      "title": "Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deployment gap",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 115200.0,
-      "p50_usd": 11520000.0,
-      "p90_usd": 1152000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-08T05:39:43+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",
@@ -11097,7 +11097,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T03:25:42+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
@@ -11216,7 +11216,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T04:01:00+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
@@ -11642,7 +11642,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T02:07:23+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
@@ -15672,7 +15672,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T23:59:05+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
@@ -18817,7 +18817,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T02:07:23+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
@@ -19361,7 +19361,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
@@ -19854,7 +19854,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T03:47:14+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
@@ -21469,7 +21469,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T02:39:35+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
@@ -21945,7 +21945,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T05:00:44+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
@@ -21996,7 +21996,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T01:01:39+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
@@ -22251,7 +22251,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T04:28:15+00:00",
-      "last_seen_at": "2026-10-08T05:39:43+00:00",
+      "last_seen_at": "2026-10-08T05:53:05+00:00",
       "status": "active"
     },
     {
