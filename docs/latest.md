@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T11:57:49+00:00_
+_Generiert: 2026-10-08T12:27:20+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+54 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -231,14 +231,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafting AppsのPhotoCraftで、PSDを作成し、レイヤーを作成し、日本語フォントを使用したものです。 Crafting Appsは、Photoshop, Illustrator, Premiere Pro,...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SonicWall SMA1000: Lücke mit Höchstwertung öffnet interne Funktionen** — Score 7, observation — [Quelle](https://www.heise.de/news/SonicWall-SMA1000-Luecke-mit-Hoechstwertung-oeffnet-interne-Funktionen-11480426.html)
+- **Veeam stopft Schadcode-Lücke in Backup & Replication** — Score 7, observation — [Quelle](https://www.heise.de/news/Veeam-stopft-Schadcode-Luecke-in-Backup-Replication-11480790.html)
   - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-08T09:41:00.000+00:00`, fetched `2026-10-08T09:56:31+00:00`
+  - Zeit: published `2026-10-08T11:52:00.000+00:00`, fetched `2026-10-08T12:26:47+00:00`
   - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: SMA1000-Appliances von SonicWall sollen vor dem unbefugten Zugriff aufs Netz schützen. Eine kritische Lücke ermöglicht das aber.
+  - Kurz: Veeam hat Backup & Replication aktualisiert und dabei vier Sicherheitslücken geschlossen. Schmuggeln von Schadcode auf den Server ist möglich.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
