@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:48:55+00:00",
+  "generated_at": "2026-10-08T14:00:37+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 65,
@@ -10,49 +10,6 @@
     "dominance_penalized": 12
   },
   "clusters": [
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [mittel] Red Hat Enterprise Linux (resteasy): Schwachstelle ermöglicht Offenlegung von Informationen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3814",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3813",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3818",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3817",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3815"
-      ],
-      "finding_count": 14,
-      "max_score": 16,
-      "credibility_total": 14.7,
-      "cross_source_confirmed": false,
-      "momentum_delta": 6,
-      "momentum_status": "increasing",
-      "network_score": 30.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 63.4,
-      "ranking_score": 30.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 8.0,
-      "baseline_bonus": 5.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
     {
       "key": "title:asean-just-upgraded-its-trade-rulebook-most-operators",
       "title": "ASEAN just upgraded its trade rulebook. Most operators will scale on the old one",
@@ -92,6 +49,49 @@
       "first_seen_at": "2026-10-08T02:07:23+00:00"
     },
     {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (resteasy): Schwachstelle ermöglicht Offenlegung von Informationen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3814",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3813",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3818",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3817",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3815"
+      ],
+      "finding_count": 14,
+      "max_score": 16,
+      "credibility_total": 14.7,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 22.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 45.4,
+      "ranking_score": 22.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 5.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
       "key": "cve:CVE-2026-76504",
       "title": "Vulnérabilité dans Cisco Catalyst SD-WAN (01 octobre 2026)",
       "sources": [
@@ -107,19 +107,19 @@
       "max_score": 14,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 23.5,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 21.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 19.1,
-      "ranking_score": 23.5,
+      "raw_network_score": 16.1,
+      "ranking_score": 21.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": true,
       "early_signal_bonus": 5.5,
@@ -346,20 +346,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.58,
+      "network_score": 14.54,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 20.4,
-      "ranking_score": 14.58,
+      "ranking_score": 14.54,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.18,
+      "baseline_bonus": 0.14,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -449,46 +449,6 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-08-29T08:36:29+00:00"
-    },
-    {
-      "key": "domain:www.heise.de",
-      "title": "Angriffe auf Atlassian-Data-Center-Lücke haben begonnen",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html",
-        "https://www.heise.de/news/Veeam-stopft-Schadcode-Luecke-in-Backup-Replication-11480790.html",
-        "https://www.heise.de/news/SonicWall-SMA1000-Luecke-mit-Hoechstwertung-oeffnet-interne-Funktionen-11480426.html"
-      ],
-      "finding_count": 3,
-      "max_score": 11,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.53,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 17.3,
-      "ranking_score": 13.53,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.03,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "title:endeavor-catalyst-raises-320m-back-next-wave-elsewhere",
@@ -609,6 +569,46 @@
       "first_seen_at": "2026-10-08T02:07:23+00:00"
     },
     {
+      "key": "domain:www.heise.de",
+      "title": "Angriffe auf Atlassian-Data-Center-Lücke haben begonnen",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html",
+        "https://www.heise.de/news/Veeam-stopft-Schadcode-Luecke-in-Backup-Replication-11480790.html",
+        "https://www.heise.de/news/SonicWall-SMA1000-Luecke-mit-Hoechstwertung-oeffnet-interne-Funktionen-11480426.html"
+      ],
+      "finding_count": 3,
+      "max_score": 11,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.47,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.3,
+      "ranking_score": 13.47,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.97,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T07:39:37+00:00"
+    },
+    {
       "key": "domain:www.federalreserve.gov",
       "title": "Waller, The Signaling Value of the Summary of Economic Projections",
       "sources": [
@@ -627,18 +627,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.6,
+      "network_score": 12.55,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.1,
-      "ranking_score": 12.6,
+      "ranking_score": 12.55,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.6,
+      "baseline_bonus": 0.55,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -733,82 +733,6 @@
       "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "title:multiples-vuln-rabilit-dans-tenable-nessus-octobre-2026",
-      "title": "Multiples vulnérabilités dans Tenable Nessus (02 octobre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1247/"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 13.1,
-      "ranking_score": 12.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-08T13:48:55+00:00"
-    },
-    {
-      "key": "title:multiples-vuln-rabilit-dans-apache-http-server-octobre",
-      "title": "Multiples vulnérabilités dans Apache HTTP Server (02 octobre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1248/"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 13.1,
-      "ranking_score": 12.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-08T13:48:55+00:00"
-    },
-    {
       "key": "earthquake:chile:4.5",
       "title": "M 4.5 - 39 km NE of Calama, Chile",
       "sources": [
@@ -886,6 +810,82 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-04T23:59:05+00:00"
+    },
+    {
+      "key": "title:multiples-vuln-rabilit-dans-tenable-nessus-octobre-2026",
+      "title": "Multiples vulnérabilités dans Tenable Nessus (02 octobre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1247/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-08T13:48:55+00:00"
+    },
+    {
+      "key": "title:multiples-vuln-rabilit-dans-apache-http-server-octobre",
+      "title": "Multiples vulnérabilités dans Apache HTTP Server (02 octobre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1248/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-08T13:48:55+00:00"
     },
     {
       "key": "earthquake:m 5.1 - 236 km e of levuka, fiji:5.1",
@@ -1107,18 +1107,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 6.92,
+      "network_score": 6.9,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 9.2,
-      "ranking_score": 6.92,
+      "ranking_score": 6.9,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.42,
+      "baseline_bonus": 0.4,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1472,7 +1472,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-08T13:48:56Z",
+    "generated_at": "2026-10-08T14:00:38Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
