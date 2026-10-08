@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-08T08:10:16+00:00",
+  "generated_at": "2026-10-08T08:38:32+00:00",
   "topics": {
     "ai": [
       {
@@ -91,6 +91,13 @@
         "url": "https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/"
       },
       {
+        "title": "Waller, The Signaling Value of the Summary of Economic Projections",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-10-08T08:30:00+00:00",
+        "relevance_score": 12,
+        "url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm"
+      },
+      {
         "title": "Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-08T03:47:24+00:00",
@@ -112,46 +119,14 @@
         "url": "https://e27.co/not-every-customer-is-good-for-growth-20261004/"
       }
     ],
-    "github": [
-      {
-        "title": "morluto/rea",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 19,
-        "url": "https://github.com/morluto/rea"
-      },
-      {
-        "title": "Bitcoin’s US$83,000 test: Can institutional demand hold the line?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-08T04:50:58+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/bitcoins-us83000-test-can-institutional-demand-hold-the-line-20261008/"
-      }
-    ],
-    "security": [
-      {
-        "title": "[UPDATE] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Erlangen von Administratorrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-08T05:51:45+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577"
-      },
-      {
-        "title": "[UPDATE] [hoch] VMware Fusion und Workstation: Mehrere Schwachstellen ermöglichen Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-08T07:51:46+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3169"
-      },
-      {
-        "title": "Angriffe auf Atlassian-Data-Center-Lücke haben begonnen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-08T06:57:00.000+00:00",
-        "relevance_score": 11,
-        "url": "https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html"
-      }
-    ],
     "general": [
+      {
+        "title": "M 5.5 - 17 km SW of Burias, Philippines",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-08T08:35:47.484+00:00",
+        "relevance_score": 19,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4"
+      },
       {
         "title": "M 4.6 - 61 km W of Banda Aceh, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -214,13 +189,45 @@
         "published_at": "2026-10-08T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/about/human-resource-plan"
+      }
+    ],
+    "github": [
+      {
+        "title": "morluto/rea",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 19,
+        "url": "https://github.com/morluto/rea"
       },
       {
-        "title": "直近で相次いでいる国内組織における不正アクセスに関する注意喚起",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-08T02:17:29+00:00",
-        "relevance_score": 5,
-        "url": "https://www.jpcert.or.jp/at/2026/at260030.html"
+        "title": "Bitcoin’s US$83,000 test: Can institutional demand hold the line?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-08T04:50:58+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/bitcoins-us83000-test-can-institutional-demand-hold-the-line-20261008/"
+      }
+    ],
+    "security": [
+      {
+        "title": "[UPDATE] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T05:51:45+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577"
+      },
+      {
+        "title": "[UPDATE] [hoch] VMware Fusion und Workstation: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T07:51:46+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3169"
+      },
+      {
+        "title": "Angriffe auf Atlassian-Data-Center-Lücke haben begonnen",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-08T06:57:00.000+00:00",
+        "relevance_score": 11,
+        "url": "https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html"
       }
     ],
     "geopolitics": [

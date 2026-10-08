@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T08:10:19+00:00",
+  "generated_at": "2026-10-08T08:38:35+00:00",
   "sections": {
     "global_security": [
       {
@@ -74,11 +74,11 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Mexico",
-        "summary": "Green flood alert in Mexico",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI&gt;=IV.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI&gt;=IV.",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104191",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570075",
         "published_at": "",
         "metrics": {}
       },
@@ -131,6 +131,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569799",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - 17 km SW of Burias, Philippines",
+        "summary": "M5.5 - 17 km SW of Burias, Philippines. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4",
+        "published_at": "2026-10-08T08:07:59+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "green",
+          "sig": 465.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

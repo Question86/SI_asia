@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T08:10:16+00:00_
+_Generiert: 2026-10-08T08:38:32+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+30 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Supply Chain Security (+8.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Over the past year, the question I hear from operators shipping into three or four ASEAN markets has quietly changed. It used to be about the tariff. Now it is about the paperwork. Which certificate does this lane need? Who in our supply chain can prove where this component was made? Why does the same […] The post ASEAN just upgraded its trade rulebook. Most operators will scale on the old one appeared first on e27 .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.5 - 17 km SW of Burias, Philippines** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-08T08:35:47.484+00:00`, fetched `2026-10-08T08:38:01+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - V Time 2026-10-08 08:07:59 UTC 2026-10-08 08:07:59 UTC at epicenter Location 5.601°N 125.152°E Depth 52.05 km (32.34 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **morluto/rea** — Score 19, observation — [Quelle](https://github.com/morluto/rea)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -66,15 +75,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-08 05:06:52 UTC 2026-10-08 05:06:52 UTC at epicenter Location 9.421°S 118.807°E Depth 65.28 km (40.56 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - 92 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-08T05:04:14.040+00:00`, fetched `2026-10-08T05:24:57+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-08 04:48:59 UTC 2026-10-08 04:48:59 UTC at epicenter Location 7.776°S 120.540°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **[UPDATE] [hoch] VMware Fusion und Workstation: Mehrere Schwachstellen ermöglichen Codeausführung** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3169)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-08T07:51:46+00:00`, fetched `2026-10-08T07:55:30+00:00`
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Waller, The Signaling Value of the Summary of Economic Projections** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-10-08T08:30:00+00:00`, fetched `2026-10-08T08:38:01+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At the Istanbul Economic Forum, Central Bank of the Republic of T&uuml;rkiye, Istanbul, T&uuml;rkiye
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups** — Score 12, observation — [Quelle](https://e27.co/endeavor-catalyst-raises-us320m-to-back-the-next-wave-of-elsewhere-startups-20261008/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-08T03:47:24+00:00`, fetched `2026-10-08T04:00:21+00:00`
