@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T10:59:13+00:00",
-  "run_id": "2026-10-08T10:59:13+00:00",
+  "generated_at": "2026-10-08T11:19:56+00:00",
+  "run_id": "2026-10-08T11:19:56+00:00",
   "date": "2026-10-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 44
+      "configured_public_sources_only": 51
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 44,
-    "displayed_findings": 44,
+    "new_relevant_findings": 7,
+    "today_file_total": 51,
+    "displayed_findings": 51,
     "high": 0,
-    "medium": 13,
-    "observe": 31,
+    "medium": 16,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -332,6 +332,75 @@
           "LOW"
         ],
         "id": "ef85b84c8b0e63b57e9d"
+      },
+      {
+        "title": "[UPDATE] [hoch] Broadcom Fabric OS: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3779",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-08T11:06:46+00:00",
+        "fetched_at": "2026-10-08T11:19:25+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Broadcom Fabric OS ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "780759debfdde61a32ee"
+      },
+      {
+        "title": "[NEU] [mittel] LibreSSL: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3795",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-08T11:06:46+00:00",
+        "fetched_at": "2026-10-08T11:19:25+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in LibreSSL ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service-Zustand auszulösen, vertrauliche Informationen offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "565aadcd8dfd76b2182a"
+      },
+      {
+        "title": "[NEU] [mittel] Cisco Finesse, Unified CCE, Unified CCX: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3794",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-08T11:01:45+00:00",
+        "fetched_at": "2026-10-08T11:19:25+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Cisco Finesse, Unified CCE und Unified CCX ausnutzen, um Informationen offenzulegen, indem er Server-Side Request Forgery (SSRF)-Angriffe durchführt.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "72e44dba3386d245b0b4"
       },
       {
         "title": "[NEU] [hoch] Cisco Meraki (MR, MS und MX) und IOS XE: Mehrere Schwachstellen",
@@ -699,6 +768,27 @@
         "id": "fa3aeab49139753cc383"
       },
       {
+        "title": "The competitiveness of the European banking sector",
+        "url": "https://www.bis.org/speeches/20261008-competitiveness-european-banking-sector",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-08T00:00:00+00:00",
+        "fetched_at": "2026-10-08T11:19:25+00:00",
+        "summary": "Opening remarks by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the OMFIF (Official Monetary and Financial Institutions Forum) Roundtable “Future of banking: Europe’s strategic banking challenges”, London, 1 October 2026.",
+        "matched_keywords": [
+          "banking",
+          "Macro/Policy"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Macro/Policy (+5.0); banking (+2.5); recent (+1.0); watchgraph region europe: London (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2f0abddf8e51488641ec"
+      },
+      {
         "title": "M 5.1 - 236 km E of Levuka, Fiji",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xn",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -989,6 +1079,46 @@
         "id": "cd4cc93656048c49d224"
       },
       {
+        "title": "Reinforcing Europe’s financial resilience – and growth potential",
+        "url": "https://www.bis.org/speeches/20261007-reinforcing-europes-financial-resilience-and-growth-potential",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-08T00:00:00+00:00",
+        "fetched_at": "2026-10-08T11:19:25+00:00",
+        "summary": "Speech by Mr Olli Rehn, Governor of the Bank of Finland and First Vice-Chair of the European Systemic Risk Board, at the 10th Annual Conference of the European Systemic Risk Board, Frankfurt am Main, 2 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "30142e5b4c72610bcf0f"
+      },
+      {
+        "title": "Climate change - the economic reality we can no longer ignore",
+        "url": "https://www.bis.org/speeches/20261007-climate-change-economic-reality-we-can-no-longer-ignore",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-08T00:00:00+00:00",
+        "fetched_at": "2026-10-08T11:19:25+00:00",
+        "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank and Chair of the Network for Greening the Financial System (NGFS), at the Sustainable Finance Gipfel, Frankfurt am Main, 1 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e1f9db99c871484c80ca"
+      },
+      {
         "title": "Address - launch of BOMStats, the Bank of Mauritius data portal",
         "url": "https://www.bis.org/speeches/20261007-address-launch-bomstats-bank-mauritius-data-portal",
         "source": "BIS Central Bankers Speeches",
@@ -1007,6 +1137,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1a056e0332a8fc32f261"
+      },
+      {
+        "title": "充電不要でノイキャンが使える、BoseのUSB-C有線イヤホンが国内予約開始 - エルミタージュ秋葉原",
+        "url": "https://www.gdm.or.jp/pressrelease/2026/1008/655416",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-08T07:35:09+00:00",
+        "fetched_at": "2026-10-08T11:19:25+00:00",
+        "summary": "充電不要でノイキャンが使える、BoseのUSB-C有線イヤホンが国内予約開始 2026.10.08 16:19 更新 2026.10.08 配信 独自のQuietControl技術を搭載、ロスレス再生にも対応 Bose Corporation（本社：アメリカ マサチューセッツ州）は2026年10月8日、USB Type-C接続に対応したノイズキャンセリング有線イヤホン「Bose Noise C...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ef6ec3744924a53b654f"
       },
       {
         "title": "直近で相次いでいる国内組織における不正アクセスに関する注意喚起",
@@ -1502,6 +1653,75 @@
       "id": "ef85b84c8b0e63b57e9d"
     },
     {
+      "title": "[UPDATE] [hoch] Broadcom Fabric OS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3779",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-08T11:06:46+00:00",
+      "fetched_at": "2026-10-08T11:19:25+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Broadcom Fabric OS ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "780759debfdde61a32ee"
+    },
+    {
+      "title": "[NEU] [mittel] LibreSSL: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3795",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-08T11:06:46+00:00",
+      "fetched_at": "2026-10-08T11:19:25+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in LibreSSL ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service-Zustand auszulösen, vertrauliche Informationen offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "565aadcd8dfd76b2182a"
+    },
+    {
+      "title": "[NEU] [mittel] Cisco Finesse, Unified CCE, Unified CCX: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3794",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-08T11:01:45+00:00",
+      "fetched_at": "2026-10-08T11:19:25+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Cisco Finesse, Unified CCE und Unified CCX ausnutzen, um Informationen offenzulegen, indem er Server-Side Request Forgery (SSRF)-Angriffe durchführt.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "72e44dba3386d245b0b4"
+    },
+    {
       "title": "[NEU] [hoch] Cisco Meraki (MR, MS und MX) und IOS XE: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3793",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1865,6 +2085,27 @@
       "id": "fa3aeab49139753cc383"
     },
     {
+      "title": "The competitiveness of the European banking sector",
+      "url": "https://www.bis.org/speeches/20261008-competitiveness-european-banking-sector",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "fetched_at": "2026-10-08T11:19:25+00:00",
+      "summary": "Opening remarks by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the OMFIF (Official Monetary and Financial Institutions Forum) Roundtable “Future of banking: Europe’s strategic banking challenges”, London, 1 October 2026.",
+      "matched_keywords": [
+        "banking",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); banking (+2.5); recent (+1.0); watchgraph region europe: London (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2f0abddf8e51488641ec"
+    },
+    {
       "title": "M 5.1 - 236 km E of Levuka, Fiji",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2155,6 +2396,46 @@
       "id": "cd4cc93656048c49d224"
     },
     {
+      "title": "Reinforcing Europe’s financial resilience – and growth potential",
+      "url": "https://www.bis.org/speeches/20261007-reinforcing-europes-financial-resilience-and-growth-potential",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "fetched_at": "2026-10-08T11:19:25+00:00",
+      "summary": "Speech by Mr Olli Rehn, Governor of the Bank of Finland and First Vice-Chair of the European Systemic Risk Board, at the 10th Annual Conference of the European Systemic Risk Board, Frankfurt am Main, 2 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "30142e5b4c72610bcf0f"
+    },
+    {
+      "title": "Climate change - the economic reality we can no longer ignore",
+      "url": "https://www.bis.org/speeches/20261007-climate-change-economic-reality-we-can-no-longer-ignore",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "fetched_at": "2026-10-08T11:19:25+00:00",
+      "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank and Chair of the Network for Greening the Financial System (NGFS), at the Sustainable Finance Gipfel, Frankfurt am Main, 1 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e1f9db99c871484c80ca"
+    },
+    {
       "title": "Address - launch of BOMStats, the Bank of Mauritius data portal",
       "url": "https://www.bis.org/speeches/20261007-address-launch-bomstats-bank-mauritius-data-portal",
       "source": "BIS Central Bankers Speeches",
@@ -2173,6 +2454,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1a056e0332a8fc32f261"
+    },
+    {
+      "title": "充電不要でノイキャンが使える、BoseのUSB-C有線イヤホンが国内予約開始 - エルミタージュ秋葉原",
+      "url": "https://www.gdm.or.jp/pressrelease/2026/1008/655416",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-08T07:35:09+00:00",
+      "fetched_at": "2026-10-08T11:19:25+00:00",
+      "summary": "充電不要でノイキャンが使える、BoseのUSB-C有線イヤホンが国内予約開始 2026.10.08 16:19 更新 2026.10.08 配信 独自のQuietControl技術を搭載、ロスレス再生にも対応 Bose Corporation（本社：アメリカ マサチューセッツ州）は2026年10月8日、USB Type-C接続に対応したノイズキャンセリング有線イヤホン「Bose Noise C...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ef6ec3744924a53b654f"
     },
     {
       "title": "直近で相次いでいる国内組織における不正アクセスに関する注意喚起",
@@ -2363,13 +2665,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Cisco Meraki (MR, MS und MX) und IOS XE: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3793",
+      "title": "[NEU] [mittel] LibreSSL: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3795",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-08T10:51:45+00:00",
-      "fetched_at": "2026-10-08T10:58:40+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Cisco Meraki MR, Cisco Meraki MS, Cisco IOS XE und Cisco Meraki MX ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen..",
+      "published_at": "2026-10-08T11:06:46+00:00",
+      "fetched_at": "2026-10-08T11:19:25+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in LibreSSL ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service-Zustand auszulösen, vertrauliche Informationen offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2383,7 +2685,135 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2e051b3e76f322850695"
+      "id": "565aadcd8dfd76b2182a"
+    },
+    {
+      "title": "[UPDATE] [hoch] Broadcom Fabric OS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3779",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-08T11:06:46+00:00",
+      "fetched_at": "2026-10-08T11:19:25+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Broadcom Fabric OS ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "780759debfdde61a32ee"
+    },
+    {
+      "title": "[NEU] [mittel] Cisco Finesse, Unified CCE, Unified CCX: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3794",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-08T11:01:45+00:00",
+      "fetched_at": "2026-10-08T11:19:25+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Cisco Finesse, Unified CCE und Unified CCX ausnutzen, um Informationen offenzulegen, indem er Server-Side Request Forgery (SSRF)-Angriffe durchführt.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "72e44dba3386d245b0b4"
+    },
+    {
+      "title": "The competitiveness of the European banking sector",
+      "url": "https://www.bis.org/speeches/20261008-competitiveness-european-banking-sector",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "fetched_at": "2026-10-08T11:19:25+00:00",
+      "summary": "Opening remarks by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the OMFIF (Official Monetary and Financial Institutions Forum) Roundtable “Future of banking: Europe’s strategic banking challenges”, London, 1 October 2026.",
+      "matched_keywords": [
+        "banking",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); banking (+2.5); recent (+1.0); watchgraph region europe: London (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2f0abddf8e51488641ec"
+    },
+    {
+      "title": "Reinforcing Europe’s financial resilience – and growth potential",
+      "url": "https://www.bis.org/speeches/20261007-reinforcing-europes-financial-resilience-and-growth-potential",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "fetched_at": "2026-10-08T11:19:25+00:00",
+      "summary": "Speech by Mr Olli Rehn, Governor of the Bank of Finland and First Vice-Chair of the European Systemic Risk Board, at the 10th Annual Conference of the European Systemic Risk Board, Frankfurt am Main, 2 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "30142e5b4c72610bcf0f"
+    },
+    {
+      "title": "Climate change - the economic reality we can no longer ignore",
+      "url": "https://www.bis.org/speeches/20261007-climate-change-economic-reality-we-can-no-longer-ignore",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "fetched_at": "2026-10-08T11:19:25+00:00",
+      "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank and Chair of the Network for Greening the Financial System (NGFS), at the Sustainable Finance Gipfel, Frankfurt am Main, 1 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e1f9db99c871484c80ca"
+    },
+    {
+      "title": "充電不要でノイキャンが使える、BoseのUSB-C有線イヤホンが国内予約開始 - エルミタージュ秋葉原",
+      "url": "https://www.gdm.or.jp/pressrelease/2026/1008/655416",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-08T07:35:09+00:00",
+      "fetched_at": "2026-10-08T11:19:25+00:00",
+      "summary": "充電不要でノイキャンが使える、BoseのUSB-C有線イヤホンが国内予約開始 2026.10.08 16:19 更新 2026.10.08 配信 独自のQuietControl技術を搭載、ロスレス再生にも対応 Bose Corporation（本社：アメリカ マサチューセッツ州）は2026年10月8日、USB Type-C接続に対応したノイズキャンセリング有線イヤホン「Bose Noise C...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ef6ec3744924a53b654f"
     }
   ],
   "source_errors": [],

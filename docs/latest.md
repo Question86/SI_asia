@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T10:59:13+00:00_
+_Generiert: 2026-10-08T11:19:56+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+51 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -75,23 +75,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-08 05:06:52 UTC 2026-10-08 05:06:52 UTC at epicenter Location 9.421°S 118.807°E Depth 65.28 km (40.56 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [hoch] Cisco Meraki (MR, MS und MX) und IOS XE: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3793)
+- **[UPDATE] [hoch] Broadcom Fabric OS: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3779)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-08T10:51:45+00:00`, fetched `2026-10-08T10:58:40+00:00`
+  - Zeit: published `2026-10-08T11:06:46+00:00`, fetched `2026-10-08T11:19:25+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Cisco Meraki MR, Cisco Meraki MS, Cisco IOS XE und Cisco Meraki MX ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen..
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Broadcom Fabric OS ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] VMware Fusion und Workstation: Mehrere Schwachstellen ermöglichen Codeausführung** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3169)
+- **[NEU] [mittel] LibreSSL: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3795)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-08T07:51:46+00:00`, fetched `2026-10-08T07:55:30+00:00`
+  - Zeit: published `2026-10-08T11:06:46+00:00`, fetched `2026-10-08T11:19:25+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in VMware Workstation und VMware Fusion ausnutzen, um beliebigen Programmcode auszuführen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in LibreSSL ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service-Zustand auszulösen, vertrauliche Informationen offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deployment gap** — Score 14, opportunity — [Quelle](https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0)
   - Kurz: Welcome address by Ms Christine Lagarde, President of the European Central Bank and Chair of the European Systemic Risk Board, at the Tenth Annual Conference of the European Systemic Risk Board, Frankfurt am Main, 1 October 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **The competitiveness of the European banking sector** — Score 10, observation — [Quelle](https://www.bis.org/speeches/20261008-competitiveness-european-banking-sector)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-08T00:00:00+00:00`, fetched `2026-10-08T11:19:25+00:00`
+  - Treffer: banking, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); banking (+2.5); recent (+1.0); watchgraph region europe: London (+2.0)
+  - Kurz: Opening remarks by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the OMFIF (Official Monetary and Financial Institutions Forum) Roundtable “Future of banking: Europe’s strategic banking challenges”, London, 1 October 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.1 - 236 km E of Levuka, Fiji** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-08T10:21:28.040+00:00`, fetched `2026-10-08T10:31:55+00:00`
@@ -222,15 +231,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: SMA1000-Appliances von SonicWall sollen vor dem unbefugten Zugriff aufs Netz schützen. Eine kritische Lücke ermöglicht das aber.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Shifting ground – how geopolitics is reshaping growth, monetary policy and the role of gold as a reserve asset** — Score 7, opportunity — [Quelle](https://www.bis.org/speeches/20261007-shifting-ground-how-geopolitics-reshaping-growth-monetary-policy-and-role-gold-reserve-asset)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-08T00:00:00+00:00`, fetched `2026-10-08T09:24:50+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0)
-  - Kurz: Keynote speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the Global Precious Metals Conference, Sorrento, 5 October 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **デジタル庁におけるデジタル人材確保・育成計画を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/human-resource-plan)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-08T06:00:00+00:00`, fetched `2026-10-08T06:40:21+00:00`
