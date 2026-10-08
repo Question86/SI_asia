@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T08:38:35+00:00",
-  "today_file_total": 30,
+  "generated_at": "2026-10-08T08:58:44+00:00",
+  "today_file_total": 31,
   "current_clusters": [
     {
       "key": "title:asean-just-upgraded-its-trade-rulebook-most-operators",
@@ -41,14 +41,14 @@
       "max_score": 19,
       "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 24.7,
-      "hot": true,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 21.7,
+      "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "github_repo:morluto/rea",
@@ -199,29 +199,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:www.federalreserve.gov",
-      "title": "Waller, The Signaling Value of the Summary of Economic Projections",
-      "sources": [
-        "Federal Reserve Speeches and Testimony"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 17.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:singtel-partners-sit-nvidia-centre-tackle-enterprise-deployment",
       "title": "Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deployment gap",
       "sources": [
@@ -267,6 +244,29 @@
       "watchgraph_modules": [
         "agriculture_food_fertilizer"
       ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.federalreserve.gov",
+      "title": "Waller, The Signaling Value of the Summary of Economic Projections",
+      "sources": [
+        "Federal Reserve Speeches and Testimony"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
