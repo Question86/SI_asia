@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T06:41:16+00:00",
+  "generated_at": "2026-10-08T07:07:22+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1254,7 +1254,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T08:36:29+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -1322,7 +1322,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T05:30:29+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -3158,7 +3158,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-13T13:07:27+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -4331,7 +4331,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-08T04:01:00+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -6477,6 +6477,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e393223784ba845a3970",
+      "title": "M 5.5 - west of Macquarie Island",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-08T07:07:06+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -6490,7 +6507,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -8156,7 +8173,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T02:07:23+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -9333,6 +9350,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_38d299a555cc8eab7ce6",
+      "title": "MAS gives Singapore’s financial firms one year to prepare for AI risk rules",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_3a98bc68602bfb679e39",
       "title": "判断特化型AI「Jev」を簡単な具体例でわかりやすく解説！実際に試してみた | DevelopersIO",
       "event_classes": [
@@ -9775,23 +9809,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_38d299a555cc8eab7ce6",
-      "title": "MAS gives Singapore’s financial firms one year to prepare for AI risk rules",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 116800.0,
-      "p50_usd": 11680000.0,
-      "p90_usd": 1168000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-08T06:40:55+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_164cc1afee592ac2b935",
       "title": "Games | OpenAI Developers",
       "event_classes": [
@@ -10213,7 +10230,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T05:39:43+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -10485,7 +10502,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T01:01:39+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -11114,7 +11131,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T03:25:42+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -11233,7 +11250,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T04:01:00+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -11573,8 +11590,8 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-07T23:54:54+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_abb584bae6510b3313de",
@@ -11659,7 +11676,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T02:07:23+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -14447,7 +14464,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -15689,7 +15706,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T23:59:05+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -18549,6 +18566,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_eb6a72edc36f2b7ff76d",
+      "title": "デジタル庁におけるデジタル人材確保・育成計画を更新しました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_ec7119a39f5b85bdb04b",
       "title": "Nobody gives you time to explain. That’s the real fundraising problem",
       "event_classes": [
@@ -18632,23 +18666,6 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_eb6a72edc36f2b7ff76d",
-      "title": "デジタル庁におけるデジタル人材確保・育成計画を更新しました",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108800.0,
-      "p50_usd": 10880000.0,
-      "p90_usd": 1088000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-08T06:40:55+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -18852,7 +18869,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T02:07:23+00:00",
       "last_seen_at": "2026-10-08T06:40:55+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_13bedafc96d5cd042d7f",
@@ -19395,7 +19412,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -19888,7 +19905,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T03:47:14+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -21503,7 +21520,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T02:39:35+00:00",
-      "last_seen_at": "2026-10-08T06:40:55+00:00",
+      "last_seen_at": "2026-10-08T07:07:06+00:00",
       "status": "active"
     },
     {
@@ -21980,7 +21997,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T05:00:44+00:00",
       "last_seen_at": "2026-10-08T06:40:55+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1a6fb4d157b09125bd84",
