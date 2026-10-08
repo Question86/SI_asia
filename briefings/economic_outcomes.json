@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T08:10:53+00:00",
+  "generated_at": "2026-10-08T08:39:05+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -1717,6 +1717,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1ddd81b9d6ff8acaffef",
+      "title": "M 5.5 - 17 km SW of Burias, Philippines",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_1e164ddbfa3022a28be1",
@@ -5555,7 +5566,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_626d8a2c1716a9eae3bd",
@@ -5632,7 +5643,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_63f9ec391b40e631b756",
@@ -13530,7 +13541,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_eb8c7ffc5f8910000f62",
