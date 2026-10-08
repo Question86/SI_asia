@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-08T05:39:39+00:00_
+_Generated: 2026-10-08T05:53:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `18`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-08T05:39:39+00:00_
 - url: https://e27.co/seas-insurers-face-a-new-question-what-happens-when-customers-have-agents-20261007/
 - summary: Insurance has spent the past year experimenting with generative AI in the most obvious corners of the enterprise: summarising emails, extracting details from claims forms, drafting responses for call-centre agents, and speeding up document-heavy back-office w…
 
-### 8. M 4.9 - 81 km NNW of Malfa, Italy
+### 8. M 4.5 - 39 km NE of Calama, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-08T03:51:22.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0
-- summary: Time 2026-10-08 03:42:52 UTC 2026-10-08 03:42:52 UTC at epicenter Location 39.206°N 14.352°E Depth 367.08 km (228.09 mi)
+- score: `11`
+- published: `2026-10-08T05:52:25.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh
+- summary: Time 2026-10-08 05:35:56 UTC 2026-10-08 05:35:56 UTC at epicenter Location 22.192°S 68.668°W Depth 121.38 km (75.42 mi)
 
 END OF DOCUMENT

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T05:39:39+00:00_
+_Generiert: 2026-10-08T05:53:03+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+18 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: Insurance has spent the past year experimenting with generative AI in the most obvious corners of the enterprise: summarising emails, extracting details from claims forms, drafting responses for call-centre agents, and speeding up document-heavy back-office work. Those are useful gains. But a new whitepaper by Google Cloud and CoverGo argues that they may also be […] The post SEA’s insurers face a new question: what…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 39 km NE of Calama, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-08T05:52:25.040+00:00`, fetched `2026-10-08T05:52:35+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-08 05:35:56 UTC 2026-10-08 05:35:56 UTC at epicenter Location 22.192°S 68.668°W Depth 121.38 km (75.42 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 81 km NNW of Malfa, Italy** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-08T03:51:22.040+00:00`, fetched `2026-10-08T04:00:21+00:00`
