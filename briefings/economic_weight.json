@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T02:07:42+00:00",
+  "generated_at": "2026-10-08T02:39:56+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -8126,6 +8126,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d4b6fa5a85355ed6bbd2",
+      "title": "ASEAN just upgraded its trade rulebook. Most operators will scale on the old one",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "trade"
+      ],
+      "p10_usd": 122400.0,
+      "p50_usd": 12240000.0,
+      "p90_usd": 1224000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-08T02:07:23+00:00",
+      "last_seen_at": "2026-10-08T02:39:35+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f02dc496805bcc66c376",
       "title": "GitHub - nanaism/yomiyasu: AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill",
       "event_classes": [
@@ -8158,23 +8175,6 @@
       "first_seen_at": "2026-10-06T10:50:44+00:00",
       "last_seen_at": "2026-10-06T23:46:08+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_d4b6fa5a85355ed6bbd2",
-      "title": "ASEAN just upgraded its trade rulebook. Most operators will scale on the old one",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "trade"
-      ],
-      "p10_usd": 122400.0,
-      "p50_usd": 12240000.0,
-      "p90_usd": 1224000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-08T02:07:23+00:00",
-      "last_seen_at": "2026-10-08T02:07:23+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_1dc9bdd21755f73fe1e3",
@@ -10434,7 +10434,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T01:01:39+00:00",
-      "last_seen_at": "2026-10-08T02:07:23+00:00",
+      "last_seen_at": "2026-10-08T02:39:35+00:00",
       "status": "active"
     },
     {
@@ -11561,6 +11561,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b2c79d2a73cfcbd5727c",
+      "title": "SEA’s insurers face a new question: what happens when customers have agents?",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "revenue"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-08T02:07:23+00:00",
+      "last_seen_at": "2026-10-08T02:39:35+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_b829f0ea9ec991d5011b",
       "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開",
       "event_classes": [
@@ -11763,23 +11780,6 @@
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_b2c79d2a73cfcbd5727c",
-      "title": "SEA’s insurers face a new question: what happens when customers have agents?",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "revenue"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-08T02:07:23+00:00",
-      "last_seen_at": "2026-10-08T02:07:23+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_062e97ed5d926e4dc4f8",
@@ -18736,6 +18736,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_12a8684ff68ca63393a9",
+      "title": "トラックボールの“玉”をフッ素コーティング。約5秒で乾くエレコム「M-TAFD01」 - エルミタージュ秋葉原",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-08T02:07:23+00:00",
+      "last_seen_at": "2026-10-08T02:39:35+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_13bedafc96d5cd042d7f",
       "title": "画像生成AI「Qwen-Image-2.1」公開、7Bで透過画像に対応も商用不可",
       "event_classes": [
@@ -21728,8 +21745,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_12a8684ff68ca63393a9",
-      "title": "トラックボールの“玉”をフッ素コーティング。約5秒で乾くエレコム「M-TAFD01」 - エルミタージュ秋葉原",
+      "event_id": "evt_eab00b6ada31a0f1e71e",
+      "title": "「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要",
       "event_classes": [
         "unknown"
       ],
@@ -21740,8 +21757,8 @@
       "p50_usd": 10800000.0,
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
-      "first_seen_at": "2026-10-08T02:07:23+00:00",
-      "last_seen_at": "2026-10-08T02:07:23+00:00",
+      "first_seen_at": "2026-10-08T02:39:35+00:00",
+      "last_seen_at": "2026-10-08T02:39:35+00:00",
       "status": "active"
     },
     {
@@ -21877,7 +21894,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T01:01:39+00:00",
-      "last_seen_at": "2026-10-08T02:07:23+00:00",
+      "last_seen_at": "2026-10-08T02:39:35+00:00",
       "status": "active"
     },
     {
