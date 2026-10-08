@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T08:58:44+00:00",
+  "generated_at": "2026-10-08T09:25:25+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,21 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "USGS earthquake M6.3 - 102 km NE of Norsup, Vanuatu",
+        "summary": "M6.3 - 102 km NE of Norsup, Vanuatu. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi",
+        "published_at": "2026-10-08T09:00:07+00:00",
+        "metrics": {
+          "mag": 6.3,
+          "alert": "green",
+          "sig": 612.0,
+          "tsunami": 0
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI&gt;=IV.",
         "summary": "Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI&gt;=IV.",
         "source": "GDACS",
@@ -105,8 +120,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.66 million .",
-        "summary": "Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.66 million .",
+        "title": "GDACS: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.491 million .",
+        "summary": "Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.491 million .",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001334",
         "published_at": "",
@@ -131,21 +146,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569799",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.5 - 17 km SW of Burias, Philippines",
-        "summary": "M5.5 - 17 km SW of Burias, Philippines. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4",
-        "published_at": "2026-10-08T08:07:59+00:00",
-        "metrics": {
-          "mag": 5.5,
-          "alert": "green",
-          "sig": 468.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

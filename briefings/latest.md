@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T08:58:40+00:00_
+_Generiert: 2026-10-08T09:25:23+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+36 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-10-08T08:58:40+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Thailand
+- **USGS earthquake M6.3 - 102 km NE of Norsup, Vanuatu** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi)
+  - Quelle: USGS
+  - Zeit: `2026-10-08T09:00:07+00:00`
+  - Kurz: M6.3 - 102 km NE of Norsup, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570075)
   - Quelle: GDACS
   - Zeit: ``
@@ -45,10 +49,10 @@ _Generiert: 2026-10-08T08:58:40+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 90979 .
-- **GDACS: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.66 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001334)
+- **GDACS: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.491 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001334)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.66 million .
+  - Kurz: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.491 million .
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569807)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,10 +61,6 @@ _Generiert: 2026-10-08T08:58:40+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:29km) in Russia 06/10/2026 16:48 UTC, Few people affected in MMI&gt;=III.
-- **USGS earthquake M5.5 - 17 km SW of Burias, Philippines** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4)
-  - Quelle: USGS
-  - Zeit: `2026-10-08T08:07:59+00:00`
-  - Kurz: M5.5 - 17 km SW of Burias, Philippines. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -161,6 +161,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.3 - 102 km NE of Norsup, Vanuatu** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-08T09:25:11.958+00:00`, fetched `2026-10-08T09:24:50+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - VIII DYFI? - VII Time 2026-10-08 09:00:07 UTC 2026-10-08 09:00:07 UTC at epicenter Location 15.541°S 168.189°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Waller, The Signaling Value of the Summary of Economic Projections** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
   - Zeit: published `2026-10-08T08:30:00+00:00`, fetched `2026-10-08T08:38:01+00:00`
@@ -215,6 +224,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-08 05:35:56 UTC 2026-10-08 05:35:56 UTC at epicenter Location 22.192°S 68.668°W Depth 121.38 km (75.42 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Where AI risks meet** — Score 10, opportunity — [Quelle](https://www.bis.org/speeches/20261007-where-ai-risks-meet)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-08T00:00:00+00:00`, fetched `2026-10-08T09:24:50+00:00`
+  - Treffer: AI/KI, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Welcome address by Ms Christine Lagarde, President of the European Central Bank and Chair of the European Systemic Risk Board, at the Tenth Annual Conference of the European Systemic Risk Board, Frankfurt am Main, 1 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 5.5 - west of Macquarie Island** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-08T07:02:59.040+00:00`, fetched `2026-10-08T07:06:34+00:00`
@@ -223,15 +241,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-08 06:46:47 UTC 2026-10-08 06:46:47 UTC at epicenter Location 52.548°S 140.212°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 81 km NNW of Malfa, Italy** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-08T03:51:22.040+00:00`, fetched `2026-10-08T04:00:21+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-08 03:42:52 UTC 2026-10-08 03:42:52 UTC at epicenter Location 39.206°N 14.352°E Depth 367.08 km (228.09 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Piero Cipollone: Interview with Corriere della Sera** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
@@ -251,6 +260,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafting AppsのPhotoCraftで、PSDを作成し、レイヤーを作成し、日本語フォントを使用したものです。 Crafting Appsは、Photoshop, Illustrator, Premiere Pro,...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Shifting ground – how geopolitics is reshaping growth, monetary policy and the role of gold as a reserve asset** — Score 7, opportunity — [Quelle](https://www.bis.org/speeches/20261007-shifting-ground-how-geopolitics-reshaping-growth-monetary-policy-and-role-gold-reserve-asset)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-08T00:00:00+00:00`, fetched `2026-10-08T09:24:50+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0)
+  - Kurz: Keynote speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the Global Precious Metals Conference, Sorrento, 5 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **デジタル庁におけるデジタル人材確保・育成計画を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/human-resource-plan)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-08T06:00:00+00:00`, fetched `2026-10-08T06:40:21+00:00`
@@ -260,6 +278,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: デジタル庁におけるデジタル人材確保・育成計画を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Update and outlook for the Jamaican economy** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20261007-update-and-outlook-jamaican-economy)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-08T00:00:00+00:00`, fetched `2026-10-08T09:24:50+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Speech by Mr Brian Langrin, Governor of the Bank of Jamaica, at the Monetary Policy Decision Press Briefing, Kingston, 29 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **直近で相次いでいる国内組織における不正アクセスに関する注意喚起** — Score 5, observation — [Quelle](https://www.jpcert.or.jp/at/2026/at260030.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-08T02:17:29+00:00`, fetched `2026-10-08T03:46:36+00:00`
@@ -268,15 +295,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: JPCERT-AT-2026-0030 JPCERT/CC 2026-10-08 I. 概要各被害公表や報道のとおり、直近2026年9月前後で国内組織における不正アクセスによる個人情報等の漏えい被害が相次いでいます。 複数の製品やサービスで被害が発生している中、技術的な情報の共有が不足しており、把握している情報は限定的かつ断片的であるものの、攻...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **嫌われるデザインの歴史** — Score 5, observation — [Quelle](https://zenn.dev/blackmose/articles/de0170a13be930)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-08T01:44:23+00:00`, fetched `2026-10-08T08:58:08+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに どの時代にも「ああ、あの頃のやつね」と一目でバレるデザインがある。 2000年前後ならワードアートの虹色文字、2010年代ならパワポのデフォルトテンプレート、そして2024年以降はAIが量産する紫グラデーションと角丸カード。 ただ、流行したデザインがそのまま嫌われるわけではない。スキューモーフィズムのよ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
