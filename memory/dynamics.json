@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-08T06:26:52Z",
+  "generated_at": "2026-10-08T07:01:14Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 39,
+    "dynamics": 40,
     "bands": {
-      "extreme": 2,
-      "krass": 2,
-      "strong": 7,
-      "watch": 18,
-      "quiet": 10
+      "extreme": 1,
+      "krass": 3,
+      "strong": 9,
+      "watch": 21,
+      "quiet": 6
     },
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 18,
-      "quiet": 10
+      "strong": 13,
+      "watch": 21,
+      "quiet": 6
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T01:00:31+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -53,7 +53,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T05:51:45+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -79,22 +79,22 @@
       "url": "https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T05:39:43+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "extreme",
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "AXI0M/User-Yps identity hit",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
@@ -106,7 +106,7 @@
       "url": "https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T05:30:39+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -133,7 +133,7 @@
       "url": "https://e27.co/asean-just-upgraded-its-trade-rulebook-most-operators-will-scale-on-the-old-one-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T02:07:23+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -160,7 +160,7 @@
       "url": "https://e27.co/asean-just-upgraded-its-trade-rulebook-most-operators-will-scale-on-the-old-one-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T02:00:25+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "security",
@@ -186,11 +186,36 @@
       "summary": "Over the past year, the question I hear from operators shipping into three or four ASEAN markets has quietly changed. It used to be about the tariff. Now it is about the paperwork. Which certificate does this lane need? Who in our supply chain can prove where this component was made? Why does the same […] The post ASE…"
     },
     {
+      "title": "デジタル庁におけるデジタル人材確保・育成計画を更新しました",
+      "url": "https://www.digital.go.jp/about/human-resource-plan",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-08T06:00:00+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "デジタル庁におけるデジタル人材確保・育成計画を更新しました"
+    },
+    {
       "title": "Southeast Asia’s biggest tech IPO of the year is a landlord",
       "url": "https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T01:01:39+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -214,7 +239,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T05:58:30.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -239,7 +264,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T05:04:14.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -264,7 +289,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0vw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T03:17:55.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -289,7 +314,7 @@
       "url": "https://e27.co/bitcoins-us83000-test-can-institutional-demand-hold-the-line-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T04:50:58+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "macro"
       ],
@@ -310,28 +335,28 @@
       "summary": "The crypto market woke up to a familiar tension this morning. Bitcoin trades at US$83,079.42, down 1.02 per cent over the past 24 hours, while trading volume has surged by roughly 40 per cent. That combination of falling price and rising volume rarely signals calm. It tells a story of forced exits, not quiet repositio…"
     },
     {
-      "title": "[UPDATE] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Erlangen von Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 40.68,
+      "title": "MAS gives Singapore’s financial firms one year to prepare for AI risk rules",
+      "url": "https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-08T06:40:55+00:00",
+      "age_days": 0.01,
       "topics": [
-        "security"
+        "ai"
       ],
-      "dynamics_score": 19.9,
+      "dynamics_score": 20.0,
       "raw_band": "strong",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3",
-        "aging penalty -6.9 for 40.7d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -340,25 +365,24 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T05:30:29+00:00",
-      "age_days": 26.04,
+      "age_days": 26.06,
       "topics": [
         "general"
       ],
       "dynamics_score": 19.9,
-      "raw_band": "krass",
+      "raw_band": "strong",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.41,
+      "baseline_z_hint": 2.32,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 5.41",
-        "aging penalty -1.8 for 26.0d old signal",
-        "krass gate: single-source non-official/non-identity signal capped",
+        "baseline z_hint 2.32",
+        "aging penalty -1.8 for 26.1d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
@@ -368,7 +392,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T05:52:25.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -389,15 +413,40 @@
       "summary": "Time 2026-10-08 05:35:56 UTC 2026-10-08 05:35:56 UTC at epicenter Location 22.192°S 68.668°W Depth 121.38 km (75.42 mi)"
     },
     {
+      "title": "[UPDATE] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 40.7,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 18.1,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -6.9 for 40.7d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.5 - 39 km NE of Calama, Chile",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:07:27+00:00",
-      "age_days": 24.72,
+      "age_days": 24.75,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.2,
+      "dynamics_score": 17.19,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -418,7 +467,7 @@
       "url": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/crafting-apps-20261008.html/index.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T23:59:05+00:00",
-      "age_days": 3.27,
+      "age_days": 3.29,
       "topics": [
         "general"
       ],
@@ -442,7 +491,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T03:51:22.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -467,7 +516,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T04:01:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -491,7 +540,7 @@
       "url": "https://e27.co/creative-supply-is-large-dependable-production-capacity-is-not-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T04:28:15+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -516,11 +565,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T08:36:29+00:00",
-      "age_days": 39.91,
+      "age_days": 39.93,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.88,
+      "dynamics_score": 15.87,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -541,7 +590,7 @@
       "url": "https://www.jpcert.or.jp/at/2026/at260030.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T03:47:14+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -565,7 +614,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2146580.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T02:39:35+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -589,7 +638,7 @@
       "url": "https://www.gdm.or.jp/pressrelease/2026/1007/655190",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T02:07:23+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -613,7 +662,7 @@
       "url": "https://e27.co/endeavor-catalyst-raises-us320m-to-back-the-next-wave-of-elsewhere-startups-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T04:01:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -639,7 +688,7 @@
       "url": "https://e27.co/southeast-asia-is-digitising-health-records-making-them-portable-is-the-harder-problem-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T03:25:42+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -665,7 +714,7 @@
       "url": "https://e27.co/seas-insurers-face-a-new-question-what-happens-when-customers-have-agents-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T02:07:23+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -691,7 +740,7 @@
       "url": "https://e27.co/bitcoins-us83000-test-can-institutional-demand-hold-the-line-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T05:00:44+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -715,7 +764,7 @@
       "url": "https://e27.co/not-every-customer-is-good-for-growth-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T01:01:39+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -735,11 +784,61 @@
       "summary": ""
     },
     {
+      "title": "MAS gives Singapore’s financial firms one year to prepare for AI risk rules",
+      "url": "https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-08T06:16:03+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: execution, 10, auth",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Singapore’s financial regulator has set out how banks, insurers, payment companies and other financial institutions should govern artificial intelligence, as AI moves from back-office experiments into systems that can influence customer outcomes, risk decisions and even execution. The Monetary Authority of Singapore (…"
+    },
+    {
+      "title": "Piero Cipollone: Interview with Corriere della Sera",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-10-08T06:00:00+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Piero Cipollone: Interview with Corriere della Sera"
+    },
+    {
       "title": "PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が日本語フォント、UIの日本語化に対応",
       "url": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/crafting-apps-20261008.html/index.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T00:48:05+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -759,11 +858,60 @@
       "summary": "10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafting AppsのPhotoCraftで、PSDを作成し、レイヤーを作成し、日本語フォントを使用したものです。 Crafting Appsは、Photoshop, Illustrator, Premiere Pro,..."
     },
     {
+      "title": "デジタル庁におけるデジタル人材確保・育成計画を更新しました",
+      "url": "https://www.digital.go.jp/about/human-resource-plan",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-08T06:40:55+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Piero Cipollone: Interview with Corriere della Sera",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 111.69,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 111.7d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "直近で相次いでいる国内組織における不正アクセスに関する注意喚起",
       "url": "https://www.jpcert.or.jp/at/2026/at260030.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T02:17:29+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -787,7 +935,7 @@
       "url": "https://www.gdm.or.jp/pressrelease/2026/1007/655190",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-07T09:44:28+00:00",
-      "age_days": 0.86,
+      "age_days": 0.89,
       "topics": [
         "general"
       ],
@@ -811,7 +959,7 @@
       "url": "https://e27.co/endeavor-catalyst-raises-us320m-to-back-the-next-wave-of-elsewhere-startups-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T03:47:24+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -838,7 +986,7 @@
       "url": "https://e27.co/southeast-asia-is-digitising-health-records-making-them-portable-is-the-harder-problem-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T03:00:06+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -864,7 +1012,7 @@
       "url": "https://e27.co/seas-insurers-face-a-new-question-what-happens-when-customers-have-agents-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T02:00:37+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -885,131 +1033,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Insurance has spent the past year experimenting with generative AI in the most obvious corners of the enterprise: summarising emails, extracting details from claims forms, drafting responses for call-centre agents, and speeding up document-heavy back-office work. Those are useful gains. But a new whitepaper by Google…"
-    },
-    {
-      "title": "Not every customer is good for growth",
-      "url": "https://e27.co/not-every-customer-is-good-for-growth-20261004/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-08T01:00:55+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Winning new customers is usually treated as one of the clearest signs that a company is growing. More contracts mean more revenue, more logos and more evidence that the market wants what the business is selling. For an early-stage company in particular, saying no to a paying customer can feel almost irrational. Yet re…"
-    },
-    {
-      "title": "【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか - Qiita",
-      "url": "https://qiita.com/shinkai_/items/4c6c12324e115a125621",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 111.19,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 111.2d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2146580.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-07T23:39:51+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要"
-    },
-    {
-      "title": "Creative supply is large, dependable production capacity is not",
-      "url": "https://e27.co/creative-supply-is-large-dependable-production-capacity-is-not-20261004/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-08T04:00:32+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: supply",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The client accepted the final video. We still decided not to work with the production team again. Before the project, the team had looked like a strong choice. They sent us more than a dozen polished samples, with good image quality and a convincing visual standard. We hired them to produce a five-minute promotional f…"
-    },
-    {
-      "title": "【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか - Qiita",
-      "url": "https://qiita.com/shinkai_/items/4c6c12324e115a125621",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-08T00:13:18+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "このほか、Gyazoでユーザー関連データ約2,362万件、ムラウチドットコムで771万6,811件の個人情報の持ち出しが確認されたと報じられています。 ただしGyazoの件数は、メールアドレス未登録の匿名ユーザーも含みます。 件数を単純に足しても意味がないので、数字は規模感の目安として見るのがよさそうです。 参考：各社公..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s biggest tech IPO of the year is a landlord” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
