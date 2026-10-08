@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T15:24:36+00:00_
+_Generiert: 2026-10-08T15:39:24+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+69 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -195,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-08 05:35:56 UTC 2026-10-08 05:35:56 UTC at epicenter Location 22.192°S 68.668°W Depth 121.38 km (75.42 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Disrupting AI-enabled “false front” operations** — Score 11, observation — [Quelle](https://openai.com/index/disrupting-ai-enabled-false-front-operations)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-08T00:00:00+00:00`, fetched `2026-10-08T15:38:54+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Where AI risks meet** — Score 10, opportunity — [Quelle](https://www.bis.org/speeches/20261007-where-ai-risks-meet)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-10-08T00:00:00+00:00`, fetched `2026-10-08T09:24:50+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafting AppsのPhotoCraftで、PSDを作成し、レイヤーを作成し、日本語フォントを使用したものです。 Crafting Appsは、Photoshop, Illustrator, Premiere Pro,...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Tenable Nessus (02 octobre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1247/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-10-02T00:00:00+00:00`, fetched `2026-10-08T13:48:20+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
