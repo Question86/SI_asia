@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-08T23:22:55+00:00_
+_Generated: 2026-10-08T23:35:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `80`
+- findings: `82`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-08T23:22:55+00:00_
 - url: https://github.com/morluto/rea
 - summary: Reverse engineer anything with agents, from app behavior down to native binaries. https://morluto.github.io/rea/ English · 简体中文 · 日本語 · 한국어 · العربية REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime beh…
 
-### 5. M 6.3 - 102 km NE of Norsup, Vanuatu
+### 5. 【速報】リーマン予想に進展があったかもしれない【零点の評価から何が言えるの？】 - tsujimotterのノートブック
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-10-08T12:12:38+00:00`
+- url: https://tsujimotter.hatenablog.com/entry/riemann-hypothesis-progression-oct-2026
+- summary: 速報です！ OpenAIから、数学の未解決問題を 372個 解いたとするニュースが2026年10月7日に入ってきました。 解けた問題のリストと、すべてのプレプリントがGithub上に公開されています。 github.com 以下は、X（旧Twitter）上のOpenAIの投稿の引用です。 私たちは、内部の最先端モデルによって生成された幅広い新しい数...
+
+### 6. M 6.3 - 102 km NE of Norsup, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-08T09:25:11.958+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi
 - summary: PAGER - GREEN ShakeMap - VIII DYFI? - VII Time 2026-10-08 09:00:07 UTC 2026-10-08 09:00:07 UTC at epicenter Location 15.541°S 168.189°E Depth 10.00 km (6.21 mi)
 
-### 6. How Oracle turns days of work into minutes with ChatGPT and Codex
+### 7. How Oracle turns days of work into minutes with ChatGPT and Codex
 - source: OpenAI News RSS
 - score: `12`
 - published: `2026-10-08T16:00:00+00:00`
 - url: https://openai.com/index/oracle
 - summary: Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.
 
-### 7. Pollo AI turns creative ideas into campaigns with OpenAI
+### 8. Pollo AI turns creative ideas into campaigns with OpenAI
 - source: OpenAI News RSS
 - score: `12`
 - published: `2026-10-08T12:00:00+00:00`
 - url: https://openai.com/index/pollo-ai
 - summary: With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.
-
-### 8. Waller, The Signaling Value of the Summary of Economic Projections
-- source: Federal Reserve Speeches and Testimony
-- score: `12`
-- published: `2026-10-08T08:30:00+00:00`
-- url: https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm
-- summary: Speech At the Istanbul Economic Forum, Central Bank of the Republic of T&uuml;rkiye, Istanbul, T&uuml;rkiye
 
 END OF DOCUMENT

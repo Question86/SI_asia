@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T23:22:55+00:00_
+_Generiert: 2026-10-08T23:35:37+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+82 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **【速報】リーマン予想に進展があったかもしれない【零点の評価から何が言えるの？】 - tsujimotterのノートブック** — Score 13, observation — [Quelle](https://tsujimotter.hatenablog.com/entry/riemann-hypothesis-progression-oct-2026)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-08T12:12:38+00:00`, fetched `2026-10-08T23:35:00+00:00`
+  - Treffer: GitHub, Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: 速報です！ OpenAIから、数学の未解決問題を 372個 解いたとするニュースが2026年10月7日に入ってきました。 解けた問題のリストと、すべてのプレプリントがGithub上に公開されています。 github.com 以下は、X（旧Twitter）上のOpenAIの投稿の引用です。 私たちは、内部の最先端モデルによって生成された幅広い新しい数...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 6.3 - 102 km NE of Norsup, Vanuatu** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-08T09:25:11.958+00:00`, fetched `2026-10-08T09:24:50+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); banking (+2.5); recent (+1.0); watchgraph region europe: London (+2.0)
   - Kurz: Opening remarks by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the OMFIF (Official Monetary and Financial Institutions Forum) Roundtable “Future of banking: Europe’s strategic banking challenges”, London, 1 October 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **How one bug bounty researcher chooses the features they investigate** — Score 9, observation — [Quelle](https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-10-08T17:02:52+00:00`, fetched `2026-10-08T17:18:56+00:00`
-  - Treffer: GitHub, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
