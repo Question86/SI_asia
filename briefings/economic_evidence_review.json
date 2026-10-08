@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T03:47:45+00:00",
+  "generated_at": "2026-10-08T04:01:30+00:00",
   "fx_as_of": null,
-  "candidate_count": 1725,
+  "candidate_count": 1728,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 1725
+    "pending": 1728
   },
   "coverage_warning": null,
   "candidates": [
@@ -20795,6 +20795,48 @@
       "source_url": "https://e27.co/southeast-asia-is-digitising-health-records-making-them-portable-is-the-harder-problem-20261004/"
     },
     {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_b001110b762d031b06c7",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_44096f72fdab32d24ff5",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-08T04:01:21+00:00",
+      "overlap_group_suggestion": "evt_44096f72fdab32d24ff5:capital_allocation:16a051a7b684",
+      "review_status": "pending",
+      "snippet": "data Defi E-Commerce Hardware Retail Artificial Intelligence Cryptocurrency Education Healthtech Software As A Service View all Startups --> POSTS STARTUPS Tech Innovators secured $50 million in funding from Venture Capitalist Alpha, paving the way for groundbreaking advancements in artificial intelligence. Discover the power of AI in transforming your daily tasks! Wit",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/endeavor-catalyst-raises-us320m-to-back-the-next-wave-of-elsewhere-startups-20261008/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_094f5d78a9a8455a0f9e",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_44096f72fdab32d24ff5",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-08T04:01:21+00:00",
+      "overlap_group_suggestion": "evt_44096f72fdab32d24ff5:capital_allocation:f3a8ffe32888",
+      "review_status": "pending",
+      "snippet": "cial intelligence. Discover the power of AI in transforming your daily tasks! With intelligent algorithms, we enhance productivity and streamline workflows. AI Innovations Secures $50 Million in Funding from Visionary Investor Experience the future with AI-driven solutions that simplify complex processes and boost efficiency in your work environment. View all Posts Xam",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/endeavor-catalyst-raises-us320m-to-back-the-next-wave-of-elsewhere-startups-20261008/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 44000000.0,
       "amount_usd": 44000000.0,
       "attribution_probability": null,
@@ -24899,6 +24941,27 @@
       "snippet": "Circle to acquire Tazapay for US$400M as USDC push moves into cross-border payments | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email address Go to Edit",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://e27.co/circle-to-acquire-tazapay-as-usdc-push-moves-into-cross-border-payments-20260909/"
+    },
+    {
+      "amount_native": 320000000.0,
+      "amount_usd": 320000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_dccd29619384d1fe395f",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_44096f72fdab32d24ff5",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-08T04:01:21+00:00",
+      "overlap_group_suggestion": "evt_44096f72fdab32d24ff5:unknown:3627146fd6a2",
+      "review_status": "pending",
+      "snippet": "Endeavor Catalyst raises US$320M to back the next wave of 'Elsewhere' startups | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email address Go to Edit",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/endeavor-catalyst-raises-us320m-to-back-the-next-wave-of-elsewhere-startups-20261008/",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 300000000.0,
