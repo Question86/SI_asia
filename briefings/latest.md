@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T23:35:37+00:00_
+_Generiert: 2026-10-08T23:47:28+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+84 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -216,6 +216,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); recent (+1.0)
   - Kurz: With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **LegalOn halves Codex costs while maintaining development speed** — Score 12, observation — [Quelle](https://openai.com/index/legalon-halves-codex-costs)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-08T12:00:00+00:00`, fetched `2026-10-08T23:46:54+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Waller, The Signaling Value of the Summary of Economic Projections** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
   - Zeit: published `2026-10-08T08:30:00+00:00`, fetched `2026-10-08T08:38:01+00:00`
@@ -288,15 +297,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-08 05:35:56 UTC 2026-10-08 05:35:56 UTC at epicenter Location 22.192°S 68.668°W Depth 121.38 km (75.42 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Disrupting AI-enabled “false front” operations** — Score 11, observation — [Quelle](https://openai.com/index/disrupting-ai-enabled-false-front-operations)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-10-08T00:00:00+00:00`, fetched `2026-10-08T15:38:54+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
-  - Kurz: OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Where AI risks meet** — Score 10, opportunity — [Quelle](https://www.bis.org/speeches/20261007-where-ai-risks-meet)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-10-08T00:00:00+00:00`, fetched `2026-10-08T09:24:50+00:00`

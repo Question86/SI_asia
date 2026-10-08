@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-08T23:35:41+00:00",
+  "generated_at": "2026-10-08T23:47:30+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 82,
-    "clusters": 52,
+    "findings": 84,
+    "clusters": 53,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 2,
+    "early_signals": 1,
     "dominance_penalized": 13
   },
   "clusters": [
@@ -47,44 +47,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-08T02:07:23+00:00"
-    },
-    {
-      "key": "title:tsujimotter",
-      "title": "【速報】リーマン予想に進展があったかもしれない【零点の評価から何が言えるの？】 - tsujimotterのノートブック",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://tsujimotter.hatenablog.com/entry/riemann-hypothesis-progression-oct-2026"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 22.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 18.1,
-      "ranking_score": 22.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-08T23:35:41+00:00"
     },
     {
       "key": "url:https://ptyhard.co.jp/blog/2026/10/code-review",
@@ -167,8 +129,8 @@
       "first_seen_at": "2026-10-08T07:36:14+00:00"
     },
     {
-      "key": "title:security-drive",
-      "title": "情報漏えいの公表急増――いま増えているのは「攻撃」ではなく「発覚」 | SECURITY DRIVE",
+      "key": "title:tsujimotter",
+      "title": "【速報】リーマン予想に進展があったかもしれない【零点の評価から何が言えるの？】 - tsujimotterのノートブック",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -176,20 +138,20 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://securitydrive.jp/column/0023/"
+        "https://tsujimotter.hatenablog.com/entry/riemann-hypothesis-progression-oct-2026"
       ],
       "finding_count": 1,
-      "max_score": 12,
+      "max_score": 13,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 19.0,
+      "network_score": 20.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 19.0,
+      "raw_network_score": 15.1,
+      "ranking_score": 20.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
@@ -202,7 +164,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-10-08T23:02:33+00:00"
+      "first_seen_at": "2026-10-08T23:35:41+00:00"
     },
     {
       "key": "earthquake:philippines:5.5",
@@ -244,6 +206,49 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-10-08T08:38:35+00:00"
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/oracle",
+        "https://openai.com/index/pollo-ai",
+        "https://openai.com/index/legalon-halves-codex-costs",
+        "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+      ],
+      "finding_count": 4,
+      "max_score": 12,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 18.27,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 23.4,
+      "ranking_score": 18.27,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 2.27,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "domain:wid.cert-bund.de",
@@ -608,46 +613,42 @@
       "first_seen_at": "2026-08-29T08:36:29+00:00"
     },
     {
-      "key": "domain:openai.com",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "key": "title:security-drive",
+      "title": "情報漏えいの公表急増――いま増えているのは「攻撃」ではなく「発覚」 | SECURITY DRIVE",
       "sources": [
-        "OpenAI News RSS"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://openai.com/index/oracle",
-        "https://openai.com/index/pollo-ai",
-        "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+        "https://securitydrive.jp/column/0023/"
       ],
-      "finding_count": 3,
+      "finding_count": 1,
       "max_score": 12,
-      "credibility_total": 3.15,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.81,
+      "network_score": 13.5,
       "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
+      "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 18.3,
-      "ranking_score": 13.81,
+      "raw_network_score": 14.1,
+      "ranking_score": 13.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.31,
+      "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
+      "first_seen_at": "2026-10-08T23:02:33+00:00"
     },
     {
       "key": "title:endeavor-catalyst-raises-320m-back-next-wave-elsewhere",
@@ -849,44 +850,6 @@
       "first_seen_at": "2026-10-08T09:25:25+00:00"
     },
     {
-      "key": "domain:www.nikkei.com",
-      "title": "外国人技術者の米永住権申請制度、Microsoftの利用停止 バンス氏表明 - 日本経済新聞",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.nikkei.com/article/DGXZQOGN08BSH0Y6A001C2000000/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.12,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.1,
-      "ranking_score": 12.12,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.12,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T02:10:07+00:00"
-    },
-    {
       "key": "domain:www.bis.org",
       "title": "Introductory statement - roundtable \"Preparing for transformative AI\"",
       "sources": [
@@ -968,6 +931,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:ki-to-oku.net",
+      "title": "撮ったことすら忘れるスクショは、AIで外部記憶になりつつある",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://ki-to-oku.net/ai-turns-screenshots-into-external-memory/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 13.1,
+      "ranking_score": 12.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-08T23:47:30+00:00"
     },
     {
       "key": "title:one-bug-bounty-researcher-chooses-features-they-investigate",
@@ -1066,18 +1067,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.34,
+      "network_score": 10.3,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 10.1,
-      "ranking_score": 10.34,
+      "ranking_score": 10.3,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.84,
+      "baseline_bonus": 0.8,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1199,6 +1200,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-08T13:48:55+00:00"
+    },
+    {
+      "key": "domain:www.nikkei.com",
+      "title": "外国人技術者の米永住権申請制度、Microsoftの利用停止 バンス氏表明 - 日本経済新聞",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOGN08BSH0Y6A001C2000000/"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.1,
+      "ranking_score": 8.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T02:10:07+00:00"
     },
     {
       "key": "domain:xtech.nikkei.com",
@@ -2051,7 +2090,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-08T23:35:41Z",
+    "generated_at": "2026-10-08T23:47:31Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
