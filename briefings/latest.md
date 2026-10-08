@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T12:53:50+00:00_
+_Generiert: 2026-10-08T13:07:52+00:00_
 
 ## Kurzlage
 
@@ -37,6 +37,10 @@ _Generiert: 2026-10-08T12:53:50+00:00_
   - Quelle: USGS
   - Zeit: `2026-10-08T09:00:07+00:00`
   - Kurz: M6.3 - 102 km NE of Norsup, Vanuatu. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Volcanic eruption is on going for Taal in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000151)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Volcanic eruption is on going for Taal in Philippines
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 2.4 million in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570075)
   - Quelle: GDACS
   - Zeit: ``
