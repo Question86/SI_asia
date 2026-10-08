@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T10:33:07+00:00",
+  "generated_at": "2026-10-08T10:48:53+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -3300,7 +3300,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3aaed9c1c4511e12bda5",
@@ -12710,12 +12710,12 @@
     {
       "event_id": "evt_deb84704ce8e70bf2fc6",
       "title": "M 5.1 - 236 km E of Levuka, Fiji",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -13035,7 +13035,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_e3b72d64234569d5072c",
