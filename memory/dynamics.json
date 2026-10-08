@@ -1,12 +1,122 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-08T00:40:31Z",
+  "generated_at": "2026-10-08T01:22:46Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 0,
-    "bands": {},
-    "bands_after_gate_recheck": {}
+    "dynamics": 4,
+    "bands": {
+      "extreme": 1,
+      "strong": 1,
+      "quiet": 2
+    },
+    "bands_after_gate_recheck": {
+      "strong": 2,
+      "quiet": 2
+    }
   },
-  "top_dynamics": []
+  "top_dynamics": [
+    {
+      "title": "Southeast Asia’s biggest tech IPO of the year is a landlord",
+      "url": "https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-08T01:01:39+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Southeast Asia’s biggest tech IPO of the year is a landlord",
+      "url": "https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-08T01:00:31+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, rce, 10",
+        "security high-signal: active, rce, 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "For the better part of a decade, Southeast Asia rehearsed its big public-markets moment with a familiar cast: a ride-hailing superapp, a gaming-and-e-commerce giant, a merged Indonesian decacorn. The next star, we assumed, would be another consumer platform that turned the region’s 680 million people into daily active…"
+    },
+    {
+      "title": "Not every customer is good for growth",
+      "url": "https://e27.co/not-every-customer-is-good-for-growth-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-08T01:01:39+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Not every customer is good for growth",
+      "url": "https://e27.co/not-every-customer-is-good-for-growth-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-08T01:00:55+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Winning new customers is usually treated as one of the clearest signs that a company is growing. More contracts mean more revenue, more logos and more evidence that the market wants what the business is selling. For an early-stage company in particular, saying no to a paying customer can feel almost irrational. Yet re…"
+    }
+  ],
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s biggest tech IPO of the year is a landlord” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
