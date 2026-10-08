@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T03:25:40+00:00_
+_Generiert: 2026-10-08T03:47:11+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+9 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,14 +37,14 @@ _Generiert: 2026-10-08T03:25:40+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
-- **GDACS: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.533 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001335)
+- **GDACS: Orange notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.696 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001335)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.533 million .
-- **GDACS: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.574 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001334)
+  - Kurz: Orange notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.696 million .
+- **GDACS: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.66 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001334)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.574 million .
+  - Kurz: Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.66 million .
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:88.2km) in United States 06/10/2026 18:34 UTC, 70 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1569807)
   - Quelle: GDACS
   - Zeit: ``
@@ -120,6 +120,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: Insurance has spent the past year experimenting with generative AI in the most obvious corners of the enterprise: summarising emails, extracting details from claims forms, drafting responses for call-centre agents, and speeding up document-heavy back-office work. Those are useful gains. But a new whitepaper by Google Cloud and CoverGo argues that they may also be […] The post SEA’s insurers face a new question: what…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **直近で相次いでいる国内組織における不正アクセスに関する注意喚起** — Score 5, observation — [Quelle](https://www.jpcert.or.jp/at/2026/at260030.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-08T02:17:29+00:00`, fetched `2026-10-08T03:46:36+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: JPCERT-AT-2026-0030 JPCERT/CC 2026-10-08 I. 概要各被害公表や報道のとおり、直近2026年9月前後で国内組織における不正アクセスによる個人情報等の漏えい被害が相次いでいます。 複数の製品やサービスで被害が発生している中、技術的な情報の共有が不足しており、把握している情報は限定的かつ断片的であるものの、攻...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2146580.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

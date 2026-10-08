@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T03:25:42+00:00",
+  "generated_at": "2026-10-08T03:47:14+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -29542,7 +29542,7 @@
     },
     "earthquake:indonesia:4.7": {
       "title": "M 4.7 - 101 km NE of Ruteng, Indonesia",
-      "updated_at": "2026-10-08T03:25:42+00:00",
+      "updated_at": "2026-10-08T03:47:14+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -29572,13 +29572,13 @@
         17.7,
         17.7,
         17.7,
-        17.7,
-        20.7
+        20.7,
+        17.7
       ],
       "rolling_average": 17.8,
       "rolling_peak": 20.7,
-      "last_score": 20.7,
-      "z_hint": 2.9
+      "last_score": 17.7,
+      "z_hint": -0.1
     },
     "github_repo:melgarafael/deskcommcrm": {
       "title": "melgarafael/DeskcommCRM",
@@ -63698,67 +63698,86 @@
     },
     "title:southeast-asia-biggest-tech-ipo-year-landlord": {
       "title": "Southeast Asia’s biggest tech IPO of the year is a landlord",
-      "updated_at": "2026-10-08T03:25:42+00:00",
+      "updated_at": "2026-10-08T03:47:14+00:00",
       "network_scores": [
         19.1,
         16.1,
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.6,
+      "rolling_average": 16.53,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:not-every-customer-good-growth": {
       "title": "Not every customer is good for growth",
-      "updated_at": "2026-10-08T03:25:42+00:00",
+      "updated_at": "2026-10-08T03:47:14+00:00",
       "network_scores": [
         9.1,
         6.1,
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.6,
+      "rolling_average": 6.53,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:asean-just-upgraded-its-trade-rulebook-most-operators": {
       "title": "ASEAN just upgraded its trade rulebook. Most operators will scale on the old one",
-      "updated_at": "2026-10-08T03:25:42+00:00",
+      "updated_at": "2026-10-08T03:47:14+00:00",
       "network_scores": [
         28.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.85,
+      "rolling_average": 25.7,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:sea-insurers-face-question-what-happens-when-customers": {
       "title": "SEA’s insurers face a new question: what happens when customers have agents?",
-      "updated_at": "2026-10-08T03:25:42+00:00",
+      "updated_at": "2026-10-08T03:47:14+00:00",
       "network_scores": [
         17.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.85,
+      "rolling_average": 14.7,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:tafd01": {
       "title": "トラックボールの“玉”をフッ素コーティング。約5秒で乾くエレコム「M-TAFD01」 - エルミタージュ秋葉原",
-      "updated_at": "2026-10-08T03:25:42+00:00",
+      "updated_at": "2026-10-08T03:47:14+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.7,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.6
+    },
+    "title:windows-rdc": {
+      "title": "「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要",
+      "updated_at": "2026-10-08T03:47:14+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -63770,28 +63789,27 @@
       "last_score": 7.1,
       "z_hint": -0.75
     },
-    "title:windows-rdc": {
-      "title": "「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要",
-      "updated_at": "2026-10-08T03:25:42+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 8.1,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -1.0
-    },
     "title:southeast-asia-digitising-health-records-making-them-portable": {
       "title": "Southeast Asia is digitising health records. Making them portable is the harder problem",
-      "updated_at": "2026-10-08T03:25:42+00:00",
+      "updated_at": "2026-10-08T03:47:14+00:00",
       "network_scores": [
-        17.1
+        17.1,
+        14.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 15.6,
       "rolling_peak": 17.1,
-      "last_score": 17.1,
+      "last_score": 14.1,
+      "z_hint": -1.5
+    },
+    "url:https://www.jpcert.or.jp/at/2026/at260030.html": {
+      "title": "直近で相次いでいる国内組織における不正アクセスに関する注意喚起",
+      "updated_at": "2026-10-08T03:47:14+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
       "z_hint": 0.0
     }
   }

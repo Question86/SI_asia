@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-08T03:25:40+00:00_
+_Generated: 2026-10-08T03:47:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `8`
+- findings: `9`
 
 ## Top Signals
 
@@ -43,18 +43,18 @@ _Generated: 2026-10-08T03:25:40+00:00_
 - url: https://e27.co/seas-insurers-face-a-new-question-what-happens-when-customers-have-agents-20261007/
 - summary: Insurance has spent the past year experimenting with generative AI in the most obvious corners of the enterprise: summarising emails, extracting details from claims forms, drafting responses for call-centre agents, and speeding up document-heavy back-office w…
 
-### 6. 「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要
+### 6. 直近で相次いでいる国内組織における不正アクセスに関する注意喚起
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-10-08T02:17:29+00:00`
+- url: https://www.jpcert.or.jp/at/2026/at260030.html
+- summary: JPCERT-AT-2026-0030 JPCERT/CC 2026-10-08 I. 概要各被害公表や報道のとおり、直近2026年9月前後で国内組織における不正アクセスによる個人情報等の漏えい被害が相次いでいます。 複数の製品やサービスで被害が発生している中、技術的な情報の共有が不足しており、把握している情報は限定的かつ断片的であるものの、攻...
+
+### 7. 「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-07T23:39:51+00:00`
 - url: https://forest.watch.impress.co.jp/docs/news/2146580.html
 - summary: 「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要
-
-### 7. トラックボールの“玉”をフッ素コーティング。約5秒で乾くエレコム「M-TAFD01」 - エルミタージュ秋葉原
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-07T09:44:28+00:00`
-- url: https://www.gdm.or.jp/pressrelease/2026/1007/655190
-- summary: トラックボールの“玉”をフッ素コーティング。約5秒で乾くエレコム「M-TAFD01」 2026.10.07 13:43 更新 2026.10.07 配信 フッ素コーティングで摩擦を軽減、汚れの付着や水濡れも抑制 エレコム株式会社（本社：大阪府大阪市）は2026年10月7日、トラックボール用ボールメンテナンスキット「M-TAFD01」を発表した。10月上旬...
 
 END OF DOCUMENT
