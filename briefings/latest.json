@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T19:36:34+00:00",
-  "run_id": "2026-10-08T19:36:34+00:00",
+  "generated_at": "2026-10-08T19:49:01+00:00",
+  "run_id": "2026-10-08T19:49:01+00:00",
   "date": "2026-10-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 73
+      "configured_public_sources_only": 74
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "new_relevant_findings": 1,
+    "today_file_total": 74,
+    "displayed_findings": 74,
     "high": 0,
     "medium": 27,
-    "observe": 46,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -1443,6 +1443,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "228f0fe818e096edbc4a"
+      },
+      {
+        "title": "「ソフトウェアエンジニアリングの基礎」から見る読書マップ | フューチャー技術ブログ",
+        "url": "https://future-architect.github.io/articles/20261008a/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-08T01:36:48+00:00",
+        "fetched_at": "2026-10-08T19:48:32+00:00",
+        "summary": "はじめに『ソフトウェアエンジニアリングの基礎 ―コーダーからエンジニアになるための実践ガイド』（村上列訳、オライリー・ジャパン、2026年9月）を読了しました。 ジュニアなエンジニアが成長するために知っておくべきことが非常によくまとまっており、共感する部分が多かったので、読んでみての感想を残しておきたい...",
+        "matched_keywords": [
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "45487e09f2e2ad29156c"
       },
       {
         "title": "Shifting ground – how geopolitics is reshaping growth, monetary policy and the role of gold as a reserve asset",
@@ -3309,6 +3331,28 @@
       "id": "228f0fe818e096edbc4a"
     },
     {
+      "title": "「ソフトウェアエンジニアリングの基礎」から見る読書マップ | フューチャー技術ブログ",
+      "url": "https://future-architect.github.io/articles/20261008a/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-08T01:36:48+00:00",
+      "fetched_at": "2026-10-08T19:48:32+00:00",
+      "summary": "はじめに『ソフトウェアエンジニアリングの基礎 ―コーダーからエンジニアになるための実践ガイド』（村上列訳、オライリー・ジャパン、2026年9月）を読了しました。 ジュニアなエンジニアが成長するために知っておくべきことが非常によくまとまっており、共感する部分が多かったので、読んでみての感想を残しておきたい...",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "45487e09f2e2ad29156c"
+    },
+    {
       "title": "Shifting ground – how geopolitics is reshaping growth, monetary policy and the role of gold as a reserve asset",
       "url": "https://www.bis.org/speeches/20261007-shifting-ground-how-geopolitics-reshaping-growth-monetary-policy-and-role-gold-reserve-asset",
       "source": "BIS Central Bankers Speeches",
@@ -3757,7 +3801,30 @@
       "id": "75e04212962661c67b82"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "「ソフトウェアエンジニアリングの基礎」から見る読書マップ | フューチャー技術ブログ",
+      "url": "https://future-architect.github.io/articles/20261008a/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-08T01:36:48+00:00",
+      "fetched_at": "2026-10-08T19:48:32+00:00",
+      "summary": "はじめに『ソフトウェアエンジニアリングの基礎 ―コーダーからエンジニアになるための実践ガイド』（村上列訳、オライリー・ジャパン、2026年9月）を読了しました。 ジュニアなエンジニアが成長するために知っておくべきことが非常によくまとまっており、共感する部分が多かったので、読んでみての感想を残しておきたい...",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "45487e09f2e2ad29156c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
