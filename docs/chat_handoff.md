@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-08T17:33:22+00:00_
+_Generated: 2026-10-08T17:47:19+00:00_
 
 ## Status
 - status: `normal`
-- findings: `71`
+- findings: `73`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-08T17:33:22+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi
 - summary: PAGER - GREEN ShakeMap - VIII DYFI? - VII Time 2026-10-08 09:00:07 UTC 2026-10-08 09:00:07 UTC at epicenter Location 15.541°S 168.189°E Depth 10.00 km (6.21 mi)
 
-### 6. Waller, The Signaling Value of the Summary of Economic Projections
+### 6. How Oracle turns days of work into minutes with ChatGPT and Codex
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-10-08T16:00:00+00:00`
+- url: https://openai.com/index/oracle
+- summary: Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.
+
+### 7. Pollo AI turns creative ideas into campaigns with OpenAI
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-10-08T12:00:00+00:00`
+- url: https://openai.com/index/pollo-ai
+- summary: With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.
+
+### 8. Waller, The Signaling Value of the Summary of Economic Projections
 - source: Federal Reserve Speeches and Testimony
 - score: `12`
 - published: `2026-10-08T08:30:00+00:00`
 - url: https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm
 - summary: Speech At the Istanbul Economic Forum, Central Bank of the Republic of T&uuml;rkiye, Istanbul, T&uuml;rkiye
-
-### 7. Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-08T03:47:24+00:00`
-- url: https://e27.co/endeavor-catalyst-raises-us320m-to-back-the-next-wave-of-elsewhere-startups-20261008/
-- summary: Endeavor Catalyst has closed an oversubscribed US$320 million fifth fund, lifting its assets under management to more than US$850 million and giving the global investment platform fresh capital at a time when startup markets outside Silicon Valley are beginni…
-
-### 8. Southeast Asia is digitising health records. Making them portable is the harder problem
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-08T03:00:06+00:00`
-- url: https://e27.co/southeast-asia-is-digitising-health-records-making-them-portable-is-the-harder-problem-20261004/
-- summary: Healthcare digitisation usually becomes visible through the applications people interact with: patient portals, telehealth platforms, digital prescriptions and, increasingly, digital health wallets. But the interface is rarely the difficult part. In March 202…
 
 END OF DOCUMENT

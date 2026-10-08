@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T17:33:22+00:00_
+_Generiert: 2026-10-08T17:47:19+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+73 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -201,6 +201,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - VIII DYFI? - VII Time 2026-10-08 09:00:07 UTC 2026-10-08 09:00:07 UTC at epicenter Location 15.541°S 168.189°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How Oracle turns days of work into minutes with ChatGPT and Codex** — Score 12, observation — [Quelle](https://openai.com/index/oracle)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-08T16:00:00+00:00`, fetched `2026-10-08T17:46:51+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Pollo AI turns creative ideas into campaigns with OpenAI** — Score 12, observation — [Quelle](https://openai.com/index/pollo-ai)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-08T12:00:00+00:00`, fetched `2026-10-08T17:46:51+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); recent (+1.0)
+  - Kurz: With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Waller, The Signaling Value of the Summary of Economic Projections** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
   - Zeit: published `2026-10-08T08:30:00+00:00`, fetched `2026-10-08T08:38:01+00:00`
@@ -309,24 +327,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-08 10:07:28 UTC 2026-10-08 10:07:28 UTC at epicenter Location 18.015°S 178.455°W Depth 602.27 km (374.23 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Meeting of 9-10 September 2026** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-08T11:30:00+00:00`, fetched `2026-10-08T11:34:38+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Meeting of 9-10 September 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Piero Cipollone: Interview with Corriere della Sera** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-08T06:00:00+00:00`, fetched `2026-10-08T06:40:21+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Piero Cipollone: Interview with Corriere della Sera
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
