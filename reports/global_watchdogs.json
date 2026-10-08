@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T09:25:25+00:00",
+  "generated_at": "2026-10-08T09:42:31+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,10 +65,10 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green flood alert in Thailand",
-        "summary": "Green flood alert in Thailand",
+        "title": "GDACS: Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).",
+        "summary": "Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570077",
         "published_at": "",
         "metrics": {}
       },
@@ -83,7 +83,7 @@
         "metrics": {
           "mag": 6.3,
           "alert": "green",
-          "sig": 612.0,
+          "sig": 613.0,
           "tsunami": 0
         }
       },
@@ -110,8 +110,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Orange notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 90979 .",
-        "summary": "Orange notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 90979 .",
+        "title": "GDACS: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.758 million .",
+        "summary": "Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.758 million .",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001335",
         "published_at": "",

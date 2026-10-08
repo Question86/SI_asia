@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T09:25:23+00:00",
-  "run_id": "2026-10-08T09:25:23+00:00",
+  "generated_at": "2026-10-08T09:42:27+00:00",
+  "run_id": "2026-10-08T09:42:27+00:00",
   "date": "2026-10-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 36
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 3,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
     "medium": 12,
-    "observe": 24,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -827,6 +827,66 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "01de79eb36f6a5fb9fcc"
+      },
+      {
+        "title": "Turning opportunities into progress - innovation meets regulation",
+        "url": "https://www.bis.org/speeches/20261007-turning-opportunities-progress-innovation-meets-regulation",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-08T00:00:00+00:00",
+        "fetched_at": "2026-10-08T09:41:55+00:00",
+        "summary": "Address by Dr Jorgovanka Tabaković, Governor of the National Bank of Serbia, at the FIC &amp; EBRD Financial Services Conference “Turning opportunities into progress: innovation meets regulation”, Belgrade, 30 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "237cbca28bd7a1ca2706"
+      },
+      {
+        "title": "The European project, the role of rating agencies and the prospects of the Greek economy",
+        "url": "https://www.bis.org/speeches/20261007-european-project-role-rating-agencies-and-prospects-greek-economy",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-08T00:00:00+00:00",
+        "fetched_at": "2026-10-08T09:41:55+00:00",
+        "summary": "Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the Annual Reunion of the Scope Ratings \"The European project, the role of rating agencies and the prospects of the Greek economy\", Athens, 24 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0eede9e4eaea4f07ca0f"
+      },
+      {
+        "title": "Sustainable finance and the shifting risk landscape",
+        "url": "https://www.bis.org/speeches/20261008-sustainable-finance-and-shifting-risk-landscape",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-08T00:00:00+00:00",
+        "fetched_at": "2026-10-08T09:41:55+00:00",
+        "summary": "Address by Ms Fundi Tshazibana, Deputy Governor of the South African Reserve Bank, at the Bloomberg Sustainable Finance Conversations, Bloomberg, Johannesburg, 30 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cd4cc93656048c49d224"
       },
       {
         "title": "Address - launch of BOMStats, the Bank of Mauritius data portal",
@@ -1814,6 +1874,66 @@
       "id": "01de79eb36f6a5fb9fcc"
     },
     {
+      "title": "Turning opportunities into progress - innovation meets regulation",
+      "url": "https://www.bis.org/speeches/20261007-turning-opportunities-progress-innovation-meets-regulation",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "fetched_at": "2026-10-08T09:41:55+00:00",
+      "summary": "Address by Dr Jorgovanka Tabaković, Governor of the National Bank of Serbia, at the FIC &amp; EBRD Financial Services Conference “Turning opportunities into progress: innovation meets regulation”, Belgrade, 30 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "237cbca28bd7a1ca2706"
+    },
+    {
+      "title": "The European project, the role of rating agencies and the prospects of the Greek economy",
+      "url": "https://www.bis.org/speeches/20261007-european-project-role-rating-agencies-and-prospects-greek-economy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "fetched_at": "2026-10-08T09:41:55+00:00",
+      "summary": "Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the Annual Reunion of the Scope Ratings \"The European project, the role of rating agencies and the prospects of the Greek economy\", Athens, 24 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0eede9e4eaea4f07ca0f"
+    },
+    {
+      "title": "Sustainable finance and the shifting risk landscape",
+      "url": "https://www.bis.org/speeches/20261008-sustainable-finance-and-shifting-risk-landscape",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "fetched_at": "2026-10-08T09:41:55+00:00",
+      "summary": "Address by Ms Fundi Tshazibana, Deputy Governor of the South African Reserve Bank, at the Bloomberg Sustainable Finance Conversations, Bloomberg, Johannesburg, 30 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cd4cc93656048c49d224"
+    },
+    {
       "title": "Address - launch of BOMStats, the Bank of Mauritius data portal",
       "url": "https://www.bis.org/speeches/20261007-address-launch-bomstats-bank-mauritius-data-portal",
       "source": "BIS Central Bankers Speeches",
@@ -2001,92 +2121,13 @@
   ],
   "new_findings": [
     {
-      "title": "M 6.3 - 102 km NE of Norsup, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-08T09:25:11.958+00:00",
-      "fetched_at": "2026-10-08T09:24:50+00:00",
-      "summary": "PAGER - GREEN ShakeMap - VIII DYFI? - VII Time 2026-10-08 09:00:07 UTC 2026-10-08 09:00:07 UTC at epicenter Location 15.541°S 168.189°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "90aa90da02f9e7cfea6e"
-    },
-    {
-      "title": "Where AI risks meet",
-      "url": "https://www.bis.org/speeches/20261007-where-ai-risks-meet",
+      "title": "Sustainable finance and the shifting risk landscape",
+      "url": "https://www.bis.org/speeches/20261008-sustainable-finance-and-shifting-risk-landscape",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-10-08T00:00:00+00:00",
-      "fetched_at": "2026-10-08T09:24:50+00:00",
-      "summary": "Welcome address by Ms Christine Lagarde, President of the European Central Bank and Chair of the European Systemic Risk Board, at the Tenth Annual Conference of the European Systemic Risk Board, Frankfurt am Main, 1 October 2026.",
-      "matched_keywords": [
-        "AI/KI",
-        "Macro/Policy"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fa3aeab49139753cc383"
-    },
-    {
-      "title": "Shifting ground – how geopolitics is reshaping growth, monetary policy and the role of gold as a reserve asset",
-      "url": "https://www.bis.org/speeches/20261007-shifting-ground-how-geopolitics-reshaping-growth-monetary-policy-and-role-gold-reserve-asset",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "fetched_at": "2026-10-08T09:24:50+00:00",
-      "summary": "Keynote speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the Global Precious Metals Conference, Sorrento, 5 October 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e0a7002ff613e3aa292b"
-    },
-    {
-      "title": "Update and outlook for the Jamaican economy",
-      "url": "https://www.bis.org/speeches/20261007-update-and-outlook-jamaican-economy",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "fetched_at": "2026-10-08T09:24:50+00:00",
-      "summary": "Speech by Mr Brian Langrin, Governor of the Bank of Jamaica, at the Monetary Policy Decision Press Briefing, Kingston, 29 September 2026.",
+      "fetched_at": "2026-10-08T09:41:55+00:00",
+      "summary": "Address by Ms Fundi Tshazibana, Deputy Governor of the South African Reserve Bank, at the Bloomberg Sustainable Finance Conversations, Bloomberg, Johannesburg, 30 September 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
@@ -2097,16 +2138,36 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "01de79eb36f6a5fb9fcc"
+      "id": "cd4cc93656048c49d224"
     },
     {
-      "title": "Address - launch of BOMStats, the Bank of Mauritius data portal",
-      "url": "https://www.bis.org/speeches/20261007-address-launch-bomstats-bank-mauritius-data-portal",
+      "title": "Turning opportunities into progress - innovation meets regulation",
+      "url": "https://www.bis.org/speeches/20261007-turning-opportunities-progress-innovation-meets-regulation",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-10-08T00:00:00+00:00",
-      "fetched_at": "2026-10-08T09:24:50+00:00",
-      "summary": "Address by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, at the launch of BOMSTats, the Bank of Mauritius Data Portal, Port Louis, 3 September 2026.",
+      "fetched_at": "2026-10-08T09:41:55+00:00",
+      "summary": "Address by Dr Jorgovanka Tabaković, Governor of the National Bank of Serbia, at the FIC &amp; EBRD Financial Services Conference “Turning opportunities into progress: innovation meets regulation”, Belgrade, 30 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "237cbca28bd7a1ca2706"
+    },
+    {
+      "title": "The European project, the role of rating agencies and the prospects of the Greek economy",
+      "url": "https://www.bis.org/speeches/20261007-european-project-role-rating-agencies-and-prospects-greek-economy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "fetched_at": "2026-10-08T09:41:55+00:00",
+      "summary": "Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the Annual Reunion of the Scope Ratings \"The European project, the role of rating agencies and the prospects of the Greek economy\", Athens, 24 September 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
@@ -2117,7 +2178,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1a056e0332a8fc32f261"
+      "id": "0eede9e4eaea4f07ca0f"
     }
   ],
   "source_errors": [],
