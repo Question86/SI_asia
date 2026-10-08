@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-08T03:47:11+00:00_
+_Generated: 2026-10-08T04:00:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `12`
 
 ## Top Signals
 
@@ -29,32 +29,32 @@ _Generated: 2026-10-08T03:47:11+00:00_
 - url: https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/
 - summary: For the better part of a decade, Southeast Asia rehearsed its big public-markets moment with a familiar cast: a ride-hailing superapp, a gaming-and-e-commerce giant, a merged Indonesian decacorn. The next star, we assumed, would be another consumer platform t…
 
-### 4. Southeast Asia is digitising health records. Making them portable is the harder problem
+### 4. Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-10-08T03:47:24+00:00`
+- url: https://e27.co/endeavor-catalyst-raises-us320m-to-back-the-next-wave-of-elsewhere-startups-20261008/
+- summary: Endeavor Catalyst has closed an oversubscribed US$320 million fifth fund, lifting its assets under management to more than US$850 million and giving the global investment platform fresh capital at a time when startup markets outside Silicon Valley are beginni…
+
+### 5. Southeast Asia is digitising health records. Making them portable is the harder problem
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-08T03:00:06+00:00`
 - url: https://e27.co/southeast-asia-is-digitising-health-records-making-them-portable-is-the-harder-problem-20261004/
 - summary: Healthcare digitisation usually becomes visible through the applications people interact with: patient portals, telehealth platforms, digital prescriptions and, increasingly, digital health wallets. But the interface is rarely the difficult part. In March 202…
 
-### 5. SEA’s insurers face a new question: what happens when customers have agents?
+### 6. SEA’s insurers face a new question: what happens when customers have agents?
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-08T02:00:37+00:00`
 - url: https://e27.co/seas-insurers-face-a-new-question-what-happens-when-customers-have-agents-20261007/
 - summary: Insurance has spent the past year experimenting with generative AI in the most obvious corners of the enterprise: summarising emails, extracting details from claims forms, drafting responses for call-centre agents, and speeding up document-heavy back-office w…
 
-### 6. 直近で相次いでいる国内組織における不正アクセスに関する注意喚起
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-08T02:17:29+00:00`
-- url: https://www.jpcert.or.jp/at/2026/at260030.html
-- summary: JPCERT-AT-2026-0030 JPCERT/CC 2026-10-08 I. 概要各被害公表や報道のとおり、直近2026年9月前後で国内組織における不正アクセスによる個人情報等の漏えい被害が相次いでいます。 複数の製品やサービスで被害が発生している中、技術的な情報の共有が不足しており、把握している情報は限定的かつ断片的であるものの、攻...
-
-### 7. 「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-07T23:39:51+00:00`
-- url: https://forest.watch.impress.co.jp/docs/news/2146580.html
-- summary: 「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要
+### 7. M 4.9 - 81 km NNW of Malfa, Italy
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-08T03:51:22.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0
+- summary: Time 2026-10-08 03:42:52 UTC 2026-10-08 03:42:52 UTC at epicenter Location 39.206°N 14.352°E Depth 367.08 km (228.09 mi)
 
 END OF DOCUMENT
