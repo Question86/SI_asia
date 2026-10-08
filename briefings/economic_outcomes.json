@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T14:41:36+00:00",
+  "generated_at": "2026-10-08T14:55:22+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -3784,7 +3784,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_43a66ad3fda61d859fca",
@@ -5479,6 +5479,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_612e2286ad73ab18c5e8",
+      "title": "AIが書いたコードを目視で追うのはやめよう──「工場の品質検査」から考えるこれからのコードレビュー | パーティーハード株式会社",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_616ba86e197f16b3fa04",
@@ -12782,7 +12793,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_dfb6d8ece97a3fe62d94",
@@ -12914,7 +12925,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_e1aa2e1f944f49693040",
