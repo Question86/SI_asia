@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T12:27:20+00:00",
-  "run_id": "2026-10-08T12:27:20+00:00",
+  "generated_at": "2026-10-08T12:53:50+00:00",
+  "run_id": "2026-10-08T12:53:50+00:00",
   "date": "2026-10-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 54
+      "configured_public_sources_only": 56
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 54,
-    "displayed_findings": 54,
+    "new_relevant_findings": 2,
+    "today_file_total": 56,
+    "displayed_findings": 56,
     "high": 0,
-    "medium": 17,
-    "observe": 37,
+    "medium": 18,
+    "observe": 38,
     "source_errors": 0
   },
   "sections": {
@@ -332,6 +332,29 @@
           "LOW"
         ],
         "id": "ef85b84c8b0e63b57e9d"
+      },
+      {
+        "title": "[UPDATE] [hoch] Oracle Fusion Middleware: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2444",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-08T12:45:16+00:00",
+        "fetched_at": "2026-10-08T12:53:17+00:00",
+        "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Fusion Middleware ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e0ec32e6a0fe977ade0d"
       },
       {
         "title": "[UPDATE] [hoch] Octopus Deploy: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
@@ -1202,6 +1225,27 @@
         "id": "1a056e0332a8fc32f261"
       },
       {
+        "title": "【速報】ローソンに不正アクセス、215万件漏えい",
+        "url": "https://www.47news.jp/15055808.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-08T11:09:55+00:00",
+        "fetched_at": "2026-10-08T12:53:17+00:00",
+        "summary": "ローソンは8日、アカウントサービス「ローソンID」に不正アクセスがあり、利用者の個人情報が漏えいしたと発表した。対象人数は約215万5千件に上る。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3c8a944d48d56f4c7502"
+      },
+      {
         "title": "充電不要でノイキャンが使える、BoseのUSB-C有線イヤホンが国内予約開始 - エルミタージュ秋葉原",
         "url": "https://www.gdm.or.jp/pressrelease/2026/1008/655416",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1714,6 +1758,29 @@
         "LOW"
       ],
       "id": "ef85b84c8b0e63b57e9d"
+    },
+    {
+      "title": "[UPDATE] [hoch] Oracle Fusion Middleware: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2444",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-08T12:45:16+00:00",
+      "fetched_at": "2026-10-08T12:53:17+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Fusion Middleware ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e0ec32e6a0fe977ade0d"
     },
     {
       "title": "[UPDATE] [hoch] Octopus Deploy: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
@@ -2582,6 +2649,27 @@
       "id": "1a056e0332a8fc32f261"
     },
     {
+      "title": "【速報】ローソンに不正アクセス、215万件漏えい",
+      "url": "https://www.47news.jp/15055808.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-08T11:09:55+00:00",
+      "fetched_at": "2026-10-08T12:53:17+00:00",
+      "summary": "ローソンは8日、アカウントサービス「ローソンID」に不正アクセスがあり、利用者の個人情報が漏えいしたと発表した。対象人数は約215万5千件に上る。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3c8a944d48d56f4c7502"
+    },
+    {
       "title": "充電不要でノイキャンが使える、BoseのUSB-C有線イヤホンが国内予約開始 - エルミタージュ秋葉原",
       "url": "https://www.gdm.or.jp/pressrelease/2026/1008/655416",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2791,24 +2879,48 @@
   ],
   "new_findings": [
     {
-      "title": "Veeam stopft Schadcode-Lücke in Backup & Replication",
-      "url": "https://www.heise.de/news/Veeam-stopft-Schadcode-Luecke-in-Backup-Replication-11480790.html",
-      "source": "heise Security Alerts",
+      "title": "[UPDATE] [hoch] Oracle Fusion Middleware: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2444",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-08T11:52:00.000+00:00",
-      "fetched_at": "2026-10-08T12:26:47+00:00",
-      "summary": "Veeam hat Backup & Replication aktualisiert und dabei vier Sicherheitslücken geschlossen. Schmuggeln von Schadcode auf den Server ist möglich.",
+      "published_at": "2026-10-08T12:45:16+00:00",
+      "fetched_at": "2026-10-08T12:53:17+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Fusion Middleware ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
       "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ec40e73ecf728d80660b"
+      "id": "e0ec32e6a0fe977ade0d"
+    },
+    {
+      "title": "【速報】ローソンに不正アクセス、215万件漏えい",
+      "url": "https://www.47news.jp/15055808.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-08T11:09:55+00:00",
+      "fetched_at": "2026-10-08T12:53:17+00:00",
+      "summary": "ローソンは8日、アカウントサービス「ローソンID」に不正アクセスがあり、利用者の個人情報が漏えいしたと発表した。対象人数は約215万5千件に上る。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3c8a944d48d56f4c7502"
     }
   ],
   "source_errors": [],

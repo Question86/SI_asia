@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T12:27:20+00:00_
+_Generiert: 2026-10-08T12:53:50+00:00_
 
 ## Kurzlage
 
-54 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+56 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-08 05:06:52 UTC 2026-10-08 05:06:52 UTC at epicenter Location 9.421°S 118.807°E Depth 65.28 km (40.56 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Oracle Fusion Middleware: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2444)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-08T12:45:16+00:00`, fetched `2026-10-08T12:53:17+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Fusion Middleware ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Octopus Deploy: Mehrere Schwachstellen ermöglichen Privilegieneskalation** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3639)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-08T11:27:55+00:00`, fetched `2026-10-08T11:34:38+00:00`
@@ -83,15 +92,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Octopus Deploy ausnutzen, um seine Privilegien zu erhöhen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Broadcom Fabric OS: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3779)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-08T11:06:46+00:00`, fetched `2026-10-08T11:19:25+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Broadcom Fabric OS ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deployment gap** — Score 14, opportunity — [Quelle](https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
