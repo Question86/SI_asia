@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-08T07:07:04+00:00_
+_Generated: 2026-10-08T07:36:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `26`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-08T07:07:04+00:00_
 - url: https://e27.co/asean-just-upgraded-its-trade-rulebook-most-operators-will-scale-on-the-old-one-20261004/
 - summary: Over the past year, the question I hear from operators shipping into three or four ASEAN markets has quietly changed. It used to be about the tariff. Now it is about the paperwork. Which certificate does this lane need? Who in our supply chain can prove where…
 
-### 2. MAS gives Singapore’s financial firms one year to prepare for AI risk rules
+### 2. morluto/rea
+- source: GitHub Trending RSS All Languages Daily
+- score: `19`
+- published: `None`
+- url: https://github.com/morluto/rea
+- summary: Reverse engineer anything with agents, from app behavior down to native binaries. https://morluto.github.io/rea/ English · 简体中文 · 日本語 · 한국어 · العربية REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime beh…
+
+### 3. MAS gives Singapore’s financial firms one year to prepare for AI risk rules
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-10-08T06:16:03+00:00`
 - url: https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/
 - summary: Singapore’s financial regulator has set out how banks, insurers, payment companies and other financial institutions should govern artificial intelligence, as AI moves from back-office experiments into systems that can influence customer outcomes, risk decisio…
 
-### 3. [UPDATE] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Erlangen von Administratorrechten
+### 4. [UPDATE] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Erlangen von Administratorrechten
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-08T05:51:45+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um Administratorrechte zu erlangen.
-
-### 4. M 4.7 - 47 km W of Tambolaka, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-08T05:58:30.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wb
-- summary: Time 2026-10-08 05:06:52 UTC 2026-10-08 05:06:52 UTC at epicenter Location 9.421°S 118.807°E Depth 65.28 km (40.56 mi)
 
 ### 5. Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups
 - source: e27 Asia Startup and Tech Feed

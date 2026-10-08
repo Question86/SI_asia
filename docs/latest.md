@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T07:07:04+00:00_
+_Generiert: 2026-10-08T07:36:11+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+26 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Supply Chain Security (+8.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Over the past year, the question I hear from operators shipping into three or four ASEAN markets has quietly changed. It used to be about the tariff. Now it is about the paperwork. Which certificate does this lane need? Who in our supply chain can prove where this component was made? Why does the same […] The post ASEAN just upgraded its trade rulebook. Most operators will scale on the old one appeared first on e27 .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **morluto/rea** — Score 19, observation — [Quelle](https://github.com/morluto/rea)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-10-08T07:35:36+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Content-Chance, GitHub Trending, Watchgraph:ai_agents_workflow, Webentwicklung
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Reverse engineer anything with agents, from app behavior down to native binaries. https://morluto.github.io/rea/ English · 简体中文 · 日本語 · 한국어 · العربية REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior. See a feature you like. Understand how it works, down to the binary level. Website · Guides · Showcases Quick start · How REA works · What you can analyz…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **MAS gives Singapore’s financial firms one year to prepare for AI risk rules** — Score 16, observation — [Quelle](https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-08T06:16:03+00:00`, fetched `2026-10-08T06:40:21+00:00`
