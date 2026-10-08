@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T21:35:47+00:00",
-  "run_id": "2026-10-08T21:35:47+00:00",
+  "generated_at": "2026-10-08T21:48:01+00:00",
+  "run_id": "2026-10-08T21:48:01+00:00",
   "date": "2026-10-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 77
+      "configured_public_sources_only": 78
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 77,
-    "displayed_findings": 77,
+    "today_file_total": 78,
+    "displayed_findings": 78,
     "high": 0,
     "medium": 27,
-    "observe": 50,
+    "observe": 51,
     "source_errors": 0
   },
   "sections": {
@@ -1295,6 +1295,28 @@
           "LOW"
         ],
         "id": "b5432d5bb2bb42d4c272"
+      },
+      {
+        "title": "AIに月3万円使えない人はその時点で負けている｜手羽先",
+        "url": "https://note.com/teba_eleven/n/n61e5e7700881",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-08T11:49:24+00:00",
+        "fetched_at": "2026-10-08T21:47:29+00:00",
+        "summary": "結論：AIに月3万円使えない学生はその時点で負けている 月3000円のプランと月3万円のプランでは数十倍から数百倍できることが違う そもそも月3万円を投資できない時点で厳しい AIに全て賭けろ 月3万円も稼げない！という学生やエンジニア いくらでも相談にのります 連絡先：https://magicdelta.ai/contact/ 追記（2026/1...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8c9e2a0d799bf4e8d2b5"
       },
       {
         "title": "Meeting of 9-10 September 2026",
@@ -3245,6 +3267,28 @@
       "id": "b5432d5bb2bb42d4c272"
     },
     {
+      "title": "AIに月3万円使えない人はその時点で負けている｜手羽先",
+      "url": "https://note.com/teba_eleven/n/n61e5e7700881",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-08T11:49:24+00:00",
+      "fetched_at": "2026-10-08T21:47:29+00:00",
+      "summary": "結論：AIに月3万円使えない学生はその時点で負けている 月3000円のプランと月3万円のプランでは数十倍から数百倍できることが違う そもそも月3万円を投資できない時点で厳しい AIに全て賭けろ 月3万円も稼げない！という学生やエンジニア いくらでも相談にのります 連絡先：https://magicdelta.ai/contact/ 追記（2026/1...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8c9e2a0d799bf4e8d2b5"
+    },
+    {
       "title": "Meeting of 9-10 September 2026",
       "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
       "source": "ECB Press Releases Speeches Interviews",
@@ -3927,25 +3971,26 @@
   ],
   "new_findings": [
     {
-      "title": "IDCフロンティアへのランサム攻撃、495の企業・自治体に影響",
-      "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03418/",
+      "title": "AIに月3万円使えない人はその時点で負けている｜手羽先",
+      "url": "https://note.com/teba_eleven/n/n61e5e7700881",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-08T13:03:04+00:00",
-      "fetched_at": "2026-10-08T21:35:12+00:00",
-      "summary": "ソフトバンク子会社のIDCフロンティアは2026年10月7日、クラウドサービス「IDCFクラウド」が第三者によるランサムウエア攻撃を受け、495の契約先企業・自治体に影響が出ていると明らかにした。 障害は同日午前3時40分ごろに東日本リージョン1で発生。同社はその後、第三者からのランサムウエア攻撃によるものと公表した...",
+      "published_at": "2026-10-08T11:49:24+00:00",
+      "fetched_at": "2026-10-08T21:47:29+00:00",
+      "summary": "結論：AIに月3万円使えない学生はその時点で負けている 月3000円のプランと月3万円のプランでは数十倍から数百倍できることが違う そもそも月3万円を投資できない時点で厳しい AIに全て賭けろ 月3万円も稼げない！という学生やエンジニア いくらでも相談にのります 連絡先：https://magicdelta.ai/contact/ 追記（2026/1...",
       "matched_keywords": [
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7fb7174038c1b2966866"
+      "id": "8c9e2a0d799bf4e8d2b5"
     }
   ],
   "source_errors": [],
