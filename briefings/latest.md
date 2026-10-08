@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T04:28:12+00:00_
+_Generiert: 2026-10-08T04:49:56+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+14 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -157,14 +157,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: JPCERT-AT-2026-0030 JPCERT/CC 2026-10-08 I. 概要各被害公表や報道のとおり、直近2026年9月前後で国内組織における不正アクセスによる個人情報等の漏えい被害が相次いでいます。 複数の製品やサービスで被害が発生している中、技術的な情報の共有が不足しており、把握している情報は限定的かつ断片的であるものの、攻...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2146580.html)
+- **【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか - Qiita** — Score 5, observation — [Quelle](https://qiita.com/shinkai_/items/4c6c12324e115a125621)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-07T23:39:51+00:00`, fetched `2026-10-08T02:39:00+00:00`
+  - Zeit: published `2026-10-08T00:13:18+00:00`, fetched `2026-10-08T04:49:26+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要
+  - Kurz: このほか、Gyazoでユーザー関連データ約2,362万件、ムラウチドットコムで771万6,811件の個人情報の持ち出しが確認されたと報じられています。 ただしGyazoの件数は、メールアドレス未登録の匿名ユーザーも含みます。 件数を単純に足しても意味がないので、数字は規模感の目安として見るのがよさそうです。 参考：各社公...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
