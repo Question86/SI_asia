@@ -1,31 +1,44 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-08T00:02:33+00:00",
+  "generated_at": "2026-10-08T01:01:36+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 0,
-    "displayed_findings": 0,
+    "new_relevant_findings": 2,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
-    "medium": 0,
-    "observe": 0
+    "medium": 1,
+    "observe": 1
   },
   "source_errors_count": 0,
-  "top_signals": [],
+  "top_signals": [
+    {
+      "title": "Southeast Asia’s biggest tech IPO of the year is a landlord",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-08T01:00:31+00:00",
+      "relevance_score": 14,
+      "url": "https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/",
+      "summary": "For the better part of a decade, Southeast Asia rehearsed its big public-markets moment with a familiar cast: a ride-hailing superapp, a gaming-and-e-commerce giant, a merged Indonesian decacorn. The next star, we assumed, would be another consumer platform t…",
+      "section": "medium"
+    },
+    {
+      "title": "Not every customer is good for growth",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-08T01:00:55+00:00",
+      "relevance_score": 4,
+      "url": "https://e27.co/not-every-customer-is-good-for-growth-20261004/",
+      "summary": "Winning new customers is usually treated as one of the clearest signs that a company is growing. More contracts mean more revenue, more logos and more evidence that the market wants what the business is selling. For an early-stage company in particular, sayin…",
+      "section": "observe"
+    }
+  ],
   "next_read_order": [
     "briefings/chat_handoff.json",
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Keine verwertbaren Dynamiken im aktuellen Run.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": []
-  }
+  ]
 }
