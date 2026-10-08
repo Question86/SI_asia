@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T04:01:18+00:00",
+  "generated_at": "2026-10-08T04:28:34+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1322,7 +1322,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T05:30:29+00:00",
-      "last_seen_at": "2026-10-08T04:01:00+00:00",
+      "last_seen_at": "2026-10-08T04:28:15+00:00",
       "status": "active"
     },
     {
@@ -4318,6 +4318,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_5ad34b3511b67c796a9e",
+      "title": "M 4.9 - 81 km NNW of Malfa, Italy",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-08T04:01:00+00:00",
+      "last_seen_at": "2026-10-08T04:28:15+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_5b46cd8efda2b7d9c208",
       "title": "M 5.3 - 15 km SSW of Hilvan, Turkey",
       "event_classes": [
@@ -6460,23 +6477,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_5ad34b3511b67c796a9e",
-      "title": "M 4.9 - 81 km NNW of Malfa, Italy",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-08T04:01:00+00:00",
-      "last_seen_at": "2026-10-08T04:01:00+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -8156,7 +8156,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T02:07:23+00:00",
-      "last_seen_at": "2026-10-08T04:01:00+00:00",
+      "last_seen_at": "2026-10-08T04:28:15+00:00",
       "status": "active"
     },
     {
@@ -10451,7 +10451,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T01:01:39+00:00",
-      "last_seen_at": "2026-10-08T04:01:00+00:00",
+      "last_seen_at": "2026-10-08T04:28:15+00:00",
       "status": "active"
     },
     {
@@ -11080,7 +11080,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T03:25:42+00:00",
-      "last_seen_at": "2026-10-08T04:01:00+00:00",
+      "last_seen_at": "2026-10-08T04:28:15+00:00",
       "status": "active"
     },
     {
@@ -11184,6 +11184,23 @@
       "first_seen_at": "2026-09-19T23:58:15+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_44096f72fdab32d24ff5",
+      "title": "Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-08T04:01:00+00:00",
+      "last_seen_at": "2026-10-08T04:28:15+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_4e0adb1edff1cc4884ae",
@@ -11608,7 +11625,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T02:07:23+00:00",
-      "last_seen_at": "2026-10-08T04:01:00+00:00",
+      "last_seen_at": "2026-10-08T04:28:15+00:00",
       "status": "active"
     },
     {
@@ -11814,23 +11831,6 @@
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_44096f72fdab32d24ff5",
-      "title": "Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-08T04:01:00+00:00",
-      "last_seen_at": "2026-10-08T04:01:00+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_062e97ed5d926e4dc4f8",
@@ -15655,7 +15655,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-04T23:59:05+00:00",
-      "last_seen_at": "2026-10-08T04:01:00+00:00",
+      "last_seen_at": "2026-10-08T04:28:15+00:00",
       "status": "active"
     },
     {
@@ -18800,7 +18800,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T02:07:23+00:00",
-      "last_seen_at": "2026-10-08T04:01:00+00:00",
+      "last_seen_at": "2026-10-08T04:28:15+00:00",
       "status": "active"
     },
     {
@@ -19837,7 +19837,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T03:47:14+00:00",
-      "last_seen_at": "2026-10-08T04:01:00+00:00",
+      "last_seen_at": "2026-10-08T04:28:15+00:00",
       "status": "active"
     },
     {
@@ -21452,7 +21452,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T02:39:35+00:00",
-      "last_seen_at": "2026-10-08T04:01:00+00:00",
+      "last_seen_at": "2026-10-08T04:28:15+00:00",
       "status": "active"
     },
     {
@@ -21962,7 +21962,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T01:01:39+00:00",
-      "last_seen_at": "2026-10-08T04:01:00+00:00",
+      "last_seen_at": "2026-10-08T04:28:15+00:00",
       "status": "active"
     },
     {
@@ -22458,6 +22458,23 @@
       "first_seen_at": "2026-09-23T04:56:56+00:00",
       "last_seen_at": "2026-09-23T05:42:29+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_925bed84d61f223bcffe",
+      "title": "Creative supply is large, dependable production capacity is not",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "production"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-08T04:28:15+00:00",
+      "last_seen_at": "2026-10-08T04:28:15+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
