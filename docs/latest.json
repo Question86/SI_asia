@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T02:39:32+00:00",
-  "run_id": "2026-10-08T02:39:32+00:00",
+  "generated_at": "2026-10-08T02:58:25+00:00",
+  "run_id": "2026-10-08T02:58:25+00:00",
   "date": "2026-10-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 6,
     "displayed_findings": 6,
     "high": 0,
@@ -349,29 +349,7 @@
       "id": "a52b8fb04f14a3dc4936"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2146580.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-07T23:39:51+00:00",
-      "fetched_at": "2026-10-08T02:39:00+00:00",
-      "summary": "「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4a6ffc32f695a5cbf748"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

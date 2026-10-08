@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-08T02:39:35+00:00_
+_Generiert: 2026-10-08T02:58:27+00:00_
 
 ## ASEAN just upgraded its trade rulebook. Most operators will scale on the old one
 
