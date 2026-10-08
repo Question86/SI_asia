@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-08T23:29:31Z",
+  "generated_at": "2026-10-08T23:43:28Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 18,
-      "strong": 21
+      "krass": 17,
+      "strong": 22
     },
     "bands_after_gate_recheck": {
       "krass": 2,
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3818",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T13:32:11+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3169",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T07:51:46+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T08:38:35+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "general"
       ],
@@ -144,7 +144,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T09:25:25+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -165,11 +165,35 @@
       "summary": ""
     },
     {
+      "title": "【速報】リーマン予想に進展があったかもしれない【零点の評価から何が言えるの？】 - tsujimotterのノートブック",
+      "url": "https://tsujimotter.hatenablog.com/entry/riemann-hypothesis-progression-oct-2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-08T23:35:41+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Southeast Asia’s biggest tech IPO of the year is a landlord",
       "url": "https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T01:00:31+00:00",
-      "age_days": 0.94,
+      "age_days": 0.95,
       "topics": [
         "ai",
         "macro"
@@ -194,37 +218,11 @@
       "summary": "For the better part of a decade, Southeast Asia rehearsed its big public-markets moment with a familiar cast: a ride-hailing superapp, a gaming-and-e-commerce giant, a merged Indonesian decacorn. The next star, we assumed, would be another consumer platform that turned the region’s 680 million people into daily active…"
     },
     {
-      "title": "情報漏えいの公表急増――いま増えているのは「攻撃」ではなく「発覚」 | SECURITY DRIVE",
-      "url": "https://securitydrive.jp/column/0023/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-08T23:02:33+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "security high-signal: security",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": ""
-    },
-    {
       "title": "[UPDATE] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Erlangen von Administratorrechten",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T05:51:45+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "security"
       ],
@@ -276,7 +274,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3817",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T13:32:11+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -302,7 +300,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2444",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T12:45:16+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -328,7 +326,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3639",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T11:27:55+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -354,7 +352,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3779",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T11:06:46+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -380,7 +378,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3795",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T11:06:46+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -406,7 +404,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3794",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T11:01:45+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -432,7 +430,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3793",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T10:51:45+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "security"
@@ -459,7 +457,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1246/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-01T00:00:00+00:00",
-      "age_days": 7.98,
+      "age_days": 7.99,
       "topics": [
         "security"
       ],
@@ -510,7 +508,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-08T06:57:00.000+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "security"
       ],
@@ -536,7 +534,7 @@
       "url": "https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T05:39:43+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "ai"
       ],
@@ -563,7 +561,7 @@
       "url": "https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T05:30:39+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "ai"
       ],
@@ -590,7 +588,7 @@
       "url": "https://e27.co/asean-just-upgraded-its-trade-rulebook-most-operators-will-scale-on-the-old-one-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T02:07:23+00:00",
-      "age_days": 0.89,
+      "age_days": 0.9,
       "topics": [
         "general"
       ],
@@ -613,11 +611,37 @@
       "summary": ""
     },
     {
+      "title": "情報漏えいの公表急増――いま増えているのは「攻撃」ではなく「発覚」 | SECURITY DRIVE",
+      "url": "https://securitydrive.jp/column/0023/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-08T23:02:33+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +2",
+        "security high-signal: security",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "[NEU] [mittel] Red Hat Enterprise Linux (resteasy): Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3814",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 41.39,
+      "age_days": 41.4,
       "topics": [
         "security"
       ],
@@ -675,7 +699,7 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-08T07:36:14+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "general"
       ],
@@ -700,7 +724,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T08:35:47.484+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "disaster"
       ],
@@ -726,7 +750,7 @@
       "url": "https://securitydrive.jp/column/0023/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T06:38:37+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "security"
       ],
@@ -750,7 +774,7 @@
       "url": "https://www.heise.de/news/Veeam-stopft-Schadcode-Luecke-in-Backup-Replication-11480790.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-08T11:52:00.000+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -775,7 +799,7 @@
       "url": "https://www.heise.de/news/SonicWall-SMA1000-Luecke-mit-Hoechstwertung-oeffnet-interne-Funktionen-11480426.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-08T09:41:00.000+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "security"
       ],
@@ -800,7 +824,7 @@
       "url": "https://www.digital.go.jp/about/human-resource-plan",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-08T06:00:00+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "general"
       ],
@@ -825,7 +849,7 @@
       "url": "https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T01:01:39+00:00",
-      "age_days": 0.94,
+      "age_days": 0.95,
       "topics": [
         "general"
       ],
@@ -849,7 +873,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0yr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T14:44:33.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -874,7 +898,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T08:02:52.040+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "disaster"
       ],
@@ -899,7 +923,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T05:58:30.040+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "disaster"
       ],
@@ -924,7 +948,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T05:04:14.040+00:00",
-      "age_days": 0.77,
+      "age_days": 0.78,
       "topics": [
         "disaster"
       ],
@@ -945,36 +969,11 @@
       "summary": "Time 2026-10-08 04:48:59 UTC 2026-10-08 04:48:59 UTC at epicenter Location 7.776°S 120.540°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "M 4.7 - 101 km NE of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0vw",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-08T03:17:55.040+00:00",
-      "age_days": 0.84,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-08 03:00:01 UTC 2026-10-08 03:00:01 UTC at epicenter Location 7.899°S 121.044°E Depth 10.00 km (6.21 mi)"
-    },
-    {
       "title": "How one bug bounty researcher chooses the features they investigate",
       "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-10-08T17:02:52+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "security"
@@ -999,7 +998,7 @@
       "url": "https://e27.co/bitcoins-us83000-test-can-institutional-demand-hold-the-line-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T04:50:58+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "macro"
       ],
@@ -1024,7 +1023,7 @@
       "url": "https://www.bis.org/speeches/20261008-introductory-statement-roundtable-preparing-transformative-ai",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 112.37,
+      "age_days": 112.38,
       "topics": [
         "ai"
       ],
