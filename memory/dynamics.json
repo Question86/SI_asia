@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-08T09:59:26Z",
+  "generated_at": "2026-10-08T10:24:29Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3169",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T07:51:46+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://www.bis.org/speeches/20261007-where-ai-risks-meet",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 111.81,
+      "age_days": 111.83,
       "topics": [
         "ai"
       ],
@@ -75,7 +75,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T08:38:35+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -95,11 +95,36 @@
       "summary": ""
     },
     {
+      "title": "M 6.3 - 102 km NE of Norsup, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-08T09:25:25+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 25.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Southeast Asia’s biggest tech IPO of the year is a landlord",
       "url": "https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T01:00:31+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -128,7 +153,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-08T05:51:45+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -154,7 +179,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-08T06:57:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -180,7 +205,7 @@
       "url": "https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T05:39:43+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -207,7 +232,7 @@
       "url": "https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T05:30:39+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -234,7 +259,7 @@
       "url": "https://e27.co/asean-just-upgraded-its-trade-rulebook-most-operators-will-scale-on-the-old-one-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T02:07:23+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -261,7 +286,7 @@
       "url": "https://e27.co/asean-just-upgraded-its-trade-rulebook-most-operators-will-scale-on-the-old-one-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T02:00:25+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "security",
@@ -291,7 +316,7 @@
       "url": "https://github.com/morluto/rea",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-08T07:36:14+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -316,7 +341,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T08:35:47.484+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -342,7 +367,7 @@
       "url": "https://www.heise.de/news/SonicWall-SMA1000-Luecke-mit-Hoechstwertung-oeffnet-interne-Funktionen-11480426.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-08T09:41:00.000+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -367,7 +392,7 @@
       "url": "https://www.digital.go.jp/about/human-resource-plan",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-08T06:00:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -392,7 +417,7 @@
       "url": "https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T01:01:39+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -412,36 +437,11 @@
       "summary": ""
     },
     {
-      "title": "M 6.3 - 102 km NE of Norsup, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-08T09:25:25+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2",
-        "high terms: 10"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.6 - 61 km W of Banda Aceh, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T08:02:52.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -466,7 +466,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T05:58:30.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -491,7 +491,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T05:04:14.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -516,7 +516,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0vw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T03:17:55.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -541,7 +541,7 @@
       "url": "https://www.bis.org/speeches/20261007-where-ai-risks-meet",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-08T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -569,7 +569,7 @@
       "url": "https://e27.co/bitcoins-us83000-test-can-institutional-demand-hold-the-line-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T04:50:58+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "macro"
       ],
@@ -594,7 +594,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T09:25:11.958+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -619,7 +619,7 @@
       "url": "https://www.bis.org/speeches/20261007-shifting-ground-how-geopolitics-reshaping-growth-monetary-policy-and-role-gold-reserve-asset",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-08T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "macro"
       ],
@@ -641,39 +641,11 @@
       "summary": "Keynote speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the Global Precious Metals Conference, Sorrento, 5 October 2026."
     },
     {
-      "title": "Angriffe auf Atlassian-Data-Center-Lücke haben begonnen",
-      "url": "https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 111.1,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 4.83,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 4.83",
-        "high terms: angriffe",
-        "aging penalty -8.0 for 111.1d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.7 - 47 km W of Tambolaka, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T05:30:29+00:00",
-      "age_days": 26.19,
+      "age_days": 26.2,
       "topics": [
         "general"
       ],
@@ -684,12 +656,12 @@
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.51,
+      "baseline_z_hint": 1.42,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.51",
+        "baseline z_hint 1.42",
         "aging penalty -1.8 for 26.2d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
@@ -700,7 +672,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T05:52:25.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -725,7 +697,7 @@
       "url": "https://www.bis.org/speeches/20261007-turning-opportunities-progress-innovation-meets-regulation",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-08T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "macro"
       ],
@@ -747,15 +719,42 @@
       "summary": "Address by Dr Jorgovanka Tabaković, Governor of the National Bank of Serbia, at the FIC &amp; EBRD Financial Services Conference “Turning opportunities into progress: innovation meets regulation”, Belgrade, 30 September 2026."
     },
     {
+      "title": "Angriffe auf Atlassian-Data-Center-Lücke haben begonnen",
+      "url": "https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 111.11,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.93,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 1.76,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 1.76",
+        "high terms: angriffe",
+        "aging penalty -8.0 for 111.1d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "[UPDATE] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Erlangen von Administratorrechten",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 40.83,
+      "age_days": 40.84,
       "topics": [
         "security"
       ],
-      "dynamics_score": 18.06,
+      "dynamics_score": 18.05,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -776,11 +775,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:07:27+00:00",
-      "age_days": 24.87,
+      "age_days": 24.89,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.15,
+      "dynamics_score": 17.14,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -801,7 +800,7 @@
       "url": "https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T06:40:55+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -827,7 +826,7 @@
       "url": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/crafting-apps-20261008.html/index.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-04T23:59:05+00:00",
-      "age_days": 3.42,
+      "age_days": 3.43,
       "topics": [
         "general"
       ],
@@ -851,7 +850,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T07:02:59.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -876,7 +875,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T03:51:22.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -901,7 +900,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T07:07:06+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -925,7 +924,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T04:01:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -949,7 +948,7 @@
       "url": "https://e27.co/creative-supply-is-large-dependable-production-capacity-is-not-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-08T04:28:15+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -974,11 +973,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T08:36:29+00:00",
-      "age_days": 40.06,
+      "age_days": 40.08,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.83,
+      "dynamics_score": 15.82,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -999,7 +998,7 @@
       "url": "https://www.digital.go.jp/about/human-resource-plan",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-08T06:40:55+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -1023,7 +1022,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 111.81,
+      "age_days": 111.83,
       "topics": [
         "general"
       ],
