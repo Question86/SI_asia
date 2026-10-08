@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-08T06:01:35+00:00_
+_Generated: 2026-10-08T06:40:52+00:00_
 
 ## Status
-- status: `warning`
-- findings: `20`
+- status: `normal`
+- findings: `23`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-08T06:01:35+00:00_
 - url: https://e27.co/asean-just-upgraded-its-trade-rulebook-most-operators-will-scale-on-the-old-one-20261004/
 - summary: Over the past year, the question I hear from operators shipping into three or four ASEAN markets has quietly changed. It used to be about the tariff. Now it is about the paperwork. Which certificate does this lane need? Who in our supply chain can prove where…
 
-### 2. [UPDATE] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Erlangen von Administratorrechten
+### 2. MAS gives Singapore’s financial firms one year to prepare for AI risk rules
+- source: e27 Asia Startup and Tech Feed
+- score: `16`
+- published: `2026-10-08T06:16:03+00:00`
+- url: https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/
+- summary: Singapore’s financial regulator has set out how banks, insurers, payment companies and other financial institutions should govern artificial intelligence, as AI moves from back-office experiments into systems that can influence customer outcomes, risk decisio…
+
+### 3. [UPDATE] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Erlangen von Administratorrechten
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-08T05:51:45+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um Administratorrechte zu erlangen.
 
-### 3. M 4.7 - 47 km W of Tambolaka, Indonesia
+### 4. M 4.7 - 47 km W of Tambolaka, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-08T05:58:30.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wb
 - summary: Time 2026-10-08 05:06:52 UTC 2026-10-08 05:06:52 UTC at epicenter Location 9.421°S 118.807°E Depth 65.28 km (40.56 mi)
-
-### 4. M 5.0 - 92 km N of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-08T05:04:14.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wa
-- summary: Time 2026-10-08 04:48:59 UTC 2026-10-08 04:48:59 UTC at epicenter Location 7.776°S 120.540°E Depth 10.00 km (6.21 mi)
 
 ### 5. Endeavor Catalyst raises US$320M to back the next wave of ‘Elsewhere’ startups
 - source: e27 Asia Startup and Tech Feed

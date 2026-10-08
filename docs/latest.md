@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-08T06:01:35+00:00_
+_Generiert: 2026-10-08T06:40:52+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+23 neue relevante Treffer. Stärkstes Signal: „ASEAN just upgraded its trade rulebook. Most operators will scale on the old one“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Supply Chain Security (+8.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Over the past year, the question I hear from operators shipping into three or four ASEAN markets has quietly changed. It used to be about the tariff. Now it is about the paperwork. Which certificate does this lane need? Who in our supply chain can prove where this component was made? Why does the same […] The post ASEAN just upgraded its trade rulebook. Most operators will scale on the old one appeared first on e27 .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **MAS gives Singapore’s financial firms one year to prepare for AI risk rules** — Score 16, observation — [Quelle](https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-08T06:16:03+00:00`, fetched `2026-10-08T06:40:21+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Content-Chance
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Content-Chance (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore’s financial regulator has set out how banks, insurers, payment companies and other financial institutions should govern artificial intelligence, as AI moves from back-office experiments into systems that can influence customer outcomes, risk decisions and even execution. The Monetary Authority of Singapore (MAS) has issued its Guidelines on Artificial Intelligence Risk Management, a principles-based framew…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Erlangen von Administratorrechten** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-08T05:51:45+00:00`, fetched `2026-10-08T06:00:56+00:00`
@@ -66,15 +75,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: For many companies, the harder part of artificial intelligence is no longer running a pilot. It is turning that pilot into something reliable enough to sit inside daily operations. That gap is what Singtel’s RE:AI and the Singapore Institute of Technology (SIT) are trying to address through a new partnership with the SIT x NVIDIA […] The post Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deploym…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Southeast Asia’s biggest tech IPO of the year is a landlord** — Score 14, observation — [Quelle](https://e27.co/southeast-asias-biggest-tech-ipo-of-the-year-is-a-landlord-20261007/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-08T01:00:31+00:00`, fetched `2026-10-08T01:01:09+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia, Watchgraph:agriculture_food_fertilizer
-  - Watchgraph: agriculture_food_fertilizer
-  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
-  - Kurz: For the better part of a decade, Southeast Asia rehearsed its big public-markets moment with a familiar cast: a ride-hailing superapp, a gaming-and-e-commerce giant, a merged Indonesian decacorn. The next star, we assumed, would be another consumer platform that turned the region’s 680 million people into daily active users. Instead, the region’s most anticipated tech […] The post Southeast Asia’s biggest tech IPO o…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-08 03:42:52 UTC 2026-10-08 03:42:52 UTC at epicenter Location 39.206°N 14.352°E Depth 367.08 km (228.09 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Piero Cipollone: Interview with Corriere della Sera** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-10-08T06:00:00+00:00`, fetched `2026-10-08T06:40:21+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Piero Cipollone: Interview with Corriere della Sera
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が日本語フォント、UIの日本語化に対応** — Score 8, observation — [Quelle](https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/crafting-apps-20261008.html/index.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-08T00:48:05+00:00`, fetched `2026-10-08T04:00:21+00:00`
@@ -131,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafting AppsのPhotoCraftで、PSDを作成し、レイヤーを作成し、日本語フォントを使用したものです。 Crafting Appsは、Photoshop, Illustrator, Premiere Pro,...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **デジタル庁におけるデジタル人材確保・育成計画を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/human-resource-plan)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-08T06:00:00+00:00`, fetched `2026-10-08T06:40:21+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: デジタル庁におけるデジタル人材確保・育成計画を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **直近で相次いでいる国内組織における不正アクセスに関する注意喚起** — Score 5, observation — [Quelle](https://www.jpcert.or.jp/at/2026/at260030.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -160,7 +178,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_philippines_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.ph/trending/rss?geo=PH
