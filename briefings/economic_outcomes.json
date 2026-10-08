@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T13:33:06+00:00",
+  "generated_at": "2026-10-08T13:49:42+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -3784,7 +3784,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_43a66ad3fda61d859fca",
@@ -8671,6 +8671,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_956269bf536a5da07690",
+      "title": "Vulnérabilité dans Cisco Catalyst SD-WAN (01 octobre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_959ccbdcc219ffc7d59a",
       "title": "SEA logistics tech funding hits five-year high, but it’s still a third of the 2021 peak",
       "deduplicated_buckets": 0,
@@ -10805,6 +10816,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_bc104b86bd99766581d7",
+      "title": "Multiples vulnérabilités dans Tenable Nessus (02 octobre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_bc3780b6242566b0b496",
       "title": "Tevo secures US$10M from PvX to scale its consumer AI apps without selling equity",
       "deduplicated_buckets": 0,
@@ -12716,7 +12738,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_df1e86c2766146083d4a",

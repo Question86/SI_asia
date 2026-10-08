@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T13:32:41+00:00",
+  "generated_at": "2026-10-08T13:49:17+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -173,7 +173,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -1203,7 +1203,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-08T08:38:35+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -1271,7 +1271,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T08:36:29+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -1288,7 +1288,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T11:56:17+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -1339,7 +1339,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T05:30:29+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -1747,7 +1747,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-08T09:25:25+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -3192,7 +3192,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-13T13:07:27+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -6100,7 +6100,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-08T10:32:29+00:00",
       "last_seen_at": "2026-10-08T13:32:21+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_df1e86c2766146083d4a",
@@ -6558,7 +6558,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -7718,6 +7718,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_956269bf536a5da07690",
+      "title": "Vulnérabilité dans Cisco Catalyst SD-WAN (01 octobre 2026)",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-08T13:48:55+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2f5c3cffbb9951edd868",
       "title": "Southeast Asia startup funding finds a floor, but not a rebound",
       "event_classes": [
@@ -7986,7 +8003,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -8224,7 +8241,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T02:07:23+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -8768,7 +8785,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T07:36:14+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -9431,7 +9448,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T06:40:55+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -10298,7 +10315,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T05:39:43+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -10570,7 +10587,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T01:01:39+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -11199,7 +11216,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T03:25:42+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -11318,7 +11335,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T04:01:00+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -11658,7 +11675,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -11744,7 +11761,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-08T02:07:23+00:00",
-      "last_seen_at": "2026-10-08T13:32:21+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
       "status": "active"
     },
     {
@@ -14533,7 +14550,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
       "last_seen_at": "2026-10-08T13:32:21+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_574beed208af3af2acc2",
@@ -16881,6 +16898,23 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_bc104b86bd99766581d7",
+      "title": "Multiples vulnérabilités dans Tenable Nessus (02 octobre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-08T13:48:55+00:00",
+      "last_seen_at": "2026-10-08T13:48:55+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_041397919a21c7984d11",
