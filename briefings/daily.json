@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:39:27+00:00",
+  "generated_at": "2026-10-08T15:53:01+00:00",
   "today_file_total": 69,
   "current_clusters": [
     {
@@ -377,29 +377,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:openai.com",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "earthquake:m 6.3 - 102 km ne of norsup, vanuatu:6.3",
       "title": "M 6.3 - 102 km NE of Norsup, Vanuatu",
       "sources": [
@@ -493,6 +470,31 @@
       "network_score": 14.1,
       "hot": false,
       "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:sea-insurers-face-question-what-happens-when-customers",
+      "title": "SEA’s insurers face a new question: what happens when customers have agents?",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/seas-insurers-face-a-new-question-what-happens-when-customers-have-agents-20261007/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "agriculture_food_fertilizer"
+      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]

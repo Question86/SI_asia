@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T15:39:24+00:00",
-  "run_id": "2026-10-08T15:39:24+00:00",
+  "generated_at": "2026-10-08T15:52:59+00:00",
+  "run_id": "2026-10-08T15:52:59+00:00",
   "date": "2026-10-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 69,
     "displayed_findings": 69,
     "high": 0,
@@ -3545,29 +3545,7 @@
       "id": "75e04212962661c67b82"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "fetched_at": "2026-10-08T15:38:54+00:00",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5cb1571c9b43bc2655d2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
