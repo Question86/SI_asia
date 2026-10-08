@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-08T13:32:17+00:00",
+  "generated_at": "2026-10-08T13:48:53+00:00",
   "topics": {
     "ai": [
       {
@@ -68,11 +68,11 @@
         "url": "https://www.bis.org/speeches/20261007-where-ai-risks-meet"
       },
       {
-        "title": "Update and outlook for the Jamaican economy",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-08T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261007-update-and-outlook-jamaican-economy"
+        "title": "Multiples vulnérabilités dans Tenable Nessus (02 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-02T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1247/"
       }
     ],
     "economy": [
@@ -237,11 +237,53 @@
     ],
     "security": [
       {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (resteasy): Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T13:31:49+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3814"
+      },
+      {
         "title": "[UPDATE] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Erlangen von Administratorrechten",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-08T05:51:45+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3577"
+      },
+      {
+        "title": "[NEU] [hoch] IBM Security Verify Access: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T13:31:49+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3813"
+      },
+      {
+        "title": "[NEU] [hoch] Cisco Application Policy Infrastructure Controller: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T13:32:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3818"
+      },
+      {
+        "title": "[NEU] [hoch] Broadcom Fabric OS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T13:32:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3817"
+      },
+      {
+        "title": "[NEU] [mittel] MikroTik RouterOS: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T13:31:50+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3815"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Jackrabbit: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T13:31:50+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3816"
       },
       {
         "title": "[UPDATE] [hoch] Oracle Fusion Middleware: Mehrere Schwachstellen",
@@ -263,51 +305,51 @@
         "published_at": "2026-10-08T11:06:46+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3779"
-      },
-      {
-        "title": "[NEU] [mittel] LibreSSL: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-08T11:06:46+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3795"
-      },
-      {
-        "title": "[NEU] [mittel] Cisco Finesse, Unified CCE, Unified CCX: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-08T11:01:45+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3794"
-      },
-      {
-        "title": "[NEU] [hoch] Cisco Meraki (MR, MS und MX) und IOS XE: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-08T10:51:45+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3793"
-      },
-      {
-        "title": "[UPDATE] [hoch] VMware Fusion und Workstation: Mehrere Schwachstellen ermöglichen Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-08T07:51:46+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3169"
-      },
-      {
-        "title": "Angriffe auf Atlassian-Data-Center-Lücke haben begonnen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-08T06:57:00.000+00:00",
-        "relevance_score": 11,
-        "url": "https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html"
-      },
-      {
-        "title": "Veeam stopft Schadcode-Lücke in Backup & Replication",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-08T11:52:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Veeam-stopft-Schadcode-Luecke-in-Backup-Replication-11480790.html"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (resteasy): Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T13:31:49+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3814"
+      },
+      {
+        "title": "[NEU] [hoch] IBM Security Verify Access: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T13:31:49+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3813"
+      },
+      {
+        "title": "[NEU] [hoch] Cisco Application Policy Infrastructure Controller: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T13:32:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3818"
+      },
+      {
+        "title": "[NEU] [hoch] Broadcom Fabric OS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T13:32:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3817"
+      },
+      {
+        "title": "[NEU] [mittel] MikroTik RouterOS: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T13:31:50+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3815"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Jackrabbit: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-08T13:31:50+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3816"
+      },
       {
         "title": "[UPDATE] [hoch] Oracle Fusion Middleware: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -335,48 +377,6 @@
         "published_at": "2026-10-08T10:51:45+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3793"
-      },
-      {
-        "title": "[UPDATE] [hoch] VMware Fusion und Workstation: Mehrere Schwachstellen ermöglichen Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-08T07:51:46+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3169"
-      },
-      {
-        "title": "Southeast Asia is digitising health records. Making them portable is the harder problem",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-08T03:00:06+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/southeast-asia-is-digitising-health-records-making-them-portable-is-the-harder-problem-20261004/"
-      },
-      {
-        "title": "Introductory statement - roundtable \"Preparing for transformative AI\"",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-08T00:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://www.bis.org/speeches/20261008-introductory-statement-roundtable-preparing-transformative-ai"
-      },
-      {
-        "title": "Angriffe auf Atlassian-Data-Center-Lücke haben begonnen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-08T06:57:00.000+00:00",
-        "relevance_score": 11,
-        "url": "https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html"
-      },
-      {
-        "title": "Where AI risks meet",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-08T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.bis.org/speeches/20261007-where-ai-risks-meet"
-      },
-      {
-        "title": "The competitiveness of the European banking sector",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-08T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.bis.org/speeches/20261008-competitiveness-european-banking-sector"
       }
     ]
   }

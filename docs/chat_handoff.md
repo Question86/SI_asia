@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-08T13:32:17+00:00_
+_Generated: 2026-10-08T13:48:53+00:00_
 
 ## Status
 - status: `normal`
-- findings: `56`
+- findings: `65`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-08T13:32:17+00:00_
 - url: https://github.com/morluto/rea
 - summary: Reverse engineer anything with agents, from app behavior down to native binaries. https://morluto.github.io/rea/ English · 简体中文 · 日本語 · 한국어 · العربية REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime beh…
 
-### 4. MAS gives Singapore’s financial firms one year to prepare for AI risk rules
-- source: e27 Asia Startup and Tech Feed
+### 4. [NEU] [mittel] Red Hat Enterprise Linux (resteasy): Schwachstelle ermöglicht Offenlegung von Informationen
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-10-08T06:16:03+00:00`
-- url: https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/
-- summary: Singapore’s financial regulator has set out how banks, insurers, payment companies and other financial institutions should govern artificial intelligence, as AI moves from back-office experiments into systems that can influence customer outcomes, risk decisio…
+- published: `2026-10-08T13:31:49+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3814
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux in resteasy ausnutzen, um Informationen offenzulegen.
 
 ### 5. M 6.3 - 102 km NE of Norsup, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
