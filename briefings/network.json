@@ -1,53 +1,15 @@
 {
-  "generated_at": "2026-10-08T06:40:55+00:00",
+  "generated_at": "2026-10-08T07:07:06+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 23,
-    "clusters": 22,
+    "findings": 25,
+    "clusters": 24,
     "cross_source_confrmed": 0,
-    "hot": 1,
+    "hot": 0,
     "early_signals": 1,
-    "dominance_penalized": 5
+    "dominance_penalized": 6
   },
   "clusters": [
-    {
-      "key": "title:mas-gives-singapore-financial-firms-one-year-prepare",
-      "title": "MAS gives Singapore’s financial firms one year to prepare for AI risk rules",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 25.5,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 21.1,
-      "ranking_score": 25.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-08T06:40:55+00:00"
-    },
     {
       "key": "title:asean-just-upgraded-its-trade-rulebook-most-operators",
       "title": "ASEAN just upgraded its trade rulebook. Most operators will scale on the old one",
@@ -87,6 +49,44 @@
       "first_seen_at": "2026-10-08T02:07:23+00:00"
     },
     {
+      "key": "title:mas-gives-singapore-financial-firms-one-year-prepare",
+      "title": "MAS gives Singapore’s financial firms one year to prepare for AI risk rules",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 23.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 23.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-08T06:40:55+00:00"
+    },
+    {
       "key": "domain:wid.cert-bund.de",
       "title": "[UPDATE] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Erlangen von Administratorrechten",
       "sources": [
@@ -123,6 +123,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
+      "key": "domain:www.heise.de",
+      "title": "Angriffe auf Atlassian-Data-Center-Lücke haben begonnen",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.16,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 16.16,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 1.16,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "title:singtel-partners-sit-nvidia-centre-tackle-enterprise-deployment",
@@ -222,20 +260,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.33,
+      "network_score": 15.29,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 20.4,
-      "ranking_score": 15.33,
+      "ranking_score": 15.29,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.93,
+      "baseline_bonus": 0.89,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -404,33 +442,35 @@
       "first_seen_at": "2026-10-08T02:07:23+00:00"
     },
     {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Piero Cipollone: Interview with Corriere della Sera",
+      "key": "earthquake:m 5.5 - west of macquarie island:5.5",
+      "title": "M 5.5 - west of Macquarie Island",
       "sources": [
-        "ECB Press Releases Speeches Interviews"
+        "USGS M4.5+ Earthquakes Past Hour"
       ],
       "source_classes": [
-        "central_bank",
-        "tier3_specialist"
+        "emergency_official",
+        "tier1_official"
       ],
       "urls": [
-        "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ws"
       ],
       "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
+      "max_score": 9,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 10.5,
+      "network_score": 10.9,
       "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 13.1,
-      "ranking_score": 10.5,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 14.7,
+      "ranking_score": 10.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 2.5,
       "baseline_bonus": 0.0,
@@ -440,7 +480,7 @@
       "dominant_emitter": true,
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
+      "first_seen_at": "2026-10-08T07:07:06+00:00"
     },
     {
       "key": "earthquake:chile:4.5",
@@ -482,44 +522,6 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-13T13:07:27+00:00"
-    },
-    {
-      "key": "url:https://www.digital.go.jp/about/human-resource-plan",
-      "title": "デジタル庁におけるデジタル人材確保・育成計画を更新しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/about/human-resource-plan"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 11.1,
-      "ranking_score": 10.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-08T06:40:55+00:00"
     },
     {
       "key": "domain:coliss.com",
@@ -599,6 +601,83 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-10-08T04:01:00+00:00"
+    },
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Piero Cipollone: Interview with Corriere della Sera",
+      "sources": [
+        "ECB Press Releases Speeches Interviews"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 8.0,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "url:https://www.digital.go.jp/about/human-resource-plan",
+      "title": "デジタル庁におけるデジタル人材確保・育成計画を更新しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/about/human-resource-plan"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 8.1,
+      "ranking_score": 7.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-08T06:40:55+00:00"
     },
     {
       "key": "url:https://www.jpcert.or.jp/at/2026/at260030.html",
@@ -869,7 +948,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-08T06:40:55Z",
+    "generated_at": "2026-10-08T07:07:06Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

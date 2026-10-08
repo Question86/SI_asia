@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-08T06:40:52+00:00_
+_Generated: 2026-10-08T07:07:04+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `25`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-08T06:40:52+00:00_
 - url: https://e27.co/seas-insurers-face-a-new-question-what-happens-when-customers-have-agents-20261007/
 - summary: Insurance has spent the past year experimenting with generative AI in the most obvious corners of the enterprise: summarising emails, extracting details from claims forms, drafting responses for call-centre agents, and speeding up document-heavy back-office w…
 
-### 8. M 4.5 - 39 km NE of Calama, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
+### 8. Angriffe auf Atlassian-Data-Center-Lücke haben begonnen
+- source: heise Security Alerts
 - score: `11`
-- published: `2026-10-08T05:52:25.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh
-- summary: Time 2026-10-08 05:35:56 UTC 2026-10-08 05:35:56 UTC at epicenter Location 22.192°S 68.668°W Depth 121.38 km (75.42 mi)
+- published: `2026-10-08T06:57:00.000+00:00`
+- url: https://www.heise.de/news/Angriffe-auf-Atlassian-Data-Center-Luecke-haben-begonnen-11480200.html
+- summary: Kurz nach der Warnung von Atlassian zur kritischen Sicherheitslücke wurden jetzt Angriffe beobachtet. Admins müssen handeln.
 
 END OF DOCUMENT
