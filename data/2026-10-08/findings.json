@@ -304,6 +304,29 @@
     "id": "ef85b84c8b0e63b57e9d"
   },
   {
+    "title": "[UPDATE] [hoch] Octopus Deploy: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3639",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-08T11:27:55+00:00",
+    "fetched_at": "2026-10-08T11:34:38+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Octopus Deploy ausnutzen, um seine Privilegien zu erhöhen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "94eb6c45db50cae04bff"
+  },
+  {
     "title": "[UPDATE] [hoch] Broadcom Fabric OS: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3779",
     "source": "BSI CERT-Bund Security Advisories",
@@ -863,6 +886,26 @@
       "LOW"
     ],
     "id": "b5432d5bb2bb42d4c272"
+  },
+  {
+    "title": "Meeting of 9-10 September 2026",
+    "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-10-08T11:30:00+00:00",
+    "fetched_at": "2026-10-08T11:34:38+00:00",
+    "summary": "Meeting of 9-10 September 2026",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ee415941d29f0fb47d3a"
   },
   {
     "title": "Piero Cipollone: Interview with Corriere della Sera",
