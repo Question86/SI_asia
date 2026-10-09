@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-09T20:22:52+00:00_
+_Generiert: 2026-10-09T20:37:05+00:00_
 
 ## Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:22:52+00:00",
+  "generated_at": "2026-10-09T20:37:05+00:00",
   "sections": {
     "global_security": [
       {
@@ -13,7 +13,7 @@
         "metrics": {
           "mag": 7.7,
           "alert": "red",
-          "sig": 2466.0,
+          "sig": 2470.0,
           "tsunami": 0
         }
       },
@@ -100,6 +100,21 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "USGS earthquake M6.9 - 8 km NW of Río Grande, Panama",
+        "summary": "M6.9 - 8 km NW of Río Grande, Panama. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26282001",
+        "published_at": "2026-10-09T20:25:40+00:00",
+        "metrics": {
+          "mag": 6.9,
+          "alert": "",
+          "sig": 732.0,
+          "tsunami": 0
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Panama 09/10/2026 18:37 UTC, 5 thousand (in MMI&gt;=VII).",
         "summary": "Green earthquake (Magnitude 5.8M, Depth:10km) in Panama 09/10/2026 18:37 UTC, 5 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
@@ -156,21 +171,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570064",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.8 - 1 km S of El Cacao, Panama",
-        "summary": "M5.8 - 1 km S of El Cacao, Panama. PAGER alert: yellow. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x",
-        "published_at": "2026-10-09T18:37:46+00:00",
-        "metrics": {
-          "mag": 5.8,
-          "alert": "yellow",
-          "sig": 654.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

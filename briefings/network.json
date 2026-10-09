@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-09T20:22:52+00:00",
+  "generated_at": "2026-10-09T20:37:05+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 77,
-    "clusters": 61,
+    "findings": 78,
+    "clusters": 62,
     "cross_source_confrmed": 0,
     "hot": 1,
     "early_signals": 0,
-    "dominance_penalized": 20
+    "dominance_penalized": 21
   },
   "clusters": [
     {
@@ -346,20 +346,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.33,
+      "network_score": 15.25,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 16.2,
-      "ranking_score": 15.33,
+      "ranking_score": 15.25,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.83,
+      "baseline_bonus": 1.75,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -956,44 +956,6 @@
       "first_seen_at": "2026-10-09T14:40:14+00:00"
     },
     {
-      "key": "url:https://www.47news.jp/15060645.html",
-      "title": "【速報】AIで調べた判例実在せず書籍絶版",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.47news.jp/15060645.html"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 13.1,
-      "ranking_score": 12.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-09T20:22:52+00:00"
-    },
-    {
       "key": "title:labs-are-chasing-slice-corporate-pie-southeast-asia",
       "title": "AI labs are chasing a slice of the corporate pie in Southeast Asia",
       "sources": [
@@ -1032,8 +994,8 @@
       "first_seen_at": "2026-10-09T04:03:56+00:00"
     },
     {
-      "key": "earthquake:m 5.2 - 11 km se of río grande, panama:5.2",
-      "title": "M 5.2 - 11 km SE of Río Grande, Panama",
+      "key": "earthquake:m 6.9 - 8 km nw of río grande, panama:6.9",
+      "title": "M 6.9 - 8 km NW of Río Grande, Panama",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -1042,7 +1004,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19h"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/pt26282001"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -1070,7 +1032,7 @@
       "dominant_emitter": true,
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-10-09T20:22:52+00:00"
+      "first_seen_at": "2026-10-09T20:37:05+00:00"
     },
     {
       "key": "earthquake:chile:5.1",
@@ -1150,6 +1112,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-09T16:01:09+00:00"
+    },
+    {
+      "key": "url:https://www.47news.jp/15060645.html",
+      "title": "【速報】AIで調べた判例実在せず書籍絶版",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.47news.jp/15060645.html"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-09T20:22:52+00:00"
     },
     {
       "key": "domain:coliss.com",
@@ -1340,6 +1340,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-09T06:12:03+00:00"
+    },
+    {
+      "key": "earthquake:m 5.2 - 11 km se of río grande, panama:5.2",
+      "title": "M 5.2 - 11 km SE of Río Grande, Panama",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19h"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 11.7,
+      "ranking_score": 8.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-10-09T20:22:52+00:00"
     },
     {
       "key": "earthquake:m 4.8 - 14 km ssw of tebario, panama:4.8",
@@ -2409,7 +2450,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-09T20:22:52Z",
+    "generated_at": "2026-10-09T20:37:06Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
