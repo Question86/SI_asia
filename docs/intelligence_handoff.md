@@ -1,48 +1,58 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-09T04:50:32Z_
+_Generated: 2026-10-09T05:15:53Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
+Stärkste Dynamik nach Gate-Recheck: “Why Jenni thinks researchers need more than ChatGPT for academic writing” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.
 
 ## Top Dynamics
+
+### Why Jenni thinks researchers need more than ChatGPT for academic writing
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `25.0`
+- Published: `2026-10-09T03:53:58+00:00` / age_days `0.06`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://e27.co/why-jenni-thinks-researchers-need-more-than-chatgpt-for-academic-writing-20261009/
 
 ### CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-09T09:00:00+09:00` / age_days `0.2`
+- Published: `2026-10-09T09:00:00+09:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
 - Quelle: https://jvn.jp/vu/JVNVU91137775/
 
-### Why Jenni thinks researchers need more than ChatGPT for academic writing
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-09T03:53:58+00:00` / age_days `0.04`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2, krass gate: single-source non-official/non-identity signal capped
-- Quelle: https://e27.co/why-jenni-thinks-researchers-need-more-than-chatgpt-for-academic-writing-20261009/
-
 ### DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-10-09T03:00:09+00:00` / age_days `0.08`
+- Published: `2026-10-09T03:00:09+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: chain, local, high terms: rce, 10, security high-signal: rce, 10
 - Quelle: https://e27.co/depin-and-rwa-alliances-in-2026-global-momentum-meets-sea-opportunities-20261004/
 
+### 「AIをいじめないで」Anthropic、Claudeへの虐待を禁止
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `22.0`
+- Published: `2026-10-09T03:48:34+00:00` / age_days `0.06`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, security high-signal: rce
+- Quelle: https://ascii.jp/elem/000/004/441/4441372/
+
 ### ASEAN’s startup ecosystem is entering its accountability phase
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-10-09T01:16:34+00:00` / age_days `0.15`
+- Published: `2026-10-09T01:16:34+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-10-09T03:32:07+00:00` / age_days `0.05`
+- Published: `2026-10-09T03:32:07+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `watch` (raw `strong`)
 - Dynamics score: `19.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `112.12`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `112.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, aging penalty -8.0 for 112.1d old signal, stale single-source cap: max watch after 14d without fresh resonance
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-09T03:32:07+00:00` / age_days `0.05`
+- Published: `2026-10-09T03:32:07+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-09T01:16:34+00:00` / age_days `0.15`
+- Published: `2026-10-09T01:16:34+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-09T02:13:10+00:00` / age_days `0.11`
+- Published: `2026-10-09T02:13:10+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-10-09T01:16:34+00:00` / age_days `0.15`
+- Published: `2026-10-09T01:16:34+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-10-09T03:32:07+00:00` / age_days `0.05`
+- Published: `2026-10-09T03:32:07+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://e27.co/depin-and-rwa-alliances-in-2026-global-momentum-meets-sea-opportunities-20261004/
-
-### Are you leading with people? Or are you leading with tech?
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `13.0`
-- Published: `2026-10-09T02:13:10+00:00` / age_days `0.11`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/
 
 END OF DOCUMENT
