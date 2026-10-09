@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T14:40:33+00:00",
+  "generated_at": "2026-10-09T14:54:15+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -485,7 +485,7 @@
       "p90_usd": 120000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T14:40:14+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -1528,7 +1528,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -1734,6 +1734,23 @@
       "first_seen_at": "2026-09-18T13:47:53+00:00",
       "last_seen_at": "2026-09-18T15:00:51+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_03ba1734182955a2f4fd",
+      "title": "M 5.4 - 99 km NE of Norsup, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_051cfa972487c1e10518",
@@ -2093,23 +2110,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_03ba1734182955a2f4fd",
-      "title": "M 5.4 - 99 km NE of Norsup, Vanuatu",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1144000.0,
-      "p50_usd": 114400000.0,
-      "p90_usd": 11440000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-09T14:40:14+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_016849870c540dd48378",
       "title": "M 5.0 - 124 km N of Metinaro, Timor Leste",
       "event_classes": [
@@ -2208,7 +2208,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T06:37:14+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -6662,7 +6662,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -6798,7 +6798,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -9399,7 +9399,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T06:12:03+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -9518,7 +9518,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T03:53:58+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -9705,7 +9705,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T11:21:12+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -10147,7 +10147,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T08:25:31+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -11337,7 +11337,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T21:47:37+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -11898,7 +11898,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -12069,7 +12069,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T05:43:05+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -12171,7 +12171,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T01:16:34+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -12362,6 +12362,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_2c1379fdc7161ba3d256",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (02 octobre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_2cc41097ae2301c145d8",
       "title": "Purpose-built model for leaked secret detection",
       "event_classes": [
@@ -12511,7 +12528,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T13:25:56+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -12528,7 +12545,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T01:16:34+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -12717,6 +12734,23 @@
       "first_seen_at": "2026-09-21T13:30:44+00:00",
       "last_seen_at": "2026-09-21T13:30:44+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6f42a662843142938b1f",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (02 octobre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_765d99f9651d1b14faf6",
@@ -13076,6 +13110,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b68d7d11633962775a5b",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (02 octobre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_b8e613bb1b62867b31b0",
       "title": "Vietnam’s returning engineers are high-quality talent. Keeping them is the real problem",
       "event_classes": [
@@ -13140,7 +13191,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {
@@ -13331,8 +13382,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_6f42a662843142938b1f",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (02 octobre 2026)",
+      "event_id": "evt_bbfbde427a388f63bf4f",
+      "title": "Deno is joining Cloudflare | Deno",
       "event_classes": [
         "unknown"
       ],
@@ -13343,42 +13394,8 @@
       "p50_usd": 11280000.0,
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
-      "first_seen_at": "2026-10-09T14:40:14+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_b68d7d11633962775a5b",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (02 octobre 2026)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112800.0,
-      "p50_usd": 11280000.0,
-      "p90_usd": 1128000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-09T14:40:14+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_2c1379fdc7161ba3d256",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (02 octobre 2026)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112800.0,
-      "p50_usd": 11280000.0,
-      "p90_usd": 1128000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-09T14:40:14+00:00",
-      "last_seen_at": "2026-10-09T14:40:14+00:00",
+      "first_seen_at": "2026-10-09T14:53:56+00:00",
+      "last_seen_at": "2026-10-09T14:53:56+00:00",
       "status": "active"
     },
     {

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T14:40:51+00:00",
+  "generated_at": "2026-10-09T14:54:29+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -214,12 +214,12 @@
     {
       "event_id": "evt_03ba1734182955a2f4fd",
       "title": "M 5.4 - 99 km NE of Norsup, Vanuatu",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -2557,13 +2557,13 @@
     {
       "event_id": "evt_2c1379fdc7161ba3d256",
       "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (02 octobre 2026)",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2c38e8e687830114dc50",
@@ -6671,12 +6671,12 @@
     {
       "event_id": "evt_6f42a662843142938b1f",
       "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (02 octobre 2026)",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -10884,12 +10884,12 @@
     {
       "event_id": "evt_b68d7d11633962775a5b",
       "title": "Multiples vulnérabilités dans le noyau Linux de Debian (02 octobre 2026)",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -11122,6 +11122,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_bbfbde427a388f63bf4f",
+      "title": "Deno is joining Cloudflare | Deno",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_bc104b86bd99766581d7",
@@ -12633,12 +12644,12 @@
     {
       "event_id": "evt_d7b34ff35f6ecbc003c7",
       "title": "Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
