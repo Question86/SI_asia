@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T11:21:09+00:00",
-  "run_id": "2026-10-09T11:21:09+00:00",
+  "generated_at": "2026-10-09T11:34:08+00:00",
+  "run_id": "2026-10-09T11:34:08+00:00",
   "date": "2026-10-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 44,
     "displayed_findings": 44,
     "high": 0,
@@ -2193,30 +2193,7 @@
       "id": "b813b0f3a5153d097556"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI boom pushes chipmakers to expand across Asia Pacific, FedEx report finds",
-      "url": "https://e27.co/ai-boom-pushes-chipmakers-to-expand-across-asia-pacific-fedex-report-finds-20261009/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-09T11:11:59+00:00",
-      "fetched_at": "2026-10-09T11:20:35+00:00",
-      "summary": "The artificial intelligence boom is no longer just a story about software models, cloud platforms, or the companies racing to build the next large language model. It is increasingly a story about where chips are made, how far they travel, and whether the supply chains behind them can withstand the next geopolitical shock. A new […] The post AI boom pushes chipmakers to expand across Asia Pacific, FedEx report finds…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Supply Chain Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7a235a4570a43d5063bb"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

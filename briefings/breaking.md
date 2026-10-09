@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-09T11:21:12+00:00_
+_Generiert: 2026-10-09T11:34:10+00:00_
 
 ## Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach
 
-- Ranking Score: `30.42`
+- Ranking Score: `30.27`
 - Raw Network Score: `28.3`
 - Max Monitor Score: `22`
 - Reichweite: `specialist` / `2.5`
@@ -19,8 +19,8 @@ _Generiert: 2026-10-09T11:21:12+00:00_
 
 ## AI boom pushes chipmakers to expand across Asia Pacific, FedEx report finds
 
-- Ranking Score: `27.5`
-- Raw Network Score: `21.1`
+- Ranking Score: `25.0`
+- Raw Network Score: `18.1`
 - Max Monitor Score: `16`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
@@ -28,7 +28,7 @@ _Generiert: 2026-10-09T11:21:12+00:00_
 - Quellen: e27 Asia Startup and Tech Feed
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://e27.co/ai-boom-pushes-chipmakers-to-expand-across-asia-pacific-fedex-report-finds-20261009/
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
