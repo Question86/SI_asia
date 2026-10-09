@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-09T01:25:31Z_
+_Generated: 2026-10-09T02:03:06Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-09T09:00:00+09:00` / age_days `0.06`
+- Published: `2026-10-09T09:00:00+09:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `watch` (raw `strong`)
 - Dynamics score: `19.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `111.98`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `112.0`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, aging penalty -8.0 for 112.0d old signal, stale single-source cap: max watch after 14d without fresh resonance
@@ -31,8 +31,8 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 ### ASEAN’s startup ecosystem is entering its accountability phase
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `17.5`
-- Published: `2026-10-09T01:16:34+00:00` / age_days `0.01`
+- Dynamics score: `15.0`
+- Published: `2026-10-09T01:16:34+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
@@ -41,8 +41,8 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 ### Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `16.0`
-- Published: `2026-10-09T01:16:34+00:00` / age_days `0.01`
+- Dynamics score: `13.5`
+- Published: `2026-10-09T01:16:34+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -51,28 +51,28 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 ### ブックオフグループ 最大で643万件の会員情報漏えいの可能性 | NHKニュース
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.5`
-- Published: `2026-10-09T01:16:34+00:00` / age_days `0.01`
+- Dynamics score: `10.0`
+- Published: `2026-10-08T23:56:47+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
+- Warum: high terms: 10
 - Quelle: https://news.web.nhk/newsweb/na/nd-20261009de56955
 
 ### ブックオフグループ 最大で643万件の会員情報漏えいの可能性 | NHKニュース
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `10.0`
-- Published: `2026-10-08T23:56:47+00:00` / age_days `0.06`
+- Dynamics score: `9.0`
+- Published: `2026-10-09T01:16:34+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: high terms: 10
+- Warum: momentum delta +1
 - Quelle: https://news.web.nhk/newsweb/na/nd-20261009de56955
 
 ### ASEAN’s startup ecosystem is entering its accountability phase
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-10-09T01:00:35+00:00` / age_days `0.02`
+- Published: `2026-10-09T01:00:35+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `4.0`
-- Published: `2026-10-08T09:20:23+00:00` / age_days `0.67`
+- Published: `2026-10-08T09:20:23+00:00` / age_days `0.7`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
