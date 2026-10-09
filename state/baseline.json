@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T07:57:45+00:00",
+  "generated_at": "2026-10-09T08:25:31+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2868,7 +2868,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2883,8 +2883,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -4321,7 +4321,7 @@
     },
     "domain:www.heise.de": {
       "title": "Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         17.3,
         17.3,
@@ -4350,14 +4350,14 @@
         17.3,
         17.3,
         17.3,
-        17.3,
         27.1,
+        24.1,
         24.1
       ],
-      "rolling_average": 17.85,
+      "rolling_average": 18.08,
       "rolling_peak": 27.1,
       "last_score": 24.1,
-      "z_hint": 6.25
+      "z_hint": 6.02
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -14548,7 +14548,7 @@
     },
     "domain:www.afpbb.com": {
       "title": "トランプ氏、AIを「超知能」と呼ばない者は「敵とみなす！」",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -14568,8 +14568,8 @@
         10.1,
         10.1,
         10.1,
-        10.1,
         13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -17961,7 +17961,7 @@
     },
     "earthquake:indonesia:5.2": {
       "title": "M 5.2 - 117 km SE of Bitung, Indonesia",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -17986,8 +17986,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -65038,7 +65038,7 @@
     },
     "title:google-synthid-detector-openai-nvidia-kakao-apple": {
       "title": "Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -65054,16 +65054,17 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.3,
+      "rolling_average": 14.29,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:asean-startup-ecosystem-entering-its-accountability-phase": {
       "title": "ASEAN’s startup ecosystem is entering its accountability phase",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -65079,16 +65080,17 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.3,
+      "rolling_average": 13.29,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:643-nhk": {
       "title": "ブックオフグループ 最大で643万件の会員情報漏えいの可能性 | NHKニュース",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -65104,16 +65106,88 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.3,
+      "rolling_average": 7.29,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:dmm-embulk": {
       "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.31,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.21
+    },
+    "title:are-you-leading-people-are-you-leading-tech": {
+      "title": "Are you leading with people? Or are you leading with tech?",
+      "updated_at": "2026-10-09T08:25:31+00:00",
+      "network_scores": [
+        9.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1
+      ],
+      "rolling_average": 6.31,
+      "rolling_peak": 9.1,
+      "last_score": 6.1,
+      "z_hint": -0.21
+    },
+    "url:https://www.digital.go.jp/speech/minister-261009-01": {
+      "title": "古川大臣記者会見（令和8年10月9日）動画を掲載しました",
+      "updated_at": "2026-10-09T08:25:31+00:00",
+      "network_scores": [
+        11.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1
+      ],
+      "rolling_average": 8.33,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -0.23
+    },
+    "title:643": {
+      "title": "ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -65134,9 +65208,9 @@
       "last_score": 7.1,
       "z_hint": -0.23
     },
-    "title:are-you-leading-people-are-you-leading-tech": {
-      "title": "Are you leading with people? Or are you leading with tech?",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+    "title:depin-rwa-alliances-2026-global-momentum-meets-sea": {
+      "title": "DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -65157,75 +65231,9 @@
       "last_score": 6.1,
       "z_hint": -0.23
     },
-    "url:https://www.digital.go.jp/speech/minister-261009-01": {
-      "title": "古川大臣記者会見（令和8年10月9日）動画を掲載しました",
-      "updated_at": "2026-10-09T07:57:45+00:00",
-      "network_scores": [
-        11.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1
-      ],
-      "rolling_average": 8.35,
-      "rolling_peak": 11.1,
-      "last_score": 8.1,
-      "z_hint": -0.25
-    },
-    "title:643": {
-      "title": "ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
-      "updated_at": "2026-10-09T07:57:45+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.35,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.25
-    },
-    "title:depin-rwa-alliances-2026-global-momentum-meets-sea": {
-      "title": "DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities",
-      "updated_at": "2026-10-09T07:57:45+00:00",
-      "network_scores": [
-        9.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1
-      ],
-      "rolling_average": 6.35,
-      "rolling_peak": 9.1,
-      "last_score": 6.1,
-      "z_hint": -0.25
-    },
     "title:why-jenni-thinks-researchers-need-more-than-chatgpt": {
       "title": "Why Jenni thinks researchers need more than ChatGPT for academic writing",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         21.1,
         18.1,
@@ -65237,16 +65245,17 @@
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 18.37,
+      "rolling_average": 18.35,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "title:labs-are-chasing-slice-corporate-pie-southeast-asia": {
       "title": "AI labs are chasing a slice of the corporate pie in Southeast Asia",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -65257,16 +65266,17 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.4,
+      "rolling_average": 12.37,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:anthropic-claude": {
       "title": "「AIをいじめないで」Anthropic、Claudeへの虐待を禁止",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -65275,92 +65285,111 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.48,
+      "rolling_average": 7.43,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "title:softbank-grab-petros-explore-infra-platform-sarawak": {
       "title": "SoftBank, Grab, PETROS explore AI infra platform in Sarawak",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         17.1,
         14.1,
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.6,
+      "rolling_average": 14.53,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:chats-are-becoming-starting-point-online-shopping": {
       "title": "AI chats are becoming the new starting point for online shopping",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         22.1,
         19.1,
         19.1,
         19.1,
+        19.1,
         19.1
       ],
-      "rolling_average": 19.7,
+      "rolling_average": 19.6,
       "rolling_peak": 22.1,
       "last_score": 19.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:google-gemini-claude": {
       "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         12.1,
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.7,
+      "rolling_average": 9.6,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:500-000-anatomy-crypto-deleveraging-wave": {
       "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         11.1,
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.7,
+      "rolling_average": 8.6,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:anthropic-claude-dashboards-motion-docs-slides-design": {
       "title": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.7,
+      "rolling_average": 7.6,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "github_repo:epicgames/raddebugger": {
       "title": "EpicGames/raddebugger",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+      "updated_at": "2026-10-09T08:25:31+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 8.1,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -1.0
+    },
+    "url:https://www.fsa.go.jp/news/r8/sonota/20261009/20261009.html": {
+      "title": "現下の情勢を踏まえたサイバーセキュリティ対策の強化と各種取引申込等における対応について",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
         10.1,
         7.1
@@ -65370,15 +65399,15 @@
       "last_score": 7.1,
       "z_hint": -1.5
     },
-    "url:https://www.fsa.go.jp/news/r8/sonota/20261009/20261009.html": {
-      "title": "現下の情勢を踏まえたサイバーセキュリティ対策の強化と各種取引申込等における対応について",
-      "updated_at": "2026-10-09T07:57:45+00:00",
+    "title:ecosystem-roundup-granite-asia-google-bundle-cash-compute": {
+      "title": "Ecosystem Roundup: Granite Asia, Google bundle cash and compute for Asia’s AI founders",
+      "updated_at": "2026-10-09T08:25:31+00:00",
       "network_scores": [
-        10.1
+        20.1
       ],
-      "rolling_average": 10.1,
-      "rolling_peak": 10.1,
-      "last_score": 10.1,
+      "rolling_average": 20.1,
+      "rolling_peak": 20.1,
+      "last_score": 20.1,
       "z_hint": 0.0
     }
   }
