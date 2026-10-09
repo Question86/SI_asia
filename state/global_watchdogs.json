@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-09T18:31:17+00:00",
+  "generated_at": "2026-10-09T18:50:56+00:00",
   "sections": {
     "global_security": [
       {
         "domain": "security",
         "severity": "critical",
         "title": "USGS earthquake M7.7 - 12 km WSW of Pitaloza Arriba, Panama",
-        "summary": "M7.7 - 12 km WSW of Pitaloza Arriba, Panama. PAGER alert: pending. Tsunami flag: 0.",
+        "summary": "M7.7 - 12 km WSW of Pitaloza Arriba, Panama. PAGER alert: red. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
         "published_at": "2026-10-09T17:56:06+00:00",
         "metrics": {
           "mag": 7.7,
-          "alert": "pending",
-          "sig": 920.0,
+          "alert": "red",
+          "sig": 2299.0,
           "tsunami": 0
         }
       },
@@ -80,8 +80,8 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Orange earthquake (Magnitude 7.6M, Depth:10km) in Panama 09/10/2026 17:56 UTC, 470 thousand (in MMI&gt;=VII).",
-        "summary": "Orange earthquake (Magnitude 7.6M, Depth:10km) in Panama 09/10/2026 17:56 UTC, 470 thousand (in MMI&gt;=VII).",
+        "title": "GDACS: Orange earthquake (Magnitude 7.7M, Depth:12.647km) in Panama 09/10/2026 17:56 UTC, 350 thousand (in MMI&gt;=VII).",
+        "summary": "Orange earthquake (Magnitude 7.7M, Depth:12.647km) in Panama 09/10/2026 17:56 UTC, 350 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570339",
         "published_at": "",
@@ -94,6 +94,16 @@
         "summary": "Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570077",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Panama 09/10/2026 18:22 UTC, Few people affected (in MMI&gt;=VII).",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Panama 09/10/2026 18:22 UTC, Few people affected (in MMI&gt;=VII).",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570346",
         "published_at": "",
         "metrics": {}
       },
@@ -136,6 +146,36 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570064",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.8 - 1 km S of El Cacao, Panama",
+        "summary": "M5.8 - 1 km S of El Cacao, Panama. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x",
+        "published_at": "2026-10-09T18:37:46+00:00",
+        "metrics": {
+          "mag": 5.8,
+          "alert": "",
+          "sig": 518.0,
+          "tsunami": 0
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - 3 km SW of Bajo Corral, Panama",
+        "summary": "M5.5 - 3 km SW of Bajo Corral, Panama. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18t",
+        "published_at": "2026-10-09T18:22:15+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "green",
+          "sig": 465.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
