@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T03:32:07+00:00",
+  "generated_at": "2026-10-09T03:53:58+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2868,7 +2868,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）",
-      "updated_at": "2026-10-09T03:32:07+00:00",
+      "updated_at": "2026-10-09T03:53:58+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2894,8 +2894,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -14547,8 +14547,8 @@
       "z_hint": -0.13
     },
     "domain:www.afpbb.com": {
-      "title": "米NY市、公立校でのAI利用禁止へ 中学生以下対象",
-      "updated_at": "2026-09-02T23:55:05+00:00",
+      "title": "トランプ氏、AIを「超知能」と呼ばない者は「敵とみなす！」",
+      "updated_at": "2026-10-09T03:53:58+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -14570,12 +14570,13 @@
         10.1,
         10.1,
         10.1,
-        10.1
+        10.1,
+        13.1
       ],
-      "rolling_average": 10.24,
+      "rolling_average": 10.37,
       "rolling_peak": 13.1,
-      "last_score": 10.1,
-      "z_hint": -0.14
+      "last_score": 13.1,
+      "z_hint": 2.73
     },
     "earthquake:m 5.4 - 53 km w of bulolo, papua new guinea:5.4": {
       "title": "M 5.4 - 53 km W of Bulolo, Papua New Guinea",
@@ -65029,49 +65030,90 @@
     },
     "title:google-synthid-detector-openai-nvidia-kakao-apple": {
       "title": "Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定",
-      "updated_at": "2026-10-09T03:32:07+00:00",
+      "updated_at": "2026-10-09T03:53:58+00:00",
       "network_scores": [
         17.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.85,
+      "rolling_average": 14.7,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:asean-startup-ecosystem-entering-its-accountability-phase": {
       "title": "ASEAN’s startup ecosystem is entering its accountability phase",
-      "updated_at": "2026-10-09T03:32:07+00:00",
+      "updated_at": "2026-10-09T03:53:58+00:00",
       "network_scores": [
         16.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.85,
+      "rolling_average": 13.7,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:643-nhk": {
       "title": "ブックオフグループ 最大で643万件の会員情報漏えいの可能性 | NHKニュース",
-      "updated_at": "2026-10-09T03:32:07+00:00",
+      "updated_at": "2026-10-09T03:53:58+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.85,
+      "rolling_average": 7.7,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:dmm-embulk": {
       "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
-      "updated_at": "2026-10-09T03:32:07+00:00",
+      "updated_at": "2026-10-09T03:53:58+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 8.1,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -1.0
+    },
+    "title:are-you-leading-people-are-you-leading-tech": {
+      "title": "Are you leading with people? Or are you leading with tech?",
+      "updated_at": "2026-10-09T03:53:58+00:00",
+      "network_scores": [
+        9.1,
+        6.1,
+        6.1
+      ],
+      "rolling_average": 7.1,
+      "rolling_peak": 9.1,
+      "last_score": 6.1,
+      "z_hint": -1.0
+    },
+    "url:https://www.digital.go.jp/speech/minister-261009-01": {
+      "title": "古川大臣記者会見（令和8年10月9日）動画を掲載しました",
+      "updated_at": "2026-10-09T03:53:58+00:00",
+      "network_scores": [
+        11.1,
+        8.1
+      ],
+      "rolling_average": 9.6,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -1.5
+    },
+    "title:643": {
+      "title": "ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
+      "updated_at": "2026-10-09T03:53:58+00:00",
       "network_scores": [
         10.1,
         7.1
@@ -65081,9 +65123,9 @@
       "last_score": 7.1,
       "z_hint": -1.5
     },
-    "title:are-you-leading-people-are-you-leading-tech": {
-      "title": "Are you leading with people? Or are you leading with tech?",
-      "updated_at": "2026-10-09T03:32:07+00:00",
+    "title:depin-rwa-alliances-2026-global-momentum-meets-sea": {
+      "title": "DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities",
+      "updated_at": "2026-10-09T03:53:58+00:00",
       "network_scores": [
         9.1,
         6.1
@@ -65093,37 +65135,15 @@
       "last_score": 6.1,
       "z_hint": -1.5
     },
-    "url:https://www.digital.go.jp/speech/minister-261009-01": {
-      "title": "古川大臣記者会見（令和8年10月9日）動画を掲載しました",
-      "updated_at": "2026-10-09T03:32:07+00:00",
+    "title:why-jenni-thinks-researchers-need-more-than-chatgpt": {
+      "title": "Why Jenni thinks researchers need more than ChatGPT for academic writing",
+      "updated_at": "2026-10-09T03:53:58+00:00",
       "network_scores": [
-        11.1
+        21.1
       ],
-      "rolling_average": 11.1,
-      "rolling_peak": 11.1,
-      "last_score": 11.1,
-      "z_hint": 0.0
-    },
-    "title:643": {
-      "title": "ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
-      "updated_at": "2026-10-09T03:32:07+00:00",
-      "network_scores": [
-        10.1
-      ],
-      "rolling_average": 10.1,
-      "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
-    },
-    "title:depin-rwa-alliances-2026-global-momentum-meets-sea": {
-      "title": "DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities",
-      "updated_at": "2026-10-09T03:32:07+00:00",
-      "network_scores": [
-        9.1
-      ],
-      "rolling_average": 9.1,
-      "rolling_peak": 9.1,
-      "last_score": 9.1,
+      "rolling_average": 21.1,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
       "z_hint": 0.0
     }
   }
