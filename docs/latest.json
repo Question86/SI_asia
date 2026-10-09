@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T01:54:11+00:00",
-  "run_id": "2026-10-09T01:54:11+00:00",
+  "generated_at": "2026-10-09T02:13:07+00:00",
+  "run_id": "2026-10-09T02:13:07+00:00",
   "date": "2026-10-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 2,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 1,
-    "observe": 3,
+    "observe": 5,
     "source_errors": 0
   },
   "sections": {
@@ -116,6 +116,47 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8690ca4d04bb08701dac"
+      },
+      {
+        "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
+        "url": "https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-08T14:25:56+00:00",
+        "fetched_at": "2026-10-09T02:12:36+00:00",
+        "summary": "はじめに Embulk を使い続けて数年。そろそろ移行したいと思いつつ、そのままになっていませんか。 DMM では、Embulk のメンテナンスモード移行の発表に伴い、長年運用してきたデータ取り込みを dlt へ移行しました。 しかも、5 名のチームで技術選定から検証、取り込み処理の実装を約 3 週間で進め、一部テーブルの新旧...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "17ee318788fdbd8a01e1"
+      },
+      {
+        "title": "Are you leading with people? Or are you leading with tech?",
+        "url": "https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-09T02:00:44+00:00",
+        "fetched_at": "2026-10-09T02:12:36+00:00",
+        "summary": "There’s a fundamental question that most leaders are avoiding right now, not because it’s too hard, but because the answer is uncomfortable. If you don’t understand where scarcity lives in the current economy, and you keep focusing on supplying more into markets with less demand or that are already overcrowded, you’ve forgotten Economics 101. Scarcity […] The post Are you leading with people? Or are you leading with…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b813b0f3a5153d097556"
       }
     ]
   },
@@ -205,9 +246,92 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "8690ca4d04bb08701dac"
+    },
+    {
+      "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
+      "url": "https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-08T14:25:56+00:00",
+      "fetched_at": "2026-10-09T02:12:36+00:00",
+      "summary": "はじめに Embulk を使い続けて数年。そろそろ移行したいと思いつつ、そのままになっていませんか。 DMM では、Embulk のメンテナンスモード移行の発表に伴い、長年運用してきたデータ取り込みを dlt へ移行しました。 しかも、5 名のチームで技術選定から検証、取り込み処理の実装を約 3 週間で進め、一部テーブルの新旧...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "17ee318788fdbd8a01e1"
+    },
+    {
+      "title": "Are you leading with people? Or are you leading with tech?",
+      "url": "https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-09T02:00:44+00:00",
+      "fetched_at": "2026-10-09T02:12:36+00:00",
+      "summary": "There’s a fundamental question that most leaders are avoiding right now, not because it’s too hard, but because the answer is uncomfortable. If you don’t understand where scarcity lives in the current economy, and you keep focusing on supplying more into markets with less demand or that are already overcrowded, you’ve forgotten Economics 101. Scarcity […] The post Are you leading with people? Or are you leading with…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b813b0f3a5153d097556"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
+      "url": "https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-08T14:25:56+00:00",
+      "fetched_at": "2026-10-09T02:12:36+00:00",
+      "summary": "はじめに Embulk を使い続けて数年。そろそろ移行したいと思いつつ、そのままになっていませんか。 DMM では、Embulk のメンテナンスモード移行の発表に伴い、長年運用してきたデータ取り込みを dlt へ移行しました。 しかも、5 名のチームで技術選定から検証、取り込み処理の実装を約 3 週間で進め、一部テーブルの新旧...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "17ee318788fdbd8a01e1"
+    },
+    {
+      "title": "Are you leading with people? Or are you leading with tech?",
+      "url": "https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-09T02:00:44+00:00",
+      "fetched_at": "2026-10-09T02:12:36+00:00",
+      "summary": "There’s a fundamental question that most leaders are avoiding right now, not because it’s too hard, but because the answer is uncomfortable. If you don’t understand where scarcity lives in the current economy, and you keep focusing on supplying more into markets with less demand or that are already overcrowded, you’ve forgotten Economics 101. Scarcity […] The post Are you leading with people? Or are you leading with…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b813b0f3a5153d097556"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-09T01:54:11+00:00_
+_Generated: 2026-10-09T02:13:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `6`
 
 ## Top Signals
 
@@ -35,5 +35,12 @@ _Generated: 2026-10-09T01:54:11+00:00_
 - published: `2026-10-08T23:56:47+00:00`
 - url: https://news.web.nhk/newsweb/na/nd-20261009de56955
 - summary: 中古書籍の販売などを手がける「ブックオフグループホールディングス」は、子会社が提供する会員情報を管理するシステムに不正アクセスがあり、最大で643万件の会員の情報が漏えいした可能性があると発表しました…
+
+### 5. ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-10-08T14:25:56+00:00`
+- url: https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration
+- summary: はじめに Embulk を使い続けて数年。そろそろ移行したいと思いつつ、そのままになっていませんか。 DMM では、Embulk のメンテナンスモード移行の発表に伴い、長年運用してきたデータ取り込みを dlt へ移行しました。 しかも、5 名のチームで技術選定から検証、取り込み処理の実装を約 3 週間で進め、一部テーブルの新旧...
 
 END OF DOCUMENT

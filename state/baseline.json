@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T01:54:15+00:00",
+  "generated_at": "2026-10-09T02:13:10+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2868,7 +2868,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）",
-      "updated_at": "2026-10-09T01:54:15+00:00",
+      "updated_at": "2026-10-09T02:13:10+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2896,8 +2896,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1
       ],
@@ -65029,39 +65029,64 @@
     },
     "title:google-synthid-detector-openai-nvidia-kakao-apple": {
       "title": "Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定",
-      "updated_at": "2026-10-09T01:54:15+00:00",
+      "updated_at": "2026-10-09T02:13:10+00:00",
       "network_scores": [
         17.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 15.6,
+      "rolling_average": 15.1,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:asean-startup-ecosystem-entering-its-accountability-phase": {
       "title": "ASEAN’s startup ecosystem is entering its accountability phase",
-      "updated_at": "2026-10-09T01:54:15+00:00",
+      "updated_at": "2026-10-09T02:13:10+00:00",
       "network_scores": [
         16.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 14.6,
+      "rolling_average": 14.1,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:643-nhk": {
       "title": "ブックオフグループ 最大で643万件の会員情報漏えいの可能性 | NHKニュース",
-      "updated_at": "2026-10-09T01:54:15+00:00",
+      "updated_at": "2026-10-09T02:13:10+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.1,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
+    },
+    "title:dmm-embulk": {
+      "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
+      "updated_at": "2026-10-09T02:13:10+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:are-you-leading-people-are-you-leading-tech": {
+      "title": "Are you leading with people? Or are you leading with tech?",
+      "updated_at": "2026-10-09T02:13:10+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
     }
   }
 }

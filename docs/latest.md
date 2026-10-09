@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T01:54:11+00:00_
+_Generiert: 2026-10-09T02:13:07+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+6 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -50,6 +50,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 中古書籍の販売などを手がける「ブックオフグループホールディングス」は、子会社が提供する会員情報を管理するシステムに不正アクセスがあり、最大で643万件の会員の情報が漏えいした可能性があると発表しました…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました** — Score 5, observation — [Quelle](https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-08T14:25:56+00:00`, fetched `2026-10-09T02:12:36+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに Embulk を使い続けて数年。そろそろ移行したいと思いつつ、そのままになっていませんか。 DMM では、Embulk のメンテナンスモード移行の発表に伴い、長年運用してきたデータ取り込みを dlt へ移行しました。 しかも、5 名のチームで技術選定から検証、取り込み処理の実装を約 3 週間で進め、一部テーブルの新旧...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Are you leading with people? Or are you leading with tech?** — Score 4, observation — [Quelle](https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-09T02:00:44+00:00`, fetched `2026-10-09T02:12:36+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: There’s a fundamental question that most leaders are avoiding right now, not because it’s too hard, but because the answer is uncomfortable. If you don’t understand where scarcity lives in the current economy, and you keep focusing on supplying more into markets with less demand or that are already overcrowded, you’ve forgotten Economics 101. Scarcity […] The post Are you leading with people? Or are you leading with…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
