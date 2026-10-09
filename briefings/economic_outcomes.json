@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T18:31:49+00:00",
+  "generated_at": "2026-10-09T18:51:44+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -4444,7 +4444,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4b46e3ad78f52ee8a36e",
@@ -6699,7 +6699,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6f6660fed98a0b91454c",
@@ -7243,12 +7243,12 @@
     {
       "event_id": "evt_77b69ada6d5b4c2e6d4a",
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -9559,7 +9559,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9ed2410de632b1cd74e7",
@@ -9936,6 +9936,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a826dd3d7cbc921aa4c7",
+      "title": "M 5.5 - 3 km SW of Bajo Corral, Panama",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_a838d6d438149a297e96",
       "title": "GROWIにおける複数の脆弱性",
       "deduplicated_buckets": 0,
@@ -9989,6 +10000,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_a8bbdbceadf4c5ca6458",
+      "title": "M 5.8 - 1 km S of El Cacao, Panama",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_a9168860075ad99c5a0d",
@@ -13794,7 +13816,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e876df12f1e62737e6af",
