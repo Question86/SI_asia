@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T18:08:58+00:00",
+  "generated_at": "2026-10-09T18:31:49+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -4416,13 +4416,13 @@
     {
       "event_id": "evt_4af4bb6d5640551d6b63",
       "title": "M 8.0 - 14 km SW of Pitaloza Arriba, Panama",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4b3fe0a0126d439838ef",
@@ -7239,6 +7239,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_77b69ada6d5b4c2e6d4a",
+      "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_77bf8cb92473225d5c71",
