@@ -56,6 +56,30 @@
     "id": "6bfc669d2b3c5f90ca81"
   },
   {
+    "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Ceph Storage): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3688",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-09T09:19:12+00:00",
+    "fetched_at": "2026-10-09T09:58:53+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (Ceph Storage) ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3d4eb7921b31c7a0c310"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）",
     "url": "https://jvn.jp/vu/JVNVU91137775/",
     "source": "JVN Japan Vulnerability Notes",
@@ -180,6 +204,121 @@
       "LOW"
     ],
     "id": "448c59068ee0a878f5bb"
+  },
+  {
+    "title": "[UPDATE] [hoch] ILIAS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3783",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-09T09:49:11+00:00",
+    "fetched_at": "2026-10-09T09:58:53+00:00",
+    "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsmechanismen zu umgehen, sowie Daten zu manipulieren oder offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "72d45bbecc5f20238d33"
+  },
+  {
+    "title": "[UPDATE] [mittel] SSH Protokoll: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3174",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-09T09:19:12+00:00",
+    "fetched_at": "2026-10-09T09:58:53+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle im SSH Protokoll ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "675ac916eac866d8f342"
+  },
+  {
+    "title": "[UPDATE] [mittel] BusyBox: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3011",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-09T09:19:12+00:00",
+    "fetched_at": "2026-10-09T09:58:53+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um einen Denial of Service Angriff durchzuführen oder unbekannte Auswirkungen zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "49516ad0ab5e99e4b4d5"
+  },
+  {
+    "title": "[UPDATE] [mittel] CoreDNS: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0461",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-09T09:19:11+00:00",
+    "fetched_at": "2026-10-09T09:58:53+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in CoreDNS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b38866e2c19696fb5081"
+  },
+  {
+    "title": "[UPDATE] [hoch] Red Hat Advanced Cluster Management: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0235",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-09T09:19:11+00:00",
+    "fetched_at": "2026-10-09T09:58:53+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Advanced Cluster Management ausnutzen, um seine Privilegien zu erhöhen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8f796dde2f7735230102"
   },
   {
     "title": "[UPDATE] [mittel] Checkmk: Schwachstelle ermöglicht Privilegieneskalation",
@@ -334,6 +473,42 @@
     "id": "c1b5a51789dc2f950993"
   },
   {
+    "title": "M 4.8 - northern Mid-Atlantic Ridge",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14u",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-09T09:56:24.040+00:00",
+    "fetched_at": "2026-10-09T09:58:53+00:00",
+    "summary": "Time 2026-10-09 09:29:18 UTC 2026-10-09 09:29:18 UTC at epicenter Location 35.333°N 35.574°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "e64b92bc723d3cdadb94"
+  },
+  {
     "title": "M 4.8 - 97 km E of Levuka, Fiji",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14i",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -404,6 +579,26 @@
       "LOW"
     ],
     "id": "c4fc3ad27b83609bf161"
+  },
+  {
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-10-09T07:00:00+00:00",
+    "fetched_at": "2026-10-09T09:58:53+00:00",
+    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4e41f7d462bfefc1c444"
   },
   {
     "title": "トランプ氏、AIを「超知能」と呼ばない者は「敵とみなす！」",
@@ -488,6 +683,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5e6769052b648ffa2e62"
+  },
+  {
+    "title": "アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57294",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-09T08:13:07+00:00",
+    "fetched_at": "2026-10-09T09:58:53+00:00",
+    "summary": "企業への不正アクセスによる被害が相次ぐ中、アメリカでも、不正アクセスによって、個人の運転免許証などの情報が漏えいする被害が明らかになっています。 南部ルイジアナ州に本社があるID確認のサービスを手…",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4d3eef0598f387420a3a"
+  },
+  {
+    "title": "JR東、「えきねっと」などで漏えいか メルアドなど最大206万件 IDCFクラウドへの不正アクセスで",
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002171/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-09T06:26:00+00:00",
+    "fetched_at": "2026-10-09T09:58:53+00:00",
+    "summary": "JR東日本は10月9日、列車予約サービス「えきねっと」と会員制サービス「大人の休日倶楽部」のにおいて、最大約206万件の利用者情報が漏えいした可能性があると発表した。7日にIDCフロンティアが公表した不正アクセスが原因で、メール配信用の外部サービスに保存していた利用者の情報が第三者に閲覧・取得された恐れがあ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0f171a198ed395f739b7"
   },
   {
     "title": "「AIをいじめないで」Anthropic、Claudeへの虐待を禁止",

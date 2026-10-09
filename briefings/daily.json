@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-10-09T09:02:36+00:00",
-  "today_file_total": 28,
+  "generated_at": "2026-10-09T09:59:34+00:00",
+  "today_file_total": 38,
   "current_clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Ceph Storage): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3688",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3783",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3174",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3011",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0461",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0235"
+      ],
+      "finding_count": 7,
+      "max_score": 16,
+      "credibility_total": 7.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 6,
+      "momentum_status": "increasing",
+      "network_score": 48.7,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
     {
       "key": "domain:www.heise.de",
       "title": "Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach",
@@ -148,50 +176,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] Checkmk: Schwachstelle ermöglicht Privilegieneskalation",
+      "key": "earthquake:mid-atlantic ridge:4.8",
+      "title": "M 4.8 - northern Mid-Atlantic Ridge",
       "sources": [
-        "BSI CERT-Bund Security Advisories"
+        "USGS M4.5+ Earthquakes Past Hour"
       ],
       "source_classes": [
-        "tier3_specialist"
+        "tier1_official"
       ],
       "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3801"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14u"
       ],
       "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:ipa",
-      "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
+      "max_score": 9,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 16.1,
+      "network_score": 14.7,
       "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:softbank-grab-petros-explore-infra-platform-sarawak",
@@ -240,6 +247,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "title:ipa",
+      "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:asean-startup-ecosystem-entering-its-accountability-phase",
       "title": "ASEAN’s startup ecosystem is entering its accountability phase",
       "sources": [
@@ -257,6 +287,29 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/sophos"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "network_score": 13.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -359,6 +412,52 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "title:5000-nhk",
+      "title": "アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか | NHKニュース",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57294"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:206-idcf",
+      "title": "JR東、「えきねっと」などで漏えいか メルアドなど最大206万件 IDCFクラウドへの不正アクセスで",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002171/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:google-gemini-claude",
       "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
       "sources": [
@@ -377,98 +476,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:500-000-anatomy-crypto-deleveraging-wave",
-      "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/from-us86500-to-us81000-the-anatomy-of-a-crypto-deleveraging-wave-20261009/"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/speech/minister-261009-01",
-      "title": "古川大臣記者会見（令和8年10月9日）動画を掲載しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/speech/minister-261009-01"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:anthropic-claude",
-      "title": "「AIをいじめないで」Anthropic、Claudeへの虐待を禁止",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://ascii.jp/elem/000/004/441/4441372/"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.fsa.go.jp/news/r8/sonota/20261009/20261009.html",
-      "title": "現下の情勢を踏まえたサイバーセキュリティ対策の強化と各種取引申込等における対応について",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.fsa.go.jp/news/r8/sonota/20261009/20261009.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
