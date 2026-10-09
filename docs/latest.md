@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T04:31:39+00:00_
+_Generiert: 2026-10-09T05:02:16+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+13 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -78,14 +78,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年10月9日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/09/2000002150/)
+- **「AIをいじめないで」Anthropic、Claudeへの虐待を禁止** — Score 5, observation — [Quelle](https://ascii.jp/elem/000/004/441/4441372/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-09T00:40:10+00:00`, fetched `2026-10-09T03:31:34+00:00`
+  - Zeit: published `2026-10-09T03:48:34+00:00`, fetched `2026-10-09T05:01:45+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: クレジットカード情報などの決済情報は同システムで保有していないため含まれない。 不正アクセスは10月6日に確認。調査した結果、同システムで管理している会員情報が外部から取得されたことが分かった。攻撃元からの通信を遮断し、脆弱性を是正した上で、対象システムへの外部からのアクセスを遮断して監視を続けてい...
+  - Kurz: sponsored ミリ秒の世界を制するRazerの技術力に迫る！ 王者Nikoが認めた「勝てるヘッドセット」の条件とは? sponsored SENSE-15FR172-U7P-TK4Xをレビュー アプリによってはデスクトップPCに匹敵する性能！Core Ultra 7 270HX Plus＆GeForce RTX 5070 Laptop GPU搭載ノートPCがスゴイ sponsored JN-iBC375G144UQP-HSC9...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities** — Score 4, observation — [Quelle](https://e27.co/depin-and-rwa-alliances-in-2026-global-momentum-meets-sea-opportunities-20261004/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
