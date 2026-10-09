@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-10-09T13:47:43+00:00`
+Generated: `2026-10-09T14:40:51+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -23,9 +23,9 @@ Generated: `2026-10-09T13:47:43+00:00`
 | Change fatigue is an organisational design problem, not a resilience problem | $0 | — | 0 | 0 | dormant |
 | Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性 | $0 | — | 0 | 0 | dormant |
 | BuilderIO/agent-native | $0 | — | 0 | 0 | dormant |
+| M 5.4 - 99 km NE of Norsup, Vanuatu | $0 | — | 0 | 0 | active |
 | OpenAI’s GPT-6 Sol and GPT-6 Luna now available | $0 | — | 0 | 0 | dormant |
 | The new engineering bottleneck isn’t writing code, it’s trusting it | $0 | — | 0 | 0 | dormant |
 | 思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU | $0 | — | 0 | 0 | dormant |
 | Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | dormant |
 | GitHub - minorun365/minorun-marp-skill: Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール | $0 | — | 0 | 0 | dormant |
-| How we use AI to turn one article into audience-specific versions | $0 | — | 0 | 0 | dormant |
