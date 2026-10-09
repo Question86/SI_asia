@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T05:25:58+00:00_
+_Generiert: 2026-10-09T05:43:02+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+15 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -87,9 +87,27 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
   - Kurz: Jenni is an academic research and writing platform used by more than six million researchers, who have written over 15 million papers on it. The US-headquartered company says it passed US$10 million in annual recurring revenue (ARR) this year and is profitable, having grown almost entirely from revenue after raising only a small angel round. […] The post Why Jenni thinks researchers need more than ChatGPT for academ…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - 117 km SE of Bitung, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-09T05:33:36.610+00:00`, fetched `2026-10-09T05:42:23+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - I Time 2026-10-09 05:11:04 UTC 2026-10-09 05:11:04 UTC at epicenter Location 0.759°N 125.937°E Depth 40.05 km (24.89 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
+- **SoftBank, Grab, PETROS explore AI infra platform in Sarawak** — Score 12, observation — [Quelle](https://e27.co/softbank-grab-petros-explore-ai-infra-platform-in-sarawak-20261009/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-09T05:30:44+00:00`, fetched `2026-10-09T05:42:23+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Malaysia (+2.0)
+  - Kurz: Sarawak is not usually the first place that comes to mind when Southeast Asia’s artificial intelligence race is discussed. Singapore has the region’s densest cloud and startup ecosystem, Malaysia’s Johor has been drawing data centre investment because of its proximity to Singapore, and Indonesia has been positioning itself around scale, talent and natural resources. A […] The post SoftBank, Grab, PETROS explore AI i…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定** — Score 12, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2146802.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-08T09:20:23+00:00`, fetched `2026-10-09T01:15:58+00:00`
@@ -143,15 +161,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: sponsored ミリ秒の世界を制するRazerの技術力に迫る！ 王者Nikoが認めた「勝てるヘッドセット」の条件とは? sponsored SENSE-15FR172-U7P-TK4Xをレビュー アプリによってはデスクトップPCに匹敵する性能！Core Ultra 7 270HX Plus＆GeForce RTX 5070 Laptop GPU搭載ノートPCがスゴイ sponsored JN-iBC375G144UQP-HSC9...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities** — Score 4, observation — [Quelle](https://e27.co/depin-and-rwa-alliances-in-2026-global-momentum-meets-sea-opportunities-20261004/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-09T03:00:09+00:00`, fetched `2026-10-09T03:31:34+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: DePIN (Decentralised Physical Infrastructure Networks) crowdsources real-world resources like compute, storage, and connectivity via blockchain incentives. RWA tokenisation brings tangible assets (real estate, commodities, infrastructure) on-chain for fractional ownership, liquidity, and global access. Together, they address SEA’s challenges: high infrastructure costs, limited banking reach, and volatility in local…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
