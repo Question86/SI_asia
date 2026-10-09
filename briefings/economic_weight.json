@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T19:01:13+00:00",
+  "generated_at": "2026-10-09T19:33:28+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -485,7 +485,7 @@
       "p90_usd": 120000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T14:40:14+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -1528,7 +1528,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -1749,7 +1749,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-09T14:40:14+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -1885,7 +1885,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-09T18:31:17+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -1987,7 +1987,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-09T18:50:56+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -2089,7 +2089,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-09T15:23:22+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -2259,7 +2259,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T06:37:14+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -6768,6 +6768,57 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_878c36578d3bab2c9d3e",
+      "title": "M 5.0 - 14 km SE of Río Grande, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-09T19:33:10+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_c45e28dd0e6b0c772ff4",
+      "title": "M 5.0 - 19 km S of Leones Arriba, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-09T19:33:10+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_0c5f970ffdb9b1c9bee2",
+      "title": "M 5.0 - 18 km S of Los Asientos, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-09T19:33:10+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -6781,7 +6832,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -6917,7 +6968,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -9518,7 +9569,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T06:12:03+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -9637,7 +9688,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T03:53:58+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -9824,7 +9875,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T11:21:12+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -9892,7 +9943,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -10266,7 +10317,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T08:25:31+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -11457,7 +11508,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T21:47:37+00:00",
       "last_seen_at": "2026-10-09T19:00:55+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_efb63d7e3ad76cb780b8",
@@ -12017,7 +12068,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -12188,7 +12239,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T05:43:05+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -12290,7 +12341,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T01:16:34+00:00",
-      "last_seen_at": "2026-10-09T19:00:55+00:00",
+      "last_seen_at": "2026-10-09T19:33:10+00:00",
       "status": "active"
     },
     {
@@ -13294,7 +13345,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T14:53:56+00:00",
       "last_seen_at": "2026-10-09T19:00:55+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_bc9ba07651c3741efb1c",
@@ -13328,7 +13379,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
       "last_seen_at": "2026-10-09T19:00:55+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_cd58cd6b2b317f7e52ff",
