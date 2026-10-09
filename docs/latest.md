@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T20:37:02+00:00_
+_Generiert: 2026-10-09T20:50:39+00:00_
 
 ## Kurzlage
 
-78 neue relevante Treffer. Stärkstes Signal: „Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach“ aus heise Security Alerts (Score 22, risk).
+79 neue relevante Treffer. Stärkstes Signal: „Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach“ aus heise Security Alerts (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.6 - 14 km W of Río Grande, Panama** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-09T20:47:03.690+00:00`, fetched `2026-10-09T20:50:06+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - YELLOW ShakeMap - VIII DYFI? - V Time 2026-10-09 20:25:39 UTC 2026-10-09 20:25:39 UTC at epicenter Location 7.718°N 81.469°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.5 - 3 km SW of Bajo Corral, Panama** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18t)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-09T18:42:45.902+00:00`, fetched `2026-10-09T18:50:18+00:00`
@@ -122,15 +131,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - PENDING ShakeMap - VIII DYFI? - V Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.9 - west of Macquarie Island** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u164)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-09T15:13:33.712+00:00`, fetched `2026-10-09T15:22:46+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-10-09 14:49:41 UTC 2026-10-09 14:49:41 UTC at epicenter Location 60.976°S 154.462°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Asana cuts model costs 76x in browser tests with GPT-6.1 Sol** — Score 12, observation — [Quelle](https://openai.com/index/asana-browser-agent)
   - Quelle: OpenAI News RSS / `rss`

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T20:37:02+00:00",
-  "run_id": "2026-10-09T20:37:02+00:00",
+  "generated_at": "2026-10-09T20:50:39+00:00",
+  "run_id": "2026-10-09T20:50:39+00:00",
   "date": "2026-10-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 78
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 78,
-    "displayed_findings": 78,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
     "medium": 22,
-    "observe": 56,
+    "observe": 57,
     "source_errors": 0
   },
   "sections": {
@@ -598,6 +598,44 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 6.6 - 14 km W of Río Grande, Panama",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-09T20:47:03.690+00:00",
+        "fetched_at": "2026-10-09T20:50:06+00:00",
+        "summary": "PAGER - YELLOW ShakeMap - VIII DYFI? - V Time 2026-10-09 20:25:39 UTC 2026-10-09 20:25:39 UTC at epicenter Location 7.718°N 81.469°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "ce9846edff5fc735daee"
+      },
       {
         "title": "M 5.5 - 3 km SW of Bajo Corral, Panama",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18t",
@@ -2714,6 +2752,44 @@
       "id": "8ad583f17966e3c6146a"
     },
     {
+      "title": "M 6.6 - 14 km W of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-09T20:47:03.690+00:00",
+      "fetched_at": "2026-10-09T20:50:06+00:00",
+      "summary": "PAGER - YELLOW ShakeMap - VIII DYFI? - V Time 2026-10-09 20:25:39 UTC 2026-10-09 20:25:39 UTC at epicenter Location 7.718°N 81.469°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "ce9846edff5fc735daee"
+    },
+    {
       "title": "M 5.5 - 3 km SW of Bajo Corral, Panama",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18t",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4261,26 +4337,28 @@
   ],
   "new_findings": [
     {
-      "title": "M 6.9 - 8 km NW of Río Grande, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26282001",
+      "title": "M 6.6 - 14 km W of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-09T20:32:08.435+00:00",
-      "fetched_at": "2026-10-09T20:36:33+00:00",
-      "summary": "Time 2026-10-09 20:25:40 UTC 2026-10-09 20:25:40 UTC at epicenter Location 7.782°N 81.378°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-10-09T20:47:03.690+00:00",
+      "fetched_at": "2026-10-09T20:50:06+00:00",
+      "summary": "PAGER - YELLOW ShakeMap - VIII DYFI? - V Time 2026-10-09 20:25:39 UTC 2026-10-09 20:25:39 UTC at epicenter Location 7.718°N 81.469°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
       ],
       "market_context": [
         "MUV2.DE",
@@ -4294,7 +4372,7 @@
         "HD",
         "LOW"
       ],
-      "id": "7eb74c2bd26255f246e2"
+      "id": "ce9846edff5fc735daee"
     }
   ],
   "source_errors": [],

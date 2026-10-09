@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-09T20:37:02+00:00",
+  "generated_at": "2026-10-09T20:50:39+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 78,
-    "displayed_findings": 78,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
     "medium": 22,
-    "observe": 56
+    "observe": 57
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "M 6.6 - 14 km W of Río Grande, Panama",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-09T20:47:03.690+00:00",
+      "relevance_score": 13,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w",
+      "summary": "PAGER - YELLOW ShakeMap - VIII DYFI? - V Time 2026-10-09 20:25:39 UTC 2026-10-09 20:25:39 UTC at epicenter Location 7.718°N 81.469°W Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
       "title": "M 5.5 - 3 km SW of Bajo Corral, Panama",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 13,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u164",
       "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-09 14:49:41 UTC 2026-10-09 14:49:41 UTC at epicenter Location 60.976°S 154.462°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "M 5.4 - 99 km NE of Norsup, Vanuatu",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-09T14:22:27.040+00:00",
-      "relevance_score": 13,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15x",
-      "summary": "PAGER - GREEN ShakeMap - VI Time 2026-10-09 13:51:42 UTC 2026-10-09 13:51:42 UTC at epicenter Location 15.536°S 168.145°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],

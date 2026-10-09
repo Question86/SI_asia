@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:37:05+00:00",
+  "generated_at": "2026-10-09T20:50:41+00:00",
   "sections": {
     "global_security": [
       {
@@ -13,8 +13,23 @@
         "metrics": {
           "mag": 7.7,
           "alert": "red",
-          "sig": 2470.0,
+          "sig": 2483.0,
           "tsunami": 0
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "USGS earthquake M6.6 - 14 km W of Río Grande, Panama",
+        "summary": "M6.6 - 14 km W of Río Grande, Panama. PAGER alert: yellow. Tsunami flag: 1.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w",
+        "published_at": "2026-10-09T20:25:39+00:00",
+        "metrics": {
+          "mag": 6.6,
+          "alert": "yellow",
+          "sig": 673.0,
+          "tsunami": 1
         }
       },
       {
@@ -80,6 +95,16 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 6.6M, Depth:10km) in Panama 09/10/2026 20:25 UTC, 10 thousand (in MMI&gt;=VII).",
+        "summary": "Green earthquake (Magnitude 6.6M, Depth:10km) in Panama 09/10/2026 20:25 UTC, 10 thousand (in MMI&gt;=VII).",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570370",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "GDACS: Orange earthquake (Magnitude 7.7M, Depth:12.647km) in Panama 09/10/2026 17:56 UTC, 460 thousand (in MMI&gt;=VII).",
         "summary": "Orange earthquake (Magnitude 7.7M, Depth:12.647km) in Panama 09/10/2026 17:56 UTC, 460 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
@@ -96,21 +121,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570077",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "USGS earthquake M6.9 - 8 km NW of Río Grande, Panama",
-        "summary": "M6.9 - 8 km NW of Río Grande, Panama. PAGER alert: none. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26282001",
-        "published_at": "2026-10-09T20:25:40+00:00",
-        "metrics": {
-          "mag": 6.9,
-          "alert": "",
-          "sig": 732.0,
-          "tsunami": 0
-        }
       },
       {
         "domain": "security",
@@ -159,16 +169,6 @@
         "summary": "Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 80 thousand in MMI V.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570075",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].",
-        "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570064",
         "published_at": "",
         "metrics": {}
       }
