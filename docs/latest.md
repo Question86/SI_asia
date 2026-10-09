@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T11:00:56+00:00_
+_Generiert: 2026-10-09T11:21:09+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach“ aus heise Security Alerts (Score 22, risk).
+44 neue relevante Treffer. Stärkstes Signal: „Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach“ aus heise Security Alerts (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: For years, online retail has been organised around a simple assumption: the customer journey begins on a search engine, marketplace, brand website, or app. That assumption is starting to look dated. A new Salesforce report suggests that more shoppers are now beginning with a question to an AI system, whether through ChatGPT-style assistants built on […] The post AI chats are becoming the new starting point for onlin…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI boom pushes chipmakers to expand across Asia Pacific, FedEx report finds** — Score 16, risk — [Quelle](https://e27.co/ai-boom-pushes-chipmakers-to-expand-across-asia-pacific-fedex-report-finds-20261009/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-09T11:11:59+00:00`, fetched `2026-10-09T11:20:35+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Supply Chain Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The artificial intelligence boom is no longer just a story about software models, cloud platforms, or the companies racing to build the next large language model. It is increasingly a story about where chips are made, how far they travel, and whether the supply chains behind them can withstand the next geopolitical shock. A new […] The post AI boom pushes chipmakers to expand across Asia Pacific, FedEx report finds…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **[UPDATE] [hoch] Red Hat Enterprise Linux (Ceph Storage): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3688)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-09T09:19:12+00:00`, fetched `2026-10-09T09:58:53+00:00`
@@ -56,15 +65,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
   - Kurz: Jenni is an academic research and writing platform used by more than six million researchers, who have written over 15 million papers on it. The US-headquartered company says it passed US$10 million in annual recurring revenue (ARR) this year and is profitable, having grown almost entirely from revenue after raising only a small angel round. […] The post Why Jenni thinks researchers need more than ChatGPT for academ…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Ecosystem Roundup: Granite Asia, Google bundle cash and compute for Asia’s AI founders** — Score 15, observation — [Quelle](https://e27.co/ecosystem-roundup-granite-asia-google-bundle-cash-and-compute-for-asias-ai-founders-20261009/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-09T08:10:20+00:00`, fetched `2026-10-09T08:24:55+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, founder, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Asia’s AI founders do not lack investor attention. What they lack is the expensive plumbing frontier AI demands: models, compute, technical help and patient capital. Granite Asia and Google AI Futures Fund want to bundle all of it into one programme. The Singapore-headquartered VC firm, which manages around US$11 billion in assets and co-managed capital, […] The post Ecosystem Roundup: Granite Asia, Google bundle ca…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - 117 km SE of Bitung, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
