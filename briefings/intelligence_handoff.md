@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-09T21:43:38Z_
+_Generated: 2026-10-09T21:54:23Z_
 
 ## Lageurteil
 
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Citrix NetScaler ADC und Ga
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-09T12:14:57+00:00` / age_days `0.39`
+- Published: `2026-10-09T12:14:57+00:00` / age_days `0.4`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Citrix NetScaler ADC und Ga
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-09T10:00:00+00:00` / age_days `0.49`
+- Published: `2026-10-09T10:00:00+00:00` / age_days `0.5`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, escalation, security high-signal: rce, escalation, krass gate recheck: needs multi-source, identity, or official high-signal phrase
