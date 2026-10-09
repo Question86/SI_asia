@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:50:56+00:00",
+  "generated_at": "2026-10-09T19:00:55+00:00",
   "sections": {
     "global_security": [
       {
@@ -13,7 +13,7 @@
         "metrics": {
           "mag": 7.7,
           "alert": "red",
-          "sig": 2299.0,
+          "sig": 2329.0,
           "tsunami": 0
         }
       },
@@ -100,6 +100,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Panama 09/10/2026 18:37 UTC, 5 thousand (in MMI&gt;=VII).",
+        "summary": "Green earthquake (Magnitude 5.8M, Depth:10km) in Panama 09/10/2026 18:37 UTC, 5 thousand (in MMI&gt;=VII).",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570350",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Panama 09/10/2026 18:22 UTC, Few people affected (in MMI&gt;=VII).",
         "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Panama 09/10/2026 18:22 UTC, Few people affected (in MMI&gt;=VII).",
         "source": "GDACS",
@@ -151,29 +161,14 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.8 - 1 km S of El Cacao, Panama",
-        "summary": "M5.8 - 1 km S of El Cacao, Panama. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.8 - 1 km S of El Cacao, Panama. PAGER alert: yellow. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x",
         "published_at": "2026-10-09T18:37:46+00:00",
         "metrics": {
           "mag": 5.8,
-          "alert": "",
-          "sig": 518.0,
-          "tsunami": 0
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.5 - 3 km SW of Bajo Corral, Panama",
-        "summary": "M5.5 - 3 km SW of Bajo Corral, Panama. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18t",
-        "published_at": "2026-10-09T18:22:15+00:00",
-        "metrics": {
-          "mag": 5.5,
-          "alert": "green",
-          "sig": 465.0,
+          "alert": "yellow",
+          "sig": 650.0,
           "tsunami": 0
         }
       }

@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T18:50:54+00:00_
+_Generiert: 2026-10-09T19:00:51+00:00_
 
 ## Kurzlage
 
@@ -41,6 +41,10 @@ _Generiert: 2026-10-09T18:50:54+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Panama 09/10/2026 18:37 UTC, 5 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570350)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Panama 09/10/2026 18:37 UTC, 5 thousand (in MMI&gt;=VII).
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Panama 09/10/2026 18:22 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570346)
   - Quelle: GDACS
   - Zeit: ``
@@ -64,11 +68,7 @@ _Generiert: 2026-10-09T18:50:54+00:00_
 - **USGS earthquake M5.8 - 1 km S of El Cacao, Panama** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x)
   - Quelle: USGS
   - Zeit: `2026-10-09T18:37:46+00:00`
-  - Kurz: M5.8 - 1 km S of El Cacao, Panama. PAGER alert: none. Tsunami flag: 0.
-- **USGS earthquake M5.5 - 3 km SW of Bajo Corral, Panama** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18t)
-  - Quelle: USGS
-  - Zeit: `2026-10-09T18:22:15+00:00`
-  - Kurz: M5.5 - 3 km SW of Bajo Corral, Panama. PAGER alert: green. Tsunami flag: 0.
+  - Kurz: M5.8 - 1 km S of El Cacao, Panama. PAGER alert: yellow. Tsunami flag: 0.
 
 ## Wirtschaft global
 
