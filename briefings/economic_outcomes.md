@@ -1,11 +1,12 @@
 # Economic Outcomes
 
-Generated: `2026-10-09T20:51:13+00:00`
+Generated: `2026-10-09T20:59:36+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
 | ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～ | $0 | — | 0 | 0 | dormant |
 | Startups should learn to leave bad markets faster | $0 | — | 0 | 0 | dormant |
+| M 4.9 - 12 km SSW of Tebario, Panama | $0 | — | 0 | 0 | active |
 | M 4.6 - 12 km SE of La Parguera, Puerto Rico | $0 | — | 0 | 0 | dormant |
 | Multiples vulnérabilités dans Postfix (09 septembre 2026) | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 124 km N of Metinaro, Timor Leste | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-10-09T20:51:13+00:00`
 | The new engineering bottleneck isn’t writing code, it’s trusting it | $0 | — | 0 | 0 | dormant |
 | 思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU | $0 | — | 0 | 0 | dormant |
 | Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | dormant |
-| GitHub - minorun365/minorun-marp-skill: Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール | $0 | — | 0 | 0 | dormant |
