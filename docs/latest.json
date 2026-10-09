@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T05:43:02+00:00",
-  "run_id": "2026-10-09T05:43:02+00:00",
+  "generated_at": "2026-10-09T06:12:00+00:00",
+  "run_id": "2026-10-09T06:12:00+00:00",
   "date": "2026-10-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,40 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 4,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
-    "medium": 3,
-    "observe": 12,
+    "medium": 4,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "AI chats are becoming the new starting point for online shopping",
+        "url": "https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-09T06:05:35+00:00",
+        "fetched_at": "2026-10-09T06:11:28+00:00",
+        "summary": "For years, online retail has been organised around a simple assumption: the customer journey begins on a search engine, marketplace, brand website, or app. That assumption is starting to look dated. A new Salesforce report suggests that more shoppers are now beginning with a question to an AI system, whether through ChatGPT-style assistants built on […] The post AI chats are becoming the new starting point for onlin…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "OpenAI",
+          "Webentwicklung"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6bfc669d2b3c5f90ca81"
+      },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）",
         "url": "https://jvn.jp/vu/JVNVU91137775/",
@@ -222,6 +245,48 @@
         "id": "efb7f1b5929a351f92ab"
       },
       {
+        "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-09T01:01:01+00:00",
+        "fetched_at": "2026-10-09T06:11:28+00:00",
+        "summary": "米Google Cloudは10月9日（現地時間）、新サービス「Gemini Agent」を発表した。クラウドで動作するマルチエージェントツールとされる。 米Googleのシュバム・サブー氏のXでの投稿によれば、Gemini Agentは単一のモデルにロックインされないことが特徴で、各タスクを最適なモデルで実行するとうたう。現時点でGoogleの新...",
+        "matched_keywords": [
+          "agent",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "955b9d2ca68a30df0a89"
+      },
+      {
+        "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",
+        "url": "https://e27.co/from-us86500-to-us81000-the-anatomy-of-a-crypto-deleveraging-wave-20261009/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-09T06:06:24+00:00",
+        "fetched_at": "2026-10-09T06:11:28+00:00",
+        "summary": "The crypto market is reeling. Bitcoin trades around US$80,550 to US$81,000. Ethereum trades near US$2,410 to US$2,470. Both assets dropped sharply on October 9, 2026. An aggressive deleveraging wave and broader macro risk-off sentiment drove the decline. Bitcoin fell about 3.3 per cent to 4 per cent over the last 24 hours. It dropped from […] The post From US$86,500 to US$81,000: The anatomy of a crypto deleveraging…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: NATO (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7a61c15768715c808297"
+      },
+      {
         "title": "古川大臣記者会見（令和8年10月9日）動画を掲載しました",
         "url": "https://www.digital.go.jp/speech/minister-261009-01",
         "source": "Japan Digital Agency News RSS",
@@ -305,6 +370,27 @@
         "id": "8690ca4d04bb08701dac"
       },
       {
+        "title": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2146954.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-08T23:07:59+00:00",
+        "fetched_at": "2026-10-09T06:11:28+00:00",
+        "summary": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "787fedf44e39d4f54d7c"
+      },
+      {
         "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
         "url": "https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration",
         "source": "Hatena Bookmark Hotentry IT",
@@ -368,6 +454,29 @@
     ]
   },
   "findings": [
+    {
+      "title": "AI chats are becoming the new starting point for online shopping",
+      "url": "https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-09T06:05:35+00:00",
+      "fetched_at": "2026-10-09T06:11:28+00:00",
+      "summary": "For years, online retail has been organised around a simple assumption: the customer journey begins on a search engine, marketplace, brand website, or app. That assumption is starting to look dated. A new Salesforce report suggests that more shoppers are now beginning with a question to an AI system, whether through ChatGPT-style assistants built on […] The post AI chats are becoming the new starting point for onlin…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "OpenAI",
+        "Webentwicklung"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6bfc669d2b3c5f90ca81"
+    },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）",
       "url": "https://jvn.jp/vu/JVNVU91137775/",
@@ -559,6 +668,48 @@
       "id": "efb7f1b5929a351f92ab"
     },
     {
+      "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-09T01:01:01+00:00",
+      "fetched_at": "2026-10-09T06:11:28+00:00",
+      "summary": "米Google Cloudは10月9日（現地時間）、新サービス「Gemini Agent」を発表した。クラウドで動作するマルチエージェントツールとされる。 米Googleのシュバム・サブー氏のXでの投稿によれば、Gemini Agentは単一のモデルにロックインされないことが特徴で、各タスクを最適なモデルで実行するとうたう。現時点でGoogleの新...",
+      "matched_keywords": [
+        "agent",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "955b9d2ca68a30df0a89"
+    },
+    {
+      "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",
+      "url": "https://e27.co/from-us86500-to-us81000-the-anatomy-of-a-crypto-deleveraging-wave-20261009/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-09T06:06:24+00:00",
+      "fetched_at": "2026-10-09T06:11:28+00:00",
+      "summary": "The crypto market is reeling. Bitcoin trades around US$80,550 to US$81,000. Ethereum trades near US$2,410 to US$2,470. Both assets dropped sharply on October 9, 2026. An aggressive deleveraging wave and broader macro risk-off sentiment drove the decline. Bitcoin fell about 3.3 per cent to 4 per cent over the last 24 hours. It dropped from […] The post From US$86,500 to US$81,000: The anatomy of a crypto deleveraging…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: NATO (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7a61c15768715c808297"
+    },
+    {
       "title": "古川大臣記者会見（令和8年10月9日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261009-01",
       "source": "Japan Digital Agency News RSS",
@@ -642,6 +793,27 @@
       "id": "8690ca4d04bb08701dac"
     },
     {
+      "title": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2146954.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-08T23:07:59+00:00",
+      "fetched_at": "2026-10-09T06:11:28+00:00",
+      "summary": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "787fedf44e39d4f54d7c"
+    },
+    {
       "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
       "url": "https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration",
       "source": "Hatena Bookmark Hotentry IT",
@@ -705,63 +877,90 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.2 - 117 km SE of Bitung, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-09T05:33:36.610+00:00",
-      "fetched_at": "2026-10-09T05:42:23+00:00",
-      "summary": "DYFI? - I Time 2026-10-09 05:11:04 UTC 2026-10-09 05:11:04 UTC at epicenter Location 0.759°N 125.937°E Depth 40.05 km (24.89 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "448c59068ee0a878f5bb"
-    },
-    {
-      "title": "SoftBank, Grab, PETROS explore AI infra platform in Sarawak",
-      "url": "https://e27.co/softbank-grab-petros-explore-ai-infra-platform-in-sarawak-20261009/",
+      "title": "AI chats are becoming the new starting point for online shopping",
+      "url": "https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-09T05:30:44+00:00",
-      "fetched_at": "2026-10-09T05:42:23+00:00",
-      "summary": "Sarawak is not usually the first place that comes to mind when Southeast Asia’s artificial intelligence race is discussed. Singapore has the region’s densest cloud and startup ecosystem, Malaysia’s Johor has been drawing data centre investment because of its proximity to Singapore, and Indonesia has been positioning itself around scale, talent and natural resources. A […] The post SoftBank, Grab, PETROS explore AI i…",
+      "published_at": "2026-10-09T06:05:35+00:00",
+      "fetched_at": "2026-10-09T06:11:28+00:00",
+      "summary": "For years, online retail has been organised around a simple assumption: the customer journey begins on a search engine, marketplace, brand website, or app. That assumption is starting to look dated. A new Salesforce report suggests that more shoppers are now beginning with a question to an AI system, whether through ChatGPT-style assistants built on […] The post AI chats are becoming the new starting point for onlin…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar",
-        "Southeast Asia"
+        "OpenAI",
+        "Webentwicklung"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Malaysia (+2.0)",
+      "relevance_score": 17,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2060e56e65a156e88e54"
+      "id": "6bfc669d2b3c5f90ca81"
+    },
+    {
+      "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-09T01:01:01+00:00",
+      "fetched_at": "2026-10-09T06:11:28+00:00",
+      "summary": "米Google Cloudは10月9日（現地時間）、新サービス「Gemini Agent」を発表した。クラウドで動作するマルチエージェントツールとされる。 米Googleのシュバム・サブー氏のXでの投稿によれば、Gemini Agentは単一のモデルにロックインされないことが特徴で、各タスクを最適なモデルで実行するとうたう。現時点でGoogleの新...",
+      "matched_keywords": [
+        "agent",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "955b9d2ca68a30df0a89"
+    },
+    {
+      "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",
+      "url": "https://e27.co/from-us86500-to-us81000-the-anatomy-of-a-crypto-deleveraging-wave-20261009/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-09T06:06:24+00:00",
+      "fetched_at": "2026-10-09T06:11:28+00:00",
+      "summary": "The crypto market is reeling. Bitcoin trades around US$80,550 to US$81,000. Ethereum trades near US$2,410 to US$2,470. Both assets dropped sharply on October 9, 2026. An aggressive deleveraging wave and broader macro risk-off sentiment drove the decline. Bitcoin fell about 3.3 per cent to 4 per cent over the last 24 hours. It dropped from […] The post From US$86,500 to US$81,000: The anatomy of a crypto deleveraging…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: NATO (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7a61c15768715c808297"
+    },
+    {
+      "title": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2146954.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-08T23:07:59+00:00",
+      "fetched_at": "2026-10-09T06:11:28+00:00",
+      "summary": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "787fedf44e39d4f54d7c"
     }
   ],
   "source_errors": [],

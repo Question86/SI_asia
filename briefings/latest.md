@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T05:43:02+00:00_
+_Generiert: 2026-10-09T06:12:00+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+19 neue relevante Treffer. Stärkstes Signal: „AI chats are becoming the new starting point for online shopping“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,10 +49,10 @@ _Generiert: 2026-10-09T05:43:02+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].
-- **GDACS: Orange notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.546 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001335)
+- **GDACS: Orange notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 46770 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001335)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.546 million .
+  - Kurz: Orange notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 46770 .
 
 ## Wirtschaft global
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **AI chats are becoming the new starting point for online shopping** — Score 17, observation — [Quelle](https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-09T06:05:35+00:00`, fetched `2026-10-09T06:11:28+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, OpenAI, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: For years, online retail has been organised around a simple assumption: the customer journey begins on a search engine, marketplace, brand website, or app. That assumption is starting to look dated. A new Salesforce report suggests that more shoppers are now beginning with a question to an AI system, whether through ChatGPT-style assistants built on […] The post AI chats are becoming the new starting point for onlin…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU91137775/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-09T09:00:00+09:00`, fetched `2026-10-09T00:22:17+00:00`
@@ -144,6 +153,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 【10月9日 AFP】ドナルド・トランプ米大統領は8日、人工知能（AI）に代わる呼称として自身が普及を図っている「スーパーインテリジェンス」（超知能、SI）という用語を使わない者を「敵」とみなすと表明した。ただし、具体的にどのような措置を取るかは明らかにしなかった。 トランプ氏は自身のSNS「トゥルース・ソーシ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定** — Score 7, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-09T01:01:01+00:00`, fetched `2026-10-09T06:11:28+00:00`
+  - Treffer: agent, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: 米Google Cloudは10月9日（現地時間）、新サービス「Gemini Agent」を発表した。クラウドで動作するマルチエージェントツールとされる。 米Googleのシュバム・サブー氏のXでの投稿によれば、Gemini Agentは単一のモデルにロックインされないことが特徴で、各タスクを最適なモデルで実行するとうたう。現時点でGoogleの新...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **古川大臣記者会見（令和8年10月9日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261009-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-09T03:03:50+00:00`, fetched `2026-10-09T03:31:34+00:00`
@@ -153,20 +171,11 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年10月9日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「AIをいじめないで」Anthropic、Claudeへの虐待を禁止** — Score 5, observation — [Quelle](https://ascii.jp/elem/000/004/441/4441372/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-09T03:48:34+00:00`, fetched `2026-10-09T05:01:45+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: sponsored ミリ秒の世界を制するRazerの技術力に迫る！ 王者Nikoが認めた「勝てるヘッドセット」の条件とは? sponsored SENSE-15FR172-U7P-TK4Xをレビュー アプリによってはデスクトップPCに匹敵する性能！Core Ultra 7 270HX Plus＆GeForce RTX 5070 Laptop GPU搭載ノートPCがスゴイ sponsored JN-iBC375G144UQP-HSC9...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 

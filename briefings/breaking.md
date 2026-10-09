@@ -1,6 +1,19 @@
 # Senna Breaking
 
-_Generiert: 2026-10-09T05:43:05+00:00_
+_Generiert: 2026-10-09T06:12:03+00:00_
 
-Keine Breaking-Signale. Kleine Signale bleiben im Network Hub sichtbar.
+## AI chats are becoming the new starting point for online shopping
+
+- Ranking Score: `26.5`
+- Raw Network Score: `22.1`
+- Max Monitor Score: `17`
+- Reichweite: `specialist` / `2.5`
+- Early Signal: `ja`
+- Dominanter Emitter: `nein`
+- Quellen: e27 Asia Startup and Tech Feed
+- Klassen: tier3_specialist
+- Cross-source bestaetigt: nein
+- Momentum: increasing (+1)
+- Erste Quelle: https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/
+- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 

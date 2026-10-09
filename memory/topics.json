@@ -1,18 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-09T05:43:02+00:00",
+  "generated_at": "2026-10-09T06:12:00+00:00",
   "topics": {
-    "security": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-09T09:00:00+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU91137775/"
-      }
-    ],
     "ai": [
+      {
+        "title": "AI chats are becoming the new starting point for online shopping",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-09T06:05:35+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/"
+      },
       {
         "title": "Why Jenni thinks researchers need more than ChatGPT for academic writing",
         "source": "e27 Asia Startup and Tech Feed",
@@ -49,6 +47,13 @@
         "url": "https://www.afpbb.com/articles/-/3656804"
       },
       {
+        "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-09T01:01:01+00:00",
+        "relevance_score": 7,
+        "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/"
+      },
+      {
         "title": "「AIをいじめないで」Anthropic、Claudeへの虐待を禁止",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-09T03:48:34+00:00",
@@ -56,11 +61,80 @@
         "url": "https://ascii.jp/elem/000/004/441/4441372/"
       },
       {
+        "title": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-08T23:07:59+00:00",
+        "relevance_score": 5,
+        "url": "https://forest.watch.impress.co.jp/docs/news/2146954.html"
+      },
+      {
         "title": "DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-09T03:00:09+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/depin-and-rwa-alliances-in-2026-global-momentum-meets-sea-opportunities-20261004/"
+      }
+    ],
+    "github": [
+      {
+        "title": "AI chats are becoming the new starting point for online shopping",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-09T06:05:35+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "AI chats are becoming the new starting point for online shopping",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-09T06:05:35+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/"
+      },
+      {
+        "title": "SoftBank, Grab, PETROS explore AI infra platform in Sarawak",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-09T05:30:44+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/softbank-grab-petros-explore-ai-infra-platform-in-sarawak-20261009/"
+      },
+      {
+        "title": "AI labs are chasing a slice of the corporate pie in Southeast Asia",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-09T04:00:33+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/ai-labs-are-chasing-a-slice-of-the-corporate-pie-in-southeast-asia-20261004/"
+      },
+      {
+        "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-09T06:06:24+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/from-us86500-to-us81000-the-anatomy-of-a-crypto-deleveraging-wave-20261009/"
+      },
+      {
+        "title": "DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-09T03:00:09+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/depin-and-rwa-alliances-in-2026-global-momentum-meets-sea-opportunities-20261004/"
+      },
+      {
+        "title": "Are you leading with people? Or are you leading with tech?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-09T02:00:44+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/"
+      }
+    ],
+    "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-09T09:00:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU91137775/"
       }
     ],
     "general": [
@@ -107,34 +181,13 @@
         "url": "https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration"
       }
     ],
-    "economy": [
+    "geopolitics": [
       {
-        "title": "SoftBank, Grab, PETROS explore AI infra platform in Sarawak",
+        "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-09T05:30:44+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/softbank-grab-petros-explore-ai-infra-platform-in-sarawak-20261009/"
-      },
-      {
-        "title": "AI labs are chasing a slice of the corporate pie in Southeast Asia",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-09T04:00:33+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/ai-labs-are-chasing-a-slice-of-the-corporate-pie-in-southeast-asia-20261004/"
-      },
-      {
-        "title": "DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-09T03:00:09+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/depin-and-rwa-alliances-in-2026-global-momentum-meets-sea-opportunities-20261004/"
-      },
-      {
-        "title": "Are you leading with people? Or are you leading with tech?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-09T02:00:44+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/"
+        "published_at": "2026-10-09T06:06:24+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/from-us86500-to-us81000-the-anatomy-of-a-crypto-deleveraging-wave-20261009/"
       }
     ]
   }
