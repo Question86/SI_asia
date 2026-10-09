@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T14:40:14+00:00",
-  "today_file_total": 59,
+  "generated_at": "2026-10-09T14:53:56+00:00",
+  "today_file_total": 60,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -73,14 +73,14 @@
       "max_score": 20,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 25.1,
-      "hot": true,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 22.1,
+      "hot": false,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:chats-are-becoming-starting-point-online-shopping",
@@ -104,31 +104,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:m 5.4 - 99 km ne of norsup, vanuatu:5.4",
-      "title": "M 5.4 - 99 km NE of Norsup, Vanuatu",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15x"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 18.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:boom-pushes-chipmakers-expand-across-asia-pacific-fedex",
@@ -250,16 +225,16 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-suse-octobre",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (02 octobre 2026)",
+      "key": "domain:deno.com",
+      "title": "Deno is joining Cloudflare | Deno",
       "sources": [
-        "CERT-FR Avis de sécurité"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1255/"
+        "https://deno.com/blog/cloudflare"
       ],
       "finding_count": 1,
       "max_score": 11,
@@ -273,73 +248,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-red-hat",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (02 octobre 2026)",
+      "key": "earthquake:m 5.4 - 99 km ne of norsup, vanuatu:5.4",
+      "title": "M 5.4 - 99 km NE of Norsup, Vanuatu",
       "sources": [
-        "CERT-FR Avis de sécurité"
+        "USGS M4.5+ Earthquakes Past Hour"
       ],
       "source_classes": [
-        "tier3_specialist"
+        "tier1_official"
       ],
       "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1254/"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15x"
       ],
       "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
+      "max_score": 13,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.7,
       "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-debian-octobre",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (02 octobre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1253/"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-ubuntu-octobre",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (02 octobre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1252/"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:softbank-grab-petros-explore-infra-platform-sarawak",
@@ -471,6 +402,75 @@
       ],
       "urls": [
         "https://e27.co/aseans-startup-ecosystem-is-entering-its-accountability-phase-20261004/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-suse-octobre",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (02 octobre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1255/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-red-hat",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (02 octobre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1254/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-debian-octobre",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (02 octobre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1253/"
       ],
       "finding_count": 1,
       "max_score": 11,

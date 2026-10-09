@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-09T14:40:11+00:00_
+_Generated: 2026-10-09T14:53:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `59`
+- findings: `60`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-09T14:40:11+00:00_
 - url: https://forest.watch.impress.co.jp/docs/news/2146802.html
 - summary: Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定
 
-### 8. M 5.1 - 72 km SSW of Colchane, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
+### 8. Deno is joining Cloudflare | Deno
+- source: Hatena Bookmark Hotentry IT
 - score: `11`
-- published: `2026-10-09T10:47:03.630+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u153
-- summary: DYFI? - III Time 2026-10-09 10:22:14 UTC 2026-10-09 10:22:14 UTC at epicenter Location 19.913°S 68.791°W Depth 123.84 km (76.95 mi)
+- published: `2026-10-09T13:21:58+00:00`
+- url: https://deno.com/blog/cloudflare
+- summary: For years, we’ve been working to make building server software simpler. We questioned how modules could be distributed, what security guarantees a JavaScript runtime could provide, what belonged in a complete toolchain, and how easily an application could be…
 
 END OF DOCUMENT

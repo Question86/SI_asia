@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T14:40:11+00:00_
+_Generiert: 2026-10-09T14:53:47+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach“ aus heise Security Alerts (Score 22, risk).
+60 neue relevante Treffer. Stärkstes Signal: „Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach“ aus heise Security Alerts (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,26 +29,8 @@ _Generiert: 2026-10-09T14:40:11+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
   - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ProFTPD Improper Access Control Vulnerability
-- **GDACS: Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570077)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).
-- **GDACS: Volcanic eruption is on going for Taal in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000151)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Volcanic eruption is on going for Taal in Philippines
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 80 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570075)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 80 thousand in MMI V.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570064)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].
-- **GDACS: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.476 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001335)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.476 million .
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f96a9285bd0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -185,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Deno is joining Cloudflare | Deno** — Score 11, observation — [Quelle](https://deno.com/blog/cloudflare)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-09T13:21:58+00:00`, fetched `2026-10-09T14:53:16+00:00`
+  - Treffer: Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: For years, we’ve been working to make building server software simpler. We questioned how modules could be distributed, what security guarantees a JavaScript runtime could provide, what belonged in a complete toolchain, and how easily an application could be distributed as a standalone executable...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.1 - 72 km SSW of Colchane, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u153)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-09T10:47:03.630+00:00`, fetched `2026-10-09T10:51:41+00:00`
@@ -283,15 +274,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料** — Score 8, observation — [Quelle](https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html/index.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-09T05:32:26+00:00`, fetched `2026-10-09T11:00:18+00:00`
-  - Treffer: Hatena, hotentry, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデートしている中、なんとExcelやWordやPower Pointも同様にMicrosoftのコードを一切使用せずに、完全に新しいコードを使用して各アプリの機能を忠実に...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
