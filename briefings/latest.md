@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T03:53:55+00:00_
+_Generiert: 2026-10-09T04:03:52+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+12 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -108,6 +108,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: Every mature startup ecosystem has eventually faced a period the venture community refers to, after the fact and usually with discomfort, as its accountability phase. The United States went through one in the early 2000s, after Enron, WorldCom, and the broader dot-com governance cleanup. China went through one in the late 2010s, when Luckin Coffee […] The post ASEAN’s startup ecosystem is entering its accountability…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI labs are chasing a slice of the corporate pie in Southeast Asia** — Score 10, observation — [Quelle](https://e27.co/ai-labs-are-chasing-a-slice-of-the-corporate-pie-in-southeast-asia-20261004/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-09T04:00:33+00:00`, fetched `2026-10-09T04:03:20+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: I’ve worked a lot with the Microsoft stack, and for a long time Excel was its staple. It gave Microsoft a foothold inside companies. Once a company ran its budgets, forecasts and operations in Excel, Microsoft could sell a lot of other products around it. It became embedded in the organisation. And after decades of […] The post AI labs are chasing a slice of the corporate pie in Southeast Asia appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **トランプ氏、AIを「超知能」と呼ばない者は「敵とみなす！」** — Score 8, observation — [Quelle](https://www.afpbb.com/articles/-/3656804)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-09T00:44:39+00:00`, fetched `2026-10-09T03:53:26+00:00`
@@ -143,15 +152,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: DePIN (Decentralised Physical Infrastructure Networks) crowdsources real-world resources like compute, storage, and connectivity via blockchain incentives. RWA tokenisation brings tangible assets (real estate, commodities, infrastructure) on-chain for fractional ownership, liquidity, and global access. Together, they address SEA’s challenges: high infrastructure costs, limited banking reach, and volatility in local…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Are you leading with people? Or are you leading with tech?** — Score 4, observation — [Quelle](https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-09T02:00:44+00:00`, fetched `2026-10-09T02:12:36+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: There’s a fundamental question that most leaders are avoiding right now, not because it’s too hard, but because the answer is uncomfortable. If you don’t understand where scarcity lives in the current economy, and you keep focusing on supplying more into markets with less demand or that are already overcrowded, you’ve forgotten Economics 101. Scarcity […] The post Are you leading with people? Or are you leading with…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

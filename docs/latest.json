@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T03:53:55+00:00",
-  "run_id": "2026-10-09T03:53:55+00:00",
+  "generated_at": "2026-10-09T04:03:52+00:00",
+  "run_id": "2026-10-09T04:03:52+00:00",
   "date": "2026-10-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 11
+      "configured_public_sources_only": 12
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "new_relevant_findings": 1,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 2,
-    "observe": 9,
+    "observe": 10,
     "source_errors": 0
   },
   "sections": {
@@ -117,6 +117,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3ab144b4856ac9f460b5"
+      },
+      {
+        "title": "AI labs are chasing a slice of the corporate pie in Southeast Asia",
+        "url": "https://e27.co/ai-labs-are-chasing-a-slice-of-the-corporate-pie-in-southeast-asia-20261004/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-09T04:00:33+00:00",
+        "fetched_at": "2026-10-09T04:03:20+00:00",
+        "summary": "I’ve worked a lot with the Microsoft stack, and for a long time Excel was its staple. It gave Microsoft a foothold inside companies. Once a company ran its budgets, forecasts and operations in Excel, Microsoft could sell a lot of other products around it. It became embedded in the organisation. And after decades of […] The post AI labs are chasing a slice of the corporate pie in Southeast Asia appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c1b5a51789dc2f950993"
       },
       {
         "title": "トランプ氏、AIを「超知能」と呼ばない者は「敵とみなす！」",
@@ -354,6 +376,28 @@
       "id": "3ab144b4856ac9f460b5"
     },
     {
+      "title": "AI labs are chasing a slice of the corporate pie in Southeast Asia",
+      "url": "https://e27.co/ai-labs-are-chasing-a-slice-of-the-corporate-pie-in-southeast-asia-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-09T04:00:33+00:00",
+      "fetched_at": "2026-10-09T04:03:20+00:00",
+      "summary": "I’ve worked a lot with the Microsoft stack, and for a long time Excel was its staple. It gave Microsoft a foothold inside companies. Once a company ran its budgets, forecasts and operations in Excel, Microsoft could sell a lot of other products around it. It became embedded in the organisation. And after decades of […] The post AI labs are chasing a slice of the corporate pie in Southeast Asia appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c1b5a51789dc2f950993"
+    },
+    {
       "title": "トランプ氏、AIを「超知能」と呼ばない者は「敵とみなす！」",
       "url": "https://www.afpbb.com/articles/-/3656804",
       "source": "Hatena Bookmark Hotentry IT",
@@ -501,48 +545,26 @@
   ],
   "new_findings": [
     {
-      "title": "Why Jenni thinks researchers need more than ChatGPT for academic writing",
-      "url": "https://e27.co/why-jenni-thinks-researchers-need-more-than-chatgpt-for-academic-writing-20261009/",
+      "title": "AI labs are chasing a slice of the corporate pie in Southeast Asia",
+      "url": "https://e27.co/ai-labs-are-chasing-a-slice-of-the-corporate-pie-in-southeast-asia-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-09T03:32:00+00:00",
-      "fetched_at": "2026-10-09T03:53:26+00:00",
-      "summary": "Jenni is an academic research and writing platform used by more than six million researchers, who have written over 15 million papers on it. The US-headquartered company says it passed US$10 million in annual recurring revenue (ARR) this year and is profitable, having grown almost entirely from revenue after raising only a small angel round. […] The post Why Jenni thinks researchers need more than ChatGPT for academ…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "OpenAI",
-        "Public Health"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "OpenAI (+7.5); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3ad2a989a56f1608a9f0"
-    },
-    {
-      "title": "トランプ氏、AIを「超知能」と呼ばない者は「敵とみなす！」",
-      "url": "https://www.afpbb.com/articles/-/3656804",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-09T00:44:39+00:00",
-      "fetched_at": "2026-10-09T03:53:26+00:00",
-      "summary": "【10月9日 AFP】ドナルド・トランプ米大統領は8日、人工知能（AI）に代わる呼称として自身が普及を図っている「スーパーインテリジェンス」（超知能、SI）という用語を使わない者を「敵」とみなすと表明した。ただし、具体的にどのような措置を取るかは明らかにしなかった。 トランプ氏は自身のSNS「トゥルース・ソーシ...",
+      "published_at": "2026-10-09T04:00:33+00:00",
+      "fetched_at": "2026-10-09T04:03:20+00:00",
+      "summary": "I’ve worked a lot with the Microsoft stack, and for a long time Excel was its staple. It gave Microsoft a foothold inside companies. Once a company ran its budgets, forecasts and operations in Excel, Microsoft could sell a lot of other products around it. It became embedded in the organisation. And after decades of […] The post AI labs are chasing a slice of the corporate pie in Southeast Asia appeared first on e27 .",
       "matched_keywords": [
         "AI/KI",
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Southeast Asia"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "efb7f1b5929a351f92ab"
+      "id": "c1b5a51789dc2f950993"
     }
   ],
   "source_errors": [],
