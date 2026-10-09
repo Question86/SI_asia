@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-09T09:59:31+00:00_
+_Generated: 2026-10-09T10:23:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `38`
+- findings: `40`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-09T09:59:31+00:00_
 - url: https://forest.watch.impress.co.jp/docs/news/2146802.html
 - summary: Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定
 
-### 7. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構
+### 7. As U.S. blocks DJI, Insta360 races to win American creators
+- source: Rest of World Global Tech Feed
+- score: `11`
+- published: `2026-10-09T10:00:00+00:00`
+- url: https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+- summary: Insta360 co-founder Max Richter at the opening of the New York flagship store
+
+### 8. 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-10-09T06:26:14+00:00`
 - url: https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html
 - summary: 注釈：追記すべき情報がある場合には、その都度このページを更新する予定です。 概要 直近において、国内の金融機関や通信事業者等の幅広い事業者から、不正アクセスの被害による情報漏えい事案の公表が相次いで行われています。特に、大量の個人情報を取り扱うオンラインサービス・アカウントサービス等に関するシステ...
-
-### 8. ASEAN’s startup ecosystem is entering its accountability phase
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-10-09T01:00:35+00:00`
-- url: https://e27.co/aseans-startup-ecosystem-is-entering-its-accountability-phase-20261004/
-- summary: Every mature startup ecosystem has eventually faced a period the venture community refers to, after the fact and usually with discomfort, as its accountability phase. The United States went through one in the early 2000s, after Enron, WorldCom, and the broade…
 
 END OF DOCUMENT

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T09:59:31+00:00_
+_Generiert: 2026-10-09T10:23:51+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach“ aus heise Security Alerts (Score 22, risk).
+40 neue relevante Treffer. Stärkstes Signal: „Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach“ aus heise Security Alerts (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -167,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **As U.S. blocks DJI, Insta360 races to win American creators** — Score 11, risk — [Quelle](https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-10-09T10:00:00+00:00`, fetched `2026-10-09T10:23:20+00:00`
+  - Treffer: Macro/Policy, Watchgraph:war_escalation_sanctions
+  - Watchgraph: war_escalation_sanctions
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, XOM, CVX, SHEL, TTE, BP, ENB
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph modules war_escalation_sanctions (+3.0)
+  - Kurz: Insta360 co-founder Max Richter at the opening of the New York flagship store
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構** — Score 11, observation — [Quelle](https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-09T06:26:14+00:00`, fetched `2026-10-09T09:02:04+00:00`
@@ -247,6 +256,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 【10月9日 AFP】ドナルド・トランプ米大統領は8日、人工知能（AI）に代わる呼称として自身が普及を図っている「スーパーインテリジェンス」（超知能、SI）という用語を使わない者を「敵」とみなすと表明した。ただし、具体的にどのような措置を取るかは明らかにしなかった。 トランプ氏は自身のSNS「トゥルース・ソーシ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Angreifer können Systeme mit IBM Verify Identity Access übernehmen** — Score 7, observation — [Quelle](https://www.heise.de/news/Angreifer-koennen-Systeme-mit-IBM-Verify-Identity-Access-uebernehmen-11482296.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-09T10:04:00.000+00:00`, fetched `2026-10-09T10:23:20+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: IBMs Zugriffsmanagementlösungen IBM Verify Identity Access und IBM Security Verify Access sind verwundbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **古川大臣記者会見（令和8年10月9日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261009-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
