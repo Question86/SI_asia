@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T06:12:03+00:00",
+  "generated_at": "2026-10-09T06:46:41+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 19,
@@ -26,19 +26,19 @@
       "max_score": 17,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 26.5,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 24.0,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 22.1,
-      "ranking_score": 26.5,
+      "raw_network_score": 19.1,
+      "ranking_score": 24.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": true,
       "early_signal_bonus": 5.5,
@@ -318,82 +318,6 @@
       "first_seen_at": "2026-10-09T04:03:56+00:00"
     },
     {
-      "key": "title:google-gemini-claude",
-      "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.1,
-      "ranking_score": 11.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-09T06:12:03+00:00"
-    },
-    {
-      "key": "title:500-000-anatomy-crypto-deleveraging-wave",
-      "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/from-us86500-to-us81000-the-anatomy-of-a-crypto-deleveraging-wave-20261009/"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 11.1,
-      "ranking_score": 10.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-09T06:12:03+00:00"
-    },
-    {
       "key": "domain:www.afpbb.com",
       "title": "トランプ氏、AIを「超知能」と呼ばない者は「敵とみなす！」",
       "sources": [
@@ -432,8 +356,8 @@
       "first_seen_at": "2026-09-02T20:19:20+00:00"
     },
     {
-      "key": "title:anthropic-claude-dashboards-motion-docs-slides-design",
-      "title": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
+      "key": "title:google-gemini-claude",
+      "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -441,25 +365,63 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://forest.watch.impress.co.jp/docs/news/2146954.html"
+        "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/"
       ],
       "finding_count": 1,
-      "max_score": 5,
+      "max_score": 7,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
+      "raw_network_score": 9.1,
+      "ranking_score": 8.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-09T06:12:03+00:00"
+    },
+    {
+      "key": "title:500-000-anatomy-crypto-deleveraging-wave",
+      "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/from-us86500-to-us81000-the-anatomy-of-a-crypto-deleveraging-wave-20261009/"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 8.1,
+      "ranking_score": 7.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -622,6 +584,44 @@
       "first_seen_at": "2026-10-09T01:16:34+00:00"
     },
     {
+      "key": "title:anthropic-claude-dashboards-motion-docs-slides-design",
+      "title": "Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供／データからダッシュボード、アイデアからアニメーションを生成",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://forest.watch.impress.co.jp/docs/news/2146954.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-09T06:12:03+00:00"
+    },
+    {
       "key": "title:dmm-embulk",
       "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
       "sources": [
@@ -738,7 +738,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-09T06:12:03Z",
+    "generated_at": "2026-10-09T06:46:42Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
