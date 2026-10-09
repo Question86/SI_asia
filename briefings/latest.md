@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T02:13:07+00:00_
+_Generiert: 2026-10-09T03:32:03+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+9 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -99,6 +99,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: Every mature startup ecosystem has eventually faced a period the venture community refers to, after the fact and usually with discomfort, as its accountability phase. The United States went through one in the early 2000s, after Enron, WorldCom, and the broader dot-com governance cleanup. China went through one in the late 2010s, when Luckin Coffee […] The post ASEAN’s startup ecosystem is entering its accountability…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **古川大臣記者会見（令和8年10月9日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261009-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-09T03:03:50+00:00`, fetched `2026-10-09T03:31:34+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 古川大臣記者会見（令和8年10月9日）動画を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/09/2000002150/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-09T00:40:10+00:00`, fetched `2026-10-09T03:31:34+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: クレジットカード情報などの決済情報は同システムで保有していないため含まれない。 不正アクセスは10月6日に確認。調査した結果、同システムで管理している会員情報が外部から取得されたことが分かった。攻撃元からの通信を遮断し、脆弱性を是正した上で、対象システムへの外部からのアクセスを遮断して監視を続けてい...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ブックオフグループ 最大で643万件の会員情報漏えいの可能性 | NHKニュース** — Score 5, observation — [Quelle](https://news.web.nhk/newsweb/na/nd-20261009de56955)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-08T23:56:47+00:00`, fetched `2026-10-09T01:15:58+00:00`
@@ -108,14 +126,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 中古書籍の販売などを手がける「ブックオフグループホールディングス」は、子会社が提供する会員情報を管理するシステムに不正アクセスがあり、最大で643万件の会員の情報が漏えいした可能性があると発表しました…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました** — Score 5, observation — [Quelle](https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-08T14:25:56+00:00`, fetched `2026-10-09T02:12:36+00:00`
-  - Treffer: Hatena, hotentry
+- **DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities** — Score 4, observation — [Quelle](https://e27.co/depin-and-rwa-alliances-in-2026-global-momentum-meets-sea-opportunities-20261004/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-09T03:00:09+00:00`, fetched `2026-10-09T03:31:34+00:00`
+  - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに Embulk を使い続けて数年。そろそろ移行したいと思いつつ、そのままになっていませんか。 DMM では、Embulk のメンテナンスモード移行の発表に伴い、長年運用してきたデータ取り込みを dlt へ移行しました。 しかも、5 名のチームで技術選定から検証、取り込み処理の実装を約 3 週間で進め、一部テーブルの新旧...
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: DePIN (Decentralised Physical Infrastructure Networks) crowdsources real-world resources like compute, storage, and connectivity via blockchain incentives. RWA tokenisation brings tangible assets (real estate, commodities, infrastructure) on-chain for fractional ownership, liquidity, and global access. Together, they address SEA’s challenges: high infrastructure costs, limited banking reach, and volatility in local…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Are you leading with people? Or are you leading with tech?** — Score 4, observation — [Quelle](https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
