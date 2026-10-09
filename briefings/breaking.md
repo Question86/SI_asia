@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-10-09T10:23:53+00:00_
+_Generiert: 2026-10-09T10:38:28+00:00_
 
 ## Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach
 
-- Ranking Score: `34.7`
-- Raw Network Score: `31.3`
+- Ranking Score: `30.86`
+- Raw Network Score: `28.3`
 - Max Monitor Score: `22`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `nein`
@@ -13,7 +13,7 @@ _Generiert: 2026-10-09T10:23:53+00:00_
 - Quellen: heise Security Alerts
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://www.heise.de/news/Citrix-legt-weiteres-Sicherheitsupdate-gegen-kritische-Netscaler-Luecke-nach-11481808.html
 - Handlung: HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.
 
