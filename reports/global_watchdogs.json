@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T08:47:13+00:00",
+  "generated_at": "2026-10-09T09:02:36+00:00",
   "sections": {
     "global_security": [
       {
@@ -71,21 +71,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570077",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "USGS earthquake M6.3 - 102 km NE of Norsup, Vanuatu",
-        "summary": "M6.3 - 102 km NE of Norsup, Vanuatu. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xi",
-        "published_at": "2026-10-08T09:00:07+00:00",
-        "metrics": {
-          "mag": 6.3,
-          "alert": "green",
-          "sig": 614.0,
-          "tsunami": 0
-        }
       },
       {
         "domain": "security",
