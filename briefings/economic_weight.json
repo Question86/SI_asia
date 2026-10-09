@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T02:13:30+00:00",
+  "generated_at": "2026-10-09T03:32:26+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -6694,7 +6694,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-09T02:13:10+00:00",
+      "last_seen_at": "2026-10-09T03:32:07+00:00",
       "status": "active"
     },
     {
@@ -11982,7 +11982,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T01:16:34+00:00",
-      "last_seen_at": "2026-10-09T02:13:10+00:00",
+      "last_seen_at": "2026-10-09T03:32:07+00:00",
       "status": "active"
     },
     {
@@ -12339,7 +12339,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T01:16:34+00:00",
-      "last_seen_at": "2026-10-09T02:13:10+00:00",
+      "last_seen_at": "2026-10-09T03:32:07+00:00",
       "status": "active"
     },
     {
@@ -18855,6 +18855,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_eeb44d249a8bd56425a5",
+      "title": "古川大臣記者会見（令和8年10月9日）動画を掲載しました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-09T03:32:07+00:00",
+      "last_seen_at": "2026-10-09T03:32:07+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_00999a707b633ec75a8c",
       "title": "Startups should learn to leave bad markets faster",
       "event_classes": [
@@ -19786,7 +19803,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T01:16:34+00:00",
-      "last_seen_at": "2026-10-09T02:13:10+00:00",
+      "last_seen_at": "2026-10-09T03:32:07+00:00",
       "status": "active"
     },
     {
@@ -20060,6 +20077,23 @@
       "first_seen_at": "2026-09-08T00:00:49+00:00",
       "last_seen_at": "2026-09-08T05:51:06+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6148d2dbb49b5b3dd324",
+      "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-09T02:13:10+00:00",
+      "last_seen_at": "2026-10-09T03:32:07+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_616ba86e197f16b3fa04",
@@ -22102,8 +22136,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_6148d2dbb49b5b3dd324",
-      "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
+      "event_id": "evt_9ed2410de632b1cd74e7",
+      "title": "ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
       "event_classes": [
         "unknown"
       ],
@@ -22114,8 +22148,8 @@
       "p50_usd": 10800000.0,
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
-      "first_seen_at": "2026-10-09T02:13:10+00:00",
-      "last_seen_at": "2026-10-09T02:13:10+00:00",
+      "first_seen_at": "2026-10-09T03:32:07+00:00",
+      "last_seen_at": "2026-10-09T03:32:07+00:00",
       "status": "active"
     },
     {
@@ -22202,6 +22236,23 @@
       "first_seen_at": "2026-09-10T02:30:16+00:00",
       "last_seen_at": "2026-09-10T05:57:48+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_0cb1f249c23012130e40",
+      "title": "Are you leading with people? Or are you leading with tech?",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-09T02:13:10+00:00",
+      "last_seen_at": "2026-10-09T03:32:07+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_17a8d3a98277ccabe0d7",
@@ -22783,20 +22834,20 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_0cb1f249c23012130e40",
-      "title": "Are you leading with people? Or are you leading with tech?",
+      "event_id": "evt_e7f4bac7ab80264cf49b",
+      "title": "DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities",
       "event_classes": [
         "unknown"
       ],
       "capital_channels": [
-        "unknown"
+        "infrastructure"
       ],
       "p10_usd": 107200.0,
       "p50_usd": 10720000.0,
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
-      "first_seen_at": "2026-10-09T02:13:10+00:00",
-      "last_seen_at": "2026-10-09T02:13:10+00:00",
+      "first_seen_at": "2026-10-09T03:32:07+00:00",
+      "last_seen_at": "2026-10-09T03:32:07+00:00",
       "status": "active"
     },
     {
