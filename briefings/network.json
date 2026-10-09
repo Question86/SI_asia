@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-09T18:08:19+00:00",
+  "generated_at": "2026-10-09T18:31:17+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 66,
-    "clusters": 51,
+    "findings": 67,
+    "clusters": 52,
     "cross_source_confrmed": 0,
     "hot": 1,
     "early_signals": 0,
-    "dominance_penalized": 12
+    "dominance_penalized": 13
   },
   "clusters": [
     {
@@ -30,20 +30,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 27.52,
+      "network_score": 27.5,
       "hot": true,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 28.3,
-      "ranking_score": 27.52,
+      "ranking_score": 27.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.02,
+      "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": true,
@@ -93,49 +93,6 @@
       "first_seen_at": "2026-10-09T14:40:14+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [mittel] Red Hat Enterprise Linux (sssd, tftp, ansible-collection-ansible-posix): Mehrere Schwachstellen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3848",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3849",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3688",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3850",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3847",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3845"
-      ],
-      "finding_count": 14,
-      "max_score": 16,
-      "credibility_total": 14.7,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 18.8,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 45.4,
-      "ranking_score": 18.8,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.3,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
       "key": "title:chats-are-becoming-starting-point-online-shopping",
       "title": "AI chats are becoming the new starting point for online shopping",
       "sources": [
@@ -172,6 +129,49 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-09T06:12:03+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (sssd, tftp, ansible-collection-ansible-posix): Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3848",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3849",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3688",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3850",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3847",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3845"
+      ],
+      "finding_count": 14,
+      "max_score": 16,
+      "credibility_total": 14.7,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 18.41,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 45.4,
+      "ranking_score": 18.41,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.91,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:boom-pushes-chipmakers-expand-across-asia-pacific-fedex",
@@ -328,6 +328,47 @@
       "first_seen_at": "2026-10-09T08:25:31+00:00"
     },
     {
+      "key": "earthquake:m 7.7 - 12 km wsw of pitaloza arriba, panama:7.7",
+      "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 18.7,
+      "ranking_score": 14.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-10-09T18:31:17+00:00"
+    },
+    {
       "key": "earthquake:indonesia:5.2",
       "title": "M 5.2 - 117 km SE of Bitung, Indonesia",
       "sources": [
@@ -462,20 +503,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.67,
+      "network_score": 12.57,
       "hot": false,
       "watchgraph_modules": [
         "war_escalation_sanctions"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 13.1,
-      "ranking_score": 12.67,
+      "ranking_score": 12.57,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.17,
+      "baseline_bonus": 0.07,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -871,47 +912,6 @@
       "first_seen_at": "2026-10-09T04:03:56+00:00"
     },
     {
-      "key": "earthquake:m 8.0 - 14 km sw of pitaloza arriba, panama:8.0",
-      "title": "M 8.0 - 14 km SW of Pitaloza Arriba, Panama",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "emergency_official",
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/pt26282000"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.9,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 14.7,
-      "ranking_score": 10.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-10-09T18:08:19+00:00"
-    },
-    {
       "key": "earthquake:chile:5.1",
       "title": "M 5.1 - 72 km SSW of Colchane, Chile",
       "sources": [
@@ -1179,6 +1179,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-09T06:12:03+00:00"
+    },
+    {
+      "key": "earthquake:m 8.0 - 14 km sw of pitaloza arriba, panama:8.0",
+      "title": "M 8.0 - 14 km SW of Pitaloza Arriba, Panama",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/pt26282000"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 11.7,
+      "ranking_score": 8.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-10-09T18:08:19+00:00"
     },
     {
       "key": "earthquake:m 4.7 - 138 km se of petropavlovsk-kamchatsky, russia:4.7",
@@ -2002,7 +2043,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-09T18:08:20Z",
+    "generated_at": "2026-10-09T18:31:17Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
