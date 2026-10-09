@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T15:02:27+00:00_
+_Generiert: 2026-10-09T15:23:19+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach“ aus heise Security Alerts (Score 22, risk).
+61 neue relevante Treffer. Stärkstes Signal: „Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach“ aus heise Security Alerts (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-10-09T15:02:27+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in West Of Macquarie Island 09/10/2026 14:49 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570318)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in West Of Macquarie Island 09/10/2026 14:49 UTC, [unknown].
 - **GDACS: Volcanic eruption is on going for Taal in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000151)
   - Quelle: GDACS
   - Zeit: ``
@@ -45,10 +49,14 @@ _Generiert: 2026-10-09T15:02:27+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].
-- **GDACS: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.476 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001335)
+- **GDACS: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.708 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001335)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.476 million .
+  - Kurz: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.708 million .
+- **USGS earthquake M5.9 - west of Macquarie Island** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u164)
+  - Quelle: USGS
+  - Zeit: `2026-10-09T14:49:41+00:00`
+  - Kurz: M5.9 - west of Macquarie Island. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -158,6 +166,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.9 - west of Macquarie Island** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u164)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-09T15:13:33.712+00:00`, fetched `2026-10-09T15:22:46+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-10-09 14:49:41 UTC 2026-10-09 14:49:41 UTC at epicenter Location 60.976°S 154.462°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.4 - 99 km NE of Norsup, Vanuatu** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15x)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-09T14:22:27.040+00:00`, fetched `2026-10-09T14:39:36+00:00`
@@ -275,15 +292,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: I’ve worked a lot with the Microsoft stack, and for a long time Excel was its staple. It gave Microsoft a foothold inside companies. Once a company ran its budgets, forecasts and operations in Excel, Microsoft could sell a lot of other products around it. It became embedded in the organisation. And after decades of […] The post AI labs are chasing a slice of the corporate pie in Southeast Asia appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - 17 km S of Nandaime, Nicaragua** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15l)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-09T12:46:40.040+00:00`, fetched `2026-10-09T13:03:14+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-09 12:33:43 UTC 2026-10-09 12:33:43 UTC at epicenter Location 11.595°N 86.061°W Depth 165.66 km (102.94 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Sophos cuts threat investigation time by 96% with OpenAI Daybreak** — Score 8, observation — [Quelle](https://openai.com/index/sophos)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-10-09T07:00:00+00:00`, fetched `2026-10-09T09:58:53+00:00`

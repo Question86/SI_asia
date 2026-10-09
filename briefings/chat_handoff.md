@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-09T15:02:27+00:00_
+_Generated: 2026-10-09T15:23:19+00:00_
 
 ## Status
 - status: `normal`
-- findings: `60`
+- findings: `61`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-09T15:02:27+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3848
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen und einen Denial-of-Service-Zustand auszulösen.
 
-### 5. M 5.4 - 99 km NE of Norsup, Vanuatu
+### 5. M 5.9 - west of Macquarie Island
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-09T15:13:33.712+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u164
+- summary: PAGER - GREEN ShakeMap - I Time 2026-10-09 14:49:41 UTC 2026-10-09 14:49:41 UTC at epicenter Location 60.976°S 154.462°E Depth 10.00 km (6.21 mi)
+
+### 6. M 5.4 - 99 km NE of Norsup, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-09T14:22:27.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15x
 - summary: PAGER - GREEN ShakeMap - VI Time 2026-10-09 13:51:42 UTC 2026-10-09 13:51:42 UTC at epicenter Location 15.536°S 168.145°E Depth 10.00 km (6.21 mi)
 
-### 6. SoftBank, Grab, PETROS explore AI infra platform in Sarawak
+### 7. SoftBank, Grab, PETROS explore AI infra platform in Sarawak
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-09T05:30:44+00:00`
 - url: https://e27.co/softbank-grab-petros-explore-ai-infra-platform-in-sarawak-20261009/
 - summary: Sarawak is not usually the first place that comes to mind when Southeast Asia’s artificial intelligence race is discussed. Singapore has the region’s densest cloud and startup ecosystem, Malaysia’s Johor has been drawing data centre investment because of its…
 
-### 7. Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定
+### 8. Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-10-08T09:20:23+00:00`
 - url: https://forest.watch.impress.co.jp/docs/news/2146802.html
 - summary: Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定
-
-### 8. Deno is joining Cloudflare | Deno
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-10-09T13:21:58+00:00`
-- url: https://deno.com/blog/cloudflare
-- summary: For years, we’ve been working to make building server software simpler. We questioned how modules could be distributed, what security guarantees a JavaScript runtime could provide, what belonged in a complete toolchain, and how easily an application could be…
 
 END OF DOCUMENT
