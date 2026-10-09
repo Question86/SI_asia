@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-10-09T09:47:12Z",
+  "generated_at": "2026-10-09T10:15:56Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -28,7 +28,17 @@
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
+      "title": "[UPDATE] [hoch] ILIAS: Mehrere Schwachstellen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
       "title": "SoftBank, Grab, PETROS explore AI infra platform in Sarawak",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Ceph Storage): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
@@ -43,22 +53,12 @@
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
-      "title": "[UPDATE] [mittel] Checkmk: Schwachstelle ermöglicht Privilegieneskalation",
+      "title": "[UPDATE] [mittel] SSH Protokoll: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "AI chats are becoming the new starting point for online shopping",
+      "title": "[UPDATE] [mittel] BusyBox: Mehrere Schwachstellen",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
