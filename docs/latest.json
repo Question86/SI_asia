@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T19:33:07+00:00",
-  "run_id": "2026-10-09T19:33:07+00:00",
+  "generated_at": "2026-10-09T19:44:52+00:00",
+  "run_id": "2026-10-09T19:44:52+00:00",
   "date": "2026-10-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 73
+      "configured_public_sources_only": 75
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "new_relevant_findings": 2,
+    "today_file_total": 75,
+    "displayed_findings": 75,
     "high": 0,
     "medium": 22,
-    "observe": 51,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -1120,6 +1120,42 @@
         "id": "c1b5a51789dc2f950993"
       },
       {
+        "title": "M 4.8 - 14 km SSW of Tebario, Panama",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u198",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-09T19:35:01.040+00:00",
+        "fetched_at": "2026-10-09T19:44:20+00:00",
+        "summary": "Time 2026-10-09 19:17:22 UTC 2026-10-09 19:17:22 UTC at epicenter Location 7.609°N 81.042°W Depth 25.96 km (16.13 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "7a9fe66846af4b4a314e"
+      },
+      {
         "title": "M 5.0 - 14 km SE of Río Grande, Panama",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u197",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1635,6 +1671,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "efb7f1b5929a351f92ab"
+      },
+      {
+        "title": "Copilot code review: New organization billing options and controls",
+        "url": "https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-08T19:43:05+00:00",
+        "fetched_at": "2026-10-09T19:44:20+00:00",
+        "summary": "This release adds new billing and license controls for Copilot code review admins: Billing: Organization owners can bill Copilot code reviews from members with a Copilot license to the organization’s… The post Copilot code review: New organization billing options and controls appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub",
+          "Open Source"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Open Source (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7b5d5fc1f50dd7e2734e"
       },
       {
         "title": "Multiples vulnérabilités dans les produits IBM (02 octobre 2026)",
@@ -3083,6 +3141,42 @@
       "id": "c1b5a51789dc2f950993"
     },
     {
+      "title": "M 4.8 - 14 km SSW of Tebario, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u198",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-09T19:35:01.040+00:00",
+      "fetched_at": "2026-10-09T19:44:20+00:00",
+      "summary": "Time 2026-10-09 19:17:22 UTC 2026-10-09 19:17:22 UTC at epicenter Location 7.609°N 81.042°W Depth 25.96 km (16.13 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7a9fe66846af4b4a314e"
+    },
+    {
       "title": "M 5.0 - 14 km SE of Río Grande, Panama",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u197",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3600,6 +3694,28 @@
       "id": "efb7f1b5929a351f92ab"
     },
     {
+      "title": "Copilot code review: New organization billing options and controls",
+      "url": "https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-08T19:43:05+00:00",
+      "fetched_at": "2026-10-09T19:44:20+00:00",
+      "summary": "This release adds new billing and license controls for Copilot code review admins: Billing: Organization owners can bill Copilot code reviews from members with a Copilot license to the organization’s… The post Copilot code review: New organization billing options and controls appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub",
+        "Open Source"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Open Source (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7b5d5fc1f50dd7e2734e"
+    },
+    {
       "title": "Multiples vulnérabilités dans les produits IBM (02 octobre 2026)",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1256/",
       "source": "CERT-FR Avis de sécurité",
@@ -3957,13 +4073,13 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.0 - 14 km SE of Río Grande, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u197",
+      "title": "M 4.8 - 14 km SSW of Tebario, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u198",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-09T19:25:01.040+00:00",
-      "fetched_at": "2026-10-09T19:32:37+00:00",
-      "summary": "Time 2026-10-09 19:04:49 UTC 2026-10-09 19:04:49 UTC at epicenter Location 7.616°N 81.249°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-10-09T19:35:01.040+00:00",
+      "fetched_at": "2026-10-09T19:44:20+00:00",
+      "summary": "Time 2026-10-09 19:17:22 UTC 2026-10-09 19:17:22 UTC at epicenter Location 7.609°N 81.042°W Depth 25.96 km (16.13 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -3990,79 +4106,29 @@
         "HD",
         "LOW"
       ],
-      "id": "0b0d432c7c7a795f8846"
+      "id": "7a9fe66846af4b4a314e"
     },
     {
-      "title": "M 5.0 - 19 km S of Leones Arriba, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u195",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Copilot code review: New organization billing options and controls",
+      "url": "https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-10-09T19:13:33.040+00:00",
-      "fetched_at": "2026-10-09T19:32:37+00:00",
-      "summary": "Time 2026-10-09 18:47:04 UTC 2026-10-09 18:47:04 UTC at epicenter Location 7.578°N 81.094°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-10-08T19:43:05+00:00",
+      "fetched_at": "2026-10-09T19:44:20+00:00",
+      "summary": "This release adds new billing and license controls for Copilot code review admins: Billing: Organization owners can bill Copilot code reviews from members with a Copilot license to the organization’s… The post Copilot code review: New organization billing options and controls appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Copilot",
+        "GitHub",
+        "Open Source"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "a1833a94dd211dfcf9fb"
-    },
-    {
-      "title": "M 5.0 - 18 km S of Los Asientos, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u194",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-09T19:07:39.040+00:00",
-      "fetched_at": "2026-10-09T19:32:37+00:00",
-      "summary": "Time 2026-10-09 18:50:12 UTC 2026-10-09 18:50:12 UTC at epicenter Location 7.350°N 80.118°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "251913312a6da707ada7"
+      "relevance_score": 8,
+      "relevance_reason": "Open Source (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7b5d5fc1f50dd7e2734e"
     }
   ],
   "source_errors": [],
