@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-09T03:37:41Z",
+  "generated_at": "2026-10-09T03:59:31Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 18,
+    "dynamics": 22,
     "bands": {
       "krass": 1,
-      "strong": 2,
-      "watch": 6,
-      "quiet": 9
+      "strong": 3,
+      "watch": 7,
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
-      "strong": 3,
-      "watch": 6,
-      "quiet": 9
+      "strong": 4,
+      "watch": 7,
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU91137775/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-09T09:00:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -45,11 +45,36 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "Why Jenni thinks researchers need more than ChatGPT for academic writing",
+      "url": "https://e27.co/why-jenni-thinks-researchers-need-more-than-chatgpt-for-academic-writing-20261009/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-09T03:53:58+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
       "title": "DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities",
       "url": "https://e27.co/depin-and-rwa-alliances-in-2026-global-momentum-meets-sea-opportunities-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T03:00:09+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -75,7 +100,7 @@
       "url": "https://e27.co/aseans-startup-ecosystem-is-entering-its-accountability-phase-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T01:16:34+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -99,7 +124,7 @@
       "url": "https://jvn.jp/vu/JVNVU91137775/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 112.07,
+      "age_days": 112.08,
       "topics": [
         "general"
       ],
@@ -126,11 +151,11 @@
       "url": "https://www.digital.go.jp/speech/minister-261009-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-09T03:32:07+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.5,
+      "dynamics_score": 15.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -151,11 +176,11 @@
       "url": "https://e27.co/depin-and-rwa-alliances-in-2026-global-momentum-meets-sea-opportunities-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T03:32:07+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.5,
+      "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -175,7 +200,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261009de56955",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T01:16:34+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -199,7 +224,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2146802.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T01:16:34+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -221,11 +246,37 @@
       "summary": ""
     },
     {
+      "title": "Why Jenni thinks researchers need more than ChatGPT for academic writing",
+      "url": "https://e27.co/why-jenni-thinks-researchers-need-more-than-chatgpt-for-academic-writing-20261009/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-09T03:32:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Jenni is an academic research and writing platform used by more than six million researchers, who have written over 15 million papers on it. The US-headquartered company says it passed US$10 million in annual recurring revenue (ARR) this year and is profitable, having grown almost entirely from revenue after raising o…"
+    },
+    {
       "title": "Are you leading with people? Or are you leading with tech?",
       "url": "https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T02:00:44+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "macro"
       ],
@@ -246,11 +297,11 @@
       "summary": "There’s a fundamental question that most leaders are avoiding right now, not because it’s too hard, but because the answer is uncomfortable. If you don’t understand where scarcity lives in the current economy, and you keep focusing on supplying more into markets with less demand or that are already overcrowded, you’ve…"
     },
     {
-      "title": "ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
-      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002150/",
+      "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
+      "url": "https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-09T03:32:07+00:00",
-      "age_days": 0.0,
+      "published_at": "2026-10-09T02:13:10+00:00",
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -260,12 +311,12 @@
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -274,7 +325,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261009-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-09T03:03:50+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -294,11 +345,35 @@
       "summary": "古川大臣記者会見（令和8年10月9日）動画を掲載しました"
     },
     {
+      "title": "Are you leading with people? Or are you leading with tech?",
+      "url": "https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-09T02:13:10+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
       "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002150/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T00:40:10+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -322,7 +397,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261009de56955",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T23:56:47+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -342,11 +417,39 @@
       "summary": "中古書籍の販売などを手がける「ブックオフグループホールディングス」は、子会社が提供する会員情報を管理するシステムに不正アクセスがあり、最大で643万件の会員の情報が漏えいした可能性があると発表しました…"
     },
     {
-      "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
-      "url": "https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration",
+      "title": "トランプ氏、AIを「超知能」と呼ばない者は「敵とみなす！」",
+      "url": "https://www.afpbb.com/articles/-/3656804",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-09T02:13:10+00:00",
-      "age_days": 0.06,
+      "published_at": "2026-09-02T20:19:20+00:00",
+      "age_days": 36.32,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.14,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.73,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.73",
+        "single-source AI hype brake -8.0",
+        "aging penalty -5.4 for 36.3d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
+      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002150/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-09T03:32:07+00:00",
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -366,35 +469,11 @@
       "summary": ""
     },
     {
-      "title": "Are you leading with people? Or are you leading with tech?",
-      "url": "https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-09T02:13:10+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "ASEAN’s startup ecosystem is entering its accountability phase",
       "url": "https://e27.co/aseans-startup-ecosystem-is-entering-its-accountability-phase-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T01:00:35+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -416,11 +495,37 @@
       "summary": "Every mature startup ecosystem has eventually faced a period the venture community refers to, after the fact and usually with discomfort, as its accountability phase. The United States went through one in the early 2000s, after Enron, WorldCom, and the broader dot-com governance cleanup. China went through one in the…"
     },
     {
+      "title": "トランプ氏、AIを「超知能」と呼ばない者は「敵とみなす！」",
+      "url": "https://www.afpbb.com/articles/-/3656804",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-09T00:44:39+00:00",
+      "age_days": 0.14,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "【10月9日 AFP】ドナルド・トランプ米大統領は8日、人工知能（AI）に代わる呼称として自身が普及を図っている「スーパーインテリジェンス」（超知能、SI）という用語を使わない者を「敵」とみなすと表明した。ただし、具体的にどのような措置を取るかは明らかにしなかった。 トランプ氏は自身のSNS「トゥルース・ソーシ..."
+    },
+    {
       "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
       "url": "https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T14:25:56+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -444,7 +549,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2146802.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T09:20:23+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "ai"
       ],
