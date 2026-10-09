@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:28:13+00:00",
+  "generated_at": "2026-10-09T13:47:05+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 52,
@@ -30,20 +30,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 29.54,
+      "network_score": 29.39,
       "hot": true,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 28.3,
-      "ranking_score": 29.54,
+      "ranking_score": 29.39,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.04,
+      "baseline_bonus": 1.89,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": true,
@@ -288,46 +288,6 @@
       "first_seen_at": "2026-10-09T08:25:31+00:00"
     },
     {
-      "key": "domain:restofworld.org",
-      "title": "As U.S. blocks DJI, Insta360 races to win American creators",
-      "sources": [
-        "Rest of World Global Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.49,
-      "hot": false,
-      "watchgraph_modules": [
-        "war_escalation_sanctions"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 13.1,
-      "ranking_score": 14.49,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.99,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T01:58:32+00:00"
-    },
-    {
       "key": "earthquake:indonesia:5.2",
       "title": "M 5.2 - 117 km SE of Bitung, Indonesia",
       "sources": [
@@ -367,6 +327,46 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-04T05:31:26+00:00"
+    },
+    {
+      "key": "domain:restofworld.org",
+      "title": "As U.S. blocks DJI, Insta360 races to win American creators",
+      "sources": [
+        "Rest of World Global Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.38,
+      "hot": false,
+      "watchgraph_modules": [
+        "war_escalation_sanctions"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 13.1,
+      "ranking_score": 14.38,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.88,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
       "key": "title:softbank-grab-petros-explore-infra-platform-sarawak",
@@ -1450,7 +1450,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-09T13:28:14Z",
+    "generated_at": "2026-10-09T13:47:05Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

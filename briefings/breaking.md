@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-09T13:28:13+00:00_
+_Generiert: 2026-10-09T13:47:05+00:00_
 
 ## Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach
 
-- Ranking Score: `29.54`
+- Ranking Score: `29.39`
 - Raw Network Score: `28.3`
 - Max Monitor Score: `22`
 - Reichweite: `specialist` / `2.5`
