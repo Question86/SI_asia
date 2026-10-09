@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T23:33:38+00:00",
+  "generated_at": "2026-10-09T23:46:18+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -485,7 +485,7 @@
       "p90_usd": 120000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T14:40:14+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -1528,7 +1528,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -1749,7 +1749,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-09T14:40:14+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -1783,7 +1783,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-09T20:50:41+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -1902,7 +1902,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-09T18:31:17+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -2004,7 +2004,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-09T18:50:56+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -2106,7 +2106,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-09T15:23:22+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -2176,6 +2176,23 @@
       "first_seen_at": "2026-09-29T12:06:28+00:00",
       "last_seen_at": "2026-09-29T23:56:49+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_198d7964cb20ec9d309c",
+      "title": "M 5.4 - 9 km SSE of Los Asientos, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-09T23:46:04+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_016849870c540dd48378",
@@ -2277,7 +2294,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T06:37:14+00:00",
       "last_seen_at": "2026-10-09T23:33:21+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1acdba7b096c23b8737d",
@@ -6921,6 +6938,40 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_23c1a78a368e97700fcc",
+      "title": "M 4.9 - 9 km SW of Río Grande, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-09T23:46:04+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_4a68aecf79f75a30666e",
+      "title": "M 5.0 - 8 km ESE of La Tronosa, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-09T23:46:04+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -6934,7 +6985,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -7070,7 +7121,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -9671,7 +9722,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T06:12:03+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -9790,7 +9841,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T03:53:58+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -9977,7 +10028,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T11:21:12+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -10045,7 +10096,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -10419,7 +10470,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T08:25:31+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -12017,7 +12068,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T22:25:49+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -12187,7 +12238,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -12358,7 +12409,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T05:43:05+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "active"
     },
     {
@@ -12461,7 +12512,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T01:16:34+00:00",
       "last_seen_at": "2026-10-09T23:33:21+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_da7d7b9508c7515fcdb1",
@@ -13464,7 +13515,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T14:53:56+00:00",
       "last_seen_at": "2026-10-09T23:33:21+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_bc9ba07651c3741efb1c",
