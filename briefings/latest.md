@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T14:53:47+00:00_
+_Generiert: 2026-10-09T15:02:27+00:00_
 
 ## Kurzlage
 
@@ -29,8 +29,26 @@ _Generiert: 2026-10-09T14:53:47+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
   - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ProFTPD Improper Access Control Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f96a9285bd0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570077)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI&gt;=VII).
+- **GDACS: Volcanic eruption is on going for Taal in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000151)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Volcanic eruption is on going for Taal in Philippines
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 80 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570075)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 80 thousand in MMI V.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570064)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].
+- **GDACS: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.476 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001335)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.476 million .
 
 ## Wirtschaft global
 
