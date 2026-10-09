@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T20:37:43+00:00",
+  "generated_at": "2026-10-09T20:51:13+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -397,6 +397,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_06857f18f073b45cc219",
+      "title": "M 6.6 - 14 km W of Río Grande, Panama",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_06c26451d398ac4d2075",
@@ -9069,13 +9080,13 @@
     {
       "event_id": "evt_970de78673bda1c02e5e",
       "title": "M 6.9 - 8 km NW of Río Grande, Panama",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_971d9d62e5685f3a1de0",
