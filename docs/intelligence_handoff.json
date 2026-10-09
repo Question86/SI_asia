@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-09T05:36:22Z",
+  "generated_at": "2026-10-09T05:55:07Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Why Jenni thinks researchers need more than ChatGPT for academic writing” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://e27.co/why-jenni-thinks-researchers-need-more-than-chatgpt-for-academic-writing-20261009/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T03:53:58+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU91137775/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-09T09:00:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -61,11 +61,37 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "SoftBank, Grab, PETROS explore AI infra platform in Sarawak",
+      "url": "https://e27.co/softbank-grab-petros-explore-ai-infra-platform-in-sarawak-20261009/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-09T05:30:44+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, 10",
+        "security high-signal: rce, 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Sarawak is not usually the first place that comes to mind when Southeast Asia’s artificial intelligence race is discussed. Singapore has the region’s densest cloud and startup ecosystem, Malaysia’s Johor has been drawing data centre investment because of its proximity to Singapore, and Indonesia has been positioning i…"
+    },
+    {
       "title": "DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities",
       "url": "https://e27.co/depin-and-rwa-alliances-in-2026-global-momentum-meets-sea-opportunities-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T03:00:09+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -87,11 +113,36 @@
       "summary": "DePIN (Decentralised Physical Infrastructure Networks) crowdsources real-world resources like compute, storage, and connectivity via blockchain incentives. RWA tokenisation brings tangible assets (real estate, commodities, infrastructure) on-chain for fractional ownership, liquidity, and global access. Together, they…"
     },
     {
+      "title": "M 5.2 - 117 km SE of Bitung, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-09T05:33:36.610+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "DYFI? - I Time 2026-10-09 05:11:04 UTC 2026-10-09 05:11:04 UTC at epicenter Location 0.759°N 125.937°E Depth 40.05 km (24.89 mi)"
+    },
+    {
       "title": "「AIをいじめないで」Anthropic、Claudeへの虐待を禁止",
       "url": "https://ascii.jp/elem/000/004/441/4441372/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T03:48:34+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -116,7 +167,7 @@
       "url": "https://e27.co/aseans-startup-ecosystem-is-entering-its-accountability-phase-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-09T01:16:34+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -140,7 +191,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261009-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-09T03:32:07+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -161,11 +212,38 @@
       "summary": ""
     },
     {
+      "title": "M 5.2 - 117 km SE of Bitung, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-04T05:31:26+00:00",
+      "age_days": 35.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "aging penalty -4.9 for 35.0d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）",
       "url": "https://jvn.jp/vu/JVNVU91137775/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 112.15,
+      "age_days": 112.16,
       "topics": [
         "general"
       ],
@@ -188,113 +266,41 @@
       "summary": ""
     },
     {
-      "title": "ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
-      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002150/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-09T03:32:07+00:00",
-      "age_days": 0.09,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ブックオフグループ 最大で643万件の会員情報漏えいの可能性 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56955",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-09T01:16:34+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました",
-      "url": "https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-09T02:13:10+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2146802.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-09T01:16:34+00:00",
-      "age_days": 0.18,
+      "title": "SoftBank, Grab, PETROS explore AI infra platform in Sarawak",
+      "url": "https://e27.co/softbank-grab-petros-explore-ai-infra-platform-in-sarawak-20261009/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-09T05:43:05+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 13.0,
+      "dynamics_score": 16.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3",
+        "momentum delta +1",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
     {
-      "title": "DePIN and RWA alliances in 2026: Global momentum meets SEA opportunities",
-      "url": "https://e27.co/depin-and-rwa-alliances-in-2026-global-momentum-meets-sea-opportunities-20261004/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
+      "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002150/",
+      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T03:32:07+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.0,
+      "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -319,8 +325,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 6,
-      "watch": 6
+      "strong": 8,
+      "watch": 4
     }
   }
 }
