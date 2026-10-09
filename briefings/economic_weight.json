@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T05:26:18+00:00",
+  "generated_at": "2026-10-09T05:43:24+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1509,8 +1509,8 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
-      "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-09T05:43:05+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_c3299ce8e5250f27b3ad",
@@ -6694,7 +6694,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-09T05:26:01+00:00",
+      "last_seen_at": "2026-10-09T05:43:05+00:00",
       "status": "active"
     },
     {
@@ -9397,7 +9397,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T03:53:58+00:00",
-      "last_seen_at": "2026-10-09T05:26:01+00:00",
+      "last_seen_at": "2026-10-09T05:43:05+00:00",
       "status": "active"
     },
     {
@@ -11999,7 +11999,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T01:16:34+00:00",
-      "last_seen_at": "2026-10-09T05:26:01+00:00",
+      "last_seen_at": "2026-10-09T05:43:05+00:00",
       "status": "active"
     },
     {
@@ -12052,6 +12052,23 @@
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_ce5b40a486232e4038c5",
+      "title": "SoftBank, Grab, PETROS explore AI infra platform in Sarawak",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-09T05:43:05+00:00",
+      "last_seen_at": "2026-10-09T05:43:05+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_062e97ed5d926e4dc4f8",
@@ -12356,7 +12373,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T01:16:34+00:00",
-      "last_seen_at": "2026-10-09T05:26:01+00:00",
+      "last_seen_at": "2026-10-09T05:43:05+00:00",
       "status": "active"
     },
     {
@@ -13410,7 +13427,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T04:03:56+00:00",
-      "last_seen_at": "2026-10-09T05:26:01+00:00",
+      "last_seen_at": "2026-10-09T05:43:05+00:00",
       "status": "active"
     },
     {
@@ -15927,7 +15944,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T03:53:58+00:00",
-      "last_seen_at": "2026-10-09T05:26:01+00:00",
+      "last_seen_at": "2026-10-09T05:43:05+00:00",
       "status": "active"
     },
     {
@@ -18851,7 +18868,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T03:32:07+00:00",
-      "last_seen_at": "2026-10-09T05:26:01+00:00",
+      "last_seen_at": "2026-10-09T05:43:05+00:00",
       "status": "active"
     },
     {
@@ -19854,7 +19871,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T01:16:34+00:00",
-      "last_seen_at": "2026-10-09T05:26:01+00:00",
+      "last_seen_at": "2026-10-09T05:43:05+00:00",
       "status": "active"
     },
     {
@@ -19888,7 +19905,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T05:02:19+00:00",
-      "last_seen_at": "2026-10-09T05:26:01+00:00",
+      "last_seen_at": "2026-10-09T05:43:05+00:00",
       "status": "active"
     },
     {
@@ -20160,7 +20177,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T02:13:10+00:00",
-      "last_seen_at": "2026-10-09T05:26:01+00:00",
+      "last_seen_at": "2026-10-09T05:43:05+00:00",
       "status": "active"
     },
     {
@@ -20891,7 +20908,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T03:32:07+00:00",
-      "last_seen_at": "2026-10-09T05:26:01+00:00",
+      "last_seen_at": "2026-10-09T05:43:05+00:00",
       "status": "active"
     },
     {
@@ -22319,7 +22336,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T02:13:10+00:00",
-      "last_seen_at": "2026-10-09T05:26:01+00:00",
+      "last_seen_at": "2026-10-09T05:43:05+00:00",
       "status": "active"
     },
     {
@@ -22830,7 +22847,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T03:32:07+00:00",
-      "last_seen_at": "2026-10-09T05:26:01+00:00",
+      "last_seen_at": "2026-10-09T05:43:05+00:00",
       "status": "active"
     },
     {
