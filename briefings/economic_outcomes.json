@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T12:45:07+00:00",
+  "generated_at": "2026-10-09T13:04:33+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -6325,7 +6325,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6b7aff2a2d64884388e6",
@@ -11793,6 +11793,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_c9e77752eda3497492da",
+      "title": "M 4.8 - 17 km S of Nandaime, Nicaragua",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_ca07eace308a5d5b99e6",
