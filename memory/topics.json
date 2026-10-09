@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-09T13:47:01+00:00",
+  "generated_at": "2026-10-09T14:40:11+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-10-09T07:12:00.000+00:00",
         "relevance_score": 22,
         "url": "https://www.heise.de/news/Citrix-legt-weiteres-Sicherheitsupdate-gegen-kritische-Netscaler-Luecke-nach-11481808.html"
+      },
+      {
+        "title": "Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-02T00:00:00+00:00",
+        "relevance_score": 20,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/"
       },
       {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (sssd, tftp, ansible-collection-ansible-posix): Mehrere Schwachstellen",
@@ -66,16 +73,16 @@
         "published_at": "2026-10-09T12:14:36+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3846"
-      },
-      {
-        "title": "[UPDATE] [mittel] Django: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-09T10:44:11+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3780"
       }
     ],
     "ai": [
+      {
+        "title": "Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-02T00:00:00+00:00",
+        "relevance_score": 20,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/"
+      },
       {
         "title": "AI chats are becoming the new starting point for online shopping",
         "source": "e27 Asia Startup and Tech Feed",
@@ -126,25 +133,90 @@
         "url": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       },
       {
-        "title": "AI labs are chasing a slice of the corporate pie in Southeast Asia",
+        "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (02 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-02T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1255/"
+      },
+      {
+        "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (02 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-02T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1254/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-02T00:00:00+00:00",
+        "relevance_score": 20,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (sssd, tftp, ansible-collection-ansible-posix): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T12:14:37+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3848"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T12:14:37+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3849"
+      },
+      {
+        "title": "AI boom pushes chipmakers to expand across Asia Pacific, FedEx report finds",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-09T04:00:33+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/ai-labs-are-chasing-a-slice-of-the-corporate-pie-in-southeast-asia-20261004/"
+        "published_at": "2026-10-09T11:11:59+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/ai-boom-pushes-chipmakers-to-expand-across-asia-pacific-fedex-report-finds-20261009/"
       },
       {
-        "title": "M 4.8 - 17 km S of Nandaime, Nicaragua",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-09T12:46:40.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15l"
+        "title": "[NEU] [mittel] Obsidian: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T12:14:57+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3850"
       },
       {
-        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-10-09T07:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://openai.com/index/sophos"
+        "title": "[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Codeausführung und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T12:14:37+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3847"
+      },
+      {
+        "title": "[NEU] [hoch] poppler: Schwachstelle ermöglicht Denial of Service und Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T12:14:36+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3845"
+      },
+      {
+        "title": "[NEU] [hoch] Hazelcast: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-09T12:14:36+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3846"
+      },
+      {
+        "title": "As U.S. blocks DJI, Insta360 races to win American creators",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-10-09T10:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-09T06:06:24+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/from-us86500-to-us81000-the-anatomy-of-a-crypto-deleveraging-wave-20261009/"
       }
     ],
     "github": [
@@ -214,71 +286,6 @@
         "url": "https://e27.co/are-you-leading-with-people-or-are-you-leading-with-tech-20261004/"
       }
     ],
-    "geopolitics": [
-      {
-        "title": "[NEU] [mittel] Red Hat Enterprise Linux (sssd, tftp, ansible-collection-ansible-posix): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-09T12:14:37+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3848"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-09T12:14:37+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3849"
-      },
-      {
-        "title": "AI boom pushes chipmakers to expand across Asia Pacific, FedEx report finds",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-09T11:11:59+00:00",
-        "relevance_score": 16,
-        "url": "https://e27.co/ai-boom-pushes-chipmakers-to-expand-across-asia-pacific-fedex-report-finds-20261009/"
-      },
-      {
-        "title": "[NEU] [mittel] Obsidian: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-09T12:14:57+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3850"
-      },
-      {
-        "title": "[NEU] [hoch] Citrix NetScaler ADC und Gateway: Schwachstelle ermöglicht Codeausführung und DoS",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-09T12:14:37+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3847"
-      },
-      {
-        "title": "[NEU] [hoch] poppler: Schwachstelle ermöglicht Denial of Service und Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-09T12:14:36+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3845"
-      },
-      {
-        "title": "[NEU] [hoch] Hazelcast: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-09T12:14:36+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3846"
-      },
-      {
-        "title": "As U.S. blocks DJI, Insta360 races to win American creators",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-10-09T10:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "From US$86,500 to US$81,000: The anatomy of a crypto deleveraging wave",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-09T06:06:24+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/from-us86500-to-us81000-the-anatomy-of-a-crypto-deleveraging-wave-20261009/"
-      }
-    ],
     "general": [
       {
         "title": "M 5.2 - 117 km SE of Bitung, Indonesia",
@@ -286,6 +293,13 @@
         "published_at": "2026-10-09T05:33:36.610+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v"
+      },
+      {
+        "title": "M 5.4 - 99 km NE of Norsup, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-09T14:22:27.040+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15x"
       },
       {
         "title": "M 5.1 - 72 km SSW of Colchane, Chile",
@@ -342,13 +356,6 @@
         "published_at": "2026-10-09T08:13:07+00:00",
         "relevance_score": 5,
         "url": "https://news.web.nhk/newsweb/na/nd-20261009de57294"
-      },
-      {
-        "title": "印刷物基準の文字組みをウェブの世界で。日本デザインセンター様から生まれたiOS用文字組みエンジンをJavaScriptに移植しました。 | non-standard world株式会社",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-09T08:06:29+00:00",
-        "relevance_score": 5,
-        "url": "https://www.non-standardworld.co.jp/stone-engine-js/"
       }
     ]
   }

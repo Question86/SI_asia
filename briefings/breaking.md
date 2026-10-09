@@ -1,10 +1,25 @@
 # Senna Breaking
 
-_Generiert: 2026-10-09T13:47:05+00:00_
+_Generiert: 2026-10-09T14:40:14+00:00_
+
+## Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)
+
+- Ranking Score: `29.5`
+- Raw Network Score: `25.1`
+- Max Monitor Score: `20`
+- Reichweite: `specialist` / `2.5`
+- Early Signal: `ja`
+- Dominanter Emitter: `nein`
+- Quellen: CERT-FR Avis de sécurité
+- Klassen: tier3_specialist
+- Cross-source bestaetigt: nein
+- Momentum: increasing (+1)
+- Erste Quelle: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/
+- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
 ## Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach
 
-- Ranking Score: `29.39`
+- Ranking Score: `29.24`
 - Raw Network Score: `28.3`
 - Max Monitor Score: `22`
 - Reichweite: `specialist` / `2.5`
