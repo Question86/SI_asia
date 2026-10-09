@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T21:46:20+00:00_
+_Generiert: 2026-10-09T22:05:51+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach“ aus heise Security Alerts (Score 22, risk).
+81 neue relevante Treffer. Stärkstes Signal: „Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach“ aus heise Security Alerts (Score 22, risk).
 
 ## Priorität Hoch
 
