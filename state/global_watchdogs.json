@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-10-09T17:56:13+00:00",
+  "generated_at": "2026-10-09T18:08:19+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "critical",
+        "title": "USGS earthquake M8.0 - 14 km SW of Pitaloza Arriba, Panama",
+        "summary": "M8.0 - 14 km SW of Pitaloza Arriba, Panama. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26282000",
+        "published_at": "2026-10-09T17:56:08+00:00",
+        "metrics": {
+          "mag": 8.0,
+          "alert": "",
+          "sig": 985.0,
+          "tsunami": 0
+        }
+      },
       {
         "domain": "security",
         "severity": "high",

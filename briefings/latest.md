@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-10-09T17:56:10+00:00_
+_Generiert: 2026-10-09T18:08:16+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach“ aus heise Security Alerts (Score 22, risk).
+66 neue relevante Treffer. Stärkstes Signal: „Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach“ aus heise Security Alerts (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **USGS earthquake M8.0 - 14 km SW of Pitaloza Arriba, Panama** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/pt26282000)
+  - Quelle: USGS
+  - Zeit: `2026-10-09T17:56:08+00:00`
+  - Kurz: M8.0 - 14 km SW of Pitaloza Arriba, Panama. PAGER alert: none. Tsunami flag: 0.
 - **CISA KEV: CVE-2015-5477 ISC BIND** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
