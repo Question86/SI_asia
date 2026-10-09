@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-09T08:25:28+00:00",
+  "generated_at": "2026-10-09T08:47:11+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "new_relevant_findings": 4,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
-    "medium": 6,
-    "observe": 17
+    "medium": 7,
+    "observe": 20
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "AI labs are chasing a slice of the corporate pie in Southeast Asia",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Sicherheitspatches: Kritische Root-Lücke bedroht Cisco-Switches",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-10-09T04:00:33+00:00",
+      "published_at": "2026-10-09T08:24:00.000+00:00",
       "relevance_score": 10,
-      "url": "https://e27.co/ai-labs-are-chasing-a-slice-of-the-corporate-pie-in-southeast-asia-20261004/",
-      "summary": "I’ve worked a lot with the Microsoft stack, and for a long time Excel was its staple. It gave Microsoft a foothold inside companies. Once a company ran its budgets, forecasts and operations in Excel, Microsoft could sell a lot of other products around it. It…",
+      "url": "https://www.heise.de/news/Sicherheitspatches-Kritische-Root-Luecke-bedroht-Cisco-Switches-11481742.html",
+      "summary": "Angreifer können unter anderem an Sicherheitslücken in Cisco License On-Prem und Nexus 3000 ansetzen.",
       "section": "observe"
     }
   ],
@@ -100,146 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月08日）",
-        "url": "https://jvn.jp/vu/JVNVU91137775/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-09T09:00:00+09:00",
-        "age_days": 0.36,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "SoftBank, Grab, PETROS explore AI infra platform in Sarawak",
-        "url": "https://e27.co/softbank-grab-petros-explore-ai-infra-platform-in-sarawak-20261009/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-09T05:30:44+00:00",
-        "age_days": 0.13,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 29.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10"
-        ],
-        "summary": "Sarawak is not usually the first place that comes to mind when Southeast Asia’s artificial intelligence race is discussed. Singapore has the region’s densest cloud and startup ecosystem, Malaysia’s Johor has been drawing data centre investment because of its proximity to Singapore, and Indonesia has been positioning i…"
-      },
-      {
-        "title": "Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach",
-        "url": "https://www.heise.de/news/Citrix-legt-weiteres-Sicherheitsupdate-gegen-kritische-Netscaler-Luecke-nach-11481808.html",
-        "source": "heise Security Alerts",
-        "published_at": "2026-06-19T07:39:37+00:00",
-        "age_days": 112.04,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 6.02,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 6.02",
-          "high terms: kritisch, rce, citrix",
-          "security high-signal: kritisch, rce, citrix",
-          "aging penalty -8.0 for 112.0d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach",
-        "url": "https://www.heise.de/news/Citrix-legt-weiteres-Sicherheitsupdate-gegen-kritische-Netscaler-Luecke-nach-11481808.html",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-09T07:12:00.000+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: zero-day, active, exploitation",
-          "security high-signal: zero-day, active, exploitation, kritisch",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": "Vergangenes Wochenende hat Citrix eine Zero-Day-Lücke in Netscaler geschlossen. Jetzt legt der Hersteller ein weiteres Update nach."
-      },
-      {
-        "title": "AI chats are becoming the new starting point for online shopping",
-        "url": "https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-09T06:05:35+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": "For years, online retail has been organised around a simple assumption: the customer journey begins on a search engine, marketplace, brand website, or app. That assumption is starting to look dated. A new Salesforce report suggests that more shoppers are now beginning with a question to an AI system, whether through C…"
-      }
-    ]
-  }
+  ]
 }

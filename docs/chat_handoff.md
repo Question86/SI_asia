@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-09T08:25:28+00:00_
+_Generated: 2026-10-09T08:47:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `27`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-09T08:25:28+00:00_
 - url: https://e27.co/aseans-startup-ecosystem-is-entering-its-accountability-phase-20261004/
 - summary: Every mature startup ecosystem has eventually faced a period the venture community refers to, after the fact and usually with discomfort, as its accountability phase. The United States went through one in the early 2000s, after Enron, WorldCom, and the broade…
 
-### 8. AI labs are chasing a slice of the corporate pie in Southeast Asia
-- source: e27 Asia Startup and Tech Feed
+### 8. Sicherheitspatches: Kritische Root-Lücke bedroht Cisco-Switches
+- source: heise Security Alerts
 - score: `10`
-- published: `2026-10-09T04:00:33+00:00`
-- url: https://e27.co/ai-labs-are-chasing-a-slice-of-the-corporate-pie-in-southeast-asia-20261004/
-- summary: I’ve worked a lot with the Microsoft stack, and for a long time Excel was its staple. It gave Microsoft a foothold inside companies. Once a company ran its budgets, forecasts and operations in Excel, Microsoft could sell a lot of other products around it. It…
+- published: `2026-10-09T08:24:00.000+00:00`
+- url: https://www.heise.de/news/Sicherheitspatches-Kritische-Root-Luecke-bedroht-Cisco-Switches-11481742.html
+- summary: Angreifer können unter anderem an Sicherheitslücken in Cisco License On-Prem und Nexus 3000 ansetzen.
 
 END OF DOCUMENT
