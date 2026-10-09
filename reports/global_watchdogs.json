@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T15:50:17+00:00",
+  "generated_at": "2026-10-09T16:01:09+00:00",
   "sections": {
     "global_security": [
       {
@@ -121,21 +121,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001335",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.9 - west of Macquarie Island",
-        "summary": "M5.9 - west of Macquarie Island. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u164",
-        "published_at": "2026-10-09T14:49:41+00:00",
-        "metrics": {
-          "mag": 5.9,
-          "alert": "green",
-          "sig": 536.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
