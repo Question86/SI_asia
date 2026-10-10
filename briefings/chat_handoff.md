@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-10T22:02:22+00:00_
+_Generated: 2026-10-10T22:21:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `41`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-10T22:02:22+00:00_
 - url: https://claude.dev/blog/building-effective-agent-automations/
 - summary: As AI accelerates our work, it's getting harder to keep up. At Anthropic, simple agent automations are frequently used to help. They often run on a schedule, gather context in the background, and proactively tell us what we need to know. But it’s difficult to…
 
-### 3. M 5.0 - 141 km E of Bitung, Indonesia
+### 3. M 4.5 - 171 km SSW of Pagar Alam, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-10-10T22:14:09.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gu
+- summary: Time 2026-10-10 21:38:09 UTC 2026-10-10 21:38:09 UTC at epicenter Location 5.403°S 102.542°E Depth 29.58 km (18.38 mi)
+
+### 4. M 5.0 - 141 km E of Bitung, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-10T05:50:42.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv
 - summary: Time 2026-10-10 05:32:01 UTC 2026-10-10 05:32:01 UTC at epicenter Location 1.625°N 126.389°E Depth 10.00 km (6.21 mi)
-
-### 4. M 5.1 - 133 km WNW of Ternate, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-10T02:19:53.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs
-- summary: Time 2026-10-10 02:00:42 UTC 2026-10-10 02:00:42 UTC at epicenter Location 1.416°N 126.360°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 6.0 - 7 km N of La Tronosa, Panama
 - source: USGS M4.5+ Earthquakes Past Hour
