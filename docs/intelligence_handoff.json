@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-10T09:15:10Z",
+  "generated_at": "2026-10-10T09:33:52Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-10T07:24:57+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -43,7 +43,7 @@
       "url": "https://claude.dev/blog/building-effective-agent-automations/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T01:01:47+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -70,7 +70,7 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-10T07:25:32+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -95,7 +95,7 @@
       "url": "https://claude.dev/blog/building-effective-agent-automations/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T23:06:11+00:00",
-      "age_days": 1.42,
+      "age_days": 1.44,
       "topics": [
         "ai",
         "macro"
@@ -119,11 +119,38 @@
       "summary": "As AI accelerates our work, it's getting harder to keep up. At Anthropic, simple agent automations are frequently used to help. They often run on a schedule, gather context in the background, and proactively tell us what we need to know. But it’s difficult to build effective agent automations: th..."
     },
     {
+      "title": "事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business",
+      "url": "https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-10T09:28:07+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 23.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.0 - 141 km E of Bitung, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T05:50:42.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -148,7 +175,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T02:19:53.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -169,11 +196,38 @@
       "summary": "Time 2026-10-10 02:00:42 UTC 2026-10-10 02:00:42 UTC at epicenter Location 1.416°N 126.360°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business",
+      "url": "https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-10T01:29:35+00:00",
+      "age_days": 0.34,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code, 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Data Engineering Summit 2026（2026-10-09）で発表した資料です。 https://conference.findy-code.io/conferences/data-engineering-summit26/35/sessions/758 AI は誰でも…"
+    },
+    {
       "title": "M 4.9 - 10 km SSW of Cañas, Panama",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T06:36:08+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -198,7 +252,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T02:05:30+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -223,7 +277,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T01:42:06+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -248,60 +302,11 @@
       "url": "https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-10T03:27:57+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "macro"
       ],
       "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 6.0 - 7 km N of La Tronosa, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-10T04:41:20.724+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "PAGER - YELLOW ShakeMap - VIII DYFI? - VI Time 2026-10-10 04:14:01 UTC 2026-10-10 04:14:01 UTC at epicenter Location 7.507°N 80.599°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 6.0 - 7 km N of La Tronosa, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-10T04:44:06+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 20.5,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
