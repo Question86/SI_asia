@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T22:02:52+00:00",
+  "generated_at": "2026-10-10T22:22:12+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -3861,7 +3861,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_41161acb79759718291f",
@@ -12996,12 +12996,12 @@
     {
       "event_id": "evt_d5fda7bc1307a10cd01a",
       "title": "M 5.3 - southeast of Easter Island",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -13684,7 +13684,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_e03165bb9d6ed4e50925",
