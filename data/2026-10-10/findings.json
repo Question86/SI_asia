@@ -226,6 +226,42 @@
     "id": "b3ac831a80f6bce10b25"
   },
   {
+    "title": "M 4.7 - 2 km WNW of El Cacao, Panama",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1fk",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-10T16:49:10.040+00:00",
+    "fetched_at": "2026-10-10T16:49:15+00:00",
+    "summary": "Time 2026-10-10 16:05:42 UTC 2026-10-10 16:05:42 UTC at epicenter Location 7.460°N 80.428°W Depth 13.52 km (8.40 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "05bbbbe541acd3c8dc01"
+  },
+  {
     "title": "M 4.8 - 11 km SSW of Tebario, Panama",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1fj",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -772,6 +808,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3d6dd80f395bb26b4573"
+  },
+  {
+    "title": "国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/004353",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-10T15:48:52+00:00",
+    "fetched_at": "2026-10-10T16:49:15+00:00",
+    "summary": "2026年10月7日から9日にかけて、個人情報保護委員会、JPCERT/CC、国家サイバー統括室、IPAなどの各機関が、国内組織で相次ぐ不正アクセスによる個人情報の漏えいを受けた注意喚起を公表しました。ここでは関連する情報をまとめます。 BIツールや従業員向けシステムも被害に JPCERT/CCは10月8日に公開した注意喚起で、「2...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "806c7d4580ebc45ffcbb"
   },
   {
     "title": "個人情報漏洩が日常になってしまった世界でどうしていくべきか",

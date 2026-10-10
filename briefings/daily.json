@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T16:37:12+00:00",
-  "today_file_total": 34,
+  "generated_at": "2026-10-10T16:50:02+00:00",
+  "today_file_total": 36,
   "current_clusters": [
     {
       "key": "title:building-effective-agent-automations-claude-dev-blog",
@@ -147,8 +147,8 @@
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     },
     {
-      "key": "earthquake:m 4.8 - 11 km ssw of tebario, panama:4.8",
-      "title": "M 4.8 - 11 km SSW of Tebario, Panama",
+      "key": "earthquake:m 4.7 - 2 km wnw of el cacao, panama:4.7",
+      "title": "M 4.7 - 2 km WNW of El Cacao, Panama",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -156,7 +156,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1fj"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1fk"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -216,6 +216,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 4.8 - 11 km ssw of tebario, panama:4.8",
+      "title": "M 4.8 - 11 km SSW of Tebario, Panama",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1fj"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 4.6 - 268 km wnw of houma, tonga:4.6",
@@ -453,31 +478,6 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bw"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.1 - 1 km nne of tonosí, panama:5.1",
-      "title": "M 5.1 - 1 km NNE of Tonosí, Panama",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu"
       ],
       "finding_count": 1,
       "max_score": 9,
