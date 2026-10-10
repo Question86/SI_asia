@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T01:42:29+00:00",
+  "generated_at": "2026-10-10T02:05:51+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -5285,12 +5285,12 @@
     {
       "event_id": "evt_599e224e057847d65796",
       "title": "M 4.7 - 10 km N of La Tronosa, Panama",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -10022,6 +10022,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_a73de7d3fdb1f01f2134",
+      "title": "M 4.6 - 10 km S of Río Grande, Panama",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_a7471d09d66dd93f4a47",
