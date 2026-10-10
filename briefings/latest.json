@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T04:27:05+00:00",
-  "run_id": "2026-10-10T04:27:05+00:00",
+  "generated_at": "2026-10-10T04:44:03+00:00",
+  "run_id": "2026-10-10T04:44:03+00:00",
   "date": "2026-10-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 3,
-    "observe": 12,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
@@ -114,6 +114,44 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 6.0 - 7 km N of La Tronosa, Panama",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-10T04:41:20.724+00:00",
+        "fetched_at": "2026-10-10T04:43:33+00:00",
+        "summary": "PAGER - YELLOW ShakeMap - VIII DYFI? - VI Time 2026-10-10 04:14:01 UTC 2026-10-10 04:14:01 UTC at epicenter Location 7.507°N 80.599°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "7837d02f566a9f653bee"
+      },
       {
         "title": "Half the market will not take your money: The access problem for regulated startups",
         "url": "https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/",
@@ -456,6 +494,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ba7f7db93b3d0b3ddcad"
+      },
+      {
+        "title": "Domain model purity vs. domain model completeness (DDD Trilemma)",
+        "url": "https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2023-01-23T12:21:49+00:00",
+        "fetched_at": "2026-10-10T04:43:33+00:00",
+        "summary": "Domain model purity vs. domain model completeness (DDD Trilemma) I’ve been meaning to write this article for a long time and, finally, here it is: the topic of domain model purity versus domain model completeness. In this article, we’ll talk about a trilemma that comes up in each and every projec...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f877eaded9c67794f71e"
       }
     ]
   },
@@ -542,6 +601,44 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e4d5a0c4e2e347ece3c3"
+    },
+    {
+      "title": "M 6.0 - 7 km N of La Tronosa, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-10T04:41:20.724+00:00",
+      "fetched_at": "2026-10-10T04:43:33+00:00",
+      "summary": "PAGER - YELLOW ShakeMap - VIII DYFI? - VI Time 2026-10-10 04:14:01 UTC 2026-10-10 04:14:01 UTC at epicenter Location 7.507°N 80.599°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7837d02f566a9f653bee"
     },
     {
       "title": "Half the market will not take your money: The access problem for regulated startups",
@@ -885,30 +982,53 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ba7f7db93b3d0b3ddcad"
+    },
+    {
+      "title": "Domain model purity vs. domain model completeness (DDD Trilemma)",
+      "url": "https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2023-01-23T12:21:49+00:00",
+      "fetched_at": "2026-10-10T04:43:33+00:00",
+      "summary": "Domain model purity vs. domain model completeness (DDD Trilemma) I’ve been meaning to write this article for a long time and, finally, here it is: the topic of domain model purity versus domain model completeness. In this article, we’ll talk about a trilemma that comes up in each and every projec...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f877eaded9c67794f71e"
     }
   ],
   "new_findings": [
     {
-      "title": "M 5.3 - 41 km NNE of Yigo Village, Guam",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cd",
+      "title": "M 6.0 - 7 km N of La Tronosa, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-10T04:24:04.653+00:00",
-      "fetched_at": "2026-10-10T04:26:36+00:00",
-      "summary": "DYFI? - IV Time 2026-10-10 03:58:18 UTC 2026-10-10 03:58:18 UTC at epicenter Location 13.859°N 145.089°E Depth 111.58 km (69.34 mi)",
+      "published_at": "2026-10-10T04:41:20.724+00:00",
+      "fetched_at": "2026-10-10T04:43:33+00:00",
+      "summary": "PAGER - YELLOW ShakeMap - VIII DYFI? - VI Time 2026-10-10 04:14:01 UTC 2026-10-10 04:14:01 UTC at epicenter Location 7.507°N 80.599°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
       ],
       "market_context": [
         "MUV2.DE",
@@ -922,43 +1042,28 @@
         "HD",
         "LOW"
       ],
-      "id": "6ac09abdb0e7801f2f84"
+      "id": "7837d02f566a9f653bee"
     },
     {
-      "title": "M 4.7 - 8 km N of La Tronosa, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cb",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Domain model purity vs. domain model completeness (DDD Trilemma)",
+      "url": "https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-10T04:19:41.040+00:00",
-      "fetched_at": "2026-10-10T04:26:36+00:00",
-      "summary": "Time 2026-10-10 03:56:17 UTC 2026-10-10 03:56:17 UTC at epicenter Location 7.514°N 80.585°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2023-01-23T12:21:49+00:00",
+      "fetched_at": "2026-10-10T04:43:33+00:00",
+      "summary": "Domain model purity vs. domain model completeness (DDD Trilemma) I’ve been meaning to write this article for a long time and, finally, here it is: the topic of domain model purity versus domain model completeness. In this article, we’ll talk about a trilemma that comes up in each and every projec...",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "9596c0cb775284318ba5"
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f877eaded9c67794f71e"
     }
   ],
   "source_errors": [],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T04:27:08+00:00",
+  "generated_at": "2026-10-10T04:44:06+00:00",
   "sections": {
     "global_security": [
       {
@@ -13,7 +13,7 @@
         "metrics": {
           "mag": 7.7,
           "alert": "red",
-          "sig": 2577.0,
+          "sig": 2580.0,
           "tsunami": 0
         }
       },
@@ -125,6 +125,21 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "USGS earthquake M6.0 - 7 km N of La Tronosa, Panama",
+        "summary": "M6.0 - 7 km N of La Tronosa, Panama. PAGER alert: yellow. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
+        "published_at": "2026-10-10T04:14:01+00:00",
+        "metrics": {
+          "mag": 6.0,
+          "alert": "yellow",
+          "sig": 656.0,
+          "tsunami": 0
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Panama 09/10/2026 18:37 UTC, 5 thousand (in MMI&gt;=VII).",
         "summary": "Green earthquake (Magnitude 5.8M, Depth:10km) in Panama 09/10/2026 18:37 UTC, 5 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
@@ -159,16 +174,6 @@
         "summary": "Volcanic eruption is on going for Taal in Philippines",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000151",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 80 thousand in MMI V.",
-        "summary": "Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 80 thousand in MMI V.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570075",
         "published_at": "",
         "metrics": {}
       }
