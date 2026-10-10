@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T23:34:19+00:00",
+  "generated_at": "2026-10-10T23:46:38+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -2784,6 +2784,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_2de7c82f6e31524fa954",
+      "title": "音声合成に日本語を正しく読んでもらう話 〜高低アクセントからG2Pまで〜 【前編】",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_2def76395ca90a95c178",
@@ -12232,7 +12243,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c8dc1ac2edc15fe4c682",
