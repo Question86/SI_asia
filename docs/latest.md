@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-10T23:33:42+00:00_
+_Generiert: 2026-10-10T23:45:57+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „New controls and chat improvements in Copilot for JetBrains“ aus GitHub Changelog Atom (Score 16, risk).
+44 neue relevante Treffer. Stärkstes Signal: „New controls and chat improvements in Copilot for JetBrains“ aus GitHub Changelog Atom (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: はじめにみなさんは業務フローを書いたことはあるでしょうか。 業務フローは、ある業務を誰がどの順番で進めるかを図にしたものです。申請者が申請を登録し、承認者が承認し、購買担当が発注する、といった手順を担当者ごとのレーンに分け、矢印でつなぎます。システムの開発現場ではグランドデザインや要件定義などの工...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **音声合成に日本語を正しく読んでもらう話 〜高低アクセントからG2Pまで〜 【前編】** — Score 10, observation — [Quelle](https://zenn.dev/mkj/articles/speech-tts-japanese-2026)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-10T13:59:47+00:00`, fetched `2026-10-10T23:45:14+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 株式会社 松尾研究所で働いている栗原です。 以前、「音声合成の日本語化手法が一般化した話」を書きました。 今回は、日本語の難しさと、それを音声合成に扱わせる難しさ、その課題に取り組むために考案した日本語言語処理部（G2P: Grapheme-to-Phoneme）について、前後編に分けて解説していきます。 専門家・理系の方...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - southeast of Easter Island** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gs)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-10T22:01:14.040+00:00`, fetched `2026-10-10T22:01:49+00:00`
@@ -132,15 +141,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Data Engineering Summit 2026（2026-10-09）で発表した資料です。 https://conference.findy-code.io/conferences/data-engineering-summit26/35/sessions/758 AI は誰でも…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **AI駆動開発の時代になったのでトヨタ生産方式から見直す** — Score 8, observation — [Quelle](https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-09T15:18:20+00:00`, fetched `2026-10-10T10:20:39+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2026-10-09 AI駆動開発勉強会 名古屋支部#2 の発表資料です。
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
