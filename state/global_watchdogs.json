@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-10-10T20:21:17+00:00",
+  "generated_at": "2026-10-10T20:35:10+00:00",
   "sections": {
     "global_security": [
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "USGS earthquake M6.6 - 14 km W of Río Grande, Panama",
-        "summary": "M6.6 - 14 km W of Río Grande, Panama. PAGER alert: yellow. Tsunami flag: 1.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w",
-        "published_at": "2026-10-09T20:25:39+00:00",
-        "metrics": {
-          "mag": 6.6,
-          "alert": "yellow",
-          "sig": 691.0,
-          "tsunami": 1
-        }
-      },
       {
         "domain": "security",
         "severity": "high",

@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-10T20:21:14+00:00_
+_Generiert: 2026-10-10T20:35:07+00:00_
 
 ## Kurzlage
 
@@ -9,10 +9,6 @@ _Generiert: 2026-10-10T20:21:14+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M6.6 - 14 km W of Río Grande, Panama** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w)
-  - Quelle: USGS
-  - Zeit: `2026-10-09T20:25:39+00:00`
-  - Kurz: M6.6 - 14 km W of Río Grande, Panama. PAGER alert: yellow. Tsunami flag: 1.
 - **CISA KEV: CVE-2015-5477 ISC BIND** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
