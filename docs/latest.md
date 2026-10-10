@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-10T02:58:51+00:00_
+_Generiert: 2026-10-10T03:27:54+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+12 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
 
 ## Priorität Hoch
 
@@ -42,6 +42,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Half the market will not take your money: The access problem for regulated startups** — Score 12, observation — [Quelle](https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-10T03:00:59+00:00`, fetched `2026-10-10T03:27:21+00:00`
+  - Treffer: APAC Trend Radar, founder, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); founder (+2.0); recent (+1.0)
+  - Kurz: Across 231 Canadian publishers, the outlets that accept restricted categories charge less than half as much for ordinary articles. That discount measures who has already left the room, and founders in crypto, lending and gaming are shopping in that half without knowing it. The cheapest quote in a media plan is usually the one worth […] The post Half the market will not take your money: The access problem for regulat…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 18 km SSE of Río Grande, Panama** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bw)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-10T03:00:45.040+00:00`, fetched `2026-10-10T03:27:21+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-10 02:43:38 UTC 2026-10-10 02:43:38 UTC at epicenter Location 7.575°N 81.249°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 1 km NNE of Tonosí, Panama** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-10T02:45:14.040+00:00`, fetched `2026-10-10T02:58:12+00:00`
@@ -59,15 +77,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-10 01:35:47 UTC 2026-10-10 01:35:47 UTC at epicenter Location 7.627°N 81.324°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.7 - 10 km N of La Tronosa, Panama** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-10T01:36:54.248+00:00`, fetched `2026-10-10T01:41:27+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - III Time 2026-10-10 01:11:47 UTC 2026-10-10 01:11:47 UTC at epicenter Location 7.530°N 80.586°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ** — Score 5, observation — [Quelle](https://togetter.com/li/2756407)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -87,14 +96,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Mr.Genki | marketing & webdesign @genki_iii 知り合いがAIに作らせたクローラーに大量のサイトを読ませたら、プロンプトインジェクションを食らってPCがマルウェアに感染してた。AIで誰でも簡単に作れるようになった分、開発やセキュリティの知識がないまま動かす人も増えていて、こういう事故はこれから増えていく気...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入** — Score 5, observation — [Quelle](https://av.watch.impress.co.jp/docs/news/2147140.html)
+- **CloudflareのDurable Objectsでデッドループして破産しないために知っておきたいこと** — Score 5, observation — [Quelle](https://zenn.dev/karamage/articles/f1c3ef67dbd4b3)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-09T12:18:27+00:00`, fetched `2026-10-10T02:37:50+00:00`
+  - Zeit: published `2026-10-09T15:12:30+00:00`, fetched `2026-10-10T03:27:21+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入
+  - Kurz: 料金を大きく左右するのは、休眠（Hibernation）できるかどうかです。 条件を満たした状態で約10秒アイドルが続くと、オブジェクトは休眠しますし、休眠できないまま放置されたオブジェクトも、70〜140秒ほどでチェックアウトさせられます。 厄介なのは、未完了のI/Oや setTimeout 、 setInterval が残っている場合です...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -106,7 +115,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
