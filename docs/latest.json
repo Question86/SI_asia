@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T05:27:01+00:00",
-  "run_id": "2026-10-10T05:27:01+00:00",
+  "generated_at": "2026-10-10T05:53:36+00:00",
+  "run_id": "2026-10-10T05:53:36+00:00",
   "date": "2026-10-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 1,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 15,
     "source_errors": 0
   },
@@ -52,6 +52,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "526d51c475822b0dc29e"
+      },
+      {
+        "title": "M 5.0 - 141 km E of Bitung, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-10T05:50:42.040+00:00",
+        "fetched_at": "2026-10-10T05:53:05+00:00",
+        "summary": "Time 2026-10-10 05:32:01 UTC 2026-10-10 05:32:01 UTC at epicenter Location 1.625°N 126.389°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "976c7b1b169b132a6ba9"
       },
       {
         "title": "M 5.1 - 133 km WNW of Ternate, Indonesia",
@@ -580,6 +617,43 @@
       "id": "526d51c475822b0dc29e"
     },
     {
+      "title": "M 5.0 - 141 km E of Bitung, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-10T05:50:42.040+00:00",
+      "fetched_at": "2026-10-10T05:53:05+00:00",
+      "summary": "Time 2026-10-10 05:32:01 UTC 2026-10-10 05:32:01 UTC at epicenter Location 1.625°N 126.389°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "976c7b1b169b132a6ba9"
+    },
+    {
       "title": "M 5.1 - 133 km WNW of Ternate, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1077,7 +1151,45 @@
       "id": "f877eaded9c67794f71e"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.0 - 141 km E of Bitung, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-10T05:50:42.040+00:00",
+      "fetched_at": "2026-10-10T05:53:05+00:00",
+      "summary": "Time 2026-10-10 05:32:01 UTC 2026-10-10 05:32:01 UTC at epicenter Location 1.625°N 126.389°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "976c7b1b169b132a6ba9"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

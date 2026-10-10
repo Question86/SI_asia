@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-10T05:27:01+00:00",
+  "generated_at": "2026-10-10T05:53:36+00:00",
   "topics": {
     "ai": [
       {
@@ -72,6 +72,13 @@
     ],
     "general": [
       {
+        "title": "M 5.0 - 141 km E of Bitung, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-10T05:50:42.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv"
+      },
+      {
         "title": "M 5.1 - 133 km WNW of Ternate, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-10T02:19:53.040+00:00",
@@ -133,13 +140,6 @@
         "published_at": "2026-10-10T01:36:54.248+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl"
-      },
-      {
-        "title": "CloudflareのDurable Objectsでデッドループして破産しないために知っておきたいこと",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-09T15:12:30+00:00",
-        "relevance_score": 5,
-        "url": "https://zenn.dev/karamage/articles/f1c3ef67dbd4b3"
       }
     ]
   }
