@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-10T06:36:04+00:00_
+_Generated: 2026-10-10T06:59:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `22`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-10T06:36:04+00:00_
 - url: https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/
 - summary: Across 231 Canadian publishers, the outlets that accept restricted categories charge less than half as much for ordinary articles. That discount measures who has already left the room, and founders in crypto, lending and gaming are shopping in that half witho…
 
-### 7. M 4.9 - 10 km SSW of Cañas, Panama
+### 7. M 4.7 - 26 km S of Pedasí, Panama
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-10-10T06:34:21.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d2
-- summary: Time 2026-10-10 06:18:55 UTC 2026-10-10 06:18:55 UTC at epicenter Location 7.366°N 80.317°W Depth 10.00 km (6.21 mi)
+- published: `2026-10-10T06:58:49.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d5
+- summary: Time 2026-10-10 06:27:09 UTC 2026-10-10 06:27:09 UTC at epicenter Location 7.297°N 79.983°W Depth 10.00 km (6.21 mi)
 
-### 8. M 4.5 - 9 km WNW of Flores, Panama
+### 8. M 4.9 - 26 km SSE of Pedasí, Panama
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-10-10T04:51:36.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ck
-- summary: Time 2026-10-10 04:33:03 UTC 2026-10-10 04:33:03 UTC at epicenter Location 7.524°N 80.479°W Depth 10.00 km (6.21 mi)
+- published: `2026-10-10T06:48:43.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d7
+- summary: Time 2026-10-10 06:30:03 UTC 2026-10-10 06:30:03 UTC at epicenter Location 7.300°N 79.969°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
