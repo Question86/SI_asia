@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-10T05:41:36Z",
+  "generated_at": "2026-10-10T06:23:56Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 35,
+    "dynamics": 37,
     "bands": {
       "krass": 2,
-      "strong": 6,
-      "watch": 17,
+      "strong": 7,
+      "watch": 18,
       "quiet": 10
     },
     "bands_after_gate_recheck": {
-      "strong": 8,
-      "watch": 17,
+      "strong": 9,
+      "watch": 18,
       "quiet": 10
     }
   },
@@ -23,7 +23,7 @@
       "url": "https://claude.dev/blog/building-effective-agent-automations/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T01:01:47+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -50,7 +50,7 @@
       "url": "https://claude.dev/blog/building-effective-agent-automations/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T23:06:11+00:00",
-      "age_days": 1.27,
+      "age_days": 1.3,
       "topics": [
         "ai",
         "macro"
@@ -74,11 +74,36 @@
       "summary": "As AI accelerates our work, it's getting harder to keep up. At Anthropic, simple agent automations are frequently used to help. They often run on a schedule, gather context in the background, and proactively tell us what we need to know. But it’s difficult to build effective agent automations: th..."
     },
     {
+      "title": "M 5.0 - 141 km E of Bitung, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-10T05:50:42.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-10 05:32:01 UTC 2026-10-10 05:32:01 UTC at epicenter Location 1.625°N 126.389°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.1 - 133 km WNW of Ternate, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T02:19:53.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -103,7 +128,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T02:05:30+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -128,7 +153,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T01:42:06+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -153,7 +178,7 @@
       "url": "https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-10T03:27:57+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -177,7 +202,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:41:20.724+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -202,7 +227,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:44:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -226,11 +251,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T16:56:25+00:00",
-      "age_days": 35.53,
+      "age_days": 35.56,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.41,
+      "dynamics_score": 17.4,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -242,7 +267,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -5.1 for 35.5d old signal"
+        "aging penalty -5.1 for 35.6d old signal"
       ],
       "summary": ""
     },
@@ -251,7 +276,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ck",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:51:36.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -276,7 +301,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:24:04.653+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -301,7 +326,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:19:41.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -326,7 +351,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T03:00:45.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -351,7 +376,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T02:45:14.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -376,7 +401,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T01:54:37.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -401,7 +426,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T01:36:54.248+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -422,11 +447,35 @@
       "summary": "DYFI? - III Time 2026-10-10 01:11:47 UTC 2026-10-10 01:11:47 UTC at epicenter Location 7.530°N 80.586°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.5 - 9 km WNW of Flores, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ck",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-10T04:56:55+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.3 - 41 km NNE of Yigo Village, Guam",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:27:08+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -450,7 +499,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:27:08+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -474,7 +523,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T03:27:57+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -498,7 +547,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T02:58:54+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -518,11 +567,36 @@
       "summary": ""
     },
     {
+      "title": "M 5.0 - 141 km E of Bitung, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-29T08:36:29+00:00",
+      "age_days": 41.91,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.18,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -7.3 for 41.9d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
       "url": "https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T00:02:41+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -544,35 +618,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.5 - 9 km WNW of Flores, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ck",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-10T04:56:55+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "CloudflareのDurable Objectsでデッドループして破産しないために知っておきたいこと",
       "url": "https://zenn.dev/karamage/articles/f1c3ef67dbd4b3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T03:27:57+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -596,7 +646,7 @@
       "url": "https://av.watch.impress.co.jp/docs/news/2147140.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T02:38:24+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -620,7 +670,7 @@
       "url": "https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-10T03:00:59+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "macro"
       ],
@@ -644,7 +694,7 @@
       "url": "https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T04:44:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -671,7 +721,7 @@
       "url": "https://zenn.dev/karamage/articles/f1c3ef67dbd4b3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T15:12:30+00:00",
-      "age_days": 0.6,
+      "age_days": 0.63,
       "topics": [
         "general"
       ],
@@ -695,7 +745,7 @@
       "url": "https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T11:35:53+00:00",
-      "age_days": 0.75,
+      "age_days": 0.78,
       "topics": [
         "ai"
       ],
@@ -720,7 +770,7 @@
       "url": "https://av.watch.impress.co.jp/docs/news/2147140.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T12:18:27+00:00",
-      "age_days": 0.72,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -744,7 +794,7 @@
       "url": "https://togetter.com/li/2756407",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T00:50:20+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -770,7 +820,7 @@
       "url": "https://www.techno-edge.net/article/2026/10/10/5571.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T21:44:57+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -796,7 +846,7 @@
       "url": "https://togetter.com/li/2756407",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 112.72,
+      "age_days": 112.74,
       "topics": [
         "ai"
       ],
@@ -807,12 +857,12 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.13,
+      "baseline_z_hint": 0.99,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.13",
+        "baseline z_hint 0.99",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 112.7d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -824,7 +874,7 @@
       "url": "https://www.techno-edge.net/article/2026/10/10/5571.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T08:23:39+00:00",
-      "age_days": 40.89,
+      "age_days": 40.92,
       "topics": [
         "ai"
       ],
@@ -851,7 +901,7 @@
       "url": "https://togetter.com/li/2756400",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T23:42:54+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -877,7 +927,7 @@
       "url": "https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2023-01-23T12:21:49+00:00",
-      "age_days": 1355.72,
+      "age_days": 1355.75,
       "topics": [
         "ai"
       ],
@@ -894,7 +944,7 @@
       "why": [
         "high terms: domain",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 1355.7d old signal",
+        "aging penalty -8.0 for 1355.8d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Domain model purity vs. domain model completeness (DDD Trilemma) I’ve been meaning to write this article for a long time and, finally, here it is: the topic of domain model purity versus domain model completeness. In this article, we’ll talk about a trilemma that comes up in each and every projec..."
