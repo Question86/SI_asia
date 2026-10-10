@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T09:28:03+00:00",
-  "run_id": "2026-10-10T09:28:03+00:00",
+  "generated_at": "2026-10-10T09:42:08+00:00",
+  "run_id": "2026-10-10T09:42:08+00:00",
   "date": "2026-10-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 27,
     "displayed_findings": 27,
     "high": 0,
@@ -1617,53 +1617,7 @@
       "id": "f877eaded9c67794f71e"
     }
   ],
-  "new_findings": [
-    {
-      "title": "bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ",
-      "url": "https://future-architect.github.io/articles/20261009a/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-10T01:47:07+00:00",
-      "fetched_at": "2026-10-10T09:27:33+00:00",
-      "summary": "はじめにみなさんは業務フローを書いたことはあるでしょうか。 業務フローは、ある業務を誰がどの順番で進めるかを図にしたものです。申請者が申請を登録し、承認者が承認し、購買担当が発注する、といった手順を担当者ごとのレーンに分け、矢印でつなぎます。システムの開発現場ではグランドデザインや要件定義などの工...",
-      "matched_keywords": [
-        "AI/KI",
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b3ac831a80f6bce10b25"
-    },
-    {
-      "title": "事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business",
-      "url": "https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-10T01:29:35+00:00",
-      "fetched_at": "2026-10-10T09:27:33+00:00",
-      "summary": "Data Engineering Summit 2026（2026-10-09）で発表した資料です。 https://conference.findy-code.io/conferences/data-engineering-summit26/35/sessions/758 AI は誰でも…",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a425edcfa800d3bc180a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
