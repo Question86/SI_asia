@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-10T06:23:56Z",
+  "generated_at": "2026-10-10T06:55:18Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 37,
+    "dynamics": 39,
     "bands": {
       "krass": 2,
       "strong": 7,
-      "watch": 18,
+      "watch": 20,
       "quiet": 10
     },
     "bands_after_gate_recheck": {
       "strong": 9,
-      "watch": 18,
+      "watch": 20,
       "quiet": 10
     }
   },
@@ -23,7 +23,7 @@
       "url": "https://claude.dev/blog/building-effective-agent-automations/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T01:01:47+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -50,7 +50,7 @@
       "url": "https://claude.dev/blog/building-effective-agent-automations/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T23:06:11+00:00",
-      "age_days": 1.3,
+      "age_days": 1.33,
       "topics": [
         "ai",
         "macro"
@@ -78,7 +78,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T05:50:42.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -103,7 +103,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T02:19:53.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -128,7 +128,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T02:05:30+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -153,7 +153,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T01:42:06+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -178,7 +178,7 @@
       "url": "https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-10T03:27:57+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "macro"
       ],
@@ -202,7 +202,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:41:20.724+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -227,7 +227,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:44:06+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -247,11 +247,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.9 - 10 km SSW of Cañas, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-10T06:36:08+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.1 - 133 km WNW of Ternate, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T16:56:25+00:00",
-      "age_days": 35.56,
+      "age_days": 35.58,
       "topics": [
         "general"
       ],
@@ -272,11 +297,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.9 - 10 km SSW of Cañas, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-10T06:34:21.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-10 06:18:55 UTC 2026-10-10 06:18:55 UTC at epicenter Location 7.366°N 80.317°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.5 - 9 km WNW of Flores, Panama",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ck",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:51:36.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -301,7 +351,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:24:04.653+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -326,7 +376,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:19:41.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -351,7 +401,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T03:00:45.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -376,7 +426,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T02:45:14.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -401,7 +451,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T01:54:37.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -426,7 +476,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T01:36:54.248+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -451,7 +501,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ck",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:56:55+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -475,7 +525,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:27:08+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -499,7 +549,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:27:08+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -523,7 +573,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T03:27:57+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -547,7 +597,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T02:58:54+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -571,11 +621,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T08:36:29+00:00",
-      "age_days": 41.91,
+      "age_days": 41.93,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.18,
+      "dynamics_score": 15.17,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -596,7 +646,7 @@
       "url": "https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T00:02:41+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -622,7 +672,7 @@
       "url": "https://zenn.dev/karamage/articles/f1c3ef67dbd4b3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T03:27:57+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -646,7 +696,7 @@
       "url": "https://av.watch.impress.co.jp/docs/news/2147140.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T02:38:24+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -670,7 +720,7 @@
       "url": "https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-10T03:00:59+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "macro"
       ],
@@ -694,7 +744,7 @@
       "url": "https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T04:44:06+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -721,7 +771,7 @@
       "url": "https://zenn.dev/karamage/articles/f1c3ef67dbd4b3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T15:12:30+00:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "general"
       ],
@@ -745,7 +795,7 @@
       "url": "https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T11:35:53+00:00",
-      "age_days": 0.78,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
@@ -770,7 +820,7 @@
       "url": "https://av.watch.impress.co.jp/docs/news/2147140.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T12:18:27+00:00",
-      "age_days": 0.75,
+      "age_days": 0.78,
       "topics": [
         "general"
       ],
@@ -794,7 +844,7 @@
       "url": "https://togetter.com/li/2756407",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T00:50:20+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -820,7 +870,7 @@
       "url": "https://www.techno-edge.net/article/2026/10/10/5571.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T21:44:57+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -846,7 +896,7 @@
       "url": "https://togetter.com/li/2756407",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 112.74,
+      "age_days": 112.77,
       "topics": [
         "ai"
       ],
@@ -857,14 +907,14 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.99,
+      "baseline_z_hint": 0.92,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.99",
+        "baseline z_hint 0.92",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 112.7d old signal",
+        "aging penalty -8.0 for 112.8d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -874,7 +924,7 @@
       "url": "https://www.techno-edge.net/article/2026/10/10/5571.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T08:23:39+00:00",
-      "age_days": 40.92,
+      "age_days": 40.94,
       "topics": [
         "ai"
       ],
@@ -901,7 +951,7 @@
       "url": "https://togetter.com/li/2756400",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T23:42:54+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -927,7 +977,7 @@
       "url": "https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2023-01-23T12:21:49+00:00",
-      "age_days": 1355.75,
+      "age_days": 1355.77,
       "topics": [
         "ai"
       ],
