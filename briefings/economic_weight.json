@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T23:46:18+00:00",
+  "generated_at": "2026-10-10T00:03:00+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -486,7 +486,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T14:40:14+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1a1c74196281844197d9",
@@ -1529,7 +1529,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c3299ce8e5250f27b3ad",
@@ -1750,7 +1750,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-09T14:40:14+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_051cfa972487c1e10518",
@@ -1784,7 +1784,24 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-09T20:50:41+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_198d7964cb20ec9d309c",
+      "title": "M 5.4 - 9 km SSE of Los Asientos, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-09T23:46:04+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
+      "status": "dormant"
     },
     {
       "event_id": "evt_1e79667e6cb0d60275e6",
@@ -1903,7 +1920,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-09T18:31:17+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_865b5f1f43613c795151",
@@ -2005,7 +2022,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-09T18:50:56+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b4b528d3941e33834900",
@@ -2107,7 +2124,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-09T15:23:22+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c6b6931907fdf41a0546",
@@ -2176,23 +2193,6 @@
       "first_seen_at": "2026-09-29T12:06:28+00:00",
       "last_seen_at": "2026-09-29T23:56:49+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_198d7964cb20ec9d309c",
-      "title": "M 5.4 - 9 km SSE of Los Asientos, Panama",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1144000.0,
-      "p50_usd": 114400000.0,
-      "p90_usd": 11440000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-09T23:46:04+00:00",
-      "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_016849870c540dd48378",
@@ -3895,6 +3895,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_23c1a78a368e97700fcc",
+      "title": "M 4.9 - 9 km SW of Río Grande, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-09T23:46:04+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_255848332fc92c7e6646",
       "title": "M 5.1 - 78 km ENE of Tadine, New Caledonia",
       "event_classes": [
@@ -4453,6 +4470,23 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-10T12:34:00+00:00",
       "last_seen_at": "2026-09-10T13:18:56+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_4a68aecf79f75a30666e",
+      "title": "M 5.0 - 8 km ESE of La Tronosa, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-09T23:46:04+00:00",
+      "last_seen_at": "2026-10-09T23:46:04+00:00",
       "status": "dormant"
     },
     {
@@ -6938,40 +6972,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_23c1a78a368e97700fcc",
-      "title": "M 4.9 - 9 km SW of Río Grande, Panama",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-09T23:46:04+00:00",
-      "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_4a68aecf79f75a30666e",
-      "title": "M 5.0 - 8 km ESE of La Tronosa, Panama",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-09T23:46:04+00:00",
-      "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -6986,7 +6986,7 @@
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b380be2049a414b6cdc6",
@@ -7122,7 +7122,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6bd9db655618cf846ffa",
@@ -9723,7 +9723,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T06:12:03+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_be4e56f880aedd9e2899",
@@ -9842,7 +9842,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T03:53:58+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0ab1f90816a2a86fe8ad",
@@ -10029,7 +10029,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T11:21:12+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_874b3b70ec0bb6c69123",
@@ -10097,7 +10097,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a2888de3c57b771f0196",
@@ -10471,7 +10471,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T08:25:31+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4ad77e8615dd0464ac5d",
@@ -11237,6 +11237,23 @@
       "first_seen_at": "2026-09-15T05:35:26+00:00",
       "last_seen_at": "2026-09-15T23:55:14+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_47580b7f3dae80dc4b6f",
+      "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-10T00:02:41+00:00",
+      "last_seen_at": "2026-10-10T00:02:41+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",
@@ -12069,7 +12086,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T22:25:49+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_838dc66329a201a435ed",
@@ -12239,7 +12256,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_abb584bae6510b3313de",
@@ -12410,7 +12427,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T05:43:05+00:00",
       "last_seen_at": "2026-10-09T23:46:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d1d8580e99b913df4698",
