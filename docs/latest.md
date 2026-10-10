@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-10T09:59:49+00:00_
+_Generiert: 2026-10-10T10:21:11+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
+28 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
 
 ## Priorität Hoch
 
@@ -114,14 +114,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Data Engineering Summit 2026（2026-10-09）で発表した資料です。 https://conference.findy-code.io/conferences/data-engineering-summit26/35/sessions/758 AI は誰でも…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ** — Score 5, observation — [Quelle](https://togetter.com/li/2756407)
+- **AI駆動開発の時代になったのでトヨタ生産方式から見直す** — Score 8, observation — [Quelle](https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-10T00:50:20+00:00`, fetched `2026-10-10T02:04:59+00:00`
-  - Treffer: Hatena, hotentry
+  - Zeit: published `2026-10-09T15:18:20+00:00`, fetched `2026-10-10T10:20:39+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はるか/C108土曜東2"ツ07b"＆日曜西1"と20b" @YT_HARUKA ウチのAIは有料フォント買いましょうかとか言い出したからお前にそんな権限は無いからね？フリーフォント探そうね？お財布は預けて無いよ？ って釘刺したら、なんかフォント自作しよったわ 2026-10-09 15:10:19
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026-10-09 AI駆動開発勉強会 名古屋支部#2 の発表資料です。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
