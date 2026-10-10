@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T06:36:36+00:00",
+  "generated_at": "2026-10-10T07:00:28+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -6875,7 +6875,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_700d73638d95093bf03d",
@@ -9496,6 +9496,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_9ad7c6107270ad7315a0",
+      "title": "M 4.9 - 26 km SSE of Pedasí, Panama",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_9b372237b9559ac9e445",
       "title": "M 4.7 - 60 km W of Cafayate, Argentina",
       "deduplicated_buckets": 0,
@@ -9703,6 +9714,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_9e5978ef130947b62484",
+      "title": "M 4.7 - 26 km S of Pedasí, Panama",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_9e6829d6549203d03ca3",
@@ -12149,12 +12171,12 @@
     {
       "event_id": "evt_c83a9e35bcfd5bc362b0",
       "title": "M 4.9 - 10 km SSW of Cañas, Panama",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
