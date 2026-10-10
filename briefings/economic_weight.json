@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T01:02:03+00:00",
+  "generated_at": "2026-10-10T01:42:26+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -6972,6 +6972,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_599e224e057847d65796",
+      "title": "M 4.7 - 10 km N of La Tronosa, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-10T01:42:06+00:00",
+      "last_seen_at": "2026-10-10T01:42:06+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -10168,6 +10185,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c0549843347dd6d4cba1",
+      "title": "Building effective agent automations / claude.dev Blog",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-10T01:01:47+00:00",
+      "last_seen_at": "2026-10-10T01:42:06+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_c269eeb694e7b53bd5ce",
       "title": "Vulnérabilité dans SPIP (21 août 2026)",
       "event_classes": [
@@ -10387,23 +10421,6 @@
       "first_seen_at": "2026-09-25T09:44:45+00:00",
       "last_seen_at": "2026-09-25T23:54:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_c0549843347dd6d4cba1",
-      "title": "Building effective agent automations / claude.dev Blog",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 116800.0,
-      "p50_usd": 11680000.0,
-      "p90_usd": 1168000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-10T01:01:47+00:00",
-      "last_seen_at": "2026-10-10T01:01:47+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_164cc1afee592ac2b935",
@@ -10878,7 +10895,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T00:02:41+00:00",
-      "last_seen_at": "2026-10-10T01:01:47+00:00",
+      "last_seen_at": "2026-10-10T01:42:06+00:00",
       "status": "active"
     },
     {
@@ -20043,8 +20060,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-10-05T23:42:57+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-10T01:42:06+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_22f46873227d88b36a11",
