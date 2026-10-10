@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T01:01:47+00:00",
+  "generated_at": "2026-10-10T01:42:06+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -5080,8 +5080,8 @@
       "z_hint": 0.0
     },
     "domain:togetter.com": {
-      "title": "「このシステム納得いかないんだが」横浜市内のバス停の並び方に関するルールがおかしい？→どんな理屈なのか考察する人たち",
-      "updated_at": "2026-10-06T23:46:08+00:00",
+      "title": "知り合いがAIに作らせたクローラーに大量のサイトを読み込ませたら、プロンプトインジェクションを受けてPCがマルウェアに感染「こういう事故はこれから増えていく気が…」",
+      "updated_at": "2026-10-10T01:42:06+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -5112,12 +5112,12 @@
         7.1,
         7.1,
         7.1,
-        7.1
+        10.1
       ],
-      "rolling_average": 7.1,
-      "rolling_peak": 7.1,
-      "last_score": 7.1,
-      "z_hint": 0.0
+      "rolling_average": 7.2,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 2.9
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -67054,25 +67054,38 @@
     },
     "title:openai-anthropic": {
       "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
-      "updated_at": "2026-10-10T01:01:47+00:00",
+      "updated_at": "2026-10-10T01:42:06+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.6,
+      "rolling_average": 17.1,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:building-effective-agent-automations-claude-dev-blog": {
       "title": "Building effective agent automations / claude.dev Blog",
-      "updated_at": "2026-10-10T01:01:47+00:00",
+      "updated_at": "2026-10-10T01:42:06+00:00",
       "network_scores": [
-        21.1
+        21.1,
+        18.1
       ],
-      "rolling_average": 21.1,
+      "rolling_average": 19.6,
       "rolling_peak": 21.1,
-      "last_score": 21.1,
+      "last_score": 18.1,
+      "z_hint": -1.5
+    },
+    "earthquake:m 4.7 - 10 km n of la tronosa, panama:4.7": {
+      "title": "M 4.7 - 10 km N of La Tronosa, Panama",
+      "updated_at": "2026-10-10T01:42:06+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
       "z_hint": 0.0
     }
   }
