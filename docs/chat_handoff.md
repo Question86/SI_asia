@@ -1,67 +1,18 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-09T23:46:01+00:00_
+_Generated: 2026-10-10T00:02:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `88`
+- findings: `1`
 
 ## Top Signals
 
-### 1. Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach
-- source: heise Security Alerts
-- score: `22`
-- published: `2026-10-09T07:12:00.000+00:00`
-- url: https://www.heise.de/news/Citrix-legt-weiteres-Sicherheitsupdate-gegen-kritische-Netscaler-Luecke-nach-11481808.html
-- summary: Vergangenes Wochenende hat Citrix eine Zero-Day-Lücke in Netscaler geschlossen. Jetzt legt der Hersteller ein weiteres Update nach.
-
-### 2. Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)
-- source: CERT-FR Avis de sécurité
-- score: `20`
-- published: `2026-10-02T00:00:00+00:00`
-- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/
-- summary: Une vulnérabilité a été découverte dans Fortinet FortiMail. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Fortinet indique que la vulnérabilité CVE-2026-104286 est activement exploitée. Des indicateurs de compromission s…
-
-### 3. AI chats are becoming the new starting point for online shopping
-- source: e27 Asia Startup and Tech Feed
-- score: `17`
-- published: `2026-10-09T06:05:35+00:00`
-- url: https://e27.co/ai-chats-are-becoming-the-new-starting-point-for-online-shopping-20261009/
-- summary: For years, online retail has been organised around a simple assumption: the customer journey begins on a search engine, marketplace, brand website, or app. That assumption is starting to look dated. A new Salesforce report suggests that more shoppers are now…
-
-### 4. [NEU] [mittel] Red Hat Enterprise Linux (sssd, tftp, ansible-collection-ansible-posix): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-09T12:14:37+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3848
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen und einen Denial-of-Service-Zustand auszulösen.
-
-### 5. M 5.4 - 9 km SSE of Los Asientos, Panama
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-10-09T23:42:28.769+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ay
-- summary: PAGER - GREEN ShakeMap - VII DYFI? - V Time 2026-10-09 23:12:37 UTC 2026-10-09 23:12:37 UTC at epicenter Location 7.437°N 80.097°W Depth 10.00 km (6.21 mi)
-
-### 6. M 6.6 - 14 km W of Río Grande, Panama
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-10-09T20:47:03.690+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w
-- summary: PAGER - YELLOW ShakeMap - VIII DYFI? - V Time 2026-10-09 20:25:39 UTC 2026-10-09 20:25:39 UTC at epicenter Location 7.718°N 81.469°W Depth 10.00 km (6.21 mi)
-
-### 7. M 5.5 - 3 km SW of Bajo Corral, Panama
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-10-09T18:42:45.902+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18t
-- summary: PAGER - GREEN ShakeMap - VII Time 2026-10-09 18:22:15 UTC 2026-10-09 18:22:15 UTC at epicenter Location 7.586°N 80.289°W Depth 10.00 km (6.21 mi)
-
-### 8. M 7.7 - 12 km WSW of Pitaloza Arriba, Panama
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-10-09T18:27:59.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k
-- summary: PAGER - PENDING ShakeMap - VIII DYFI? - V Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)
+### 1. OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン
+- source: Hatena Bookmark Hotentry IT
+- score: `14`
+- published: `2026-10-09T11:35:53+00:00`
+- url: https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/
+- summary: アメリカのAI勢力図が変わるかもしれません。 無名のAIスタートアップが、「企業が自前のAIを作れる」サービスを強みに、大手AI企業のドル箱である法人ビジネスに挑もうとしています。 いまやAI企業の収入源は法人向けプランに OpenAIとAnthropicの主な収入源は、APIや法人向けサブスクリプションの販売です。 CNBCによ...
 
 END OF DOCUMENT
