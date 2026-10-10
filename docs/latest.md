@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-10T03:27:54+00:00_
+_Generiert: 2026-10-10T03:49:28+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
+13 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
 
 ## Priorität Hoch
 
@@ -96,14 +96,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Mr.Genki | marketing & webdesign @genki_iii 知り合いがAIに作らせたクローラーに大量のサイトを読ませたら、プロンプトインジェクションを食らってPCがマルウェアに感染してた。AIで誰でも簡単に作れるようになった分、開発やセキュリティの知識がないまま動かす人も増えていて、こういう事故はこれから増えていく気...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **CloudflareのDurable Objectsでデッドループして破産しないために知っておきたいこと** — Score 5, observation — [Quelle](https://zenn.dev/karamage/articles/f1c3ef67dbd4b3)
+- **Windowsにもエアドロしたい。Raspberry PiでAirDrop受信機「LilBitDrop」を作った（CloseBox） | テクノエッジ TechnoEdge** — Score 5, observation — [Quelle](https://www.techno-edge.net/article/2026/10/10/5571.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-09T15:12:30+00:00`, fetched `2026-10-10T03:27:21+00:00`
+  - Zeit: published `2026-10-09T21:44:57+00:00`, fetched `2026-10-10T03:48:59+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 料金を大きく左右するのは、休眠（Hibernation）できるかどうかです。 条件を満たした状態で約10秒アイドルが続くと、オブジェクトは休眠しますし、休眠できないまま放置されたオブジェクトも、70〜140秒ほどでチェックアウトさせられます。 厄介なのは、未完了のI/Oや setTimeout 、 setInterval が残っている場合です...
+  - Kurz: AirDropは今では少なくなってしまった、Appleエコシステムの「ないとなると困る」機能の1つです。何かイベントがあったときに写真をその場にいる人に送るのに著しく便利。ここではiPhoneとそれ以外で大きな格差が生まれ、そのような機会の多い女子学生の中ではiPhone所有率が格段に高いというのも頷けます。 ただ、最近...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
