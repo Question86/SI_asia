@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-10T08:00:10+00:00_
+_Generiert: 2026-10-10T08:27:54+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
+24 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -187,14 +187,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Mr.Genki | marketing & webdesign @genki_iii 知り合いがAIに作らせたクローラーに大量のサイトを読ませたら、プロンプトインジェクションを食らってPCがマルウェアに感染してた。AIで誰でも簡単に作れるようになった分、開発やセキュリティの知識がないまま動かす人も増えていて、こういう事故はこれから増えていく気...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Windowsにもエアドロしたい。Raspberry PiでAirDrop受信機「LilBitDrop」を作った（CloseBox） | テクノエッジ TechnoEdge** — Score 5, observation — [Quelle](https://www.techno-edge.net/article/2026/10/10/5571.html)
+- **写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2147318.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-09T21:44:57+00:00`, fetched `2026-10-10T03:48:59+00:00`
+  - Zeit: published `2026-10-09T23:24:10+00:00`, fetched `2026-10-10T08:27:06+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AirDropは今では少なくなってしまった、Appleエコシステムの「ないとなると困る」機能の1つです。何かイベントがあったときに写真をその場にいる人に送るのに著しく便利。ここではiPhoneとそれ以外で大きな格差が生まれ、そのような機会の多い女子学生の中ではiPhone所有率が格段に高いというのも頷けます。 ただ、最近...
+  - Kurz: 写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -206,3 +206,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out.
