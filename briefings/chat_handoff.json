@@ -90,5 +90,142 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Building effective agent automations / claude.dev Blog” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Building effective agent automations / claude.dev Blog",
+        "url": "https://claude.dev/blog/building-effective-agent-automations/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-10T01:01:47+00:00",
+        "age_days": 0.08,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Building effective agent automations / claude.dev Blog",
+        "url": "https://claude.dev/blog/building-effective-agent-automations/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-08T23:06:11+00:00",
+        "age_days": 1.16,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 29.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: actively, active",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "As AI accelerates our work, it's getting harder to keep up. At Anthropic, simple agent automations are frequently used to help. They often run on a schedule, gather context in the background, and proactively tell us what we need to know. But it’s difficult to build effective agent automations: th..."
+      },
+      {
+        "title": "M 5.1 - 133 km WNW of Ternate, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-10T02:19:53.040+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 23.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "Time 2026-10-10 02:00:42 UTC 2026-10-10 02:00:42 UTC at epicenter Location 1.416°N 126.360°E Depth 10.00 km (6.21 mi)"
+      },
+      {
+        "title": "M 4.7 - 10 km N of La Tronosa, Panama",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-10T01:42:06+00:00",
+        "age_days": 0.06,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 21.5,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "high terms: 10"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "M 4.6 - 10 km S of Río Grande, Panama",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-10T02:05:30+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 19.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 2,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +2",
+          "high terms: 10"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }

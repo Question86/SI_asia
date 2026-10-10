@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-10T02:35:40Z",
+  "generated_at": "2026-10-10T03:02:22Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / claude.dev Blog” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,22 +15,22 @@
       "url": "https://claude.dev/blog/building-effective-agent-automations/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T01:01:47+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "extreme",
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "AXI0M/User-Yps identity hit",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
@@ -42,7 +42,7 @@
       "url": "https://claude.dev/blog/building-effective-agent-automations/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T23:06:11+00:00",
-      "age_days": 1.15,
+      "age_days": 1.16,
       "topics": [
         "ai",
         "macro"
@@ -66,26 +66,51 @@
       "summary": "As AI accelerates our work, it's getting harder to keep up. At Anthropic, simple agent automations are frequently used to help. They often run on a schedule, gather context in the background, and proactively tell us what we need to know. But it’s difficult to build effective agent automations: th..."
     },
     {
-      "title": "M 4.6 - 10 km S of Río Grande, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
+      "title": "M 5.1 - 133 km WNW of Ternate, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-10T02:05:30+00:00",
-      "age_days": 0.02,
+      "published_at": "2026-10-10T02:19:53.040+00:00",
+      "age_days": 0.03,
       "topics": [
-        "general"
+        "disaster"
       ],
-      "dynamics_score": 18.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-10 02:00:42 UTC 2026-10-10 02:00:42 UTC at epicenter Location 1.416°N 126.360°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 4.7 - 10 km N of La Tronosa, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-10T01:42:06+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 21.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
         "high terms: 10"
       ],
       "summary": ""
@@ -94,8 +119,83 @@
       "title": "M 4.6 - 10 km S of Río Grande, Panama",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-10T02:05:30+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 5.1 - 133 km WNW of Ternate, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-04T16:56:25+00:00",
+      "age_days": 35.42,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.45,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -5.0 for 35.4d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 5.1 - 1 km NNE of Tonosí, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-10T02:45:14.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-10 02:26:32 UTC 2026-10-10 02:26:32 UTC at epicenter Location 7.418°N 80.435°W Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 4.6 - 10 km S of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T01:54:37.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -120,7 +220,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T01:36:54.248+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -141,36 +241,11 @@
       "summary": "DYFI? - III Time 2026-10-10 01:11:47 UTC 2026-10-10 01:11:47 UTC at epicenter Location 7.530°N 80.586°W Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "M 4.7 - 10 km N of La Tronosa, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-10T01:42:06+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "high terms: 10"
-      ],
-      "summary": ""
-    },
-    {
       "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
       "url": "https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T00:02:41+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -192,109 +267,52 @@
       "summary": ""
     },
     {
-      "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
-      "url": "https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-09T11:35:53+00:00",
-      "age_days": 0.62,
+      "title": "M 5.1 - 1 km NNE of Tonosí, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-10T02:58:54+00:00",
+      "age_days": 0.0,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "アメリカのAI勢力図が変わるかもしれません。 無名のAIスタートアップが、「企業が自前のAIを作れる」サービスを強みに、大手AI企業のドル箱である法人ビジネスに挑もうとしています。 いまやAI企業の収入源は法人向けプランに OpenAIとAnthropicの主な収入源は、APIや法人向けサブスクリプションの販売です。 CNBCによ..."
-    },
-    {
-      "title": "ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ",
-      "url": "https://togetter.com/li/2756407",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 112.59,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.81,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 4.83,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 4.83",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 112.6d old signal",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +1"
       ],
       "summary": ""
     },
     {
-      "title": "ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ",
-      "url": "https://togetter.com/li/2756407",
+      "title": "日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入",
+      "url": "https://av.watch.impress.co.jp/docs/news/2147140.html",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-10T00:50:20+00:00",
-      "age_days": 0.07,
+      "published_at": "2026-10-10T02:38:24+00:00",
+      "age_days": 0.02,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 2.0,
+      "dynamics_score": 9.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +1"
       ],
-      "summary": "はるか/C108土曜東2\"ツ07b\"＆日曜西1\"と20b\" @YT_HARUKA ウチのAIは有料フォント買いましょうかとか言い出したからお前にそんな権限は無いからね？フリーフォント探そうね？お財布は預けて無いよ？ って釘刺したら、なんかフォント自作しよったわ 2026-10-09 15:10:19"
-    },
-    {
-      "title": "知り合いがAIに作らせたクローラーに大量のサイトを読み込ませたら、プロンプトインジェクションを受けてPCがマルウェアに感染「こういう事故はこれから増えていく気が…」",
-      "url": "https://togetter.com/li/2756400",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-09T23:42:54+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Mr.Genki | marketing & webdesign @genki_iii 知り合いがAIに作らせたクローラーに大量のサイトを読ませたら、プロンプトインジェクションを食らってPCがマルウェアに感染してた。AIで誰でも簡単に作れるようになった分、開発やセキュリティの知識がないまま動かす人も増えていて、こういう事故はこれから増えていく気..."
+      "summary": ""
     }
   ],
   "read_order": [
@@ -306,9 +324,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 2,
-      "watch": 5,
-      "quiet": 4
+      "strong": 4,
+      "watch": 7,
+      "quiet": 1
     }
   }
 }
