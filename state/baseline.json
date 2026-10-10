@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T04:01:38+00:00",
+  "generated_at": "2026-10-10T04:27:08+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -5081,9 +5081,8 @@
     },
     "domain:togetter.com": {
       "title": "ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ",
-      "updated_at": "2026-10-10T04:01:38+00:00",
+      "updated_at": "2026-10-10T04:27:08+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -5112,12 +5111,13 @@
         9.2,
         9.2,
         9.2,
+        9.2,
         9.2
       ],
-      "rolling_average": 7.72,
+      "rolling_average": 7.79,
       "rolling_peak": 12.2,
       "last_score": 9.2,
-      "z_hint": 1.48
+      "z_hint": 1.41
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -8290,7 +8290,7 @@
     },
     "domain:www.techno-edge.net": {
       "title": "Windowsにもエアドロしたい。Raspberry PiでAirDrop受信機「LilBitDrop」を作った（CloseBox） | テクノエッジ TechnoEdge",
-      "updated_at": "2026-10-10T04:01:38+00:00",
+      "updated_at": "2026-10-10T04:27:08+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -8319,8 +8319,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1
       ],
       "rolling_average": 7.2,
@@ -18966,7 +18966,7 @@
     },
     "earthquake:indonesia:5.1": {
       "title": "M 5.1 - 133 km WNW of Ternate, Indonesia",
-      "updated_at": "2026-10-10T04:01:38+00:00",
+      "updated_at": "2026-10-10T04:27:08+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -18986,7 +18986,6 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
         17.7,
         17.7,
@@ -18994,6 +18993,7 @@
         17.7,
         17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -67054,7 +67054,7 @@
     },
     "title:openai-anthropic": {
       "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
-      "updated_at": "2026-10-10T04:01:38+00:00",
+      "updated_at": "2026-10-10T04:27:08+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -67064,16 +67064,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.43,
+      "rolling_average": 16.4,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:building-effective-agent-automations-claude-dev-blog": {
       "title": "Building effective agent automations / claude.dev Blog",
-      "updated_at": "2026-10-10T04:01:38+00:00",
+      "updated_at": "2026-10-10T04:27:08+00:00",
       "network_scores": [
         21.1,
         18.1,
@@ -67082,16 +67083,35 @@
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 18.47,
+      "rolling_average": 18.43,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.37
+      "z_hint": -0.33
     },
     "earthquake:m 4.7 - 10 km n of la tronosa, panama:4.7": {
       "title": "M 4.7 - 10 km N of La Tronosa, Panama",
-      "updated_at": "2026-10-10T04:01:38+00:00",
+      "updated_at": "2026-10-10T04:27:08+00:00",
+      "network_scores": [
+        14.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7
+      ],
+      "rolling_average": 12.08,
+      "rolling_peak": 14.7,
+      "last_score": 11.7,
+      "z_hint": -0.38
+    },
+    "earthquake:m 4.6 - 10 km s of río grande, panama:4.6": {
+      "title": "M 4.6 - 10 km S of Río Grande, Panama",
+      "updated_at": "2026-10-10T04:27:08+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -67106,40 +67126,54 @@
       "last_score": 11.7,
       "z_hint": -0.43
     },
-    "earthquake:m 4.6 - 10 km s of río grande, panama:4.6": {
-      "title": "M 4.6 - 10 km S of Río Grande, Panama",
-      "updated_at": "2026-10-10T04:01:38+00:00",
-      "network_scores": [
-        14.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7
-      ],
-      "rolling_average": 12.2,
-      "rolling_peak": 14.7,
-      "last_score": 11.7,
-      "z_hint": -0.5
-    },
     "title:led-movix": {
       "title": "日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入",
-      "updated_at": "2026-10-10T04:01:38+00:00",
+      "updated_at": "2026-10-10T04:27:08+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.7,
+      "rolling_average": 7.6,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "earthquake:m 5.1 - 1 km nne of tonosí, panama:5.1": {
       "title": "M 5.1 - 1 km NNE of Tonosí, Panama",
-      "updated_at": "2026-10-10T04:01:38+00:00",
+      "updated_at": "2026-10-10T04:27:08+00:00",
+      "network_scores": [
+        14.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7
+      ],
+      "rolling_average": 12.3,
+      "rolling_peak": 14.7,
+      "last_score": 11.7,
+      "z_hint": -0.6
+    },
+    "title:half-market-will-not-take-your-money-access": {
+      "title": "Half the market will not take your money: The access problem for regulated startups",
+      "updated_at": "2026-10-10T04:27:08+00:00",
+      "network_scores": [
+        17.1,
+        14.1,
+        14.1,
+        14.1
+      ],
+      "rolling_average": 14.85,
+      "rolling_peak": 17.1,
+      "last_score": 14.1,
+      "z_hint": -0.75
+    },
+    "earthquake:m 4.5 - 18 km sse of río grande, panama:4.5": {
+      "title": "M 4.5 - 18 km SSE of Río Grande, Panama",
+      "updated_at": "2026-10-10T04:27:08+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -67151,44 +67185,41 @@
       "last_score": 11.7,
       "z_hint": -0.75
     },
-    "title:half-market-will-not-take-your-money-access": {
-      "title": "Half the market will not take your money: The access problem for regulated startups",
-      "updated_at": "2026-10-10T04:01:38+00:00",
-      "network_scores": [
-        17.1,
-        14.1,
-        14.1
-      ],
-      "rolling_average": 15.1,
-      "rolling_peak": 17.1,
-      "last_score": 14.1,
-      "z_hint": -1.0
-    },
-    "earthquake:m 4.5 - 18 km sse of río grande, panama:4.5": {
-      "title": "M 4.5 - 18 km SSE of Río Grande, Panama",
-      "updated_at": "2026-10-10T04:01:38+00:00",
-      "network_scores": [
-        14.7,
-        11.7,
-        11.7
-      ],
-      "rolling_average": 12.7,
-      "rolling_peak": 14.7,
-      "last_score": 11.7,
-      "z_hint": -1.0
-    },
     "title:cloudflare-durable-objects": {
       "title": "CloudflareのDurable Objectsでデッドループして破産しないために知っておきたいこと",
-      "updated_at": "2026-10-10T04:01:38+00:00",
+      "updated_at": "2026-10-10T04:27:08+00:00",
       "network_scores": [
         10.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.1,
+      "rolling_average": 7.85,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
+    },
+    "earthquake:m 5.3 - 41 km nne of yigo village, guam:5.3": {
+      "title": "M 5.3 - 41 km NNE of Yigo Village, Guam",
+      "updated_at": "2026-10-10T04:27:08+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
+      "z_hint": 0.0
+    },
+    "earthquake:m 4.7 - 8 km n of la tronosa, panama:4.7": {
+      "title": "M 4.7 - 8 km N of La Tronosa, Panama",
+      "updated_at": "2026-10-10T04:27:08+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
+      "z_hint": 0.0
     }
   }
 }

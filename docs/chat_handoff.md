@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-10T04:01:34+00:00_
+_Generated: 2026-10-10T04:27:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `15`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-10-10T04:01:34+00:00_
 - url: https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/
 - summary: Across 231 Canadian publishers, the outlets that accept restricted categories charge less than half as much for ordinary articles. That discount measures who has already left the room, and founders in crypto, lending and gaming are shopping in that half witho…
 
-### 5. M 4.5 - 18 km SSE of Río Grande, Panama
+### 5. M 5.3 - 41 km NNE of Yigo Village, Guam
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-10T04:24:04.653+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cd
+- summary: DYFI? - IV Time 2026-10-10 03:58:18 UTC 2026-10-10 03:58:18 UTC at epicenter Location 13.859°N 145.089°E Depth 111.58 km (69.34 mi)
+
+### 6. M 4.7 - 8 km N of La Tronosa, Panama
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-10T04:19:41.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cb
+- summary: Time 2026-10-10 03:56:17 UTC 2026-10-10 03:56:17 UTC at epicenter Location 7.514°N 80.585°W Depth 10.00 km (6.21 mi)
+
+### 7. M 4.5 - 18 km SSE of Río Grande, Panama
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-10T03:00:45.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bw
 - summary: Time 2026-10-10 02:43:38 UTC 2026-10-10 02:43:38 UTC at epicenter Location 7.575°N 81.249°W Depth 10.00 km (6.21 mi)
-
-### 6. M 5.1 - 1 km NNE of Tonosí, Panama
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-10T02:45:14.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu
-- summary: Time 2026-10-10 02:26:32 UTC 2026-10-10 02:26:32 UTC at epicenter Location 7.418°N 80.435°W Depth 10.00 km (6.21 mi)
-
-### 7. M 4.6 - 10 km S of Río Grande, Panama
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-10T01:54:37.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp
-- summary: Time 2026-10-10 01:35:47 UTC 2026-10-10 01:35:47 UTC at epicenter Location 7.627°N 81.324°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
