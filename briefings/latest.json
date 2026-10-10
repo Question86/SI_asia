@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-10T02:38:21+00:00",
-  "run_id": "2026-10-10T02:38:21+00:00",
+  "generated_at": "2026-10-10T02:58:51+00:00",
+  "run_id": "2026-10-10T02:58:51+00:00",
   "date": "2026-10-10",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 8
+      "configured_public_sources_only": 9
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 1,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
     "medium": 3,
-    "observe": 5,
-    "source_errors": 0
+    "observe": 6,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -114,6 +114,42 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 5.1 - 1 km NNE of Tonosí, Panama",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-10T02:45:14.040+00:00",
+        "fetched_at": "2026-10-10T02:58:12+00:00",
+        "summary": "Time 2026-10-10 02:26:32 UTC 2026-10-10 02:26:32 UTC at epicenter Location 7.418°N 80.435°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "af101507a71404a065bd"
+      },
       {
         "title": "M 4.6 - 10 km S of Río Grande, Panama",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
@@ -336,6 +372,42 @@
       "id": "e4d5a0c4e2e347ece3c3"
     },
     {
+      "title": "M 5.1 - 1 km NNE of Tonosí, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-10T02:45:14.040+00:00",
+      "fetched_at": "2026-10-10T02:58:12+00:00",
+      "summary": "Time 2026-10-10 02:26:32 UTC 2026-10-10 02:26:32 UTC at epicenter Location 7.418°N 80.435°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "af101507a71404a065bd"
+    },
+    {
       "title": "M 4.6 - 10 km S of Río Grande, Panama",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -473,20 +545,19 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.1 - 133 km WNW of Ternate, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs",
+      "title": "M 5.1 - 1 km NNE of Tonosí, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-10T02:19:53.040+00:00",
-      "fetched_at": "2026-10-10T02:37:50+00:00",
-      "summary": "Time 2026-10-10 02:00:42 UTC 2026-10-10 02:00:42 UTC at epicenter Location 1.416°N 126.360°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-10-10T02:45:14.040+00:00",
+      "fetched_at": "2026-10-10T02:58:12+00:00",
+      "summary": "Time 2026-10-10 02:26:32 UTC 2026-10-10 02:26:32 UTC at epicenter Location 7.418°N 80.435°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -507,31 +578,17 @@
         "HD",
         "LOW"
       ],
-      "id": "c481b6c477ca20aae93c"
-    },
-    {
-      "title": "日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入",
-      "url": "https://av.watch.impress.co.jp/docs/news/2147140.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-09T12:18:27+00:00",
-      "fetched_at": "2026-10-10T02:37:50+00:00",
-      "summary": "日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ba7f7db93b3d0b3ddcad"
+      "id": "af101507a71404a065bd"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
