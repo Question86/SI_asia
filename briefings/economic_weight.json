@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T03:28:14+00:00",
+  "generated_at": "2026-10-10T03:49:49+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1613,7 +1613,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T16:56:25+00:00",
-      "last_seen_at": "2026-10-10T03:27:57+00:00",
+      "last_seen_at": "2026-10-10T03:49:32+00:00",
       "status": "active"
     },
     {
@@ -4605,7 +4605,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T02:58:54+00:00",
-      "last_seen_at": "2026-10-10T03:27:57+00:00",
+      "last_seen_at": "2026-10-10T03:49:32+00:00",
       "status": "active"
     },
     {
@@ -4639,7 +4639,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T01:42:06+00:00",
-      "last_seen_at": "2026-10-10T03:27:57+00:00",
+      "last_seen_at": "2026-10-10T03:49:32+00:00",
       "status": "active"
     },
     {
@@ -5829,7 +5829,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T02:05:30+00:00",
-      "last_seen_at": "2026-10-10T03:27:57+00:00",
+      "last_seen_at": "2026-10-10T03:49:32+00:00",
       "status": "active"
     },
     {
@@ -6904,6 +6904,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f3e144abae66ea1caa64",
+      "title": "M 4.5 - 18 km SSE of Río Grande, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-10T03:27:57+00:00",
+      "last_seen_at": "2026-10-10T03:49:32+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f48c44037424b2457b76",
       "title": "M 4.5 - 6 km NW of Āwash, Ethiopia",
       "event_classes": [
@@ -7021,23 +7038,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_f3e144abae66ea1caa64",
-      "title": "M 4.5 - 18 km SSE of Río Grande, Panama",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-10T03:27:57+00:00",
-      "last_seen_at": "2026-10-10T03:27:57+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -10249,7 +10249,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T01:01:47+00:00",
-      "last_seen_at": "2026-10-10T03:27:57+00:00",
+      "last_seen_at": "2026-10-10T03:49:32+00:00",
       "status": "active"
     },
     {
@@ -10946,7 +10946,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T00:02:41+00:00",
-      "last_seen_at": "2026-10-10T03:27:57+00:00",
+      "last_seen_at": "2026-10-10T03:49:32+00:00",
       "status": "active"
     },
     {
@@ -12310,6 +12310,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a43e3fe292a0f2a2b9f5",
+      "title": "Half the market will not take your money: The access problem for regulated startups",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-10T03:27:57+00:00",
+      "last_seen_at": "2026-10-10T03:49:32+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_a5a54b57014a28b3b8cc",
       "title": "Language was never the problem: Inside SEA’s real AI adoption gap",
       "event_classes": [
@@ -12666,23 +12683,6 @@
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_a43e3fe292a0f2a2b9f5",
-      "title": "Half the market will not take your money: The access problem for regulated startups",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-10T03:27:57+00:00",
-      "last_seen_at": "2026-10-10T03:27:57+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_062e97ed5d926e4dc4f8",
@@ -20128,7 +20128,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-10-10T03:27:57+00:00",
+      "last_seen_at": "2026-10-10T03:49:32+00:00",
       "status": "active"
     },
     {
@@ -20332,7 +20332,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T02:38:24+00:00",
-      "last_seen_at": "2026-10-10T03:27:57+00:00",
+      "last_seen_at": "2026-10-10T03:49:32+00:00",
       "status": "active"
     },
     {
@@ -22338,8 +22338,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T08:23:39+00:00",
-      "last_seen_at": "2026-10-02T05:58:27+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-10T03:49:32+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_d287334bcfcb1ae2d454",
@@ -22818,6 +22818,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f04d4028356218253a83",
+      "title": "CloudflareのDurable Objectsでデッドループして破産しないために知っておきたいこと",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-10T03:27:57+00:00",
+      "last_seen_at": "2026-10-10T03:49:32+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f154bbd01a4526e6b250",
       "title": "マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合",
       "event_classes": [
@@ -23054,23 +23071,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_f04d4028356218253a83",
-      "title": "CloudflareのDurable Objectsでデッドループして破産しないために知っておきたいこと",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-10T03:27:57+00:00",
-      "last_seen_at": "2026-10-10T03:27:57+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
