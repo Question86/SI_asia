@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T16:37:30+00:00",
+  "generated_at": "2026-10-10T16:50:21+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1290,7 +1290,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T08:36:29+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -1613,7 +1613,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T16:56:25+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -2038,7 +2038,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T04:44:06+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -3572,6 +3572,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_08c99df7a39891687330",
+      "title": "M 4.8 - 11 km SSW of Tebario, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_08d92f342f75aff2f7c7",
       "title": "M 5.1 - 81 km ESE of Isangel, Vanuatu",
       "event_classes": [
@@ -3670,7 +3687,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T04:27:08+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -4384,7 +4401,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T04:56:55+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -4657,7 +4674,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T02:58:54+00:00",
       "last_seen_at": "2026-10-10T16:37:12+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_592391b35562928dedcf",
@@ -5812,7 +5829,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T06:59:57+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -5897,7 +5914,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T06:59:57+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -6152,7 +6169,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T04:27:08+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -6390,7 +6407,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T06:36:08+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -6543,7 +6560,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T09:10:23+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -7053,7 +7070,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T03:27:57+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -7087,7 +7104,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T10:55:13+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -7121,7 +7138,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T12:52:55+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -7210,8 +7227,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_08c99df7a39891687330",
-      "title": "M 4.8 - 11 km SSW of Tebario, Panama",
+      "event_id": "evt_413126ef8cb2256a398b",
+      "title": "M 4.7 - 2 km WNW of El Cacao, Panama",
       "event_classes": [
         "natural_disaster"
       ],
@@ -7222,8 +7239,8 @@
       "p50_usd": 111200000.0,
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
-      "first_seen_at": "2026-10-10T16:37:12+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "first_seen_at": "2026-10-10T16:50:02+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -10436,7 +10453,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T01:01:47+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -11133,7 +11150,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T00:02:41+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -11949,7 +11966,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T07:25:32+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -12527,7 +12544,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T03:27:57+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
@@ -13208,7 +13225,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T09:28:07+00:00",
-      "last_seen_at": "2026-10-10T16:37:12+00:00",
+      "last_seen_at": "2026-10-10T16:50:02+00:00",
       "status": "active"
     },
     {
