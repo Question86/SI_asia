@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T04:57:12+00:00",
+  "generated_at": "2026-10-10T05:09:57+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1613,7 +1613,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T16:56:25+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
@@ -2038,7 +2038,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T04:44:06+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
@@ -3670,7 +3670,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T04:27:08+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
@@ -4371,6 +4371,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_40d625e8bf8667c27112",
+      "title": "M 4.5 - 9 km WNW of Flores, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_42f61bb5d49f7363f13c",
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
       "event_classes": [
@@ -4639,7 +4656,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T02:58:54+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
@@ -4673,7 +4690,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T01:42:06+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
@@ -5863,7 +5880,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T02:05:30+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
@@ -6101,7 +6118,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T04:27:08+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
@@ -6968,7 +6985,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T03:27:57+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
@@ -7089,23 +7106,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_40d625e8bf8667c27112",
-      "title": "M 4.5 - 9 km WNW of Flores, Panama",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-10T04:56:55+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -10317,7 +10317,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T01:01:47+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
@@ -11014,7 +11014,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T00:02:41+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
@@ -12391,7 +12391,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T03:27:57+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
@@ -20196,7 +20196,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
@@ -20400,7 +20400,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T02:38:24+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
@@ -22406,7 +22406,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T08:23:39+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
@@ -22899,7 +22899,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T03:27:57+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
@@ -23511,7 +23511,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T04:44:06+00:00",
-      "last_seen_at": "2026-10-10T04:56:55+00:00",
+      "last_seen_at": "2026-10-10T05:09:37+00:00",
       "status": "active"
     },
     {
