@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T00:03:00+00:00",
+  "generated_at": "2026-10-10T01:02:03+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -10389,6 +10389,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c0549843347dd6d4cba1",
+      "title": "Building effective agent automations / claude.dev Blog",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-10T01:01:47+00:00",
+      "last_seen_at": "2026-10-10T01:01:47+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_164cc1afee592ac2b935",
       "title": "Games | OpenAI Developers",
       "event_classes": [
@@ -10848,6 +10865,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_47580b7f3dae80dc4b6f",
+      "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-10T00:02:41+00:00",
+      "last_seen_at": "2026-10-10T01:01:47+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_4d6e2304ed5bd0ea0fb0",
       "title": "Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み",
       "event_classes": [
@@ -11237,23 +11271,6 @@
       "first_seen_at": "2026-09-15T05:35:26+00:00",
       "last_seen_at": "2026-09-15T23:55:14+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_47580b7f3dae80dc4b6f",
-      "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 115200.0,
-      "p50_usd": 11520000.0,
-      "p90_usd": 1152000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-10T00:02:41+00:00",
-      "last_seen_at": "2026-10-10T00:02:41+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",
