@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-10T12:31:24+00:00_
+_Generiert: 2026-10-10T12:52:52+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
+32 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: はじめにみなさんは業務フローを書いたことはあるでしょうか。 業務フローは、ある業務を誰がどの順番で進めるかを図にしたものです。申請者が申請を登録し、承認者が承認し、購買担当が発注する、といった手順を担当者ごとのレーンに分け、矢印でつなぎます。システムの開発現場ではグランドデザインや要件定義などの工...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 268 km WNW of Houma, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ej)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-10T12:37:37.040+00:00`, fetched `2026-10-10T12:52:15+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-10 12:21:02 UTC 2026-10-10 12:21:02 UTC at epicenter Location 19.945°S 177.526°W Depth 560.20 km (348.09 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 4 km NE of Río Grande, Panama** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1e5)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-10T10:50:44.040+00:00`, fetched `2026-10-10T10:54:35+00:00`
@@ -95,15 +104,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-10 10:35:11 UTC 2026-10-10 10:35:11 UTC at epicenter Location 7.746°N 81.309°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 61 km N of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dm)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-10T08:58:29.040+00:00`, fetched `2026-10-10T09:09:50+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-10 08:38:50 UTC 2026-10-10 08:38:50 UTC at epicenter Location 15.397°S 173.782°W Depth 79.42 km (49.35 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business** — Score 9, opportunity — [Quelle](https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -133,3 +133,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `cert_fr_alerts` (rss): HTTPSConnectionPool(host='www.cert.ssi.gouv.fr', port=443): Max retries exceeded with url: /alerte/feed/ (Caused by NewConnectionError("HTTPSConnection(host='www.cert.ssi.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
