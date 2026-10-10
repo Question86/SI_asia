@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T07:25:29+00:00",
-  "run_id": "2026-10-10T07:25:29+00:00",
+  "generated_at": "2026-10-10T07:40:35+00:00",
+  "run_id": "2026-10-10T07:40:35+00:00",
   "date": "2026-10-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
@@ -1413,31 +1413,7 @@
       "id": "f877eaded9c67794f71e"
     }
   ],
-  "new_findings": [
-    {
-      "title": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-10-10T07:24:57+00:00",
-      "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code . Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which…",
-      "matched_keywords": [
-        "AI Agents",
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Open Source"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9555a8929f775f4ea41e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
