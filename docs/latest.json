@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T13:01:30+00:00",
-  "run_id": "2026-10-10T13:01:30+00:00",
+  "generated_at": "2026-10-10T13:20:52+00:00",
+  "run_id": "2026-10-10T13:20:52+00:00",
   "date": "2026-10-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 32
+      "configured_public_sources_only": 33
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 1,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 0,
     "medium": 4,
-    "observe": 28,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -936,6 +936,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ba7f7db93b3d0b3ddcad"
+      },
+      {
+        "title": "若手エンジニアに必要だと感じた「AIを使う力」",
+        "url": "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-09T10:44:35+00:00",
+        "fetched_at": "2026-10-10T13:20:15+00:00",
+        "summary": "若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うこと...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cfd9f5e6f939bc9c0200"
       },
       {
         "title": "Domain model purity vs. domain model completeness (DDD Trilemma)",
@@ -1868,6 +1889,27 @@
       "id": "ba7f7db93b3d0b3ddcad"
     },
     {
+      "title": "若手エンジニアに必要だと感じた「AIを使う力」",
+      "url": "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-09T10:44:35+00:00",
+      "fetched_at": "2026-10-10T13:20:15+00:00",
+      "summary": "若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うこと...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cfd9f5e6f939bc9c0200"
+    },
+    {
       "title": "Domain model purity vs. domain model completeness (DDD Trilemma)",
       "url": "https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1889,7 +1931,29 @@
       "id": "f877eaded9c67794f71e"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "若手エンジニアに必要だと感じた「AIを使う力」",
+      "url": "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-09T10:44:35+00:00",
+      "fetched_at": "2026-10-10T13:20:15+00:00",
+      "summary": "若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うこと...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cfd9f5e6f939bc9c0200"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
