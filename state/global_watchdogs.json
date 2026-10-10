@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-10-10T17:55:36+00:00",
+  "generated_at": "2026-10-10T18:04:00+00:00",
   "sections": {
     "global_security": [
-      {
-        "domain": "security",
-        "severity": "critical",
-        "title": "USGS earthquake M7.7 - 12 km WSW of Pitaloza Arriba, Panama",
-        "summary": "M7.7 - 12 km WSW of Pitaloza Arriba, Panama. PAGER alert: red. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-        "published_at": "2026-10-09T17:56:06+00:00",
-        "metrics": {
-          "mag": 7.7,
-          "alert": "red",
-          "sig": 2649.0,
-          "tsunami": 0
-        }
-      },
       {
         "domain": "security",
         "severity": "high",
@@ -28,7 +13,7 @@
         "metrics": {
           "mag": 6.6,
           "alert": "yellow",
-          "sig": 690.0,
+          "sig": 691.0,
           "tsunami": 1
         }
       },
@@ -176,6 +161,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000151",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.8 - 1 km S of El Cacao, Panama",
+        "summary": "M5.8 - 1 km S of El Cacao, Panama. PAGER alert: yellow. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x",
+        "published_at": "2026-10-09T18:37:46+00:00",
+        "metrics": {
+          "mag": 5.8,
+          "alert": "yellow",
+          "sig": 658.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

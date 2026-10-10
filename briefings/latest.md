@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-10T17:55:29+00:00_
+_Generiert: 2026-10-10T18:03:58+00:00_
 
 ## Kurzlage
 
@@ -9,10 +9,6 @@ _Generiert: 2026-10-10T17:55:29+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M7.7 - 12 km WSW of Pitaloza Arriba, Panama** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k)
-  - Quelle: USGS
-  - Zeit: `2026-10-09T17:56:06+00:00`
-  - Kurz: M7.7 - 12 km WSW of Pitaloza Arriba, Panama. PAGER alert: red. Tsunami flag: 0.
 - **USGS earthquake M6.6 - 14 km W of Río Grande, Panama** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w)
   - Quelle: USGS
   - Zeit: `2026-10-09T20:25:39+00:00`
@@ -69,6 +65,10 @@ _Generiert: 2026-10-10T17:55:29+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Volcanic eruption is on going for Taal in Philippines
+- **USGS earthquake M5.8 - 1 km S of El Cacao, Panama** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x)
+  - Quelle: USGS
+  - Zeit: `2026-10-09T18:37:46+00:00`
+  - Kurz: M5.8 - 1 km S of El Cacao, Panama. PAGER alert: yellow. Tsunami flag: 0.
 
 ## Wirtschaft global
 
