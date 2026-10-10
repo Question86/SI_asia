@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-10T07:19:10Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / claude.dev Blog” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-10-10T07:43:32Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,39 @@
   ],
   "top_dynamics": [
     {
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-10T07:24:57+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, code",
+        "security high-signal: rce, code",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code . Why Plugins Cowork lets you set the goal and Claude deliver…"
+    },
+    {
       "title": "Building effective agent automations / claude.dev Blog",
       "url": "https://claude.dev/blog/building-effective-agent-automations/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T01:01:47+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -38,11 +66,36 @@
       "summary": ""
     },
     {
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-10T07:25:32+00:00",
+      "age_days": 0.01,
+      "topics": [],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Building effective agent automations / claude.dev Blog",
       "url": "https://claude.dev/blog/building-effective-agent-automations/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T23:06:11+00:00",
-      "age_days": 1.34,
+      "age_days": 1.36,
       "topics": [
         "ai",
         "macro"
@@ -70,7 +123,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T05:50:42.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -95,7 +148,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T02:19:53.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -116,11 +169,36 @@
       "summary": "Time 2026-10-10 02:00:42 UTC 2026-10-10 02:00:42 UTC at epicenter Location 1.416°N 126.360°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.9 - 10 km SSW of Cañas, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-10T06:36:08+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 21.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.6 - 10 km S of Río Grande, Panama",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T02:05:30+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -145,7 +223,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T01:42:06+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -170,7 +248,7 @@
       "url": "https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-10T03:27:57+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "macro"
       ],
@@ -194,7 +272,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:41:20.724+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -219,7 +297,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-10T04:44:06+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -237,81 +315,6 @@
         "momentum delta +3"
       ],
       "summary": ""
-    },
-    {
-      "title": "M 5.1 - 133 km WNW of Ternate, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-04T16:56:25+00:00",
-      "age_days": 35.6,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.39,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -5.1 for 35.6d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.7 - 26 km S of Pedasí, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-10T06:58:49.040+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10, 9.9"
-      ],
-      "summary": "Time 2026-10-10 06:27:09 UTC 2026-10-10 06:27:09 UTC at epicenter Location 7.297°N 79.983°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.9 - 26 km SSE of Pedasí, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d7",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-10T06:48:43.040+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10, 9.9"
-      ],
-      "summary": "Time 2026-10-10 06:30:03 UTC 2026-10-10 06:30:03 UTC at epicenter Location 7.300°N 79.969°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
@@ -323,8 +326,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 3
+      "strong": 12
     }
   }
 }

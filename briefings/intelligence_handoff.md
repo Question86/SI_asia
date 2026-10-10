@@ -1,28 +1,48 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-10T07:19:10Z_
+_Generated: 2026-10-10T07:43:32Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / claude.dev Blog” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
+Stärkste Dynamik nach Gate-Recheck: “anthropics/knowledge-work-plugins” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
 
 ## Top Dynamics
+
+### anthropics/knowledge-work-plugins
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-10-10T07:24:57+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, code, security high-signal: rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
+- Quelle: https://github.com/anthropics/knowledge-work-plugins
 
 ### Building effective agent automations / claude.dev Blog
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-10T01:01:47+00:00` / age_days `0.26`
+- Published: `2026-10-10T01:01:47+00:00` / age_days `0.28`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://claude.dev/blog/building-effective-agent-automations/
 
+### anthropics/knowledge-work-plugins
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-10T07:25:32+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://github.com/anthropics/knowledge-work-plugins
+
 ### Building effective agent automations / claude.dev Blog
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-08T23:06:11+00:00` / age_days `1.34`
+- Published: `2026-10-08T23:06:11+00:00` / age_days `1.36`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: actively, active, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -32,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / c
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-10T05:50:42.040+00:00` / age_days `0.06`
+- Published: `2026-10-10T05:50:42.040+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,17 +62,27 @@ Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / c
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-10T02:19:53.040+00:00` / age_days `0.21`
+- Published: `2026-10-10T02:19:53.040+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs
 
+### M 4.9 - 10 km SSW of Cañas, Panama
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `21.5`
+- Published: `2026-10-10T06:36:08+00:00` / age_days `0.05`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d2
+
 ### M 4.6 - 10 km S of Río Grande, Panama
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.5`
-- Published: `2026-10-10T02:05:30+00:00` / age_days `0.22`
+- Published: `2026-10-10T02:05:30+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
@@ -62,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / c
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.5`
-- Published: `2026-10-10T01:42:06+00:00` / age_days `0.23`
+- Published: `2026-10-10T01:42:06+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
@@ -72,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / c
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-10-10T03:27:57+00:00` / age_days `0.16`
+- Published: `2026-10-10T03:27:57+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / c
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-10-10T04:41:20.724+00:00` / age_days `0.11`
+- Published: `2026-10-10T04:41:20.724+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,40 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Building effective agent automations / c
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.5`
-- Published: `2026-10-10T04:44:06+00:00` / age_days `0.11`
+- Published: `2026-10-10T04:44:06+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf
-
-### M 5.1 - 133 km WNW of Ternate, Indonesia
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.39`
-- Published: `2026-09-04T16:56:25+00:00` / age_days `35.6`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -5.1 for 35.6d old signal
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs
-
-### M 4.7 - 26 km S of Pedasí, Panama
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-10-10T06:58:49.040+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10, 9.9
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d5
-
-### M 4.9 - 26 km SSE of Pedasí, Panama
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-10-10T06:48:43.040+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10, 9.9
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d7
 
 END OF DOCUMENT
