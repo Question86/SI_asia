@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-10T23:03:03+00:00_
+_Generiert: 2026-10-10T23:21:44+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „New controls and chat improvements in Copilot for JetBrains“ aus GitHub Changelog Atom (Score 16, risk).
+43 neue relevante Treffer. Stärkstes Signal: „New controls and chat improvements in Copilot for JetBrains“ aus GitHub Changelog Atom (Score 16, risk).
 
 ## Priorität Hoch
 
