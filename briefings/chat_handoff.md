@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-10T09:10:20+00:00_
+_Generated: 2026-10-10T09:28:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `27`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-10T09:10:20+00:00_
 - url: https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/
 - summary: Across 231 Canadian publishers, the outlets that accept restricted categories charge less than half as much for ordinary articles. That discount measures who has already left the room, and founders in crypto, lending and gaming are shopping in that half witho…
 
-### 8. M 4.5 - 61 km N of Hihifo, Tonga
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-10T08:58:29.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dm
-- summary: Time 2026-10-10 08:38:50 UTC 2026-10-10 08:38:50 UTC at epicenter Location 15.397°S 173.782°W Depth 79.42 km (49.35 mi)
+### 8. bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-10T01:47:07+00:00`
+- url: https://future-architect.github.io/articles/20261009a/
+- summary: はじめにみなさんは業務フローを書いたことはあるでしょうか。 業務フローは、ある業務を誰がどの順番で進めるかを図にしたものです。申請者が申請を登録し、承認者が承認し、購買担当が発注する、といった手順を担当者ごとのレーンに分け、矢印でつなぎます。システムの開発現場ではグランドデザインや要件定義などの工...
 
 END OF DOCUMENT

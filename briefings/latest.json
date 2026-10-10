@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T09:10:20+00:00",
-  "run_id": "2026-10-10T09:10:20+00:00",
+  "generated_at": "2026-10-10T09:28:03+00:00",
+  "run_id": "2026-10-10T09:28:03+00:00",
   "date": "2026-10-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 25
+      "configured_public_sources_only": 27
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "new_relevant_findings": 2,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 4,
-    "observe": 21,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -233,6 +233,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ce3a367204f63b3536a5"
+      },
+      {
+        "title": "bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ",
+        "url": "https://future-architect.github.io/articles/20261009a/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-10T01:47:07+00:00",
+        "fetched_at": "2026-10-10T09:27:33+00:00",
+        "summary": "はじめにみなさんは業務フローを書いたことはあるでしょうか。 業務フローは、ある業務を誰がどの順番で進めるかを図にしたものです。申請者が申請を登録し、承認者が承認し、購買担当が発注する、といった手順を担当者ごとのレーンに分け、矢印でつなぎます。システムの開発現場ではグランドデザインや要件定義などの工...",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b3ac831a80f6bce10b25"
       },
       {
         "title": "M 4.5 - 61 km N of Hihifo, Tonga",
@@ -631,6 +654,28 @@
         "id": "8d640d7ef6970d5517cb"
       },
       {
+        "title": "事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business",
+        "url": "https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-10T01:29:35+00:00",
+        "fetched_at": "2026-10-10T09:27:33+00:00",
+        "summary": "Data Engineering Summit 2026（2026-10-09）で発表した資料です。 https://conference.findy-code.io/conferences/data-engineering-summit26/35/sessions/758 AI は誰でも…",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a425edcfa800d3bc180a"
+      },
+      {
         "title": "ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ",
         "url": "https://togetter.com/li/2756407",
         "source": "Hatena Bookmark Hotentry IT",
@@ -982,6 +1027,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ce3a367204f63b3536a5"
+    },
+    {
+      "title": "bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ",
+      "url": "https://future-architect.github.io/articles/20261009a/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-10T01:47:07+00:00",
+      "fetched_at": "2026-10-10T09:27:33+00:00",
+      "summary": "はじめにみなさんは業務フローを書いたことはあるでしょうか。 業務フローは、ある業務を誰がどの順番で進めるかを図にしたものです。申請者が申請を登録し、承認者が承認し、購買担当が発注する、といった手順を担当者ごとのレーンに分け、矢印でつなぎます。システムの開発現場ではグランドデザインや要件定義などの工...",
+      "matched_keywords": [
+        "AI/KI",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b3ac831a80f6bce10b25"
     },
     {
       "title": "M 4.5 - 61 km N of Hihifo, Tonga",
@@ -1380,6 +1448,28 @@
       "id": "8d640d7ef6970d5517cb"
     },
     {
+      "title": "事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business",
+      "url": "https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-10T01:29:35+00:00",
+      "fetched_at": "2026-10-10T09:27:33+00:00",
+      "summary": "Data Engineering Summit 2026（2026-10-09）で発表した資料です。 https://conference.findy-code.io/conferences/data-engineering-summit26/35/sessions/758 AI は誰でも…",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a425edcfa800d3bc180a"
+    },
+    {
       "title": "ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ",
       "url": "https://togetter.com/li/2756407",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1529,40 +1619,49 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.5 - 61 km N of Hihifo, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dm",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ",
+      "url": "https://future-architect.github.io/articles/20261009a/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-10T08:58:29.040+00:00",
-      "fetched_at": "2026-10-10T09:09:50+00:00",
-      "summary": "Time 2026-10-10 08:38:50 UTC 2026-10-10 08:38:50 UTC at epicenter Location 15.397°S 173.782°W Depth 79.42 km (49.35 mi)",
+      "published_at": "2026-10-10T01:47:07+00:00",
+      "fetched_at": "2026-10-10T09:27:33+00:00",
+      "summary": "はじめにみなさんは業務フローを書いたことはあるでしょうか。 業務フローは、ある業務を誰がどの順番で進めるかを図にしたものです。申請者が申請を登録し、承認者が承認し、購買担当が発注する、といった手順を担当者ごとのレーンに分け、矢印でつなぎます。システムの開発現場ではグランドデザインや要件定義などの工...",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "AI/KI",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b3ac831a80f6bce10b25"
+    },
+    {
+      "title": "事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business",
+      "url": "https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-10T01:29:35+00:00",
+      "fetched_at": "2026-10-10T09:27:33+00:00",
+      "summary": "Data Engineering Summit 2026（2026-10-09）で発表した資料です。 https://conference.findy-code.io/conferences/data-engineering-summit26/35/sessions/758 AI は誰でも…",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
       ],
       "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "75fcdc46a81270b2f424"
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a425edcfa800d3bc180a"
     }
   ],
   "source_errors": [],
