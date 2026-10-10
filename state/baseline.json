@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T06:59:57+00:00",
+  "generated_at": "2026-10-10T07:25:32+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -5081,9 +5081,8 @@
     },
     "domain:togetter.com": {
       "title": "ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -5112,12 +5111,13 @@
         9.2,
         9.2,
         9.2,
+        9.2,
         9.2
       ],
-      "rolling_average": 8.35,
+      "rolling_average": 8.42,
       "rolling_peak": 12.2,
       "last_score": 9.2,
-      "z_hint": 0.85
+      "z_hint": 0.78
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -7483,7 +7483,7 @@
     },
     "earthquake:indonesia:5.0": {
       "title": "M 5.0 - 141 km E of Bitung, Indonesia",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -7510,8 +7510,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7
@@ -8290,7 +8290,7 @@
     },
     "domain:www.techno-edge.net": {
       "title": "Windowsにもエアドロしたい。Raspberry PiでAirDrop受信機「LilBitDrop」を作った（CloseBox） | テクノエッジ TechnoEdge",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -8310,8 +8310,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -18966,7 +18966,7 @@
     },
     "earthquake:indonesia:5.1": {
       "title": "M 5.1 - 133 km WNW of Ternate, Indonesia",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -18977,7 +18977,6 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
         17.7,
         17.7,
@@ -18985,6 +18984,7 @@
         17.7,
         17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -67054,7 +67054,7 @@
     },
     "title:openai-anthropic": {
       "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -67073,16 +67073,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.27,
+      "rolling_average": 16.26,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:building-effective-agent-automations-claude-dev-blog": {
       "title": "Building effective agent automations / claude.dev Blog",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
         21.1,
         18.1,
@@ -67100,16 +67101,44 @@
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 18.28,
+      "rolling_average": 18.27,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "earthquake:m 4.7 - 10 km n of la tronosa, panama:4.7": {
       "title": "M 4.7 - 10 km N of La Tronosa, Panama",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
+      "network_scores": [
+        14.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7
+      ],
+      "rolling_average": 11.88,
+      "rolling_peak": 14.7,
+      "last_score": 11.7,
+      "z_hint": -0.18
+    },
+    "earthquake:m 4.6 - 10 km s of río grande, panama:4.6": {
+      "title": "M 4.6 - 10 km S of Río Grande, Panama",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -67133,34 +67162,9 @@
       "last_score": 11.7,
       "z_hint": -0.19
     },
-    "earthquake:m 4.6 - 10 km s of río grande, panama:4.6": {
-      "title": "M 4.6 - 10 km S of Río Grande, Panama",
-      "updated_at": "2026-10-10T06:59:57+00:00",
-      "network_scores": [
-        14.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7
-      ],
-      "rolling_average": 11.9,
-      "rolling_peak": 14.7,
-      "last_score": 11.7,
-      "z_hint": -0.2
-    },
     "title:led-movix": {
       "title": "日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -67175,16 +67179,64 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.31,
+      "rolling_average": 7.3,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "earthquake:m 5.1 - 1 km nne of tonosí, panama:5.1": {
       "title": "M 5.1 - 1 km NNE of Tonosí, Panama",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
+      "network_scores": [
+        14.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7
+      ],
+      "rolling_average": 11.91,
+      "rolling_peak": 14.7,
+      "last_score": 11.7,
+      "z_hint": -0.21
+    },
+    "title:half-market-will-not-take-your-money-access": {
+      "title": "Half the market will not take your money: The access problem for regulated startups",
+      "updated_at": "2026-10-10T07:25:32+00:00",
+      "network_scores": [
+        17.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1
+      ],
+      "rolling_average": 14.33,
+      "rolling_peak": 17.1,
+      "last_score": 14.1,
+      "z_hint": -0.23
+    },
+    "earthquake:m 4.5 - 18 km sse of río grande, panama:4.5": {
+      "title": "M 4.5 - 18 km SSE of Río Grande, Panama",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -67205,53 +67257,9 @@
       "last_score": 11.7,
       "z_hint": -0.23
     },
-    "title:half-market-will-not-take-your-money-access": {
-      "title": "Half the market will not take your money: The access problem for regulated startups",
-      "updated_at": "2026-10-10T06:59:57+00:00",
-      "network_scores": [
-        17.1,
-        14.1,
-        14.1,
-        14.1,
-        14.1,
-        14.1,
-        14.1,
-        14.1,
-        14.1,
-        14.1,
-        14.1,
-        14.1
-      ],
-      "rolling_average": 14.35,
-      "rolling_peak": 17.1,
-      "last_score": 14.1,
-      "z_hint": -0.25
-    },
-    "earthquake:m 4.5 - 18 km sse of río grande, panama:4.5": {
-      "title": "M 4.5 - 18 km SSE of Río Grande, Panama",
-      "updated_at": "2026-10-10T06:59:57+00:00",
-      "network_scores": [
-        14.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7
-      ],
-      "rolling_average": 11.95,
-      "rolling_peak": 14.7,
-      "last_score": 11.7,
-      "z_hint": -0.25
-    },
     "title:cloudflare-durable-objects": {
       "title": "CloudflareのDurable Objectsでデッドループして破産しないために知っておきたいこと",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -67264,16 +67272,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.35,
+      "rolling_average": 7.33,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "earthquake:m 5.3 - 41 km nne of yigo village, guam:5.3": {
       "title": "M 5.3 - 41 km NNE of Yigo Village, Guam",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -67283,16 +67292,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.03,
+      "rolling_average": 12.0,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "earthquake:m 4.7 - 8 km n of la tronosa, panama:4.7": {
       "title": "M 4.7 - 8 km N of La Tronosa, Panama",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -67302,16 +67312,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.03,
+      "rolling_average": 12.0,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "earthquake:m 6.0 - 7 km n of la tronosa, panama:6.0": {
       "title": "M 6.0 - 7 km N of La Tronosa, Panama",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
         18.7,
         15.7,
@@ -67320,16 +67331,17 @@
         15.7,
         15.7,
         15.7,
+        15.7,
         15.7
       ],
-      "rolling_average": 16.07,
+      "rolling_average": 16.03,
       "rolling_peak": 18.7,
       "last_score": 15.7,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "domain:enterprisecraftsmanship.com": {
       "title": "Domain model purity vs. domain model completeness (DDD Trilemma)",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -67338,16 +67350,17 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.48,
+      "rolling_average": 6.43,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "earthquake:m 4.5 - 9 km wnw of flores, panama:4.5": {
       "title": "M 4.5 - 9 km WNW of Flores, Panama",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -67355,16 +67368,30 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.13,
+      "rolling_average": 12.08,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "earthquake:m 4.9 - 10 km ssw of cañas, panama:4.9": {
       "title": "M 4.9 - 10 km SSW of Cañas, Panama",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
+      "network_scores": [
+        14.7,
+        11.7,
+        11.7
+      ],
+      "rolling_average": 12.7,
+      "rolling_peak": 14.7,
+      "last_score": 11.7,
+      "z_hint": -1.0
+    },
+    "earthquake:m 4.7 - 26 km s of pedasí, panama:4.7": {
+      "title": "M 4.7 - 26 km S of Pedasí, Panama",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
         14.7,
         11.7
@@ -67374,26 +67401,27 @@
       "last_score": 11.7,
       "z_hint": -1.5
     },
-    "earthquake:m 4.7 - 26 km s of pedasí, panama:4.7": {
-      "title": "M 4.7 - 26 km S of Pedasí, Panama",
-      "updated_at": "2026-10-10T06:59:57+00:00",
-      "network_scores": [
-        14.7
-      ],
-      "rolling_average": 14.7,
-      "rolling_peak": 14.7,
-      "last_score": 14.7,
-      "z_hint": 0.0
-    },
     "earthquake:m 4.9 - 26 km sse of pedasí, panama:4.9": {
       "title": "M 4.9 - 26 km SSE of Pedasí, Panama",
-      "updated_at": "2026-10-10T06:59:57+00:00",
+      "updated_at": "2026-10-10T07:25:32+00:00",
       "network_scores": [
-        14.7
+        14.7,
+        11.7
       ],
-      "rolling_average": 14.7,
+      "rolling_average": 13.2,
       "rolling_peak": 14.7,
-      "last_score": 14.7,
+      "last_score": 11.7,
+      "z_hint": -1.5
+    },
+    "github_repo:anthropics/knowledge-work-plugins": {
+      "title": "anthropics/knowledge-work-plugins",
+      "updated_at": "2026-10-10T07:25:32+00:00",
+      "network_scores": [
+        18.1
+      ],
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
+      "last_score": 18.1,
       "z_hint": 0.0
     }
   }

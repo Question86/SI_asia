@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-10T06:59:54+00:00_
+_Generiert: 2026-10-10T07:25:28+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
+23 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - YELLOW ShakeMap - VIII DYFI? - VI Time 2026-10-10 04:14:01 UTC 2026-10-10 04:14:01 UTC at epicenter Location 7.507°N 80.599°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **anthropics/knowledge-work-plugins** — Score 13, opportunity — [Quelle](https://github.com/anthropics/knowledge-work-plugins)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-10-10T07:24:57+00:00`
+  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code . Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Half the market will not take your money: The access problem for regulated startups** — Score 12, observation — [Quelle](https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-10T03:00:59+00:00`, fetched `2026-10-10T03:27:21+00:00`

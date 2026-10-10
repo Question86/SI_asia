@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-10T06:59:54+00:00_
+_Generated: 2026-10-10T07:25:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `23`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-10T06:59:54+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf
 - summary: PAGER - YELLOW ShakeMap - VIII DYFI? - VI Time 2026-10-10 04:14:01 UTC 2026-10-10 04:14:01 UTC at epicenter Location 7.507°N 80.599°W Depth 10.00 km (6.21 mi)
 
-### 6. Half the market will not take your money: The access problem for regulated startups
+### 6. anthropics/knowledge-work-plugins
+- source: GitHub Trending RSS All Languages Daily
+- score: `13`
+- published: `None`
+- url: https://github.com/anthropics/knowledge-work-plugins
+- summary: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code .…
+
+### 7. Half the market will not take your money: The access problem for regulated startups
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-10T03:00:59+00:00`
 - url: https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/
 - summary: Across 231 Canadian publishers, the outlets that accept restricted categories charge less than half as much for ordinary articles. That discount measures who has already left the room, and founders in crypto, lending and gaming are shopping in that half witho…
 
-### 7. M 4.7 - 26 km S of Pedasí, Panama
+### 8. M 4.7 - 26 km S of Pedasí, Panama
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-10T06:58:49.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d5
 - summary: Time 2026-10-10 06:27:09 UTC 2026-10-10 06:27:09 UTC at epicenter Location 7.297°N 79.983°W Depth 10.00 km (6.21 mi)
-
-### 8. M 4.9 - 26 km SSE of Pedasí, Panama
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-10T06:48:43.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d7
-- summary: Time 2026-10-10 06:30:03 UTC 2026-10-10 06:30:03 UTC at epicenter Location 7.300°N 79.969°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

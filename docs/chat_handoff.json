@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-10T06:59:54+00:00",
+  "generated_at": "2026-10-10T07:25:29+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 1,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
     "medium": 4,
-    "observe": 18
+    "observe": 19
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "anthropics/knowledge-work-plugins",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 13,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code .…",
+      "section": "observe"
+    },
+    {
       "title": "Half the market will not take your money: The access problem for regulated startups",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d5",
       "summary": "Time 2026-10-10 06:27:09 UTC 2026-10-10 06:27:09 UTC at epicenter Location 7.297°N 79.983°W Depth 10.00 km (6.21 mi)",
       "section": "observe"
-    },
-    {
-      "title": "M 4.9 - 26 km SSE of Pedasí, Panama",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-10T06:48:43.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1d7",
-      "summary": "Time 2026-10-10 06:30:03 UTC 2026-10-10 06:30:03 UTC at epicenter Location 7.300°N 79.969°W Depth 10.00 km (6.21 mi)",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Building effective agent automations / claude.dev Blog” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Building effective agent automations / claude.dev Blog",
-        "url": "https://claude.dev/blog/building-effective-agent-automations/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-10T01:01:47+00:00",
-        "age_days": 0.26,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Building effective agent automations / claude.dev Blog",
-        "url": "https://claude.dev/blog/building-effective-agent-automations/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-08T23:06:11+00:00",
-        "age_days": 1.34,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 29.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: actively, active",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "As AI accelerates our work, it's getting harder to keep up. At Anthropic, simple agent automations are frequently used to help. They often run on a schedule, gather context in the background, and proactively tell us what we need to know. But it’s difficult to build effective agent automations: th..."
-      },
-      {
-        "title": "M 5.0 - 141 km E of Bitung, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-10T05:50:42.040+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-10-10 05:32:01 UTC 2026-10-10 05:32:01 UTC at epicenter Location 1.625°N 126.389°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 5.1 - 133 km WNW of Ternate, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-10T02:19:53.040+00:00",
-        "age_days": 0.21,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-10-10 02:00:42 UTC 2026-10-10 02:00:42 UTC at epicenter Location 1.416°N 126.360°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 4.6 - 10 km S of Río Grande, Panama",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-10T02:05:30+00:00",
-        "age_days": 0.22,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 21.5,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: 10"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
