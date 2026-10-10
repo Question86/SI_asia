@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T01:42:06+00:00",
-  "today_file_total": 4,
+  "generated_at": "2026-10-10T02:05:30+00:00",
+  "today_file_total": 6,
   "current_clusters": [
     {
       "key": "title:building-effective-agent-automations-claude-dev-blog",
@@ -49,8 +49,8 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 4.7 - 10 km n of la tronosa, panama:4.7",
-      "title": "M 4.7 - 10 km N of La Tronosa, Panama",
+      "key": "earthquake:m 4.6 - 10 km s of río grande, panama:4.6",
+      "title": "M 4.6 - 10 km S of Río Grande, Panama",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -58,7 +58,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -75,7 +75,7 @@
     },
     {
       "key": "domain:togetter.com",
-      "title": "知り合いがAIに作らせたクローラーに大量のサイトを読み込ませたら、プロンプトインジェクションを受けてPCがマルウェアに感染「こういう事故はこれから増えていく気が…」",
+      "title": "ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -83,18 +83,44 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://togetter.com/li/2756407",
         "https://togetter.com/li/2756400"
       ],
-      "finding_count": 1,
+      "finding_count": 2,
       "max_score": 5,
-      "credibility_total": 1.05,
+      "credibility_total": 2.1,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 10.1,
+      "network_score": 12.2,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 4.7 - 10 km n of la tronosa, panama:4.7",
+      "title": "M 4.7 - 10 km N of La Tronosa, Panama",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     }
   ]
 }

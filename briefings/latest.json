@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T01:42:04+00:00",
-  "run_id": "2026-10-10T01:42:04+00:00",
+  "generated_at": "2026-10-10T02:05:28+00:00",
+  "run_id": "2026-10-10T02:05:28+00:00",
   "date": "2026-10-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 2,
-    "observe": 2,
+    "observe": 4,
     "source_errors": 0
   },
   "sections": {
@@ -78,6 +78,42 @@
     ],
     "observe": [
       {
+        "title": "M 4.6 - 10 km S of Río Grande, Panama",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-10T01:54:37.040+00:00",
+        "fetched_at": "2026-10-10T02:04:59+00:00",
+        "summary": "Time 2026-10-10 01:35:47 UTC 2026-10-10 01:35:47 UTC at epicenter Location 7.627°N 81.324°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "8c23c22146988df13b99"
+      },
+      {
         "title": "M 4.7 - 10 km N of La Tronosa, Panama",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -112,6 +148,27 @@
           "LOW"
         ],
         "id": "8d640d7ef6970d5517cb"
+      },
+      {
+        "title": "ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ",
+        "url": "https://togetter.com/li/2756407",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-10T00:50:20+00:00",
+        "fetched_at": "2026-10-10T02:04:59+00:00",
+        "summary": "はるか/C108土曜東2\"ツ07b\"＆日曜西1\"と20b\" @YT_HARUKA ウチのAIは有料フォント買いましょうかとか言い出したからお前にそんな権限は無いからね？フリーフォント探そうね？お財布は預けて無いよ？ って釘刺したら、なんかフォント自作しよったわ 2026-10-09 15:10:19",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6ae02a2ac45ca0521d82"
       },
       {
         "title": "知り合いがAIに作らせたクローラーに大量のサイトを読み込ませたら、プロンプトインジェクションを受けてPCがマルウェアに感染「こういう事故はこれから増えていく気が…」",
@@ -184,6 +241,42 @@
       "id": "e4d5a0c4e2e347ece3c3"
     },
     {
+      "title": "M 4.6 - 10 km S of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-10T01:54:37.040+00:00",
+      "fetched_at": "2026-10-10T02:04:59+00:00",
+      "summary": "Time 2026-10-10 01:35:47 UTC 2026-10-10 01:35:47 UTC at epicenter Location 7.627°N 81.324°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8c23c22146988df13b99"
+    },
+    {
       "title": "M 4.7 - 10 km N of La Tronosa, Panama",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -218,6 +311,27 @@
         "LOW"
       ],
       "id": "8d640d7ef6970d5517cb"
+    },
+    {
+      "title": "ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ",
+      "url": "https://togetter.com/li/2756407",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-10T00:50:20+00:00",
+      "fetched_at": "2026-10-10T02:04:59+00:00",
+      "summary": "はるか/C108土曜東2\"ツ07b\"＆日曜西1\"と20b\" @YT_HARUKA ウチのAIは有料フォント買いましょうかとか言い出したからお前にそんな権限は無いからね？フリーフォント探そうね？お財布は預けて無いよ？ って釘刺したら、なんかフォント自作しよったわ 2026-10-09 15:10:19",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6ae02a2ac45ca0521d82"
     },
     {
       "title": "知り合いがAIに作らせたクローラーに大量のサイトを読み込ませたら、プロンプトインジェクションを受けてPCがマルウェアに感染「こういう事故はこれから増えていく気が…」",
@@ -243,13 +357,13 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.7 - 10 km N of La Tronosa, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
+      "title": "M 4.6 - 10 km S of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-10T01:36:54.248+00:00",
-      "fetched_at": "2026-10-10T01:41:27+00:00",
-      "summary": "DYFI? - III Time 2026-10-10 01:11:47 UTC 2026-10-10 01:11:47 UTC at epicenter Location 7.530°N 80.586°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-10-10T01:54:37.040+00:00",
+      "fetched_at": "2026-10-10T02:04:59+00:00",
+      "summary": "Time 2026-10-10 01:35:47 UTC 2026-10-10 01:35:47 UTC at epicenter Location 7.627°N 81.324°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -276,16 +390,16 @@
         "HD",
         "LOW"
       ],
-      "id": "8d640d7ef6970d5517cb"
+      "id": "8c23c22146988df13b99"
     },
     {
-      "title": "知り合いがAIに作らせたクローラーに大量のサイトを読み込ませたら、プロンプトインジェクションを受けてPCがマルウェアに感染「こういう事故はこれから増えていく気が…」",
-      "url": "https://togetter.com/li/2756400",
+      "title": "ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ",
+      "url": "https://togetter.com/li/2756407",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-09T23:42:54+00:00",
-      "fetched_at": "2026-10-10T01:41:27+00:00",
-      "summary": "Mr.Genki | marketing & webdesign @genki_iii 知り合いがAIに作らせたクローラーに大量のサイトを読ませたら、プロンプトインジェクションを食らってPCがマルウェアに感染してた。AIで誰でも簡単に作れるようになった分、開発やセキュリティの知識がないまま動かす人も増えていて、こういう事故はこれから増えていく気...",
+      "published_at": "2026-10-10T00:50:20+00:00",
+      "fetched_at": "2026-10-10T02:04:59+00:00",
+      "summary": "はるか/C108土曜東2\"ツ07b\"＆日曜西1\"と20b\" @YT_HARUKA ウチのAIは有料フォント買いましょうかとか言い出したからお前にそんな権限は無いからね？フリーフォント探そうね？お財布は預けて無いよ？ って釘刺したら、なんかフォント自作しよったわ 2026-10-09 15:10:19",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -297,7 +411,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2e642c42f77c01368516"
+      "id": "6ae02a2ac45ca0521d82"
     }
   ],
   "source_errors": [],
