@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T00:02:38+00:00",
-  "run_id": "2026-10-10T00:02:38+00:00",
+  "generated_at": "2026-10-10T01:01:44+00:00",
+  "run_id": "2026-10-10T01:01:44+00:00",
   "date": "2026-10-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 2
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,16 +19,40 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
-    "medium": 1,
+    "medium": 2,
     "observe": 0,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Building effective agent automations / claude.dev Blog",
+        "url": "https://claude.dev/blog/building-effective-agent-automations/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-08T23:06:11+00:00",
+        "fetched_at": "2026-10-10T01:01:12+00:00",
+        "summary": "As AI accelerates our work, it's getting harder to keep up. At Anthropic, simple agent automations are frequently used to help. They often run on a schedule, gather context in the background, and proactively tell us what we need to know. But it’s difficult to build effective agent automations: th...",
+        "matched_keywords": [
+          "agent",
+          "AI/KI",
+          "Automatisierung",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "AI/KI (+3.0); Automatisierung (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "526d51c475822b0dc29e"
+      },
       {
         "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
         "url": "https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/",
@@ -56,6 +80,30 @@
   },
   "findings": [
     {
+      "title": "Building effective agent automations / claude.dev Blog",
+      "url": "https://claude.dev/blog/building-effective-agent-automations/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-08T23:06:11+00:00",
+      "fetched_at": "2026-10-10T01:01:12+00:00",
+      "summary": "As AI accelerates our work, it's getting harder to keep up. At Anthropic, simple agent automations are frequently used to help. They often run on a schedule, gather context in the background, and proactively tell us what we need to know. But it’s difficult to build effective agent automations: th...",
+      "matched_keywords": [
+        "agent",
+        "AI/KI",
+        "Automatisierung",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.0); Automatisierung (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "526d51c475822b0dc29e"
+    },
+    {
       "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
       "url": "https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -80,26 +128,28 @@
   ],
   "new_findings": [
     {
-      "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
-      "url": "https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/",
+      "title": "Building effective agent automations / claude.dev Blog",
+      "url": "https://claude.dev/blog/building-effective-agent-automations/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-09T11:35:53+00:00",
-      "fetched_at": "2026-10-10T00:02:04+00:00",
-      "summary": "アメリカのAI勢力図が変わるかもしれません。 無名のAIスタートアップが、「企業が自前のAIを作れる」サービスを強みに、大手AI企業のドル箱である法人ビジネスに挑もうとしています。 いまやAI企業の収入源は法人向けプランに OpenAIとAnthropicの主な収入源は、APIや法人向けサブスクリプションの販売です。 CNBCによ...",
+      "published_at": "2026-10-08T23:06:11+00:00",
+      "fetched_at": "2026-10-10T01:01:12+00:00",
+      "summary": "As AI accelerates our work, it's getting harder to keep up. At Anthropic, simple agent automations are frequently used to help. They often run on a schedule, gather context in the background, and proactively tell us what we need to know. But it’s difficult to build effective agent automations: th...",
       "matched_keywords": [
+        "agent",
+        "AI/KI",
+        "Automatisierung",
         "Hatena",
-        "hotentry",
-        "OpenAI"
+        "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.0); Automatisierung (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e4d5a0c4e2e347ece3c3"
+      "id": "526d51c475822b0dc29e"
     }
   ],
   "source_errors": [],

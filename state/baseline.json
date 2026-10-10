@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T00:02:41+00:00",
+  "generated_at": "2026-10-10T01:01:47+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -67054,13 +67054,25 @@
     },
     "title:openai-anthropic": {
       "title": "OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン",
-      "updated_at": "2026-10-10T00:02:41+00:00",
+      "updated_at": "2026-10-10T01:01:47+00:00",
       "network_scores": [
-        19.1
+        19.1,
+        16.1
       ],
-      "rolling_average": 19.1,
+      "rolling_average": 17.6,
       "rolling_peak": 19.1,
-      "last_score": 19.1,
+      "last_score": 16.1,
+      "z_hint": -1.5
+    },
+    "title:building-effective-agent-automations-claude-dev-blog": {
+      "title": "Building effective agent automations / claude.dev Blog",
+      "updated_at": "2026-10-10T01:01:47+00:00",
+      "network_scores": [
+        21.1
+      ],
+      "rolling_average": 21.1,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
       "z_hint": 0.0
     }
   }
