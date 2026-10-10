@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-10-10T18:28:27+00:00",
+  "generated_at": "2026-10-10T19:09:03+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 36,
-    "clusters": 35,
+    "findings": 37,
+    "clusters": 36,
     "cross_source_confrmed": 0,
-    "hot": 0,
-    "early_signals": 0,
+    "hot": 1,
+    "early_signals": 1,
     "dominance_penalized": 18
   },
   "clusters": [
+    {
+      "key": "title:controls-chat-improvements-copilot-jetbrains",
+      "title": "New controls and chat improvements in Copilot for JetBrains",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 25.5,
+      "hot": true,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 21.1,
+      "ranking_score": 25.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-10T19:09:03+00:00"
+    },
     {
       "key": "title:building-effective-agent-automations-claude-dev-blog",
       "title": "Building effective agent automations / claude.dev Blog",
@@ -1398,7 +1438,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-10T18:28:27Z",
+    "generated_at": "2026-10-10T19:09:03Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

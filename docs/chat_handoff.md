@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-10T18:28:23+00:00_
+_Generated: 2026-10-10T19:09:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `36`
+- findings: `37`
 
 ## Top Signals
 
-### 1. Building effective agent automations / claude.dev Blog
+### 1. New controls and chat improvements in Copilot for JetBrains
+- source: GitHub Changelog Atom
+- score: `16`
+- published: `2026-10-10T18:53:39+00:00`
+- url: https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains
+- summary: This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and… The post New controls and chat improvements in Copilot for Jet…
+
+### 2. Building effective agent automations / claude.dev Blog
 - source: Hatena Bookmark Hotentry IT
 - score: `16`
 - published: `2026-10-08T23:06:11+00:00`
 - url: https://claude.dev/blog/building-effective-agent-automations/
 - summary: As AI accelerates our work, it's getting harder to keep up. At Anthropic, simple agent automations are frequently used to help. They often run on a schedule, gather context in the background, and proactively tell us what we need to know. But it’s difficult to…
 
-### 2. M 5.0 - 141 km E of Bitung, Indonesia
+### 3. M 5.0 - 141 km E of Bitung, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-10T05:50:42.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv
 - summary: Time 2026-10-10 05:32:01 UTC 2026-10-10 05:32:01 UTC at epicenter Location 1.625°N 126.389°E Depth 10.00 km (6.21 mi)
 
-### 3. M 5.1 - 133 km WNW of Ternate, Indonesia
+### 4. M 5.1 - 133 km WNW of Ternate, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-10T02:19:53.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs
 - summary: Time 2026-10-10 02:00:42 UTC 2026-10-10 02:00:42 UTC at epicenter Location 1.416°N 126.360°E Depth 10.00 km (6.21 mi)
-
-### 4. OpenAIとAnthropicに新ライバル出現。中国ではなく地元アメリカから | ギズモード・ジャパン
-- source: Hatena Bookmark Hotentry IT
-- score: `14`
-- published: `2026-10-09T11:35:53+00:00`
-- url: https://www.gizmodo.jp/article/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china/
-- summary: アメリカのAI勢力図が変わるかもしれません。 無名のAIスタートアップが、「企業が自前のAIを作れる」サービスを強みに、大手AI企業のドル箱である法人ビジネスに挑もうとしています。 いまやAI企業の収入源は法人向けプランに OpenAIとAnthropicの主な収入源は、APIや法人向けサブスクリプションの販売です。 CNBCによ...
 
 ### 5. M 6.0 - 7 km N of La Tronosa, Panama
 - source: USGS M4.5+ Earthquakes Past Hour

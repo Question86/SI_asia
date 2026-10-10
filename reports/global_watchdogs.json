@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T18:28:27+00:00",
+  "generated_at": "2026-10-10T19:09:03+00:00",
   "sections": {
     "global_security": [
       {
@@ -161,21 +161,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000151",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.8 - 1 km S of El Cacao, Panama",
-        "summary": "M5.8 - 1 km S of El Cacao, Panama. PAGER alert: yellow. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18x",
-        "published_at": "2026-10-09T18:37:46+00:00",
-        "metrics": {
-          "mag": 5.8,
-          "alert": "yellow",
-          "sig": 658.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
