@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T02:38:41+00:00",
+  "generated_at": "2026-10-10T02:59:09+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1613,7 +1613,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T16:56:25+00:00",
-      "last_seen_at": "2026-10-10T02:38:24+00:00",
+      "last_seen_at": "2026-10-10T02:58:54+00:00",
       "status": "active"
     },
     {
@@ -4622,7 +4622,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T01:42:06+00:00",
-      "last_seen_at": "2026-10-10T02:38:24+00:00",
+      "last_seen_at": "2026-10-10T02:58:54+00:00",
       "status": "active"
     },
     {
@@ -5812,7 +5812,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-10T02:05:30+00:00",
-      "last_seen_at": "2026-10-10T02:38:24+00:00",
+      "last_seen_at": "2026-10-10T02:58:54+00:00",
       "status": "active"
     },
     {
@@ -7004,6 +7004,23 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_584b2343d7f599876bf5",
+      "title": "M 5.1 - 1 km NNE of Tonosí, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-10T02:58:54+00:00",
+      "last_seen_at": "2026-10-10T02:58:54+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -10215,7 +10232,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T01:01:47+00:00",
-      "last_seen_at": "2026-10-10T02:38:24+00:00",
+      "last_seen_at": "2026-10-10T02:58:54+00:00",
       "status": "active"
     },
     {
@@ -10912,7 +10929,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-10T00:02:41+00:00",
-      "last_seen_at": "2026-10-10T02:38:24+00:00",
+      "last_seen_at": "2026-10-10T02:58:54+00:00",
       "status": "active"
     },
     {
@@ -20077,7 +20094,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-10-10T02:38:24+00:00",
+      "last_seen_at": "2026-10-10T02:58:54+00:00",
       "status": "active"
     },
     {
@@ -20266,6 +20283,23 @@
       "first_seen_at": "2026-09-02T01:10:24+00:00",
       "last_seen_at": "2026-10-05T06:51:49+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_31cbe9152863d4407f96",
+      "title": "日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-10T02:38:24+00:00",
+      "last_seen_at": "2026-10-10T02:58:54+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_3274a2909633ddeb2472",
@@ -22986,23 +23020,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_31cbe9152863d4407f96",
-      "title": "日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-10T02:38:24+00:00",
-      "last_seen_at": "2026-10-10T02:38:24+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
