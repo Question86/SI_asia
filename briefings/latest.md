@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-10T12:52:52+00:00_
+_Generiert: 2026-10-10T13:01:30+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+32 neue relevante Treffer. Stärkstes Signal: „Building effective agent automations / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -206,7 +206,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `cert_fr_alerts` (rss): HTTPSConnectionPool(host='www.cert.ssi.gouv.fr', port=443): Max retries exceeded with url: /alerte/feed/ (Caused by NewConnectionError("HTTPSConnection(host='www.cert.ssi.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
