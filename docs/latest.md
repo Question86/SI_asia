@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-10T20:56:20+00:00_
+_Generiert: 2026-10-10T21:06:53+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „New controls and chat improvements in Copilot for JetBrains“ aus GitHub Changelog Atom (Score 16, risk).
+38 neue relevante Treffer. Stärkstes Signal: „New controls and chat improvements in Copilot for JetBrains“ aus GitHub Changelog Atom (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: はじめにみなさんは業務フローを書いたことはあるでしょうか。 業務フローは、ある業務を誰がどの順番で進めるかを図にしたものです。申請者が申請を登録し、承認者が承認し、購買担当が発注する、といった手順を担当者ごとのレーンに分け、矢印でつなぎます。システムの開発現場ではグランドデザインや要件定義などの工...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gm)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-10T21:03:02.040+00:00`, fetched `2026-10-10T21:06:10+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-10 20:35:48 UTC 2026-10-10 20:35:48 UTC at epicenter Location 31.235°S 178.975°W Depth 117.71 km (73.14 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.7 - 2 km WNW of El Cacao, Panama** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1fk)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-10T16:49:10.040+00:00`, fetched `2026-10-10T16:49:15+00:00`
@@ -104,15 +113,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-10 16:05:42 UTC 2026-10-10 16:05:42 UTC at epicenter Location 7.460°N 80.428°W Depth 13.52 km (8.40 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - 11 km SSW of Tebario, Panama** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1fj)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-10T16:30:27.040+00:00`, fetched `2026-10-10T16:36:40+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-10 15:58:19 UTC 2026-10-10 15:58:19 UTC at epicenter Location 7.623°N 81.011°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business** — Score 9, opportunity — [Quelle](https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
