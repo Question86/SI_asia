@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-11T01:45:35+00:00_
+_Generated: 2026-10-11T02:09:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `3`
 
 ## Top Signals
 
@@ -15,7 +15,14 @@ _Generated: 2026-10-11T01:45:35+00:00_
 - url: https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/
 - summary: 2026年5月19日の記事を編集して再掲載しています。 Google Chromeが、ユーザーの同意なしに約4GBものAIモデルをデバイスに自動的にダウンロード・保存させているという件が判明しました。「OptGuideOnDeviceModel」というフォルダの中に、こっそり4GBも忍び込ませいるようです。 「That Privacy Guy（プライバシー・ガイ...
 
-### 2. 無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能
+### 2. M 5.0 - 3 km NW of Flores, Panama
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-11T02:06:11.382+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw
+- summary: DYFI? - III Time 2026-10-11 01:50:52 UTC 2026-10-11 01:50:52 UTC at epicenter Location 7.514°N 80.428°W Depth 10.00 km (6.21 mi)
+
+### 3. 無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能
 - source: Hatena Bookmark Hotentry IT
 - score: `9`
 - published: `2026-10-10T09:16:40+00:00`
