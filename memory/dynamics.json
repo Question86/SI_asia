@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-11T11:41:37Z",
+  "generated_at": "2026-10-11T11:51:45Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 31,
+    "dynamics": 33,
     "bands": {
       "krass": 1,
       "strong": 3,
-      "watch": 13,
+      "watch": 15,
       "quiet": 14
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 13,
+      "watch": 15,
       "quiet": 14
     }
   },
@@ -101,7 +101,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T05:51:16+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -126,7 +126,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T07:19:03+00:00",
-      "age_days": 19.18,
+      "age_days": 19.19,
       "topics": [
         "general"
       ],
@@ -178,7 +178,7 @@
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T01:07:05+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -200,11 +200,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.6 - 82 km E of Petropavlovsk-Kamchatsky, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1k3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-11T11:36:41.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10, 9.8"
+      ],
+      "summary": "Time 2026-10-11 11:18:27 UTC 2026-10-11 11:18:27 UTC at epicenter Location 53.079°N 159.862°E Depth 68.68 km (42.68 mi)"
+    },
+    {
       "title": "M 4.6 - 260 km WNW of Houma, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T10:26:30.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -229,7 +254,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T07:46:37.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -254,7 +279,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T05:42:11.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -279,7 +304,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:06:11.382+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -397,6 +422,30 @@
       "summary": ""
     },
     {
+      "title": "M 4.6 - 82 km E of Petropavlovsk-Kamchatsky, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1k3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-11T11:45:35+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -425,7 +474,7 @@
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T22:12:05+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -499,7 +548,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002038/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T05:13:38+00:00",
-      "age_days": 1.27,
+      "age_days": 1.28,
       "topics": [
         "general"
       ],
@@ -548,7 +597,7 @@
       "url": "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T05:37:51+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -574,7 +623,7 @@
       "url": "https://gihyo.jp/book/2026/978-4-297-16033-3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T08:08:24+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -600,7 +649,7 @@
       "url": "https://gigazine.net/news/20261010-readest/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T09:16:40+00:00",
-      "age_days": 1.1,
+      "age_days": 1.11,
       "topics": [
         "ai"
       ],
@@ -630,19 +679,19 @@
       "topics": [
         "ai"
       ],
-      "dynamics_score": 5.43,
+      "dynamics_score": 5.25,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.39,
+      "baseline_z_hint": 0.23,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.39",
+        "baseline z_hint 0.23",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 114.0d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -654,7 +703,7 @@
       "url": "https://gihyo.jp/book/2026/978-4-297-16033-3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T04:01:51+00:00",
-      "age_days": 5.32,
+      "age_days": 5.33,
       "topics": [
         "ai"
       ],
@@ -680,7 +729,7 @@
       "url": "https://togetter.com/li/2756720",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T23:55:32+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -705,23 +754,23 @@
       "url": "https://gigazine.net/news/20261010-readest/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 114.4,
+      "age_days": 114.41,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 3.12,
+      "dynamics_score": 3.05,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.02,
+      "baseline_z_hint": 0.95,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.02",
+        "baseline z_hint 0.95",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 114.4d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -760,7 +809,7 @@
       "url": "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T01:59:35+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -785,7 +834,7 @@
       "url": "https://note.com/lytton_life/n/n838e58f5aff8",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-05-29T04:52:09+00:00",
-      "age_days": 135.28,
+      "age_days": 135.29,
       "topics": [
         "ai"
       ],
