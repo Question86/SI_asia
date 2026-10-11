@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T17:23:54+00:00",
+  "generated_at": "2026-10-11T17:35:28+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -2841,6 +2841,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_2df2558073f0d3a2d2c6",
+      "title": "M 5.2 - 101 km SSW of Severo-Kuril’sk, Russia",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_2e0ec2ac3e5e033abc61",
       "title": "M 5.1 - 171 km SE of Lata, Solomon Islands",
       "deduplicated_buckets": 0,
@@ -5104,7 +5115,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_53a1da19d8eec77cc200",
