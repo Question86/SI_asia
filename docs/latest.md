@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-11T07:01:00+00:00_
+_Generiert: 2026-10-11T07:27:32+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+11 neue relevante Treffer. Stärkstes Signal: „Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -86,6 +86,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AI にコードを書かせる時代に、エンジニアは何の技能を残しておけばいいのか。 航空業界の制度を一次資料でたどると、答えは「自分で書く力」よりも「自動化から引き継ぐ力」のほうに寄っていきました。パイロットは普段から手で操縦しているわけではありません。それでも、自動操縦が外れたときに機体を立て直せる状態...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **storytold/artcraft** — Score 4, observation — [Quelle](https://github.com/storytold/artcraft)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-10-11T07:27:03+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
+  - Kurz: ArtCraft is an intentional crafting engine for artists, designers, and filmmakers https://getartcraft.com ArtCraft The IDE for artists. https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 Watch the two-minute ArtCraft demo on YouTube Download ArtCraft · GitHub releases · Build from source ArtCraft is the IDE for interactive AI image and video creation. Compose in 2D, stage scenes in 3D, a…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
