@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-11T14:31:38Z",
+  "generated_at": "2026-10-11T14:45:20Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “storytold/artcraft” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/storytold/artcraft",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-11T07:27:03+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -43,7 +43,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ka",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T12:31:54.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -68,7 +68,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T03:49:32.040+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -118,7 +118,7 @@
       "url": "https://slides.yusu.ke/honoconf-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T12:33:03+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [],
       "dynamics_score": 22.0,
       "raw_band": "strong",
@@ -142,7 +142,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T05:51:16+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -163,11 +163,36 @@
       "summary": ""
     },
     {
+      "title": "M 6.2 - 79 km SSE of Panguna, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-11T14:35:07.149+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - V Time 2026-10-11 14:07:23 UTC 2026-10-11 14:07:23 UTC at epicenter Location 7.006°S 155.702°E Depth 53.47 km (33.23 mi)"
+    },
+    {
       "title": "M 4.6 - 109 km SSE of Pondaguitan, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T07:19:03+00:00",
-      "age_days": 19.3,
+      "age_days": 19.31,
       "topics": [
         "general"
       ],
@@ -194,7 +219,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002038/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T10:18:55+00:00",
-      "age_days": 10.18,
+      "age_days": 10.19,
       "topics": [
         "general"
       ],
@@ -219,7 +244,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T13:59:24.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -244,7 +269,7 @@
       "url": "https://slides.yusu.ke/honoconf-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T09:03:48+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [],
       "dynamics_score": 18.0,
       "raw_band": "watch",
@@ -264,55 +289,28 @@
       "summary": "::title:: Hono in this era Yusuke Wada Hono Conference 2026 ・ October 11, 2026 ::center size=1.5 bg=white:: 時代 ::center:: Hono Conference 2025 2025/10/18 npmダウンロード数 2025年10月 → 1,110万 / 月 2026年9月 → 2.67億 / 月 -# api.npmjs.org ::right:: express → 2.7倍 react → 3.8倍 next → 4.1倍 zo..."
     },
     {
-      "title": "Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン",
-      "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-11T01:07:05+00:00",
-      "age_days": 0.56,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.6 - 82 km E of Petropavlovsk-Kamchatsky, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1k3",
+      "title": "M 6.2 - 79 km SSE of Panguna, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-11T11:36:41.040+00:00",
-      "age_days": 0.12,
+      "published_at": "2026-10-11T14:37:14+00:00",
+      "age_days": 0.01,
       "topics": [
-        "disaster"
+        "general"
       ],
-      "dynamics_score": 17.0,
+      "dynamics_score": 17.4,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "early terms: earthquake",
-        "high terms: 10, 9.8"
+        "momentum delta +1"
       ],
-      "summary": "Time 2026-10-11 11:18:27 UTC 2026-10-11 11:18:27 UTC at epicenter Location 53.079°N 159.862°E Depth 68.68 km (42.68 mi)"
+      "summary": ""
     }
   ],
   "read_order": [
@@ -324,8 +322,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 6,
-      "watch": 6
+      "strong": 7,
+      "watch": 5
     }
   }
 }
