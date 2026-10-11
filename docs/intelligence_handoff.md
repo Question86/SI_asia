@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-11T14:45:20Z_
+_Generated: 2026-10-11T14:55:27Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “storytold/artcraft” — Die Dynamik li
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-11T07:27:03+00:00` / age_days `0.3`
+- Published: `2026-10-11T07:27:03+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: active, rce, security high-signal: active, rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “storytold/artcraft” — Die Dynamik li
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-11T12:31:54.040+00:00` / age_days `0.09`
+- Published: `2026-10-11T12:31:54.040+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “storytold/artcraft” — Die Dynamik li
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-11T02:52:52.040+00:00` / age_days `0.49`
+- Published: `2026-10-11T02:52:52.040+00:00` / age_days `0.5`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “storytold/artcraft” — Die Dynamik li
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-10-11T12:33:03+00:00` / age_days `0.09`
+- Published: `2026-10-11T12:33:03+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “storytold/artcraft” — Die Dynamik li
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.5`
-- Published: `2026-10-11T05:51:16+00:00` / age_days `0.37`
+- Published: `2026-10-11T05:51:16+00:00` / age_days `0.38`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “storytold/artcraft” — Die Dynamik li
 
 - Band: `watch` (raw `krass`)
 - Dynamics score: `19.9`
-- Published: `2026-09-22T07:19:03+00:00` / age_days `19.31`
+- Published: `2026-09-22T07:19:03+00:00` / age_days `19.32`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, krass gate: single-source non-official/non-identity signal capped, stale single-source cap: max watch after 14d without fresh resonance
@@ -102,10 +102,20 @@ Stärkste Dynamik nach Gate-Recheck: “storytold/artcraft” — Die Dynamik li
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-11T13:59:24.040+00:00` / age_days `0.03`
+- Published: `2026-10-11T13:59:24.040+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt
+
+### M 5.2 - 18 km SSE of Camaná, Peru
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `18.5`
+- Published: `2026-10-11T14:06:38+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt
 
 ### Hono in this era
@@ -117,15 +127,5 @@ Stärkste Dynamik nach Gate-Recheck: “storytold/artcraft” — Die Dynamik li
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
 - Quelle: https://slides.yusu.ke/honoconf-2026
-
-### M 6.2 - 79 km SSE of Panguna, Papua New Guinea
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.4`
-- Published: `2026-10-11T14:37:14+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv
 
 END OF DOCUMENT

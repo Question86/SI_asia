@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-11T14:45:20Z",
+  "generated_at": "2026-10-11T14:55:27Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “storytold/artcraft” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/storytold/artcraft",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-11T07:27:03+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -43,7 +43,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ka",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T12:31:54.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -93,7 +93,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:52:52.040+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -118,7 +118,7 @@
       "url": "https://slides.yusu.ke/honoconf-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T12:33:03+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [],
       "dynamics_score": 22.0,
       "raw_band": "strong",
@@ -142,7 +142,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T05:51:16+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -192,7 +192,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T07:19:03+00:00",
-      "age_days": 19.31,
+      "age_days": 19.32,
       "topics": [
         "general"
       ],
@@ -244,7 +244,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T13:59:24.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -263,6 +263,30 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-11 13:42:59 UTC 2026-10-11 13:42:59 UTC at epicenter Location 16.785°S 72.660°W Depth 44.92 km (27.91 mi)"
+    },
+    {
+      "title": "M 5.2 - 18 km SSE of Camaná, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-11T14:06:38+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
     },
     {
       "title": "Hono in this era",
@@ -287,30 +311,6 @@
         "identity recheck: no AXI0M/User-Yps phrase hit"
       ],
       "summary": "::title:: Hono in this era Yusuke Wada Hono Conference 2026 ・ October 11, 2026 ::center size=1.5 bg=white:: 時代 ::center:: Hono Conference 2025 2025/10/18 npmダウンロード数 2025年10月 → 1,110万 / 月 2026年9月 → 2.67億 / 月 -# api.npmjs.org ::right:: express → 2.7倍 react → 3.8倍 next → 4.1倍 zo..."
-    },
-    {
-      "title": "M 6.2 - 79 km SSE of Panguna, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-11T14:37:14+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
