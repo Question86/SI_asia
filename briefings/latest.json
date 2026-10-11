@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T14:25:02+00:00",
-  "run_id": "2026-10-11T14:25:02+00:00",
+  "generated_at": "2026-10-11T14:37:11+00:00",
+  "run_id": "2026-10-11T14:37:11+00:00",
   "date": "2026-10-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "new_relevant_findings": 1,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
     "medium": 4,
-    "observe": 17,
+    "observe": 18,
     "source_errors": 0
   },
   "sections": {
@@ -165,6 +165,44 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 6.2 - 79 km SSE of Panguna, Papua New Guinea",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-11T14:35:07.149+00:00",
+        "fetched_at": "2026-10-11T14:36:38+00:00",
+        "summary": "PAGER - GREEN ShakeMap - V Time 2026-10-11 14:07:23 UTC 2026-10-11 14:07:23 UTC at epicenter Location 7.006°S 155.702°E Depth 53.47 km (33.23 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "dd86539c68306af7ac07"
+      },
       {
         "title": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に",
         "url": "https://togetter.com/li/2756720",
@@ -755,6 +793,44 @@
       "id": "c154d4b09d6220bc9afb"
     },
     {
+      "title": "M 6.2 - 79 km SSE of Panguna, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-11T14:35:07.149+00:00",
+      "fetched_at": "2026-10-11T14:36:38+00:00",
+      "summary": "PAGER - GREEN ShakeMap - V Time 2026-10-11 14:07:23 UTC 2026-10-11 14:07:23 UTC at epicenter Location 7.006°S 155.702°E Depth 53.47 km (33.23 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "dd86539c68306af7ac07"
+    },
+    {
       "title": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に",
       "url": "https://togetter.com/li/2756720",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1207,7 +1283,46 @@
       "id": "8e58b3dfe926c9490bb0"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 6.2 - 79 km SSE of Panguna, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-11T14:35:07.149+00:00",
+      "fetched_at": "2026-10-11T14:36:38+00:00",
+      "summary": "PAGER - GREEN ShakeMap - V Time 2026-10-11 14:07:23 UTC 2026-10-11 14:07:23 UTC at epicenter Location 7.006°S 155.702°E Depth 53.47 km (33.23 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "dd86539c68306af7ac07"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

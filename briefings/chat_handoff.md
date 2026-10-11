@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-11T14:25:02+00:00_
+_Generated: 2026-10-11T14:37:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `22`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-11T14:25:02+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0
 - summary: Time 2026-10-11 02:35:35 UTC 2026-10-11 02:35:35 UTC at epicenter Location 5.471°N 126.616°E Depth 121.25 km (75.34 mi)
 
-### 5. ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に
+### 5. M 6.2 - 79 km SSE of Panguna, Papua New Guinea
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-11T14:35:07.149+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv
+- summary: PAGER - GREEN ShakeMap - V Time 2026-10-11 14:07:23 UTC 2026-10-11 14:07:23 UTC at epicenter Location 7.006°S 155.702°E Depth 53.47 km (33.23 mi)
+
+### 6. ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-10-10T23:55:32+00:00`
 - url: https://togetter.com/li/2756720
 - summary: ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に
 
-### 6. M 5.2 - 18 km SSE of Camaná, Peru
+### 7. M 5.2 - 18 km SSE of Camaná, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-11T13:59:24.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt
 - summary: Time 2026-10-11 13:42:59 UTC 2026-10-11 13:42:59 UTC at epicenter Location 16.785°S 72.660°W Depth 44.92 km (27.91 mi)
 
-### 7. M 4.6 - 82 km E of Petropavlovsk-Kamchatsky, Russia
+### 8. M 4.6 - 82 km E of Petropavlovsk-Kamchatsky, Russia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-11T11:36:41.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1k3
 - summary: Time 2026-10-11 11:18:27 UTC 2026-10-11 11:18:27 UTC at epicenter Location 53.079°N 159.862°E Depth 68.68 km (42.68 mi)
-
-### 8. M 4.6 - 260 km WNW of Houma, Tonga
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-11T10:26:30.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jv
-- summary: Time 2026-10-11 10:05:41 UTC 2026-10-11 10:05:41 UTC at epicenter Location 20.386°S 177.664°W Depth 512.92 km (318.71 mi)
 
 END OF DOCUMENT
