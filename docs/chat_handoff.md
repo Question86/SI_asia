@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-11T04:07:36+00:00_
+_Generated: 2026-10-11T04:32:53+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -49,5 +49,12 @@ _Generated: 2026-10-11T04:07:36+00:00_
 - published: `2026-10-10T09:16:40+00:00`
 - url: https://gigazine.net/news/20261010-readest/
 - summary: 電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。 Readest — 無料オープンソースのEPUB・PDFリーダー、全プラットフォーム対...
+
+### 7. Yandexのデータセンター障害についてまとめてみた - piyolog
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-10-10T21:06:31+00:00`
+- url: https://piyolog.hatenadiary.jp/entry/2026/10/11/011521
+- summary: 2026年10月8日、ロシアIT大手が運営するYandex Cloudはru-central1-bで電源が途絶し、サービスが利用できない状態になっていると告知しました。その後、Yandexはデータセンターがドローン攻撃を受けて火災が起き、稼働が完全に停止したと公表しています。ここでは関連する情報をまとめます。 ru-central1-b の電源障害 ...
 
 END OF DOCUMENT
