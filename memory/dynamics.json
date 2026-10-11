@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-11T07:55:47Z",
+  "generated_at": "2026-10-11T08:19:15Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 23,
+    "dynamics": 27,
     "bands": {
       "krass": 1,
       "strong": 3,
-      "watch": 9,
-      "quiet": 10
+      "watch": 11,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 9,
-      "quiet": 10
+      "watch": 11,
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://github.com/storytold/artcraft",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-11T07:27:03+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T03:49:32.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -76,7 +76,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:52:52.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -101,7 +101,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T05:51:16+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -126,7 +126,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T07:19:03+00:00",
-      "age_days": 19.03,
+      "age_days": 19.04,
       "topics": [
         "general"
       ],
@@ -153,7 +153,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002038/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T10:18:55+00:00",
-      "age_days": 9.9,
+      "age_days": 9.92,
       "topics": [
         "general"
       ],
@@ -178,7 +178,7 @@
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T01:07:05+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -200,11 +200,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.5 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-11T07:46:37.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10, 9.9"
+      ],
+      "summary": "Time 2026-10-11 07:28:52 UTC 2026-10-11 07:28:52 UTC at epicenter Location 23.692°S 179.965°E Depth 546.34 km (339.48 mi)"
+    },
+    {
       "title": "M 4.7 - 110 km SSE of Sola, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T05:42:11.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -229,7 +254,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:06:11.382+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -254,7 +279,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 37.1,
+      "age_days": 37.12,
       "topics": [
         "general"
       ],
@@ -279,7 +304,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:09:49+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -299,11 +324,37 @@
       "summary": ""
     },
     {
+      "title": "M 4.5 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-30T09:38:46+00:00",
+      "age_days": 41.94,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.26,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "aging penalty -7.3 for 41.9d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Yandexのデータセンター障害についてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T04:32:57+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -327,7 +378,7 @@
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T22:12:05+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -349,30 +400,26 @@
       "summary": "2026年5月19日の記事を編集して再掲載しています。 Google Chromeが、ユーザーの同意なしに約4GBものAIモデルをデバイスに自動的にダウンロード・保存させているという件が判明しました。「OptGuideOnDeviceModel」というフォルダの中に、こっそり4GBも忍び込ませいるようです。 「That Privacy Guy（プライバシー・ガイ..."
     },
     {
-      "title": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能",
-      "url": "https://gigazine.net/news/20261010-readest/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 114.25,
+      "title": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-11T07:27:35+00:00",
+      "age_days": 0.04,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 11.57,
+      "dynamics_score": 10.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 6.43,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 6.43",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 114.2d old signal",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -381,7 +428,7 @@
       "url": "https://gigazine.net/news/20261011-hayamimi/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T04:33:54+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -405,7 +452,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T21:06:31+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -429,7 +476,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002038/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T05:13:38+00:00",
-      "age_days": 1.11,
+      "age_days": 1.13,
       "topics": [
         "general"
       ],
@@ -453,7 +500,7 @@
       "url": "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T05:37:51+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -475,53 +522,55 @@
       "summary": ""
     },
     {
-      "title": "storytold/artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-10-11T07:27:35+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に",
       "url": "https://togetter.com/li/2756720",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 113.81,
+      "age_days": 113.82,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 7.76,
+      "dynamics_score": 7.58,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.51,
+      "baseline_z_hint": 2.35,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.51",
+        "baseline z_hint 2.35",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 113.8d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "AI×アーキテクト | 技術評論社",
+      "url": "https://gihyo.jp/book/2026/978-4-297-16033-3",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-11T08:08:24+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -531,7 +580,7 @@
       "url": "https://gigazine.net/news/20261010-readest/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T09:16:40+00:00",
-      "age_days": 0.94,
+      "age_days": 0.96,
       "topics": [
         "ai"
       ],
@@ -553,11 +602,65 @@
       "summary": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。 Readest — 無料オープンソースのEPUB・PDFリーダー、全プラットフォーム対..."
     },
     {
+      "title": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能",
+      "url": "https://gigazine.net/news/20261010-readest/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 114.26,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.55,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 3.23,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 3.23",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 114.3d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "AI×アーキテクト | 技術評論社",
+      "url": "https://gihyo.jp/book/2026/978-4-297-16033-3",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-06T04:01:51+00:00",
+      "age_days": 5.18,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "著者 元木大介（もときだいすけ），熊井悠（くまいゆう） 著 定価 2,860円（本体2,600円＋税10%） 発売日 2026.10.27 判型 A5 頁数 288ページ ISBN 978-4-297-16033-3 978-4-297-16034-0 概要 AIにコードを書かせる。文章を書かせる。設計図を描かせる。作ることのスピードは、この数年で桁違いに上がりました。しかし..."
+    },
+    {
       "title": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に",
       "url": "https://togetter.com/li/2756720",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T23:55:32+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -582,7 +685,7 @@
       "url": "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T01:59:35+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
