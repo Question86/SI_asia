@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T07:44:33+00:00",
-  "run_id": "2026-10-11T07:44:33+00:00",
+  "generated_at": "2026-10-11T08:08:21+00:00",
+  "run_id": "2026-10-11T08:08:21+00:00",
   "date": "2026-10-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 12
+      "configured_public_sources_only": 14
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "new_relevant_findings": 2,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
     "medium": 3,
-    "observe": 9,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -151,6 +151,42 @@
         "id": "4b81d889ead57b57aed0"
       },
       {
+        "title": "M 4.5 - south of the Fiji Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-11T07:46:37.040+00:00",
+        "fetched_at": "2026-10-11T08:07:51+00:00",
+        "summary": "Time 2026-10-11 07:28:52 UTC 2026-10-11 07:28:52 UTC at epicenter Location 23.692°S 179.965°E Depth 546.34 km (339.48 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "32eee802f83ba556d796"
+      },
+      {
         "title": "M 4.7 - 110 km SSE of Sola, Vanuatu",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -265,6 +301,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "48d8499ef25e0bce0b6e"
+      },
+      {
+        "title": "AI×アーキテクト | 技術評論社",
+        "url": "https://gihyo.jp/book/2026/978-4-297-16033-3",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-06T04:01:51+00:00",
+        "fetched_at": "2026-10-11T08:07:51+00:00",
+        "summary": "著者 元木大介（もときだいすけ），熊井悠（くまいゆう） 著 定価 2,860円（本体2,600円＋税10%） 発売日 2026.10.27 判型 A5 頁数 288ページ ISBN 978-4-297-16033-3 978-4-297-16034-0 概要 AIにコードを書かせる。文章を書かせる。設計図を描かせる。作ることのスピードは、この数年で桁違いに上がりました。しかし...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c7d8b083d65184f24a27"
       },
       {
         "title": "CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能",
@@ -474,6 +532,42 @@
       "id": "4b81d889ead57b57aed0"
     },
     {
+      "title": "M 4.5 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-11T07:46:37.040+00:00",
+      "fetched_at": "2026-10-11T08:07:51+00:00",
+      "summary": "Time 2026-10-11 07:28:52 UTC 2026-10-11 07:28:52 UTC at epicenter Location 23.692°S 179.965°E Depth 546.34 km (339.48 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "32eee802f83ba556d796"
+    },
+    {
       "title": "M 4.7 - 110 km SSE of Sola, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -590,6 +684,28 @@
       "id": "48d8499ef25e0bce0b6e"
     },
     {
+      "title": "AI×アーキテクト | 技術評論社",
+      "url": "https://gihyo.jp/book/2026/978-4-297-16033-3",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-06T04:01:51+00:00",
+      "fetched_at": "2026-10-11T08:07:51+00:00",
+      "summary": "著者 元木大介（もときだいすけ），熊井悠（くまいゆう） 著 定価 2,860円（本体2,600円＋税10%） 発売日 2026.10.27 判型 A5 頁数 288ページ ISBN 978-4-297-16033-3 978-4-297-16034-0 概要 AIにコードを書かせる。文章を書かせる。設計図を描かせる。作ることのスピードは、この数年で桁違いに上がりました。しかし...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c7d8b083d65184f24a27"
+    },
+    {
       "title": "CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能",
       "url": "https://gigazine.net/news/20261011-hayamimi/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -677,25 +793,62 @@
   ],
   "new_findings": [
     {
-      "title": "CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能",
-      "url": "https://gigazine.net/news/20261011-hayamimi/",
+      "title": "M 4.5 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-11T07:46:37.040+00:00",
+      "fetched_at": "2026-10-11T08:07:51+00:00",
+      "summary": "Time 2026-10-11 07:28:52 UTC 2026-10-11 07:28:52 UTC at epicenter Location 23.692°S 179.965°E Depth 546.34 km (339.48 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "32eee802f83ba556d796"
+    },
+    {
+      "title": "AI×アーキテクト | 技術評論社",
+      "url": "https://gihyo.jp/book/2026/978-4-297-16033-3",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-11T04:33:54+00:00",
-      "fetched_at": "2026-10-11T07:44:02+00:00",
-      "summary": "「Hayamimi(早耳)」はGPUやクラウドAPIに依存せずCPUのみで動作する軽量なリアルタイム多言語音声認識システムです。メモリ2GB未満の環境でもライブ字幕表示・話者ラベル付け・翻訳字幕生成まで対応し、発話中から字幕が出始め話し終えて約100msで確定する高速性が特徴です。 oboroge0/hayamimi: 早耳 - Real-time multi...",
+      "published_at": "2026-10-06T04:01:51+00:00",
+      "fetched_at": "2026-10-11T08:07:51+00:00",
+      "summary": "著者 元木大介（もときだいすけ），熊井悠（くまいゆう） 著 定価 2,860円（本体2,600円＋税10%） 発売日 2026.10.27 判型 A5 頁数 288ページ ISBN 978-4-297-16033-3 978-4-297-16034-0 概要 AIにコードを書かせる。文章を書かせる。設計図を描かせる。作ることのスピードは、この数年で桁違いに上がりました。しかし...",
       "matched_keywords": [
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "56c27e66276ef353a54e"
+      "id": "c7d8b083d65184f24a27"
     }
   ],
   "source_errors": [],
