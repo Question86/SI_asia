@@ -1,100 +1,19 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-10T23:54:00+00:00",
+  "generated_at": "2026-10-11T00:01:35+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 0,
-    "today_file_total": 44,
-    "displayed_findings": 44,
+    "today_file_total": 0,
+    "displayed_findings": 0,
     "high": 0,
-    "medium": 6,
-    "observe": 38
+    "medium": 0,
+    "observe": 0
   },
   "source_errors_count": 0,
-  "top_signals": [
-    {
-      "title": "New controls and chat improvements in Copilot for JetBrains",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-10T18:53:39+00:00",
-      "relevance_score": 16,
-      "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-      "summary": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and… The post New controls and chat improvements in Copilot for Jet…",
-      "section": "medium"
-    },
-    {
-      "title": "Building effective agent automations / claude.dev Blog",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-08T23:06:11+00:00",
-      "relevance_score": 16,
-      "url": "https://claude.dev/blog/building-effective-agent-automations/",
-      "summary": "As AI accelerates our work, it's getting harder to keep up. At Anthropic, simple agent automations are frequently used to help. They often run on a schedule, gather context in the background, and proactively tell us what we need to know. But it’s difficult to…",
-      "section": "medium"
-    },
-    {
-      "title": "M 4.5 - 171 km SSW of Pagar Alam, Indonesia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-10T22:14:09.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gu",
-      "summary": "Time 2026-10-10 21:38:09 UTC 2026-10-10 21:38:09 UTC at epicenter Location 5.403°S 102.542°E Depth 29.58 km (18.38 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "M 5.0 - 141 km E of Bitung, Indonesia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-10T05:50:42.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv",
-      "summary": "Time 2026-10-10 05:32:01 UTC 2026-10-10 05:32:01 UTC at epicenter Location 1.625°N 126.389°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "M 6.0 - 7 km N of La Tronosa, Panama",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-10T04:41:20.724+00:00",
-      "relevance_score": 13,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
-      "summary": "PAGER - YELLOW ShakeMap - VIII DYFI? - VI Time 2026-10-10 04:14:01 UTC 2026-10-10 04:14:01 UTC at epicenter Location 7.507°N 80.599°W Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "anthropics/knowledge-work-plugins",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 13,
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code .…",
-      "section": "observe"
-    },
-    {
-      "title": "Half the market will not take your money: The access problem for regulated startups",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-10T03:00:59+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/",
-      "summary": "Across 231 Canadian publishers, the outlets that accept restricted categories charge less than half as much for ordinary articles. That discount measures who has already left the room, and founders in crypto, lending and gaming are shopping in that half witho…",
-      "section": "observe"
-    },
-    {
-      "title": "bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-10T01:47:07+00:00",
-      "relevance_score": 11,
-      "url": "https://future-architect.github.io/articles/20261009a/",
-      "summary": "はじめにみなさんは業務フローを書いたことはあるでしょうか。 業務フローは、ある業務を誰がどの順番で進めるかを図にしたものです。申請者が申請を登録し、承認者が承認し、購買担当が発注する、といった手順を担当者ごとのレーンに分け、矢印でつなぎます。システムの開発現場ではグランドデザインや要件定義などの工...",
-      "section": "observe"
-    }
-  ],
+  "top_signals": [],
   "next_read_order": [
     "briefings/chat_handoff.json",
     "memory/index.json",

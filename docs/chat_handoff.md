@@ -1,67 +1,11 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-10T23:54:00+00:00_
+_Generated: 2026-10-11T00:01:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `44`
+- findings: `0`
 
 ## Top Signals
-
-### 1. New controls and chat improvements in Copilot for JetBrains
-- source: GitHub Changelog Atom
-- score: `16`
-- published: `2026-10-10T18:53:39+00:00`
-- url: https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains
-- summary: This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and… The post New controls and chat improvements in Copilot for Jet…
-
-### 2. Building effective agent automations / claude.dev Blog
-- source: Hatena Bookmark Hotentry IT
-- score: `16`
-- published: `2026-10-08T23:06:11+00:00`
-- url: https://claude.dev/blog/building-effective-agent-automations/
-- summary: As AI accelerates our work, it's getting harder to keep up. At Anthropic, simple agent automations are frequently used to help. They often run on a schedule, gather context in the background, and proactively tell us what we need to know. But it’s difficult to…
-
-### 3. M 4.5 - 171 km SSW of Pagar Alam, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-10T22:14:09.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gu
-- summary: Time 2026-10-10 21:38:09 UTC 2026-10-10 21:38:09 UTC at epicenter Location 5.403°S 102.542°E Depth 29.58 km (18.38 mi)
-
-### 4. M 5.0 - 141 km E of Bitung, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-10T05:50:42.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cv
-- summary: Time 2026-10-10 05:32:01 UTC 2026-10-10 05:32:01 UTC at epicenter Location 1.625°N 126.389°E Depth 10.00 km (6.21 mi)
-
-### 5. M 6.0 - 7 km N of La Tronosa, Panama
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-10-10T04:41:20.724+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf
-- summary: PAGER - YELLOW ShakeMap - VIII DYFI? - VI Time 2026-10-10 04:14:01 UTC 2026-10-10 04:14:01 UTC at epicenter Location 7.507°N 80.599°W Depth 10.00 km (6.21 mi)
-
-### 6. anthropics/knowledge-work-plugins
-- source: GitHub Trending RSS All Languages Daily
-- score: `13`
-- published: `None`
-- url: https://github.com/anthropics/knowledge-work-plugins
-- summary: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code .…
-
-### 7. Half the market will not take your money: The access problem for regulated startups
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-10T03:00:59+00:00`
-- url: https://e27.co/half-the-market-will-not-take-your-money-the-access-problem-for-regulated-startups-20260930/
-- summary: Across 231 Canadian publishers, the outlets that accept restricted categories charge less than half as much for ordinary articles. That discount measures who has already left the room, and founders in crypto, lending and gaming are shopping in that half witho…
-
-### 8. bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-10-10T01:47:07+00:00`
-- url: https://future-architect.github.io/articles/20261009a/
-- summary: はじめにみなさんは業務フローを書いたことはあるでしょうか。 業務フローは、ある業務を誰がどの順番で進めるかを図にしたものです。申請者が申請を登録し、承認者が承認し、購買担当が発注する、といった手順を担当者ごとのレーンに分け、矢印でつなぎます。システムの開発現場ではグランドデザインや要件定義などの工...
 
 END OF DOCUMENT
