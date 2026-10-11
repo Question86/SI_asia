@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-10-11T01:46:00+00:00`
+Generated: `2026-10-11T02:10:08+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -21,6 +21,7 @@ Generated: `2026-10-11T01:46:00+00:00`
 | 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
 | M 5.4 - north of Svalbard | $0 | — | 0 | 0 | dormant |
+| M 5.0 - 3 km NW of Flores, Panama | $0 | — | 0 | 0 | active |
 | Change fatigue is an organisational design problem, not a resilience problem | $0 | — | 0 | 0 | dormant |
 | Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性 | $0 | — | 0 | 0 | dormant |
 | BuilderIO/agent-native | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-10-11T01:46:00+00:00`
 | OpenAI’s GPT-6 Sol and GPT-6 Luna now available | $0 | — | 0 | 0 | dormant |
 | The new engineering bottleneck isn’t writing code, it’s trusting it | $0 | — | 0 | 0 | dormant |
 | 思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU | $0 | — | 0 | 0 | dormant |
-| Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | dormant |
