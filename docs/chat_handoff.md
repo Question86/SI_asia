@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-11T17:23:19+00:00_
+_Generated: 2026-10-11T17:34:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `25`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-11T17:23:19+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt
 - summary: Time 2026-10-11 13:42:59 UTC 2026-10-11 13:42:59 UTC at epicenter Location 16.785°S 72.660°W Depth 44.92 km (27.91 mi)
 
-### 8. M 4.6 - 82 km E of Petropavlovsk-Kamchatsky, Russia
+### 8. M 5.2 - 101 km SSW of Severo-Kuril’sk, Russia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-10-11T11:36:41.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1k3
-- summary: Time 2026-10-11 11:18:27 UTC 2026-10-11 11:18:27 UTC at epicenter Location 53.079°N 159.862°E Depth 68.68 km (42.68 mi)
+- published: `2026-10-11T17:22:56.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ld
+- summary: Time 2026-10-11 17:00:29 UTC 2026-10-11 17:00:29 UTC at epicenter Location 49.789°N 155.786°E Depth 83.39 km (51.81 mi)
 
 END OF DOCUMENT
