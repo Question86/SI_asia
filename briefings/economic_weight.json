@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T00:01:59+00:00",
+  "generated_at": "2026-10-11T01:07:22+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -8736,8 +8736,8 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-06T05:36:25+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-11T01:07:05+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0b8f55a038be7b409784",
@@ -10710,6 +10710,23 @@
       "first_seen_at": "2026-09-25T09:44:45+00:00",
       "last_seen_at": "2026-09-25T23:54:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_473f386a84fd72f4dca1",
+      "title": "Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-11T01:07:05+00:00",
+      "last_seen_at": "2026-10-11T01:07:05+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_164cc1afee592ac2b935",
