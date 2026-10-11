@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-11T14:48:18+00:00_
+_Generiert: 2026-10-11T15:11:39+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+23 neue relevante Treffer. Stärkstes Signal: „Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,6 @@ _Generiert: 2026-10-11T14:48:18+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.6M, Depth:10km) in Panama 09/10/2026 20:25 UTC, 10 thousand (in MMI&gt;=VII).
-- **USGS earthquake M6.2 - 79 km SSE of Panguna, Papua New Guinea** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv)
-  - Quelle: USGS
-  - Zeit: `2026-10-11T14:07:23+00:00`
-  - Kurz: M6.2 - 79 km SSE of Panguna, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Panama 10/10/2026 04:14 UTC, 4 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570467)
   - Quelle: GDACS
   - Zeit: ``

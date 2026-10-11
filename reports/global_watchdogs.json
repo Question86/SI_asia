@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T14:48:21+00:00",
+  "generated_at": "2026-10-11T15:11:41+00:00",
   "sections": {
     "global_security": [
       {
@@ -81,21 +81,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570370",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "USGS earthquake M6.2 - 79 km SSE of Panguna, Papua New Guinea",
-        "summary": "M6.2 - 79 km SSE of Panguna, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv",
-        "published_at": "2026-10-11T14:07:23+00:00",
-        "metrics": {
-          "mag": 6.2,
-          "alert": "green",
-          "sig": 591.0,
-          "tsunami": 0
-        }
       },
       {
         "domain": "security",

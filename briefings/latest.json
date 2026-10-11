@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T14:48:18+00:00",
-  "run_id": "2026-10-11T14:48:18+00:00",
+  "generated_at": "2026-10-11T15:11:39+00:00",
+  "run_id": "2026-10-11T15:11:39+00:00",
   "date": "2026-10-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 23
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 1,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
     "medium": 4,
-    "observe": 18,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -548,6 +548,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6984e0d75c24d8011ef3"
+      },
+      {
+        "title": "月間100万人のサービス刷新で、 技術選定をHonoに振り切った話",
+        "url": "https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-11T08:34:08+00:00",
+        "fetched_at": "2026-10-11T15:11:08+00:00",
+        "summary": "Hono Conference 2026 の登壇資料です。月間100万人のサービスを6人とAIで作り直しました。AIを迷わせない開発の土台作りと、Honoが効いた理由について、紹介しています。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "af0333ca42e731d4a4e7"
       },
       {
         "title": "CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能",
@@ -1177,6 +1198,27 @@
       "id": "6984e0d75c24d8011ef3"
     },
     {
+      "title": "月間100万人のサービス刷新で、 技術選定をHonoに振り切った話",
+      "url": "https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-11T08:34:08+00:00",
+      "fetched_at": "2026-10-11T15:11:08+00:00",
+      "summary": "Hono Conference 2026 の登壇資料です。月間100万人のサービスを6人とAIで作り直しました。AIを迷わせない開発の土台作りと、Honoが効いた理由について、紹介しています。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "af0333ca42e731d4a4e7"
+    },
+    {
       "title": "CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能",
       "url": "https://gigazine.net/news/20261011-hayamimi/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1283,7 +1325,29 @@
       "id": "8e58b3dfe926c9490bb0"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "月間100万人のサービス刷新で、 技術選定をHonoに振り切った話",
+      "url": "https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-11T08:34:08+00:00",
+      "fetched_at": "2026-10-11T15:11:08+00:00",
+      "summary": "Hono Conference 2026 の登壇資料です。月間100万人のサービスを6人とAIで作り直しました。AIを迷わせない開発の土台作りと、Honoが効いた理由について、紹介しています。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "af0333ca42e731d4a4e7"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
