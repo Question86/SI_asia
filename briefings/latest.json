@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T06:36:05+00:00",
-  "run_id": "2026-10-11T06:36:05+00:00",
+  "generated_at": "2026-10-11T07:01:00+00:00",
+  "run_id": "2026-10-11T07:01:00+00:00",
   "date": "2026-10-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 10,
     "displayed_findings": 10,
     "high": 0,
@@ -589,29 +589,7 @@
       "id": "ff295982b972e532b97c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「男は狩り、女は採集」はどこまで本当？ 約8割で女性も狩り、乳児連れの例も 過去100年の狩猟採集社会を調査",
-      "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002038/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-10T05:13:38+00:00",
-      "fetched_at": "2026-10-11T06:35:33+00:00",
-      "summary": "人類の狩猟採集生活における性別分業は、一般的に男性が狩猟者、女性が採集者という役割分担として認識されてきた。 しかし、これまでには、ペルーで発見された約9000年前の女性の遺骨のそばに大型動物を狩るための道具が置かれていたり、スウェーデンで発掘されたヴァイキングの戦士の骨が実は女性だったりと、過去の常...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ff295982b972e532b97c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
