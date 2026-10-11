@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-11T14:55:27Z",
+  "generated_at": "2026-10-11T15:29:38Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 1,
-      "strong": 6,
-      "watch": 20,
-      "quiet": 13
+      "strong": 7,
+      "watch": 21,
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 20,
-      "quiet": 13
+      "strong": 8,
+      "watch": 21,
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://github.com/storytold/artcraft",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-11T07:27:03+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ka",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T12:31:54.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -76,7 +76,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T03:49:32.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.49,
       "topics": [
         "disaster"
       ],
@@ -101,7 +101,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:52:52.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.53,
       "topics": [
         "disaster"
       ],
@@ -126,7 +126,7 @@
       "url": "https://slides.yusu.ke/honoconf-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T12:33:03+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [],
       "dynamics_score": 22.0,
       "raw_band": "strong",
@@ -150,7 +150,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T05:51:16+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -175,7 +175,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T14:35:07.149+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -196,11 +196,35 @@
       "summary": "PAGER - GREEN ShakeMap - V Time 2026-10-11 14:07:23 UTC 2026-10-11 14:07:23 UTC at epicenter Location 7.006°S 155.702°E Depth 53.47 km (33.23 mi)"
     },
     {
+      "title": "M 6.2 - 79 km SSE of Panguna, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-11T14:37:14+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.6 - 109 km SSE of Pondaguitan, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T07:19:03+00:00",
-      "age_days": 19.32,
+      "age_days": 19.34,
       "topics": [
         "general"
       ],
@@ -223,11 +247,37 @@
       "summary": ""
     },
     {
+      "title": "月間100万人のサービス刷新で、 技術選定をHonoに振り切った話",
+      "url": "https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 114.56,
+      "topics": [],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "aging penalty -8.0 for 114.6d old signal",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": ""
+    },
+    {
       "title": "「男は狩り、女は採集」はどこまで本当？ 約8割で女性も狩り、乳児連れの例も 過去100年の狩猟採集社会を調査",
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002038/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T10:18:55+00:00",
-      "age_days": 10.19,
+      "age_days": 10.22,
       "topics": [
         "general"
       ],
@@ -252,7 +302,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T13:59:24.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -277,7 +327,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T14:06:38+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -301,7 +351,7 @@
       "url": "https://slides.yusu.ke/honoconf-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T09:03:48+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [],
       "dynamics_score": 18.0,
       "raw_band": "watch",
@@ -321,11 +371,39 @@
       "summary": "::title:: Hono in this era Yusuke Wada Hono Conference 2026 ・ October 11, 2026 ::center size=1.5 bg=white:: 時代 ::center:: Hono Conference 2025 2025/10/18 npmダウンロード数 2025年10月 → 1,110万 / 月 2026年9月 → 2.67億 / 月 -# api.npmjs.org ::right:: express → 2.7倍 react → 3.8倍 next → 4.1倍 zo..."
     },
     {
+      "title": "月間100万人のサービス刷新で、 技術選定をHonoに振り切った話",
+      "url": "https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-11T08:34:08+00:00",
+      "age_days": 0.29,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Hono Conference 2026 の登壇資料です。月間100万人のサービスを6人とAIで作り直しました。AIを迷わせない開発の土台作りと、Honoが効いた理由について、紹介しています。"
+    },
+    {
       "title": "Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン",
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T01:07:05+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -351,7 +429,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1k3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T11:36:41.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -376,7 +454,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T10:26:30.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -401,7 +479,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T07:46:37.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -426,7 +504,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T05:42:11.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -451,7 +529,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:06:11.382+00:00",
-      "age_days": 0.53,
+      "age_days": 0.56,
       "topics": [
         "disaster"
       ],
@@ -476,11 +554,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 37.39,
+      "age_days": 37.42,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.76,
+      "dynamics_score": 16.75,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -501,7 +579,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1k3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T11:45:35+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -525,7 +603,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T10:32:57+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -549,7 +627,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:09:49+00:00",
-      "age_days": 0.53,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -569,39 +647,15 @@
       "summary": ""
     },
     {
-      "title": "M 6.2 - 79 km SSE of Panguna, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-11T14:37:14+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.8 - 165 km SSE of Miyakojima, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ka",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-28T23:45:53+00:00",
-      "age_days": 43.63,
+      "age_days": 43.66,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.58,
+      "dynamics_score": 14.57,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -613,7 +667,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -7.9 for 43.6d old signal"
+        "aging penalty -7.9 for 43.7d old signal"
       ],
       "summary": ""
     },
@@ -622,7 +676,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T04:32:57+00:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -646,7 +700,7 @@
       "url": "https://github.com/storytold/artcraft",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-11T07:27:35+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -670,7 +724,7 @@
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T22:12:05+00:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [
         "ai"
       ],
@@ -696,7 +750,7 @@
       "url": "https://gigazine.net/news/20261011-hayamimi/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T04:33:54+00:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -720,7 +774,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T21:06:31+00:00",
-      "age_days": 0.74,
+      "age_days": 0.77,
       "topics": [
         "general"
       ],
@@ -744,7 +798,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002038/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T05:13:38+00:00",
-      "age_days": 1.4,
+      "age_days": 1.43,
       "topics": [
         "general"
       ],
@@ -768,11 +822,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T09:38:46+00:00",
-      "age_days": 42.22,
+      "age_days": 42.24,
       "topics": [
         "general"
       ],
-      "dynamics_score": 9.07,
+      "dynamics_score": 9.06,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -793,7 +847,7 @@
       "url": "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T05:37:51+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -819,7 +873,7 @@
       "url": "https://gihyo.jp/book/2026/978-4-297-16033-3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T08:08:24+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -845,7 +899,7 @@
       "url": "https://gigazine.net/news/20261010-readest/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T09:16:40+00:00",
-      "age_days": 1.24,
+      "age_days": 1.26,
       "topics": [
         "ai"
       ],
@@ -871,7 +925,7 @@
       "url": "https://togetter.com/li/2756720",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 114.1,
+      "age_days": 114.12,
       "topics": [
         "ai"
       ],
@@ -898,7 +952,7 @@
       "url": "https://gihyo.jp/book/2026/978-4-297-16033-3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T04:01:51+00:00",
-      "age_days": 5.45,
+      "age_days": 5.48,
       "topics": [
         "ai"
       ],
@@ -924,7 +978,7 @@
       "url": "https://togetter.com/li/2756720",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T23:55:32+00:00",
-      "age_days": 0.62,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -949,81 +1003,27 @@
       "url": "https://gigazine.net/news/20261010-readest/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 114.54,
+      "age_days": 114.56,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 2.12,
+      "dynamics_score": 2.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.11,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 0.11",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 114.5d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "GPU不要で驚きの精度。リアルタイム多言語文字起こしツール「hayamimi」使ってみましたー。｜ゆいまる‐IT界隈以外でAIを使いまくる2005年生まれ",
-      "url": "https://note.com/humble_bobcat51/n/n64602c64db6c",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 40.84,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.61,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 0.61",
-        "single-source AI hype brake -8.0",
-        "aging penalty -6.9 for 40.8d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ",
-      "url": "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-11T01:59:35+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 114.6d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "AI にコードを書かせる時代に、エンジニアは何の技能を残しておけばいいのか。 航空業界の制度を一次資料でたどると、答えは「自分で書く力」よりも「自動化から引き継ぐ力」のほうに寄っていきました。パイロットは普段から手で操縦しているわけではありません。それでも、自動操縦が外れたときに機体を立て直せる状態..."
+      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “storytold/artcraft” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
