@@ -1,28 +1,53 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-11T03:39:42Z",
+  "generated_at": "2026-10-11T04:00:51Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 10,
+    "dynamics": 12,
     "bands": {
-      "strong": 1,
-      "watch": 5,
+      "strong": 2,
+      "watch": 6,
       "quiet": 4
     },
     "bands_after_gate_recheck": {
-      "strong": 1,
-      "watch": 5,
+      "strong": 2,
+      "watch": 6,
       "quiet": 4
     }
   },
   "top_dynamics": [
     {
+      "title": "M 5.2 - 180 km S of Pelabuhanratu, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-11T03:49:32.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-11 03:30:17 UTC 2026-10-11 03:30:17 UTC at epicenter Location 8.616°S 106.526°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.6 - 109 km SSE of Pondaguitan, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:52:52.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -43,11 +68,38 @@
       "summary": "Time 2026-10-11 02:35:35 UTC 2026-10-11 02:35:35 UTC at epicenter Location 5.471°N 126.616°E Depth 121.25 km (75.34 mi)"
     },
     {
+      "title": "M 5.2 - 180 km S of Pelabuhanratu, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-04T05:31:26+00:00",
+      "age_days": 36.94,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "aging penalty -5.6 for 36.9d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.6 - 109 km SSE of Pondaguitan, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T07:19:03+00:00",
-      "age_days": 18.85,
+      "age_days": 18.86,
       "topics": [
         "general"
       ],
@@ -74,7 +126,7 @@
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T01:07:05+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -100,7 +152,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:06:11.382+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -125,7 +177,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:09:49+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -149,7 +201,7 @@
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T22:12:05+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -175,23 +227,23 @@
       "url": "https://togetter.com/li/2756720",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 113.63,
+      "age_days": 113.65,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 9.92,
+      "dynamics_score": 9.74,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.47,
+      "baseline_z_hint": 4.31,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.47",
+        "baseline z_hint 4.31",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 113.6d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -203,7 +255,7 @@
       "url": "https://gigazine.net/news/20261010-readest/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T09:16:40+00:00",
-      "age_days": 0.77,
+      "age_days": 0.78,
       "topics": [
         "ai"
       ],
@@ -229,23 +281,23 @@
       "url": "https://gigazine.net/news/20261010-readest/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 114.07,
+      "age_days": 114.08,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 5.41,
+      "dynamics_score": 5.27,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 3.1,
+      "baseline_z_hint": 2.97,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 3.10",
+        "baseline z_hint 2.97",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 114.1d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -257,7 +309,7 @@
       "url": "https://togetter.com/li/2756720",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T23:55:32+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -278,5 +330,5 @@
       "summary": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.6 - 109 km SSE of Pondaguitan, Philippines” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.2 - 180 km S of Pelabuhanratu, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0."
 }
