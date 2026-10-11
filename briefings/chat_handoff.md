@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-11T21:59:53+00:00_
+_Generated: 2026-10-11T22:22:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `28`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-11T21:59:53+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt
 - summary: Time 2026-10-11 13:42:59 UTC 2026-10-11 13:42:59 UTC at epicenter Location 16.785°S 72.660°W Depth 44.92 km (27.91 mi)
 
-### 8. M 5.2 - 101 km SSW of Severo-Kuril’sk, Russia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-11T17:22:56.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ld
-- summary: Time 2026-10-11 17:00:29 UTC 2026-10-11 17:00:29 UTC at epicenter Location 49.789°N 155.786°E Depth 83.39 km (51.81 mi)
+### 8. 証券口座パスキーの安全性を高めよ！”物理キー”を本格導入した話
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-11T12:13:54+00:00`
+- url: https://toruoka.xyz/202610_security_key/
+- summary: みなさん、証券口座やその他重要なパスワードはどのように管理していますか？今どきは多くの方がパスワードマネージャーを使用して管理しているかと思います。僕もそのひとり。今はiCloudにパスワードを一元管理しています。 そういう人たちにとって、少しぞわっとなるニュースが先日報道されました。それがこれ。 証券...
 
 END OF DOCUMENT
