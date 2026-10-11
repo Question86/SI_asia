@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-11T12:01:22+00:00_
+_Generated: 2026-10-11T12:33:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `19`
 
 ## Top Signals
 
@@ -15,42 +15,49 @@ _Generated: 2026-10-11T12:01:22+00:00_
 - url: https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/
 - summary: 2026年5月19日の記事を編集して再掲載しています。 Google Chromeが、ユーザーの同意なしに約4GBものAIモデルをデバイスに自動的にダウンロード・保存させているという件が判明しました。「OptGuideOnDeviceModel」というフォルダの中に、こっそり4GBも忍び込ませいるようです。 「That Privacy Guy（プライバシー・ガイ...
 
-### 2. M 5.2 - 180 km S of Pelabuhanratu, Indonesia
+### 2. M 4.8 - 165 km SSE of Miyakojima, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-10-11T12:31:54.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ka
+- summary: Time 2026-10-11 12:13:18 UTC 2026-10-11 12:13:18 UTC at epicenter Location 23.502°N 126.126°E Depth 10.00 km (6.21 mi)
+
+### 3. M 5.2 - 180 km S of Pelabuhanratu, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-11T03:49:32.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6
 - summary: Time 2026-10-11 03:30:17 UTC 2026-10-11 03:30:17 UTC at epicenter Location 8.616°S 106.526°E Depth 10.00 km (6.21 mi)
 
-### 3. M 4.6 - 109 km SSE of Pondaguitan, Philippines
+### 4. M 4.6 - 109 km SSE of Pondaguitan, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-11T02:52:52.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0
 - summary: Time 2026-10-11 02:35:35 UTC 2026-10-11 02:35:35 UTC at epicenter Location 5.471°N 126.616°E Depth 121.25 km (75.34 mi)
 
-### 4. ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に
+### 5. ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-10-10T23:55:32+00:00`
 - url: https://togetter.com/li/2756720
 - summary: ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に
 
-### 5. M 4.6 - 82 km E of Petropavlovsk-Kamchatsky, Russia
+### 6. M 4.6 - 82 km E of Petropavlovsk-Kamchatsky, Russia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-11T11:36:41.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1k3
 - summary: Time 2026-10-11 11:18:27 UTC 2026-10-11 11:18:27 UTC at epicenter Location 53.079°N 159.862°E Depth 68.68 km (42.68 mi)
 
-### 6. M 4.6 - 260 km WNW of Houma, Tonga
+### 7. M 4.6 - 260 km WNW of Houma, Tonga
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-11T10:26:30.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jv
 - summary: Time 2026-10-11 10:05:41 UTC 2026-10-11 10:05:41 UTC at epicenter Location 20.386°S 177.664°W Depth 512.92 km (318.71 mi)
 
-### 7. M 4.5 - south of the Fiji Islands
+### 8. M 4.5 - south of the Fiji Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-11T07:46:37.040+00:00`
