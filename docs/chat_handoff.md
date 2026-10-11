@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-11T21:52:37+00:00_
+_Generated: 2026-10-11T21:59:53+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `26`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-11T21:52:37+00:00_
 - url: https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/
 - summary: 2026年5月19日の記事を編集して再掲載しています。 Google Chromeが、ユーザーの同意なしに約4GBものAIモデルをデバイスに自動的にダウンロード・保存させているという件が判明しました。「OptGuideOnDeviceModel」というフォルダの中に、こっそり4GBも忍び込ませいるようです。 「That Privacy Guy（プライバシー・ガイ...
 
-### 2. M 4.8 - 165 km SSE of Miyakojima, Japan
+### 2. M 5.3 - 151 km W of Gorontalo, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-10-11T21:52:51.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mj
+- summary: Time 2026-10-11 21:34:53 UTC 2026-10-11 21:34:53 UTC at epicenter Location 0.527°N 121.699°E Depth 103.62 km (64.39 mi)
+
+### 3. M 4.8 - 165 km SSE of Miyakojima, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-11T12:31:54.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ka
 - summary: Time 2026-10-11 12:13:18 UTC 2026-10-11 12:13:18 UTC at epicenter Location 23.502°N 126.126°E Depth 10.00 km (6.21 mi)
 
-### 3. M 5.2 - 180 km S of Pelabuhanratu, Indonesia
+### 4. M 5.2 - 180 km S of Pelabuhanratu, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-11T03:49:32.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6
 - summary: Time 2026-10-11 03:30:17 UTC 2026-10-11 03:30:17 UTC at epicenter Location 8.616°S 106.526°E Depth 10.00 km (6.21 mi)
-
-### 4. M 4.6 - 109 km SSE of Pondaguitan, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-11T02:52:52.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0
-- summary: Time 2026-10-11 02:35:35 UTC 2026-10-11 02:35:35 UTC at epicenter Location 5.471°N 126.616°E Depth 121.25 km (75.34 mi)
 
 ### 5. M 6.2 - 79 km SSE of Panguna, Papua New Guinea
 - source: USGS M4.5+ Earthquakes Past Hour
