@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-11T11:03:14+00:00_
+_Generiert: 2026-10-11T11:21:25+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,6 @@ _Generiert: 2026-10-11T11:03:14+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.6M, Depth:10km) in Panama 09/10/2026 20:25 UTC, 10 thousand (in MMI&gt;=VII).
-- **GDACS: Orange earthquake (Magnitude 7.7M, Depth:12.647km) in Panama 09/10/2026 17:56 UTC, 540 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570339)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 7.7M, Depth:12.647km) in Panama 09/10/2026 17:56 UTC, 540 thousand (in MMI&gt;=VII).
 - **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Panama 10/10/2026 04:14 UTC, 4 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570467)
   - Quelle: GDACS
   - Zeit: ``
@@ -45,14 +41,6 @@ _Generiert: 2026-10-11T11:03:14+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Panama 09/10/2026 18:37 UTC, 5 thousand (in MMI&gt;=VII).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Panama 09/10/2026 18:22 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570346)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Panama 09/10/2026 18:22 UTC, Few people affected (in MMI&gt;=VII).
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in West Of Macquarie Island 09/10/2026 14:49 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570318)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in West Of Macquarie Island 09/10/2026 14:49 UTC, [unknown].
 
 ## Wirtschaft global
 

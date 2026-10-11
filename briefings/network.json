@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T11:03:19+00:00",
+  "generated_at": "2026-10-11T11:21:28+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 16,
@@ -148,18 +148,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.79,
+      "network_score": 13.72,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.1,
-      "ranking_score": 13.79,
+      "ranking_score": 13.72,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.29,
+      "baseline_bonus": 0.22,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -187,18 +187,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.98,
+      "network_score": 10.9,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.2,
-      "ranking_score": 10.98,
+      "ranking_score": 10.9,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.48,
+      "baseline_bonus": 0.4,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -448,44 +448,6 @@
       "first_seen_at": "2026-10-11T02:09:49+00:00"
     },
     {
-      "key": "domain:note.com",
-      "title": "【コピペ卒業】Kindle・電子書籍をPDF化＆OCRするアプリを作りました｜リットン｜電子書籍・Python・生成AIで遊ぶ金融マン",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://note.com/lytton_life/n/n838e58f5aff8"
-      ],
-      "finding_count": 1,
-      "max_score": 4,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 8.33,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 9.1,
-      "ranking_score": 8.33,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.33,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-31T18:43:10+00:00"
-    },
-    {
       "key": "title:yandex-piyolog",
       "title": "Yandexのデータセンター障害についてまとめてみた - piyolog",
       "sources": [
@@ -562,6 +524,44 @@
       "first_seen_at": "2026-10-01T10:18:55+00:00"
     },
     {
+      "key": "domain:note.com",
+      "title": "【コピペ卒業】Kindle・電子書籍をPDF化＆OCRするアプリを作りました｜リットン｜電子書籍・Python・生成AIで遊ぶ金融マン",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://note.com/lytton_life/n/n838e58f5aff8"
+      ],
+      "finding_count": 1,
+      "max_score": 4,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 5.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 6.1,
+      "ranking_score": 5.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-31T18:43:10+00:00"
+    },
+    {
       "key": "github_repo:storytold/artcraft",
       "title": "storytold/artcraft",
       "sources": [
@@ -602,7 +602,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-11T11:03:19Z",
+    "generated_at": "2026-10-11T11:21:29Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
