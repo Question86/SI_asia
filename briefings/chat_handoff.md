@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-11T05:23:54+00:00_
+_Generated: 2026-10-11T05:37:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `8`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-10-11T05:23:54+00:00_
 - url: https://gigazine.net/news/20261010-readest/
 - summary: 電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。 Readest — 無料オープンソースのEPUB・PDFリーダー、全プラットフォーム対...
 
-### 7. Yandexのデータセンター障害についてまとめてみた - piyolog
+### 7. オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ
 - source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-10T21:06:31+00:00`
-- url: https://piyolog.hatenadiary.jp/entry/2026/10/11/011521
-- summary: 2026年10月8日、ロシアIT大手が運営するYandex Cloudはru-central1-bで電源が途絶し、サービスが利用できない状態になっていると告知しました。その後、Yandexはデータセンターがドローン攻撃を受けて火災が起き、稼働が完全に停止したと公表しています。ここでは関連する情報をまとめます。 ru-central1-b の電源障害 ...
+- score: `8`
+- published: `2026-10-11T01:59:35+00:00`
+- url: https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1
+- summary: AI にコードを書かせる時代に、エンジニアは何の技能を残しておけばいいのか。 航空業界の制度を一次資料でたどると、答えは「自分で書く力」よりも「自動化から引き継ぐ力」のほうに寄っていきました。パイロットは普段から手で操縦しているわけではありません。それでも、自動操縦が外れたときに機体を立て直せる状態...
 
 END OF DOCUMENT
