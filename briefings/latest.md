@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-11T15:26:08+00:00_
+_Generiert: 2026-10-11T15:39:17+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+24 neue relevante Treffer. Stärkstes Signal: „Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
