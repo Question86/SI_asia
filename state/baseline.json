@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T03:03:48+00:00",
+  "generated_at": "2026-10-11T03:33:12+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2817,9 +2817,8 @@
     },
     "domain:gigazine.net": {
       "title": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能",
-      "updated_at": "2026-10-11T03:03:48+00:00",
+      "updated_at": "2026-10-11T03:33:12+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -2848,12 +2847,13 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 7.87,
+      "rolling_average": 8.0,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": 3.23
+      "z_hint": 3.1
     },
     "title:acrab-raises-350m-advance-agentic-compute-infrastructure": {
       "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
@@ -5081,7 +5081,7 @@
     },
     "domain:togetter.com": {
       "title": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に",
-      "updated_at": "2026-10-11T03:03:48+00:00",
+      "updated_at": "2026-10-11T03:33:12+00:00",
       "network_scores": [
         9.2,
         9.2,
@@ -5111,13 +5111,13 @@
         9.2,
         9.2,
         9.2,
-        9.2,
-        17.1
+        17.1,
+        14.1
       ],
-      "rolling_average": 9.46,
+      "rolling_average": 9.63,
       "rolling_peak": 17.1,
-      "last_score": 17.1,
-      "z_hint": 7.64
+      "last_score": 14.1,
+      "z_hint": 4.47
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -42917,9 +42917,8 @@
     },
     "earthquake:philippines:4.6": {
       "title": "M 4.6 - 109 km SSE of Pondaguitan, Philippines",
-      "updated_at": "2026-10-11T03:03:48+00:00",
+      "updated_at": "2026-10-11T03:33:12+00:00",
       "network_scores": [
-        17.7,
         17.7,
         17.7,
         17.7,
@@ -42948,12 +42947,13 @@
         20.4,
         20.4,
         20.4,
-        20.7
+        20.7,
+        17.7
       ],
       "rolling_average": 19.34,
       "rolling_peak": 23.4,
-      "last_score": 20.7,
-      "z_hint": 1.36
+      "last_score": 17.7,
+      "z_hint": -1.64
     },
     "title:singapore-metaoptics-eyes-expansion-potential-10m-warrant-facility": {
       "title": "Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility",
@@ -68325,31 +68325,33 @@
     },
     "title:google-chrome-4gb": {
       "title": "Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン",
-      "updated_at": "2026-10-11T03:03:48+00:00",
+      "updated_at": "2026-10-11T03:33:12+00:00",
       "network_scores": [
         21.1,
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 18.7,
+      "rolling_average": 18.6,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "earthquake:m 5.0 - 3 km nw of flores, panama:5.0": {
       "title": "M 5.0 - 3 km NW of Flores, Panama",
-      "updated_at": "2026-10-11T03:03:48+00:00",
+      "updated_at": "2026-10-11T03:33:12+00:00",
       "network_scores": [
         14.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.7,
+      "rolling_average": 12.45,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -1.0
+      "z_hint": -0.75
     }
   }
 }
