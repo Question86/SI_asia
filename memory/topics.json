@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-11T13:47:11+00:00",
+  "generated_at": "2026-10-11T14:06:33+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0"
       },
       {
+        "title": "M 5.2 - 18 km SSE of Camaná, Peru",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-11T13:59:24.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt"
+      },
+      {
         "title": "M 4.6 - 82 km E of Petropavlovsk-Kamchatsky, Russia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-11T11:36:41.040+00:00",
@@ -124,13 +131,6 @@
         "published_at": "2026-10-11T09:03:48+00:00",
         "relevance_score": 5,
         "url": "https://slides.yusu.ke/honoconf-2026"
-      },
-      {
-        "title": "CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-11T04:33:54+00:00",
-        "relevance_score": 5,
-        "url": "https://gigazine.net/news/20261011-hayamimi/"
       }
     ],
     "github": [
