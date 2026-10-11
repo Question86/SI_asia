@@ -1,28 +1,54 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-11T06:23:47Z",
+  "generated_at": "2026-10-11T06:55:56Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 18,
+    "dynamics": 20,
     "bands": {
-      "strong": 2,
+      "strong": 3,
       "watch": 9,
-      "quiet": 7
+      "quiet": 8
     },
     "bands_after_gate_recheck": {
-      "strong": 2,
+      "strong": 3,
       "watch": 9,
-      "quiet": 7
+      "quiet": 8
     }
   },
   "top_dynamics": [
+    {
+      "title": "「男は狩り、女は採集」はどこまで本当？ 約8割で女性も狩り、乳児連れの例も 過去100年の狩猟採集社会を調査",
+      "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002038/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-01T10:18:55+00:00",
+      "age_days": 9.86,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.69,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
     {
       "title": "M 5.2 - 180 km S of Pelabuhanratu, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T03:49:32.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -47,7 +73,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:52:52.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -72,7 +98,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T07:19:03+00:00",
-      "age_days": 18.96,
+      "age_days": 18.98,
       "topics": [
         "general"
       ],
@@ -95,11 +121,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.7 - 110 km SSE of Sola, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-11T05:51:16+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン",
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T01:07:05+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -125,7 +176,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T05:42:11.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -150,7 +201,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:06:11.382+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -175,11 +226,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 37.04,
+      "age_days": 37.06,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.89,
+      "dynamics_score": 16.88,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -191,32 +242,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -5.6 for 37.0d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.7 - 110 km SSE of Sola, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-11T05:51:16+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "high terms: 10"
+        "aging penalty -5.6 for 37.1d old signal"
       ],
       "summary": ""
     },
@@ -225,7 +251,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:09:49+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -249,7 +275,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T04:32:57+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -273,7 +299,7 @@
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T22:12:05+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -299,7 +325,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T21:06:31+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -319,55 +345,79 @@
       "summary": "2026年10月8日、ロシアIT大手が運営するYandex Cloudはru-central1-bで電源が途絶し、サービスが利用できない状態になっていると告知しました。その後、Yandexはデータセンターがドローン攻撃を受けて火災が起き、稼働が完全に停止したと公表しています。ここでは関連する情報をまとめます。 ru-central1-b の電源障害 ..."
     },
     {
-      "title": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に",
-      "url": "https://togetter.com/li/2756720",
+      "title": "「男は狩り、女は採集」はどこまで本当？ 約8割で女性も狩り、乳児連れの例も 過去100年の狩猟採集社会を調査",
+      "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002038/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 113.74,
+      "published_at": "2026-10-10T05:13:38+00:00",
+      "age_days": 1.07,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 8.49,
+      "dynamics_score": 10.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 3.17,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 3.17",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 113.7d old signal",
-        "single-source AI cap enforced after phrase recheck"
+        "high terms: 10"
       ],
-      "summary": ""
+      "summary": "人類の狩猟採集生活における性別分業は、一般的に男性が狩猟者、女性が採集者という役割分担として認識されてきた。 しかし、これまでには、ペルーで発見された約9000年前の女性の遺骨のそばに大型動物を狩るための道具が置かれていたり、スウェーデンで発掘されたヴァイキングの戦士の骨が実は女性だったりと、過去の常..."
     },
     {
       "title": "オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ",
       "url": "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T05:37:51+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 6.5,
+      "dynamics_score": 9.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に",
+      "url": "https://togetter.com/li/2756720",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T12:31:48+00:00",
+      "age_days": 113.77,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.3,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 3.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 3.00",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 113.8d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -377,7 +427,7 @@
       "url": "https://gigazine.net/news/20261010-readest/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T09:16:40+00:00",
-      "age_days": 0.88,
+      "age_days": 0.9,
       "topics": [
         "ai"
       ],
@@ -403,23 +453,23 @@
       "url": "https://gigazine.net/news/20261010-readest/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 114.18,
+      "age_days": 114.21,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 4.23,
+      "dynamics_score": 4.09,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.03,
+      "baseline_z_hint": 1.9,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.03",
+        "baseline z_hint 1.90",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 114.2d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -431,7 +481,7 @@
       "url": "https://togetter.com/li/2756720",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T23:55:32+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -456,7 +506,7 @@
       "url": "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T01:59:35+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -477,5 +527,5 @@
       "summary": "AI にコードを書かせる時代に、エンジニアは何の技能を残しておけばいいのか。 航空業界の制度を一次資料でたどると、答えは「自分で書く力」よりも「自動化から引き継ぐ力」のほうに寄っていきました。パイロットは普段から手で操縦しているわけではありません。それでも、自動操縦が外れたときに機体を立て直せる状態..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.2 - 180 km S of Pelabuhanratu, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “「男は狩り、女は採集」はどこまで本当？ 約8割で女性も狩り、乳児連れの例も 過去100年の狩猟採集社会を調査” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.69."
 }
