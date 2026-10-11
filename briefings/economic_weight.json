@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T07:27:50+00:00",
+  "generated_at": "2026-10-11T07:44:53+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1477,7 +1477,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-22T07:19:03+00:00",
-      "last_seen_at": "2026-10-11T07:27:35+00:00",
+      "last_seen_at": "2026-10-11T07:44:36+00:00",
       "status": "active"
     },
     {
@@ -1528,7 +1528,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
-      "last_seen_at": "2026-10-11T07:27:35+00:00",
+      "last_seen_at": "2026-10-11T07:44:36+00:00",
       "status": "active"
     },
     {
@@ -3534,7 +3534,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-11T05:51:16+00:00",
-      "last_seen_at": "2026-10-11T07:27:35+00:00",
+      "last_seen_at": "2026-10-11T07:44:36+00:00",
       "status": "active"
     },
     {
@@ -3568,7 +3568,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-11T02:09:49+00:00",
-      "last_seen_at": "2026-10-11T07:27:35+00:00",
+      "last_seen_at": "2026-10-11T07:44:36+00:00",
       "status": "active"
     },
     {
@@ -8770,7 +8770,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-11T07:27:35+00:00",
+      "last_seen_at": "2026-10-11T07:44:36+00:00",
       "status": "active"
     },
     {
@@ -10300,7 +10300,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-11T01:07:05+00:00",
-      "last_seen_at": "2026-10-11T07:27:35+00:00",
+      "last_seen_at": "2026-10-11T07:44:36+00:00",
       "status": "active"
     },
     {
@@ -16575,7 +16575,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-11T05:37:51+00:00",
-      "last_seen_at": "2026-10-11T07:27:35+00:00",
+      "last_seen_at": "2026-10-11T07:44:36+00:00",
       "status": "active"
     },
     {
@@ -20502,7 +20502,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-10-11T07:27:35+00:00",
+      "last_seen_at": "2026-10-11T07:44:36+00:00",
       "status": "active"
     },
     {
@@ -21080,7 +21080,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-01T10:18:55+00:00",
-      "last_seen_at": "2026-10-11T07:27:35+00:00",
+      "last_seen_at": "2026-10-11T07:44:36+00:00",
       "status": "active"
     },
     {
@@ -21624,7 +21624,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-11T04:32:57+00:00",
-      "last_seen_at": "2026-10-11T07:27:35+00:00",
+      "last_seen_at": "2026-10-11T07:44:36+00:00",
       "status": "active"
     },
     {
@@ -23719,6 +23719,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_435a024882db9ec5419c",
+      "title": "storytold/artcraft",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-11T07:27:35+00:00",
+      "last_seen_at": "2026-10-11T07:44:36+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_447fad9f2f74f059f7eb",
       "title": "Why podcasts are the next big data revolution",
       "event_classes": [
@@ -24194,23 +24211,6 @@
       "first_seen_at": "2026-09-23T04:56:56+00:00",
       "last_seen_at": "2026-09-23T05:42:29+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_435a024882db9ec5419c",
-      "title": "storytold/artcraft",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 107200.0,
-      "p50_usd": 10720000.0,
-      "p90_usd": 1072000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-11T07:27:35+00:00",
-      "last_seen_at": "2026-10-11T07:27:35+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
