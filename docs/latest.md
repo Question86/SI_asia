@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-11T11:33:50+00:00_
+_Generiert: 2026-10-11T11:45:33+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+17 neue relevante Treffer. Stärkstes Signal: „Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 82 km E of Petropavlovsk-Kamchatsky, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1k3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-11T11:36:41.040+00:00`, fetched `2026-10-11T11:45:02+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-11 11:18:27 UTC 2026-10-11 11:18:27 UTC at epicenter Location 53.079°N 159.862°E Depth 68.68 km (42.68 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 260 km WNW of Houma, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-11T10:26:30.040+00:00`, fetched `2026-10-11T10:32:25+00:00`
@@ -68,15 +77,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-11 07:28:52 UTC 2026-10-11 07:28:52 UTC at epicenter Location 23.692°S 179.965°E Depth 546.34 km (339.48 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.7 - 110 km SSE of Sola, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-11T05:42:11.040+00:00`, fetched `2026-10-11T05:50:35+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-11 05:07:57 UTC 2026-10-11 05:07:57 UTC at epicenter Location 14.734°S 168.070°E Depth 10.60 km (6.59 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能** — Score 9, observation — [Quelle](https://gigazine.net/news/20261010-readest/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
