@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-11T12:21:16Z",
+  "generated_at": "2026-10-11T12:50:18Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “storytold/artcraft” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/storytold/artcraft",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-11T07:27:03+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -39,11 +39,36 @@
       "summary": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers https://getartcraft.com ArtCraft The IDE for artists. https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 Watch the two-minute ArtCraft demo on YouTube Download ArtCraft · GitHub releases · Build from source A…"
     },
     {
+      "title": "M 4.8 - 165 km SSE of Miyakojima, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ka",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-11T12:31:54.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-11 12:13:18 UTC 2026-10-11 12:13:18 UTC at epicenter Location 23.502°N 126.126°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.2 - 180 km S of Pelabuhanratu, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T03:49:32.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -68,7 +93,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T02:52:52.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -93,7 +118,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T05:51:16+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -118,7 +143,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T07:19:03+00:00",
-      "age_days": 19.21,
+      "age_days": 19.23,
       "topics": [
         "general"
       ],
@@ -141,11 +166,61 @@
       "summary": ""
     },
     {
+      "title": "Hono in this era",
+      "url": "https://slides.yusu.ke/honoconf-2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-11T12:33:03+00:00",
+      "age_days": 0.01,
+      "topics": [],
+      "dynamics_score": 19.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.8 - 165 km SSE of Miyakojima, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ka",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-28T23:45:53+00:00",
+      "age_days": 43.54,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.48,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.7,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.70",
+        "aging penalty -7.9 for 43.5d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "「男は狩り、女は採集」はどこまで本当？ 約8割で女性も狩り、乳児連れの例も 過去100年の狩猟採集社会を調査",
       "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002038/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-01T10:18:55+00:00",
-      "age_days": 10.08,
+      "age_days": 10.11,
       "topics": [
         "general"
       ],
@@ -166,11 +241,35 @@
       "summary": ""
     },
     {
+      "title": "Hono in this era",
+      "url": "https://slides.yusu.ke/honoconf-2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-11T09:03:48+00:00",
+      "age_days": 0.16,
+      "topics": [],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "::title:: Hono in this era Yusuke Wada Hono Conference 2026 ・ October 11, 2026 ::center size=1.5 bg=white:: 時代 ::center:: Hono Conference 2025 2025/10/18 npmダウンロード数 2025年10月 → 1,110万 / 月 2026年9月 → 2.67億 / 月 -# api.npmjs.org ::right:: express → 2.7倍 react → 3.8倍 next → 4.1倍 zo..."
+    },
+    {
       "title": "Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン",
       "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-11T01:07:05+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -196,7 +295,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1k3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-11T11:36:41.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -215,106 +314,6 @@
         "high terms: 10, 9.8"
       ],
       "summary": "Time 2026-10-11 11:18:27 UTC 2026-10-11 11:18:27 UTC at epicenter Location 53.079°N 159.862°E Depth 68.68 km (42.68 mi)"
-    },
-    {
-      "title": "M 4.6 - 260 km WNW of Houma, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-11T10:26:30.040+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-11 10:05:41 UTC 2026-10-11 10:05:41 UTC at epicenter Location 20.386°S 177.664°W Depth 512.92 km (318.71 mi)"
-    },
-    {
-      "title": "M 4.5 - south of the Fiji Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1j3",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-11T07:46:37.040+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10, 9.9"
-      ],
-      "summary": "Time 2026-10-11 07:28:52 UTC 2026-10-11 07:28:52 UTC at epicenter Location 23.692°S 179.965°E Depth 546.34 km (339.48 mi)"
-    },
-    {
-      "title": "M 4.7 - 110 km SSE of Sola, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1il",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-11T05:42:11.040+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-11 05:07:57 UTC 2026-10-11 05:07:57 UTC at epicenter Location 14.734°S 168.070°E Depth 10.60 km (6.59 mi)"
-    },
-    {
-      "title": "M 5.0 - 3 km NW of Flores, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-11T02:06:11.382+00:00",
-      "age_days": 0.43,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "DYFI? - III Time 2026-10-11 01:50:52 UTC 2026-10-11 01:50:52 UTC at epicenter Location 7.514°N 80.428°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
@@ -326,8 +325,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
-      "watch": 8
+      "strong": 5,
+      "watch": 7
     }
   }
 }
