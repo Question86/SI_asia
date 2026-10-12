@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-12T04:06:54Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Don’t build another app. Build inside the ones people already open” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=22.0.",
+  "generated_at": "2026-10-12T04:43:25Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Beyond automation: How AI is reshaping the SME landscape in Southeast Asia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,63 @@
   ],
   "top_dynamics": [
     {
+      "title": "Beyond automation: How AI is reshaping the SME landscape in Southeast Asia",
+      "url": "https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-12T04:00:42+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Artificial intelligence is increasingly moving from an experimental technology to an operational tool for small and medium-sized enterprises across Southeast Asia. Yet the more important question is not whether SMEs will use AI, but where AI can create measurable business value without adding disproportionate complexi…"
+    },
+    {
+      "title": "M 4.5 - 53 km S of Kushiro, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-12T04:07:59.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-12 03:44:57 UTC 2026-10-12 03:44:57 UTC at epicenter Location 42.501°N 144.278°E Depth 65.89 km (40.94 mi)"
+    },
+    {
       "title": "Don’t build another app. Build inside the ones people already open",
       "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T03:00:50+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "macro"
       ],
@@ -37,11 +89,36 @@
       "summary": "The average smartphone user opens around ten apps a day and about 34 in a month, according to Sensor Tower’s State of Mobile 2026. Global app downloads grew 0.8 per cent last year. The home screen is not an open market. It is a short list that changes slowly, and every new consumer app is […] The post Don’t build anot…"
     },
     {
+      "title": "Malaysia’s Budget 2027 hands startups US$110.4M but the bigger cheques go elsewhere",
+      "url": "https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-12T04:39:21+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 21.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Your deeptech company does not have one capital problem",
       "url": "https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T02:01:07+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -61,28 +138,55 @@
       "summary": ""
     },
     {
-      "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
-      "url": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 115.09,
+      "title": "M 4.5 - 53 km S of Kushiro, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-05T01:09:44+00:00",
+      "age_days": 37.15,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.64,
-      "raw_band": "watch",
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.58,
+      "baseline_z_hint": 2.9,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 5.58",
-        "aging penalty -8.0 for 115.1d old signal"
+        "baseline z_hint 2.90",
+        "aging penalty -5.7 for 37.1d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Beyond automation: How AI is reshaping the SME landscape in Southeast Asia",
+      "url": "https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-12T04:39:21+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -91,7 +195,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T02:27:45.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -116,11 +220,35 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T02:47:41+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Don’t build another app. Build inside the ones people already open",
+      "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-12T03:11:15+00:00",
       "age_days": 0.06,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.0,
+      "dynamics_score": 15.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -136,11 +264,11 @@
       "summary": ""
     },
     {
-      "title": "【やじうまミニレビュー】 こういうのでいいんだよ……のはずだった。Amazonベーシック格安USB4ケーブル",
-      "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147366.html",
+      "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
+      "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-12T01:23:01+00:00",
-      "age_days": 0.11,
+      "published_at": "2026-10-12T02:47:41+00:00",
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -160,154 +288,26 @@
       "summary": ""
     },
     {
-      "title": "Why SEA’s retailers need to protect AI-powered customer experience with observability",
-      "url": "https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-12T01:23:01+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Don’t build another app. Build inside the ones people already open",
-      "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-12T03:11:15+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
-      "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
+      "title": "【やじうまミニレビュー】 こういうのでいいんだよ……のはずだった。Amazonベーシック格安USB4ケーブル",
+      "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147366.html",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-12T02:47:41+00:00",
-      "age_days": 0.06,
+      "published_at": "2026-10-12T01:23:01+00:00",
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.8 - 56 km E of Yairipok, India",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nr",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-12T01:45:49.040+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Time 2026-10-12 01:28:20 UTC 2026-10-12 01:28:20 UTC at epicenter Location 24.720°N 94.602°E Depth 78.18 km (48.58 mi)"
-    },
-    {
-      "title": "M 4.8 - 56 km E of Yairipok, India",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nr",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-12T02:01:07+00:00",
-      "age_days": 0.09,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Below US$82,620 Bitcoin could test US$81,154 next",
-      "url": "https://e27.co/below-us82620-bitcoin-could-test-us81154-next-20261012/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-12T03:43:50+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     }
@@ -321,9 +321,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 2,
-      "watch": 6,
-      "quiet": 4
+      "strong": 5,
+      "watch": 7
     }
   }
 }

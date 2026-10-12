@@ -80,5 +80,140 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Beyond automation: How AI is reshaping the SME landscape in Southeast Asia” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Beyond automation: How AI is reshaping the SME landscape in Southeast Asia",
+        "url": "https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-12T04:00:42+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Artificial intelligence is increasingly moving from an experimental technology to an operational tool for small and medium-sized enterprises across Southeast Asia. Yet the more important question is not whether SMEs will use AI, but where AI can create measurable business value without adding disproportionate complexi…"
+      },
+      {
+        "title": "M 4.5 - 53 km S of Kushiro, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-12T04:07:59.040+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 23.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "Time 2026-10-12 03:44:57 UTC 2026-10-12 03:44:57 UTC at epicenter Location 42.501°N 144.278°E Depth 65.89 km (40.94 mi)"
+      },
+      {
+        "title": "Don’t build another app. Build inside the ones people already open",
+        "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-12T03:00:50+00:00",
+        "age_days": 0.07,
+        "topics": [
+          "axiom",
+          "macro"
+        ],
+        "dynamics_score": 22.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "The average smartphone user opens around ten apps a day and about 34 in a month, according to Sensor Tower’s State of Mobile 2026. Global app downloads grew 0.8 per cent last year. The home screen is not an open market. It is a short list that changes slowly, and every new consumer app is […] The post Don’t build anot…"
+      },
+      {
+        "title": "Malaysia’s Budget 2027 hands startups US$110.4M but the bigger cheques go elsewhere",
+        "url": "https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-12T04:39:21+00:00",
+        "age_days": 0.0,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 21.5,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1",
+          "high terms: 10"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Your deeptech company does not have one capital problem",
+        "url": "https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-12T02:01:07+00:00",
+        "age_days": 0.11,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 21.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
