@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T16:57:06+00:00",
-  "today_file_total": 62,
+  "generated_at": "2026-10-12T17:10:38+00:00",
+  "today_file_total": 63,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -29,29 +29,6 @@
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "cve:CVE-2024-20353",
-      "title": "Multiples vulnérabilités dans les produits Cisco (25 avril 2024)",
-      "sources": [
-        "CERT-FR Alertes"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 19.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:singapore-smes-buy-back-time-but-messy-data",
@@ -173,6 +150,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+    },
+    {
+      "key": "cve:CVE-2024-20353",
+      "title": "Multiples vulnérabilités dans les produits Cisco (25 avril 2024)",
+      "sources": [
+        "CERT-FR Alertes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 5.5 - 123 km w of neiafu, tonga:5.5",
@@ -394,6 +394,30 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:togetter.com",
+      "title": "プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2757347",
+        "https://togetter.com/li/2757239"
+      ],
+      "finding_count": 2,
+      "max_score": 5,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:vietnam-shoppers-are-asking-first-but-google-still",
       "title": "Vietnam’s shoppers are asking AI first, but Google still gets the last word",
       "sources": [
@@ -452,29 +476,6 @@
       ],
       "urls": [
         "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1259/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "github_repo:pytorch/pytorch",
-      "title": "pytorch/pytorch",
-      "sources": [
-        "GitHub Trending RSS All Languages Daily"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/pytorch/pytorch"
       ],
       "finding_count": 1,
       "max_score": 10,

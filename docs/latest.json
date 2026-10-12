@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T16:57:03+00:00",
-  "run_id": "2026-10-12T16:57:03+00:00",
+  "generated_at": "2026-10-12T17:10:34+00:00",
+  "run_id": "2026-10-12T17:10:34+00:00",
   "date": "2026-10-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 62
+      "configured_public_sources_only": 63
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "today_file_total": 63,
+    "displayed_findings": 63,
     "high": 0,
     "medium": 29,
-    "observe": 33,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -1364,6 +1364,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0db68c222cc289a2ed44"
+      },
+      {
+        "title": "プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に",
+        "url": "https://togetter.com/li/2757347",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-12T12:00:35+00:00",
+        "fetched_at": "2026-10-12T17:10:03+00:00",
+        "summary": "プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1b8198cb0ec4510de13a"
       },
       {
         "title": "OpenCode から Pi へ切り替えた",
@@ -2954,6 +2975,27 @@
       "id": "0db68c222cc289a2ed44"
     },
     {
+      "title": "プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に",
+      "url": "https://togetter.com/li/2757347",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-12T12:00:35+00:00",
+      "fetched_at": "2026-10-12T17:10:03+00:00",
+      "summary": "プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1b8198cb0ec4510de13a"
+    },
+    {
       "title": "OpenCode から Pi へ切り替えた",
       "url": "https://voluntas.ghost.io/migrate-opencode-to-pi/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3207,28 +3249,25 @@
   ],
   "new_findings": [
     {
-      "title": "Multiples vulnérabilités dans les produits Cisco (25 avril 2024)",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/",
-      "source": "CERT-FR Alertes",
+      "title": "プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に",
+      "url": "https://togetter.com/li/2757347",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2024-04-25T00:00:00+00:00",
-      "fetched_at": "2026-10-12T16:56:32+00:00",
-      "summary": "Le 24 avril 2024, Cisco a publié trois avis de sécurité concernant des vulnérabilités affectant les équipements de sécurité ASA et FTD. Deux d'entre eux concernent les vulnérabilités CVE-2024-20353 et CVE-2024-20359 qui sont activement exploitées dans le cadre d'attaques ciblées. La vulnérabilité...",
+      "published_at": "2026-10-12T12:00:35+00:00",
+      "fetched_at": "2026-10-12T17:10:03+00:00",
+      "summary": "プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に",
       "matched_keywords": [
-        "alerte",
-        "attaque",
-        "CERT-FR",
-        "Security",
-        "vulnérabilité"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); CERT-FR (+2.0); alerte (+2.0); attaque (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "43d2f983f92808d518e1"
+      "id": "1b8198cb0ec4510de13a"
     }
   ],
   "source_errors": [],
