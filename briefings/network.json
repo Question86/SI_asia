@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-12T18:52:06+00:00",
+  "generated_at": "2026-10-12T19:01:40+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 66,
-    "clusters": 41,
+    "findings": 68,
+    "clusters": 43,
     "cross_source_confrmed": 0,
-    "hot": 1,
-    "early_signals": 1,
-    "dominance_penalized": 12
+    "hot": 0,
+    "early_signals": 0,
+    "dominance_penalized": 14
   },
   "clusters": [
     {
@@ -28,22 +28,22 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 30.0,
-      "hot": true,
+      "network_score": 24.5,
+      "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.1,
-      "ranking_score": 30.0,
+      "ranking_score": 24.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
@@ -73,18 +73,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 20.36,
+      "network_score": 19.92,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 64.3,
-      "ranking_score": 20.36,
+      "ranking_score": 19.92,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.86,
+      "baseline_bonus": 2.42,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -331,8 +331,8 @@
       "first_seen_at": "2026-09-05T01:09:44+00:00"
     },
     {
-      "key": "earthquake:chile:4.8",
-      "title": "M 4.8 - 23 km SW of San Antonio, Chile",
+      "key": "earthquake:m 4.7 - mid-indian ridge:4.7",
+      "title": "M 4.7 - Mid-Indian Ridge",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -341,7 +341,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1uq"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ut"
       ],
       "finding_count": 1,
       "max_score": 11,
@@ -349,27 +349,27 @@
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 14.06,
+      "network_score": 13.76,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 16.7,
-      "ranking_score": 14.06,
+      "ranking_score": 13.76,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 2.5,
-      "baseline_bonus": 1.16,
+      "baseline_bonus": 0.86,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": true,
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-09-03T21:39:57+00:00"
+      "first_seen_at": "2026-09-01T23:01:12+00:00"
     },
     {
       "key": "domain:cert.europa.eu",
@@ -490,6 +490,47 @@
       "first_seen_at": "2026-10-12T01:23:01+00:00"
     },
     {
+      "key": "earthquake:m 4.6 - mid-indian ridge:4.6",
+      "title": "M 4.6 - Mid-Indian Ridge",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1uv"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.7,
+      "ranking_score": 12.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-10-12T19:01:40+00:00"
+    },
+    {
       "key": "title:vuln-rabilit-dans-microsoft-exchange-server-octobre-2026",
       "title": "Vulnérabilité dans Microsoft Exchange Server (05 octobre 2026)",
       "sources": [
@@ -587,18 +628,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.32,
+      "network_score": 12.29,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.1,
-      "ranking_score": 12.32,
+      "ranking_score": 12.29,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.32,
+      "baseline_bonus": 0.29,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -838,6 +879,47 @@
       "first_seen_at": "2026-10-12T03:11:15+00:00"
     },
     {
+      "key": "earthquake:chile:4.8",
+      "title": "M 4.8 - 23 km SW of San Antonio, Chile",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1uq"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 13.7,
+      "ranking_score": 10.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-03T21:39:57+00:00"
+    },
+    {
       "key": "earthquake:alaska:4.6",
       "title": "M 4.6 - 194 km SE of Attu Station, Alaska",
       "sources": [
@@ -939,18 +1021,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 9.85,
+      "network_score": 9.82,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.3,
-      "ranking_score": 9.85,
+      "ranking_score": 9.82,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.35,
+      "baseline_bonus": 0.32,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1621,7 +1703,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-12T18:52:07Z",
+    "generated_at": "2026-10-12T19:01:41Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

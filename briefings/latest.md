@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T18:52:03+00:00_
+_Generiert: 2026-10-12T19:01:38+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot app for Beginners: How to teach Copilot about your codebase“ aus GitHub Blog Atom (Score 23, observation).
+68 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot app for Beginners: How to teach Copilot about your codebase“ aus GitHub Blog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -211,23 +211,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Southeast Asia’s retail sector is racing to embed AI into every layer of the customer journey and nowhere is that race more visible than in Singapore. The government announced a 400 per cent tax deduction on AI expenditure to help small and medium-sized retailers adopt the technology, a clear signal that AI is no longer […] The post Why SEA’s retailers need to protect AI-powered customer experience with observabilit…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - 23 km SW of San Antonio, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1uq)
+- **M 4.6 - Mid-Indian Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1uv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-12T18:49:13.989+00:00`, fetched `2026-10-12T18:51:35+00:00`
+  - Zeit: published `2026-10-12T18:58:30.040+00:00`, fetched `2026-10-12T19:01:08+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - III Time 2026-10-12 18:17:18 UTC 2026-10-12 18:17:18 UTC at epicenter Location 33.721°S 71.811°W Depth 33.63 km (20.89 mi)
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-12 18:30:19 UTC 2026-10-12 18:30:19 UTC at epicenter Location 16.538°S 67.000°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 194 km SE of Attu Station, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1s8)
+- **M 4.7 - Mid-Indian Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ut)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-12T15:27:04.780+00:00`, fetched `2026-10-12T15:27:10+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Zeit: published `2026-10-12T18:51:44.040+00:00`, fetched `2026-10-12T19:01:08+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - II Time 2026-10-12 14:29:53 UTC 2026-10-12 14:29:53 UTC at epicenter Location 51.426°N 174.834°E Depth 10.00 km (6.21 mi)
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-12 18:27:41 UTC 2026-10-12 18:27:41 UTC at epicenter Location 16.294°S 67.110°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Vulnérabilité dans Microsoft Exchange Server (05 octobre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1258/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
