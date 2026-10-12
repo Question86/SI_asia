@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T19:01:58+00:00",
+  "generated_at": "2026-10-12T19:20:44+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1307,7 +1307,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T11:56:17+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -1460,7 +1460,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T01:09:44+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -1596,7 +1596,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-12T11:54:23+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -1851,7 +1851,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-12T05:03:05+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -2395,7 +2395,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:39:57+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -3092,7 +3092,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T23:01:12+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -3262,7 +3262,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-12T02:01:07+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -3449,7 +3449,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-27T08:27:03+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -3538,6 +3538,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f488b9fe48607654b696",
+      "title": "M 4.6 - Mid-Indian Ridge",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f76b04666ca9d54aa23a",
       "title": "M 4.9 - 124 km N of Aksu, China",
       "event_classes": [
@@ -3587,23 +3604,6 @@
       "first_seen_at": "2026-09-29T10:50:43+00:00",
       "last_seen_at": "2026-09-29T19:18:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_f488b9fe48607654b696",
-      "title": "M 4.6 - Mid-Indian Ridge",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-12T19:01:40+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_00e85c3d2c185ba34101",
@@ -7512,7 +7512,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -8328,7 +8328,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T16:57:06+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -9076,7 +9076,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T18:01:04+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -10657,7 +10657,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T05:03:05+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -11150,7 +11150,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T08:29:02+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -11218,7 +11218,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T04:39:21+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -12442,7 +12442,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T02:01:07+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -12595,7 +12595,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T01:23:01+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -13295,6 +13295,23 @@
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_06523cffeaa87a3460f7",
+      "title": "Anonymous organization-level registries for Dependabot",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-12T19:20:23+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_062e97ed5d926e4dc4f8",
@@ -16098,7 +16115,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
@@ -19993,7 +20010,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T13:57:51+00:00",
       "last_seen_at": "2026-10-12T19:01:40+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a3140b3343ccc0817b9c",
@@ -21284,7 +21301,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-10-12T19:01:40+00:00",
+      "last_seen_at": "2026-10-12T19:20:23+00:00",
       "status": "active"
     },
     {
