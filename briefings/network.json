@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12T10:35:05+00:00",
+  "generated_at": "2026-10-12T10:53:08+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 32,
+    "findings": 33,
     "clusters": 25,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -21,29 +21,29 @@
       ],
       "urls": [
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3195",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3852",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1833",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0518",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3355",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3841"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3355"
       ],
-      "finding_count": 7,
+      "finding_count": 8,
       "max_score": 16,
-      "credibility_total": 7.35,
+      "credibility_total": 8.4,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 17.5,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 30.7,
-      "ranking_score": 17.5,
+      "raw_network_score": 35.8,
+      "ranking_score": 20.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
+      "momentum_bonus": 2.5,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -249,44 +249,6 @@
       "first_seen_at": "2026-10-12T01:23:01+00:00"
     },
     {
-      "key": "domain:hackers-champloo.org",
-      "title": "実践！ SRE × AI - ABEMA における AIOps -",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://speakerdeck.com/tetsuya28/jissen-sre-x-ai-abema-niokeru-aiops"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 13.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-12T10:35:05+00:00"
-    },
-    {
       "key": "earthquake:m 5.5 - 123 km w of neiafu, tonga:5.5",
       "title": "M 5.5 - 123 km W of Neiafu, Tonga",
       "sources": [
@@ -444,6 +406,44 @@
       "first_seen_at": "2026-10-12T07:49:35+00:00"
     },
     {
+      "key": "domain:hackers-champloo.org",
+      "title": "実践！ SRE × AI - ABEMA における AIOps -",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://speakerdeck.com/tetsuya28/jissen-sre-x-ai-abema-niokeru-aiops"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-12T10:35:05+00:00"
+    },
+    {
       "key": "title:don-build-another-app-build-inside-ones-people",
       "title": "Don’t build another app. Build inside the ones people already open",
       "sources": [
@@ -541,18 +541,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.05,
+      "network_score": 10.01,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 12.2,
-      "ranking_score": 10.05,
+      "ranking_score": 10.01,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.55,
+      "baseline_bonus": 0.51,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -991,7 +991,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-12T10:35:06Z",
+    "generated_at": "2026-10-12T10:53:09Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
