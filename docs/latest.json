@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T11:25:55+00:00",
-  "run_id": "2026-10-12T11:25:55+00:00",
+  "generated_at": "2026-10-12T11:41:21+00:00",
+  "run_id": "2026-10-12T11:41:21+00:00",
   "date": "2026-10-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 46
+      "configured_public_sources_only": 47
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 46,
-    "displayed_findings": 46,
+    "new_relevant_findings": 1,
+    "today_file_total": 47,
+    "displayed_findings": 47,
     "high": 0,
     "medium": 23,
-    "observe": 23,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -1016,6 +1016,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "93a75732a0afcd1e0473"
+      },
+      {
+        "title": "崩れまくりのAI生成ポスターが世に出るのを不思議に思ってたけど「コストを抑えたくて使ってるんだからチェックが疎かになるのは当然」と言われて妙に納得した話",
+        "url": "https://togetter.com/li/2757239",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-12T07:26:15+00:00",
+        "fetched_at": "2026-10-12T11:40:52+00:00",
+        "summary": "山口よしみ @Yoshimi08 なんで崩れまくりの生成AIのポスターとか世に出ちゃうのか不思議なんだけど、「人も金も時間も使いたくなくて生成AI使ってんだからそれらが全部必要なチェック作業がおろそかになるのは当然」的なコメント見かけてなんか妙に納得。 2026-10-11 15:12:26 山口よしみ @Yoshimi08 時間の都合とかで最...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "79289da4609e55923259"
       },
       {
         "title": "なんでもリバースエンジニアリング。ソースコード非公開のアプリをAIに解析させ、類似機能を作らせるオープンソースツール「REA」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
@@ -2174,6 +2195,27 @@
       "id": "93a75732a0afcd1e0473"
     },
     {
+      "title": "崩れまくりのAI生成ポスターが世に出るのを不思議に思ってたけど「コストを抑えたくて使ってるんだからチェックが疎かになるのは当然」と言われて妙に納得した話",
+      "url": "https://togetter.com/li/2757239",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-12T07:26:15+00:00",
+      "fetched_at": "2026-10-12T11:40:52+00:00",
+      "summary": "山口よしみ @Yoshimi08 なんで崩れまくりの生成AIのポスターとか世に出ちゃうのか不思議なんだけど、「人も金も時間も使いたくなくて生成AI使ってんだからそれらが全部必要なチェック作業がおろそかになるのは当然」的なコメント見かけてなんか妙に納得。 2026-10-11 15:12:26 山口よしみ @Yoshimi08 時間の都合とかで最...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "79289da4609e55923259"
+    },
+    {
       "title": "なんでもリバースエンジニアリング。ソースコード非公開のアプリをAIに解析させ、類似機能を作らせるオープンソースツール「REA」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
       "url": "https://www.techno-edge.net/article/2026/10/12/5574.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2343,152 +2385,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-12T11:19:11+00:00",
-      "fetched_at": "2026-10-12T11:25:24+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Foreman ausnutzen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Patch",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e8b4d40f71dd174e4245"
-    },
-    {
-      "title": "[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3869",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-12T11:19:11+00:00",
-      "fetched_at": "2026-10-12T11:25:24+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in SmarterTools SmarterMail ausnutzen, um beliebigen Code mit SYSTEM-Rechten auszuführen, erhöhte Rechte auch weiterhin zu behalten, nachdem die Administratorrechte entzogen wurden, Cross-Site-Scripting-Angriffe zu starten, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren sowie weitere, unspezifizierte Angriffe durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7ca483274f42b3b926a8"
-    },
-    {
-      "title": "[NEU] [hoch] ImageMagick: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3867",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-12T11:14:12+00:00",
-      "fetched_at": "2026-10-12T11:25:24+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen, den Speicher zu beschädigen, Cross-Site-Scripting-Angriffe durchzuführen, einen Denial-of-Service-Angriff auszulösen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bfc03afa9fc5bf5f8035"
-    },
-    {
-      "title": "[NEU] [niedrig] mutt: Schwachstelle ermöglicht Manipulation von Daten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3866",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-12T11:14:11+00:00",
-      "fetched_at": "2026-10-12T11:25:24+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in mutt ausnutzen, um Daten zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ca9ae2b2376f11f98c53"
-    },
-    {
-      "title": "[NEU] [hoch] IBM SPSS Modeler: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3865",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-12T11:14:11+00:00",
-      "fetched_at": "2026-10-12T11:25:24+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in IBM SPSS ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Denial of Service Angriffe durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3228292bd871900c4f08"
-    },
-    {
-      "title": "[NEU] [mittel] LiteLLM: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3864",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-12T11:14:11+00:00",
-      "fetched_at": "2026-10-12T11:25:24+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in LiteLLM ausnutzen, um Informationen offenzulegen, Daten zu manipulieren und Sicherheitsmaßnahmen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "757166c8119eb44185d1"
-    },
-    {
-      "title": "OpenCode から Pi へ切り替えた",
-      "url": "https://voluntas.ghost.io/migrate-opencode-to-pi/",
+      "title": "崩れまくりのAI生成ポスターが世に出るのを不思議に思ってたけど「コストを抑えたくて使ってるんだからチェックが疎かになるのは当然」と言われて妙に納得した話",
+      "url": "https://togetter.com/li/2757239",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-12T07:48:10+00:00",
-      "fetched_at": "2026-10-12T11:25:24+00:00",
-      "summary": "普段は DeepSeek Harness (以降 DSH) の時雨堂フォークをブラウザで利用しているのですが、 CLI でハーネスを利用する際は OpenCode2 を利用していました。 最近 OpenCode v2 になってデフォルトがデーモン起動になったり、機能が多くなってきてちょっと使いづらいな ... と感じていました。また Ollama Cloud で DeepSe...",
+      "published_at": "2026-10-12T07:26:15+00:00",
+      "fetched_at": "2026-10-12T11:40:52+00:00",
+      "summary": "山口よしみ @Yoshimi08 なんで崩れまくりの生成AIのポスターとか世に出ちゃうのか不思議なんだけど、「人も金も時間も使いたくなくて生成AI使ってんだからそれらが全部必要なチェック作業がおろそかになるのは当然」的なコメント見かけてなんか妙に納得。 2026-10-11 15:12:26 山口よしみ @Yoshimi08 時間の都合とかで最...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2500,7 +2403,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "93a75732a0afcd1e0473"
+      "id": "79289da4609e55923259"
     }
   ],
   "source_errors": [],

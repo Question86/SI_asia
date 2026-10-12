@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T11:25:55+00:00_
+_Generiert: 2026-10-12T11:41:21+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+47 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 ## Priorität Hoch
 
