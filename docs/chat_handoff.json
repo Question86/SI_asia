@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-12T11:03:06+00:00",
+  "generated_at": "2026-10-12T11:25:55+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 7,
+    "today_file_total": 46,
+    "displayed_findings": 46,
     "high": 0,
-    "medium": 17,
-    "observe": 22
+    "medium": 23,
+    "observe": 23
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "[NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-12T11:19:11+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Foreman ausnutzen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
+      "section": "medium"
+    },
     {
       "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Schwachstelle ermöglicht Denial of Service",
       "source": "BSI CERT-Bund Security Advisories",
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824",
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache CXF ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und offenzulegen, Benutzer auf vom Angreifer kontrollierte Websites umzuleiten oder Denial-of-Service-Zustände auszulösen.",
-      "section": "medium"
-    },
-    {
-      "title": "Singapore SMEs buy back time with AI, but messy data keeps pilots stuck",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-12T05:00:13+00:00",
-      "relevance_score": 16,
-      "url": "https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/",
-      "summary": "Ask a Singapore small business owner what AI has done for them, and the answer is time. Ask whether their systems are ready to let AI run more of the business, and the answer gets a lot less certain. Also Read: Beyond automation: How AI is reshaping the SME l…",
       "section": "medium"
     },
     {
@@ -100,139 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:49:11+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Strapi ausnutzen, um Informationen offenzulegen."
-      },
-      {
-        "title": "[NEU] [mittel] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:54:12+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU Emacs ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3858",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:54:12+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in GitLab ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um Daten zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen."
-      },
-      {
-        "title": "[NEU] [mittel] Rocket Remote Desktop: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3855",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:54:11+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: remote",
-          "security high-signal: remote"
-        ],
-        "summary": "Ein Angreifer kann eine Schwachstelle in Rocket Remote Desktop ausnutzen, um Informationen offenzulegen."
-      },
-      {
-        "title": "[NEU] [hoch] MariaDB: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3856",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:54:11+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in MariaDB ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um Sicherheitsvorkehrungen zu umgehen."
-      }
-    ]
-  }
+  ]
 }

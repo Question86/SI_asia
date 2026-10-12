@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-12T11:03:09+00:00",
-  "today_file_total": 39,
+  "generated_at": "2026-10-12T11:25:58+00:00",
+  "today_file_total": 46,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Schwachstelle ermöglicht Denial of Service",
+      "title": "[NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -12,20 +12,20 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3858",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3855"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3869",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3867"
       ],
-      "finding_count": 14,
+      "finding_count": 20,
       "max_score": 16,
-      "credibility_total": 14.7,
+      "credibility_total": 21.0,
       "cross_source_confirmed": false,
       "momentum_delta": 6,
       "momentum_status": "increasing",
-      "network_score": 63.4,
+      "network_score": 76.0,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -416,6 +416,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:voluntas.ghost.io",
+      "title": "OpenCode から Pi へ切り替えた",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://voluntas.ghost.io/migrate-opencode-to-pi/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "domain:www.heise.de",
       "title": "Warnung vor Angriffen auf alte Sicherheitslücken",
       "sources": [
@@ -449,29 +472,6 @@
       ],
       "urls": [
         "https://www.techno-edge.net/article/2026/10/12/5574.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:100",
-      "title": "スロップ表現100連発",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://zenn.dev/todesking/articles/5bc43f449ecdf6"
       ],
       "finding_count": 1,
       "max_score": 5,
