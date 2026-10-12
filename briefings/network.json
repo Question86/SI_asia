@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T22:36:37+00:00",
+  "generated_at": "2026-10-12T22:49:03+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 76,
@@ -329,47 +329,6 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-05T01:09:44+00:00"
-    },
-    {
-      "key": "domain:qiita.com",
-      "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
-        "https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d",
-        "https://qiita.com/leolui2004/items/226062f17e55202e8c47",
-        "https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b"
-      ],
-      "finding_count": 4,
-      "max_score": 8,
-      "credibility_total": 4.2,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.97,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 19.4,
-      "ranking_score": 13.97,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.97,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
       "key": "domain:cert.europa.eu",
@@ -1081,6 +1040,47 @@
       "first_seen_at": "2026-10-12T02:01:07+00:00"
     },
     {
+      "key": "domain:qiita.com",
+      "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
+        "https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d",
+        "https://qiita.com/leolui2004/items/226062f17e55202e8c47",
+        "https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b"
+      ],
+      "finding_count": 4,
+      "max_score": 8,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.24,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.4,
+      "ranking_score": 10.24,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.74,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
       "key": "title:push-attribution-commits-limited-public-preview",
       "title": "Push attribution for commits in limited public preview",
       "sources": [
@@ -1500,18 +1500,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 6.71,
+      "network_score": 6.68,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 9.2,
-      "ranking_score": 6.71,
+      "ranking_score": 6.68,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.21,
+      "baseline_bonus": 0.18,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1979,7 +1979,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-12T22:36:38Z",
+    "generated_at": "2026-10-12T22:49:03Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

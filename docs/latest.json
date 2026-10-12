@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T22:36:33+00:00",
-  "run_id": "2026-10-12T22:36:33+00:00",
+  "generated_at": "2026-10-12T22:49:00+00:00",
+  "run_id": "2026-10-12T22:49:00+00:00",
   "date": "2026-10-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 76,
     "displayed_findings": 76,
     "high": 0,
@@ -4027,29 +4027,7 @@
       "id": "9acc7ae451e8220f48ef"
     }
   ],
-  "new_findings": [
-    {
-      "title": "抽象的なことを考える時、無意識に具体化しないためのメモ - Qiita",
-      "url": "https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-11T22:59:21+00:00",
-      "fetched_at": "2026-10-12T22:35:59+00:00",
-      "summary": "はじめに Whyを問うているつもりでいつの間にか、具体的なことを考えている時があるので気をつけることをメモする 芯をくっていると楽 抽象度高いところがずれていないと楽 キャリアハック、ブラックハットSEO、グレーゾーンを攻めるなどは本質的な価値をあげず、具体を緻密に計算して実行するから、少しのミスも許され...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5045d0e4cbbd826b77d0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
