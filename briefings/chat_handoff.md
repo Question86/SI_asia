@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-12T13:22:22+00:00_
+_Generated: 2026-10-12T13:57:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `57`
+- findings: `59`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-12T13:22:22+00:00_
 - url: https://cert.europa.eu/publications/security-advisories/2026-016/
 - summary: On 12 October 2026, GitLab released versions 19.4.2, 19.3.4 and 19.2.8 of GitLab Community Edition (CE) and Enterprise Edition (EE), fixing 24 security issues among which a critical vulnerability that could allow an unauthenticated attacker to execute arbitra…
 
-### 7. Your deeptech company does not have one capital problem
+### 7. Announcing 20260090 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-10-12T14:40:20+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260090.en.html
+- summary: Announcing 20260090 (MRO,liquidity providing), for 7 days deadline 09:30
+
+### 8. Your deeptech company does not have one capital problem
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-12T02:00:33+00:00`
 - url: https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/
 - summary: Open a deeptech company’s use-of-proceeds slide and one number often sits at the top: the size of the next round. Underneath, however, the money may be doing very different jobs—funding an unproven product, buying equipment, carrying inventory, financing rece…
-
-### 8. Why SEA’s retailers need to protect AI-powered customer experience with observability
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-12T01:00:26+00:00`
-- url: https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/
-- summary: Southeast Asia’s retail sector is racing to embed AI into every layer of the customer journey and nowhere is that race more visible than in Singapore. The government announced a 400 per cent tax deduction on AI expenditure to help small and medium-sized retai…
 
 END OF DOCUMENT

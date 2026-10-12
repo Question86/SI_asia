@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T13:22:22+00:00_
+_Generiert: 2026-10-12T13:57:48+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+59 neue relevante Treffer. Stärkstes Signal: „[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: On 12 October 2026, GitLab released versions 19.4.2, 19.3.4 and 19.2.8 of GitLab Community Edition (CE) and Enterprise Edition (EE), fixing 24 security issues among which a critical vulnerability that could allow an unauthenticated attacker to execute arbitrary code on the server. CERT-EU strongly recommends upgrading self-managed GitLab CE/EE instances to a fixed version as soon as possible, starting with internet-…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Announcing 20260090 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260090.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-10-12T14:40:20+00:00`, fetched `2026-10-12T13:57:19+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260090 (MRO,liquidity providing), for 7 days deadline 09:30
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Your deeptech company does not have one capital problem** — Score 12, observation — [Quelle](https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-12T02:00:33+00:00`, fetched `2026-10-12T02:00:31+00:00`
@@ -212,15 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Die CISA warnt vor beobachteten Angriffen unter anderem auf Apache Struts, BIND und ProFTPD. Die Lücken sind teils sehr alt.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **OpenCode から Pi へ切り替えた** — Score 5, observation — [Quelle](https://voluntas.ghost.io/migrate-opencode-to-pi/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-12T07:48:10+00:00`, fetched `2026-10-12T11:25:24+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 普段は DeepSeek Harness (以降 DSH) の時雨堂フォークをブラウザで利用しているのですが、 CLI でハーネスを利用する際は OpenCode2 を利用していました。 最近 OpenCode v2 になってデフォルトがデーモン起動になったり、機能が多くなってきてちょっと使いづらいな ... と感じていました。また Ollama Cloud で DeepSe...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
