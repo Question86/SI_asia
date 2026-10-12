@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T18:52:41+00:00",
+  "generated_at": "2026-10-12T19:02:11+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -5511,7 +5511,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_590a03a314254aa3e8e5",
@@ -8965,7 +8965,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8d8148f763bb012436ab",
@@ -9845,7 +9845,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9a93fcb3246f1eb6756b",
@@ -15456,6 +15456,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_f488b9fe48607654b696",
+      "title": "M 4.6 - Mid-Indian Ridge",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_f48c1a6ebe37231fca20",
