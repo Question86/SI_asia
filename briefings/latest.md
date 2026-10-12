@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T01:22:57+00:00_
+_Generiert: 2026-10-12T02:01:04+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „Why SEA’s retailers need to protect AI-powered customer experience with observability“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
+5 neue relevante Treffer. Stärkstes Signal: „Your deeptech company does not have one capital problem“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -65,6 +65,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **Your deeptech company does not have one capital problem** — Score 12, observation — [Quelle](https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-12T02:00:33+00:00`, fetched `2026-10-12T02:00:31+00:00`
+  - Treffer: APAC Trend Radar, funding, Watchgraph:capitals_power_centers, Webentwicklung
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Open a deeptech company’s use-of-proceeds slide and one number often sits at the top: the size of the next round. Underneath, however, the money may be doing very different jobs—funding an unproven product, buying equipment, carrying inventory, financing receivables or supporting a new deployment. For fundraising, grouping them together is convenient. For deciding what kind […] The post Your deeptech company does no…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why SEA’s retailers need to protect AI-powered customer experience with observability** — Score 12, observation — [Quelle](https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-12T01:00:26+00:00`, fetched `2026-10-12T01:22:23+00:00`
@@ -74,6 +83,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Southeast Asia’s retail sector is racing to embed AI into every layer of the customer journey and nowhere is that race more visible than in Singapore. The government announced a 400 per cent tax deduction on AI expenditure to help small and medium-sized retailers adopt the technology, a clear signal that AI is no longer […] The post Why SEA’s retailers need to protect AI-powered customer experience with observabilit…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 56 km E of Yairipok, India** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nr)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-12T01:45:49.040+00:00`, fetched `2026-10-12T02:00:31+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-12 01:28:20 UTC 2026-10-12 01:28:20 UTC at epicenter Location 24.720°N 94.602°E Depth 78.18 km (48.58 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita** — Score 8, observation — [Quelle](https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-10T18:04:33+00:00`, fetched `2026-10-12T01:22:23+00:00`
