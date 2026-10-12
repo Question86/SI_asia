@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T19:20:19+00:00",
-  "run_id": "2026-10-12T19:20:19+00:00",
+  "generated_at": "2026-10-12T19:34:05+00:00",
+  "run_id": "2026-10-12T19:34:05+00:00",
   "date": "2026-10-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 69,
     "displayed_findings": 69,
     "high": 0,
@@ -3643,29 +3643,7 @@
       "id": "9acc7ae451e8220f48ef"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Anonymous organization-level registries for Dependabot",
-      "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-12T14:04:16+00:00",
-      "fetched_at": "2026-10-12T19:19:47+00:00",
-      "summary": "You can now select Anonymous as the authentication method for an organization-level private registry. Use it for registries that Dependabot can reach without credentials, such as an internal package mirror… The post Anonymous organization-level registries for Dependabot appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "CodeQL/Dependabot",
-        "GitHub"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "42f5ea1a6a2ad40c9c45"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
