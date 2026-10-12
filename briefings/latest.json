@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T04:39:18+00:00",
-  "run_id": "2026-10-12T04:39:18+00:00",
+  "generated_at": "2026-10-12T05:03:02+00:00",
+  "run_id": "2026-10-12T05:03:02+00:00",
   "date": "2026-10-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 13
+      "configured_public_sources_only": 15
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,40 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "new_relevant_findings": 2,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
-    "medium": 2,
-    "observe": 11,
+    "medium": 3,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Singapore SMEs buy back time with AI, but messy data keeps pilots stuck",
+        "url": "https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-12T05:00:13+00:00",
+        "fetched_at": "2026-10-12T05:02:32+00:00",
+        "summary": "Ask a Singapore small business owner what AI has done for them, and the answer is time. Ask whether their systems are ready to let AI run more of the business, and the answer gets a lot less certain. Also Read: Beyond automation: How AI is reshaping the SME landscape in Southeast Asia That tension […] The post Singapore SMEs buy back time with AI, but messy data keeps pilots stuck appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Automatisierung",
+          "Southeast Asia"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7b8b287377b10ed41ce2"
+      },
       {
         "title": "M 4.5 - 53 km S of Kushiro, Japan",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
@@ -91,6 +114,44 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 5.5 - 123 km W of Neiafu, Tonga",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-12T04:59:05.817+00:00",
+        "fetched_at": "2026-10-12T05:02:32+00:00",
+        "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-12 04:38:09 UTC 2026-10-12 04:38:09 UTC at epicenter Location 18.528°S 175.144°W Depth 164.81 km (102.41 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "ef83281115ac6831cddb"
+      },
       {
         "title": "Your deeptech company does not have one capital problem",
         "url": "https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/",
@@ -401,6 +462,29 @@
   },
   "findings": [
     {
+      "title": "Singapore SMEs buy back time with AI, but messy data keeps pilots stuck",
+      "url": "https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-12T05:00:13+00:00",
+      "fetched_at": "2026-10-12T05:02:32+00:00",
+      "summary": "Ask a Singapore small business owner what AI has done for them, and the answer is time. Ask whether their systems are ready to let AI run more of the business, and the answer gets a lot less certain. Also Read: Beyond automation: How AI is reshaping the SME landscape in Southeast Asia That tension […] The post Singapore SMEs buy back time with AI, but messy data keeps pilots stuck appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Automatisierung",
+        "Southeast Asia"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7b8b287377b10ed41ce2"
+    },
+    {
       "title": "M 4.5 - 53 km S of Kushiro, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -459,6 +543,44 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "12edcc3795bec9be95a0"
+    },
+    {
+      "title": "M 5.5 - 123 km W of Neiafu, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-12T04:59:05.817+00:00",
+      "fetched_at": "2026-10-12T05:02:32+00:00",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-12 04:38:09 UTC 2026-10-12 04:38:09 UTC at epicenter Location 18.528°S 175.144°W Depth 164.81 km (102.41 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "ef83281115ac6831cddb"
     },
     {
       "title": "Your deeptech company does not have one capital problem",
@@ -769,27 +891,51 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.5 - 53 km S of Kushiro, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
+      "title": "Singapore SMEs buy back time with AI, but messy data keeps pilots stuck",
+      "url": "https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-12T05:00:13+00:00",
+      "fetched_at": "2026-10-12T05:02:32+00:00",
+      "summary": "Ask a Singapore small business owner what AI has done for them, and the answer is time. Ask whether their systems are ready to let AI run more of the business, and the answer gets a lot less certain. Also Read: Beyond automation: How AI is reshaping the SME landscape in Southeast Asia That tension […] The post Singapore SMEs buy back time with AI, but messy data keeps pilots stuck appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Automatisierung",
+        "Southeast Asia"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7b8b287377b10ed41ce2"
+    },
+    {
+      "title": "M 5.5 - 123 km W of Neiafu, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-12T04:07:59.040+00:00",
-      "fetched_at": "2026-10-12T04:38:50+00:00",
-      "summary": "Time 2026-10-12 03:44:57 UTC 2026-10-12 03:44:57 UTC at epicenter Location 42.501°N 144.278°E Depth 65.89 km (40.94 mi)",
+      "published_at": "2026-10-12T04:59:05.817+00:00",
+      "fetched_at": "2026-10-12T05:02:32+00:00",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-12 04:38:09 UTC 2026-10-12 04:38:09 UTC at epicenter Location 18.528°S 175.144°W Depth 164.81 km (102.41 mi)",
       "matched_keywords": [
-        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
       ],
       "market_context": [
         "MUV2.DE",
@@ -803,72 +949,7 @@
         "HD",
         "LOW"
       ],
-      "id": "e51c822b39c37e69656a"
-    },
-    {
-      "title": "Beyond automation: How AI is reshaping the SME landscape in Southeast Asia",
-      "url": "https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-12T04:00:42+00:00",
-      "fetched_at": "2026-10-12T04:38:50+00:00",
-      "summary": "Artificial intelligence is increasingly moving from an experimental technology to an operational tool for small and medium-sized enterprises across Southeast Asia. Yet the more important question is not whether SMEs will use AI, but where AI can create measurable business value without adding disproportionate complexity, cost, or risk. This distinction matters because Southeast Asia’s SME […] The post Beyond automat…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Automatisierung",
-        "Southeast Asia"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); Automatisierung (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "12edcc3795bec9be95a0"
-    },
-    {
-      "title": "Malaysia’s Budget 2027 hands startups US$110.4M but the bigger cheques go elsewhere",
-      "url": "https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-12T04:17:27+00:00",
-      "fetched_at": "2026-10-12T04:38:50+00:00",
-      "summary": "Malaysia has put a number on its startup ambitions: MYR450 million (US$110.4 million). That is how much the National Fund of Funds Jelawang Capital and Dana Perintis, the startup vehicle of the Retirement Fund (KWAP), will invest in developing startups, Prime Minister Anwar Ibrahim said in his Budget 2027 speech to parliament on Friday. “Startups […] The post Malaysia’s Budget 2027 hands startups US$110.4M but the b…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital, parliament"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "da94605a7c2cd2b64c51"
+      "id": "ef83281115ac6831cddb"
     }
   ],
   "source_errors": [],

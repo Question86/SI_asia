@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T04:39:21+00:00",
+  "generated_at": "2026-10-12T05:03:05+00:00",
   "sections": {
     "global_security": [
       {
@@ -101,6 +101,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570467",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - 123 km W of Neiafu, Tonga",
+        "summary": "M5.5 - 123 km W of Neiafu, Tonga. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl",
+        "published_at": "2026-10-12T04:38:09+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "green",
+          "sig": 465.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
