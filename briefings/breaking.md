@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-12T18:28:26+00:00_
+_Generiert: 2026-10-12T18:52:06+00:00_
 
 ## GitHub Copilot app for Beginners: How to teach Copilot about your codebase
 
