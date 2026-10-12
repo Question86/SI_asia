@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-12T10:53:05+00:00_
+_Generated: 2026-10-12T11:03:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `33`
+- findings: `39`
 
 ## Top Signals
 
-### 1. [UPDATE] [hoch] Apache CXF: Mehrere Schwachstellen
+### 1. [NEU] [UNGEPATCHT] [mittel] GIMP: Schwachstelle ermöglicht Denial of Service
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-12T10:54:12+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GIMP ausnutzen, um einen Denial of Service Angriff durchzuführen.
+
+### 2. [NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-12T10:49:11+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854
+- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Strapi ausnutzen, um Informationen offenzulegen.
+
+### 3. [UPDATE] [hoch] Apache CXF: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-12T07:40:07+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824
 - summary: Ein Angreifer kann mehrere Schwachstellen in Apache CXF ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und offenzulegen, Benutzer auf vom Angreifer kontrollierte Websites umzuleiten oder Denial-of-Service-Zustände auszulösen.
 
-### 2. Singapore SMEs buy back time with AI, but messy data keeps pilots stuck
+### 4. Singapore SMEs buy back time with AI, but messy data keeps pilots stuck
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-10-12T05:00:13+00:00`
 - url: https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/
 - summary: Ask a Singapore small business owner what AI has done for them, and the answer is time. Ask whether their systems are ready to let AI run more of the business, and the answer gets a lot less certain. Also Read: Beyond automation: How AI is reshaping the SME l…
-
-### 3. M 4.5 - 53 km S of Kushiro, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-12T04:07:59.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa
-- summary: Time 2026-10-12 03:44:57 UTC 2026-10-12 03:44:57 UTC at epicenter Location 42.501°N 144.278°E Depth 65.89 km (40.94 mi)
-
-### 4. Beyond automation: How AI is reshaping the SME landscape in Southeast Asia
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-10-12T04:00:42+00:00`
-- url: https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/
-- summary: Artificial intelligence is increasingly moving from an experimental technology to an operational tool for small and medium-sized enterprises across Southeast Asia. Yet the more important question is not whether SMEs will use AI, but where AI can create measur…
 
 ### 5. M 5.5 - 123 km W of Neiafu, Tonga
 - source: USGS M4.5+ Earthquakes Past Hour

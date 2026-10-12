@@ -1,15 +1,57 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-12T10:53:05+00:00",
+  "generated_at": "2026-10-12T11:03:06+00:00",
   "topics": {
     "security": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:54:12+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:49:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854"
+      },
       {
         "title": "[UPDATE] [hoch] Apache CXF: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-12T07:40:07+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824"
+      },
+      {
+        "title": "[NEU] [mittel] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:54:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857"
+      },
+      {
+        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:54:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3858"
+      },
+      {
+        "title": "[NEU] [mittel] Rocket Remote Desktop: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:54:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3855"
+      },
+      {
+        "title": "[NEU] [hoch] MariaDB: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:54:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3856"
       },
       {
         "title": "[UPDATE] [mittel] libxml2: Mehrere Schwachstellen",
@@ -31,34 +73,71 @@
         "published_at": "2026-10-12T08:49:11+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1833"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:54:12+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859"
       },
       {
-        "title": "[UPDATE] [mittel] IBM WebSphere Application Server Liberty: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "title": "[NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T08:49:11+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0518"
+        "published_at": "2026-10-12T10:49:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854"
       },
       {
-        "title": "[UPDATE] [mittel] Grafana: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
+        "title": "[NEU] [mittel] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T08:32:00+00:00",
+        "published_at": "2026-10-12T10:54:12+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3355"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857"
       },
       {
-        "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T07:40:07+00:00",
+        "published_at": "2026-10-12T10:54:12+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3841"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3858"
       },
       {
-        "title": "[UPDATE] [hoch] Argo CD: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Rocket Remote Desktop: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T07:39:45+00:00",
+        "published_at": "2026-10-12T10:54:11+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3802"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3855"
+      },
+      {
+        "title": "[NEU] [hoch] MariaDB: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T10:54:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3856"
+      },
+      {
+        "title": "Why SEA’s retailers need to protect AI-powered customer experience with observability",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-12T01:00:26+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/"
+      },
+      {
+        "title": "Malaysia’s Budget 2027 hands startups US$110.4M but the bigger cheques go elsewhere",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-12T04:17:27+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/"
+      },
+      {
+        "title": "pytorch/pytorch",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/pytorch/pytorch"
       },
       {
         "title": "Warnung vor Angriffen auf alte Sicherheitslücken",
@@ -210,36 +289,6 @@
         "published_at": "2026-10-09T00:05:54+00:00",
         "relevance_score": 4,
         "url": "https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Why SEA’s retailers need to protect AI-powered customer experience with observability",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-12T01:00:26+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/"
-      },
-      {
-        "title": "Malaysia’s Budget 2027 hands startups US$110.4M but the bigger cheques go elsewhere",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-12T04:17:27+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/"
-      },
-      {
-        "title": "pytorch/pytorch",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 10,
-        "url": "https://github.com/pytorch/pytorch"
-      },
-      {
-        "title": "Warnung vor Angriffen auf alte Sicherheitslücken",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-12T06:28:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Alte-Luecken-etwa-in-Apache-Struts-BIND-und-ProFTPD-im-Visier-von-Angreifern-11483781.html"
       }
     ],
     "economy": [
