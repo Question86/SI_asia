@@ -730,6 +730,40 @@
     "id": "ef83281115ac6831cddb"
   },
   {
+    "title": "2026-016: Critical Vulnerability in GitLab CE and EE",
+    "url": "https://cert.europa.eu/publications/security-advisories/2026-016/",
+    "source": "CERT-EU Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-12T14:57:02+00:00",
+    "fetched_at": "2026-10-12T13:21:52+00:00",
+    "summary": "On 12 October 2026, GitLab released versions 19.4.2, 19.3.4 and 19.2.8 of GitLab Community Edition (CE) and Enterprise Edition (EE), fixing 24 security issues among which a critical vulnerability that could allow an unauthenticated attacker to execute arbitrary code on the server. CERT-EU strongly recommends upgrading self-managed GitLab CE/EE instances to a fixed version as soon as possible, starting with internet-…",
+    "matched_keywords": [
+      "CERT-EU",
+      "Security",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+7.5); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: critical vulnerability"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "a2ff9d09223f41132a90"
+  },
+  {
     "title": "Your deeptech company does not have one capital problem",
     "url": "https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -832,6 +866,30 @@
     "id": "a312077e4676c6857e6b"
   },
   {
+    "title": "Vulnérabilité dans Microsoft Exchange Server (05 octobre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1258/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-10-05T00:00:00+00:00",
+    "fetched_at": "2026-10-12T13:21:52+00:00",
+    "summary": "Une vulnérabilité a été découverte dans Microsoft Exchange Server. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Microsoft",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9c11d9a5d1baec058640"
+  },
+  {
     "title": "Vietnam’s shoppers are asking AI first, but Google still gets the last word",
     "url": "https://e27.co/vietnams-shoppers-are-asking-ai-first-but-google-still-gets-the-last-word-20261012/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -893,6 +951,30 @@
       "EWZ"
     ],
     "id": "da94605a7c2cd2b64c51"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Google Chrome (05 octobre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1259/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-10-05T00:00:00+00:00",
+    "fetched_at": "2026-10-12T13:21:52+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité",
+      "éditeur"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "03782cf8be52b6e8fb2d"
   },
   {
     "title": "pytorch/pytorch",
@@ -1088,6 +1170,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "39e0d910628b64ecdd21"
+  },
+  {
+    "title": "Multiples vulnérabilités dans OpenOffice (05 octobre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1260/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-10-05T00:00:00+00:00",
+    "fetched_at": "2026-10-12T13:21:52+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans OpenOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3256b170f480805be131"
   },
   {
     "title": "Warnung vor Angriffen auf alte Sicherheitslücken",
