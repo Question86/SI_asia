@@ -60,5 +60,139 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Don’t build another app. Build inside the ones people already open” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=22.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Don’t build another app. Build inside the ones people already open",
+        "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-12T03:00:50+00:00",
+        "age_days": 0.05,
+        "topics": [
+          "axiom",
+          "macro"
+        ],
+        "dynamics_score": 22.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "The average smartphone user opens around ten apps a day and about 34 in a month, according to Sensor Tower’s State of Mobile 2026. Global app downloads grew 0.8 per cent last year. The home screen is not an open market. It is a short list that changes slowly, and every new consumer app is […] The post Don’t build anot…"
+      },
+      {
+        "title": "Your deeptech company does not have one capital problem",
+        "url": "https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-12T02:01:07+00:00",
+        "age_days": 0.09,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 21.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
+        "url": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 115.09,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 17.64,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 5.58,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 5.58",
+          "aging penalty -8.0 for 115.1d old signal"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "M 4.8 - southern East Pacific Rise",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-12T02:27:45.040+00:00",
+        "age_days": 0.07,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 17.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10, 9.9"
+        ],
+        "summary": "Time 2026-10-12 01:59:24 UTC 2026-10-12 01:59:24 UTC at epicenter Location 49.946°S 114.249°W Depth 10.00 km (6.21 mi)"
+      },
+      {
+        "title": "M 4.8 - southern East Pacific Rise",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-12T02:47:41+00:00",
+        "age_days": 0.06,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 14.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 2,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +2"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
