@@ -1,29 +1,78 @@
 {
-  "generated_at": "2026-10-12T03:43:50+00:00",
-  "today_file_total": 10,
+  "generated_at": "2026-10-12T04:39:21+00:00",
+  "today_file_total": 13,
   "current_clusters": [
     {
-      "key": "domain:qiita.com",
-      "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
+      "key": "earthquake:japan:4.5",
+      "title": "M 4.5 - 53 km S of Kushiro, Japan",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:beyond-automation-reshaping-sme-landscape-southeast-asia",
+      "title": "Beyond automation: How AI is reshaping the SME landscape in Southeast Asia",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
-        "https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b"
+        "https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/"
       ],
-      "finding_count": 2,
-      "max_score": 8,
-      "credibility_total": 2.1,
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 15.2,
+      "network_score": 20.1,
       "hot": false,
       "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+    },
+    {
+      "key": "title:malaysia-budget-2027-hands-startups-110-but-bigger",
+      "title": "Malaysia’s Budget 2027 hands startups US$110.4M but the bigger cheques go elsewhere",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
@@ -100,6 +149,30 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "domain:qiita.com",
+      "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
+        "https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b"
+      ],
+      "finding_count": 2,
+      "max_score": 8,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "earthquake:m 4.8 - southern east pacific rise:4.8",
       "title": "M 4.8 - southern East Pacific Rise",
       "sources": [
@@ -148,29 +221,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:below-620-bitcoin-could-test-154-next",
-      "title": "Below US$82,620 Bitcoin could test US$81,154 next",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/below-us82620-bitcoin-could-test-us81154-next-20261012/"
-      ],
-      "finding_count": 1,
-      "max_score": 4,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:microsoft-ceo",
       "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
       "sources": [
@@ -212,6 +262,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:below-620-bitcoin-could-test-154-next",
+      "title": "Below US$82,620 Bitcoin could test US$81,154 next",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/below-us82620-bitcoin-could-test-us81154-next-20261012/"
+      ],
+      "finding_count": 1,
+      "max_score": 4,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T03:43:47+00:00_
+_Generiert: 2026-10-12T04:39:18+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „Your deeptech company does not have one capital problem“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
+13 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 53 km S of Kushiro, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
@@ -12,7 +12,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **M 4.5 - 53 km S of Kushiro, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-12T04:07:59.040+00:00`, fetched `2026-10-12T04:38:50+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-12 03:44:57 UTC 2026-10-12 03:44:57 UTC at epicenter Location 42.501°N 144.278°E Depth 65.89 km (40.94 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Beyond automation: How AI is reshaping the SME landscape in Southeast Asia** — Score 15, opportunity — [Quelle](https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-12T04:00:42+00:00`, fetched `2026-10-12T04:38:50+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Automatisierung, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Automatisierung (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: Artificial intelligence is increasingly moving from an experimental technology to an operational tool for small and medium-sized enterprises across Southeast Asia. Yet the more important question is not whether SMEs will use AI, but where AI can create measurable business value without adding disproportionate complexity, cost, or risk. This distinction matters because Southeast Asia’s SME […] The post Beyond automat…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Nur beobachten
 
@@ -43,14 +60,14 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-12 01:28:20 UTC 2026-10-12 01:28:20 UTC at epicenter Location 24.720°N 94.602°E Depth 78.18 km (48.58 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Don’t build another app. Build inside the ones people already open** — Score 9, observation — [Quelle](https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/)
+- **Malaysia’s Budget 2027 hands startups US$110.4M but the bigger cheques go elsewhere** — Score 10, observation — [Quelle](https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-12T03:00:50+00:00`, fetched `2026-10-12T03:10:44+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The average smartphone user opens around ten apps a day and about 34 in a month, according to Sensor Tower’s State of Mobile 2026. Global app downloads grew 0.8 per cent last year. The home screen is not an open market. It is a short list that changes slowly, and every new consumer app is […] The post Don’t build another app. Build inside the ones people already open appeared first on e27 .
+  - Zeit: published `2026-10-12T04:17:27+00:00`, fetched `2026-10-12T04:38:50+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Malaysia has put a number on its startup ambitions: MYR450 million (US$110.4 million). That is how much the National Fund of Funds Jelawang Capital and Dana Perintis, the startup vehicle of the Retirement Fund (KWAP), will invest in developing startups, Prime Minister Anwar Ibrahim said in his Budget 2027 speech to parliament on Friday. “Startups […] The post Malaysia’s Budget 2027 hands startups US$110.4M but the b…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - southern East Pacific Rise** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -91,7 +108,8 @@ Keine neuen mittleren Treffer.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 
