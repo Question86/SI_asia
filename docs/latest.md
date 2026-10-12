@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T05:31:27+00:00_
+_Generiert: 2026-10-12T05:53:42+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „Singapore SMEs buy back time with AI, but messy data keeps pilots stuck“ aus e27 Asia Startup and Tech Feed (Score 16, opportunity).
+18 neue relevante Treffer. Stärkstes Signal: „Singapore SMEs buy back time with AI, but messy data keeps pilots stuck“ aus e27 Asia Startup and Tech Feed (Score 16, opportunity).
 
 ## Priorität Hoch
 
@@ -87,14 +87,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Malaysia has put a number on its startup ambitions: MYR450 million (US$110.4 million). That is how much the National Fund of Funds Jelawang Capital and Dana Perintis, the startup vehicle of the Retirement Fund (KWAP), will invest in developing startups, Prime Minister Anwar Ibrahim said in his Budget 2027 speech to parliament on Friday. “Startups […] The post Malaysia’s Budget 2027 hands startups US$110.4M but the b…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - southern East Pacific Rise** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx)
+- **M 4.5 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-12T02:27:45.040+00:00`, fetched `2026-10-12T02:47:10+00:00`
+  - Zeit: published `2026-10-12T05:36:32.040+00:00`, fetched `2026-10-12T05:53:14+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-12 01:59:24 UTC 2026-10-12 01:59:24 UTC at epicenter Location 49.946°S 114.249°W Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-10-12 05:15:50 UTC 2026-10-12 05:15:50 UTC at epicenter Location 25.192°S 179.981°E Depth 470.83 km (292.56 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita** — Score 8, observation — [Quelle](https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに 2026年9月下旬以降、国内でもサイバー攻撃による被害が相次いで報道されています。 その侵入経路は、ネットワーク機器の脆弱性を突くものや、フィッシングメールなど、さまざまです。 また今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへアクセスすることによって生じる、新たな...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ウクライナ、「ロシアのGoogle」ヤンデックスのデータセンターを4日で3カ所破壊 ロシアのネットは大混乱、ボットも減った？** — Score 5, observation — [Quelle](https://posfie.com/@cashewNutsUmai/p/YXvMlOP)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-12T03:17:05+00:00`, fetched `2026-10-12T05:53:14+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ① ヤンデックスとは ロシア最大のIT企業で「ロシアのGoogle」とも呼ばれる。検索・地図・メール・タクシー配車・フードデリバリー・音楽配信・音声アシスタント「アリス」・クラウド（Yandex Cloud）まで手がけ、ロシアの日常生活とビジネスの基盤になっている。 ② 4日間で大型データセンター3カ所が破壊される ヤンデッ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/12/2000002195/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-12T01:35:17+00:00`, fetched `2026-10-12T02:47:10+00:00`
@@ -113,15 +122,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米Microsoftのサティア・ナデラCEOは10月10日（現地時間）、Xに「Models as Insider Risks in the Super Intelligence Era」（SI時代の内部リスクとしてのモデル）と題した長文を投稿した。フロンティアモデルを組織内部の“インサイダーリスク”と同様に扱い、モデルの外側に統制の仕組みを置くべきだと訴えている。なお...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **個人情報の流出にユーザーはどう備える？ 乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/mobile/articles/2610/12/news011.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-12T01:17:05+00:00`, fetched `2026-10-12T05:30:54+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 個人情報の流出にユーザーはどう備える？ 乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド（1/2 ページ） 2026年に入り、日常的に使う身近なサービスでの不正アクセスが相次ぎ、個人情報の漏えいが大きな問題となっています。目立つのは、サービス側のシステムが攻撃を受け、会員情報がまとめて流出するケースで...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
