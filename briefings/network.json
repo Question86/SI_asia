@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T19:34:09+00:00",
+  "generated_at": "2026-10-12T19:46:30+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 69,
@@ -51,49 +51,6 @@
       "first_seen_at": "2026-10-12T18:01:04+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3871",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3872"
-      ],
-      "finding_count": 23,
-      "max_score": 16,
-      "credibility_total": 24.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 19.09,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 64.3,
-      "ranking_score": 19.09,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.59,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
       "key": "title:anonymous-organization-level-registries-dependabot",
       "title": "Anonymous organization-level registries for Dependabot",
       "sources": [
@@ -130,6 +87,49 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-12T19:20:23+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3871",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3872"
+      ],
+      "finding_count": 23,
+      "max_score": 16,
+      "credibility_total": 24.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 18.68,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 64.3,
+      "ranking_score": 18.68,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.18,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:singapore-smes-buy-back-time-but-messy-data",
@@ -584,18 +584,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.24,
+      "network_score": 12.21,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.1,
-      "ranking_score": 12.24,
+      "ranking_score": 12.21,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.24,
+      "baseline_bonus": 0.21,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1059,18 +1059,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 9.77,
+      "network_score": 9.74,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.3,
-      "ranking_score": 9.77,
+      "ranking_score": 9.74,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.27,
+      "baseline_bonus": 0.24,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1741,7 +1741,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-12T19:34:10Z",
+    "generated_at": "2026-10-12T19:46:30Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
