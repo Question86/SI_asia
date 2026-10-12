@@ -1,100 +1,19 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-11T23:56:54+00:00",
+  "generated_at": "2026-10-12T00:23:40+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 0,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "today_file_total": 0,
+    "displayed_findings": 0,
     "high": 0,
-    "medium": 5,
-    "observe": 24
+    "medium": 0,
+    "observe": 0
   },
   "source_errors_count": 0,
-  "top_signals": [
-    {
-      "title": "Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-10T22:12:05+00:00",
-      "relevance_score": 16,
-      "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
-      "summary": "2026年5月19日の記事を編集して再掲載しています。 Google Chromeが、ユーザーの同意なしに約4GBものAIモデルをデバイスに自動的にダウンロード・保存させているという件が判明しました。「OptGuideOnDeviceModel」というフォルダの中に、こっそり4GBも忍び込ませいるようです。 「That Privacy Guy（プライバシー・ガイ...",
-      "section": "medium"
-    },
-    {
-      "title": "M 5.3 - 151 km W of Gorontalo, Indonesia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-11T21:52:51.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mj",
-      "summary": "Time 2026-10-11 21:34:53 UTC 2026-10-11 21:34:53 UTC at epicenter Location 0.527°N 121.699°E Depth 103.62 km (64.39 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "M 4.8 - 165 km SSE of Miyakojima, Japan",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-11T12:31:54.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ka",
-      "summary": "Time 2026-10-11 12:13:18 UTC 2026-10-11 12:13:18 UTC at epicenter Location 23.502°N 126.126°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "M 5.2 - 180 km S of Pelabuhanratu, Indonesia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-11T03:49:32.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1i6",
-      "summary": "Time 2026-10-11 03:30:17 UTC 2026-10-11 03:30:17 UTC at epicenter Location 8.616°S 106.526°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "M 6.2 - 79 km SSE of Panguna, Papua New Guinea",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-11T14:35:07.149+00:00",
-      "relevance_score": 13,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kv",
-      "summary": "PAGER - GREEN ShakeMap - V Time 2026-10-11 14:07:23 UTC 2026-10-11 14:07:23 UTC at epicenter Location 7.006°S 155.702°E Depth 53.47 km (33.23 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-10T23:55:32+00:00",
-      "relevance_score": 12,
-      "url": "https://togetter.com/li/2756720",
-      "summary": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に",
-      "section": "observe"
-    },
-    {
-      "title": "M 5.2 - 18 km SSE of Camaná, Peru",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-11T13:59:24.040+00:00",
-      "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1kt",
-      "summary": "Time 2026-10-11 13:42:59 UTC 2026-10-11 13:42:59 UTC at epicenter Location 16.785°S 72.660°W Depth 44.92 km (27.91 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "証券口座パスキーの安全性を高めよ！”物理キー”を本格導入した話",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-11T12:13:54+00:00",
-      "relevance_score": 11,
-      "url": "https://toruoka.xyz/202610_security_key/",
-      "summary": "みなさん、証券口座やその他重要なパスワードはどのように管理していますか？今どきは多くの方がパスワードマネージャーを使用して管理しているかと思います。僕もそのひとり。今はiCloudにパスワードを一元管理しています。 そういう人たちにとって、少しぞわっとなるニュースが先日報道されました。それがこれ。 証券...",
-      "section": "observe"
-    }
-  ],
+  "top_signals": [],
   "next_read_order": [
     "briefings/chat_handoff.json",
     "memory/index.json",
