@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-10-12T08:54:27Z",
+  "generated_at": "2026-10-12T09:30:13Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -22,6 +22,11 @@
     }
   ],
   "current_dynamic_memory_candidates": [
+    {
+      "title": "[UPDATE] [mittel] Grafana: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
     {
       "title": "[UPDATE] [hoch] Argo CD: Mehrere Schwachstellen",
       "band": "krass",
@@ -53,12 +58,7 @@
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
-      "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "[UPDATE] [hoch] Apache CXF: Mehrere Schwachstellen",
+      "title": "[UPDATE] [mittel] IBM WebSphere Application Server: Schwachstelle ermöglicht Denial of Service",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
