@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-12T10:00:31Z",
+  "generated_at": "2026-10-12T10:28:07Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 8,
-      "strong": 12,
-      "watch": 15,
+      "strong": 11,
+      "watch": 16,
       "quiet": 5
     },
     "bands_after_gate_recheck": {
-      "strong": 20,
-      "watch": 15,
+      "strong": 19,
+      "watch": 16,
       "quiet": 5
     }
   },
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1833",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T08:49:11+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0518",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T08:49:11+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3841",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T07:40:07+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3852",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T09:34:11+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3355",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T08:32:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -147,7 +147,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3802",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T07:39:45+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -173,7 +173,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T07:40:07+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -198,7 +198,7 @@
       "url": "https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T05:03:05+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -225,7 +225,7 @@
       "url": "https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T04:39:21+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -252,7 +252,7 @@
       "url": "https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T05:00:13+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -279,7 +279,7 @@
       "url": "https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T04:00:42+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -306,7 +306,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 44.83,
+      "age_days": 44.85,
       "topics": [
         "security"
       ],
@@ -330,37 +330,11 @@
       "summary": ""
     },
     {
-      "title": "スロップ表現100連発",
-      "url": "https://zenn.dev/todesking/articles/5bc43f449ecdf6",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-01T10:18:55+00:00",
-      "age_days": 10.99,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.69,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "high terms: 10"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Warnung vor Angriffen auf alte Sicherheitslücken",
       "url": "https://www.heise.de/news/Alte-Luecken-etwa-in-Apache-Struts-BIND-und-ProFTPD-im-Visier-von-Angreifern-11483781.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-12T06:28:00.000+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -385,7 +359,7 @@
       "url": "https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T04:39:21+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -410,7 +384,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T04:07:59.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -435,7 +409,7 @@
       "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T03:00:50+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "macro"
       ],
@@ -461,7 +435,7 @@
       "url": "https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T02:01:07+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -485,7 +459,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T04:59:05.817+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -510,7 +484,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T05:03:05+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -534,7 +508,7 @@
       "url": "https://github.com/pytorch/pytorch",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-12T07:49:35+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -554,11 +528,36 @@
       "summary": ""
     },
     {
+      "title": "スロップ表現100連発",
+      "url": "https://zenn.dev/todesking/articles/5bc43f449ecdf6",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-01T10:18:55+00:00",
+      "age_days": 11.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Don’t build another app. Build inside the ones people already open",
       "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T03:11:15+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -582,7 +581,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1qd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T07:38:49.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -607,7 +606,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T05:36:32.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -632,7 +631,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T02:27:45.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -657,11 +656,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T01:09:44+00:00",
-      "age_days": 37.37,
+      "age_days": 37.39,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.77,
+      "dynamics_score": 16.76,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -682,7 +681,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1qd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T07:49:35+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -706,7 +705,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T02:47:41+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -730,7 +729,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T02:47:41+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -754,7 +753,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2610/12/news011.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T05:31:30+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -778,7 +777,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147366.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T01:23:01+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -802,11 +801,11 @@
       "url": "https://posfie.com/@cashewNutsUmai/p/YXvMlOP",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T09:40:46+00:00",
-      "age_days": 22.01,
+      "age_days": 22.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.65,
+      "dynamics_score": 13.64,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -827,7 +826,7 @@
       "url": "https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T01:23:01+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -853,7 +852,7 @@
       "url": "https://www.heise.de/news/Alte-Luecken-etwa-in-Apache-Struts-BIND-und-ProFTPD-im-Visier-von-Angreifern-11483781.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 115.1,
+      "age_days": 115.12,
       "topics": [
         "general"
       ],
@@ -879,7 +878,7 @@
       "url": "https://e27.co/below-us82620-bitcoin-could-test-us81154-next-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T03:43:50+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -903,7 +902,7 @@
       "url": "https://e27.co/vietnams-shoppers-are-asking-ai-first-but-google-still-gets-the-last-word-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T06:59:06+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -929,7 +928,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T01:45:49.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "disaster"
@@ -957,24 +956,24 @@
       "url": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 115.33,
+      "age_days": 115.35,
       "topics": [
         "general"
       ],
-      "dynamics_score": 10.74,
+      "dynamics_score": 10.63,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.58,
+      "baseline_z_hint": 1.48,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.58",
-        "aging penalty -8.0 for 115.3d old signal"
+        "baseline z_hint 1.48",
+        "aging penalty -8.0 for 115.4d old signal"
       ],
       "summary": ""
     },
@@ -983,7 +982,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T02:01:07+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -1009,7 +1008,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T01:35:17+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
