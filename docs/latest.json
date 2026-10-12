@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T17:10:34+00:00",
-  "run_id": "2026-10-12T17:10:34+00:00",
+  "generated_at": "2026-10-12T17:27:54+00:00",
+  "run_id": "2026-10-12T17:27:54+00:00",
   "date": "2026-10-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 63
+      "configured_public_sources_only": 64
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 63,
-    "displayed_findings": 63,
+    "today_file_total": 64,
+    "displayed_findings": 64,
     "high": 0,
     "medium": 29,
-    "observe": 34,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -1299,6 +1299,27 @@
           "LOW"
         ],
         "id": "51678618ecd5f2c4207a"
+      },
+      {
+        "title": "Push attribution for commits in limited public preview",
+        "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-12T16:30:11+00:00",
+        "fetched_at": "2026-10-12T17:27:12+00:00",
+        "summary": "GitHub now durably records the authenticated user who pushed each commit and surfaces that pusher identity in the UI and API alongside the existing author and committer fields. Commit author… The post Push attribution for commits in limited public preview appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Public Health"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Public Health (+5.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "325dc93faac366babc1c"
       },
       {
         "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
@@ -2910,6 +2931,27 @@
       "id": "51678618ecd5f2c4207a"
     },
     {
+      "title": "Push attribution for commits in limited public preview",
+      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-12T16:30:11+00:00",
+      "fetched_at": "2026-10-12T17:27:12+00:00",
+      "summary": "GitHub now durably records the authenticated user who pushed each commit and surfaces that pusher identity in the UI and API alongside the existing author and committer fields. Commit author… The post Push attribution for commits in limited public preview appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Public Health"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Public Health (+5.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "325dc93faac366babc1c"
+    },
+    {
       "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
       "url": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3249,25 +3291,25 @@
   ],
   "new_findings": [
     {
-      "title": "プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に",
-      "url": "https://togetter.com/li/2757347",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Push attribution for commits in limited public preview",
+      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-10-12T12:00:35+00:00",
-      "fetched_at": "2026-10-12T17:10:03+00:00",
-      "summary": "プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に",
+      "published_at": "2026-10-12T16:30:11+00:00",
+      "fetched_at": "2026-10-12T17:27:12+00:00",
+      "summary": "GitHub now durably records the authenticated user who pushed each commit and surfaces that pusher identity in the UI and API alongside the existing author and committer fields. Commit author… The post Push attribution for commits in limited public preview appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "GitHub",
+        "Public Health"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "Public Health (+5.0); GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1b8198cb0ec4510de13a"
+      "id": "325dc93faac366babc1c"
     }
   ],
   "source_errors": [],
