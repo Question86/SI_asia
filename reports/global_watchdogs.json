@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T12:04:20+00:00",
+  "generated_at": "2026-10-12T12:51:14+00:00",
   "sections": {
     "global_security": [
       {
@@ -95,16 +95,6 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Mid-Indian Ridge 12/10/2026 11:28 UTC, [unknown].",
-        "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Mid-Indian Ridge 12/10/2026 11:28 UTC, [unknown].",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571039",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.",
         "summary": "Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.",
         "source": "GDACS",
@@ -141,21 +131,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570467",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.7 - Mid-Indian Ridge",
-        "summary": "M5.7 - Mid-Indian Ridge. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rh",
-        "published_at": "2026-10-12T11:28:43+00:00",
-        "metrics": {
-          "mag": 5.7,
-          "alert": "green",
-          "sig": 500.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
