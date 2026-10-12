@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T06:05:12+00:00",
+  "generated_at": "2026-10-12T06:59:06+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,16 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "GDACS: Green flood alert in Nepal",
+        "summary": "Green flood alert in Nepal",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104225",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "GDACS: Green flood alert in Indonesia",
         "summary": "Green flood alert in Indonesia",
         "source": "GDACS",
@@ -99,6 +109,16 @@
         "summary": "Green notification for tropical cyclone TWENTYEIGHT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001336",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Volcanic eruption is on going for Kanlaon in Philippines",
+        "summary": "Volcanic eruption is on going for Kanlaon in Philippines",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000152",
         "published_at": "",
         "metrics": {}
       },
