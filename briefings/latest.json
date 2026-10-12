@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T02:47:39+00:00",
-  "run_id": "2026-10-12T02:47:39+00:00",
+  "generated_at": "2026-10-12T03:11:12+00:00",
+  "run_id": "2026-10-12T03:11:12+00:00",
   "date": "2026-10-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 7
+      "configured_public_sources_only": 8
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 1,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 0,
-    "observe": 7,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -131,6 +131,27 @@
           "LOW"
         ],
         "id": "a312077e4676c6857e6b"
+      },
+      {
+        "title": "Don’t build another app. Build inside the ones people already open",
+        "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-12T03:00:50+00:00",
+        "fetched_at": "2026-10-12T03:10:44+00:00",
+        "summary": "The average smartphone user opens around ten apps a day and about 34 in a month, according to Sensor Tower’s State of Mobile 2026. Global app downloads grew 0.8 per cent last year. The home screen is not an open market. It is a short list that changes slowly, and every new consumer app is […] The post Don’t build another app. Build inside the ones people already open appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3f404a44bed951918c7e"
       },
       {
         "title": "M 4.8 - southern East Pacific Rise",
@@ -338,6 +359,27 @@
       "id": "a312077e4676c6857e6b"
     },
     {
+      "title": "Don’t build another app. Build inside the ones people already open",
+      "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-12T03:00:50+00:00",
+      "fetched_at": "2026-10-12T03:10:44+00:00",
+      "summary": "The average smartphone user opens around ten apps a day and about 34 in a month, according to Sensor Tower’s State of Mobile 2026. Global app downloads grew 0.8 per cent last year. The home screen is not an open market. It is a short list that changes slowly, and every new consumer app is […] The post Don’t build another app. Build inside the ones people already open appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3f404a44bed951918c7e"
+    },
+    {
       "title": "M 4.8 - southern East Pacific Rise",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -440,61 +482,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.8 - southern East Pacific Rise",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Don’t build another app. Build inside the ones people already open",
+      "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-12T02:27:45.040+00:00",
-      "fetched_at": "2026-10-12T02:47:10+00:00",
-      "summary": "Time 2026-10-12 01:59:24 UTC 2026-10-12 01:59:24 UTC at epicenter Location 49.946°S 114.249°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-10-12T03:00:50+00:00",
+      "fetched_at": "2026-10-12T03:10:44+00:00",
+      "summary": "The average smartphone user opens around ten apps a day and about 34 in a month, according to Sensor Tower’s State of Mobile 2026. Global app downloads grew 0.8 per cent last year. The home screen is not an open market. It is a short list that changes slowly, and every new consumer app is […] The post Don’t build another app. Build inside the ones people already open appeared first on e27 .",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure"
       ],
       "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "51678618ecd5f2c4207a"
-    },
-    {
-      "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
-      "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-12T01:35:17+00:00",
-      "fetched_at": "2026-10-12T02:47:10+00:00",
-      "summary": "米Microsoftのサティア・ナデラCEOは10月10日（現地時間）、Xに「Models as Insider Risks in the Super Intelligence Era」（SI時代の内部リスクとしてのモデル）と題した長文を投稿した。フロンティアモデルを組織内部の“インサイダーリスク”と同様に扱い、モデルの外側に統制の仕組みを置くべきだと訴えている。なお...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f4958916b0902d14ab7b"
+      "id": "3f404a44bed951918c7e"
     }
   ],
   "source_errors": [],

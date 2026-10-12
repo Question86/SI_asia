@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T02:47:39+00:00_
+_Generiert: 2026-10-12T03:11:12+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Your deeptech company does not have one capital problem“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
+8 neue relevante Treffer. Stärkstes Signal: „Your deeptech company does not have one capital problem“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
 
 ## Priorität Hoch
 
@@ -43,6 +43,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-12 01:28:20 UTC 2026-10-12 01:28:20 UTC at epicenter Location 24.720°N 94.602°E Depth 78.18 km (48.58 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Don’t build another app. Build inside the ones people already open** — Score 9, observation — [Quelle](https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-12T03:00:50+00:00`, fetched `2026-10-12T03:10:44+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The average smartphone user opens around ten apps a day and about 34 in a month, according to Sensor Tower’s State of Mobile 2026. Global app downloads grew 0.8 per cent last year. The home screen is not an open market. It is a short list that changes slowly, and every new consumer app is […] The post Don’t build another app. Build inside the ones people already open appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - southern East Pacific Rise** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-12T02:27:45.040+00:00`, fetched `2026-10-12T02:47:10+00:00`
