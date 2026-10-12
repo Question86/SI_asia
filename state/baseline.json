@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T15:04:07+00:00",
+  "generated_at": "2026-10-12T15:27:45+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -990,9 +990,8 @@
     },
     "domain:www.ecb.europa.eu": {
       "title": "Announcing 20260090 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
-        12.2,
         12.2,
         12.2,
         12.2,
@@ -1021,12 +1020,13 @@
         12.2,
         17.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 12.49,
+      "rolling_average": 12.55,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": 1.61
+      "z_hint": 1.55
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -1559,7 +1559,7 @@
     },
     "earthquake:indonesia:4.6": {
       "title": "M 4.6 - 100 km SSW of Kencong, Indonesia",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -1585,8 +1585,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -3662,9 +3662,8 @@
     },
     "domain:qiita.com": {
       "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
-        9.2,
         9.2,
         13.1,
         10.1,
@@ -3693,12 +3692,13 @@
         12.2,
         17.3,
         14.3,
+        14.3,
         14.3
       ],
-      "rolling_average": 12.23,
+      "rolling_average": 12.4,
       "rolling_peak": 17.3,
       "last_score": 14.3,
-      "z_hint": 2.07
+      "z_hint": 1.9
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -4321,9 +4321,8 @@
     },
     "domain:www.heise.de": {
       "title": "Warnung vor Angriffen auf alte Sicherheitslücken",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
-        28.3,
         28.3,
         28.3,
         28.3,
@@ -4352,12 +4351,13 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 16.88,
+      "rolling_average": 16.24,
       "rolling_peak": 28.3,
       "last_score": 9.1,
-      "z_hint": -7.78
+      "z_hint": -7.14
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -5081,9 +5081,8 @@
     },
     "domain:togetter.com": {
       "title": "崩れまくりのAI生成ポスターが世に出るのを不思議に思ってたけど「コストを抑えたくて使ってるんだからチェックが疎かになるのは当然」と言われて妙に納得した話",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
-        16.2,
         16.2,
         16.2,
         16.2,
@@ -5112,12 +5111,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 13.87,
+      "rolling_average": 13.57,
       "rolling_peak": 16.2,
       "last_score": 7.1,
-      "z_hint": -6.77
+      "z_hint": -6.47
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -5839,9 +5839,8 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
-        45.4,
         45.4,
         45.4,
         45.4,
@@ -5870,12 +5869,13 @@
         64.3,
         64.3,
         64.3,
+        64.3,
         64.3
       ],
-      "rolling_average": 48.96,
+      "rolling_average": 49.59,
       "rolling_peak": 76.0,
       "last_score": 64.3,
-      "z_hint": 15.34
+      "z_hint": 14.71
     },
     "title:why-every-warehouse-singapore-will-run-safety-monitoring": {
       "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
@@ -8291,7 +8291,7 @@
     },
     "domain:www.techno-edge.net": {
       "title": "なんでもリバースエンジニアリング。ソースコード非公開のアプリをAIに解析させ、類似機能を作らせるオープンソースツール「REA」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -8305,8 +8305,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -8411,7 +8411,7 @@
     },
     "earthquake:m 4.5 - south of the fiji islands:4.5": {
       "title": "M 4.5 - south of the Fiji Islands",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -8422,8 +8422,8 @@
         11.7,
         11.7,
         11.7,
-        11.7,
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -19214,7 +19214,7 @@
     },
     "earthquake:japan:4.5": {
       "title": "M 4.5 - 53 km S of Kushiro, Japan",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -19222,8 +19222,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -26736,9 +26736,8 @@
     },
     "domain:cert.europa.eu": {
       "title": "2026-016: Critical Vulnerability in GitLab CE and EE",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
-        25.1,
         25.1,
         25.1,
         25.1,
@@ -26767,12 +26766,13 @@
         17.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 23.73,
+      "rolling_average": 23.37,
       "rolling_peak": 25.1,
       "last_score": 14.1,
-      "z_hint": -9.63
+      "z_hint": -9.27
     },
     "url:https://anond.hatelabo.jp/20260910114530": {
       "title": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
@@ -34073,7 +34073,7 @@
     },
     "domain:www.docswell.com": {
       "title": "人生やりたいことリストのすすめ FIRE後の楽しみを可視化する | ドクセル",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -34094,12 +34094,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 9.5,
+      "rolling_average": 9.39,
       "rolling_peak": 13.1,
       "last_score": 7.1,
-      "z_hint": -2.4
+      "z_hint": -2.29
     },
     "domain:findy.connpass.com": {
       "title": "設計次第でAIコードの読む量は減らせる / designing-for-code-reading",
@@ -40575,7 +40576,7 @@
     },
     "domain:posfie.com": {
       "title": "ウクライナ、「ロシアのGoogle」ヤンデックスのデータセンターを4日で3カ所破壊 ロシアのネットは大混乱、ボットも減った？",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -40586,8 +40587,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -50781,8 +50782,8 @@
       "z_hint": 0.0
     },
     "earthquake:alaska:4.6": {
-      "title": "M 4.6 - Rat Islands, Aleutian Islands, Alaska",
-      "updated_at": "2026-09-27T23:53:06+00:00",
+      "title": "M 4.6 - 194 km SE of Attu Station, Alaska",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -50813,12 +50814,12 @@
         13.7,
         13.7,
         13.7,
-        13.7
+        16.7
       ],
-      "rolling_average": 13.7,
-      "rolling_peak": 13.7,
-      "last_score": 13.7,
-      "z_hint": 0.0
+      "rolling_average": 13.8,
+      "rolling_peak": 16.7,
+      "last_score": 16.7,
+      "z_hint": 2.9
     },
     "domain:maharship.com": {
       "title": "Why MCP Was Always a Bad Idea",
@@ -56323,7 +56324,7 @@
     },
     "title:100": {
       "title": "スロップ表現100連発",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -56340,8 +56341,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -59161,7 +59162,7 @@
     },
     "domain:voluntas.ghost.io": {
       "title": "OpenCode から Pi へ切り替えた",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         25.1,
         22.1,
@@ -59180,12 +59181,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 14.93,
+      "rolling_average": 14.52,
       "rolling_peak": 25.1,
       "last_score": 7.1,
-      "z_hint": -7.83
+      "z_hint": -7.42
     },
     "domain:startup-in-agile.connpass.com": {
       "title": "「決め方」の渡し方 / How to hand over the \"decision-making process\"",
@@ -68909,9 +68911,10 @@
     },
     "title:why-sea-retailers-need-protect-powered-customer-experience": {
       "title": "Why SEA’s retailers need to protect AI-powered customer experience with observability",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         17.1,
+        14.1,
         14.1,
         14.1,
         14.1,
@@ -68940,14 +68943,14 @@
         14.1,
         14.1
       ],
-      "rolling_average": 14.21,
+      "rolling_average": 14.2,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.11
+      "z_hint": -0.1
     },
     "title:amazon-usb4": {
       "title": "【やじうまミニレビュー】 こういうのでいいんだよ……のはずだった。Amazonベーシック格安USB4ケーブル",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -68976,18 +68979,20 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.21,
+      "rolling_average": 7.2,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.11
+      "z_hint": -0.1
     },
     "title:your-deeptech-company-does-not-have-one-capital": {
       "title": "Your deeptech company does not have one capital problem",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         17.1,
+        14.1,
         14.1,
         14.1,
         14.1,
@@ -69022,9 +69027,10 @@
     },
     "earthquake:m 4.8 - 56 km e of yairipok, india:4.8": {
       "title": "M 4.8 - 56 km E of Yairipok, India",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         16.7,
+        13.7,
         13.7,
         13.7,
         13.7,
@@ -69059,7 +69065,7 @@
     },
     "earthquake:m 4.8 - southern east pacific rise:4.8": {
       "title": "M 4.8 - southern East Pacific Rise",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -69086,16 +69092,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.82,
+      "rolling_average": 11.81,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "title:microsoft-ceo": {
       "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -69122,18 +69129,20 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.22,
+      "rolling_average": 7.21,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "title:don-build-another-app-build-inside-ones-people": {
       "title": "Don’t build another app. Build inside the ones people already open",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         14.1,
+        11.1,
         11.1,
         11.1,
         11.1,
@@ -69166,9 +69175,10 @@
     },
     "title:below-620-bitcoin-could-test-154-next": {
       "title": "Below US$82,620 Bitcoin could test US$81,154 next",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         9.1,
+        6.1,
         6.1,
         6.1,
         6.1,
@@ -69200,9 +69210,10 @@
     },
     "title:beyond-automation-reshaping-sme-landscape-southeast-asia": {
       "title": "Beyond automation: How AI is reshaping the SME landscape in Southeast Asia",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         20.1,
+        17.1,
         17.1,
         17.1,
         17.1,
@@ -69233,7 +69244,7 @@
     },
     "title:malaysia-budget-2027-hands-startups-110-but-bigger": {
       "title": "Malaysia’s Budget 2027 hands startups US$110.4M but the bigger cheques go elsewhere",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -69257,16 +69268,17 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.23,
+      "rolling_average": 12.22,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:singapore-smes-buy-back-time-but-messy-data": {
       "title": "Singapore SMEs buy back time with AI, but messy data keeps pilots stuck",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         21.1,
         18.1,
@@ -69289,16 +69301,17 @@
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 18.24,
+      "rolling_average": 18.23,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.14
+      "z_hint": -0.13
     },
     "earthquake:m 5.5 - 123 km w of neiafu, tonga:5.5": {
       "title": "M 5.5 - 123 km W of Neiafu, Tonga",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         18.7,
         15.7,
@@ -69321,18 +69334,20 @@
         15.7,
         15.7,
         15.7,
+        15.7,
         15.7
       ],
-      "rolling_average": 15.84,
+      "rolling_average": 15.83,
       "rolling_peak": 18.7,
       "last_score": 15.7,
-      "z_hint": -0.14
+      "z_hint": -0.13
     },
     "url:https://www.itmedia.co.jp/mobile/articles/2610/12/news011.html": {
       "title": "個人情報の流出にユーザーはどう備える？ 乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -69361,7 +69376,36 @@
     },
     "title:vietnam-shoppers-are-asking-first-but-google-still": {
       "title": "Vietnam’s shoppers are asking AI first, but Google still gets the last word",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
+      "network_scores": [
+        15.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1
+      ],
+      "rolling_average": 12.26,
+      "rolling_peak": 15.1,
+      "last_score": 12.1,
+      "z_hint": -0.16
+    },
+    "github_repo:pytorch/pytorch": {
+      "title": "pytorch/pytorch",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -69387,36 +69431,9 @@
       "last_score": 12.1,
       "z_hint": -0.17
     },
-    "github_repo:pytorch/pytorch": {
-      "title": "pytorch/pytorch",
-      "updated_at": "2026-10-12T15:04:07+00:00",
-      "network_scores": [
-        15.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1
-      ],
-      "rolling_average": 12.28,
-      "rolling_peak": 15.1,
-      "last_score": 12.1,
-      "z_hint": -0.18
-    },
     "earthquake:m 4.5 - 7 km ese of tebario, panama:4.5": {
       "title": "M 4.5 - 7 km ESE of Tebario, Panama",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -69434,16 +69451,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.88,
+      "rolling_average": 11.87,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "domain:hackers-champloo.org": {
       "title": "実践！ SRE × AI - ABEMA における AIOps -",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         14.1,
         11.1,
@@ -69456,16 +69474,17 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.35,
+      "rolling_average": 11.33,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "earthquake:m 5.7 - mid-indian ridge:5.7": {
       "title": "M 5.7 - Mid-Indian Ridge",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         20.7,
         17.7,
@@ -69473,54 +69492,58 @@
         17.7,
         17.7,
         17.7,
+        17.7,
         17.7
       ],
-      "rolling_average": 18.13,
+      "rolling_average": 18.07,
       "rolling_peak": 20.7,
       "last_score": 17.7,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "title:vuln-rabilit-dans-microsoft-exchange-server-octobre-2026": {
       "title": "Vulnérabilité dans Microsoft Exchange Server (05 octobre 2026)",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         16.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.85,
+      "rolling_average": 13.7,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:multiples-vuln-rabilit-dans-google-chrome-octobre-2026": {
       "title": "Multiples vulnérabilités dans Google Chrome (05 octobre 2026)",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         15.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.85,
+      "rolling_average": 12.7,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:multiples-vuln-rabilit-dans-openoffice-octobre-2026": {
       "title": "Multiples vulnérabilités dans OpenOffice (05 octobre 2026)",
-      "updated_at": "2026-10-12T15:04:07+00:00",
+      "updated_at": "2026-10-12T15:27:45+00:00",
       "network_scores": [
         13.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.85,
+      "rolling_average": 10.7,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     }
   }
 }
