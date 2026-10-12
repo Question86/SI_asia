@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T03:11:32+00:00",
+  "generated_at": "2026-10-12T03:44:07+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -3228,7 +3228,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-12T02:01:07+00:00",
-      "last_seen_at": "2026-10-12T03:11:15+00:00",
+      "last_seen_at": "2026-10-12T03:43:50+00:00",
       "status": "active"
     },
     {
@@ -5506,7 +5506,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-12T02:47:41+00:00",
-      "last_seen_at": "2026-10-12T03:11:15+00:00",
+      "last_seen_at": "2026-10-12T03:43:50+00:00",
       "status": "active"
     },
     {
@@ -12289,7 +12289,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T02:01:07+00:00",
-      "last_seen_at": "2026-10-12T03:11:15+00:00",
+      "last_seen_at": "2026-10-12T03:43:50+00:00",
       "status": "active"
     },
     {
@@ -12442,7 +12442,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T01:23:01+00:00",
-      "last_seen_at": "2026-10-12T03:11:15+00:00",
+      "last_seen_at": "2026-10-12T03:43:50+00:00",
       "status": "active"
     },
     {
@@ -15898,6 +15898,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_5252adbb76a6fbcf8a41",
+      "title": "Don’t build another app. Build inside the ones people already open",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 111200.0,
+      "p50_usd": 11120000.0,
+      "p90_usd": 1112000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-12T03:11:15+00:00",
+      "last_seen_at": "2026-10-12T03:43:50+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_574beed208af3af2acc2",
       "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
       "event_classes": [
@@ -16339,23 +16356,6 @@
       "first_seen_at": "2026-09-11T01:08:28+00:00",
       "last_seen_at": "2026-09-11T13:48:13+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_5252adbb76a6fbcf8a41",
-      "title": "Don’t build another app. Build inside the ones people already open",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 111200.0,
-      "p50_usd": 11120000.0,
-      "p90_usd": 1112000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-12T03:11:15+00:00",
-      "last_seen_at": "2026-10-12T03:11:15+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -21029,7 +21029,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-10-12T03:11:15+00:00",
+      "last_seen_at": "2026-10-12T03:43:50+00:00",
       "status": "active"
     },
     {
@@ -21658,7 +21658,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T01:23:01+00:00",
-      "last_seen_at": "2026-10-12T03:11:15+00:00",
+      "last_seen_at": "2026-10-12T03:43:50+00:00",
       "status": "active"
     },
     {
@@ -22797,7 +22797,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T02:47:41+00:00",
-      "last_seen_at": "2026-10-12T03:11:15+00:00",
+      "last_seen_at": "2026-10-12T03:43:50+00:00",
       "status": "active"
     },
     {
@@ -24500,6 +24500,23 @@
       "first_seen_at": "2026-09-23T04:56:56+00:00",
       "last_seen_at": "2026-09-23T05:42:29+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_f8e59fa6716ceaf1fe6e",
+      "title": "Below US$82,620 Bitcoin could test US$81,154 next",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-12T03:43:50+00:00",
+      "last_seen_at": "2026-10-12T03:43:50+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",

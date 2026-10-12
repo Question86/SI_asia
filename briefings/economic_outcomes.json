@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T03:11:37+00:00",
+  "generated_at": "2026-10-12T03:44:13+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -5098,12 +5098,12 @@
     {
       "event_id": "evt_5252adbb76a6fbcf8a41",
       "title": "Don’t build another app. Build inside the ones people already open",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -15489,6 +15489,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_f8e59fa6716ceaf1fe6e",
+      "title": "Below US$82,620 Bitcoin could test US$81,154 next",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_f958d40126e7010d229a",
