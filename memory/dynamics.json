@@ -1,29 +1,104 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-12T07:41:30Z",
+  "generated_at": "2026-10-12T08:12:55Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 39,
+    "dynamics": 40,
     "bands": {
-      "krass": 4,
-      "strong": 7,
-      "watch": 12,
-      "quiet": 16
+      "krass": 6,
+      "strong": 9,
+      "watch": 15,
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 12,
-      "quiet": 16
+      "strong": 15,
+      "watch": 15,
+      "quiet": 10
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3841",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-12T07:40:07+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Daten zu manipulieren und um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Argo CD: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3802",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-12T07:39:45+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Argo CD ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Informationen und Zugangsdaten auszulesen, Zugriffsbeschränkungen zu umgehen oder einen Denial of Service zu verursachen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Apache CXF: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-12T07:40:07+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache CXF ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und offenzulegen, Benutzer auf vom Angreifer kontrollierte Websites umzuleiten oder Denial-of-Service-Zustände auszulösen."
+    },
     {
       "title": "Singapore SMEs buy back time with AI, but messy data keeps pilots stuck",
       "url": "https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T05:03:05+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -50,7 +125,7 @@
       "url": "https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T04:39:21+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -77,7 +152,7 @@
       "url": "https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T05:00:13+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -104,7 +179,7 @@
       "url": "https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T04:00:42+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -127,11 +202,39 @@
       "summary": "Artificial intelligence is increasingly moving from an experimental technology to an operational tool for small and medium-sized enterprises across Southeast Asia. Yet the more important question is not whether SMEs will use AI, but where AI can create measurable business value without adding disproportionate complexi…"
     },
     {
+      "title": "[UPDATE] [hoch] Apache CXF: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 44.75,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 44.8d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Warnung vor Angriffen auf alte Sicherheitslücken",
       "url": "https://www.heise.de/news/Alte-Luecken-etwa-in-Apache-Struts-BIND-und-ProFTPD-im-Visier-von-Angreifern-11483781.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-12T06:28:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -156,7 +259,7 @@
       "url": "https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T04:39:21+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -181,7 +284,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T04:07:59.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -206,7 +309,7 @@
       "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T03:00:50+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "macro"
       ],
@@ -232,7 +335,7 @@
       "url": "https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T02:01:07+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -256,7 +359,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T04:59:05.817+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -281,7 +384,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T05:03:05+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -305,7 +408,7 @@
       "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T03:11:15+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -325,11 +428,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.5 - 7 km ESE of Tebario, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1qd",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-12T07:38:49.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-12 07:16:06 UTC 2026-10-12 07:16:06 UTC at epicenter Location 7.699°N 80.914°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.5 - south of the Fiji Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T05:36:32.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -354,7 +482,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T02:27:45.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -379,7 +507,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T01:09:44+00:00",
-      "age_days": 37.27,
+      "age_days": 37.29,
       "topics": [
         "general"
       ],
@@ -400,11 +528,35 @@
       "summary": ""
     },
     {
+      "title": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-12T07:49:35+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.8 - southern East Pacific Rise",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T02:47:41+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -424,37 +576,11 @@
       "summary": ""
     },
     {
-      "title": "Warnung vor Angriffen auf alte Sicherheitslücken",
-      "url": "https://www.heise.de/news/Alte-Luecken-etwa-in-Apache-Struts-BIND-und-ProFTPD-im-Visier-von-Angreifern-11483781.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 115.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: angriffe",
-        "aging penalty -8.0 for 115.0d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
       "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T02:47:41+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -478,7 +604,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2610/12/news011.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T05:31:30+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -502,7 +628,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147366.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T01:23:01+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -526,11 +652,11 @@
       "url": "https://posfie.com/@cashewNutsUmai/p/YXvMlOP",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T09:40:46+00:00",
-      "age_days": 21.92,
+      "age_days": 21.94,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.68,
+      "dynamics_score": 13.67,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -547,11 +673,35 @@
       "summary": ""
     },
     {
+      "title": "M 4.5 - 7 km ESE of Tebario, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1qd",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-12T07:49:35+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Why SEA’s retailers need to protect AI-powered customer experience with observability",
       "url": "https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T01:23:01+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -573,11 +723,37 @@
       "summary": ""
     },
     {
+      "title": "Warnung vor Angriffen auf alte Sicherheitslücken",
+      "url": "https://www.heise.de/news/Alte-Luecken-etwa-in-Apache-Struts-BIND-und-ProFTPD-im-Visier-von-Angreifern-11483781.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 115.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: angriffe",
+        "aging penalty -8.0 for 115.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Below US$82,620 Bitcoin could test US$81,154 next",
       "url": "https://e27.co/below-us82620-bitcoin-could-test-us81154-next-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T03:43:50+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -601,24 +777,24 @@
       "url": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 115.24,
+      "age_days": 115.26,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.18,
+      "dynamics_score": 11.07,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.98,
+      "baseline_z_hint": 1.88,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.98",
-        "aging penalty -8.0 for 115.2d old signal"
+        "baseline z_hint 1.88",
+        "aging penalty -8.0 for 115.3d old signal"
       ],
       "summary": ""
     },
@@ -627,7 +803,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T01:45:49.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "disaster"
@@ -655,7 +831,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-12T02:01:07+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -681,7 +857,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T01:35:17+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -705,7 +881,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2610/12/news011.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T01:17:05+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -729,7 +905,7 @@
       "url": "https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T02:00:33+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -755,7 +931,7 @@
       "url": "https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T01:00:26+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -781,7 +957,7 @@
       "url": "https://e27.co/below-us82620-bitcoin-could-test-us81154-next-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T03:27:50+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -805,11 +981,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T09:38:46+00:00",
-      "age_days": 42.92,
+      "age_days": 42.94,
       "topics": [
         "general"
       ],
-      "dynamics_score": 8.83,
+      "dynamics_score": 8.82,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -829,34 +1005,8 @@
       "title": "Vietnam’s shoppers are asking AI first, but Google still gets the last word",
       "url": "https://e27.co/vietnams-shoppers-are-asking-ai-first-but-google-still-gets-the-last-word-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-12T06:59:06+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Vietnam’s shoppers are asking AI first, but Google still gets the last word",
-      "url": "https://e27.co/vietnams-shoppers-are-asking-ai-first-but-google-still-gets-the-last-word-20261012/",
-      "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-12T06:25:47+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -877,131 +1027,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Before a Vietnamese shopper adds anything to a cart these days, there is a good chance a chatbot has been consulted. As many as 62 per cent of Vietnamese buyers use AI, including generative AI, to research purchases before they buy, according to a new survey by Ho Chi Minh City-based market research firm Q&Me. […] The…"
-    },
-    {
-      "title": "Malaysia’s Budget 2027 hands startups US$110.4M but the bigger cheques go elsewhere",
-      "url": "https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-12T04:17:27+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Malaysia has put a number on its startup ambitions: MYR450 million (US$110.4 million). That is how much the National Fund of Funds Jelawang Capital and Dana Perintis, the startup vehicle of the Retirement Fund (KWAP), will invest in developing startups, Prime Minister Anwar Ibrahim said in his Budget 2027 speech to pa…"
-    },
-    {
-      "title": "【やじうまミニレビュー】 こういうのでいいんだよ……のはずだった。Amazonベーシック格安USB4ケーブル",
-      "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147366.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-11T22:07:57+00:00",
-      "age_days": 0.4,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "【やじうまミニレビュー】 こういうのでいいんだよ……のはずだった。Amazonベーシック格安USB4ケーブル"
-    },
-    {
-      "title": "攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト - Qiita",
-      "url": "https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-09T00:05:54+00:00",
-      "age_days": 3.32,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "こんにちは。コロンビア大学の博士課程でシステムセキュリティを研究しているKoukyosyumeiです。 ここ数日、セキュリティインシデントに関するニュースを目にする機会が増えています。こうしたニュースを見ると、「自分のWebサービスは大丈夫だろうか？」と考える方も多いのではないでしょうか。 Webアプリケーションへ..."
-    },
-    {
-      "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
-      "url": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-10T18:04:33+00:00",
-      "age_days": 1.57,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "はじめに 2026年9月下旬以降、国内でもサイバー攻撃による被害が相次いで報道されています。 その侵入経路は、ネットワーク機器の脆弱性を突くものや、フィッシングメールなど、さまざまです。 また今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへアクセスすることによって生じる、新たな..."
-    },
-    {
-      "title": "ウクライナ、「ロシアのGoogle」ヤンデックスのデータセンターを4日で3カ所破壊 ロシアのネットは大混乱、ボットも減った？",
-      "url": "https://posfie.com/@cashewNutsUmai/p/YXvMlOP",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-12T03:17:05+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "① ヤンデックスとは ロシア最大のIT企業で「ロシアのGoogle」とも呼ばれる。検索・地図・メール・タクシー配車・フードデリバリー・音楽配信・音声アシスタント「アリス」・クラウド（Yandex Cloud）まで手がけ、ロシアの日常生活とビジネスの基盤になっている。 ② 4日間で大型データセンター3カ所が破壊される ヤンデッ..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Singapore SMEs buy back time with AI, but messy data keeps pilots stuck” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
