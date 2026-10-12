@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T20:30:59+00:00",
+  "generated_at": "2026-10-12T20:49:52+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -12122,7 +12122,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c011425b698cc0869bb7",
@@ -14400,6 +14400,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e488e9dd1e316efc8345",
+      "title": "M 4.8 - 25 km W of Río Grande, Panama",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_e48d7d4bbf592e678320",
