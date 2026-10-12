@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T17:43:31+00:00_
+_Generiert: 2026-10-12T18:01:01+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+65 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot app for Beginners: How to teach Copilot about your codebase“ aus GitHub Blog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,6 +73,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **GitHub Copilot app for Beginners: How to teach Copilot about your codebase** — Score 23, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-10-12T17:43:59+00:00`, fetched `2026-10-12T18:00:18+00:00`
+  - Treffer: AI Agents, AI/KI, Content-Chance, Copilot, GitHub, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Content-Chance (+6.2); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3871)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-12T11:54:11+00:00`, fetched `2026-10-12T12:03:47+00:00`
