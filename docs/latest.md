@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-12T16:47:10+00:00_
+_Generiert: 2026-10-12T16:57:03+00:00_
 
 ## Kurzlage
 
-61 neue relevante Treffer. Stärkstes Signal: „[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
+62 neue relevante Treffer. Stärkstes Signal: „[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff“ aus BSI CERT-Bund Security Advisories (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -84,6 +84,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Automatisierung (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Artificial intelligence is increasingly moving from an experimental technology to an operational tool for small and medium-sized enterprises across Southeast Asia. Yet the more important question is not whether SMEs will use AI, but where AI can create measurable business value without adding disproportionate complexity, cost, or risk. This distinction matters because Southeast Asia’s SME […] The post Beyond automat…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Multiples vulnérabilités dans les produits Cisco (25 avril 2024)** — Score 14, risk — [Quelle](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/)
+  - Quelle: CERT-FR Alertes / `rss`
+  - Zeit: published `2024-04-25T00:00:00+00:00`, fetched `2026-10-12T16:56:32+00:00`
+  - Treffer: alerte, attaque, CERT-FR, Security, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); attaque (+2.0); vulnérabilité (+2.5)
+  - Kurz: Le 24 avril 2024, Cisco a publié trois avis de sécurité concernant des vulnérabilités affectant les équipements de sécurité ASA et FTD. Deux d'entre eux concernent les vulnérabilités CVE-2024-20353 et CVE-2024-20359 qui sont activement exploitées dans le cadre d'attaques ciblées. La vulnérabilité...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
