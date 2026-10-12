@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-12T11:54:21+00:00_
+_Generated: 2026-10-12T12:04:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `48`
+- findings: `52`
 
 ## Top Signals
 
-### 1. [NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen
+### 1. [NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-12T11:54:11+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3871
+- summary: Ein Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.
+
+### 2. [NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-12T11:19:11+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Foreman ausnutzen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.
 
-### 2. [NEU] [UNGEPATCHT] [mittel] GIMP: Schwachstelle ermöglicht Denial of Service
+### 3. [NEU] [UNGEPATCHT] [mittel] GIMP: Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-12T10:54:12+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GIMP ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
-### 3. [NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen
+### 4. [NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-12T10:49:11+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Strapi ausnutzen, um Informationen offenzulegen.
-
-### 4. [UPDATE] [hoch] Apache CXF: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-12T07:40:07+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824
-- summary: Ein Angreifer kann mehrere Schwachstellen in Apache CXF ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und offenzulegen, Benutzer auf vom Angreifer kontrollierte Websites umzuleiten oder Denial-of-Service-Zustände auszulösen.
 
 ### 5. M 5.5 - 123 km W of Neiafu, Tonga
 - source: USGS M4.5+ Earthquakes Past Hour

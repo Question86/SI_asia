@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-12T11:54:21+00:00",
+  "generated_at": "2026-10-12T12:04:16+00:00",
   "topics": {
     "security": [
+      {
+        "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T11:54:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3871"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -33,6 +40,20 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824"
       },
       {
+        "title": "[NEU] [hoch] OTRS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T11:54:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3872"
+      },
+      {
+        "title": "[NEU] [mittel] Bouncy Castle: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T11:54:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3862"
+      },
+      {
         "title": "[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-12T11:19:11+00:00",
@@ -52,30 +73,16 @@
         "published_at": "2026-10-12T11:14:11+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3866"
-      },
-      {
-        "title": "[NEU] [mittel] LiteLLM: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T11:14:11+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3864"
-      },
-      {
-        "title": "[NEU] [hoch] IBM SPSS Modeler: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T11:14:11+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3865"
-      },
-      {
-        "title": "[NEU] [mittel] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:54:12+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T11:54:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3871"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -98,6 +105,20 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854"
       },
       {
+        "title": "[NEU] [hoch] OTRS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T11:54:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3872"
+      },
+      {
+        "title": "[NEU] [mittel] Bouncy Castle: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T11:54:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3862"
+      },
+      {
         "title": "[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-12T11:19:11+00:00",
@@ -124,27 +145,6 @@
         "published_at": "2026-10-12T11:14:11+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3864"
-      },
-      {
-        "title": "[NEU] [hoch] IBM SPSS Modeler: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T11:14:11+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3865"
-      },
-      {
-        "title": "[NEU] [mittel] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:54:12+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857"
-      },
-      {
-        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-12T10:54:12+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3858"
       }
     ],
     "ai": [
@@ -263,6 +263,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx"
       },
       {
+        "title": "人生やりたいことリストのすすめ FIRE後の楽しみを可視化する | ドクセル",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-12T05:25:28+00:00",
+        "relevance_score": 5,
+        "url": "https://www.docswell.com/s/ipusiron/ZGN668-2026-08-15-213702"
+      },
+      {
         "title": "スロップ表現100連発",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-12T03:57:30+00:00",
@@ -282,13 +289,6 @@
         "published_at": "2026-10-11T22:07:57+00:00",
         "relevance_score": 5,
         "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147366.html"
-      },
-      {
-        "title": "Below US$82,620 Bitcoin could test US$81,154 next",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-12T03:27:50+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/below-us82620-bitcoin-could-test-us81154-next-20261012/"
       }
     ],
     "economy": [

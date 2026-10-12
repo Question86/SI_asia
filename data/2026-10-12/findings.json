@@ -1,5 +1,29 @@
 [
   {
+    "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3871",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-12T11:54:11+00:00",
+    "fetched_at": "2026-10-12T12:03:47+00:00",
+    "summary": "Ein Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e96c60ad9dc20a23ea64"
+  },
+  {
     "title": "[NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868",
     "source": "BSI CERT-Bund Security Advisories",
@@ -215,6 +239,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "12edcc3795bec9be95a0"
+  },
+  {
+    "title": "[NEU] [hoch] OTRS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3872",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-12T11:54:12+00:00",
+    "fetched_at": "2026-10-12T12:03:47+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in OTRS ausnutzen, um seine Privilegien zu erhöhen, die Authentifizierung zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren und Cross-Site-Scripting-Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c601fe630618c1ee7d43"
+  },
+  {
+    "title": "[NEU] [mittel] Bouncy Castle: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3862",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-12T11:54:11+00:00",
+    "fetched_at": "2026-10-12T12:03:47+00:00",
+    "summary": "Ein Angreifer kann eine Schwachstelle in Bouncy Castle ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7560cd4ae516129ad37e"
   },
   {
     "title": "[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
@@ -1043,6 +1113,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "79289da4609e55923259"
+  },
+  {
+    "title": "人生やりたいことリストのすすめ FIRE後の楽しみを可視化する | ドクセル",
+    "url": "https://www.docswell.com/s/ipusiron/ZGN668-2026-08-15-213702",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-12T05:25:28+00:00",
+    "fetched_at": "2026-10-12T12:03:47+00:00",
+    "summary": "人生やりたいことリストのすすめ — FIRE後の楽しみを可視化する IPUSIRON (@ipusiron) 第3回FIRE勉強会 2026-08-15 1 自己紹介 IPUSIRON イプシロン X : @ipusiron 肩書き 技術書作家（セキュリティ） 著書 40冊超 ／ 積み上げ100cm ブログ セキュリティアカデメイア (akademeia.info) 拠点 福島県相馬市 関心事 古典暗...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "665b051d16c3f494841c"
   },
   {
     "title": "なんでもリバースエンジニアリング。ソースコード非公開のアプリをAIに解析させ、類似機能を作らせるオープンソースツール「REA」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
