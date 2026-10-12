@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T21:32:37+00:00",
+  "generated_at": "2026-10-12T21:45:42+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -990,9 +990,8 @@
     },
     "domain:www.ecb.europa.eu": {
       "title": "Announcing 20260090 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
-        12.2,
         12.2,
         12.2,
         17.1,
@@ -1021,12 +1020,13 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.01,
+      "rolling_average": 14.07,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": 0.09
+      "z_hint": 0.03
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -1559,10 +1559,10 @@
     },
     "earthquake:indonesia:4.6": {
       "title": "M 4.6 - 100 km SSW of Kencong, Indonesia",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -3662,9 +3662,8 @@
     },
     "domain:qiita.com": {
       "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
-        12.2,
         12.2,
         12.2,
         17.3,
@@ -3693,12 +3692,13 @@
         14.3,
         14.3,
         14.3,
+        14.3,
         14.3
       ],
-      "rolling_average": 14.19,
+      "rolling_average": 14.26,
       "rolling_peak": 17.3,
       "last_score": 14.3,
-      "z_hint": 0.11
+      "z_hint": 0.04
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -4321,7 +4321,7 @@
     },
     "domain:www.heise.de": {
       "title": "Warnung vor Angriffen auf alte Sicherheitslücken",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -5081,9 +5081,8 @@
     },
     "domain:togetter.com": {
       "title": "プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -5112,12 +5111,13 @@
         9.2,
         9.2,
         9.2,
+        9.2,
         9.2
       ],
-      "rolling_average": 8.39,
+      "rolling_average": 8.46,
       "rolling_peak": 12.2,
       "last_score": 9.2,
-      "z_hint": 0.81
+      "z_hint": 0.74
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -5839,9 +5839,9 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
-        73.3,
+        64.3,
         64.3,
         64.3,
         64.3,
@@ -5872,10 +5872,10 @@
         64.3,
         64.3
       ],
-      "rolling_average": 64.6,
-      "rolling_peak": 73.3,
+      "rolling_average": 64.3,
+      "rolling_peak": 64.3,
       "last_score": 64.3,
-      "z_hint": -0.3
+      "z_hint": 0.0
     },
     "title:why-every-warehouse-singapore-will-run-safety-monitoring": {
       "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
@@ -8291,7 +8291,7 @@
     },
     "domain:www.techno-edge.net": {
       "title": "なんでもリバースエンジニアリング。ソースコード非公開のアプリをAIに解析させ、類似機能を作らせるオープンソースツール「REA」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -8411,7 +8411,7 @@
     },
     "earthquake:m 4.5 - south of the fiji islands:4.5": {
       "title": "M 4.5 - south of the Fiji Islands",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -12729,7 +12729,7 @@
     },
     "earthquake:m 4.7 - mid-indian ridge:4.7": {
       "title": "M 4.7 - Mid-Indian Ridge",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -12747,12 +12747,13 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 14.05,
+      "rolling_average": 14.03,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.35
+      "z_hint": -0.33
     },
     "title:claude-fable-generally-available-github-copilot": {
       "title": "Claude Fable 5.1 is generally available in GitHub Copilot",
@@ -17018,7 +17019,7 @@
     },
     "earthquake:chile:4.8": {
       "title": "M 4.8 - 23 km SW of San Antonio, Chile",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -17037,8 +17038,8 @@
         13.7,
         13.7,
         13.7,
-        13.7,
         16.7,
+        13.7,
         13.7,
         13.7,
         13.7,
@@ -19225,7 +19226,7 @@
     },
     "earthquake:japan:4.5": {
       "title": "M 4.5 - 53 km S of Kushiro, Japan",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -26747,9 +26748,8 @@
     },
     "domain:cert.europa.eu": {
       "title": "2026-016: Critical Vulnerability in GitLab CE and EE",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
-        25.1,
         25.1,
         17.1,
         14.1,
@@ -26778,12 +26778,13 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.93,
+      "rolling_average": 14.57,
       "rolling_peak": 25.1,
       "last_score": 14.1,
-      "z_hint": -0.83
+      "z_hint": -0.47
     },
     "url:https://anond.hatelabo.jp/20260910114530": {
       "title": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
@@ -34084,9 +34085,9 @@
     },
     "domain:www.docswell.com": {
       "title": "人生やりたいことリストのすすめ FIRE後の楽しみを可視化する | ドクセル",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
-        10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -34117,10 +34118,10 @@
         7.1,
         7.1
       ],
-      "rolling_average": 7.2,
-      "rolling_peak": 10.1,
+      "rolling_average": 7.1,
+      "rolling_peak": 7.1,
       "last_score": 7.1,
-      "z_hint": -0.1
+      "z_hint": 0.0
     },
     "domain:findy.connpass.com": {
       "title": "設計次第でAIコードの読む量は減らせる / designing-for-code-reading",
@@ -40596,7 +40597,7 @@
     },
     "domain:posfie.com": {
       "title": "ウクライナ、「ロシアのGoogle」ヤンデックスのデータセンターを4日で3カ所破壊 ロシアのネットは大混乱、ボットも減った？",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -50803,15 +50804,15 @@
     },
     "earthquake:alaska:4.6": {
       "title": "M 4.6 - 194 km SE of Attu Station, Alaska",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         13.7,
         13.7,
         13.7,
         13.7,
         13.7,
-        13.7,
         16.7,
+        13.7,
         13.7,
         13.7,
         13.7,
@@ -56344,7 +56345,7 @@
     },
     "title:100": {
       "title": "スロップ表現100連発",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -59182,7 +59183,7 @@
     },
     "domain:voluntas.ghost.io": {
       "title": "OpenCode から Pi へ切り替えた",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -68942,7 +68943,7 @@
     },
     "title:why-sea-retailers-need-protect-powered-customer-experience": {
       "title": "Why SEA’s retailers need to protect AI-powered customer experience with observability",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -68982,7 +68983,7 @@
     },
     "title:amazon-usb4": {
       "title": "【やじうまミニレビュー】 こういうのでいいんだよ……のはずだった。Amazonベーシック格安USB4ケーブル",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -69022,7 +69023,7 @@
     },
     "title:your-deeptech-company-does-not-have-one-capital": {
       "title": "Your deeptech company does not have one capital problem",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -69062,7 +69063,7 @@
     },
     "earthquake:m 4.8 - 56 km e of yairipok, india:4.8": {
       "title": "M 4.8 - 56 km E of Yairipok, India",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -69102,7 +69103,7 @@
     },
     "earthquake:m 4.8 - southern east pacific rise:4.8": {
       "title": "M 4.8 - southern East Pacific Rise",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -69142,7 +69143,7 @@
     },
     "title:microsoft-ceo": {
       "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -69182,7 +69183,7 @@
     },
     "title:don-build-another-app-build-inside-ones-people": {
       "title": "Don’t build another app. Build inside the ones people already open",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         11.1,
         11.1,
@@ -69222,7 +69223,7 @@
     },
     "title:below-620-bitcoin-could-test-154-next": {
       "title": "Below US$82,620 Bitcoin could test US$81,154 next",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -69262,7 +69263,7 @@
     },
     "title:beyond-automation-reshaping-sme-landscape-southeast-asia": {
       "title": "Beyond automation: How AI is reshaping the SME landscape in Southeast Asia",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         17.1,
         17.1,
@@ -69302,7 +69303,7 @@
     },
     "title:malaysia-budget-2027-hands-startups-110-but-bigger": {
       "title": "Malaysia’s Budget 2027 hands startups US$110.4M but the bigger cheques go elsewhere",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -69342,7 +69343,7 @@
     },
     "title:singapore-smes-buy-back-time-but-messy-data": {
       "title": "Singapore SMEs buy back time with AI, but messy data keeps pilots stuck",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -69382,7 +69383,7 @@
     },
     "earthquake:m 5.5 - 123 km w of neiafu, tonga:5.5": {
       "title": "M 5.5 - 123 km W of Neiafu, Tonga",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         15.7,
         15.7,
@@ -69422,7 +69423,7 @@
     },
     "url:https://www.itmedia.co.jp/mobile/articles/2610/12/news011.html": {
       "title": "個人情報の流出にユーザーはどう備える？ 乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -69462,7 +69463,7 @@
     },
     "title:vietnam-shoppers-are-asking-first-but-google-still": {
       "title": "Vietnam’s shoppers are asking AI first, but Google still gets the last word",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -69502,7 +69503,7 @@
     },
     "github_repo:pytorch/pytorch": {
       "title": "pytorch/pytorch",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -69542,7 +69543,7 @@
     },
     "earthquake:m 4.5 - 7 km ese of tebario, panama:4.5": {
       "title": "M 4.5 - 7 km ESE of Tebario, Panama",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -69582,7 +69583,7 @@
     },
     "domain:hackers-champloo.org": {
       "title": "実践！ SRE × AI - ABEMA における AIOps -",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         11.1,
         11.1,
@@ -69622,7 +69623,7 @@
     },
     "earthquake:m 5.7 - mid-indian ridge:5.7": {
       "title": "M 5.7 - Mid-Indian Ridge",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -69662,9 +69663,10 @@
     },
     "title:vuln-rabilit-dans-microsoft-exchange-server-octobre-2026": {
       "title": "Vulnérabilité dans Microsoft Exchange Server (05 octobre 2026)",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -69693,14 +69695,14 @@
         13.1,
         13.1
       ],
-      "rolling_average": 13.21,
+      "rolling_average": 13.2,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.11
+      "z_hint": -0.1
     },
     "title:multiples-vuln-rabilit-dans-google-chrome-octobre-2026": {
       "title": "Multiples vulnérabilités dans Google Chrome (05 octobre 2026)",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -69729,16 +69731,17 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.21,
+      "rolling_average": 12.2,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.11
+      "z_hint": -0.1
     },
     "title:multiples-vuln-rabilit-dans-openoffice-octobre-2026": {
       "title": "Multiples vulnérabilités dans OpenOffice (05 octobre 2026)",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -69767,16 +69770,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.21,
+      "rolling_average": 10.2,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.11
+      "z_hint": -0.1
     },
     "earthquake:m 4.9 - 283 km ssw of severo-kuril’sk, russia:4.9": {
       "title": "M 4.9 - 283 km SSW of Severo-Kuril’sk, Russia",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -69797,16 +69801,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.85,
+      "rolling_average": 11.84,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "cve:CVE-2024-20353": {
       "title": "Multiples vulnérabilités dans les produits Cisco (25 avril 2024)",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -69825,16 +69830,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.27,
+      "rolling_average": 16.26,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:push-attribution-commits-limited-public-preview": {
       "title": "Push attribution for commits in limited public preview",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -69851,16 +69857,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.29,
+      "rolling_average": 10.28,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:github-copilot-app-beginners-teach-copilot-about-your": {
       "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         28.1,
         25.1,
@@ -69875,16 +69882,17 @@
         25.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.31,
+      "rolling_average": 25.3,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "earthquake:m 4.6 - mid-indian ridge:4.6": {
       "title": "M 4.6 - Mid-Indian Ridge",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -69896,16 +69904,17 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 13.97,
+      "rolling_average": 13.95,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "title:anonymous-organization-level-registries-dependabot": {
       "title": "Anonymous organization-level registries for Dependabot",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -69916,40 +69925,54 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.4,
+      "rolling_average": 14.37,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "earthquake:m 4.8 - 25 km w of río grande, panama:4.8": {
       "title": "M 4.8 - 25 km W of Río Grande, Panama",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         14.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.45,
+      "rolling_average": 12.3,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:nvidia-microsoft-maia-300": {
       "title": "脱NVIDIAを急ぐMicrosoft、わずか9カ月で次世代AIチップ「Maia 300」",
-      "updated_at": "2026-10-12T21:32:37+00:00",
+      "updated_at": "2026-10-12T21:45:42+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.85,
+      "rolling_average": 7.7,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
+    },
+    "title:deno-cloudflare-deno-cloudflare-workers-durable-objects": {
+      "title": "Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力",
+      "updated_at": "2026-10-12T21:45:42+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
     }
   }
 }
