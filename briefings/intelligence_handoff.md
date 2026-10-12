@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-12T04:43:25Z_
+_Generated: 2026-10-12T05:07:17Z_
 
 ## Lageurteil
 
@@ -12,7 +12,27 @@ Stärkste Dynamik nach Gate-Recheck: “Beyond automation: How AI is reshaping t
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-12T04:00:42+00:00` / age_days `0.03`
+- Published: `2026-10-12T04:39:21+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +1, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/
+
+### Singapore SMEs buy back time with AI, but messy data keeps pilots stuck
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-12T05:00:13+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/
+
+### Beyond automation: How AI is reshaping the SME landscape in Southeast Asia
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-12T04:00:42+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -22,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Beyond automation: How AI is reshaping t
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-12T04:07:59.040+00:00` / age_days `0.02`
+- Published: `2026-10-12T04:07:59.040+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -32,100 +52,80 @@ Stärkste Dynamik nach Gate-Recheck: “Beyond automation: How AI is reshaping t
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-10-12T03:00:50+00:00` / age_days `0.07`
+- Published: `2026-10-12T03:00:50+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
 - Quelle: https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/
 
-### Malaysia’s Budget 2027 hands startups US$110.4M but the bigger cheques go elsewhere
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `21.5`
-- Published: `2026-10-12T04:39:21+00:00` / age_days `0.0`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, high terms: 10
-- Quelle: https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/
-
 ### Your deeptech company does not have one capital problem
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-10-12T02:01:07+00:00` / age_days `0.11`
+- Published: `2026-10-12T02:01:07+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://e27.co/your-deeptech-company-does-not-have-one-capital-problem-20261010/
 
-### M 4.5 - 53 km S of Kushiro, Japan
+### M 5.5 - 123 km W of Neiafu, Tonga
 
-- Band: `watch` (raw `strong`)
-- Dynamics score: `19.9`
-- Published: `2026-09-05T01:09:44+00:00` / age_days `37.15`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Band: `strong` (raw `strong`)
+- Dynamics score: `21.0`
+- Published: `2026-10-12T04:59:05.817+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 2.90, aging penalty -5.7 for 37.1d old signal, stale single-source cap: max watch after 14d without fresh resonance
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl
 
-### Beyond automation: How AI is reshaping the SME landscape in Southeast Asia
+### Singapore SMEs buy back time with AI, but messy data keeps pilots stuck
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `20.0`
+- Published: `2026-10-12T05:03:05+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/
+
+### Malaysia’s Budget 2027 hands startups US$110.4M but the bigger cheques go elsewhere
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-12T04:39:21+00:00` / age_days `0.0`
+- Published: `2026-10-12T04:39:21+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1, high terms: 10
+- Quelle: https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/
+
+### Don’t build another app. Build inside the ones people already open
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `18.0`
+- Published: `2026-10-12T03:11:15+00:00` / age_days `0.08`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/
+
+### M 5.5 - 123 km W of Neiafu, Tonga
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.4`
+- Published: `2026-10-12T05:03:05+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl
 
 ### M 4.8 - southern East Pacific Rise
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-12T02:27:45.040+00:00` / age_days `0.09`
+- Published: `2026-10-12T02:27:45.040+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, 9.9
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx
-
-### M 4.8 - southern East Pacific Rise
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `16.5`
-- Published: `2026-10-12T02:47:41+00:00` / age_days `0.08`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx
-
-### Don’t build another app. Build inside the ones people already open
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `15.5`
-- Published: `2026-10-12T03:11:15+00:00` / age_days `0.06`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2
-- Quelle: https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/
-
-### MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-10-12T02:47:41+00:00` / age_days `0.08`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://www.itmedia.co.jp/news/article/2610/12/2000002195/
-
-### 【やじうまミニレビュー】 こういうのでいいんだよ……のはずだった。Amazonベーシック格安USB4ケーブル
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-10-12T01:23:01+00:00` / age_days `0.14`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147366.html
 
 END OF DOCUMENT
