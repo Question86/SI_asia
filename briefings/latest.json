@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T17:27:54+00:00",
-  "run_id": "2026-10-12T17:27:54+00:00",
+  "generated_at": "2026-10-12T17:43:31+00:00",
+  "run_id": "2026-10-12T17:43:31+00:00",
   "date": "2026-10-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 64,
     "displayed_findings": 64,
     "high": 0,
@@ -3289,29 +3289,7 @@
       "id": "9acc7ae451e8220f48ef"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Push attribution for commits in limited public preview",
-      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-12T16:30:11+00:00",
-      "fetched_at": "2026-10-12T17:27:12+00:00",
-      "summary": "GitHub now durably records the authenticated user who pushed each commit and surfaces that pusher identity in the UI and API alongside the existing author and committer fields. Commit author… The post Push attribution for commits in limited public preview appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub",
-        "Public Health"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Public Health (+5.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "325dc93faac366babc1c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
