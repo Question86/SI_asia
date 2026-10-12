@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-12T18:18:31Z",
+  "generated_at": "2026-10-12T18:48:35Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3869",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T11:19:11+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "security"
@@ -41,7 +41,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:54:12+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -62,11 +62,39 @@
       "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU Emacs ausnutzen, um beliebigen Programmcode auszuführen."
     },
     {
+      "title": "2026-016: Critical Vulnerability in GitLab CE and EE",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-016/",
+      "source": "CERT-EU Security Advisories",
+      "published_at": "2026-09-10T08:29:02+00:00",
+      "age_days": 32.43,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: critical",
+        "security high-signal: critical",
+        "aging penalty -4.0 for 32.4d old signal",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": ""
+    },
+    {
       "title": "[NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T11:19:11+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -92,7 +120,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:49:11+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -118,7 +146,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3872",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T11:54:12+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -144,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3867",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T11:14:12+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -170,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3864",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T11:14:11+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "security"
@@ -197,7 +225,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3865",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T11:14:11+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -223,7 +251,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3858",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:54:12+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -249,7 +277,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3855",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:54:11+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -275,7 +303,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3856",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-12T10:54:11+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -295,32 +323,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein Angreifer kann mehrere Schwachstellen in MariaDB ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "[UPDATE] [hoch] Apache Struts: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3852",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T09:34:11+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code, auth",
-        "security high-signal: code, auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Apache Struts ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen."
     }
   ],
   "read_order": [

@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-12T18:18:31Z_
+_Generated: 2026-10-12T18:48:35Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SmarterTools SmarterMail: M
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-10-12T11:19:11+00:00` / age_days `0.29`
+- Published: `2026-10-12T11:19:11+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code
@@ -22,17 +22,27 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SmarterTools SmarterMail: M
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-10-12T10:54:12+00:00` / age_days `0.31`
+- Published: `2026-10-12T10:54:12+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857
 
+### 2026-016: Critical Vulnerability in GitLab CE and EE
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-10T08:29:02+00:00` / age_days `32.43`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: momentum delta +3, high terms: critical, security high-signal: critical, aging penalty -4.0 for 32.4d old signal, official security but no high-signal phrase: capped at strong
+- Quelle: https://cert.europa.eu/publications/security-advisories/2026-016/
+
 ### [NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-12T11:19:11+00:00` / age_days `0.29`
+- Published: `2026-10-12T11:19:11+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SmarterTools SmarterMail: M
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-12T10:49:11+00:00` / age_days `0.31`
+- Published: `2026-10-12T10:49:11+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SmarterTools SmarterMail: M
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-12T11:54:12+00:00` / age_days `0.27`
+- Published: `2026-10-12T11:54:12+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, auth, security high-signal: angriffe, auth, official security but no high-signal phrase: capped at strong
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SmarterTools SmarterMail: M
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-12T11:14:12+00:00` / age_days `0.29`
+- Published: `2026-10-12T11:14:12+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code, official security but no high-signal phrase: capped at strong
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SmarterTools SmarterMail: M
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-12T11:14:11+00:00` / age_days `0.29`
+- Published: `2026-10-12T11:14:11+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SmarterTools SmarterMail: M
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-12T11:14:11+00:00` / age_days `0.29`
+- Published: `2026-10-12T11:14:11+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, security high-signal: angriffe, official security but no high-signal phrase: capped at strong
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SmarterTools SmarterMail: M
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-12T10:54:12+00:00` / age_days `0.31`
+- Published: `2026-10-12T10:54:12+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SmarterTools SmarterMail: M
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-12T10:54:11+00:00` / age_days `0.31`
+- Published: `2026-10-12T10:54:11+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: remote, security high-signal: remote, official security but no high-signal phrase: capped at strong
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SmarterTools SmarterMail: M
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-12T10:54:11+00:00` / age_days `0.31`
+- Published: `2026-10-12T10:54:11+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3856
-
-### [UPDATE] [hoch] Apache Struts: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit den Rechten des Dienstes
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-12T09:34:11+00:00` / age_days `0.36`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, auth, security high-signal: code, auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3852
 
 END OF DOCUMENT
