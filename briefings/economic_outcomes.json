@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T16:47:57+00:00",
+  "generated_at": "2026-10-12T16:57:40+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -9713,7 +9713,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_99002374b5b02748f3eb",
@@ -9934,6 +9934,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_9c42c7aa48c9958f0b87",
+      "title": "Multiples vulnérabilités dans les produits Cisco (25 avril 2024)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_9cbe7ed05fa57ef8b32f",
