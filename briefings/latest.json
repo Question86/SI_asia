@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T23:17:22+00:00",
-  "run_id": "2026-10-12T23:17:22+00:00",
+  "generated_at": "2026-10-12T23:33:28+00:00",
+  "run_id": "2026-10-12T23:33:28+00:00",
   "date": "2026-10-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 76
+      "configured_public_sources_only": 77
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "new_relevant_findings": 1,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 0,
     "medium": 30,
-    "observe": 46,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -1670,6 +1670,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0db68c222cc289a2ed44"
+      },
+      {
+        "title": "AI時代のサイバー攻撃、度重なる情報漏洩からの守りを固めるための政府への7つの提言私案｜安野貴博",
+        "url": "https://note.com/takahiroanno/n/n27e77cc9bb80",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-12T15:55:27+00:00",
+        "fetched_at": "2026-10-12T23:32:50+00:00",
+        "summary": "個人情報の漏洩事案が過去に例をみないペースで公表されている。現在見えている事案はあくまで氷山の一角で、公表や検知すらされていない事案も数多く存在すると思われる。また、サイバー攻撃能力の高いAIの拡散によって今後さらに状況が悪くなる可能性が高い。ライフラインに関わる領域が攻撃されれば産業や人命にも関...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a32a5872e78e9728b542"
       },
       {
         "title": "ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀",
@@ -3671,6 +3692,27 @@
       "id": "0db68c222cc289a2ed44"
     },
     {
+      "title": "AI時代のサイバー攻撃、度重なる情報漏洩からの守りを固めるための政府への7つの提言私案｜安野貴博",
+      "url": "https://note.com/takahiroanno/n/n27e77cc9bb80",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-12T15:55:27+00:00",
+      "fetched_at": "2026-10-12T23:32:50+00:00",
+      "summary": "個人情報の漏洩事案が過去に例をみないペースで公表されている。現在見えている事案はあくまで氷山の一角で、公表や検知すらされていない事案も数多く存在すると思われる。また、サイバー攻撃能力の高いAIの拡散によって今後さらに状況が悪くなる可能性が高い。ライフラインに関わる領域が攻撃されれば産業や人命にも関...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a32a5872e78e9728b542"
+    },
+    {
       "title": "ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀",
       "url": "https://pc.watch.impress.co.jp/docs/news/2147419.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4027,7 +4069,29 @@
       "id": "9acc7ae451e8220f48ef"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "AI時代のサイバー攻撃、度重なる情報漏洩からの守りを固めるための政府への7つの提言私案｜安野貴博",
+      "url": "https://note.com/takahiroanno/n/n27e77cc9bb80",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-12T15:55:27+00:00",
+      "fetched_at": "2026-10-12T23:32:50+00:00",
+      "summary": "個人情報の漏洩事案が過去に例をみないペースで公表されている。現在見えている事案はあくまで氷山の一角で、公表や検知すらされていない事案も数多く存在すると思われる。また、サイバー攻撃能力の高いAIの拡散によって今後さらに状況が悪くなる可能性が高い。ライフラインに関わる領域が攻撃されれば産業や人命にも関...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a32a5872e78e9728b542"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
