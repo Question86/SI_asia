@@ -1,8 +1,38 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-12T06:59:03+00:00",
+  "generated_at": "2026-10-12T07:49:32+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "[UPDATE] [hoch] Apache CXF: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T07:40:07+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824"
+      },
+      {
+        "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T07:40:07+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3841"
+      },
+      {
+        "title": "[UPDATE] [hoch] Argo CD: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-12T07:39:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3802"
+      },
+      {
+        "title": "Warnung vor Angriffen auf alte Sicherheitslücken",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-12T06:28:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Alte-Luecken-etwa-in-Apache-Struts-BIND-und-ProFTPD-im-Visier-von-Angreifern-11483781.html"
+      }
+    ],
     "ai": [
       {
         "title": "Singapore SMEs buy back time with AI, but messy data keeps pilots stuck",
@@ -54,6 +84,13 @@
         "url": "https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/"
       },
       {
+        "title": "pytorch/pytorch",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/pytorch/pytorch"
+      },
+      {
         "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-10T18:04:33+00:00",
@@ -61,18 +98,11 @@
         "url": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5"
       },
       {
-        "title": "ウクライナ、「ロシアのGoogle」ヤンデックスのデータセンターを4日で3カ所破壊 ロシアのネットは大混乱、ボットも減った？",
+        "title": "なんでもリバースエンジニアリング。ソースコード非公開のアプリをAIに解析させ、類似機能を作らせるオープンソースツール「REA」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-12T03:17:05+00:00",
+        "published_at": "2026-10-12T04:10:08+00:00",
         "relevance_score": 5,
-        "url": "https://posfie.com/@cashewNutsUmai/p/YXvMlOP"
-      },
-      {
-        "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-12T01:35:17+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/"
+        "url": "https://www.techno-edge.net/article/2026/10/12/5574.html"
       }
     ],
     "general": [
@@ -89,6 +119,13 @@
         "published_at": "2026-10-12T04:59:05.817+00:00",
         "relevance_score": 13,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pl"
+      },
+      {
+        "title": "M 4.5 - 7 km ESE of Tebario, Panama",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-12T07:38:49.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1qd"
       },
       {
         "title": "M 4.5 - south of the Fiji Islands",
@@ -149,6 +186,13 @@
         "url": "https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/"
       },
       {
+        "title": "pytorch/pytorch",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/pytorch/pytorch"
+      },
+      {
         "title": "Warnung vor Angriffen auf alte Sicherheitslücken",
         "source": "heise Security Alerts",
         "published_at": "2026-10-12T06:28:00.000+00:00",
@@ -172,13 +216,13 @@
         "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/"
       }
     ],
-    "security": [
+    "github": [
       {
-        "title": "Warnung vor Angriffen auf alte Sicherheitslücken",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-12T06:28:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Alte-Luecken-etwa-in-Apache-Struts-BIND-und-ProFTPD-im-Visier-von-Angreifern-11483781.html"
+        "title": "pytorch/pytorch",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/pytorch/pytorch"
       }
     ]
   }
