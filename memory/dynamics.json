@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-13T16:45:37Z",
+  "generated_at": "2026-10-13T17:19:07Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
-      "krass": 15,
-      "strong": 20,
+      "krass": 17,
+      "strong": 18,
       "watch": 3
     },
     "bands_after_gate_recheck": {
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3747",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T10:12:18+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3861",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T09:22:06+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3891",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T12:04:11+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3881",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:59:40+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -123,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3853",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T09:22:06+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3747",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 46.11,
+      "age_days": 46.13,
       "topics": [
         "security"
       ],
@@ -159,12 +159,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 9.5,
+      "baseline_z_hint": 10.06,
       "security_high_signal": true,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 9.50",
+        "baseline z_hint 10.06",
         "high terms: rce, code",
         "security high-signal: rce, code",
         "aging penalty -8.0 for 46.1d old signal",
@@ -177,7 +177,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3619",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T12:00:15+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -201,7 +201,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3612",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T12:00:14+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -225,7 +225,7 @@
       "url": "https://jvn.jp/jp/JVN38664315/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T12:00:00+09:00",
-      "age_days": 0.57,
+      "age_days": 0.6,
       "topics": [
         "security"
       ],
@@ -249,7 +249,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3880",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:59:38+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -273,7 +273,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0518",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T10:09:15+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -297,7 +297,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3837",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T09:22:05+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -321,7 +321,7 @@
       "url": "https://jvn.jp/vu/JVNVU99982995/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T09:00:00+09:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [
         "security"
       ],
@@ -341,11 +341,36 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "Enterprise managed settings enforcement updates",
+      "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-13T15:20:10+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, 10",
+        "security high-signal: rce, 10"
+      ],
+      "summary": "Enterprise administrators can now require supported GitHub Copilot clients to retrieve current server-managed settings at startup instead of relying on a cached policy. We are also adding minimum client version… The post Enterprise managed settings enforcement updates appeared first on The GitHub Blog ."
+    },
+    {
       "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
       "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
       "source": "BIS Central Bankers Speeches, BIS Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 117.09,
+      "age_days": 117.11,
       "topics": [
         "ai"
       ],
@@ -356,13 +381,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 3.49,
+      "baseline_z_hint": 2.55,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 3.49",
+        "baseline z_hint 2.55",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 117.1d old signal",
@@ -375,7 +400,7 @@
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-13T08:00:25+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -404,7 +429,7 @@
       "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T06:00:12+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "security"
@@ -431,7 +456,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3882",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:59:40+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -457,7 +482,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3879",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:59:38+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -483,7 +508,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3878",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:59:17+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -509,7 +534,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2576",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T10:11:46+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -535,7 +560,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3833",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T09:22:05+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -561,7 +586,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T06:34:11+00:00",
-      "age_days": 0.42,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -583,11 +608,64 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Strapi ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsvorkehrungen zu umgehen und Informationen offenzulegen."
     },
     {
+      "title": "Enterprise managed settings enforcement updates",
+      "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-13T16:57:54+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+      "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-13T16:12:36+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, code, 10",
+        "security high-signal: rce, code, 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is… The post Secret scanning blocks Anthropic keys by default, adds Salesforce appeared first on The GitHub Blog ."
+    },
+    {
       "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0935",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T10:09:18+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -612,7 +690,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T08:29:12+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -637,7 +715,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T08:29:11+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -662,7 +740,7 @@
       "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-13T12:37:35+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -686,11 +764,38 @@
       "summary": ""
     },
     {
+      "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+      "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-13T16:57:54+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Code scanning AI Scan metrics in security overview",
       "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-13T12:03:17+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "security",
@@ -718,7 +823,7 @@
       "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-13T14:03:57+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -744,7 +849,7 @@
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-13T08:01:10+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -769,7 +874,7 @@
       "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-13T14:52:20+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -794,7 +899,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T07:09:00.000+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -819,7 +924,7 @@
       "url": "https://jvn.jp/jp/JVN38664315/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T03:08:22+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "general"
       ],
@@ -837,111 +942,13 @@
         "momentum delta +3"
       ],
       "summary": ""
-    },
-    {
-      "title": "Theliaにおける複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU99982995/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-13T00:16:50+00:00",
-      "age_days": 0.69,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "US-China trade is entering an era of managed rivalry. Southeast Asian businesses should prepare for it",
-      "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-13T03:08:22+00:00",
-      "age_days": 0.57,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.5 - 71 km SW of Tambolaka, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u20i",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-13T10:20:27.040+00:00",
-      "age_days": 0.27,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10, 9.9"
-      ],
-      "summary": "Time 2026-10-13 09:48:28 UTC 2026-10-13 09:48:28 UTC at epicenter Location 9.927°S 118.825°E Depth 35.00 km (21.75 mi)"
-    },
-    {
-      "title": "M 5.1 - 119 km SSW of Gambiran Satu, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-13T04:15:46.040+00:00",
-      "age_days": 0.52,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-13 04:00:15 UTC 2026-10-13 04:00:15 UTC at epicenter Location 9.447°S 113.889°E Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "The UAE embraces AI for kindergartners",
       "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-13T10:00:00+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -966,7 +973,7 @@
       "url": "https://www.heise.de/news/Patchday-SAP-Angreifer-koennen-Systeme-uebernehmen-11486228.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T12:39:00.000+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -990,7 +997,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T09:40:00.000+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -1014,7 +1021,7 @@
       "url": "https://www.heise.de/news/24-Sicherheitsluecken-in-GitLab-geschlossen-11485669.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T09:03:00.000+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
