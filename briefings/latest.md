@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T23:50:03+00:00_
+_Generiert: 2026-10-13T23:58:09+00:00_
 
 ## Kurzlage
 
-103 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+105 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -327,6 +327,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the 2026 Community Banking Research Conference, sponsored by the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St Louis, Missouri, 6 October 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **「Gemini 4 Argon」が一般提供開始 ～満を持して登場した最強の「Gemini」モデル／「Gemini」アプリでは「Google AI Pro/Ultra」の契約者が利用可能** — Score 9, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2147842.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-13T17:22:11+00:00`, fetched `2026-10-13T23:57:38+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 「Gemini 4 Argon」が一般提供開始 ～満を持して登場した最強の「Gemini」モデル／「Gemini」アプリでは「Google AI Pro/Ultra」の契約者が利用可能
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Investing through uncertainty - financing Europe's future** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261013-investing-through-uncertainty-financing-europes-future)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T13:02:23+00:00`
@@ -335,15 +344,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Closing keynote speech by Ms Clara Raposo, Vice-Governor of the Banco de Portugal, at the 8th Edition of the Capital Markets Seminar “Financing Europe”, organised by the European Commission (EC), European Investment Bank (EIB) and the European Stability Mechanism (ESM), Luxembourg, 1 October 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026** — Score 8, observation — [Quelle](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm)
-  - Quelle: Federal Reserve Monetary Policy Press Releases / `rss`
-  - Zeit: published `2026-10-13T18:00:00+00:00`, fetched `2026-10-13T18:11:38+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
-  - Kurz: Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
