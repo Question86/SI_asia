@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T23:33:49+00:00",
+  "generated_at": "2026-10-13T00:17:07+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1308,7 +1308,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T11:56:17+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_23fb8afd580f37b46528",
@@ -1461,7 +1461,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T01:09:44+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ab8bebe9851784271f9a",
@@ -1597,7 +1597,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-12T11:54:23+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d52e61c16fa1407a436a",
@@ -1852,7 +1852,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-12T05:03:05+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2dbf41789a4da455f136",
@@ -2263,6 +2263,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_7189d3731475814dcf99",
+      "title": "M 6.1 - 18 km W of Río Grande, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-13T00:16:50+00:00",
+      "last_seen_at": "2026-10-13T00:16:50+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_016849870c540dd48378",
       "title": "M 5.0 - 124 km N of Metinaro, Timor Leste",
       "event_classes": [
@@ -2396,7 +2413,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:39:57+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1d96702b9c68a08a2c51",
@@ -3093,7 +3110,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T23:01:12+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9b372237b9559ac9e445",
@@ -3263,7 +3280,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-12T02:01:07+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c05df984c41949389168",
@@ -3450,7 +3467,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-27T08:27:03+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ec0aeef3e45a0530029f",
@@ -3552,7 +3569,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-12T19:01:40+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f76b04666ca9d54aa23a",
@@ -7550,6 +7567,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f75dd09efc50b039e807",
+      "title": "M 4.8 - 21 km W of Río Grande, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-13T00:16:50+00:00",
+      "last_seen_at": "2026-10-13T00:16:50+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -7564,7 +7598,7 @@
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b380be2049a414b6cdc6",
@@ -8380,7 +8414,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T16:57:06+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a3594953048dd36f9e00",
@@ -8757,6 +8791,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_1c0340efbc3235e9aef6",
+      "title": "Theliaにおける複数の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-13T00:16:50+00:00",
+      "last_seen_at": "2026-10-13T00:16:50+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2f5c3cffbb9951edd868",
       "title": "Southeast Asia startup funding finds a floor, but not a rebound",
       "event_classes": [
@@ -9128,7 +9179,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T18:01:04+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_47eecb9fd7e4eb30b620",
@@ -10709,7 +10760,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T05:03:05+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_973fd8e950bf68ddf25c",
@@ -11202,7 +11253,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T08:29:02+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_72879edabd2cf6f632a5",
@@ -11270,7 +11321,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T04:39:21+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_89e5139bb5ba0529e7cb",
@@ -12477,7 +12528,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T19:20:23+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_191ab3bc063695a3c886",
@@ -12511,7 +12562,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T02:01:07+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_28a6bc6471eec481b650",
@@ -12664,7 +12715,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-12T01:23:01+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_58b1d9a0e9d32a8eebb3",
@@ -16167,7 +16218,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5252adbb76a6fbcf8a41",
@@ -21353,7 +21404,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
       "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3bf882e0f0d8589a296b",
