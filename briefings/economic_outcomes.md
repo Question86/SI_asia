@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-10-13T02:54:58+00:00`
+Generated: `2026-10-13T03:08:46+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -21,6 +21,7 @@ Generated: `2026-10-13T02:54:58+00:00`
 | Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026) | $0 | — | 0 | 0 | dormant |
 | 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
+| M 4.7 - 9 km SSE of La Mesa, Panama | $0 | — | 0 | 0 | active |
 | M 5.4 - north of Svalbard | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 3 km NW of Flores, Panama | $0 | — | 0 | 0 | dormant |
 | Change fatigue is an organisational design problem, not a resilience problem | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-10-13T02:54:58+00:00`
 | BuilderIO/agent-native | $0 | — | 0 | 0 | dormant |
 | M 5.4 - 99 km NE of Norsup, Vanuatu | $0 | — | 0 | 0 | dormant |
 | OpenAI’s GPT-6 Sol and GPT-6 Luna now available | $0 | — | 0 | 0 | dormant |
-| The new engineering bottleneck isn’t writing code, it’s trusting it | $0 | — | 0 | 0 | dormant |
