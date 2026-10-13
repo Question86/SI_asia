@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T23:09:09+00:00_
+_Generiert: 2026-10-13T23:21:05+00:00_
 
 ## Kurzlage
 
@@ -45,10 +45,6 @@ _Generiert: 2026-10-13T23:09:09+00:00_
   - Quelle: USGS
   - Zeit: `2026-10-13T05:44:46+00:00`
   - Kurz: M6.7 - central Mid-Atlantic Ridge. PAGER alert: green. Tsunami flag: 0.
-- **USGS earthquake M6.1 - 17 km W of Río Grande, Panama** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn)
-  - Quelle: USGS
-  - Zeit: `2026-10-12T23:20:36+00:00`
-  - Kurz: M6.1 - 17 km W of Río Grande, Panama. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 6M, Depth:20.842km) in Papua New Guinea 13/10/2026 18:45 UTC, 4 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571367)
   - Quelle: GDACS
   - Zeit: ``

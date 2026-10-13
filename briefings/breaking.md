@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-13T23:09:13+00:00_
+_Generiert: 2026-10-13T23:21:08+00:00_
 
 ## Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework
 
