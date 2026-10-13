@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T19:19:53+00:00",
-  "run_id": "2026-10-13T19:19:53+00:00",
+  "generated_at": "2026-10-13T19:32:32+00:00",
+  "run_id": "2026-10-13T19:32:32+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 94,
     "displayed_findings": 94,
     "high": 0,
@@ -4503,29 +4503,7 @@
       "id": "a65b746ca7dfd2226535"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-13T12:00:00+00:00",
-      "fetched_at": "2026-10-13T19:19:22+00:00",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "55bcd59c111f717206b2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
