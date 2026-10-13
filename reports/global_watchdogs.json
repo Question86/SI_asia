@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T23:33:31+00:00",
+  "generated_at": "2026-10-13T00:16:50+00:00",
   "sections": {
     "global_security": [
       {
@@ -85,6 +85,31 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "USGS earthquake M6.1 - 18 km W of Río Grande, Panama",
+        "summary": "M6.1 - 18 km W of Río Grande, Panama. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn",
+        "published_at": "2026-10-12T23:20:36+00:00",
+        "metrics": {
+          "mag": 6.1,
+          "alert": "green",
+          "sig": 593.0,
+          "tsunami": 0
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).",
+        "summary": "Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571161",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.",
         "summary": "Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.",
         "source": "GDACS",
@@ -109,16 +134,6 @@
         "summary": "Volcanic eruption is on going for Kanlaon in Philippines",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000152",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Panama 10/10/2026 04:14 UTC, 4 thousand (in MMI&gt;=VII).",
-        "summary": "Green earthquake (Magnitude 6M, Depth:10km) in Panama 10/10/2026 04:14 UTC, 4 thousand (in MMI&gt;=VII).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570467",
         "published_at": "",
         "metrics": {}
       }

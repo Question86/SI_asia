@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T23:33:31+00:00",
+  "generated_at": "2026-10-13T00:16:50+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -70095,6 +70095,39 @@
       "rolling_peak": 10.1,
       "last_score": 7.1,
       "z_hint": -0.5
+    },
+    "title:thelia": {
+      "title": "Theliaにおける複数の脆弱性",
+      "updated_at": "2026-10-13T00:16:50+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "earthquake:m 6.1 - 18 km w of río grande, panama:6.1": {
+      "title": "M 6.1 - 18 km W of Río Grande, Panama",
+      "updated_at": "2026-10-13T00:16:50+00:00",
+      "network_scores": [
+        18.7
+      ],
+      "rolling_average": 18.7,
+      "rolling_peak": 18.7,
+      "last_score": 18.7,
+      "z_hint": 0.0
+    },
+    "earthquake:m 4.8 - 21 km w of río grande, panama:4.8": {
+      "title": "M 4.8 - 21 km W of Río Grande, Panama",
+      "updated_at": "2026-10-13T00:16:50+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
+      "z_hint": 0.0
     }
   }
 }
