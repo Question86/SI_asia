@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-13T05:51:05+00:00",
-  "run_id": "2026-10-13T05:51:05+00:00",
+  "generated_at": "2026-10-13T06:02:20+00:00",
+  "run_id": "2026-10-13T06:02:20+00:00",
   "date": "2026-10-13",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 23
+      "configured_public_sources_only": 26
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "new_relevant_findings": 3,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
     "medium": 5,
-    "observe": 18,
-    "source_errors": 0
+    "observe": 21,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -393,6 +393,66 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2f7b785ed49c1cd0ef43"
+      },
+      {
+        "title": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
+        "url": "https://www.digital.go.jp/policies/numbering-on-accounts/designate",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-13T06:00:00+00:00",
+        "fetched_at": "2026-10-13T06:01:44+00:00",
+        "summary": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d03cf920426b5574e2ac"
+      },
+      {
+        "title": "マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました",
+        "url": "https://www.digital.go.jp/policies/mynumber_logo",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-13T06:00:00+00:00",
+        "fetched_at": "2026-10-13T06:01:44+00:00",
+        "summary": "マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8d544cab5637bf8c46a1"
+      },
+      {
+        "title": "「デジタル社会推進会議幹事会の開催について」の資料を更新しました",
+        "url": "https://www.digital.go.jp/councils/social-promotion-executive",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-13T06:00:00+00:00",
+        "fetched_at": "2026-10-13T06:01:44+00:00",
+        "summary": "「デジタル社会推進会議幹事会の開催について」の資料を更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "05f8a5b223e809ce3a36"
       },
       {
         "title": "古川大臣記者会見（令和8年10月13日）動画を掲載しました",
@@ -949,6 +1009,66 @@
       "id": "2f7b785ed49c1cd0ef43"
     },
     {
+      "title": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
+      "url": "https://www.digital.go.jp/policies/numbering-on-accounts/designate",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-13T06:00:00+00:00",
+      "fetched_at": "2026-10-13T06:01:44+00:00",
+      "summary": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d03cf920426b5574e2ac"
+    },
+    {
+      "title": "マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました",
+      "url": "https://www.digital.go.jp/policies/mynumber_logo",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-13T06:00:00+00:00",
+      "fetched_at": "2026-10-13T06:01:44+00:00",
+      "summary": "マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8d544cab5637bf8c46a1"
+    },
+    {
+      "title": "「デジタル社会推進会議幹事会の開催について」の資料を更新しました",
+      "url": "https://www.digital.go.jp/councils/social-promotion-executive",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-13T06:00:00+00:00",
+      "fetched_at": "2026-10-13T06:01:44+00:00",
+      "summary": "「デジタル社会推進会議幹事会の開催について」の資料を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "05f8a5b223e809ce3a36"
+    },
+    {
       "title": "古川大臣記者会見（令和8年10月13日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261013-01",
       "source": "Japan Digital Agency News RSS",
@@ -1137,8 +1257,76 @@
       "id": "d733ab1772c9f7d85a79"
     }
   ],
-  "new_findings": [],
-  "source_errors": [],
+  "new_findings": [
+    {
+      "title": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
+      "url": "https://www.digital.go.jp/policies/numbering-on-accounts/designate",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-13T06:00:00+00:00",
+      "fetched_at": "2026-10-13T06:01:44+00:00",
+      "summary": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d03cf920426b5574e2ac"
+    },
+    {
+      "title": "マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました",
+      "url": "https://www.digital.go.jp/policies/mynumber_logo",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-13T06:00:00+00:00",
+      "fetched_at": "2026-10-13T06:01:44+00:00",
+      "summary": "マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8d544cab5637bf8c46a1"
+    },
+    {
+      "title": "「デジタル社会推進会議幹事会の開催について」の資料を更新しました",
+      "url": "https://www.digital.go.jp/councils/social-promotion-executive",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-13T06:00:00+00:00",
+      "fetched_at": "2026-10-13T06:01:44+00:00",
+      "summary": "「デジタル社会推進会議幹事会の開催について」の資料を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "05f8a5b223e809ce3a36"
+    }
+  ],
+  "source_errors": [
+    {
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

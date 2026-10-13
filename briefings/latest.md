@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T05:51:05+00:00_
+_Generiert: 2026-10-13T06:02:20+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „M 5.1 - 119 km SSW of Gambiran Satu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+26 neue relevante Treffer. Stärkstes Signal: „M 5.1 - 119 km SSW of Gambiran Satu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -175,14 +175,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - I Time 2026-10-12 23:36:46 UTC 2026-10-12 23:36:46 UTC at epicenter Location 7.736°N 81.527°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **古川大臣記者会見（令和8年10月13日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261013-01)
+- **預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/numbering-on-accounts/designate)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-13T00:42:47+00:00`, fetched `2026-10-13T01:15:14+00:00`
+  - Zeit: published `2026-10-13T06:00:00+00:00`, fetched `2026-10-13T06:01:44+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 古川大臣記者会見（令和8年10月13日）動画を掲載しました
+  - Kurz: 預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/mynumber_logo)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-13T06:00:00+00:00`, fetched `2026-10-13T06:01:44+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「デジタル社会推進会議幹事会の開催について」の資料を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/social-promotion-executive)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-13T06:00:00+00:00`, fetched `2026-10-13T06:01:44+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 「デジタル社会推進会議幹事会の開催について」の資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/13/2000002204/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -229,3 +247,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
