@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T21:09:50+00:00",
-  "run_id": "2026-10-13T21:09:50+00:00",
+  "generated_at": "2026-10-13T21:22:53+00:00",
+  "run_id": "2026-10-13T21:22:53+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 96,
     "displayed_findings": 96,
     "high": 0,
@@ -4587,29 +4587,7 @@
       "id": "a65b746ca7dfd2226535"
     }
   ],
-  "new_findings": [
-    {
-      "title": "あなたの『Amazon Kindle』は最新モデルへ買い替えるべき？ 歴代モデル徹底比較【山口真弘のおすすめ読書タブレット比較】",
-      "url": "https://forest.watch.impress.co.jp/docs/bookwatch/tabletrecom/2147295.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-13T09:34:02+00:00",
-      "fetched_at": "2026-10-13T21:09:18+00:00",
-      "summary": "あなたの『Amazon Kindle』は最新モデルへ買い替えるべき？ 歴代モデル徹底比較【山口真弘のおすすめ読書タブレット比較】",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0ca5ad2e55f842e96af2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
