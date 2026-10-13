@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-13T04:50:25Z",
+  "generated_at": "2026-10-13T05:18:12Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "strong": 9,
+      "strong": 11,
       "watch": 15,
-      "quiet": 16
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
-      "strong": 9,
+      "strong": 11,
       "watch": 15,
-      "quiet": 16
+      "quiet": 14
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/jp/JVN38664315/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T12:00:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://jvn.jp/vu/JVNVU99982995/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T09:00:00+09:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -70,7 +70,7 @@
       "url": "https://jvn.jp/jp/JVN38664315/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T03:08:22+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -94,7 +94,7 @@
       "url": "https://jvn.jp/vu/JVNVU99982995/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T00:16:50+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -118,7 +118,7 @@
       "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T03:08:22+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -142,7 +142,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T04:15:46.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -163,11 +163,35 @@
       "summary": "Time 2026-10-13 04:00:15 UTC 2026-10-13 04:00:15 UTC at epicenter Location 9.447°S 113.889°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Client telemetry user attribution and configurable capture",
+      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-13T03:37:04+00:00",
+      "age_days": 0.07,
+      "topics": [],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 6.1 - 18 km W of Río Grande, Panama",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T00:15:08.307+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -192,7 +216,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T00:16:50+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -212,11 +236,35 @@
       "summary": ""
     },
     {
+      "title": "NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery",
+      "url": "https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-13T04:01:48+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "古川大臣記者会見（令和8年10月13日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261013-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-13T01:15:49+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -237,53 +285,26 @@
       "summary": ""
     },
     {
-      "title": "M 5.1 - 119 km SSW of Gambiran Satu, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-04T16:56:25+00:00",
-      "age_days": 38.5,
+      "title": "What is work worth when thought is metered?",
+      "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-13T04:01:48+00:00",
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -6.1 for 38.5d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Client telemetry user attribution and configurable capture",
-      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-10-13T03:37:04+00:00",
-      "age_days": 0.05,
-      "topics": [],
-      "dynamics_score": 19.5,
+      "dynamics_score": 18.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -292,7 +313,7 @@
       "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-12T22:38:00+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [],
       "dynamics_score": 18.0,
       "raw_band": "watch",
@@ -316,7 +337,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T03:02:12.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -341,7 +362,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T00:00:28.352+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -366,7 +387,7 @@
       "url": "https://e27.co/could-a-hot-inflation-print-send-bitcoin-and-ethereum-into-freefall-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T04:31:45+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "macro"
       ],
@@ -376,12 +397,12 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -390,7 +411,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T03:08:22+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -414,7 +435,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T00:16:50+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -434,11 +455,36 @@
       "summary": ""
     },
     {
+      "title": "M 5.1 - 119 km SSW of Gambiran Satu, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-04T16:56:25+00:00",
+      "age_days": 38.52,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.37,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -6.1 for 38.5d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery",
       "url": "https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T03:56:11+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -462,7 +508,7 @@
       "url": "https://e27.co/everyone-is-talking-about-ai-adoption-but-are-enterprises-actually-ready-for-it-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T02:17:12+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -484,35 +530,35 @@
       "summary": ""
     },
     {
-      "title": "NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery",
-      "url": "https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-13T04:01:48+00:00",
-      "age_days": 0.03,
+      "title": "フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃 温度が最高50度に上昇し食品大量廃棄に",
+      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002201/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-13T02:54:34+00:00",
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.0,
+      "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
     {
-      "title": "フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃 温度が最高50度に上昇し食品大量廃棄に",
-      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002201/",
+      "title": "「PowerPoint」のCopilotで自社デザインの適用や作業自動化が可能に／ブランドキットとスキルが一般提供開始、ブランド統一と効率化を促進",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2147289.html",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-13T02:54:34+00:00",
-      "age_days": 0.08,
+      "published_at": "2026-10-13T03:37:04+00:00",
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -536,7 +582,7 @@
       "url": "https://design.digital.go.jp/dads/guidance/local-design-system/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-13T02:17:12+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -560,7 +606,7 @@
       "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T04:00:45+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "macro"
       ],
@@ -580,50 +626,28 @@
       "summary": "Your organisation buys human intelligence by the hour and machine intelligence by the million tokens. Only one of those prices is falling fast, and most management systems, from the timesheet to the pricing model, are still built around the other. I have spent my career applying technology to improve productivity and…"
     },
     {
-      "title": "What is work worth when thought is metered?",
-      "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/",
+      "title": "Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route",
+      "url": "https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-13T04:01:48+00:00",
-      "age_days": 0.03,
+      "published_at": "2026-10-13T03:37:04+00:00",
+      "age_days": 0.07,
       "topics": [
-        "general"
+        "ai"
       ],
-      "dynamics_score": 13.0,
+      "dynamics_score": 12.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "「PowerPoint」のCopilotで自社デザインの適用や作業自動化が可能に／ブランドキットとスキルが一般提供開始、ブランド統一と効率化を促進",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2147289.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-13T03:37:04+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -632,7 +656,7 @@
       "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T03:00:33+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -658,7 +682,7 @@
       "url": "https://e27.co/everyone-is-talking-about-ai-adoption-but-are-enterprises-actually-ready-for-it-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T02:00:56+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -684,7 +708,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261013-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-13T00:42:47+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -708,11 +732,11 @@
       "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T04:45:41+00:00",
-      "age_days": 30.0,
+      "age_days": 30.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 10.85,
+      "dynamics_score": 10.84,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -733,7 +757,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002201/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-13T01:57:29+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -757,7 +781,7 @@
       "url": "https://gigazine.net/news/20261013-how-machines-learned-precision/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T22:03:51+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -777,37 +801,11 @@
       "summary": "現代の工作機械は非常に精密でほとんど誤差がない部品を作ることができますが、初めから現代のような精度があったわけではありません。18世紀中頃～19世紀の産業革命の時代に、どのようにして精度の高い「ねじ」を生み出したのかについて、エンジニアで起業家のゲイリー・リンスコット氏が解説しています。 How Machines..."
     },
     {
-      "title": "Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route",
-      "url": "https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-13T03:37:04+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 9.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "AI can generate a video in minutes. Making it usable is the hard part",
       "url": "https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T01:15:49+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -830,11 +828,37 @@
       "summary": ""
     },
     {
+      "title": "Vietnamese-founded Drylab bags US$3M to put autonomous AI scientists inside pharma labs",
+      "url": "https://e27.co/vietnamese-founded-drylab-bags-us3m-to-put-autonomous-ai-scientists-inside-pharma-labs-20261013/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-13T05:05:15+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route",
       "url": "https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T03:35:04+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -860,7 +884,7 @@
       "url": "https://design.digital.go.jp/dads/guidance/local-design-system/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T11:03:36+00:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "general"
       ],
@@ -880,11 +904,38 @@
       "summary": "ローカルデザインシステムとは、デジタル庁デザインシステムを個々のサイトやサービスの要件に合わせて定義した、デザイン仕様のことです。デジタル庁デザインシステムはプラットフォーム型デザインシステムであり、固有の組織に依拠したブランド概念を備えていないため、使用にあたってはローカルデザインシステムの作..."
     },
     {
+      "title": "Vietnamese-founded Drylab bags US$3M to put autonomous AI scientists inside pharma labs",
+      "url": "https://e27.co/vietnamese-founded-drylab-bags-us3m-to-put-autonomous-ai-scientists-inside-pharma-labs-20261013/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-13T05:00:04+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "The cost of sequencing a human genome fell from about US$95 million in 2001 to about US$500 by 2022, according to the US National Human Genome Research Institute. Biology became a data business almost overnight. The ability to make sense of that data did not keep pace. Most laboratories now generate more sequencing, i…"
+    },
+    {
       "title": "Could a hot inflation print send Bitcoin and Ethereum into freefall?",
       "url": "https://e27.co/could-a-hot-inflation-print-send-bitcoin-and-ethereum-into-freefall-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T04:24:48+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -911,7 +962,7 @@
       "url": "https://gigazine.net/news/20261013-how-machines-learned-precision/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 116.12,
+      "age_days": 116.14,
       "topics": [
         "general"
       ],
@@ -932,39 +983,11 @@
       "summary": ""
     },
     {
-      "title": "「AIには、もう勝てない」。それでも日本語プログラミング言語「なでしこ」を作り続ける理由 - レバテックLAB",
-      "url": "https://levtech.jp/media/detail_940/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-03T06:37:14+00:00",
-      "age_days": 39.93,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.07,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "single-source AI hype brake -8.0",
-        "aging penalty -6.6 for 39.9d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "AI can generate a video in minutes. Making it usable is the hard part",
       "url": "https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T01:00:27+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -985,30 +1008,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Generative AI has made video creation remarkably fast. A scene that once required a camera crew, actors, locations and hours of post-production can now begin with a prompt and an idea. But after working with AI-generated cinematic videos, I have learned that generating a video quickly and producing a video that is act…"
-    },
-    {
-      "title": "「PowerPoint」のCopilotで自社デザインの適用や作業自動化が可能に／ブランドキットとスキルが一般提供開始、ブランド統一と効率化を促進",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2147289.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-12T23:24:18+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "「PowerPoint」のCopilotで自社デザインの適用や作業自動化が可能に／ブランドキットとスキルが一般提供開始、ブランド統一と効率化を促進"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
