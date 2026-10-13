@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-13T14:52:20+00:00_
+_Generiert: 2026-10-13T15:02:38+00:00_
 
 ## Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework
 
-- Ranking Score: `29.02`
+- Ranking Score: `28.84`
 - Raw Network Score: `49.2`
 - Max Monitor Score: `18`
 - Reichweite: `institutional` / `5.0`
@@ -19,8 +19,8 @@ _Generiert: 2026-10-13T14:52:20+00:00_
 
 ## Improved detection for withdrawn Dependabot alerts
 
-- Ranking Score: `27.5`
-- Raw Network Score: `23.1`
+- Ranking Score: `25.0`
+- Raw Network Score: `20.1`
 - Max Monitor Score: `18`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
@@ -28,7 +28,7 @@ _Generiert: 2026-10-13T14:52:20+00:00_
 - Quellen: GitHub Changelog Atom
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
