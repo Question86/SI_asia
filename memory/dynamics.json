@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-13T02:05:39Z",
+  "generated_at": "2026-10-13T02:47:55Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 14,
+    "dynamics": 18,
     "bands": {
-      "strong": 3,
+      "strong": 4,
       "watch": 5,
-      "quiet": 6
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
-      "strong": 3,
+      "strong": 4,
       "watch": 5,
-      "quiet": 6
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/vu/JVNVU99982995/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T09:00:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -46,22 +46,22 @@
       "url": "https://jvn.jp/vu/JVNVU99982995/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T00:16:50+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
-      "dynamics_score": 26.0,
+      "dynamics_score": 23.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -70,7 +70,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T00:15:08.307+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -95,11 +95,85 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T00:16:50+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
+      "dynamics_score": 20.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Everyone is talking about AI adoption. But are enterprises actually ready for it?",
+      "url": "https://e27.co/everyone-is-talking-about-ai-adoption-but-are-enterprises-actually-ready-for-it-20261010/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-13T02:17:12+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
       "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "ローカルデザインシステム（スタイルガイド）｜デジタル庁デザインシステムβ版",
+      "url": "https://design.digital.go.jp/dads/guidance/local-design-system/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-13T02:17:12+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "古川大臣記者会見（令和8年10月13日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261013-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-13T01:15:49+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -110,7 +184,8 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +2",
+        "high terms: 10"
       ],
       "summary": ""
     },
@@ -119,7 +194,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T00:00:28.352+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -140,64 +215,15 @@
       "summary": "DYFI? - I Time 2026-10-12 23:36:46 UTC 2026-10-12 23:36:46 UTC at epicenter Location 7.736°N 81.527°W Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "古川大臣記者会見（令和8年10月13日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261013-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-13T01:15:49+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "high terms: 10"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.8 - 21 km W of Río Grande, Panama",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T00:16:50+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Announcing AWS Lambda Web Functions | Amazon Web Services",
-      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-13T04:45:41+00:00",
-      "age_days": 29.89,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.39,
+      "dynamics_score": 16.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -208,17 +234,42 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "aging penalty -3.1 for 29.9d old signal"
+        "momentum delta +3"
       ],
       "summary": ""
+    },
+    {
+      "title": "Everyone is talking about AI adoption. But are enterprises actually ready for it?",
+      "url": "https://e27.co/everyone-is-talking-about-ai-adoption-but-are-enterprises-actually-ready-for-it-20261010/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-13T02:00:56+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "A company can have hundreds of employees using ChatGPT, Copilot, or other AI tools every day, and still not be an AI-ready organisation. This may sound contradictory, but it is becoming increasingly common. Employees are experimenting with AI. Teams are building copilots. Companies are running pilots. Some are even pu…"
     },
     {
       "title": "古川大臣記者会見（令和8年10月13日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261013-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-13T00:42:47+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -238,11 +289,36 @@
       "summary": "古川大臣記者会見（令和8年10月13日）動画を掲載しました"
     },
     {
+      "title": "Announcing AWS Lambda Web Functions | Amazon Web Services",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-13T04:45:41+00:00",
+      "age_days": 29.92,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.88,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -3.1 for 29.9d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "産業革命の時代にどうやって精度の高い「ねじ」を作り出したのか？",
       "url": "https://gigazine.net/news/20261013-how-machines-learned-precision/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T22:03:51+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -262,11 +338,62 @@
       "summary": "現代の工作機械は非常に精密でほとんど誤差がない部品を作ることができますが、初めから現代のような精度があったわけではありません。18世紀中頃～19世紀の産業革命の時代に、どのようにして精度の高い「ねじ」を生み出したのかについて、エンジニアで起業家のゲイリー・リンスコット氏が解説しています。 How Machines..."
     },
     {
+      "title": "ローカルデザインシステム（スタイルガイド）｜デジタル庁デザインシステムβ版",
+      "url": "https://design.digital.go.jp/dads/guidance/local-design-system/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-12T11:03:36+00:00",
+      "age_days": 0.66,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: local"
+      ],
+      "summary": "ローカルデザインシステムとは、デジタル庁デザインシステムを個々のサイトやサービスの要件に合わせて定義した、デザイン仕様のことです。デジタル庁デザインシステムはプラットフォーム型デザインシステムであり、固有の組織に依拠したブランド概念を備えていないため、使用にあたってはローカルデザインシステムの作..."
+    },
+    {
+      "title": "AI can generate a video in minutes. Making it usable is the hard part",
+      "url": "https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-13T01:15:49+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 6.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +2",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "産業革命の時代にどうやって精度の高い「ねじ」を作り出したのか？",
       "url": "https://gigazine.net/news/20261013-how-machines-learned-precision/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 116.0,
+      "age_days": 116.03,
       "topics": [
         "general"
       ],
@@ -291,7 +418,7 @@
       "url": "https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T01:00:27+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -314,38 +441,11 @@
       "summary": "Generative AI has made video creation remarkably fast. A scene that once required a camera crew, actors, locations and hours of post-production can now begin with a prompt and an idea. But after working with AI-generated cinematic videos, I have learned that generating a video quickly and producing a video that is act…"
     },
     {
-      "title": "AI can generate a video in minutes. Making it usable is the hard part",
-      "url": "https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-13T01:15:49+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Announcing AWS Lambda Web Functions | Amazon Web Services",
       "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-12T23:29:58+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
