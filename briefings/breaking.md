@@ -1,25 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-13T13:32:33+00:00_
-
-## Code scanning AI Scan metrics in security overview
-
-- Ranking Score: `30.0`
-- Raw Network Score: `25.1`
-- Max Monitor Score: `23`
-- Reichweite: `specialist` / `2.5`
-- Early Signal: `ja`
-- Dominanter Emitter: `nein`
-- Quellen: GitHub Changelog Atom
-- Klassen: tier3_specialist
-- Cross-source bestaetigt: nein
-- Momentum: stable (+0)
-- Erste Quelle: https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview
-- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
+_Generiert: 2026-10-13T13:54:41+00:00_
 
 ## Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework
 
-- Ranking Score: `28.92`
+- Ranking Score: `28.76`
 - Raw Network Score: `47.1`
 - Max Monitor Score: `18`
 - Reichweite: `institutional` / `5.0`
