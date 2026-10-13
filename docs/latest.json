@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T22:18:59+00:00",
-  "run_id": "2026-10-13T22:18:59+00:00",
+  "generated_at": "2026-10-13T22:31:37+00:00",
+  "run_id": "2026-10-13T22:31:37+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 100
+      "configured_public_sources_only": 101
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 100,
-    "displayed_findings": 100,
+    "today_file_total": 101,
+    "displayed_findings": 101,
     "high": 0,
     "medium": 30,
-    "observe": 70,
+    "observe": 71,
     "source_errors": 0
   },
   "sections": {
@@ -1687,6 +1687,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "943a0e5d0232b07390ce"
+      },
+      {
+        "title": "ブックオフ、約642万件の会員データ漏洩 退会会員も対象 - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOUC135N90T11C26A0000000/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-13T11:49:15+00:00",
+        "fetched_at": "2026-10-13T22:31:05+00:00",
+        "summary": "ブックオフグループホールディングス（HD）は13日、9日に公表した不正アクセスの現時点での調査結果を発表した。調査中としていた漏洩対象会員データ数が約642万件に上ると判明した。対象者には15日から順次、登録メールアドレス宛てに連絡するという。同社は9日、子会社の会員管理システムへの不正アクセスにより会員デ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e375d485e5e361b86483"
       },
       {
         "title": "Sicherheitslücke: DoS-Attacken auf IBM SPSS Modeler möglich",
@@ -4068,6 +4089,27 @@
       "id": "943a0e5d0232b07390ce"
     },
     {
+      "title": "ブックオフ、約642万件の会員データ漏洩 退会会員も対象 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC135N90T11C26A0000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-13T11:49:15+00:00",
+      "fetched_at": "2026-10-13T22:31:05+00:00",
+      "summary": "ブックオフグループホールディングス（HD）は13日、9日に公表した不正アクセスの現時点での調査結果を発表した。調査中としていた漏洩対象会員データ数が約642万件に上ると判明した。対象者には15日から順次、登録メールアドレス宛てに連絡するという。同社は9日、子会社の会員管理システムへの不正アクセスにより会員デ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e375d485e5e361b86483"
+    },
+    {
       "title": "Sicherheitslücke: DoS-Attacken auf IBM SPSS Modeler möglich",
       "url": "https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html",
       "source": "heise Security Alerts",
@@ -4789,25 +4831,25 @@
   ],
   "new_findings": [
     {
-      "title": "Appleがスマートホーム製品に本格進出 LGらと共同開発したスマートロックや屋内外用カメラなどを含む「Apple Home Collection」を発表",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/13/news112.html",
+      "title": "ブックオフ、約642万件の会員データ漏洩 退会会員も対象 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC135N90T11C26A0000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-13T14:03:40+00:00",
-      "fetched_at": "2026-10-13T22:18:23+00:00",
-      "summary": "Appleは10月13日、LG ElectronicsおよびSchneider Electricと共同開発した複数のスマートホーム製品「Apple Home Collection」を発表した。12月から順次、米国やカナダ、英国で発売する。日本での展開は発表されていない。 左からLGの「Smart Deadbolt Lock」、「Indoor Cam」、Schneider Electricの「Smart Thermostat...",
+      "published_at": "2026-10-13T11:49:15+00:00",
+      "fetched_at": "2026-10-13T22:31:05+00:00",
+      "summary": "ブックオフグループホールディングス（HD）は13日、9日に公表した不正アクセスの現時点での調査結果を発表した。調査中としていた漏洩対象会員データ数が約642万件に上ると判明した。対象者には15日から順次、登録メールアドレス宛てに連絡するという。同社は9日、子会社の会員管理システムへの不正アクセスにより会員デ...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9934320a8ffd4d1f1cbd"
+      "id": "e375d485e5e361b86483"
     }
   ],
   "source_errors": [],
