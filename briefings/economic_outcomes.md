@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-10-13T18:55:57+00:00`
+Generated: `2026-10-13T19:03:42+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -13,6 +13,7 @@ Generated: `2026-10-13T18:55:57+00:00`
 | AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する | $0 | — | 0 | 0 | dormant |
 | ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明 | $0 | — | 0 | 0 | dormant |
 | Secret scanning adds detectors for Lovable, Supabase, and more | $0 | — | 0 | 0 | dormant |
+| Gemini 4 Argon in GitHub Copilot | $0 | — | 0 | 0 | active |
 | anthropics/financial-services | $0 | — | 0 | 0 | dormant |
 | Can Ethereum clear US$2,672 this week and unlock a run to US$3,000? | $0 | — | 0 | 0 | dormant |
 | Investors do not just fund startups. They fund predictability | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-10-13T18:55:57+00:00`
 | Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性 | $0 | — | 0 | 0 | dormant |
 | BuilderIO/agent-native | $0 | — | 0 | 0 | dormant |
 | M 5.4 - 99 km NE of Norsup, Vanuatu | $0 | — | 0 | 0 | dormant |
-| OpenAI’s GPT-6 Sol and GPT-6 Luna now available | $0 | — | 0 | 0 | dormant |
