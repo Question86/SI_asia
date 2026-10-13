@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T08:01:07+00:00",
-  "run_id": "2026-10-13T08:01:07+00:00",
+  "generated_at": "2026-10-13T08:35:29+00:00",
+  "run_id": "2026-10-13T08:35:29+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 40
+      "configured_public_sources_only": 43
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "new_relevant_findings": 3,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 0,
-    "medium": 9,
-    "observe": 31,
+    "medium": 11,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -74,6 +74,54 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "34a892f293e65e5dbdee"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-13T08:29:12+00:00",
+        "fetched_at": "2026-10-13T08:35:00+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in python-tornado in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen oder einen Denial of Service zu verursachen",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "145d64d0e55c6c7ecc9e"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Manipulation von Daten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-13T08:29:11+00:00",
+        "fetched_at": "2026-10-13T08:35:00+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (cjose) ausnutzen, um Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2e14f622ea254cb165bb"
       },
       {
         "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
@@ -506,6 +554,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2f7b785ed49c1cd0ef43"
+      },
+      {
+        "title": "The signaling value of the summary of economic projections",
+        "url": "https://www.bis.org/speeches/20261013-signaling-value-summary-economic-projections",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "fetched_at": "2026-10-13T08:35:00+00:00",
+        "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Istanbul Economic Forum, organised by the Central Bank of the Republic of Türkiye, Istanbul, 8 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "81bea912039a9010ca77"
       },
       {
         "title": "Opening remarks - Cargox Solution Day",
@@ -986,6 +1054,54 @@
       "id": "34a892f293e65e5dbdee"
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T08:29:12+00:00",
+      "fetched_at": "2026-10-13T08:35:00+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in python-tornado in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen oder einen Denial of Service zu verursachen",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "145d64d0e55c6c7ecc9e"
+    },
+    {
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T08:29:11+00:00",
+      "fetched_at": "2026-10-13T08:35:00+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (cjose) ausnutzen, um Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e14f622ea254cb165bb"
+    },
+    {
       "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
       "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1414,6 +1530,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "2f7b785ed49c1cd0ef43"
+    },
+    {
+      "title": "The signaling value of the summary of economic projections",
+      "url": "https://www.bis.org/speeches/20261013-signaling-value-summary-economic-projections",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "fetched_at": "2026-10-13T08:35:00+00:00",
+      "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Istanbul Economic Forum, organised by the Central Bank of the Republic of Türkiye, Istanbul, 8 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "81bea912039a9010ca77"
     },
     {
       "title": "Opening remarks - Cargox Solution Day",
@@ -1847,132 +1983,72 @@
   ],
   "new_findings": [
     {
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "source": "GitHub Trending RSS All Languages Daily",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-10-13T08:00:25+00:00",
-      "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...) https://openwebui.com Open WebUI 👋 Open WebUI is a home for AI , a self-hosted AI platform that's extensible , feature-rich , user-friendly, and built to run entirely offline . With support for Ollama and OpenAI-compatible APIs , it gives you a powerful, provider-agnostic interface for both local and cloud-based models. Passionate about open-source AI? Jo…",
+      "published_at": "2026-10-13T08:29:12+00:00",
+      "fetched_at": "2026-10-13T08:35:00+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in python-tornado in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen oder einen Denial of Service zu verursachen",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Local-first AI",
-        "OpenAI"
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 20,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Local-first AI (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2c0e51f2c7dcb2d9796c"
+      "id": "145d64d0e55c6c7ecc9e"
     },
     {
-      "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
-      "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
-      "source": "BIS Press Releases",
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "fetched_at": "2026-10-13T08:00:25+00:00",
-      "summary": "The Basel Committee has published assessment reports on the implementation of its leverage ratio framework (LEV) in Australia, Canada, Japan, Korea, Switzerland and the United Kingdom. Australia, Japan, Korea and Switzerland are assessed as compliant; Canada and the United Kingdom are assessed as largely compliant. This publication concludes the first round of multi-jurisdictional assessments of the leverage ratio.",
+      "published_at": "2026-10-13T08:29:11+00:00",
+      "fetched_at": "2026-10-13T08:35:00+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (cjose) ausnutzen, um Daten zu manipulieren.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Basel",
-        "Macro/Policy"
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.8); Basel (+2.5); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph region japan: Japan (+2.0); watchgraph region australia: Australia (+2.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "34a892f293e65e5dbdee"
+      "id": "2e14f622ea254cb165bb"
     },
     {
-      "title": "Modernizing the regulatory and supervisory landscape",
-      "url": "https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape",
+      "title": "The signaling value of the summary of economic projections",
+      "url": "https://www.bis.org/speeches/20261013-signaling-value-summary-economic-projections",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "fetched_at": "2026-10-13T08:00:25+00:00",
-      "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the 2026 Community Banking Research Conference, sponsored by the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St Louis, Missouri, 6 October 2026.",
-      "matched_keywords": [
-        "banking",
-        "Macro/Policy"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6696b833d1ef802943b7"
-    },
-    {
-      "title": "Money in the digital age - digital euro, tokenisation and the role of central banks",
-      "url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "fetched_at": "2026-10-13T08:00:25+00:00",
-      "summary": "Speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the MNI Connect Webcast, Frankfurt am Main, 6 October 2026.",
+      "fetched_at": "2026-10-13T08:35:00+00:00",
+      "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Istanbul Economic Forum, organised by the Central Bank of the Republic of Türkiye, Istanbul, 8 October 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "db6c0ce66239777096cd"
-    },
-    {
-      "title": "Opening remarks - Conference on the Main Findings of Portugal's Financial Sector Assessment Program",
-      "url": "https://www.bis.org/speeches/20261013-opening-remarks-conference-main-findings-portugals-financial-sector-assessment-program",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "fetched_at": "2026-10-13T08:00:25+00:00",
-      "summary": "Opening remarks by Mr Álvaro Santos Pereira, Governor of the Banco de Portugal, at the Banco de Portugal’s Conference on the Main Findings of Portugal's Financial Sector Assessment Program (FSAP), Lisbon, 22 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d1fd5c5ce96fee9547e8"
-    },
-    {
-      "title": "【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究機構",
-      "url": "https://www.nict.go.jp/press/2026/10/13-1.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-13T05:15:17+00:00",
-      "fetched_at": "2026-10-13T08:00:25+00:00",
-      "summary": "トップ>広報>プレスリリース>2026年>【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6c611f8a884adac05233"
+      "id": "81bea912039a9010ca77"
     }
   ],
   "source_errors": [],

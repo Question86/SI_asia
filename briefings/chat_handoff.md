@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T08:01:07+00:00_
+_Generated: 2026-10-13T08:35:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `43`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-13T08:01:07+00:00_
 - url: https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom
 - summary: The Basel Committee has published assessment reports on the implementation of its leverage ratio framework (LEV) in Australia, Canada, Japan, Korea, Switzerland and the United Kingdom. Australia, Japan, Korea and Switzerland are assessed as compliant; Canada…
 
-### 3. Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”
-- source: e27 Asia Startup and Tech Feed
+### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-10-13T06:00:12+00:00`
-- url: https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/
-- summary: Southeast Asian companies are not short of money for AI. Most of them simply can’t get their projects past their own IT and security teams. That is the uncomfortable picture painted by the Southeast Asia findings of Adobe’s 2026 State of AI Readiness Report,…
+- published: `2026-10-13T08:29:12+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870
+- summary: Ein Angreifer kann mehrere Schwachstellen in python-tornado in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen oder einen Denial of Service zu verursachen
 
-### 4. M 5.1 - 119 km SSW of Gambiran Satu, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-13T04:15:46.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye
-- summary: Time 2026-10-13 04:00:15 UTC 2026-10-13 04:00:15 UTC at epicenter Location 9.447°S 113.889°E Depth 10.00 km (6.21 mi)
+### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Manipulation von Daten
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-13T08:29:11+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (cjose) ausnutzen, um Daten zu manipulieren.
 
 ### 5. M 6.1 - 18 km W of Río Grande, Panama
 - source: USGS M4.5+ Earthquakes Past Hour

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T08:01:07+00:00_
+_Generiert: 2026-10-13T08:35:29+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „open-webui/open-webui“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+43 neue relevante Treffer. Stärkstes Signal: „open-webui/open-webui“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -94,6 +94,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.8); Basel (+2.5); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph region japan: Japan (+2.0); watchgraph region australia: Australia (+2.0)
   - Kurz: The Basel Committee has published assessment reports on the implementation of its leverage ratio framework (LEV) in Australia, Canada, Japan, Korea, Switzerland and the United Kingdom. Australia, Japan, Korea and Switzerland are assessed as compliant; Canada and the United Kingdom are assessed as largely compliant. This publication concludes the first round of multi-jurisdictional assessments of the leverage ratio.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-13T08:29:12+00:00`, fetched `2026-10-13T08:35:00+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in python-tornado in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen oder einen Denial of Service zu verursachen
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Manipulation von Daten** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-13T08:29:11+00:00`, fetched `2026-10-13T08:35:00+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (cjose) ausnutzen, um Daten zu manipulieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”** — Score 16, observation — [Quelle](https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -224,6 +242,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - I Time 2026-10-12 23:36:46 UTC 2026-10-12 23:36:46 UTC at epicenter Location 7.736°N 81.527°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The signaling value of the summary of economic projections** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261013-signaling-value-summary-economic-projections)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T08:35:00+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Istanbul Economic Forum, organised by the Central Bank of the Republic of Türkiye, Istanbul, 8 October 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Opening remarks - Cargox Solution Day** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T07:40:15+00:00`
@@ -233,15 +260,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
   - Kurz: Opening remarks by Mr Howard Lee, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Cargox Solution Day, Hong Kong, 5 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Intelligence-led financial crime prevention: the power of data, insights and collaboration** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T07:40:15+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 16th International Conference on Financial Crime and Counter Terrorism Financing (IFCTF) 2026, Kuala Lumpur, 6 October 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Jetzt patchen! SonicWall SMA1000 im Fokus von Angreifern** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-13T07:09:00.000+00:00`, fetched `2026-10-13T07:40:15+00:00`

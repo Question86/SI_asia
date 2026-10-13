@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-13T08:01:10+00:00",
+  "generated_at": "2026-10-13T08:35:32+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 40,
+    "findings": 43,
     "clusters": 33,
     "cross_source_confrmed": 1,
     "hot": 2,
@@ -24,29 +24,29 @@
       "urls": [
         "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
         "https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape",
+        "https://www.bis.org/speeches/20261013-signaling-value-summary-economic-projections",
         "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day",
         "https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration",
-        "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks",
-        "https://www.bis.org/speeches/20261013-opening-remarks-conference-main-findings-portugals-financial-sector-assessment-program"
+        "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
       ],
-      "finding_count": 8,
+      "finding_count": 9,
       "max_score": 18,
-      "credibility_total": 8.4,
+      "credibility_total": 9.45,
       "cross_source_confirmed": true,
-      "momentum_delta": 4,
+      "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 39.5,
+      "network_score": 33.03,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 52.8,
-      "ranking_score": 39.5,
+      "raw_network_score": 45.9,
+      "ranking_score": 33.03,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 5.5,
-      "momentum_bonus": 8.0,
-      "baseline_bonus": 5.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 4.03,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -71,19 +71,19 @@
       "max_score": 20,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 31.5,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 29.0,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 25.1,
-      "ranking_score": 31.5,
+      "raw_network_score": 22.1,
+      "ranking_score": 29.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": true,
       "early_signal_bonus": 7.5,
@@ -130,6 +130,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-13T07:40:52+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040"
+      ],
+      "finding_count": 3,
+      "max_score": 16,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 22.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 28.3,
+      "ranking_score": 22.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 5.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:assetview",
@@ -206,44 +246,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-13T00:16:50+00:00"
-    },
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] Strapi: Mehrere Schwachstellen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 15.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 15.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:china-trade-entering-era-managed-rivalry-southeast-asian",
@@ -594,44 +596,6 @@
       "first_seen_at": "2026-10-13T04:01:48+00:00"
     },
     {
-      "key": "title:2026-nict",
-      "title": "【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究機構",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.nict.go.jp/press/2026/10/13-1.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.16,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 10.16,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.16,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-17T17:18:03+00:00"
-    },
-    {
       "key": "title:can-generate-video-minutes-making-usable-hard-part",
       "title": "AI can generate a video in minutes. Making it usable is the hard part",
       "sources": [
@@ -980,6 +944,44 @@
       "first_seen_at": "2026-10-13T01:15:49+00:00"
     },
     {
+      "key": "title:2026-nict",
+      "title": "【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究機構",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.nict.go.jp/press/2026/10/13-1.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-17T17:18:03+00:00"
+    },
+    {
       "key": "title:anthropic-26b",
       "title": "Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働",
       "sources": [
@@ -1286,7 +1288,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-13T08:01:11Z",
+    "generated_at": "2026-10-13T08:35:33Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
