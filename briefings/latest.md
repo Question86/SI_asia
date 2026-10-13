@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T16:27:33+00:00_
+_Generiert: 2026-10-13T16:57:51+00:00_
 
 ## Kurzlage
 
-83 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+85 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -232,6 +232,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - VIII DYFI? - V Time 2026-10-12 23:20:36 UTC 2026-10-12 23:20:36 UTC at epicenter Location 7.703°N 81.499°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Secret scanning blocks Anthropic keys by default, adds Salesforce** — Score 12, risk — [Quelle](https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-13T16:12:36+00:00`, fetched `2026-10-13T16:57:21+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is… The post Secret scanning blocks Anthropic keys by default, adds Salesforce appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery** — Score 11, observation — [Quelle](https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-13T03:56:11+00:00`, fetched `2026-10-13T04:01:12+00:00`
@@ -286,6 +295,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Closing keynote speech by Ms Clara Raposo, Vice-Governor of the Banco de Portugal, at the 8th Edition of the Capital Markets Seminar “Financing Europe”, organised by the European Commission (EC), European Investment Bank (EIB) and the European Stability Mechanism (ESM), Luxembourg, 1 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Enterprise managed settings enforcement updates** — Score 8, observation — [Quelle](https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-13T15:20:10+00:00`, fetched `2026-10-13T16:57:21+00:00`
+  - Treffer: APAC Trend Radar, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)
+  - Kurz: Enterprise administrators can now require supported GitHub Copilot clients to retrieve current server-managed settings at startup instead of relying on a cached policy. We are also adding minimum client version… The post Enterprise managed settings enforcement updates appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The signaling value of the summary of economic projections** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261013-signaling-value-summary-economic-projections)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T08:35:00+00:00`
@@ -330,24 +348,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Angreifer können an mehreren Schwachstellen in GitLab Community Edition und Enterprise Edition ansetzen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/numbering-on-accounts/designate)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-13T06:00:00+00:00`, fetched `2026-10-13T06:01:44+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/mynumber_logo)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-13T06:00:00+00:00`, fetched `2026-10-13T06:01:44+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T16:27:33+00:00_
+_Generated: 2026-10-13T16:57:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `83`
+- findings: `85`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-13T16:27:33+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn
 - summary: PAGER - GREEN ShakeMap - VIII DYFI? - V Time 2026-10-12 23:20:36 UTC 2026-10-12 23:20:36 UTC at epicenter Location 7.703°N 81.499°W Depth 10.00 km (6.21 mi)
 
-### 7. NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery
+### 7. Secret scanning blocks Anthropic keys by default, adds Salesforce
+- source: GitHub Changelog Atom
+- score: `12`
+- published: `2026-10-13T16:12:36+00:00`
+- url: https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce
+- summary: Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is… The post Secret scanning blocks Anthropic keys by…
+
+### 8. NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-10-13T03:56:11+00:00`
 - url: https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/
 - summary: Lithium iron phosphate (LFP) batteries have an awkward reputation among recyclers: they are everywhere, and they are worth very little once they die. Unlike the nickel- and cobalt-rich chemistries that recyclers have chased for a decade, a spent LFP cell offe…
-
-### 8. Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-10-13T03:35:04+00:00`
-- url: https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/
-- summary: “Social impact” is one of the most overused phrases in a Southeast Asian pitch deck. Founders apply the label to themselves, and in a funding winter it gets stretched to cover almost anything with a farmer, a recycling bin or an “underserved” customer in the…
 
 END OF DOCUMENT

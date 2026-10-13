@@ -794,6 +794,27 @@
     "id": "eb96019a0fd6bc55c010"
   },
   {
+    "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
+    "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-13T16:12:36+00:00",
+    "fetched_at": "2026-10-13T16:57:21+00:00",
+    "summary": "Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is… The post Secret scanning blocks Anthropic keys by default, adds Salesforce appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1dad4dc236d3e0f096ba"
+  },
+  {
     "title": "NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery",
     "url": "https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -1200,6 +1221,28 @@
       "EWZ"
     ],
     "id": "962ceacce2ef52ca158c"
+  },
+  {
+    "title": "Enterprise managed settings enforcement updates",
+    "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-13T15:20:10+00:00",
+    "fetched_at": "2026-10-13T16:57:21+00:00",
+    "summary": "Enterprise administrators can now require supported GitHub Copilot clients to retrieve current server-managed settings at startup instead of relying on a cached policy. We are also adding minimum client version… The post Enterprise managed settings enforcement updates appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "APAC Trend Radar (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9cab76a2f8cf5bc1848e"
   },
   {
     "title": "MakeO secures US$10M to scale Zenyum’s dentist network across Asia",
