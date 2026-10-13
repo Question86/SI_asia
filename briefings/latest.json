@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T21:59:48+00:00",
-  "run_id": "2026-10-13T21:59:48+00:00",
+  "generated_at": "2026-10-13T22:18:59+00:00",
+  "run_id": "2026-10-13T22:18:59+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 99
+      "configured_public_sources_only": 100
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 99,
-    "displayed_findings": 99,
+    "new_relevant_findings": 1,
+    "today_file_total": 100,
+    "displayed_findings": 100,
     "high": 0,
     "medium": 30,
-    "observe": 69,
+    "observe": 70,
     "source_errors": 0
   },
   "sections": {
@@ -2010,6 +2010,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "00917f9b679e53ae4d3b"
+      },
+      {
+        "title": "Appleがスマートホーム製品に本格進出 LGらと共同開発したスマートロックや屋内外用カメラなどを含む「Apple Home Collection」を発表",
+        "url": "https://www.itmedia.co.jp/pcuser/articles/2610/13/news112.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-13T14:03:40+00:00",
+        "fetched_at": "2026-10-13T22:18:23+00:00",
+        "summary": "Appleは10月13日、LG ElectronicsおよびSchneider Electricと共同開発した複数のスマートホーム製品「Apple Home Collection」を発表した。12月から順次、米国やカナダ、英国で発売する。日本での展開は発表されていない。 左からLGの「Smart Deadbolt Lock」、「Indoor Cam」、Schneider Electricの「Smart Thermostat...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9934320a8ffd4d1f1cbd"
       },
       {
         "title": "The UAE embraces AI for kindergartners",
@@ -4370,6 +4391,27 @@
       "id": "00917f9b679e53ae4d3b"
     },
     {
+      "title": "Appleがスマートホーム製品に本格進出 LGらと共同開発したスマートロックや屋内外用カメラなどを含む「Apple Home Collection」を発表",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/13/news112.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-13T14:03:40+00:00",
+      "fetched_at": "2026-10-13T22:18:23+00:00",
+      "summary": "Appleは10月13日、LG ElectronicsおよびSchneider Electricと共同開発した複数のスマートホーム製品「Apple Home Collection」を発表した。12月から順次、米国やカナダ、英国で発売する。日本での展開は発表されていない。 左からLGの「Smart Deadbolt Lock」、「Indoor Cam」、Schneider Electricの「Smart Thermostat...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9934320a8ffd4d1f1cbd"
+    },
+    {
       "title": "The UAE embraces AI for kindergartners",
       "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -4745,7 +4787,29 @@
       "id": "a65b746ca7dfd2226535"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Appleがスマートホーム製品に本格進出 LGらと共同開発したスマートロックや屋内外用カメラなどを含む「Apple Home Collection」を発表",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/13/news112.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-13T14:03:40+00:00",
+      "fetched_at": "2026-10-13T22:18:23+00:00",
+      "summary": "Appleは10月13日、LG ElectronicsおよびSchneider Electricと共同開発した複数のスマートホーム製品「Apple Home Collection」を発表した。12月から順次、米国やカナダ、英国で発売する。日本での展開は発表されていない。 左からLGの「Smart Deadbolt Lock」、「Indoor Cam」、Schneider Electricの「Smart Thermostat...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9934320a8ffd4d1f1cbd"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
