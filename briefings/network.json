@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-13T08:35:32+00:00",
+  "generated_at": "2026-10-13T08:57:56+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 43,
-    "clusters": 33,
+    "findings": 44,
+    "clusters": 34,
     "cross_source_confrmed": 1,
     "hot": 2,
-    "early_signals": 2,
+    "early_signals": 1,
     "dominance_penalized": 4
   },
   "clusters": [
@@ -33,20 +33,20 @@
       "max_score": 18,
       "credibility_total": 9.45,
       "cross_source_confirmed": true,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 33.03,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 29.22,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 45.9,
-      "ranking_score": 33.03,
+      "raw_network_score": 42.9,
+      "ranking_score": 29.22,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 5.5,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 4.03,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 2.72,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -94,44 +94,6 @@
       "first_seen_at": "2026-10-13T08:01:10+00:00"
     },
     {
-      "key": "title:adobe-study-finds-per-cent-sea-firms-stuck",
-      "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 23.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 18.1,
-      "ranking_score": 23.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-13T07:40:52+00:00"
-    },
-    {
       "key": "domain:wid.cert-bund.de",
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen",
       "sources": [
@@ -149,19 +111,19 @@
       "max_score": 16,
       "credibility_total": 3.15,
       "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 22.5,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.5,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 28.3,
-      "ranking_score": 22.5,
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 22.3,
+      "ranking_score": 17.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 5.0,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -170,6 +132,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
+      "key": "title:adobe-study-finds-per-cent-sea-firms-stuck",
+      "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 17.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-13T07:40:52+00:00"
     },
     {
       "key": "title:assetview",
@@ -632,6 +632,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-13T01:15:49+00:00"
+    },
+    {
+      "key": "title:a2b-nict",
+      "title": "公開アプリを解析してサーバーを攻撃する「A2B攻撃」、相次ぐ不正アクセスの原因の1つとしてにNICTが注意喚起",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://internet.watch.impress.co.jp/docs/news/2147673.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-13T08:57:56+00:00"
     },
     {
       "key": "domain:www.heise.de",
@@ -1288,7 +1326,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-13T08:35:33Z",
+    "generated_at": "2026-10-13T08:57:56Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

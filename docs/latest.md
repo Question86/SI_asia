@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T08:35:29+00:00_
+_Generiert: 2026-10-13T08:57:51+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „open-webui/open-webui“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+44 neue relevante Treffer. Stärkstes Signal: „open-webui/open-webui“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -231,6 +231,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「デジタル社会推進会議幹事会の開催について」の資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **公開アプリを解析してサーバーを攻撃する「A2B攻撃」、相次ぐ不正アクセスの原因の1つとしてにNICTが注意喚起** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/news/2147673.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-13T06:32:40+00:00`, fetched `2026-10-13T08:57:20+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 公開アプリを解析してサーバーを攻撃する「A2B攻撃」、相次ぐ不正アクセスの原因の1つとしてにNICTが注意喚起
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究機構** — Score 5, observation — [Quelle](https://www.nict.go.jp/press/2026/10/13-1.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-13T05:15:17+00:00`, fetched `2026-10-13T08:00:25+00:00`
@@ -239,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: トップ>広報>プレスリリース>2026年>【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/13/2000002204/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-13T02:55:22+00:00`, fetched `2026-10-13T04:53:59+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 米Anthropicは10月12日（現地時間）、小型のAIモデルがデータセンターを使わずに安価なIoT機器上で自己複製できるようになる可能性があるとする研究結果を発表した。同社のフロンティアレッドチームによるもので、30Bパラメータ以下の小型モデルが、スマートオーブンやノーブランドのAndroid TVボックスのような市販IoT...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
