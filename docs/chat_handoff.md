@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T11:23:10+00:00_
+_Generated: 2026-10-13T11:38:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `61`
+- findings: `63`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-13T11:23:10+00:00_
 - url: https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/
 - summary: “Social impact” is one of the most overused phrases in a Southeast Asian pitch deck. Founders apply the label to themselves, and in a funding winter it gets stretched to cover almost anything with a farmer, a recycling bin or an “underserved” customer in the…
 
-### 8. Vietnamese-founded Drylab bags US$3M to put autonomous AI scientists inside pharma labs
+### 8. Ecosystem Roundup: Frozen Middle: 57% of SEA firms can’t scale their AI pilots
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
-- published: `2026-10-13T05:00:04+00:00`
-- url: https://e27.co/vietnamese-founded-drylab-bags-us3m-to-put-autonomous-ai-scientists-inside-pharma-labs-20261013/
-- summary: The cost of sequencing a human genome fell from about US$95 million in 2001 to about US$500 by 2022, according to the US National Human Genome Research Institute. Biology became a data business almost overnight. The ability to make sense of that data did not…
+- published: `2026-10-13T11:32:58+00:00`
+- url: https://e27.co/ecosystem-roundup-frozen-middle-57-of-sea-firms-cant-scale-their-ai-pilots-20261013/
+- summary: Southeast Asian companies are spending more on AI and getting little out of it. Adobe’s 2026 State of AI Readiness Report, which surveyed 461 senior executives in the region, finds 73% raising AI budgets year on year, while 57% remain stuck in AI’s Frozen Mid…
 
 END OF DOCUMENT

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T11:23:10+00:00_
+_Generiert: 2026-10-13T11:38:23+00:00_
 
 ## Kurzlage
 
-61 neue relevante Treffer. Stärkstes Signal: „open-webui/open-webui“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+63 neue relevante Treffer. Stärkstes Signal: „open-webui/open-webui“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -150,14 +150,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.0); funding (+2.0); recent (+1.0)
   - Kurz: “Social impact” is one of the most overused phrases in a Southeast Asian pitch deck. Founders apply the label to themselves, and in a funding winter it gets stretched to cover almost anything with a farmer, a recycling bin or an “underserved” customer in the slide. So we went looking for startups that do more […] The post Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Vietnamese-founded Drylab bags US$3M to put autonomous AI scientists inside pharma labs** — Score 10, observation — [Quelle](https://e27.co/vietnamese-founded-drylab-bags-us3m-to-put-autonomous-ai-scientists-inside-pharma-labs-20261013/)
+- **Ecosystem Roundup: Frozen Middle: 57% of SEA firms can’t scale their AI pilots** — Score 10, observation — [Quelle](https://e27.co/ecosystem-roundup-frozen-middle-57-of-sea-firms-cant-scale-their-ai-pilots-20261013/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-13T05:00:04+00:00`, fetched `2026-10-13T05:04:40+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+  - Zeit: published `2026-10-13T11:32:58+00:00`, fetched `2026-10-13T11:37:51+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
-  - Kurz: The cost of sequencing a human genome fell from about US$95 million in 2001 to about US$500 by 2022, according to the US National Human Genome Research Institute. Biology became a data business almost overnight. The ability to make sense of that data did not keep pace. Most laboratories now generate more sequencing, imaging and […] The post Vietnamese-founded Drylab bags US$3M to put autonomous AI scientists inside…
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
+  - Kurz: Southeast Asian companies are spending more on AI and getting little out of it. Adobe’s 2026 State of AI Readiness Report, which surveyed 461 senior executives in the region, finds 73% raising AI budgets year on year, while 57% remain stuck in AI’s Frozen Middle, piloting without the coordination to scale. Only 15 of every 100 […] The post Ecosystem Roundup: Frozen Middle: 57% of SEA firms can’t scale their AI pilot…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Modernizing the regulatory and supervisory landscape** — Score 10, opportunity — [Quelle](https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape)
   - Quelle: BIS Central Bankers Speeches / `rss`
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
   - Kurz: Opening remarks by Mr Howard Lee, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Cargox Solution Day, Hong Kong, 5 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Zabbix (05 octobre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1261/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-05T00:00:00+00:00`, fetched `2026-10-13T11:37:51+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Zabbix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitslücke: DoS-Attacken auf IBM SPSS Modeler möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-13T09:40:00.000+00:00`, fetched `2026-10-13T09:56:25+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「デジタル社会推進会議幹事会の開催について」の資料を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/social-promotion-executive)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-13T06:00:00+00:00`, fetched `2026-10-13T06:01:44+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 「デジタル社会推進会議幹事会の開催について」の資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
