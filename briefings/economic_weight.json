@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T00:17:07+00:00",
+  "generated_at": "2026-10-13T01:16:07+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1940,6 +1940,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_7189d3731475814dcf99",
+      "title": "M 6.1 - 18 km W of Río Grande, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-13T00:16:50+00:00",
+      "last_seen_at": "2026-10-13T01:15:49+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_77b69ada6d5b4c2e6d4a",
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "event_classes": [
@@ -2261,23 +2278,6 @@
       "first_seen_at": "2026-09-29T12:06:28+00:00",
       "last_seen_at": "2026-09-29T23:56:49+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_7189d3731475814dcf99",
-      "title": "M 6.1 - 18 km W of Río Grande, Panama",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1144000.0,
-      "p50_usd": 114400000.0,
-      "p90_usd": 11440000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-13T00:16:50+00:00",
-      "last_seen_at": "2026-10-13T00:16:50+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_016849870c540dd48378",
@@ -7448,6 +7448,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f75dd09efc50b039e807",
+      "title": "M 4.8 - 21 km W of Río Grande, Panama",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-13T00:16:50+00:00",
+      "last_seen_at": "2026-10-13T01:15:49+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f9848712e8c1d8b348ad",
       "title": "M 4.6 - 268 km WNW of Houma, Tonga",
       "event_classes": [
@@ -7565,23 +7582,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_f75dd09efc50b039e807",
-      "title": "M 4.8 - 21 km W of Río Grande, Panama",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-13T00:16:50+00:00",
-      "last_seen_at": "2026-10-13T00:16:50+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -7888,6 +7888,23 @@
       "first_seen_at": "2026-09-02T04:14:04+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1c0340efbc3235e9aef6",
+      "title": "Theliaにおける複数の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-13T00:16:50+00:00",
+      "last_seen_at": "2026-10-13T01:15:49+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_1d49104ec854f2e50df3",
@@ -8791,23 +8808,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_1c0340efbc3235e9aef6",
-      "title": "Theliaにおける複数の脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-13T00:16:50+00:00",
-      "last_seen_at": "2026-10-13T00:16:50+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_2f5c3cffbb9951edd868",
       "title": "Southeast Asia startup funding finds a floor, but not a rebound",
       "event_classes": [
@@ -9093,8 +9093,8 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-11T23:56:57+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-13T01:15:49+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0b8f55a038be7b409784",
@@ -18687,6 +18687,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_22a618d71c792fa21dc7",
+      "title": "AI can generate a video in minutes. Making it usable is the hard part",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-13T01:15:49+00:00",
+      "last_seen_at": "2026-10-13T01:15:49+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_041397919a21c7984d11",
       "title": "The new engineering bottleneck isn’t writing code, it’s trusting it",
       "event_classes": [
@@ -20606,6 +20623,23 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_0923223d4a4febccfe68",
+      "title": "古川大臣記者会見（令和8年10月13日）動画を掲載しました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-13T01:15:49+00:00",
+      "last_seen_at": "2026-10-13T01:15:49+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_00999a707b633ec75a8c",
