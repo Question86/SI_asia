@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T14:53:09+00:00",
+  "generated_at": "2026-10-13T15:03:31+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -9130,7 +9130,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8c12eda8e4d3d2db8c9c",
@@ -14888,12 +14888,12 @@
     {
       "event_id": "evt_e646d66277e7536cc606",
       "title": "Improved detection for withdrawn Dependabot alerts",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -16446,6 +16446,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_fee9b4846fd6501e4485",
+      "title": "M 5.3 - 122 km S of Kokopo, Papua New Guinea",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_ff33cb52e3f0b9512118",
