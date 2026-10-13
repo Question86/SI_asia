@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T22:57:04+00:00_
+_Generiert: 2026-10-13T23:09:09+00:00_
 
 ## Kurzlage
 
@@ -41,14 +41,6 @@ _Generiert: 2026-10-13T22:57:04+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.7M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 05:44 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 6.2M, Depth:53.473km) in Papua New Guinea 11/10/2026 14:07 UTC, 3 thousand in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570810)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.2M, Depth:53.473km) in Papua New Guinea 11/10/2026 14:07 UTC, 3 thousand in MMI V.
-- **GDACS: Green flood alert in Nepal** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104225)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Nepal
 - **USGS earthquake M6.7 - central Mid-Atlantic Ridge** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5)
   - Quelle: USGS
   - Zeit: `2026-10-13T05:44:46+00:00`
@@ -69,6 +61,14 @@ _Generiert: 2026-10-13T22:57:04+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570970)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.
+- **GDACS: Green notification for tropical cyclone TWENTYEIGHT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001336)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone TWENTYEIGHT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
