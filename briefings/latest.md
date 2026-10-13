@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T18:55:08+00:00_
+_Generiert: 2026-10-13T19:02:45+00:00_
 
 ## Kurzlage
 
-91 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+93 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,6 +49,10 @@ _Generiert: 2026-10-13T18:55:08+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Nepal
+- **USGS earthquake M6.0 - 126 km S of Kokopo, Papua New Guinea** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u24c)
+  - Quelle: USGS
+  - Zeit: `2026-10-13T18:45:03+00:00`
+  - Kurz: M6.0 - 126 km S of Kokopo, Papua New Guinea. PAGER alert: none. Tsunami flag: 0.
 - **USGS earthquake M6.7 - central Mid-Atlantic Ridge** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5)
   - Quelle: USGS
   - Zeit: `2026-10-13T05:44:46+00:00`
@@ -65,10 +69,6 @@ _Generiert: 2026-10-13T18:55:08+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570970)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.
 
 ## Wirtschaft global
 
@@ -259,6 +259,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
   - Kurz: Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is… The post Secret scanning blocks Anthropic keys by default, adds Salesforce appeared first on The GitHub Blog .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Gemini 4 Argon in GitHub Copilot** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-13T18:39:56+00:00`, fetched `2026-10-13T19:02:12+00:00`
+  - Treffer: AI Agents, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Gemini 4 Argon, Google’s newest frontier model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks. In early testing, Gemini 4 Argon… The post Gemini 4 Argon in GitHub Copilot appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery** — Score 11, observation — [Quelle](https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-13T03:56:11+00:00`, fetched `2026-10-13T04:01:12+00:00`
@@ -295,14 +304,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the 2026 Community Banking Research Conference, sponsored by the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St Louis, Missouri, 6 October 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 5.1 - 119 km S of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u23d)
+- **M 6.0 - 126 km S of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u24c)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-13T16:58:34.040+00:00`, fetched `2026-10-13T17:13:20+00:00`
+  - Zeit: published `2026-10-13T19:01:37.040+00:00`, fetched `2026-10-13T19:02:12+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-13 16:28:14 UTC 2026-10-13 16:28:14 UTC at epicenter Location 5.416°S 152.114°E Depth 28.40 km (17.65 mi)
+  - Kurz: Time 2026-10-13 18:45:03 UTC 2026-10-13 18:45:03 UTC at epicenter Location 5.483°S 152.136°E Depth 20.84 km (12.95 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Investing through uncertainty - financing Europe's future** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261013-investing-through-uncertainty-financing-europes-future)
   - Quelle: BIS Central Bankers Speeches / `rss`
@@ -339,15 +348,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Istanbul Economic Forum, organised by the Central Bank of the Republic of Türkiye, Istanbul, 8 October 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Zabbix (05 octobre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1261/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-10-05T00:00:00+00:00`, fetched `2026-10-13T11:37:51+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Zabbix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
