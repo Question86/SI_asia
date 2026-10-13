@@ -46,6 +46,30 @@
     "id": "34a892f293e65e5dbdee"
   },
   {
+    "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0935",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-13T10:09:18+00:00",
+    "fetched_at": "2026-10-13T10:11:45+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service auszulösen, Dateien zu manipulieren oder Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "94083423059a5b0035d3"
+  },
+  {
     "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3861",
     "source": "BSI CERT-Bund Security Advisories",
@@ -198,6 +222,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "749f7897ca2a58be726a"
+  },
+  {
+    "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0518",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-13T10:09:15+00:00",
+    "fetched_at": "2026-10-13T10:11:45+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1315d1901cca1012ec3b"
   },
   {
     "title": "[UPDATE] [mittel] BusyBox: Schwachstelle ermöglicht Codeausführung",
@@ -991,6 +1038,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "577d2bf33628d7264c7b"
+  },
+  {
+    "title": "The UAE embraces AI for kindergartners",
+    "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-13T10:00:00+00:00",
+    "fetched_at": "2026-10-13T10:11:45+00:00",
+    "summary": "The country’s approach offers a glimpse of what education could look like if AI literacy becomes as fundamental as reading and writing.",
+    "matched_keywords": [
+      "AI/KI"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "AI/KI (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f1b7ecc4ee2f2e4d603b"
   },
   {
     "title": "総務省｜不正アクセスによる情報漏えい等の事案を踏まえた対応について （公開アプリの解析情報を悪用した攻撃への注意喚起）",

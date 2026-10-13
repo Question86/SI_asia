@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T09:56:52+00:00",
+  "generated_at": "2026-10-13T10:12:17+00:00",
   "topics": {
     "ai": [
       {
@@ -107,6 +107,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T10:09:18+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0935"
+      },
+      {
         "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-13T09:22:06+00:00",
@@ -142,6 +149,13 @@
         "url": "https://jvn.jp/jp/JVN38664315/"
       },
       {
+        "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T10:09:15+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0518"
+      },
+      {
         "title": "[UPDATE] [mittel] BusyBox: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-13T09:22:06+00:00",
@@ -161,20 +175,6 @@
         "published_at": "2026-10-13T09:22:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3837"
-      },
-      {
-        "title": "Theliaにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-13T09:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU99982995/"
-      },
-      {
-        "title": "[UPDATE] [hoch] Strapi: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T06:34:11+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040"
       }
     ],
     "general": [
