@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-10-13T08:57:56+00:00_
+_Generiert: 2026-10-13T09:18:39+00:00_
 
 ## Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework
 
-- Ranking Score: `29.22`
-- Raw Network Score: `42.9`
+- Ranking Score: `33.59`
+- Raw Network Score: `48.0`
 - Max Monitor Score: `18`
 - Reichweite: `institutional` / `5.0`
 - Early Signal: `nein`
@@ -13,22 +13,7 @@ _Generiert: 2026-10-13T08:57:56+00:00_
 - Quellen: BIS Central Bankers Speeches, BIS Press Releases
 - Klassen: central_bank, tier3_specialist
 - Cross-source bestaetigt: ja
-- Momentum: stable (+0)
+- Momentum: increasing (+1)
 - Erste Quelle: https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom
 - Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
-
-## open-webui/open-webui
-
-- Ranking Score: `29.0`
-- Raw Network Score: `22.1`
-- Max Monitor Score: `20`
-- Reichweite: `specialist` / `2.5`
-- Early Signal: `ja`
-- Dominanter Emitter: `nein`
-- Quellen: GitHub Trending RSS All Languages Daily
-- Klassen: tier3_specialist
-- Cross-source bestaetigt: nein
-- Momentum: stable (+0)
-- Erste Quelle: https://github.com/open-webui/open-webui
-- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 

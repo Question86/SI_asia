@@ -410,6 +410,42 @@
     "id": "6696b833d1ef802943b7"
   },
   {
+    "title": "M 5.3 - southern Mid-Atlantic Ridge",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u207",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-13T08:57:57.040+00:00",
+    "fetched_at": "2026-10-13T09:18:06+00:00",
+    "summary": "Time 2026-10-13 08:38:28 UTC 2026-10-13 08:38:28 UTC at epicenter Location 28.556°S 12.521°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "56b8382c255c71a28a96"
+  },
+  {
     "title": "What is work worth when thought is metered?",
     "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -584,6 +620,26 @@
     "id": "8758ceef5ff56fea933e"
   },
   {
+    "title": "24 Sicherheitslücken in GitLab geschlossen",
+    "url": "https://www.heise.de/news/24-Sicherheitsluecken-in-GitLab-geschlossen-11485669.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-10-13T09:03:00.000+00:00",
+    "fetched_at": "2026-10-13T09:18:06+00:00",
+    "summary": "Angreifer können an mehreren Schwachstellen in GitLab Community Edition und Enterprise Edition ansetzen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b7e1c62b81ddd4371ca6"
+  },
+  {
     "title": "Jetzt patchen! SonicWall SMA1000 im Fokus von Angreifern",
     "url": "https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html",
     "source": "heise Security Alerts",
@@ -622,6 +678,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5348015838cfacae181a"
+  },
+  {
+    "title": "Why is the last mile of disinflation taking so long?",
+    "url": "https://www.bis.org/speeches/20261013-why-last-mile-disinflation-taking-so-long",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-13T00:00:00+00:00",
+    "fetched_at": "2026-10-13T09:18:06+00:00",
+    "summary": "Text of the annual autumn lecture by Ms Ida Wolden Bache, Governor of Norges Bank (Central Bank of Norway), at the BI Norwegian Business School, Oslo, 8 October 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "611bc7bab9fe551f14d9"
   },
   {
     "title": "Money in the digital age - digital euro, tokenisation and the role of central banks",
