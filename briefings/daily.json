@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:13:54+00:00",
+  "generated_at": "2026-10-13T17:30:29+00:00",
   "today_file_total": 86,
   "current_clusters": [
     {
@@ -372,31 +372,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 5.1 - 119 km s of kokopo, papua new guinea:5.1",
-      "title": "M 5.1 - 119 km S of Kokopo, Papua New Guinea",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u23d"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
       "key": "title:secret-scanning-blocks-anthropic-keys-default-adds-salesforce",
       "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
       "sources": [
@@ -476,6 +451,29 @@
       ],
       "urls": [
         "https://e27.co/ecosystem-roundup-frozen-middle-57-of-sea-firms-cant-scale-their-ai-pilots-20261013/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:vietnamese-founded-drylab-bags-put-autonomous-scientists-inside",
+      "title": "Vietnamese-founded Drylab bags US$3M to put autonomous AI scientists inside pharma labs",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/vietnamese-founded-drylab-bags-us3m-to-put-autonomous-ai-scientists-inside-pharma-labs-20261013/"
       ],
       "finding_count": 1,
       "max_score": 10,
