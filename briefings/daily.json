@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T12:02:07+00:00",
-  "today_file_total": 68,
+  "generated_at": "2026-10-13T12:37:35+00:00",
+  "today_file_total": 73,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -17,15 +17,15 @@
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3861",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3881"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3891"
       ],
-      "finding_count": 16,
+      "finding_count": 19,
       "max_score": 16,
-      "credibility_total": 16.8,
+      "credibility_total": 19.95,
       "cross_source_confirmed": false,
-      "momentum_delta": 5,
+      "momentum_delta": 3,
       "momentum_status": "increasing",
-      "network_score": 64.6,
+      "network_score": 64.9,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -55,6 +55,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 45.0,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "title:code-scanning-scan-metrics-security-overview",
+      "title": "Code scanning AI Scan metrics in security overview",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview"
+      ],
+      "finding_count": 1,
+      "max_score": 23,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 28.1,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -273,6 +296,31 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "earthquake:central mid-atlantic ridge:6.8",
+      "title": "M 6.8 - central Mid-Atlantic Ridge",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/pt26286001"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "domain:www.heise.de",
       "title": "Sicherheitslücke: DoS-Attacken auf IBM SPSS Modeler möglich",
       "sources": [
@@ -423,56 +471,6 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u207"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 4.7 - 9 km sse of la mesa, panama:4.7",
-      "title": "M 4.7 - 9 km SSE of La Mesa, Panama",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 4.8 - 21 km w of río grande, panama:4.8",
-      "title": "M 4.8 - 21 km W of Río Grande, Panama",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww"
       ],
       "finding_count": 1,
       "max_score": 9,

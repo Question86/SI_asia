@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T12:02:04+00:00",
+  "generated_at": "2026-10-13T12:37:32+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Code scanning AI Scan metrics in security overview",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-13T12:03:17+00:00",
+        "relevance_score": 23,
+        "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview"
+      },
       {
         "title": "open-webui/open-webui",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -66,53 +73,16 @@
         "published_at": "2026-10-13T09:22:51+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/makeo-secures-us10m-to-scale-zenyums-dentist-network-across-asia-20261013/"
-      },
-      {
-        "title": "AI can generate a video in minutes. Making it usable is the hard part",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-13T01:00:27+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/"
-      }
-    ],
-    "github": [
-      {
-        "title": "open-webui/open-webui",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 20,
-        "url": "https://github.com/open-webui/open-webui"
-      },
-      {
-        "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
-        "source": "BIS Press Releases",
-        "published_at": "2026-10-13T00:00:00+00:00",
-        "relevance_score": 18,
-        "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom"
-      },
-      {
-        "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-13T06:00:12+00:00",
-        "relevance_score": 16,
-        "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/"
-      },
-      {
-        "title": "Ecosystem Roundup: Frozen Middle: 57% of SEA firms can’t scale their AI pilots",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-13T11:32:58+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/ecosystem-roundup-frozen-middle-57-of-sea-firms-cant-scale-their-ai-pilots-20261013/"
-      },
-      {
-        "title": "Client telemetry user attribution and configurable capture",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-12T22:38:00+00:00",
-        "relevance_score": 5,
-        "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture"
       }
     ],
     "security": [
+      {
+        "title": "Code scanning AI Scan metrics in security overview",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-13T12:03:17+00:00",
+        "relevance_score": 23,
+        "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview"
+      },
       {
         "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libgd): Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
@@ -156,179 +126,79 @@
         "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/"
       },
       {
-        "title": "AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-13T12:00:00+09:00",
+        "title": "[NEU] [hoch] Siemens SIMATIC S7: Mehrere Schwachstelle",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T12:04:11+00:00",
         "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN38664315/"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3891"
       },
       {
-        "title": "[NEU] [hoch] IBM i: Schwachstelle ermöglicht Codeausführung",
+        "title": "[UPDATE] [mittel] libpng: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T11:59:40+00:00",
+        "published_at": "2026-10-13T12:00:15+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3881"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3619"
       },
       {
-        "title": "[NEU] [hoch] AnyDesk: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "title": "[UPDATE] [mittel] gcc: Schwachstelle ermöglicht Manipulation von Dateien und DoS",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T11:59:40+00:00",
+        "published_at": "2026-10-13T12:00:14+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3882"
-      },
-      {
-        "title": "[NEU] [mittel] TYPO3 Core: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T11:59:38+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3880"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3612"
       }
     ],
-    "general": [
+    "github": [
       {
-        "title": "M 4.5 - 71 km SW of Tambolaka, Indonesia",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-13T10:20:27.040+00:00",
-        "relevance_score": 15,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u20i"
+        "title": "Code scanning AI Scan metrics in security overview",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-13T12:03:17+00:00",
+        "relevance_score": 23,
+        "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview"
       },
       {
-        "title": "M 5.1 - 119 km SSW of Gambiran Satu, Indonesia",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-13T04:15:46.040+00:00",
-        "relevance_score": 15,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye"
+        "title": "open-webui/open-webui",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 20,
+        "url": "https://github.com/open-webui/open-webui"
       },
       {
-        "title": "US-China trade is entering an era of managed rivalry. Southeast Asian businesses should prepare for it",
+        "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
+        "source": "BIS Press Releases",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 18,
+        "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom"
+      },
+      {
+        "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-13T03:00:33+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/"
+        "published_at": "2026-10-13T06:00:12+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/"
       },
       {
-        "title": "M 6.1 - 18 km W of Río Grande, Panama",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-13T00:15:08.307+00:00",
-        "relevance_score": 13,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn"
-      },
-      {
-        "title": "Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route",
+        "title": "Ecosystem Roundup: Frozen Middle: 57% of SEA firms can’t scale their AI pilots",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-13T03:35:04+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/"
-      },
-      {
-        "title": "M 5.3 - southern Mid-Atlantic Ridge",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-13T08:57:57.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u207"
-      },
-      {
-        "title": "M 4.7 - 9 km SSE of La Mesa, Panama",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-13T03:02:12.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4"
-      },
-      {
-        "title": "M 4.8 - 21 km W of Río Grande, Panama",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-13T00:00:28.352+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww"
-      },
-      {
-        "title": "Work from anywhere, work all the time: Inside Singapore’s flexibility paradox",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-13T05:51:37+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/work-from-anywhere-work-all-the-time-inside-singapores-flexibility-paradox-20261013/"
-      },
-      {
-        "title": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-10-13T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/numbering-on-accounts/designate"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "[NEU] [hoch] IBM i: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T11:59:40+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3881"
-      },
-      {
-        "title": "[NEU] [hoch] AnyDesk: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T11:59:40+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3882"
-      },
-      {
-        "title": "[NEU] [mittel] TYPO3 Core: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T11:59:38+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3880"
-      },
-      {
-        "title": "[NEU] [mittel] Mozilla Firefox iOS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T11:59:38+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3879"
-      },
-      {
-        "title": "[NEU] [hoch] Wazuh: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T11:59:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3878"
-      },
-      {
-        "title": "NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-13T03:56:11+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/"
-      },
-      {
-        "title": "Could a hot inflation print send Bitcoin and Ethereum into freefall?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-13T04:24:48+00:00",
+        "published_at": "2026-10-13T11:32:58+00:00",
         "relevance_score": 10,
-        "url": "https://e27.co/could-a-hot-inflation-print-send-bitcoin-and-ethereum-into-freefall-20261013/"
+        "url": "https://e27.co/ecosystem-roundup-frozen-middle-57-of-sea-firms-cant-scale-their-ai-pilots-20261013/"
       },
       {
-        "title": "Opening remarks - Cargox Solution Day",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-13T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day"
-      },
-      {
-        "title": "Sicherheitslücke: DoS-Attacken auf IBM SPSS Modeler möglich",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-13T09:40:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html"
-      },
-      {
-        "title": "Money in the digital age - digital euro, tokenisation and the role of central banks",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-13T00:00:00+00:00",
-        "relevance_score": 7,
-        "url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
+        "title": "Client telemetry user attribution and configurable capture",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-12T22:38:00+00:00",
+        "relevance_score": 5,
+        "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture"
       }
     ],
     "economy": [
+      {
+        "title": "Code scanning AI Scan metrics in security overview",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-13T12:03:17+00:00",
+        "relevance_score": 23,
+        "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview"
+      },
       {
         "title": "Vietnamese-founded Drylab bags US$3M to put autonomous AI scientists inside pharma labs",
         "source": "e27 Asia Startup and Tech Feed",
@@ -391,13 +261,150 @@
         "published_at": "2026-10-13T00:00:00+00:00",
         "relevance_score": 7,
         "url": "https://www.bis.org/speeches/20261013-why-last-mile-disinflation-taking-so-long"
+      }
+    ],
+    "general": [
+      {
+        "title": "M 4.5 - 71 km SW of Tambolaka, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-13T10:20:27.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u20i"
       },
       {
-        "title": "Money in the digital age - digital euro, tokenisation and the role of central banks",
+        "title": "M 5.1 - 119 km SSW of Gambiran Satu, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-13T04:15:46.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye"
+      },
+      {
+        "title": "US-China trade is entering an era of managed rivalry. Southeast Asian businesses should prepare for it",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-13T03:00:33+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/"
+      },
+      {
+        "title": "M 6.1 - 18 km W of Río Grande, Panama",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-13T00:15:08.307+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn"
+      },
+      {
+        "title": "Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-13T03:35:04+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/"
+      },
+      {
+        "title": "M 6.8 - central Mid-Atlantic Ridge",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-13T12:36:43.306+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26286001"
+      },
+      {
+        "title": "M 5.3 - southern Mid-Atlantic Ridge",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-13T08:57:57.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u207"
+      },
+      {
+        "title": "M 4.7 - 9 km SSE of La Mesa, Panama",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-13T03:02:12.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4"
+      },
+      {
+        "title": "M 4.8 - 21 km W of Río Grande, Panama",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-13T00:00:28.352+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww"
+      },
+      {
+        "title": "Work from anywhere, work all the time: Inside Singapore’s flexibility paradox",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-13T05:51:37+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/work-from-anywhere-work-all-the-time-inside-singapores-flexibility-paradox-20261013/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Siemens SIMATIC S7: Mehrere Schwachstelle",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T12:04:11+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3891"
+      },
+      {
+        "title": "[NEU] [hoch] IBM i: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T11:59:40+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3881"
+      },
+      {
+        "title": "[NEU] [hoch] AnyDesk: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T11:59:40+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3882"
+      },
+      {
+        "title": "[NEU] [mittel] TYPO3 Core: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T11:59:38+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3880"
+      },
+      {
+        "title": "[NEU] [mittel] Mozilla Firefox iOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T11:59:38+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3879"
+      },
+      {
+        "title": "[NEU] [hoch] Wazuh: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T11:59:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3878"
+      },
+      {
+        "title": "NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-13T03:56:11+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/"
+      },
+      {
+        "title": "Could a hot inflation print send Bitcoin and Ethereum into freefall?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-13T04:24:48+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/could-a-hot-inflation-print-send-bitcoin-and-ethereum-into-freefall-20261013/"
+      },
+      {
+        "title": "Opening remarks - Cargox Solution Day",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-10-13T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day"
+      },
+      {
+        "title": "Sicherheitslücke: DoS-Attacken auf IBM SPSS Modeler möglich",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-13T09:40:00.000+00:00",
         "relevance_score": 7,
-        "url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
+        "url": "https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html"
       }
     ]
   }

@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T12:02:04+00:00_
+_Generated: 2026-10-13T12:37:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `68`
+- findings: `73`
 
 ## Top Signals
 
-### 1. open-webui/open-webui
+### 1. Code scanning AI Scan metrics in security overview
+- source: GitHub Changelog Atom
+- score: `23`
+- published: `2026-10-13T12:03:17+00:00`
+- url: https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview
+- summary: Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the… The post Code scanning AI Scan metrics in security overview appe…
+
+### 2. open-webui/open-webui
 - source: GitHub Trending RSS All Languages Daily
 - score: `20`
 - published: `None`
 - url: https://github.com/open-webui/open-webui
 - summary: User-friendly AI Interface (Supports Ollama, OpenAI API, ...) https://openwebui.com Open WebUI 👋 Open WebUI is a home for AI , a self-hosted AI platform that's extensible , feature-rich , user-friendly, and built to run entirely offline . With support for Oll…
 
-### 2. Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework
+### 3. Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework
 - source: BIS Press Releases
 - score: `18`
 - published: `2026-10-13T00:00:00+00:00`
 - url: https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom
 - summary: The Basel Committee has published assessment reports on the implementation of its leverage ratio framework (LEV) in Australia, Canada, Japan, Korea, Switzerland and the United Kingdom. Australia, Japan, Korea and Switzerland are assessed as compliant; Canada…
 
-### 3. [UPDATE] [hoch] Red Hat Enterprise Linux (libgd): Schwachstelle ermöglicht Codeausführung
+### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (libgd): Schwachstelle ermöglicht Codeausführung
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-13T10:12:18+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3747
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial-of-Service-Zustand zu verursachen oder möglicherweise beliebigen Code auszuführen.
-
-### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-13T10:09:18+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0935
-- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service auszulösen, Dateien zu manipulieren oder Informationen offenzulegen.
 
 ### 5. M 6.1 - 18 km W of Río Grande, Panama
 - source: USGS M4.5+ Earthquakes Past Hour
