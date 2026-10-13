@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-13T12:37:35+00:00",
+  "generated_at": "2026-10-13T13:03:04+00:00",
   "sections": {
     "global_security": [
       {
         "domain": "security",
         "severity": "high",
-        "title": "USGS earthquake M6.8 - central Mid-Atlantic Ridge",
-        "summary": "M6.8 - central Mid-Atlantic Ridge. PAGER alert: none. Tsunami flag: 1.",
+        "title": "USGS earthquake M6.9 - central Mid-Atlantic Ridge",
+        "summary": "M6.9 - central Mid-Atlantic Ridge. PAGER alert: green. Tsunami flag: 1.",
         "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26286001",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214",
         "published_at": "2026-10-13T12:23:07+00:00",
         "metrics": {
-          "mag": 6.8,
-          "alert": "",
-          "sig": 711.0,
+          "mag": 6.9,
+          "alert": "green",
+          "sig": 732.0,
           "tsunami": 1
         }
       },
@@ -76,6 +76,16 @@
         "metrics": {
           "cve": "CVE-2015-3306"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 6.9M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 6.9M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571305",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T12:37:32+00:00_
+_Generated: 2026-10-13T13:03:01+00:00_
 
 ## Status
 - status: `normal`
-- findings: `73`
+- findings: `78`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-13T12:37:32+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3747
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial-of-Service-Zustand zu verursachen oder möglicherweise beliebigen Code auszuführen.
 
-### 5. M 6.1 - 18 km W of Río Grande, Panama
+### 5. M 6.9 - central Mid-Atlantic Ridge
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-13T12:46:00.245+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214
+- summary: PAGER - GREEN ShakeMap - I Time 2026-10-13 12:23:07 UTC 2026-10-13 12:23:07 UTC at epicenter Location 0.402°S 19.415°W Depth 10.00 km (6.21 mi)
+
+### 6. M 6.1 - 18 km W of Río Grande, Panama
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-13T00:15:08.307+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn
 - summary: PAGER - GREEN ShakeMap - VIII DYFI? - V Time 2026-10-12 23:20:36 UTC 2026-10-12 23:20:36 UTC at epicenter Location 7.703°N 81.499°W Depth 10.00 km (6.21 mi)
 
-### 6. NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery
+### 7. NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-10-13T03:56:11+00:00`
 - url: https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/
 - summary: Lithium iron phosphate (LFP) batteries have an awkward reputation among recyclers: they are everywhere, and they are worth very little once they die. Unlike the nickel- and cobalt-rich chemistries that recyclers have chased for a decade, a spent LFP cell offe…
 
-### 7. Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route
+### 8. Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-10-13T03:35:04+00:00`
 - url: https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/
 - summary: “Social impact” is one of the most overused phrases in a Southeast Asian pitch deck. Founders apply the label to themselves, and in a funding winter it gets stretched to cover almost anything with a farmer, a recycling bin or an “underserved” customer in the…
-
-### 8. Ecosystem Roundup: Frozen Middle: 57% of SEA firms can’t scale their AI pilots
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-10-13T11:32:58+00:00`
-- url: https://e27.co/ecosystem-roundup-frozen-middle-57-of-sea-firms-cant-scale-their-ai-pilots-20261013/
-- summary: Southeast Asian companies are spending more on AI and getting little out of it. Adobe’s 2026 State of AI Readiness Report, which surveyed 461 senior executives in the region, finds 73% raising AI budgets year on year, while 57% remain stuck in AI’s Frozen Mid…
 
 END OF DOCUMENT

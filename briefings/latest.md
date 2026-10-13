@@ -1,18 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T12:37:32+00:00_
+_Generiert: 2026-10-13T13:03:01+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+78 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M6.8 - central Mid-Atlantic Ridge** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/pt26286001)
+- **USGS earthquake M6.9 - central Mid-Atlantic Ridge** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214)
   - Quelle: USGS
   - Zeit: `2026-10-13T12:23:07+00:00`
-  - Kurz: M6.8 - central Mid-Atlantic Ridge. PAGER alert: none. Tsunami flag: 1.
+  - Kurz: M6.9 - central Mid-Atlantic Ridge. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2015-5477 ISC BIND** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
@@ -33,6 +33,10 @@ _Generiert: 2026-10-13T12:37:32+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
   - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ProFTPD Improper Access Control Vulnerability
+- **GDACS: Green earthquake (Magnitude 6.9M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571305)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.9M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 6.7M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 05:44 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571248)
   - Quelle: GDACS
   - Zeit: ``
@@ -201,6 +205,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.9 - central Mid-Atlantic Ridge** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-13T12:46:00.245+00:00`, fetched `2026-10-13T13:02:23+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-10-13 12:23:07 UTC 2026-10-13 12:23:07 UTC at epicenter Location 0.402°S 19.415°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 6.1 - 18 km W of Río Grande, Panama** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-13T00:15:08.307+00:00`, fetched `2026-10-13T00:16:13+00:00`
@@ -246,24 +259,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the 2026 Community Banking Research Conference, sponsored by the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St Louis, Missouri, 6 October 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 6.8 - central Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/pt26286001)
+- **M 4.9 - 180 km SE of Vilyuchinsk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u20z)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-13T12:36:43.306+00:00`, fetched `2026-10-13T12:37:03+00:00`
+  - Zeit: published `2026-10-13T13:02:11.040+00:00`, fetched `2026-10-13T13:02:23+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-13 12:23:07 UTC 2026-10-13 12:23:07 UTC at epicenter Location 0.196°S 19.231°W Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-10-13 12:05:41 UTC 2026-10-13 12:05:41 UTC at epicenter Location 51.616°N 159.950°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.3 - southern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u207)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-13T08:57:57.040+00:00`, fetched `2026-10-13T09:18:06+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-13 08:38:28 UTC 2026-10-13 08:38:28 UTC at epicenter Location 28.556°S 12.521°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Investing through uncertainty - financing Europe's future** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261013-investing-through-uncertainty-financing-europes-future)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T13:02:23+00:00`
+  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Closing keynote speech by Ms Clara Raposo, Vice-Governor of the Banco de Portugal, at the 8th Edition of the Capital Markets Seminar “Financing Europe”, organised by the European Commission (EC), European Investment Bank (EIB) and the European Stability Mechanism (ESM), Luxembourg, 1 October 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The signaling value of the summary of economic projections** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261013-signaling-value-summary-economic-projections)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T08:35:00+00:00`
@@ -273,15 +286,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Istanbul Economic Forum, organised by the Central Bank of the Republic of Türkiye, Istanbul, 8 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Opening remarks - Cargox Solution Day** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T07:40:15+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
-  - Kurz: Opening remarks by Mr Howard Lee, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Cargox Solution Day, Hong Kong, 5 October 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans Zabbix (05 octobre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1261/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-10-05T00:00:00+00:00`, fetched `2026-10-13T11:37:51+00:00`
@@ -290,6 +294,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Zabbix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Patchday SAP: Angreifer können Systeme übernehmen** — Score 7, observation — [Quelle](https://www.heise.de/news/Patchday-SAP-Angreifer-koennen-Systeme-uebernehmen-11486228.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-13T12:39:00.000+00:00`, fetched `2026-10-13T13:02:23+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Es sind wichtige Sicherheitsupdates unter anderem für SAP Cloud SDK for Python erschienen. Admins sollten zeitnah handeln.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitslücke: DoS-Attacken auf IBM SPSS Modeler möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html)
   - Quelle: heise Security Alerts / `rss`
@@ -308,15 +321,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Angreifer können an mehreren Schwachstellen in GitLab Community Edition und Enterprise Edition ansetzen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Jetzt patchen! SonicWall SMA1000 im Fokus von Angreifern** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-13T07:09:00.000+00:00`, fetched `2026-10-13T07:40:15+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Derzeit nutzen Angreifer eine kritische Lücke in der Fernzugriffslösung SonicWall SMA1000 aus. Sicherheitsupdates sind verfügbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/numbering-on-accounts/designate)
   - Quelle: Japan Digital Agency News RSS / `rss`
