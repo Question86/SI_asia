@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-13T07:11:34Z",
+  "generated_at": "2026-10-13T08:43:53Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN38664315/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T12:00:00+09:00",
-      "age_days": 0.17,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU99982995/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T09:00:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -59,114 +59,19 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
-      "title": "AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性",
-      "url": "https://jvn.jp/jp/JVN38664315/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-13T03:08:22+00:00",
-      "age_days": 0.17,
+      "title": "Jetzt patchen! SonicWall SMA1000 im Fokus von Angreifern",
+      "url": "https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 116.04,
       "topics": [
-        "general"
+        "security"
       ],
-      "dynamics_score": 23.0,
+      "dynamics_score": 25.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Theliaにおける複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU99982995/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-13T00:16:50+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "US-China trade is entering an era of managed rivalry. Southeast Asian businesses should prepare for it",
-      "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-13T03:08:22+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.1 - 119 km SSW of Gambiran Satu, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-13T04:15:46.040+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-13 04:00:15 UTC 2026-10-13 04:00:15 UTC at epicenter Location 9.447°S 113.889°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "Client telemetry user attribution and configurable capture",
-      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-10-13T03:37:04+00:00",
-      "age_days": 0.15,
-      "topics": [],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
       "baseline_z_hint": 0.0,
@@ -174,132 +79,251 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
+        "high terms: 10",
+        "security high-signal: 10",
+        "aging penalty -8.0 for 116.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
+      "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
+      "source": "BIS Central Bankers Speeches, BIS Press Releases",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 116.76,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 2,
+      "momentum_delta": 3,
+      "baseline_z_hint": 10.07,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "source breadth +2",
+        "momentum delta +3",
+        "baseline z_hint 10.07",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 116.8d old signal",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-13T08:00:25+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: local",
+        "high terms: rce",
+        "security high-signal: rce",
         "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
       ],
-      "summary": ""
+      "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...) https://openwebui.com Open WebUI 👋 Open WebUI is a home for AI , a self-hosted AI platform that's extensible , feature-rich , user-friendly, and built to run entirely offline . With support for Ollama and OpenAI-compatible APIs , it gives you a powerful, pr…"
     },
     {
-      "title": "M 6.1 - 18 km W of Río Grande, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-13T00:15:08.307+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - VIII DYFI? - V Time 2026-10-12 23:20:36 UTC 2026-10-12 23:20:36 UTC at epicenter Location 7.703°N 81.499°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 6.1 - 18 km W of Río Grande, Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-13T00:16:50+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 20.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery",
-      "url": "https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/",
+      "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
+      "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-13T04:01:48+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "古川大臣記者会見（令和8年10月13日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261013-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-13T01:15:49+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Could a hot inflation print send Bitcoin and Ethereum into freefall?",
-      "url": "https://e27.co/could-a-hot-inflation-print-send-bitcoin-and-ethereum-into-freefall-20261013/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-13T04:31:45+00:00",
+      "published_at": "2026-10-13T06:00:12+00:00",
       "age_days": 0.11,
       "topics": [
-        "macro"
+        "ai",
+        "security"
       ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3"
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Southeast Asian companies are not short of money for AI. Most of them simply can’t get their projects past their own IT and security teams. That is the uncomfortable picture painted by the Southeast Asia findings of Adobe’s 2026 State of AI Readiness Report, released today. The study surveyed 461 senior executives in…"
+    },
+    {
+      "title": "[UPDATE] [hoch] Strapi: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-13T06:34:11+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, 10",
+        "security high-signal: code, 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Strapi ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsvorkehrungen zu umgehen und Informationen offenzulegen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-13T08:29:12+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in python-tornado in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen oder einen Denial of Service zu verursachen"
+    },
+    {
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-13T08:29:11+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (cjose) ausnutzen, um Daten zu manipulieren."
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 45.77,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 45.8d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-13T08:01:10+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Jetzt patchen! SonicWall SMA1000 im Fokus von Angreifern",
+      "url": "https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-10-13T07:09:00.000+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, 10",
+        "security high-signal: kritisch, 10"
+      ],
+      "summary": "Derzeit nutzen Angreifer eine kritische Lücke in der Fernzugriffslösung SonicWall SMA1000 aus. Sicherheitsupdates sind verfügbar."
     }
   ],
   "read_order": [
@@ -311,8 +335,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "strong": 12
     }
   }
 }
