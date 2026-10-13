@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T11:38:25+00:00",
+  "generated_at": "2026-10-13T11:51:38+00:00",
   "today_file_total": 63,
   "current_clusters": [
     {
@@ -273,29 +273,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:ecosystem-roundup-frozen-middle-sea-firms-can-scale",
-      "title": "Ecosystem Roundup: Frozen Middle: 57% of SEA firms can’t scale their AI pilots",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/ecosystem-roundup-frozen-middle-57-of-sea-firms-cant-scale-their-ai-pilots-20261013/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "domain:www.heise.de",
       "title": "Sicherheitslücke: DoS-Attacken auf IBM SPSS Modeler möglich",
       "sources": [
@@ -367,24 +344,24 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:multiples-vuln-rabilit-dans-zabbix-octobre-2026",
-      "title": "Multiples vulnérabilités dans Zabbix (05 octobre 2026)",
+      "key": "title:ecosystem-roundup-frozen-middle-sea-firms-can-scale",
+      "title": "Ecosystem Roundup: Frozen Middle: 57% of SEA firms can’t scale their AI pilots",
       "sources": [
-        "CERT-FR Avis de sécurité"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1261/"
+        "https://e27.co/ecosystem-roundup-frozen-middle-57-of-sea-firms-cant-scale-their-ai-pilots-20261013/"
       ],
       "finding_count": 1,
-      "max_score": 8,
+      "max_score": 10,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -471,6 +448,31 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:m 4.8 - 21 km w of río grande, panama:4.8",
+      "title": "M 4.8 - 21 km W of Río Grande, Panama",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww"
       ],
       "finding_count": 1,
       "max_score": 9,
