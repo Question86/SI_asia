@@ -869,6 +869,42 @@
     "id": "1dad4dc236d3e0f096ba"
   },
   {
+    "title": "M 4.8 - 0 km SW of Aratoca, Colombia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u25i",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-13T21:36:28.040+00:00",
+    "fetched_at": "2026-10-13T21:43:24+00:00",
+    "summary": "Time 2026-10-13 21:24:20 UTC 2026-10-13 21:24:20 UTC at epicenter Location 6.691°N 73.023°W Depth 162.71 km (101.10 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "20baa4c77246a45ef0e9"
+  },
+  {
     "title": "Gemini 4 Argon in GitHub Copilot",
     "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
     "source": "GitHub Changelog Atom",
@@ -1579,6 +1615,28 @@
     "id": "4e89606f27ea3e55e281"
   },
   {
+    "title": "私物Macと仕事Macのdotfilesとアプリ管理をmise bootstrapで管理しやすくした - $shibayu36->blog;",
+    "url": "https://blog.shibayu36.org/entry/2026/10/13/173000",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-13T12:43:28+00:00",
+    "fetched_at": "2026-10-13T21:43:24+00:00",
+    "summary": "自分の設定ファイルやインストールするアプリは、https://github.com/shibayu36/config-file のリポジトリで管理している。これまでは私物Macと仕事Macが全く同じになるように、雑にsymlinkを張るスクリプトで運用していた。新しい仕事用のMacをもらったのをきっかけに、私物だけ・仕事だけに入れるものをちゃんと分けつ...",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "17dfedd6ae496081b5ed"
+  },
+  {
     "title": "Patchday SAP: Angreifer können Systeme übernehmen",
     "url": "https://www.heise.de/news/Patchday-SAP-Angreifer-koennen-Systeme-uebernehmen-11486228.html",
     "source": "heise Security Alerts",
@@ -1878,6 +1936,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "577d2bf33628d7264c7b"
+  },
+  {
+    "title": "Redesigning source control at Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-13T17:17:00+00:00",
+    "fetched_at": "2026-10-13T21:43:24+00:00",
+    "summary": "Published Oct 13, 2026 As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months. At Anthropic, coding is no longer the bottleneck to building systems or doing researc...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b122ca9a4c10a56d0577"
   },
   {
     "title": "米Getty Imagesが破産申請へ AI画像の台頭で経営悪化、「報道写真」軸に年内の再建目指す",
