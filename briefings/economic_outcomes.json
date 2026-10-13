@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T04:55:00+00:00",
+  "generated_at": "2026-10-13T05:05:47+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -2293,12 +2293,12 @@
     {
       "event_id": "evt_23abe16b343c8ba8ada3",
       "title": "Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -7788,7 +7788,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_7727854f1f317d765c6b",
@@ -12079,6 +12079,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_bc568668af25851173f4",
+      "title": "Vietnamese-founded Drylab bags US$3M to put autonomous AI scientists inside pharma labs",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_bc577c1af6b790a69d74",
