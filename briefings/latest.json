@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T10:33:10+00:00",
-  "run_id": "2026-10-13T10:33:10+00:00",
+  "generated_at": "2026-10-13T10:50:37+00:00",
+  "run_id": "2026-10-13T10:50:37+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 61,
     "displayed_findings": 61,
     "high": 0,
@@ -2827,113 +2827,7 @@
       "id": "d733ab1772c9f7d85a79"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libgd): Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3747",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-13T10:12:18+00:00",
-      "fetched_at": "2026-10-13T10:32:37+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial-of-Service-Zustand zu verursachen oder möglicherweise beliebigen Code auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0c3119ae25e8955715e5"
-    },
-    {
-      "title": "M 4.5 - 71 km SW of Tambolaka, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u20i",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-13T10:20:27.040+00:00",
-      "fetched_at": "2026-10-13T10:32:37+00:00",
-      "summary": "Time 2026-10-13 09:48:28 UTC 2026-10-13 09:48:28 UTC at epicenter Location 9.927°S 118.825°E Depth 35.00 km (21.75 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "37da5effe16038ee33cb"
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Quay: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2576",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-13T10:11:46+00:00",
-      "fetched_at": "2026-10-13T10:32:37+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Quay ausnutzen, um Informationen offenzulegen, die zur Darstellung als bestimmte Konten verwendet werden können.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5e5013b21c72786915fc"
-    },
-    {
-      "title": "楽天モバイルで情報漏えいのおそれ 過去に契約していた人も対象に",
-      "url": "https://ascii.jp/elem/000/004/442/4442187/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-13T07:53:42+00:00",
-      "fetched_at": "2026-10-13T10:32:37+00:00",
-      "summary": "楽天モバイルは10月13日、「my 楽天モバイル」からダウンロードできる支払い証明書について、第三者が閲覧できる可能性があったとして、利用者にメールで通知した。利用料金や個人情報が第三者に見られる状態になっていた可能性がある。過去に契約していた利用者も通知の対象だ。 同社が実施した脆弱性診断テストで判明...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d8c5ba68d9677bd3fd30"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
