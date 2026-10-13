@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T14:31:27+00:00",
+  "generated_at": "2026-10-13T14:53:09+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -7997,7 +7997,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_7a5daf71d1a7d82d6a99",
@@ -14884,6 +14884,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e646d66277e7536cc606",
+      "title": "Improved detection for withdrawn Dependabot alerts",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_e690900cfba3094b24ad",
