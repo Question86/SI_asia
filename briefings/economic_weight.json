@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T04:02:07+00:00",
+  "generated_at": "2026-10-13T04:32:03+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -606,7 +606,7 @@
       "p90_usd": 115200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-13T02:17:12+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
       "status": "active"
     },
     {
@@ -863,7 +863,7 @@
       "p90_usd": 112800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-13T03:37:04+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
       "status": "active"
     },
     {
@@ -1664,8 +1664,8 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T16:56:25+00:00",
-      "last_seen_at": "2026-10-10T23:54:03+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_e02cd610acb8d380f50a",
@@ -1987,7 +1987,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-13T00:16:50+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
       "status": "active"
     },
     {
@@ -3704,7 +3704,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-13T03:08:22+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
       "status": "active"
     },
     {
@@ -7512,7 +7512,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-13T00:16:50+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
       "status": "active"
     },
     {
@@ -7954,7 +7954,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-13T00:16:50+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
       "status": "active"
     },
     {
@@ -8396,7 +8396,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-13T03:08:22+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
       "status": "active"
     },
     {
@@ -9161,7 +9161,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
       "status": "active"
     },
     {
@@ -11728,7 +11728,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-13T03:08:22+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
       "status": "active"
     },
     {
@@ -13807,6 +13807,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_45bb344c1bf12507fa64",
+      "title": "NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_48c5f42a809a05d55379",
       "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (28 août 2026)",
       "event_classes": [
@@ -14706,23 +14723,6 @@
       "first_seen_at": "2026-09-08T05:58:24+00:00",
       "last_seen_at": "2026-09-08T22:21:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_45bb344c1bf12507fa64",
-      "title": "NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112800.0,
-      "p50_usd": 11280000.0,
-      "p90_usd": 1128000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-13T04:01:48+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -16170,6 +16170,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8bfd7b04c29c1a38a9f5",
+      "title": "Could a hot inflation print send Bitcoin and Ethereum into freefall?",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-13T04:31:45+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_03377f8133c052e61312",
       "title": "Change fatigue is an organisational design problem, not a resilience problem",
       "event_classes": [
@@ -16251,7 +16268,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T04:45:41+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
       "status": "active"
     },
     {
@@ -16474,6 +16491,23 @@
       "first_seen_at": "2026-09-19T13:28:53+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_96effc84c6eb09c334d4",
+      "title": "What is work worth when thought is metered?",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 111200.0,
+      "p50_usd": 11120000.0,
+      "p90_usd": 1112000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_9e24091363deed42f602",
@@ -16800,23 +16834,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_96effc84c6eb09c334d4",
-      "title": "What is work worth when thought is metered?",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 111200.0,
-      "p50_usd": 11120000.0,
-      "p90_usd": 1112000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-13T04:01:48+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_014823216e5b4b658b61",
       "title": "Multiples vulnérabilités dans Postfix (09 septembre 2026)",
       "event_classes": [
@@ -17102,7 +17119,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-13T01:15:49+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
       "status": "active"
     },
     {
@@ -19397,7 +19414,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-13T01:15:49+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
       "status": "active"
     },
     {
@@ -21132,7 +21149,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-13T02:17:12+00:00",
       "last_seen_at": "2026-10-13T04:01:48+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1cb9885de974f52ccc85",
@@ -21896,8 +21913,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T06:37:14+00:00",
-      "last_seen_at": "2026-09-25T06:02:07+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_56d2794fdb318af628f5",
@@ -22389,7 +22406,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-13T03:37:04+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
       "status": "active"
     },
     {
@@ -22406,7 +22423,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-13T03:37:04+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
       "status": "active"
     },
     {
@@ -22678,7 +22695,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-13T02:54:34+00:00",
-      "last_seen_at": "2026-10-13T04:01:48+00:00",
+      "last_seen_at": "2026-10-13T04:31:45+00:00",
       "status": "active"
     },
     {
