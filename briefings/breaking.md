@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-13T16:02:37+00:00_
+_Generiert: 2026-10-13T16:27:40+00:00_
 
 ## Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework
 
-- Ranking Score: `28.08`
+- Ranking Score: `27.9`
 - Raw Network Score: `49.2`
 - Max Monitor Score: `18`
 - Reichweite: `institutional` / `5.0`
