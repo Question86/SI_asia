@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T23:42:09+00:00_
+_Generated: 2026-10-13T23:50:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `102`
+- findings: `103`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-13T23:42:09+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn
 - summary: PAGER - GREEN ShakeMap - VIII DYFI? - V Time 2026-10-12 23:20:36 UTC 2026-10-12 23:20:36 UTC at epicenter Location 7.703°N 81.499°W Depth 10.00 km (6.21 mi)
 
-### 7. Philip R. Lane: The AI opportunity for Europe
+### 7. OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-10-13T22:35:12+00:00`
+- url: https://www.itmedia.co.jp/news/article/2610/14/2000002236/
+- summary: 社内の監視カメラの映像には、装置の発見前に同容疑者が複数回にわたって役員会議室の付近に現れる様子が映っていた。同容疑者には、この会議室への立ち入りや会議への参加の権限はなかった。訴状によると、この会議室では独自の研究や製品計画、事業開発の機会に加え、技術的な進捗や戦略上の判断、政府との関わり、商...
+
+### 8. Philip R. Lane: The AI opportunity for Europe
 - source: ECB Press Releases Speeches Interviews
 - score: `12`
 - published: `2026-10-13T18:30:00+00:00`
 - url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html
 - summary: Philip R. Lane: The AI opportunity for Europe
-
-### 8. Security-Appliance: Angreifer nutzen Sicherheitslücke in Ivanti Connect Secure
-- source: heise Security Alerts
-- score: `12`
-- published: `2026-10-13T17:38:00.000+00:00`
-- url: https://www.heise.de/news/Security-Appliance-Angreifer-nutzen-Sicherheitsluecke-in-Ivanti-Connect-Secure-11486827.html
-- summary: Ivanti warnt vor einer Sicherheitslücke und bietet seit Anfang Oktober Updates an. Netzwerkadmins sollten diese schnell aufspielen, Angriffe laufen.
 
 END OF DOCUMENT
