@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T18:12:08+00:00_
+_Generated: 2026-10-13T18:37:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `89`
+- findings: `91`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-13T18:12:08+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn
 - summary: PAGER - GREEN ShakeMap - VIII DYFI? - V Time 2026-10-12 23:20:36 UTC 2026-10-12 23:20:36 UTC at epicenter Location 7.703°N 81.499°W Depth 10.00 km (6.21 mi)
 
-### 7. Security-Appliance: Angreifer nutzen Sicherheitslücke in Ivanti Connect Secure
+### 7. Philip R. Lane: The AI opportunity for Europe
+- source: ECB Press Releases Speeches Interviews
+- score: `12`
+- published: `2026-10-13T18:30:00+00:00`
+- url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html
+- summary: Philip R. Lane: The AI opportunity for Europe
+
+### 8. Security-Appliance: Angreifer nutzen Sicherheitslücke in Ivanti Connect Secure
 - source: heise Security Alerts
 - score: `12`
 - published: `2026-10-13T17:38:00.000+00:00`
 - url: https://www.heise.de/news/Security-Appliance-Angreifer-nutzen-Sicherheitsluecke-in-Ivanti-Connect-Secure-11486827.html
 - summary: Ivanti warnt vor einer Sicherheitslücke und bietet seit Anfang Oktober Updates an. Netzwerkadmins sollten diese schnell aufspielen, Angriffe laufen.
-
-### 8. Secret scanning blocks Anthropic keys by default, adds Salesforce
-- source: GitHub Changelog Atom
-- score: `12`
-- published: `2026-10-13T16:12:36+00:00`
-- url: https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce
-- summary: Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is… The post Secret scanning blocks Anthropic keys by…
 
 END OF DOCUMENT
