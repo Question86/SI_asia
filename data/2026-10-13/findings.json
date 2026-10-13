@@ -46,6 +46,30 @@
     "id": "34a892f293e65e5dbdee"
   },
   {
+    "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (flatpak): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3861",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-13T09:22:06+00:00",
+    "fetched_at": "2026-10-13T09:41:21+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Daten zu manipulieren oder beliebige Dateien auf dem Host zu schreiben oder zu überschreiben, was möglicherweise zur vollständigen Kompromittierung des Systems führen kann.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "335c8ef7afb587a279b3"
+  },
+  {
     "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-tornado): Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
     "source": "BSI CERT-Bund Security Advisories",
@@ -174,6 +198,75 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "749f7897ca2a58be726a"
+  },
+  {
+    "title": "[UPDATE] [mittel] BusyBox: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3853",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-13T09:22:06+00:00",
+    "fetched_at": "2026-10-13T09:41:21+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in BusyBox ausnutzen, um beliebigen Programmcode auszuführen und Nutzerrechte zu erlangen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "932fc585055198fbb759"
+  },
+  {
+    "title": "[UPDATE] [hoch] IBM i: Schwachstelle ermöglicht Cross-Site Scripting",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3833",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-13T09:22:05+00:00",
+    "fetched_at": "2026-10-13T09:41:21+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in IBM i ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "47858c3484a77bf9c906"
+  },
+  {
+    "title": "[UPDATE] [hoch] IBM DB2: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3837",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-13T09:22:05+00:00",
+    "fetched_at": "2026-10-13T09:41:21+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM DB2 ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d86dca0571b1636cc4bf"
   },
   {
     "title": "Theliaにおける複数の脆弱性",
@@ -537,6 +630,26 @@
       "LOW"
     ],
     "id": "9fa01db9a55c0de1fa30"
+  },
+  {
+    "title": "MakeO secures US$10M to scale Zenyum’s dentist network across Asia",
+    "url": "https://e27.co/makeo-secures-us10m-to-scale-zenyums-dentist-network-across-asia-20261013/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-13T09:22:51+00:00",
+    "fetched_at": "2026-10-13T09:41:21+00:00",
+    "summary": "India’s MakeO has raised US$10 million in a round led by Singularity AMC, with unnamed funds and family offices also participating, eight months after the Mumbai-headquartered dental aligner company agreed to absorb Singapore’s Zenyum. The cheque, disclosed in a statement on October 13, is modest by the standards of the clear aligner category’s go-go years. […] The post MakeO secures US$10M to scale Zenyum’s dentist…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India, Mumbai (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1c7c6f4c1a50cac5b7a1"
   },
   {
     "title": "AI can generate a video in minutes. Making it usable is the hard part",
