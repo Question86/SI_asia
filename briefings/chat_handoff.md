@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T07:40:49+00:00_
+_Generated: 2026-10-13T08:01:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `40`
 
 ## Top Signals
 
-### 1. Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”
+### 1. open-webui/open-webui
+- source: GitHub Trending RSS All Languages Daily
+- score: `20`
+- published: `None`
+- url: https://github.com/open-webui/open-webui
+- summary: User-friendly AI Interface (Supports Ollama, OpenAI API, ...) https://openwebui.com Open WebUI 👋 Open WebUI is a home for AI , a self-hosted AI platform that's extensible , feature-rich , user-friendly, and built to run entirely offline . With support for Oll…
+
+### 2. Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework
+- source: BIS Press Releases
+- score: `18`
+- published: `2026-10-13T00:00:00+00:00`
+- url: https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom
+- summary: The Basel Committee has published assessment reports on the implementation of its leverage ratio framework (LEV) in Australia, Canada, Japan, Korea, Switzerland and the United Kingdom. Australia, Japan, Korea and Switzerland are assessed as compliant; Canada…
+
+### 3. Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-10-13T06:00:12+00:00`
 - url: https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/
 - summary: Southeast Asian companies are not short of money for AI. Most of them simply can’t get their projects past their own IT and security teams. That is the uncomfortable picture painted by the Southeast Asia findings of Adobe’s 2026 State of AI Readiness Report,…
 
-### 2. M 5.1 - 119 km SSW of Gambiran Satu, Indonesia
+### 4. M 5.1 - 119 km SSW of Gambiran Satu, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-13T04:15:46.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye
 - summary: Time 2026-10-13 04:00:15 UTC 2026-10-13 04:00:15 UTC at epicenter Location 9.447°S 113.889°E Depth 10.00 km (6.21 mi)
-
-### 3. AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-13T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN38664315/
-- summary: 株式会社ハンモックが提供するAssetViewには、重要なリソースに対する不適切なアクセス権の割り当ての脆弱性が存在します。
-
-### 4. Theliaにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-13T09:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU99982995/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. M 6.1 - 18 km W of Río Grande, Panama
 - source: USGS M4.5+ Earthquakes Past Hour

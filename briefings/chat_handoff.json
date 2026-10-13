@@ -1,19 +1,39 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-13T07:40:49+00:00",
+  "generated_at": "2026-10-13T08:01:07+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "new_relevant_findings": 6,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
-    "medium": 7,
-    "observe": 27
+    "medium": 9,
+    "observe": 31
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "open-webui/open-webui",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 20,
+      "url": "https://github.com/open-webui/open-webui",
+      "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...) https://openwebui.com Open WebUI 👋 Open WebUI is a home for AI , a self-hosted AI platform that's extensible , feature-rich , user-friendly, and built to run entirely offline . With support for Oll…",
+      "section": "medium"
+    },
+    {
+      "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
+      "source": "BIS Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "relevance_score": 18,
+      "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
+      "summary": "The Basel Committee has published assessment reports on the implementation of its leverage ratio framework (LEV) in Australia, Canada, Japan, Korea, Switzerland and the United Kingdom. Australia, Japan, Korea and Switzerland are assessed as compliant; Canada…",
+      "section": "medium"
+    },
     {
       "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
       "source": "e27 Asia Startup and Tech Feed",
@@ -32,26 +52,6 @@
       "relevance_score": 15,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye",
       "summary": "Time 2026-10-13 04:00:15 UTC 2026-10-13 04:00:15 UTC at epicenter Location 9.447°S 113.889°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-13T12:00:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/jp/JVN38664315/",
-      "summary": "株式会社ハンモックが提供するAssetViewには、重要なリソースに対する不適切なアクセス権の割り当ての脆弱性が存在します。",
-      "section": "medium"
-    },
-    {
-      "title": "Theliaにおける複数の脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-13T09:00:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU99982995/",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "section": "medium"
     },
     {
