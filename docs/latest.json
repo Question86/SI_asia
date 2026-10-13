@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T16:57:51+00:00",
-  "run_id": "2026-10-13T16:57:51+00:00",
+  "generated_at": "2026-10-13T17:13:51+00:00",
+  "run_id": "2026-10-13T17:13:51+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 85
+      "configured_public_sources_only": 86
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "new_relevant_findings": 1,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
     "medium": 30,
-    "observe": 55,
+    "observe": 56,
     "source_errors": 0
   },
   "sections": {
@@ -974,6 +974,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6696b833d1ef802943b7"
+      },
+      {
+        "title": "M 5.1 - 119 km S of Kokopo, Papua New Guinea",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u23d",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-13T16:58:34.040+00:00",
+        "fetched_at": "2026-10-13T17:13:20+00:00",
+        "summary": "Time 2026-10-13 16:28:14 UTC 2026-10-13 16:28:14 UTC at epicenter Location 5.416°S 152.114°E Depth 28.40 km (17.65 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "f8cf6be0bdfa5e65e55f"
       },
       {
         "title": "M 5.3 - 122 km S of Kokopo, Papua New Guinea",
@@ -2983,6 +3019,42 @@
       "id": "6696b833d1ef802943b7"
     },
     {
+      "title": "M 5.1 - 119 km S of Kokopo, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u23d",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-13T16:58:34.040+00:00",
+      "fetched_at": "2026-10-13T17:13:20+00:00",
+      "summary": "Time 2026-10-13 16:28:14 UTC 2026-10-13 16:28:14 UTC at epicenter Location 5.416°S 152.114°E Depth 28.40 km (17.65 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f8cf6be0bdfa5e65e55f"
+    },
+    {
       "title": "M 5.3 - 122 km S of Kokopo, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u21s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4045,47 +4117,40 @@
   ],
   "new_findings": [
     {
-      "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-      "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
-      "source": "GitHub Changelog Atom",
+      "title": "M 5.1 - 119 km S of Kokopo, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u23d",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-13T16:12:36+00:00",
-      "fetched_at": "2026-10-13T16:57:21+00:00",
-      "summary": "Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is… The post Secret scanning blocks Anthropic keys by default, adds Salesforce appeared first on The GitHub Blog .",
+      "published_at": "2026-10-13T16:58:34.040+00:00",
+      "fetched_at": "2026-10-13T17:13:20+00:00",
+      "summary": "Time 2026-10-13 16:28:14 UTC 2026-10-13 16:28:14 UTC at epicenter Location 5.416°S 152.114°E Depth 28.40 km (17.65 mi)",
       "matched_keywords": [
-        "CodeQL/Dependabot",
-        "GitHub"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1dad4dc236d3e0f096ba"
-    },
-    {
-      "title": "Enterprise managed settings enforcement updates",
-      "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-13T15:20:10+00:00",
-      "fetched_at": "2026-10-13T16:57:21+00:00",
-      "summary": "Enterprise administrators can now require supported GitHub Copilot clients to retrieve current server-managed settings at startup instead of relying on a cached policy. We are also adding minimum client version… The post Enterprise managed settings enforcement updates appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Copilot",
-        "GitHub"
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9cab76a2f8cf5bc1848e"
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f8cf6be0bdfa5e65e55f"
     }
   ],
   "source_errors": [],
