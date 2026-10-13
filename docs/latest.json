@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T02:17:10+00:00",
-  "run_id": "2026-10-13T02:17:10+00:00",
+  "generated_at": "2026-10-13T02:54:31+00:00",
+  "run_id": "2026-10-13T02:54:31+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 9
+      "configured_public_sources_only": 10
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 1,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 2,
-    "observe": 7,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -189,6 +189,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "67eae26145f39d26587b"
+      },
+      {
+        "title": "フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃 温度が最高50度に上昇し食品大量廃棄に",
+        "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002201/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-13T01:57:29+00:00",
+        "fetched_at": "2026-10-13T02:54:04+00:00",
+        "summary": "フランスのスーパーマーケットで10月11日夜から12日（現地時間）にかけて、冷蔵・冷凍設備を標的とする大規模なサイバー攻撃が発生した。報道によると、冷蔵設備の温度が最高50度に上昇し、生鮮食品や冷凍食品が大量に廃棄される被害が出ている。被害は数百店舗に及び、フランス当局が捜査を開始した。 Super UやHyper U...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "be66960b89e03338ab28"
       },
       {
         "title": "Announcing AWS Lambda Web Functions | Amazon Web Services",
@@ -416,6 +437,27 @@
       "id": "67eae26145f39d26587b"
     },
     {
+      "title": "フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃 温度が最高50度に上昇し食品大量廃棄に",
+      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002201/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-13T01:57:29+00:00",
+      "fetched_at": "2026-10-13T02:54:04+00:00",
+      "summary": "フランスのスーパーマーケットで10月11日夜から12日（現地時間）にかけて、冷蔵・冷凍設備を標的とする大規模なサイバー攻撃が発生した。報道によると、冷蔵設備の温度が最高50度に上昇し、生鮮食品や冷凍食品が大量に廃棄される被害が出ている。被害は数百店舗に及び、フランス当局が捜査を開始した。 Super UやHyper U...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "be66960b89e03338ab28"
+    },
+    {
       "title": "Announcing AWS Lambda Web Functions | Amazon Web Services",
       "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -481,35 +523,13 @@
   ],
   "new_findings": [
     {
-      "title": "Everyone is talking about AI adoption. But are enterprises actually ready for it?",
-      "url": "https://e27.co/everyone-is-talking-about-ai-adoption-but-are-enterprises-actually-ready-for-it-20261010/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-13T02:00:56+00:00",
-      "fetched_at": "2026-10-13T02:16:39+00:00",
-      "summary": "A company can have hundreds of employees using ChatGPT, Copilot, or other AI tools every day, and still not be an AI-ready organisation. This may sound contradictory, but it is becoming increasingly common. Employees are experimenting with AI. Teams are building copilots. Companies are running pilots. Some are even putting AI into production. Yet ask […] The post Everyone is talking about AI adoption. But are enterp…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "OpenAI"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9c2a228cb9c4fa22ea78"
-    },
-    {
-      "title": "ローカルデザインシステム（スタイルガイド）｜デジタル庁デザインシステムβ版",
-      "url": "https://design.digital.go.jp/dads/guidance/local-design-system/",
+      "title": "フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃 温度が最高50度に上昇し食品大量廃棄に",
+      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002201/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-12T11:03:36+00:00",
-      "fetched_at": "2026-10-13T02:16:39+00:00",
-      "summary": "ローカルデザインシステムとは、デジタル庁デザインシステムを個々のサイトやサービスの要件に合わせて定義した、デザイン仕様のことです。デジタル庁デザインシステムはプラットフォーム型デザインシステムであり、固有の組織に依拠したブランド概念を備えていないため、使用にあたってはローカルデザインシステムの作...",
+      "published_at": "2026-10-13T01:57:29+00:00",
+      "fetched_at": "2026-10-13T02:54:04+00:00",
+      "summary": "フランスのスーパーマーケットで10月11日夜から12日（現地時間）にかけて、冷蔵・冷凍設備を標的とする大規模なサイバー攻撃が発生した。報道によると、冷蔵設備の温度が最高50度に上昇し、生鮮食品や冷凍食品が大量に廃棄される被害が出ている。被害は数百店舗に及び、フランス当局が捜査を開始した。 Super UやHyper U...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -521,7 +541,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d733ab1772c9f7d85a79"
+      "id": "be66960b89e03338ab28"
     }
   ],
   "source_errors": [],
