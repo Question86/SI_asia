@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T08:01:49+00:00",
+  "generated_at": "2026-10-13T08:36:07+00:00",
   "fx_as_of": null,
   "candidate_count": 1899,
   "promoted_count": 0,
@@ -1762,6 +1762,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.63,
       "candidate_id": "cand_121d6a521414e64e7587",
+      "component_confidence": 0.55,
       "component_suggestion": "capital_allocation",
       "conversion_status": "missing_rate",
       "currency": "EUR",
@@ -1772,8 +1773,7 @@
       "review_status": "pending",
       "snippet": "liquidity and funding metrics. Indeed, digitalisation itself supports bank deposits, as payments migrate from cash to deposit-based instruments. Our analysis estimates a potential €127 billion deposit inflow by 2034, equivalent to 0.4% of banking sector assets or 1.5% of retail sight deposits. At aggregate level, this exceeds the estimated digital euro-related outflows",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks",
-      "component_confidence": 0.55
+      "source_url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
     },
     {
       "amount_native": 900000000000.0,
@@ -7737,20 +7737,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_7f7678d278e5952dc840",
+      "component_confidence": 0.55,
       "component_suggestion": "transfers",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_5a8609c38e0d544999d3",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-10-13T08:01:33+00:00",
       "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:transfers:d86d4d09d63d",
       "review_status": "pending",
       "snippet": "ank portfolios defined by asset size and updates to the large bank tailoring framework. For the past 15 years, a community bank has been defined as a bank with assets of less than $10 billion. 4 Fixed asset thresholds can push a smaller noncomplex bank into a higher supervisory tier with standards designed for more complex institutions and stronger supervisory scrutiny",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape",
-      "component_confidence": 0.55,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape"
     },
     {
       "amount_native": 350000000.0,
@@ -25934,6 +25934,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_db9ed3e2daa9d4576cf3",
+      "component_confidence": 0.55,
       "component_suggestion": "capital_allocation",
       "conversion_status": "missing_rate",
       "currency": "EUR",
@@ -25944,8 +25945,7 @@
       "review_status": "pending",
       "snippet": "rd the deposit inflows resulting from the continuing decline in the use of cash, the aggregate liquidity coverage ratio would fall only slightly, from 166% to 163%, for a limit of €3,000. The aggregate net stable funding ratio would decline from 128% to 127%. The extreme scenario also produces manageable results, even when we take a very conservative view and ignore",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks",
-      "component_confidence": 0.55
+      "source_url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
     },
     {
       "amount_native": 1300000000000.0,
@@ -26331,6 +26331,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.43,
       "candidate_id": "cand_fe8f854a83cf8246eddf",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "missing_rate",
       "currency": "EUR",
@@ -26341,8 +26342,7 @@
       "review_status": "pending",
       "snippet": ".5% of retail sight deposits. At aggregate level, this exceeds the estimated digital euro-related outflows in the business-as-usual scenario for holding limits up to and including €3,000. No aggregate outflow would thus be recorded. 3 If we disregard the deposit inflows resulting from the continuing decline in the use of cash, the aggregate liquidity coverage ratio",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks",
-      "component_confidence": 0.0
+      "source_url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
     },
     {
       "amount_native": 39500000000000.0,
@@ -27610,20 +27610,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.35,
       "candidate_id": "cand_d040d965b39bfb3aec66",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_5a8609c38e0d544999d3",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-10-13T08:01:33+00:00",
       "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:d4e303d1cfc8",
       "review_status": "pending",
       "snippet": "ers) or static standards are used to create different tiers of institutions for regulatory and supervisory purposes (like the definition of a community bank being generally set at $10 billion in assets) become irrational over time. These thresholds matter. They limit a bank's activities and impact the proportionality of supervisory oversight. Every standard reflects a",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape",
-      "component_confidence": 0.0,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape"
     },
     {
       "amount_native": 8000000000.0,
@@ -38625,6 +38625,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.35,
       "candidate_id": "cand_3153f60e4ef48f0f61ad",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "missing_rate",
       "currency": "EUR",
@@ -38635,8 +38636,7 @@
       "review_status": "pending",
       "snippet": "onetary policy. Detailed analysis supports these safeguards. 2 At the request of the European Parliament, the ECB examined the possible effects of hypothetical holding limits from €500 to €3,000 on the balance sheets of 2,025 banks, including both significant and less significant institutions. It considered two scenarios: business-as-usual and flight-to-safety. T",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks",
-      "component_confidence": 0.0
+      "source_url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
     },
     {
       "amount_native": 3000.0,
@@ -38644,6 +38644,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.35,
       "candidate_id": "cand_2341fa2d97889b5f27ac",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "missing_rate",
       "currency": "EUR",
@@ -38654,8 +38655,7 @@
       "review_status": "pending",
       "snippet": "policy. Detailed analysis supports these safeguards. 2 At the request of the European Parliament, the ECB examined the possible effects of hypothetical holding limits from €500 to €3,000 on the balance sheets of 2,025 banks, including both significant and less significant institutions. It considered two scenarios: business-as-usual and flight-to-safety. The flight-",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks",
-      "component_confidence": 0.0
+      "source_url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
     },
     {
       "amount_native": 3000.0,
@@ -38663,6 +38663,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.35,
       "candidate_id": "cand_1d86fa1969f5a6164293",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "missing_rate",
       "currency": "EUR",
@@ -38673,8 +38674,7 @@
       "review_status": "pending",
       "snippet": "even when we take a very conservative view and ignore the trend towards digitalisation. On aggregate, regulatory liquidity metrics remain well above 100%. With a holding limit of €3,000, the liquidity coverage ratio falls to 100% for only 13 banks, representing 0.3% of total banking sector assets. And only nine of those, representing 0.1% of total banking sector as",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks",
-      "component_confidence": 0.0
+      "source_url": "https://www.bis.org/speeches/20261013-money-digital-age-digital-euro-tokenisation-and-role-central-banks"
     }
   ]
 }
