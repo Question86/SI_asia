@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-13T01:26:52Z_
+_Generated: 2026-10-13T02:05:39Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-13T09:00:00+09:00` / age_days `0.06`
+- Published: `2026-10-13T09:00:00+09:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -21,28 +21,48 @@ Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” 
 ### Theliaにおける複数の脆弱性
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `23.5`
-- Published: `2026-10-13T00:16:50+00:00` / age_days `0.05`
+- Dynamics score: `26.0`
+- Published: `2026-10-13T00:16:50+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
+- Warum: momentum delta +2
 - Quelle: https://jvn.jp/vu/JVNVU99982995/
 
 ### M 6.1 - 18 km W of Río Grande, Panama
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-10-13T00:15:08.307+00:00` / age_days `0.05`
+- Published: `2026-10-13T00:15:08.307+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn
 
+### M 6.1 - 18 km W of Río Grande, Panama
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `18.0`
+- Published: `2026-10-13T00:16:50+00:00` / age_days `0.08`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +2
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn
+
+### M 4.8 - 21 km W of Río Grande, Panama
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-10-13T00:00:28.352+00:00` / age_days `0.09`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww
+
 ### 古川大臣記者会見（令和8年10月13日）動画を掲載しました
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `17.5`
-- Published: `2026-10-13T01:15:49+00:00` / age_days `0.01`
+- Dynamics score: `15.0`
+- Published: `2026-10-13T01:15:49+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, high terms: 10
@@ -51,38 +71,28 @@ Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” 
 ### M 4.8 - 21 km W of Río Grande, Panama
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-10-13T00:00:28.352+00:00` / age_days `0.06`
+- Dynamics score: `14.0`
+- Published: `2026-10-13T00:16:50+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
+- Warum: momentum delta +2
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww
 
-### M 6.1 - 18 km W of Río Grande, Panama
+### Announcing AWS Lambda Web Functions | Amazon Web Services
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `15.5`
-- Published: `2026-10-13T00:16:50+00:00` / age_days `0.05`
+- Dynamics score: `13.39`
+- Published: `2026-09-13T04:45:41+00:00` / age_days `29.89`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn
-
-### M 4.8 - 21 km W of Río Grande, Panama
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.5`
-- Published: `2026-10-13T00:16:50+00:00` / age_days `0.05`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww
+- Warum: momentum delta +3, aging penalty -3.1 for 29.9d old signal
+- Quelle: https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/
 
 ### 古川大臣記者会見（令和8年10月13日）動画を掲載しました
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-10-13T00:42:47+00:00` / age_days `0.03`
+- Published: `2026-10-13T00:42:47+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” 
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-12T22:03:51+00:00` / age_days `0.14`
+- Published: `2026-10-12T22:03:51+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -101,8 +111,8 @@ Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” 
 ### 産業革命の時代にどうやって精度の高い「ねじ」を作り出したのか？
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `8.5`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `115.98`
+- Dynamics score: `6.0`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `116.0`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 116.0d old signal
@@ -111,18 +121,8 @@ Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” 
 ### AI can generate a video in minutes. Making it usable is the hard part
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `6.5`
-- Published: `2026-10-13T01:15:49+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/ai-can-generate-a-video-in-minutes-making-it-usable-is-the-hard-part-20261010/
-
-### AI can generate a video in minutes. Making it usable is the hard part
-
-- Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-10-13T01:00:27+00:00` / age_days `0.02`
+- Published: `2026-10-13T01:00:27+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
