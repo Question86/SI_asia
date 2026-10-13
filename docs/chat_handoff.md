@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T03:37:01+00:00_
+_Generated: 2026-10-13T04:01:45+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `18`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-13T03:37:01+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn
 - summary: PAGER - GREEN ShakeMap - VIII DYFI? - V Time 2026-10-12 23:20:36 UTC 2026-10-12 23:20:36 UTC at epicenter Location 7.703°N 81.499°W Depth 10.00 km (6.21 mi)
 
-### 6. Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route
+### 6. NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-10-13T03:56:11+00:00`
+- url: https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/
+- summary: Lithium iron phosphate (LFP) batteries have an awkward reputation among recyclers: they are everywhere, and they are worth very little once they die. Unlike the nickel- and cobalt-rich chemistries that recyclers have chased for a decade, a spent LFP cell offe…
+
+### 7. Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-10-13T03:35:04+00:00`
 - url: https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/
 - summary: “Social impact” is one of the most overused phrases in a Southeast Asian pitch deck. Founders apply the label to themselves, and in a funding winter it gets stretched to cover almost anything with a farmer, a recycling bin or an “underserved” customer in the…
 
-### 7. M 4.7 - 9 km SSE of La Mesa, Panama
-- source: USGS M4.5+ Earthquakes Past Hour
+### 8. What is work worth when thought is metered?
+- source: e27 Asia Startup and Tech Feed
 - score: `9`
-- published: `2026-10-13T03:02:12.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4
-- summary: Time 2026-10-13 02:48:02 UTC 2026-10-13 02:48:02 UTC at epicenter Location 7.582°N 80.589°W Depth 10.00 km (6.21 mi)
-
-### 8. M 4.8 - 21 km W of Río Grande, Panama
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-13T00:00:28.352+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww
-- summary: DYFI? - I Time 2026-10-12 23:36:46 UTC 2026-10-12 23:36:46 UTC at epicenter Location 7.736°N 81.527°W Depth 10.00 km (6.21 mi)
+- published: `2026-10-13T04:00:45+00:00`
+- url: https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/
+- summary: Your organisation buys human intelligence by the hour and machine intelligence by the million tokens. Only one of those prices is falling fast, and most management systems, from the timesheet to the pricing model, are still built around the other. I have spen…
 
 END OF DOCUMENT

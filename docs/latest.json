@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T03:37:01+00:00",
-  "run_id": "2026-10-13T03:37:01+00:00",
+  "generated_at": "2026-10-13T04:01:45+00:00",
+  "run_id": "2026-10-13T04:01:45+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 2,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
     "medium": 4,
-    "observe": 12,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
@@ -158,6 +158,27 @@
         "id": "eb96019a0fd6bc55c010"
       },
       {
+        "title": "NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery",
+        "url": "https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-13T03:56:11+00:00",
+        "fetched_at": "2026-10-13T04:01:12+00:00",
+        "summary": "Lithium iron phosphate (LFP) batteries have an awkward reputation among recyclers: they are everywhere, and they are worth very little once they die. Unlike the nickel- and cobalt-rich chemistries that recyclers have chased for a decade, a spent LFP cell offers no precious-metal jackpot. It holds lithium, iron and phosphate, and two of those are […] The post NEU Battery Materials bags US$7.6M to mine lithium from th…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Reputationsrisiko"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ed1c8f9684fe707ed1d7"
+      },
+      {
         "title": "Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route",
         "url": "https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -179,6 +200,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "854c2c22157c0415de52"
+      },
+      {
+        "title": "What is work worth when thought is metered?",
+        "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-13T04:00:45+00:00",
+        "fetched_at": "2026-10-13T04:01:12+00:00",
+        "summary": "Your organisation buys human intelligence by the hour and machine intelligence by the million tokens. Only one of those prices is falling fast, and most management systems, from the timesheet to the pricing model, are still built around the other. I have spent my career applying technology to improve productivity and offset inflationary costs, and […] The post What is work worth when thought is metered? appeared fir…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "aadf9f266b4c5a792ff0"
       },
       {
         "title": "M 4.7 - 9 km SSE of La Mesa, Panama",
@@ -549,6 +591,27 @@
       "id": "eb96019a0fd6bc55c010"
     },
     {
+      "title": "NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery",
+      "url": "https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-13T03:56:11+00:00",
+      "fetched_at": "2026-10-13T04:01:12+00:00",
+      "summary": "Lithium iron phosphate (LFP) batteries have an awkward reputation among recyclers: they are everywhere, and they are worth very little once they die. Unlike the nickel- and cobalt-rich chemistries that recyclers have chased for a decade, a spent LFP cell offers no precious-metal jackpot. It holds lithium, iron and phosphate, and two of those are […] The post NEU Battery Materials bags US$7.6M to mine lithium from th…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Reputationsrisiko"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ed1c8f9684fe707ed1d7"
+    },
+    {
       "title": "Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route",
       "url": "https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -570,6 +633,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "854c2c22157c0415de52"
+    },
+    {
+      "title": "What is work worth when thought is metered?",
+      "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-13T04:00:45+00:00",
+      "fetched_at": "2026-10-13T04:01:12+00:00",
+      "summary": "Your organisation buys human intelligence by the hour and machine intelligence by the million tokens. Only one of those prices is falling fast, and most management systems, from the timesheet to the pricing model, are still built around the other. I have spent my career applying technology to improve productivity and offset inflationary costs, and […] The post What is work worth when thought is metered? appeared fir…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aadf9f266b4c5a792ff0"
     },
     {
       "title": "M 4.7 - 9 km SSE of La Mesa, Panama",
@@ -813,69 +897,46 @@
   ],
   "new_findings": [
     {
-      "title": "Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route",
-      "url": "https://e27.co/social-impact-is-easy-to-pitch-and-hard-to-prove-17-sea-startups-taking-the-harder-route-20261012/",
+      "title": "NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery",
+      "url": "https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-13T03:35:04+00:00",
-      "fetched_at": "2026-10-13T03:36:29+00:00",
-      "summary": "“Social impact” is one of the most overused phrases in a Southeast Asian pitch deck. Founders apply the label to themselves, and in a funding winter it gets stretched to cover almost anything with a farmer, a recycling bin or an “underserved” customer in the slide. So we went looking for startups that do more […] The post Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route appea…",
+      "published_at": "2026-10-13T03:56:11+00:00",
+      "fetched_at": "2026-10-13T04:01:12+00:00",
+      "summary": "Lithium iron phosphate (LFP) batteries have an awkward reputation among recyclers: they are everywhere, and they are worth very little once they die. Unlike the nickel- and cobalt-rich chemistries that recyclers have chased for a decade, a spent LFP cell offers no precious-metal jackpot. It holds lithium, iron and phosphate, and two of those are […] The post NEU Battery Materials bags US$7.6M to mine lithium from th…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "founder",
-        "funding",
-        "Southeast Asia"
+        "Reputationsrisiko"
       ],
       "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.0); funding (+2.0); recent (+1.0)",
+      "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "854c2c22157c0415de52"
+      "id": "ed1c8f9684fe707ed1d7"
     },
     {
-      "title": "「PowerPoint」のCopilotで自社デザインの適用や作業自動化が可能に／ブランドキットとスキルが一般提供開始、ブランド統一と効率化を促進",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2147289.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "What is work worth when thought is metered?",
+      "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-12T23:24:18+00:00",
-      "fetched_at": "2026-10-13T03:36:29+00:00",
-      "summary": "「PowerPoint」のCopilotで自社デザインの適用や作業自動化が可能に／ブランドキットとスキルが一般提供開始、ブランド統一と効率化を促進",
+      "published_at": "2026-10-13T04:00:45+00:00",
+      "fetched_at": "2026-10-13T04:01:12+00:00",
+      "summary": "Your organisation buys human intelligence by the hour and machine intelligence by the million tokens. Only one of those prices is falling fast, and most management systems, from the timesheet to the pricing model, are still built around the other. I have spent my career applying technology to improve productivity and offset inflationary costs, and […] The post What is work worth when thought is metered? appeared fir…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Macro/Policy"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "dde0f89fbbc69d12d31b"
-    },
-    {
-      "title": "Client telemetry user attribution and configurable capture",
-      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-12T22:38:00+00:00",
-      "fetched_at": "2026-10-13T03:36:29+00:00",
-      "summary": "Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The telemetry.capture.identity setting adds three… The post Client telemetry user attribution and configurable capture appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "75c14a9fa8ab06d73e43"
+      "id": "aadf9f266b4c5a792ff0"
     }
   ],
   "source_errors": [],
