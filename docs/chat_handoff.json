@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-13T04:01:45+00:00",
+  "generated_at": "2026-10-13T04:31:42+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 3,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
-    "medium": 4,
-    "observe": 14
+    "medium": 5,
+    "observe": 16
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "M 5.1 - 119 km SSW of Gambiran Satu, Indonesia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-13T04:15:46.040+00:00",
+      "relevance_score": 15,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye",
+      "summary": "Time 2026-10-13 04:00:15 UTC 2026-10-13 04:00:15 UTC at epicenter Location 9.447°S 113.889°E Depth 10.00 km (6.21 mi)",
+      "section": "medium"
+    },
     {
       "title": "AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性",
       "source": "JVN Japan Vulnerability Notes",
@@ -42,16 +52,6 @@
       "relevance_score": 14,
       "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/",
       "summary": "The most important change in US-China trade this year is not another tariff headline. It is the emergence of a more managed, transactional relationship between the world’s two largest economies. President Donald Trump’s May state visit to Beijing produced exa…",
-      "section": "medium"
-    },
-    {
-      "title": "Everyone is talking about AI adoption. But are enterprises actually ready for it?",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-13T02:00:56+00:00",
-      "relevance_score": 14,
-      "url": "https://e27.co/everyone-is-talking-about-ai-adoption-but-are-enterprises-actually-ready-for-it-20261010/",
-      "summary": "A company can have hundreds of employees using ChatGPT, Copilot, or other AI tools every day, and still not be an AI-ready organisation. This may sound contradictory, but it is becoming increasingly common. Employees are experimenting with AI. Teams are build…",
       "section": "medium"
     },
     {
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "What is work worth when thought is metered?",
+      "title": "Could a hot inflation print send Bitcoin and Ethereum into freefall?",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-13T04:00:45+00:00",
-      "relevance_score": 9,
-      "url": "https://e27.co/what-is-work-worth-when-thought-is-metered-20261010/",
-      "summary": "Your organisation buys human intelligence by the hour and machine intelligence by the million tokens. Only one of those prices is falling fast, and most management systems, from the timesheet to the pricing model, are still built around the other. I have spen…",
+      "published_at": "2026-10-13T04:24:48+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/could-a-hot-inflation-print-send-bitcoin-and-ethereum-into-freefall-20261013/",
+      "summary": "The cryptocurrency market is going through a difficult stretch. In my view, this selloff is not a story about broken technology or failed projects. It is a story about how tightly digital assets now track the mood of traditional finance. Bitcoin has fallen 2.…",
       "section": "observe"
     }
   ],
@@ -100,135 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性",
-        "url": "https://jvn.jp/jp/JVN38664315/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-13T12:00:00+09:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "株式会社ハンモックが提供するAssetViewには、重要なリソースに対する不適切なアクセス権の割り当ての脆弱性が存在します。"
-      },
-      {
-        "title": "Theliaにおける複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU99982995/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-13T09:00:00+09:00",
-        "age_days": 0.18,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性",
-        "url": "https://jvn.jp/jp/JVN38664315/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-13T03:08:22+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +2"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "US-China trade is entering an era of managed rivalry. Southeast Asian businesses should prepare for it",
-        "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-13T03:08:22+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +2",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Theliaにおける複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU99982995/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-13T00:16:50+00:00",
-        "age_days": 0.17,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
