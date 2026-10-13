@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:44:20+00:00",
+  "generated_at": "2026-10-13T21:59:52+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 99,
@@ -426,20 +426,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.6,
+      "network_score": 14.5,
       "hot": false,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 22.5,
-      "ranking_score": 14.6,
+      "ranking_score": 14.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.1,
+      "baseline_bonus": 1.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -567,47 +567,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-13T16:57:54+00:00"
-    },
-    {
-      "key": "earthquake:m 4.8 - 0 km sw of aratoca, colombia:4.8",
-      "title": "M 4.8 - 0 km SW of Aratoca, Colombia",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "emergency_official",
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u25i"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.9,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.7,
-      "ranking_score": 12.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-10-13T21:44:20+00:00"
     },
     {
       "key": "title:gemini-argon-github-copilot",
@@ -997,44 +956,6 @@
       "first_seen_at": "2026-10-13T04:31:45+00:00"
     },
     {
-      "key": "title:mac-mac-dotfiles-mise-bootstrap-shibayu36-blog",
-      "title": "私物Macと仕事Macのdotfilesとアプリ管理をmise bootstrapで管理しやすくした - $shibayu36->blog;",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://blog.shibayu36.org/entry/2026/10/13/173000"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.1,
-      "ranking_score": 11.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-13T21:44:20+00:00"
-    },
-    {
       "key": "title:what-work-worth-when-thought-metered",
       "title": "What is work worth when thought is metered?",
       "sources": [
@@ -1073,42 +994,45 @@
       "first_seen_at": "2026-10-13T04:01:48+00:00"
     },
     {
-      "key": "domain:www.anthropic.com",
-      "title": "Redesigning source control at Anthropic",
+      "key": "earthquake:m 4.8 - 0 km sw of aratoca, colombia:4.8",
+      "title": "M 4.8 - 0 km SW of Aratoca, Colombia",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "USGS M4.5+ Earthquakes Past Hour"
       ],
       "source_classes": [
-        "tier3_specialist"
+        "emergency_official",
+        "tier1_official"
       ],
       "urls": [
-        "https://www.anthropic.com/engineering/redesigning-source-control"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u25i"
       ],
       "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
+      "max_score": 11,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.16,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.4,
       "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 10.16,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 13.7,
+      "ranking_score": 10.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.16,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-01T21:51:36+00:00"
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-10-13T21:44:20+00:00"
     },
     {
       "key": "title:enterprise-managed-settings-enforcement-updates",
@@ -1261,6 +1185,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-13T11:38:25+00:00"
+    },
+    {
+      "key": "title:mac-mac-dotfiles-mise-bootstrap-shibayu36-blog",
+      "title": "私物Macと仕事Macのdotfilesとアプリ管理をmise bootstrapで管理しやすくした - $shibayu36->blog;",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://blog.shibayu36.org/entry/2026/10/13/173000"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.1,
+      "ranking_score": 8.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-13T21:44:20+00:00"
     },
     {
       "key": "title:work-anywhere-work-all-time-inside-singapore-flexibility",
@@ -1856,6 +1818,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-13T01:15:49+00:00"
+    },
+    {
+      "key": "domain:www.anthropic.com",
+      "title": "Redesigning source control at Anthropic",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.anthropic.com/engineering/redesigning-source-control"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-01T21:51:36+00:00"
     },
     {
       "key": "title:getty-images",
@@ -2582,7 +2582,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-13T21:44:20Z",
+    "generated_at": "2026-10-13T21:59:53Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

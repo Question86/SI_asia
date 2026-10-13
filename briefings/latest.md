@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T21:44:16+00:00_
+_Generiert: 2026-10-13T21:59:48+00:00_
 
 ## Kurzlage
 
-99 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+99 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -358,7 +358,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out.
