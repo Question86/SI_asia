@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T17:30:25+00:00_
+_Generated: 2026-10-13T17:46:21+00:00_
 
 ## Status
 - status: `normal`
-- findings: `86`
+- findings: `87`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-13T17:30:25+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn
 - summary: PAGER - GREEN ShakeMap - VIII DYFI? - V Time 2026-10-12 23:20:36 UTC 2026-10-12 23:20:36 UTC at epicenter Location 7.703°N 81.499°W Depth 10.00 km (6.21 mi)
 
-### 7. Secret scanning blocks Anthropic keys by default, adds Salesforce
+### 7. Security-Appliance: Angreifer nutzen Sicherheitslücke in Ivanti Connect Secure
+- source: heise Security Alerts
+- score: `12`
+- published: `2026-10-13T17:38:00.000+00:00`
+- url: https://www.heise.de/news/Security-Appliance-Angreifer-nutzen-Sicherheitsluecke-in-Ivanti-Connect-Secure-11486827.html
+- summary: Ivanti warnt vor einer Sicherheitslücke und bietet seit Anfang Oktober Updates an. Netzwerkadmins sollten diese schnell aufspielen, Angriffe laufen.
+
+### 8. Secret scanning blocks Anthropic keys by default, adds Salesforce
 - source: GitHub Changelog Atom
 - score: `12`
 - published: `2026-10-13T16:12:36+00:00`
 - url: https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce
 - summary: Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is… The post Secret scanning blocks Anthropic keys by…
-
-### 8. NEU Battery Materials bags US$7.6M to mine lithium from the world’s least-loved battery
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-10-13T03:56:11+00:00`
-- url: https://e27.co/neu-battery-materials-bags-us7-6m-to-mine-lithium-from-the-worlds-least-loved-battery-20261013/
-- summary: Lithium iron phosphate (LFP) batteries have an awkward reputation among recyclers: they are everywhere, and they are worth very little once they die. Unlike the nickel- and cobalt-rich chemistries that recyclers have chased for a decade, a spent LFP cell offe…
 
 END OF DOCUMENT
