@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T18:37:07+00:00",
-  "run_id": "2026-10-13T18:37:07+00:00",
+  "generated_at": "2026-10-13T18:55:08+00:00",
+  "run_id": "2026-10-13T18:55:08+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 91,
     "displayed_findings": 91,
     "high": 0,
@@ -4345,49 +4345,7 @@
       "id": "a65b746ca7dfd2226535"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Philip R. Lane: The AI opportunity for Europe",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-10-13T18:30:00+00:00",
-      "fetched_at": "2026-10-13T18:36:33+00:00",
-      "summary": "Philip R. Lane: The AI opportunity for Europe",
-      "matched_keywords": [
-        "AI/KI",
-        "Macro/Policy"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bc22bb1d2e8afcf1ed1e"
-    },
-    {
-      "title": "Audit GitHub Code Quality finding dismissals and reopenings",
-      "url": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-13T17:58:36+00:00",
-      "fetched_at": "2026-10-13T18:36:33+00:00",
-      "summary": "You can now review manual dismissals and reopenings of GitHub Code Quality findings in your organization or enterprise audit log. Findings may appear in either your repository’s default-branch backlog or… The post Audit GitHub Code Quality finding dismissals and reopenings appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "48bba65a9e133ad1d1ca"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
