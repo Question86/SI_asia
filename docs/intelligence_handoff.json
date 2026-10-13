@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-12T23:55:56Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-10-13T00:42:27Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,318 +11,150 @@
   ],
   "top_dynamics": [
     {
-      "title": "[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3869",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T11:19:11+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, code",
-        "security high-signal: angriffe, code"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in SmarterTools SmarterMail ausnutzen, um beliebigen Code mit SYSTEM-Rechten auszuführen, erhöhte Rechte auch weiterhin zu behalten, nachdem die Administratorrechte entzogen wurden, Cross-Site-Scripting-Angriffe zu starten, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen o…"
-    },
-    {
-      "title": "[NEU] [mittel] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T10:54:12+00:00",
-      "age_days": 0.54,
+      "title": "Theliaにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99982995/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-13T09:00:00+09:00",
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code"
-      ],
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU Emacs ausnutzen, um beliebigen Programmcode auszuführen."
-    },
-    {
-      "title": "2026-016: Critical Vulnerability in GitLab CE and EE",
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-016/",
-      "source": "CERT-EU Security Advisories",
-      "published_at": "2026-09-10T08:29:02+00:00",
-      "age_days": 32.64,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "high terms: critical",
-        "security high-signal: critical",
-        "aging penalty -4.1 for 32.6d old signal",
-        "official security but no high-signal phrase: capped at strong"
+        "security high-signal: jvn, security"
+      ],
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+    },
+    {
+      "title": "Theliaにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99982995/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-13T00:16:50+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
       ],
       "summary": ""
     },
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T11:19:11+00:00",
-      "age_days": 0.53,
+      "title": "M 6.1 - 18 km W of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-13T00:15:08.307+00:00",
+      "age_days": 0.02,
       "topics": [
-        "security"
+        "disaster"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
+        "early terms: earthquake",
+        "high terms: 10"
       ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Foreman ausnutzen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen."
+      "summary": "PAGER - GREEN ShakeMap - VIII DYFI? - V Time 2026-10-12 23:20:36 UTC 2026-10-12 23:20:36 UTC at epicenter Location 7.703°N 81.499°W Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T10:49:11+00:00",
-      "age_days": 0.55,
+      "title": "M 6.1 - 18 km W of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-13T00:16:50+00:00",
+      "age_days": 0.02,
       "topics": [
-        "security"
+        "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 17.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
+        "momentum delta +1"
       ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Strapi ausnutzen, um Informationen offenzulegen."
+      "summary": ""
     },
     {
-      "title": "[NEU] [hoch] OTRS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3872",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T11:54:12+00:00",
-      "age_days": 0.5,
+      "title": "M 4.8 - 21 km W of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-13T00:00:28.352+00:00",
+      "age_days": 0.03,
       "topics": [
-        "security"
+        "disaster"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: angriffe, auth",
-        "security high-signal: angriffe, auth",
-        "official security but no high-signal phrase: capped at strong"
+        "early terms: earthquake",
+        "high terms: 10"
       ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in OTRS ausnutzen, um seine Privilegien zu erhöhen, die Authentifizierung zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren und Cross-Site-Scripting-Angriffe durchzuführen."
+      "summary": "DYFI? - I Time 2026-10-12 23:36:46 UTC 2026-10-12 23:36:46 UTC at epicenter Location 7.736°N 81.527°W Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "[NEU] [hoch] ImageMagick: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3867",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T11:14:12+00:00",
-      "age_days": 0.53,
+      "title": "M 4.8 - 21 km W of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-13T00:16:50+00:00",
+      "age_days": 0.02,
       "topics": [
-        "security"
+        "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: angriffe, code",
-        "security high-signal: angriffe, code",
-        "official security but no high-signal phrase: capped at strong"
+        "momentum delta +1"
       ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen, den Speicher zu beschädigen, Cross-Site-Scripting-Angriffe durchzuführen, einen Denial-of-Service-Angriff auszulösen, Daten zu manipulieren und vertrauliche Informationen offenzulege…"
-    },
-    {
-      "title": "[NEU] [mittel] LiteLLM: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3864",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T11:14:11+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in LiteLLM ausnutzen, um Informationen offenzulegen, Daten zu manipulieren und Sicherheitsmaßnahmen zu umgehen."
-    },
-    {
-      "title": "[NEU] [hoch] IBM SPSS Modeler: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3865",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T11:14:11+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe",
-        "security high-signal: angriffe",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in IBM SPSS ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Denial of Service Angriffe durchzuführen."
-    },
-    {
-      "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3858",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T10:54:12+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in GitLab ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um Daten zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "[NEU] [mittel] Rocket Remote Desktop: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3855",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T10:54:11+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: remote",
-        "security high-signal: remote",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann eine Schwachstelle in Rocket Remote Desktop ausnutzen, um Informationen offenzulegen."
-    },
-    {
-      "title": "[NEU] [hoch] MariaDB: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3856",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T10:54:11+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in MariaDB ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um Sicherheitsvorkehrungen zu umgehen."
+      "summary": ""
     }
   ],
   "read_order": [
@@ -334,8 +166,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 2,
-      "strong": 10
+      "strong": 3,
+      "watch": 3
     }
   }
 }

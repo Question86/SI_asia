@@ -1,131 +1,71 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-12T23:55:56Z_
+_Generated: 2026-10-13T00:42:27Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.
+Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
 
-### [NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen
+### Theliaにおける複数の脆弱性
 
-- Band: `krass` (raw `krass`)
-- Dynamics score: `31.0`
-- Published: `2026-10-12T11:19:11+00:00` / age_days `0.53`
-- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: angriffe, code, security high-signal: angriffe, code
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3869
-
-### [NEU] [mittel] GNU Emacs: Schwachstelle ermöglicht Codeausführung
-
-- Band: `krass` (raw `krass`)
-- Dynamics score: `31.0`
-- Published: `2026-10-12T10:54:12+00:00` / age_days `0.54`
-- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857
-
-### 2026-016: Critical Vulnerability in GitLab CE and EE
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-10T08:29:02+00:00` / age_days `32.64`
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-10-13T09:00:00+09:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, high terms: critical, security high-signal: critical, aging penalty -4.1 for 32.6d old signal, official security but no high-signal phrase: capped at strong
-- Quelle: https://cert.europa.eu/publications/security-advisories/2026-016/
+- Warum: security high-signal: jvn, security
+- Quelle: https://jvn.jp/vu/JVNVU99982995/
 
-### [NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen
+### Theliaにおける複数の脆弱性
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-12T11:19:11+00:00` / age_days `0.53`
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-10-13T00:16:50+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://jvn.jp/vu/JVNVU99982995/
 
-### [NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen
+### M 6.1 - 18 km W of Río Grande, Panama
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-12T10:49:11+00:00` / age_days `0.55`
+- Band: `strong` (raw `strong`)
+- Dynamics score: `21.0`
+- Published: `2026-10-13T00:15:08.307+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn
 
-### [NEU] [hoch] OTRS: Mehrere Schwachstellen
+### M 6.1 - 18 km W of Río Grande, Panama
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-12T11:54:12+00:00` / age_days `0.5`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: angriffe, auth, security high-signal: angriffe, auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3872
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.4`
+- Published: `2026-10-13T00:16:50+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn
 
-### [NEU] [hoch] ImageMagick: Mehrere Schwachstellen
+### M 4.8 - 21 km W of Río Grande, Panama
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-12T11:14:12+00:00` / age_days `0.53`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: angriffe, code, security high-signal: angriffe, code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3867
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-10-13T00:00:28.352+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww
 
-### [NEU] [mittel] LiteLLM: Mehrere Schwachstellen
+### M 4.8 - 21 km W of Río Grande, Panama
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-12T11:14:11+00:00` / age_days `0.53`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3864
-
-### [NEU] [hoch] IBM SPSS Modeler: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-12T11:14:11+00:00` / age_days `0.53`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: angriffe, security high-signal: angriffe, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3865
-
-### [NEU] [hoch] GitLab: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-12T10:54:12+00:00` / age_days `0.54`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3858
-
-### [NEU] [mittel] Rocket Remote Desktop: Schwachstelle ermöglicht Offenlegung von Informationen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-12T10:54:11+00:00` / age_days `0.54`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: remote, security high-signal: remote, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3855
-
-### [NEU] [hoch] MariaDB: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-12T10:54:11+00:00` / age_days `0.54`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3856
+- Band: `watch` (raw `watch`)
+- Dynamics score: `13.4`
+- Published: `2026-10-13T00:16:50+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww
 
 END OF DOCUMENT

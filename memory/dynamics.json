@@ -1,77 +1,26 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-12T23:55:56Z",
+  "generated_at": "2026-10-13T00:42:27Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 40,
+    "dynamics": 6,
     "bands": {
-      "krass": 23,
-      "strong": 17
+      "strong": 3,
+      "watch": 3
     },
     "bands_after_gate_recheck": {
-      "krass": 2,
-      "strong": 38
+      "strong": 3,
+      "watch": 3
     }
   },
   "top_dynamics": [
     {
-      "title": "[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3869",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T11:19:11+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, code",
-        "security high-signal: angriffe, code"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in SmarterTools SmarterMail ausnutzen, um beliebigen Code mit SYSTEM-Rechten auszuführen, erhöhte Rechte auch weiterhin zu behalten, nachdem die Administratorrechte entzogen wurden, Cross-Site-Scripting-Angriffe zu starten, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen o…"
-    },
-    {
-      "title": "[NEU] [mittel] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3857",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T10:54:12+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code"
-      ],
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU Emacs ausnutzen, um beliebigen Programmcode auszuführen."
-    },
-    {
-      "title": "[NEU] [mittel] Bouncy Castle: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3862",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T11:54:11+00:00",
-      "age_days": 0.5,
+      "title": "Theliaにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99982995/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-13T09:00:00+09:00",
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -86,846 +35,44 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
+        "security high-signal: jvn, security"
       ],
-      "summary": "Ein Angreifer kann eine Schwachstelle in Bouncy Castle ausnutzen, um Informationen offenzulegen."
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
-      "title": "[NEU] [niedrig] mutt: Schwachstelle ermöglicht Manipulation von Daten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3866",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T11:14:11+00:00",
-      "age_days": 0.53,
+      "title": "Theliaにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99982995/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-13T00:16:50+00:00",
+      "age_days": 0.02,
       "topics": [
-        "security"
+        "general"
       ],
       "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in mutt ausnutzen, um Daten zu manipulieren."
-    },
-    {
-      "title": "[UPDATE] [mittel] libxml2: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3195",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T10:44:15+00:00",
-      "age_days": 0.55,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in libxml2 ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Daten zu manipulieren oder offenzulegen und um einen Denial of Service herbeizuführen."
-    },
-    {
-      "title": "[UPDATE] [mittel] IBM WebSphere Application Server: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1833",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T08:49:11+00:00",
-      "age_days": 0.63,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM WebSphere Application Server ausnutzen, um einen Denial of Service Angriff durchzuführen."
-    },
-    {
-      "title": "[UPDATE] [mittel] IBM WebSphere Application Server Liberty: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0518",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T08:49:11+00:00",
-      "age_days": 0.63,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in IBM WebSphere Application Server Liberty ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3841",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T07:40:07+00:00",
-      "age_days": 0.68,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Daten zu manipulieren und um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "Vulnérabilité dans Microsoft Exchange Server (05 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1258/",
-      "source": "CERT-FR Avis de sécurité",
-      "published_at": "2026-10-12T13:22:24+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "infra"
-      ],
-      "dynamics_score": 25.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "high terms: exchange"
+        "momentum delta +1"
       ],
       "summary": ""
     },
     {
-      "title": "2026-016: Critical Vulnerability in GitLab CE and EE",
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-016/",
-      "source": "CERT-EU Security Advisories",
-      "published_at": "2026-09-10T08:29:02+00:00",
-      "age_days": 32.64,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: critical",
-        "security high-signal: critical",
-        "aging penalty -4.1 for 32.6d old signal",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "[NEU] [UNGEPATCHT] [mittel] Foreman: Schwachstelle ermöglicht Manipulation von Dateien und Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3868",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T11:19:11+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Foreman ausnutzen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "[NEU] [UNGEPATCHT] [mittel] Strapi: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3854",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T10:49:11+00:00",
-      "age_days": 0.55,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Strapi ausnutzen, um Informationen offenzulegen."
-    },
-    {
-      "title": "[NEU] [hoch] OTRS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3872",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T11:54:12+00:00",
-      "age_days": 0.5,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, auth",
-        "security high-signal: angriffe, auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in OTRS ausnutzen, um seine Privilegien zu erhöhen, die Authentifizierung zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren und Cross-Site-Scripting-Angriffe durchzuführen."
-    },
-    {
-      "title": "[NEU] [hoch] ImageMagick: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3867",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T11:14:12+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, code",
-        "security high-signal: angriffe, code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen, den Speicher zu beschädigen, Cross-Site-Scripting-Angriffe durchzuführen, einen Denial-of-Service-Angriff auszulösen, Daten zu manipulieren und vertrauliche Informationen offenzulege…"
-    },
-    {
-      "title": "[NEU] [mittel] LiteLLM: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3864",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T11:14:11+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in LiteLLM ausnutzen, um Informationen offenzulegen, Daten zu manipulieren und Sicherheitsmaßnahmen zu umgehen."
-    },
-    {
-      "title": "[NEU] [hoch] IBM SPSS Modeler: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3865",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T11:14:11+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe",
-        "security high-signal: angriffe",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in IBM SPSS ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Denial of Service Angriffe durchzuführen."
-    },
-    {
-      "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3858",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T10:54:12+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in GitLab ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um Daten zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "[NEU] [mittel] Rocket Remote Desktop: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3855",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T10:54:11+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: remote",
-        "security high-signal: remote",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann eine Schwachstelle in Rocket Remote Desktop ausnutzen, um Informationen offenzulegen."
-    },
-    {
-      "title": "[NEU] [hoch] MariaDB: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3856",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T10:54:11+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in MariaDB ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "[UPDATE] [hoch] Apache Struts: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3852",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T09:34:11+00:00",
-      "age_days": 0.6,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code, auth",
-        "security high-signal: code, auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Apache Struts ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen."
-    },
-    {
-      "title": "[UPDATE] [mittel] Grafana: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3355",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T08:32:00+00:00",
-      "age_days": 0.64,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen."
-    },
-    {
-      "title": "[UPDATE] [hoch] Argo CD: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3802",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T07:39:45+00:00",
-      "age_days": 0.68,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Argo CD ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Informationen und Zugangsdaten auszulesen, Zugriffsbeschränkungen zu umgehen oder einen Denial of Service zu verursachen."
-    },
-    {
-      "title": "2026-016: Critical Vulnerability in GitLab CE and EE",
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-016/",
-      "source": "CERT-EU Security Advisories",
-      "published_at": "2026-10-12T14:57:02+00:00",
-      "age_days": 0.37,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: active, exploitation, critical",
-        "security high-signal: active, exploitation, critical, unauthenticated",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "On 12 October 2026, GitLab released versions 19.4.2, 19.3.4 and 19.2.8 of GitLab Community Edition (CE) and Enterprise Edition (EE), fixing 24 security issues among which a critical vulnerability that could allow an unauthenticated attacker to execute arbitrary code on the server. CERT-EU strongly recommends upgrading…"
-    },
-    {
-      "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3871",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T11:54:11+00:00",
-      "age_days": 0.5,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen."
-    },
-    {
-      "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3859",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T10:54:12+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GIMP ausnutzen, um einen Denial of Service Angriff durchzuführen."
-    },
-    {
-      "title": "[UPDATE] [hoch] Apache CXF: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3824",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-12T07:40:07+00:00",
-      "age_days": 0.68,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache CXF ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und offenzulegen, Benutzer auf vom Angreifer kontrollierte Websites umzuleiten oder Denial-of-Service-Zustände auszulösen."
-    },
-    {
-      "title": "Singapore SMEs buy back time with AI, but messy data keeps pilots stuck",
-      "url": "https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-12T05:03:05+00:00",
-      "age_days": 0.79,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Beyond automation: How AI is reshaping the SME landscape in Southeast Asia",
-      "url": "https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-12T04:39:21+00:00",
-      "age_days": 0.8,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Singapore SMEs buy back time with AI, but messy data keeps pilots stuck",
-      "url": "https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-12T05:00:13+00:00",
-      "age_days": 0.79,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Ask a Singapore small business owner what AI has done for them, and the answer is time. Ask whether their systems are ready to let AI run more of the business, and the answer gets a lot less certain. Also Read: Beyond automation: How AI is reshaping the SME landscape in Southeast Asia That tension […] The post Singapo…"
-    },
-    {
-      "title": "Beyond automation: How AI is reshaping the SME landscape in Southeast Asia",
-      "url": "https://e27.co/beyond-automation-how-ai-is-reshaping-the-sme-landscape-in-southeast-asia-20261010/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-12T04:00:42+00:00",
-      "age_days": 0.83,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Artificial intelligence is increasingly moving from an experimental technology to an operational tool for small and medium-sized enterprises across Southeast Asia. Yet the more important question is not whether SMEs will use AI, but where AI can create measurable business value without adding disproportionate complexi…"
-    },
-    {
-      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
-      "source": "GitHub Blog Atom",
-      "published_at": "2026-10-12T18:01:04+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: rce, code",
-        "security high-signal: rce, code",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3871",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 45.41,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 45.4d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Warnung vor Angriffen auf alte Sicherheitslücken",
-      "url": "https://www.heise.de/news/Alte-Luecken-etwa-in-Apache-Struts-BIND-und-ProFTPD-im-Visier-von-Angreifern-11483781.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-10-12T06:28:00.000+00:00",
-      "age_days": 0.73,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe",
-        "security high-signal: angriffe"
-      ],
-      "summary": "Die CISA warnt vor beobachteten Angriffen unter anderem auf Apache Struts, BIND und ProFTPD. Die Lücken sind teils sehr alt."
-    },
-    {
-      "title": "Malaysia’s Budget 2027 hands startups US$110.4M but the bigger cheques go elsewhere",
-      "url": "https://e27.co/malaysias-budget-2027-hands-startups-us110-4m-but-the-bigger-cheques-go-elsewhere-20261012/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-12T04:39:21+00:00",
-      "age_days": 0.8,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Cisco (25 avril 2024)",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2024-04-25T00:00:00+00:00",
-      "age_days": 901.0,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: active",
-        "security high-signal: active",
-        "aging penalty -8.0 for 901.0d old signal"
-      ],
-      "summary": "Le 24 avril 2024, Cisco a publié trois avis de sécurité concernant des vulnérabilités affectant les équipements de sécurité ASA et FTD. Deux d'entre eux concernent les vulnérabilités CVE-2024-20353 et CVE-2024-20359 qui sont activement exploitées dans le cadre d'attaques ciblées. La vulnérabilité..."
-    },
-    {
-      "title": "M 4.6 - 100 km SSW of Kencong, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rm",
+      "title": "M 6.1 - 18 km W of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-12T12:39:51.040+00:00",
-      "age_days": 0.47,
+      "published_at": "2026-10-13T00:15:08.307+00:00",
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
-      "dynamics_score": 23.0,
+      "dynamics_score": 21.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
@@ -939,95 +86,45 @@
         "early terms: earthquake",
         "high terms: 10"
       ],
-      "summary": "Time 2026-10-12 11:58:08 UTC 2026-10-12 11:58:08 UTC at epicenter Location 9.152°S 113.100°E Depth 55.22 km (34.31 mi)"
+      "summary": "PAGER - GREEN ShakeMap - VIII DYFI? - V Time 2026-10-12 23:20:36 UTC 2026-10-12 23:20:36 UTC at epicenter Location 7.703°N 81.499°W Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "M 5.7 - Mid-Indian Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rh",
+      "title": "M 6.1 - 18 km W of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-12T11:53:23.954+00:00",
-      "age_days": 0.5,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-12 11:28:43 UTC 2026-10-12 11:28:43 UTC at epicenter Location 9.007°S 67.564°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.5 - 53 km S of Kushiro, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1pa",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-12T04:07:59.040+00:00",
-      "age_days": 0.82,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-12 03:44:57 UTC 2026-10-12 03:44:57 UTC at epicenter Location 42.501°N 144.278°E Depth 65.89 km (40.94 mi)"
-    },
-    {
-      "title": "M 5.7 - Mid-Indian Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rh",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-12T11:54:23+00:00",
-      "age_days": 0.5,
+      "published_at": "2026-10-13T00:16:50+00:00",
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 22.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 17.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3"
+        "momentum delta +1"
       ],
       "summary": ""
     },
     {
-      "title": "Don’t build another app. Build inside the ones people already open",
-      "url": "https://e27.co/dont-build-another-app-build-inside-the-ones-people-already-open-20261010/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-12T03:00:50+00:00",
-      "age_days": 0.87,
+      "title": "M 4.8 - 21 km W of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-13T00:00:28.352+00:00",
+      "age_days": 0.03,
       "topics": [
-        "macro"
+        "disaster"
       ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
@@ -1035,12 +132,35 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
+        "early terms: earthquake",
+        "high terms: 10"
       ],
-      "summary": "The average smartphone user opens around ten apps a day and about 34 in a month, according to Sensor Tower’s State of Mobile 2026. Global app downloads grew 0.8 per cent last year. The home screen is not an open market. It is a short list that changes slowly, and every new consumer app is […] The post Don’t build anot…"
+      "summary": "DYFI? - I Time 2026-10-12 23:36:46 UTC 2026-10-12 23:36:46 UTC at epicenter Location 7.736°N 81.527°W Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 4.8 - 21 km W of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ww",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-13T00:16:50+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Theliaにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
