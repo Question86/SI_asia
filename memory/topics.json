@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T10:12:17+00:00",
+  "generated_at": "2026-10-13T10:33:10+00:00",
   "topics": {
     "ai": [
       {
@@ -107,6 +107,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libgd): Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T10:12:18+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3747"
+      },
+      {
         "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-13T10:09:18+00:00",
@@ -149,6 +156,13 @@
         "url": "https://jvn.jp/jp/JVN38664315/"
       },
       {
+        "title": "[UPDATE] [mittel] Red Hat Quay: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-13T10:11:46+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2576"
+      },
+      {
         "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-13T10:09:15+00:00",
@@ -161,23 +175,16 @@
         "published_at": "2026-10-13T09:22:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3853"
-      },
-      {
-        "title": "[UPDATE] [hoch] IBM i: Schwachstelle ermöglicht Cross-Site Scripting",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T09:22:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3833"
-      },
-      {
-        "title": "[UPDATE] [hoch] IBM DB2: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T09:22:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3837"
       }
     ],
     "general": [
+      {
+        "title": "M 4.5 - 71 km SW of Tambolaka, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-13T10:20:27.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u20i"
+      },
       {
         "title": "M 5.1 - 119 km SSW of Gambiran Satu, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -240,13 +247,6 @@
         "published_at": "2026-10-13T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/policies/numbering-on-accounts/designate"
-      },
-      {
-        "title": "マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-10-13T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/mynumber_logo"
       }
     ],
     "geopolitics": [
