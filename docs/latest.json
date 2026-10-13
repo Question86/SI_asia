@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T22:31:37+00:00",
-  "run_id": "2026-10-13T22:31:37+00:00",
+  "generated_at": "2026-10-13T22:41:58+00:00",
+  "run_id": "2026-10-13T22:41:58+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 101,
     "displayed_findings": 101,
     "high": 0,
@@ -4829,29 +4829,7 @@
       "id": "a65b746ca7dfd2226535"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ブックオフ、約642万件の会員データ漏洩 退会会員も対象 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC135N90T11C26A0000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-13T11:49:15+00:00",
-      "fetched_at": "2026-10-13T22:31:05+00:00",
-      "summary": "ブックオフグループホールディングス（HD）は13日、9日に公表した不正アクセスの現時点での調査結果を発表した。調査中としていた漏洩対象会員データ数が約642万件に上ると判明した。対象者には15日から順次、登録メールアドレス宛てに連絡するという。同社は9日、子会社の会員管理システムへの不正アクセスにより会員デ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e375d485e5e361b86483"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
