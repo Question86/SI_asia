@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T04:54:28+00:00_
+_Generiert: 2026-10-13T05:05:12+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „M 5.1 - 119 km SSW of Gambiran Satu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+23 neue relevante Treffer. Stärkstes Signal: „M 5.1 - 119 km SSW of Gambiran Satu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -148,14 +148,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.0); funding (+2.0); recent (+1.0)
   - Kurz: “Social impact” is one of the most overused phrases in a Southeast Asian pitch deck. Founders apply the label to themselves, and in a funding winter it gets stretched to cover almost anything with a farmer, a recycling bin or an “underserved” customer in the slide. So we went looking for startups that do more […] The post Social impact is easy to pitch and hard to prove: 17 SEA startups taking the harder route appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Could a hot inflation print send Bitcoin and Ethereum into freefall?** — Score 10, observation — [Quelle](https://e27.co/could-a-hot-inflation-print-send-bitcoin-and-ethereum-into-freefall-20261013/)
+- **Vietnamese-founded Drylab bags US$3M to put autonomous AI scientists inside pharma labs** — Score 10, observation — [Quelle](https://e27.co/vietnamese-founded-drylab-bags-us3m-to-put-autonomous-ai-scientists-inside-pharma-labs-20261013/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-13T04:24:48+00:00`, fetched `2026-10-13T04:31:12+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy
+  - Zeit: published `2026-10-13T05:00:04+00:00`, fetched `2026-10-13T05:04:40+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The cryptocurrency market is going through a difficult stretch. In my view, this selloff is not a story about broken technology or failed projects. It is a story about how tightly digital assets now track the mood of traditional finance. Bitcoin has fallen 2.49 per cent to US$81,755.72 in 24 hours. That move underperforms a […] The post Could a hot inflation print send Bitcoin and Ethereum into freefall? appeared fi…
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
+  - Kurz: The cost of sequencing a human genome fell from about US$95 million in 2001 to about US$500 by 2022, according to the US National Human Genome Research Institute. Biology became a data business almost overnight. The ability to make sense of that data did not keep pace. Most laboratories now generate more sequencing, imaging and […] The post Vietnamese-founded Drylab bags US$3M to put autonomous AI scientists inside…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 9 km SSE of La Mesa, Panama** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
