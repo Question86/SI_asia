@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T19:43:42+00:00_
+_Generiert: 2026-10-13T19:59:48+00:00_
 
 ## Kurzlage
 
@@ -49,10 +49,6 @@ _Generiert: 2026-10-13T19:43:42+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Nepal
-- **USGS earthquake M6.0 - 126 km S of Kokopo, Papua New Guinea** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u24c)
-  - Quelle: USGS
-  - Zeit: `2026-10-13T18:45:03+00:00`
-  - Kurz: M6.0 - 126 km S of Kokopo, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.
 - **USGS earthquake M6.7 - central Mid-Atlantic Ridge** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5)
   - Quelle: USGS
   - Zeit: `2026-10-13T05:44:46+00:00`
@@ -69,6 +65,10 @@ _Generiert: 2026-10-13T19:43:42+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone TWENTY-ONE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571161)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).
 
 ## Wirtschaft global
 
