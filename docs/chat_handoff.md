@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T14:30:23+00:00_
+_Generated: 2026-10-13T14:52:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `80`
+- findings: `81`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-13T14:30:23+00:00_
 - url: https://github.com/open-webui/open-webui
 - summary: User-friendly AI Interface (Supports Ollama, OpenAI API, ...) https://openwebui.com Open WebUI 👋 Open WebUI is a home for AI , a self-hosted AI platform that's extensible , feature-rich , user-friendly, and built to run entirely offline . With support for Oll…
 
-### 3. Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework
+### 3. Improved detection for withdrawn Dependabot alerts
+- source: GitHub Changelog Atom
+- score: `18`
+- published: `2026-10-13T14:03:57+00:00`
+- url: https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts
+- summary: You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help… The post Improved detection for withdrawn Dependabot alerts appeare…
+
+### 4. Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework
 - source: BIS Press Releases
 - score: `18`
 - published: `2026-10-13T00:00:00+00:00`
 - url: https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom
 - summary: The Basel Committee has published assessment reports on the implementation of its leverage ratio framework (LEV) in Australia, Canada, Japan, Korea, Switzerland and the United Kingdom. Australia, Japan, Korea and Switzerland are assessed as compliant; Canada…
-
-### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (libgd): Schwachstelle ermöglicht Codeausführung
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-13T10:12:18+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3747
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial-of-Service-Zustand zu verursachen oder möglicherweise beliebigen Code auszuführen.
 
 ### 5. M 6.9 - central Mid-Atlantic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour

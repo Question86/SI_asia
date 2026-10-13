@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T14:30:23+00:00",
-  "run_id": "2026-10-13T14:30:23+00:00",
+  "generated_at": "2026-10-13T14:52:16+00:00",
+  "run_id": "2026-10-13T14:52:16+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 80
+      "configured_public_sources_only": 81
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 80,
-    "displayed_findings": 80,
+    "today_file_total": 81,
+    "displayed_findings": 81,
     "high": 0,
-    "medium": 29,
+    "medium": 30,
     "observe": 51,
     "source_errors": 0
   },
@@ -75,6 +75,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2c0e51f2c7dcb2d9796c"
+      },
+      {
+        "title": "Improved detection for withdrawn Dependabot alerts",
+        "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-13T14:03:57+00:00",
+        "fetched_at": "2026-10-13T14:51:42+00:00",
+        "summary": "You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help… The post Improved detection for withdrawn Dependabot alerts appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "CodeQL/Dependabot",
+          "GitHub",
+          "Security"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8aa571c105ebcf9da3b2"
       },
       {
         "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
@@ -1964,6 +1986,28 @@
       "id": "2c0e51f2c7dcb2d9796c"
     },
     {
+      "title": "Improved detection for withdrawn Dependabot alerts",
+      "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-13T14:03:57+00:00",
+      "fetched_at": "2026-10-13T14:51:42+00:00",
+      "summary": "You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help… The post Improved detection for withdrawn Dependabot alerts appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "CodeQL/Dependabot",
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8aa571c105ebcf9da3b2"
+    },
+    {
       "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
       "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
       "source": "BIS Press Releases",
@@ -3801,25 +3845,26 @@
   ],
   "new_findings": [
     {
-      "title": "Introduction to the panel “Financial risks and macroprudential policy”",
-      "url": "https://www.bis.org/speeches/20261013-introduction-panel-financial-risks-and-macroprudential-policy",
-      "source": "BIS Central Bankers Speeches",
+      "title": "Improved detection for withdrawn Dependabot alerts",
+      "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "fetched_at": "2026-10-13T14:29:45+00:00",
-      "summary": "Introduction by Ms Clara Raposo, Vice-Governor of the Banco de Portugal, to the panel “Financial risks and macroprudential policy”, at the Banco de Portugal’s Conference on the Main Findings of Portugal's Financial Sector Assessment Program (FSAP), Lisbon, 22 September 2026.",
+      "published_at": "2026-10-13T14:03:57+00:00",
+      "fetched_at": "2026-10-13T14:51:42+00:00",
+      "summary": "You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help… The post Improved detection for withdrawn Dependabot alerts appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "macro",
-        "Macro/Policy"
+        "CodeQL/Dependabot",
+        "GitHub",
+        "Security"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); macro (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_score": 18,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "17c6401f1cf5090caf47"
+      "id": "8aa571c105ebcf9da3b2"
     }
   ],
   "source_errors": [],

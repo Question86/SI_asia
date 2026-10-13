@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-13T14:30:23+00:00",
+  "generated_at": "2026-10-13T14:52:16+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview"
       },
       {
+        "title": "Improved detection for withdrawn Dependabot alerts",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-13T14:03:57+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts"
+      },
+      {
         "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libgd): Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-13T10:12:18+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-10-13T12:00:15+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3619"
-      },
-      {
-        "title": "[UPDATE] [mittel] gcc: Schwachstelle ermöglicht Manipulation von Dateien und DoS",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-13T12:00:14+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3612"
       }
     ],
     "github": [
@@ -161,6 +161,13 @@
         "published_at": null,
         "relevance_score": 20,
         "url": "https://github.com/open-webui/open-webui"
+      },
+      {
+        "title": "Improved detection for withdrawn Dependabot alerts",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-13T14:03:57+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts"
       },
       {
         "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",

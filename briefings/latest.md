@@ -1,18 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T14:30:23+00:00_
+_Generiert: 2026-10-13T14:52:16+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
+81 neue relevante Treffer. Stärkstes Signal: „Code scanning AI Scan metrics in security overview“ aus GitHub Changelog Atom (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M6.9 - central Mid-Atlantic Ridge** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214)
+- **USGS earthquake M6.8 - central Mid-Atlantic Ridge** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214)
   - Quelle: USGS
   - Zeit: `2026-10-13T12:23:07+00:00`
-  - Kurz: M6.9 - central Mid-Atlantic Ridge. PAGER alert: green. Tsunami flag: 1.
+  - Kurz: M6.8 - central Mid-Atlantic Ridge. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2015-5477 ISC BIND** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
@@ -103,6 +103,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Local-first AI (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: User-friendly AI Interface (Supports Ollama, OpenAI API, ...) https://openwebui.com Open WebUI 👋 Open WebUI is a home for AI , a self-hosted AI platform that's extensible , feature-rich , user-friendly, and built to run entirely offline . With support for Ollama and OpenAI-compatible APIs , it gives you a powerful, provider-agnostic interface for both local and cloud-based models. Passionate about open-source AI? Jo…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Improved detection for withdrawn Dependabot alerts** — Score 18, risk — [Quelle](https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-13T14:03:57+00:00`, fetched `2026-10-13T14:51:42+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help… The post Improved detection for withdrawn Dependabot alerts appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework** — Score 18, observation — [Quelle](https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom)
   - Quelle: BIS Press Releases / `rss`
   - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T08:00:25+00:00`
