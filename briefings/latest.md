@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T01:15:45+00:00_
+_Generiert: 2026-10-13T01:55:29+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „Theliaにおける複数の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+7 neue relevante Treffer. Stärkstes Signal: „Theliaにおける複数の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,10 @@ _Generiert: 2026-10-13T01:15:45+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Nepal
-- **USGS earthquake M6.1 - 18 km W of Río Grande, Panama** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn)
+- **USGS earthquake M6.1 - 17 km W of Río Grande, Panama** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn)
   - Quelle: USGS
   - Zeit: `2026-10-12T23:20:36+00:00`
-  - Kurz: M6.1 - 18 km W of Río Grande, Panama. PAGER alert: green. Tsunami flag: 0.
+  - Kurz: M6.1 - 17 km W of Río Grande, Panama. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571161)
   - Quelle: GDACS
   - Zeit: ``
@@ -120,6 +120,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年10月13日）動画を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Announcing AWS Lambda Web Functions | Amazon Web Services** — Score 5, observation — [Quelle](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-12T23:29:58+00:00`, fetched `2026-10-13T01:54:57+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: The session catalog is live. Explore what's waiting for you
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **産業革命の時代にどうやって精度の高い「ねじ」を作り出したのか？** — Score 5, observation — [Quelle](https://gigazine.net/news/20261013-how-machines-learned-precision/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

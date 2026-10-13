@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-13T01:15:49+00:00",
+  "generated_at": "2026-10-13T01:55:33+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 6,
-    "clusters": 6,
+    "findings": 7,
+    "clusters": 7,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 1,
@@ -105,19 +105,19 @@
       "max_score": 8,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.0,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 13.1,
-      "ranking_score": 12.0,
+      "raw_network_score": 10.1,
+      "ranking_score": 9.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -128,46 +128,8 @@
       "first_seen_at": "2026-10-13T01:15:49+00:00"
     },
     {
-      "key": "url:https://www.digital.go.jp/speech/minister-261013-01",
-      "title": "古川大臣記者会見（令和8年10月13日）動画を掲載しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/speech/minister-261013-01"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 11.1,
-      "ranking_score": 10.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-13T01:15:49+00:00"
-    },
-    {
-      "key": "domain:gigazine.net",
-      "title": "産業革命の時代にどうやって精度の高い「ねじ」を作り出したのか？",
+      "key": "domain:aws.amazon.com",
+      "title": "Announcing AWS Lambda Web Functions | Amazon Web Services",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -175,7 +137,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://gigazine.net/news/20261013-how-machines-learned-precision/"
+        "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -201,7 +163,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-19T01:58:32+00:00"
+      "first_seen_at": "2026-09-13T04:45:41+00:00"
     },
     {
       "key": "earthquake:m 4.8 - 21 km w of río grande, panama:4.8",
@@ -243,11 +205,87 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-10-13T00:16:50+00:00"
+    },
+    {
+      "key": "url:https://www.digital.go.jp/speech/minister-261013-01",
+      "title": "古川大臣記者会見（令和8年10月13日）動画を掲載しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/speech/minister-261013-01"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 8.1,
+      "ranking_score": 7.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-13T01:15:49+00:00"
+    },
+    {
+      "key": "domain:gigazine.net",
+      "title": "産業革命の時代にどうやって精度の高い「ねじ」を作り出したのか？",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://gigazine.net/news/20261013-how-machines-learned-precision/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
     }
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-13T01:15:49Z",
+    "generated_at": "2026-10-13T01:55:33Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
