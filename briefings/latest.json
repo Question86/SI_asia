@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T20:37:28+00:00",
-  "run_id": "2026-10-13T20:37:28+00:00",
+  "generated_at": "2026-10-13T20:48:46+00:00",
+  "run_id": "2026-10-13T20:48:46+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 95,
     "displayed_findings": 95,
     "high": 0,
@@ -4545,29 +4545,7 @@
       "id": "a65b746ca7dfd2226535"
     }
   ],
-  "new_findings": [
-    {
-      "title": "リバースエンジニアリングの産業革命-REA",
-      "url": "https://rea.tools/ja/blog/touhou-reconstruction/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-13T01:37:29+00:00",
-      "fetched_at": "2026-10-13T20:36:53+00:00",
-      "summary": "ホーム / ブログ /東方復興 エッセイ·東方復興 リバースエンジニアリングにおける産業革命。 によってN0zoM1z0•10 10月2026 要点 エージェントに調査の自律性を与えます。 明確な目標と合格基準を設定し、次に何を試すかをエージェントに決定させます。 リポジトリとGitを作業メモリとして使用します。 推論をコードで維...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "407893281ad5125e3e53"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
