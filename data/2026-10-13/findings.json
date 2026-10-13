@@ -1,5 +1,27 @@
 [
   {
+    "title": "AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性",
+    "url": "https://jvn.jp/jp/JVN38664315/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-10-13T12:00:00+09:00",
+    "fetched_at": "2026-10-13T03:07:47+00:00",
+    "summary": "株式会社ハンモックが提供するAssetViewには、重要なリソースに対する不適切なアクセス権の割り当ての脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "749f7897ca2a58be726a"
+  },
+  {
     "title": "Theliaにおける複数の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU99982995/",
     "source": "JVN Japan Vulnerability Notes",
@@ -20,6 +42,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "be451c168d343b482405"
+  },
+  {
+    "title": "US-China trade is entering an era of managed rivalry. Southeast Asian businesses should prepare for it",
+    "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-13T03:00:33+00:00",
+    "fetched_at": "2026-10-13T03:07:47+00:00",
+    "summary": "The most important change in US-China trade this year is not another tariff headline. It is the emergence of a more managed, transactional relationship between the world’s two largest economies. President Donald Trump’s May state visit to Beijing produced exactly that kind of arrangement. Washington and Beijing established new Boards of Trade and Investment, China […] The post US-China trade is entering an era of ma…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Macro/Policy",
+      "Southeast Asia"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0c16eaf470883193c0dd"
   },
   {
     "title": "Everyone is talking about AI adoption. But are enterprises actually ready for it?",
@@ -80,6 +124,42 @@
       "LOW"
     ],
     "id": "eb96019a0fd6bc55c010"
+  },
+  {
+    "title": "M 4.7 - 9 km SSE of La Mesa, Panama",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1y4",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-13T03:02:12.040+00:00",
+    "fetched_at": "2026-10-13T03:07:47+00:00",
+    "summary": "Time 2026-10-13 02:48:02 UTC 2026-10-13 02:48:02 UTC at epicenter Location 7.582°N 80.589°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5306e7347b150b7f92c4"
   },
   {
     "title": "M 4.8 - 21 km W of Río Grande, Panama",
