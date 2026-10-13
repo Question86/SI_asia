@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:02:49+00:00",
+  "generated_at": "2026-10-13T19:19:56+00:00",
   "sections": {
     "global_security": [
       {
@@ -27,6 +27,18 @@
         "published_at": "2026-10-13",
         "metrics": {
           "cve": "CVE-2026-104935"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-96951 Microsoft Windows",
+        "summary": "Known exploited vulnerability. Added 2026-10-13. Due 2026-10-16. Microsoft Windows Command Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-10-13",
+        "metrics": {
+          "cve": "CVE-2026-96951"
         }
       },
       {
@@ -63,18 +75,6 @@
         "published_at": "2026-10-08",
         "metrics": {
           "cve": "CVE-2023-22894"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2021-3199 ONLYOFFICE Docs",
-        "summary": "Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ONLYOFFICE Docs Server Path Traversal Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-08",
-        "metrics": {
-          "cve": "CVE-2021-3199"
         }
       },
       {
@@ -121,13 +121,13 @@
         "domain": "security",
         "severity": "medium",
         "title": "USGS earthquake M6.0 - 126 km S of Kokopo, Papua New Guinea",
-        "summary": "M6.0 - 126 km S of Kokopo, Papua New Guinea. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M6.0 - 126 km S of Kokopo, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u24c",
         "published_at": "2026-10-13T18:45:03+00:00",
         "metrics": {
           "mag": 6.0,
-          "alert": "",
+          "alert": "green",
           "sig": 554.0,
           "tsunami": 0
         }
@@ -165,20 +165,20 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone TWENTY-ONE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone TWENTY-ONE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:20.842km) in Papua New Guinea 13/10/2026 18:45 UTC, 4 thousand in MMI V.",
+        "summary": "Green earthquake (Magnitude 6M, Depth:20.842km) in Papua New Guinea 13/10/2026 18:45 UTC, 4 thousand in MMI V.",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001337",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571367",
         "published_at": "",
         "metrics": {}
       },
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).",
-        "summary": "Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).",
+        "title": "GDACS: Green notification for tropical cyclone TWENTY-ONE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "summary": "Green notification for tropical cyclone TWENTY-ONE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571161",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001337",
         "published_at": "",
         "metrics": {}
       }
