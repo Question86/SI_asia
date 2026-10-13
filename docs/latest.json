@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T14:04:26+00:00",
-  "run_id": "2026-10-13T14:04:26+00:00",
+  "generated_at": "2026-10-13T14:30:23+00:00",
+  "run_id": "2026-10-13T14:30:23+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 79
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
     "medium": 29,
-    "observe": 50,
+    "observe": 51,
     "source_errors": 0
   },
   "sections": {
@@ -1255,6 +1255,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fc895c85173cb8b0a8d1"
+      },
+      {
+        "title": "Introduction to the panel “Financial risks and macroprudential policy”",
+        "url": "https://www.bis.org/speeches/20261013-introduction-panel-financial-risks-and-macroprudential-policy",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "fetched_at": "2026-10-13T14:29:45+00:00",
+        "summary": "Introduction by Ms Clara Raposo, Vice-Governor of the Banco de Portugal, to the panel “Financial risks and macroprudential policy”, at the Banco de Portugal’s Conference on the Main Findings of Portugal's Financial Sector Assessment Program (FSAP), Lisbon, 22 September 2026.",
+        "matched_keywords": [
+          "macro",
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); macro (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "17c6401f1cf5090caf47"
       },
       {
         "title": "Intelligence-led financial crime prevention: the power of data, insights and collaboration",
@@ -3121,6 +3142,27 @@
       "id": "fc895c85173cb8b0a8d1"
     },
     {
+      "title": "Introduction to the panel “Financial risks and macroprudential policy”",
+      "url": "https://www.bis.org/speeches/20261013-introduction-panel-financial-risks-and-macroprudential-policy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "fetched_at": "2026-10-13T14:29:45+00:00",
+      "summary": "Introduction by Ms Clara Raposo, Vice-Governor of the Banco de Portugal, to the panel “Financial risks and macroprudential policy”, at the Banco de Portugal’s Conference on the Main Findings of Portugal's Financial Sector Assessment Program (FSAP), Lisbon, 22 September 2026.",
+      "matched_keywords": [
+        "macro",
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); macro (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "17c6401f1cf5090caf47"
+    },
+    {
       "title": "Intelligence-led financial crime prevention: the power of data, insights and collaboration",
       "url": "https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration",
       "source": "BIS Central Bankers Speeches",
@@ -3759,24 +3801,25 @@
   ],
   "new_findings": [
     {
-      "title": "Search and filter for budgets now available",
-      "url": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
-      "source": "GitHub Changelog Atom",
+      "title": "Introduction to the panel “Financial risks and macroprudential policy”",
+      "url": "https://www.bis.org/speeches/20261013-introduction-panel-financial-risks-and-macroprudential-policy",
+      "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
-      "published_at": "2026-10-13T12:06:09+00:00",
-      "fetched_at": "2026-10-13T14:03:53+00:00",
-      "summary": "The “Budgets and alerts” page in your GitHub billing settings now shows all of your budgets in one list that you can search and filter. Whether you manage budgets for… The post Search and filter for budgets now available appeared first on The GitHub Blog .",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "fetched_at": "2026-10-13T14:29:45+00:00",
+      "summary": "Introduction by Ms Clara Raposo, Vice-Governor of the Banco de Portugal, to the panel “Financial risks and macroprudential policy”, at the Banco de Portugal’s Conference on the Main Findings of Portugal's Financial Sector Assessment Program (FSAP), Lisbon, 22 September 2026.",
       "matched_keywords": [
-        "GitHub"
+        "macro",
+        "Macro/Policy"
       ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); macro (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a65b746ca7dfd2226535"
+      "id": "17c6401f1cf5090caf47"
     }
   ],
   "source_errors": [],

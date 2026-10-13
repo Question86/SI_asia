@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-10-13T14:04:30+00:00_
+_Generiert: 2026-10-13T14:30:30+00:00_
 
 ## Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework
 
-- Ranking Score: `28.6`
-- Raw Network Score: `47.1`
+- Ranking Score: `32.91`
+- Raw Network Score: `52.2`
 - Max Monitor Score: `18`
 - Reichweite: `institutional` / `5.0`
 - Early Signal: `nein`
@@ -13,7 +13,7 @@ _Generiert: 2026-10-13T14:04:30+00:00_
 - Quellen: BIS Central Bankers Speeches, BIS Press Releases
 - Klassen: central_bank, tier3_specialist
 - Cross-source bestaetigt: ja
-- Momentum: stable (+0)
+- Momentum: increasing (+1)
 - Erste Quelle: https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom
 - Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 
