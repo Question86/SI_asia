@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T17:46:21+00:00",
-  "run_id": "2026-10-13T17:46:21+00:00",
+  "generated_at": "2026-10-13T17:56:02+00:00",
+  "run_id": "2026-10-13T17:56:02+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 87,
     "displayed_findings": 87,
     "high": 0,
@@ -4181,41 +4181,7 @@
       "id": "a65b746ca7dfd2226535"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Security-Appliance: Angreifer nutzen Sicherheitslücke in Ivanti Connect Secure",
-      "url": "https://www.heise.de/news/Security-Appliance-Angreifer-nutzen-Sicherheitsluecke-in-Ivanti-Connect-Secure-11486827.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-13T17:38:00.000+00:00",
-      "fetched_at": "2026-10-13T17:45:49+00:00",
-      "summary": "Ivanti warnt vor einer Sicherheitslücke und bietet seit Anfang Oktober Updates an. Netzwerkadmins sollten diese schnell aufspielen, Angriffe laufen.",
-      "matched_keywords": [
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: Ivanti"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "405a501d974abce5c376"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
