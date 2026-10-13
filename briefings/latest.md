@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T06:02:20+00:00_
+_Generiert: 2026-10-13T07:40:49+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „M 5.1 - 119 km SSW of Gambiran Satu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+34 neue relevante Treffer. Stärkstes Signal: „Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-10-13T06:02:20+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
   - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. ProFTPD Improper Access Control Vulnerability
+- **GDACS: Green earthquake (Magnitude 6.7M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 05:44 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571248)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.7M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 05:44 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 6.2M, Depth:53.473km) in Papua New Guinea 11/10/2026 14:07 UTC, 3 thousand in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570810)
   - Quelle: GDACS
   - Zeit: ``
@@ -37,6 +41,10 @@ _Generiert: 2026-10-13T06:02:20+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Nepal
+- **USGS earthquake M6.7 - central Mid-Atlantic Ridge** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5)
+  - Quelle: USGS
+  - Zeit: `2026-10-13T05:44:46+00:00`
+  - Kurz: M6.7 - central Mid-Atlantic Ridge. PAGER alert: green. Tsunami flag: 0.
 - **USGS earthquake M6.1 - 17 km W of Río Grande, Panama** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1wn)
   - Quelle: USGS
   - Zeit: `2026-10-12T23:20:36+00:00`
@@ -53,10 +61,6 @@ _Generiert: 2026-10-13T06:02:20+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone TWENTYEIGHT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Volcanic eruption is on going for Kanlaon in Philippines** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000152)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Volcanic eruption is on going for Kanlaon in Philippines
 
 ## Wirtschaft global
 
@@ -73,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”** — Score 16, observation — [Quelle](https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-13T06:00:12+00:00`, fetched `2026-10-13T07:40:15+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Security, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
+  - Kurz: Southeast Asian companies are not short of money for AI. Most of them simply can’t get their projects past their own IT and security teams. That is the uncomfortable picture painted by the Southeast Asia findings of Adobe’s 2026 State of AI Readiness Report, released today. The study surveyed 461 senior executives in the region […] The post Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle” app…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.1 - 119 km SSW of Gambiran Satu, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-13T04:15:46.040+00:00`, fetched `2026-10-13T04:31:12+00:00`
@@ -100,6 +113,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Strapi: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-13T06:34:11+00:00`, fetched `2026-10-13T07:40:15+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Strapi ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsvorkehrungen zu umgehen und Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **US-China trade is entering an era of managed rivalry. Southeast Asian businesses should prepare for it** — Score 14, observation — [Quelle](https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-13T03:00:33+00:00`, fetched `2026-10-13T03:07:47+00:00`
@@ -175,6 +197,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - I Time 2026-10-12 23:36:46 UTC 2026-10-12 23:36:46 UTC at epicenter Location 7.736°N 81.527°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Opening remarks - Cargox Solution Day** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T07:40:15+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
+  - Kurz: Opening remarks by Mr Howard Lee, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Cargox Solution Day, Hong Kong, 5 October 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Intelligence-led financial crime prevention: the power of data, insights and collaboration** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T07:40:15+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
+  - Kurz: Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 16th International Conference on Financial Crime and Counter Terrorism Financing (IFCTF) 2026, Kuala Lumpur, 6 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Jetzt patchen! SonicWall SMA1000 im Fokus von Angreifern** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-13T07:09:00.000+00:00`, fetched `2026-10-13T07:40:15+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Derzeit nutzen Angreifer eine kritische Lücke in der Fernzugriffslösung SonicWall SMA1000 aus. Sicherheitsupdates sind verfügbar.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/numbering-on-accounts/designate)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-13T06:00:00+00:00`, fetched `2026-10-13T06:01:44+00:00`
@@ -202,6 +251,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「デジタル社会推進会議幹事会の開催について」の資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Leveraging the Mauritius IFC as a payment system hub** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20261013-leveraging-mauritius-ifc-payment-system-hub)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-13T07:40:15+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Speech by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, on “Leveraging the Mauritius IFC as a payment system hub”, at the Visa Direct Day, Flic-en-Flac, 17 June 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/13/2000002204/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-13T02:55:22+00:00`, fetched `2026-10-13T04:53:59+00:00`
@@ -220,34 +278,12 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: プログラマー／テクニカルライター クジラ飛行机（くじらひこうづくえ） 1976年生まれ。愛知県豊橋市出身。ソフト企画「くじらはんど」代表。2001年に日本語プログラミング言語「ひまわり」を手がけ、2004年には「未踏ユース」プロジェクトに採択され、後継となる「なでしこ」を開発。本業の傍ら、50冊以上の技術書を執...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃 温度が最高50度に上昇し食品大量廃棄に** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/13/2000002201/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-13T01:57:29+00:00`, fetched `2026-10-13T02:54:04+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: フランスのスーパーマーケットで10月11日夜から12日（現地時間）にかけて、冷蔵・冷凍設備を標的とする大規模なサイバー攻撃が発生した。報道によると、冷蔵設備の温度が最高50度に上昇し、生鮮食品や冷凍食品が大量に廃棄される被害が出ている。被害は数百店舗に及び、フランス当局が捜査を開始した。 Super UやHyper U...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Client telemetry user attribution and configurable capture** — Score 5, observation — [Quelle](https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-10-12T22:38:00+00:00`, fetched `2026-10-13T03:36:29+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); Copilot (+2.0); recent (+1.0)
-  - Kurz: Enterprise administrators can now use telemetry in managed settings to attribute GitHub Copilot activity to a user without collecting their prompts, responses, or tool content. The telemetry.capture.identity setting adds three… The post Client telemetry user attribution and configurable capture appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)

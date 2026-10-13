@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-13T06:02:20+00:00",
-  "run_id": "2026-10-13T06:02:20+00:00",
+  "generated_at": "2026-10-13T07:40:49+00:00",
+  "run_id": "2026-10-13T07:40:49+00:00",
   "date": "2026-10-13",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,40 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 8,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
-    "medium": 5,
-    "observe": 21,
-    "source_errors": 1
+    "medium": 7,
+    "observe": 27,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
+        "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-13T06:00:12+00:00",
+        "fetched_at": "2026-10-13T07:40:15+00:00",
+        "summary": "Southeast Asian companies are not short of money for AI. Most of them simply can’t get their projects past their own IT and security teams. That is the uncomfortable picture painted by the Southeast Asia findings of Adobe’s 2026 State of AI Readiness Report, released today. The study surveyed 461 senior executives in the region […] The post Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle” app…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Security",
+          "Southeast Asia"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0620b8453d7ac98b2294"
+      },
       {
         "title": "M 5.1 - 119 km SSW of Gambiran Satu, Indonesia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye",
@@ -109,6 +132,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "be451c168d343b482405"
+      },
+      {
+        "title": "[UPDATE] [hoch] Strapi: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-13T06:34:11+00:00",
+        "fetched_at": "2026-10-13T07:40:15+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Strapi ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsvorkehrungen zu umgehen und Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0e5afd50dafe28f438d6"
       },
       {
         "title": "US-China trade is entering an era of managed rivalry. Southeast Asian businesses should prepare for it",
@@ -395,6 +441,86 @@
         "id": "2f7b785ed49c1cd0ef43"
       },
       {
+        "title": "Opening remarks - Cargox Solution Day",
+        "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "fetched_at": "2026-10-13T07:40:15+00:00",
+        "summary": "Opening remarks by Mr Howard Lee, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Cargox Solution Day, Hong Kong, 5 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fc895c85173cb8b0a8d1"
+      },
+      {
+        "title": "Intelligence-led financial crime prevention: the power of data, insights and collaboration",
+        "url": "https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "fetched_at": "2026-10-13T07:40:15+00:00",
+        "summary": "Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 16th International Conference on Financial Crime and Counter Terrorism Financing (IFCTF) 2026, Kuala Lumpur, 6 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8758ceef5ff56fea933e"
+      },
+      {
+        "title": "Jetzt patchen! SonicWall SMA1000 im Fokus von Angreifern",
+        "url": "https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-10-13T07:09:00.000+00:00",
+        "fetched_at": "2026-10-13T07:40:15+00:00",
+        "summary": "Derzeit nutzen Angreifer eine kritische Lücke in der Fernzugriffslösung SonicWall SMA1000 aus. Sicherheitsupdates sind verfügbar.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "116ec1a65068d618c095"
+      },
+      {
+        "title": "Work from anywhere, work all the time: Inside Singapore’s flexibility paradox",
+        "url": "https://e27.co/work-from-anywhere-work-all-the-time-inside-singapores-flexibility-paradox-20261013/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-13T05:51:37+00:00",
+        "fetched_at": "2026-10-13T07:40:15+00:00",
+        "summary": "When Singapore’s offices emptied out in 2020, flexible work was sold as the cure for an overworked city. Employees would get their commutes back, set their own hours and finally see their families at dinner. Six years on, the cure appears to have come with side effects. According to the Jobstreet by SEEK Singapore Workplace […] The post Work from anywhere, work all the time: Inside Singapore’s flexibility paradox ap…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5348015838cfacae181a"
+      },
+      {
         "title": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
         "url": "https://www.digital.go.jp/policies/numbering-on-accounts/designate",
         "source": "Japan Digital Agency News RSS",
@@ -473,6 +599,46 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "67eae26145f39d26587b"
+      },
+      {
+        "title": "Leveraging the Mauritius IFC as a payment system hub",
+        "url": "https://www.bis.org/speeches/20261013-leveraging-mauritius-ifc-payment-system-hub",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "fetched_at": "2026-10-13T07:40:15+00:00",
+        "summary": "Speech by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, on “Leveraging the Mauritius IFC as a payment system hub”, at the Visa Direct Day, Flic-en-Flac, 17 June 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4f8875939f5ee40baccc"
+      },
+      {
+        "title": "Cross-border payments as a necessity for Africa's resilience and economic transformation",
+        "url": "https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-13T00:00:00+00:00",
+        "fetched_at": "2026-10-13T07:40:15+00:00",
+        "summary": "Opening remarks by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, at the workshop “Cross-border payments as a necessity for Africa's resilience and economic transformation”, organised by the FSB Regional Consultative Group for Sub-Saharan Africa (RCG SSA), Port Louis, 15 July 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "577d2bf33628d7264c7b"
       },
       {
         "title": "Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働",
@@ -646,6 +812,29 @@
   },
   "findings": [
     {
+      "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
+      "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-13T06:00:12+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "Southeast Asian companies are not short of money for AI. Most of them simply can’t get their projects past their own IT and security teams. That is the uncomfortable picture painted by the Southeast Asia findings of Adobe’s 2026 State of AI Readiness Report, released today. The study surveyed 461 senior executives in the region […] The post Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle” app…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Security",
+        "Southeast Asia"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0620b8453d7ac98b2294"
+    },
+    {
       "title": "M 5.1 - 119 km SSW of Gambiran Satu, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -725,6 +914,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "be451c168d343b482405"
+    },
+    {
+      "title": "[UPDATE] [hoch] Strapi: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-13T06:34:11+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Strapi ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsvorkehrungen zu umgehen und Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0e5afd50dafe28f438d6"
     },
     {
       "title": "US-China trade is entering an era of managed rivalry. Southeast Asian businesses should prepare for it",
@@ -1009,6 +1221,86 @@
       "id": "2f7b785ed49c1cd0ef43"
     },
     {
+      "title": "Opening remarks - Cargox Solution Day",
+      "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "Opening remarks by Mr Howard Lee, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Cargox Solution Day, Hong Kong, 5 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc895c85173cb8b0a8d1"
+    },
+    {
+      "title": "Intelligence-led financial crime prevention: the power of data, insights and collaboration",
+      "url": "https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 16th International Conference on Financial Crime and Counter Terrorism Financing (IFCTF) 2026, Kuala Lumpur, 6 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8758ceef5ff56fea933e"
+    },
+    {
+      "title": "Jetzt patchen! SonicWall SMA1000 im Fokus von Angreifern",
+      "url": "https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-13T07:09:00.000+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "Derzeit nutzen Angreifer eine kritische Lücke in der Fernzugriffslösung SonicWall SMA1000 aus. Sicherheitsupdates sind verfügbar.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "116ec1a65068d618c095"
+    },
+    {
+      "title": "Work from anywhere, work all the time: Inside Singapore’s flexibility paradox",
+      "url": "https://e27.co/work-from-anywhere-work-all-the-time-inside-singapores-flexibility-paradox-20261013/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-13T05:51:37+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "When Singapore’s offices emptied out in 2020, flexible work was sold as the cure for an overworked city. Employees would get their commutes back, set their own hours and finally see their families at dinner. Six years on, the cure appears to have come with side effects. According to the Jobstreet by SEEK Singapore Workplace […] The post Work from anywhere, work all the time: Inside Singapore’s flexibility paradox ap…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5348015838cfacae181a"
+    },
+    {
       "title": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
       "url": "https://www.digital.go.jp/policies/numbering-on-accounts/designate",
       "source": "Japan Digital Agency News RSS",
@@ -1087,6 +1379,46 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "67eae26145f39d26587b"
+    },
+    {
+      "title": "Leveraging the Mauritius IFC as a payment system hub",
+      "url": "https://www.bis.org/speeches/20261013-leveraging-mauritius-ifc-payment-system-hub",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "Speech by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, on “Leveraging the Mauritius IFC as a payment system hub”, at the Visa Direct Day, Flic-en-Flac, 17 June 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4f8875939f5ee40baccc"
+    },
+    {
+      "title": "Cross-border payments as a necessity for Africa's resilience and economic transformation",
+      "url": "https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "Opening remarks by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, at the workshop “Cross-border payments as a necessity for Africa's resilience and economic transformation”, organised by the FSB Regional Consultative Group for Sub-Saharan Africa (RCG SSA), Port Louis, 15 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "577d2bf33628d7264c7b"
     },
     {
       "title": "Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働",
@@ -1259,74 +1591,173 @@
   ],
   "new_findings": [
     {
-      "title": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
-      "url": "https://www.digital.go.jp/policies/numbering-on-accounts/designate",
-      "source": "Japan Digital Agency News RSS",
+      "title": "Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”",
+      "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-13T06:00:00+00:00",
-      "fetched_at": "2026-10-13T06:01:44+00:00",
-      "summary": "預貯金口座付番制度に係る一部手続きの対象外となる金融機関を更新しました",
+      "published_at": "2026-10-13T06:00:12+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "Southeast Asian companies are not short of money for AI. Most of them simply can’t get their projects past their own IT and security teams. That is the uncomfortable picture painted by the Southeast Asia findings of Adobe’s 2026 State of AI Readiness Report, released today. The study surveyed 461 senior executives in the region […] The post Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle” app…",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "AI/KI",
+        "APAC Trend Radar",
+        "Security",
+        "Southeast Asia"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d03cf920426b5574e2ac"
+      "id": "0620b8453d7ac98b2294"
     },
     {
-      "title": "マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました",
-      "url": "https://www.digital.go.jp/policies/mynumber_logo",
-      "source": "Japan Digital Agency News RSS",
+      "title": "[UPDATE] [hoch] Strapi: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-13T06:00:00+00:00",
-      "fetched_at": "2026-10-13T06:01:44+00:00",
-      "summary": "マイナンバー制度の広報用ロゴマーク等使用申請書を更新しました",
+      "published_at": "2026-10-13T06:34:11+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Strapi ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsvorkehrungen zu umgehen und Informationen offenzulegen.",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8d544cab5637bf8c46a1"
+      "id": "0e5afd50dafe28f438d6"
     },
     {
-      "title": "「デジタル社会推進会議幹事会の開催について」の資料を更新しました",
-      "url": "https://www.digital.go.jp/councils/social-promotion-executive",
-      "source": "Japan Digital Agency News RSS",
+      "title": "Intelligence-led financial crime prevention: the power of data, insights and collaboration",
+      "url": "https://www.bis.org/speeches/20261013-intelligence-led-financial-crime-prevention-power-data-insights-and-collaboration",
+      "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
-      "published_at": "2026-10-13T06:00:00+00:00",
-      "fetched_at": "2026-10-13T06:01:44+00:00",
-      "summary": "「デジタル社会推進会議幹事会の開催について」の資料を更新しました",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 16th International Conference on Financial Crime and Counter Terrorism Financing (IFCTF) 2026, Kuala Lumpur, 6 October 2026.",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Macro/Policy"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8758ceef5ff56fea933e"
+    },
+    {
+      "title": "Opening remarks - Cargox Solution Day",
+      "url": "https://www.bis.org/speeches/20261013-opening-remarks-cargox-solution-day",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "Opening remarks by Mr Howard Lee, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Cargox Solution Day, Hong Kong, 5 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "05f8a5b223e809ce3a36"
-    }
-  ],
-  "source_errors": [
+      "id": "fc895c85173cb8b0a8d1"
+    },
     {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
+      "title": "Jetzt patchen! SonicWall SMA1000 im Fokus von Angreifern",
+      "url": "https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
+      "published_at": "2026-10-13T07:09:00.000+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "Derzeit nutzen Angreifer eine kritische Lücke in der Fernzugriffslösung SonicWall SMA1000 aus. Sicherheitsupdates sind verfügbar.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "116ec1a65068d618c095"
+    },
+    {
+      "title": "Work from anywhere, work all the time: Inside Singapore’s flexibility paradox",
+      "url": "https://e27.co/work-from-anywhere-work-all-the-time-inside-singapores-flexibility-paradox-20261013/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-13T05:51:37+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "When Singapore’s offices emptied out in 2020, flexible work was sold as the cure for an overworked city. Employees would get their commutes back, set their own hours and finally see their families at dinner. Six years on, the cure appears to have come with side effects. According to the Jobstreet by SEEK Singapore Workplace […] The post Work from anywhere, work all the time: Inside Singapore’s flexibility paradox ap…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5348015838cfacae181a"
+    },
+    {
+      "title": "Cross-border payments as a necessity for Africa's resilience and economic transformation",
+      "url": "https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "Opening remarks by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, at the workshop “Cross-border payments as a necessity for Africa's resilience and economic transformation”, organised by the FSB Regional Consultative Group for Sub-Saharan Africa (RCG SSA), Port Louis, 15 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "577d2bf33628d7264c7b"
+    },
+    {
+      "title": "Leveraging the Mauritius IFC as a payment system hub",
+      "url": "https://www.bis.org/speeches/20261013-leveraging-mauritius-ifc-payment-system-hub",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "fetched_at": "2026-10-13T07:40:15+00:00",
+      "summary": "Speech by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, on “Leveraging the Mauritius IFC as a payment system hub”, at the Visa Direct Day, Flic-en-Flac, 17 June 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4f8875939f5ee40baccc"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

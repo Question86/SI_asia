@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-13T06:02:20+00:00_
+_Generated: 2026-10-13T07:40:49+00:00_
 
 ## Status
-- status: `warning`
-- findings: `26`
+- status: `normal`
+- findings: `34`
 
 ## Top Signals
 
-### 1. M 5.1 - 119 km SSW of Gambiran Satu, Indonesia
+### 1. Adobe study finds 57 per cent of SEA firms stuck in AI’s “Frozen Middle”
+- source: e27 Asia Startup and Tech Feed
+- score: `16`
+- published: `2026-10-13T06:00:12+00:00`
+- url: https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/
+- summary: Southeast Asian companies are not short of money for AI. Most of them simply can’t get their projects past their own IT and security teams. That is the uncomfortable picture painted by the Southeast Asia findings of Adobe’s 2026 State of AI Readiness Report,…
+
+### 2. M 5.1 - 119 km SSW of Gambiran Satu, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-13T04:15:46.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye
 - summary: Time 2026-10-13 04:00:15 UTC 2026-10-13 04:00:15 UTC at epicenter Location 9.447°S 113.889°E Depth 10.00 km (6.21 mi)
 
-### 2. AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性
+### 3. AssetViewにおける重要なリソースに対する不適切なアクセス権の割り当ての脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-10-13T12:00:00+09:00`
 - url: https://jvn.jp/jp/JVN38664315/
 - summary: 株式会社ハンモックが提供するAssetViewには、重要なリソースに対する不適切なアクセス権の割り当ての脆弱性が存在します。
 
-### 3. Theliaにおける複数の脆弱性
+### 4. Theliaにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-10-13T09:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU99982995/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
-
-### 4. US-China trade is entering an era of managed rivalry. Southeast Asian businesses should prepare for it
-- source: e27 Asia Startup and Tech Feed
-- score: `14`
-- published: `2026-10-13T03:00:33+00:00`
-- url: https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/
-- summary: The most important change in US-China trade this year is not another tariff headline. It is the emergence of a more managed, transactional relationship between the world’s two largest economies. President Donald Trump’s May state visit to Beijing produced exa…
 
 ### 5. M 6.1 - 18 km W of Río Grande, Panama
 - source: USGS M4.5+ Earthquakes Past Hour
