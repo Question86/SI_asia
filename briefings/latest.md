@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T11:51:35+00:00_
+_Generiert: 2026-10-13T12:02:04+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „open-webui/open-webui“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+68 neue relevante Treffer. Stärkstes Signal: „open-webui/open-webui“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
