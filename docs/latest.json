@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T15:25:51+00:00",
-  "run_id": "2026-10-13T15:25:51+00:00",
+  "generated_at": "2026-10-13T15:41:06+00:00",
+  "run_id": "2026-10-13T15:41:06+00:00",
   "date": "2026-10-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 83,
     "displayed_findings": 83,
     "high": 0,
@@ -3957,29 +3957,7 @@
       "id": "a65b746ca7dfd2226535"
     }
   ],
-  "new_findings": [
-    {
-      "title": "米Getty Imagesが破産申請へ AI画像の台頭で経営悪化、「報道写真」軸に年内の再建目指す",
-      "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002234/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-13T14:03:48+00:00",
-      "fetched_at": "2026-10-13T15:25:20+00:00",
-      "summary": "再建後は、創業家のゲッティ家と米投資会社Koch Equity Developmentの関連会社が株式を100％保有する。両者は最大5億3300万ドルを新たに出資するほか、債権者も金利負担の軽減や返済期限の延長などに応じた。 Getty Imagesを巡っては、競合の米Shutterstockとの合併が破談になったばかりだった。2025年1月に約37億ドル規...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "00917f9b679e53ae4d3b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
