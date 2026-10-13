@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-13T09:41:53+00:00_
+_Generiert: 2026-10-13T09:56:52+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „open-webui/open-webui“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+54 neue relevante Treffer. Stärkstes Signal: „open-webui/open-webui“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -260,6 +260,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
   - Kurz: Opening remarks by Mr Howard Lee, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Cargox Solution Day, Hong Kong, 5 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sicherheitslücke: DoS-Attacken auf IBM SPSS Modeler möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-13T09:40:00.000+00:00`, fetched `2026-10-13T09:56:25+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Zwei Schwachstellen in Apache OpenNLP bedrohen die Data-Mining-Software IBM SPSS Modeler.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **24 Sicherheitslücken in GitLab geschlossen** — Score 7, observation — [Quelle](https://www.heise.de/news/24-Sicherheitsluecken-in-GitLab-geschlossen-11485669.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-13T09:03:00.000+00:00`, fetched `2026-10-13T09:18:06+00:00`
@@ -304,15 +313,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「デジタル社会推進会議幹事会の開催について」の資料を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **公開アプリを解析してサーバーを攻撃する「A2B攻撃」、相次ぐ不正アクセスの原因の1つとしてにNICTが注意喚起** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/news/2147673.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-13T06:32:40+00:00`, fetched `2026-10-13T08:57:20+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 公開アプリを解析してサーバーを攻撃する「A2B攻撃」、相次ぐ不正アクセスの原因の1つとしてにNICTが注意喚起
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
