@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-13T12:57:10Z",
+  "generated_at": "2026-10-13T13:25:14Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
       "krass": 15,
-      "strong": 21,
-      "watch": 2
+      "strong": 20,
+      "watch": 3
     },
     "bands_after_gate_recheck": {
       "krass": 5,
-      "strong": 33,
-      "watch": 2
+      "strong": 32,
+      "watch": 3
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3747",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T10:12:18+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3861",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T09:22:06+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3891",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T12:04:11+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3881",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:59:40+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -123,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3853",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T09:22:06+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3747",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 45.95,
+      "age_days": 45.97,
       "topics": [
         "security"
       ],
@@ -159,12 +159,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 15.14,
+      "baseline_z_hint": 6.42,
       "security_high_signal": true,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 15.14",
+        "baseline z_hint 6.42",
         "high terms: rce, code",
         "security high-signal: rce, code",
         "aging penalty -8.0 for 46.0d old signal",
@@ -177,7 +177,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3619",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T12:00:15+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -201,7 +201,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3612",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T12:00:14+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -225,7 +225,7 @@
       "url": "https://jvn.jp/jp/JVN38664315/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T12:00:00+09:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -249,7 +249,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3880",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:59:38+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -273,7 +273,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0518",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T10:09:15+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -297,7 +297,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3837",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T09:22:05+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -321,7 +321,7 @@
       "url": "https://jvn.jp/vu/JVNVU99982995/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T09:00:00+09:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "security"
       ],
@@ -345,7 +345,7 @@
       "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
       "source": "BIS Central Bankers Speeches, BIS Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 116.93,
+      "age_days": 116.95,
       "topics": [
         "ai"
       ],
@@ -356,16 +356,16 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.85,
+      "baseline_z_hint": 9.45,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 4.85",
+        "baseline z_hint 9.45",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 116.9d old signal",
+        "aging penalty -8.0 for 117.0d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -375,7 +375,7 @@
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-13T08:00:25+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -404,7 +404,7 @@
       "url": "https://e27.co/adobe-study-finds-57-per-cent-of-sea-firms-stuck-in-ais-frozen-middle-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T06:00:12+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "security"
@@ -431,7 +431,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3882",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:59:40+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -457,7 +457,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3879",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:59:38+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -483,7 +483,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3878",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T11:59:17+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -509,7 +509,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2576",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T10:11:46+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -535,7 +535,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3833",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T09:22:05+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -561,7 +561,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1040",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T06:34:11+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -587,7 +587,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0935",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T10:09:18+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -612,7 +612,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3870",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T08:29:12+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -637,7 +637,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3863",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-13T08:29:11+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -662,7 +662,7 @@
       "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-13T12:37:35+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -690,7 +690,7 @@
       "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-13T12:03:17+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security",
@@ -718,7 +718,7 @@
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-13T08:01:10+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -743,7 +743,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T07:09:00.000+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -768,7 +768,7 @@
       "url": "https://jvn.jp/jp/JVN38664315/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T03:08:22+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -792,7 +792,7 @@
       "url": "https://jvn.jp/vu/JVNVU99982995/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-13T00:16:50+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -816,7 +816,7 @@
       "url": "https://e27.co/us-china-trade-is-entering-an-era-of-managed-rivalry-southeast-asian-businesses-should-prepare-for-it-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T03:08:22+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -840,7 +840,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u20i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T10:20:27.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -865,7 +865,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-13T04:15:46.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -890,7 +890,7 @@
       "url": "https://www.bis.org/speeches/20261013-modernizing-regulatory-and-supervisory-landscape",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "ai",
         "macro"
@@ -918,7 +918,7 @@
       "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-13T10:00:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -943,7 +943,7 @@
       "url": "https://e27.co/makeo-secures-us10m-to-scale-zenyums-dentist-network-across-asia-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-13T09:41:56+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -964,35 +964,35 @@
       "summary": ""
     },
     {
-      "title": "Client telemetry user attribution and configurable capture",
-      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-10-13T03:37:04+00:00",
-      "age_days": 0.39,
-      "topics": [],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "title": "Patchday SAP: Angreifer können Systeme übernehmen",
+      "url": "https://www.heise.de/news/Patchday-SAP-Angreifer-koennen-Systeme-uebernehmen-11486228.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-10-13T12:39:00.000+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
+        "security high-signal: security, cloud"
       ],
-      "summary": ""
+      "summary": "Es sind wichtige Sicherheitsupdates unter anderem für SAP Cloud SDK for Python erschienen. Admins sollten zeitnah handeln."
     },
     {
       "title": "Sicherheitslücke: DoS-Attacken auf IBM SPSS Modeler möglich",
       "url": "https://www.heise.de/news/Sicherheitsluecke-DoS-Attacken-auf-IBM-SPSS-Modeler-moeglich-11485855.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T09:40:00.000+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -1016,7 +1016,7 @@
       "url": "https://www.heise.de/news/24-Sicherheitsluecken-in-GitLab-geschlossen-11485669.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-13T09:03:00.000+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
