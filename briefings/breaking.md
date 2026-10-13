@@ -1,21 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-13T13:03:04+00:00_
-
-## Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework
-
-- Ranking Score: `32.78`
-- Raw Network Score: `50.1`
-- Max Monitor Score: `18`
-- Reichweite: `institutional` / `5.0`
-- Early Signal: `nein`
-- Dominanter Emitter: `ja`
-- Quellen: BIS Central Bankers Speeches, BIS Press Releases
-- Klassen: central_bank, tier3_specialist
-- Cross-source bestaetigt: ja
-- Momentum: increasing (+1)
-- Erste Quelle: https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom
-- Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
+_Generiert: 2026-10-13T13:32:33+00:00_
 
 ## Code scanning AI Scan metrics in security overview
 
@@ -31,4 +16,19 @@ _Generiert: 2026-10-13T13:03:04+00:00_
 - Momentum: stable (+0)
 - Erste Quelle: https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
+
+## Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework
+
+- Ranking Score: `28.92`
+- Raw Network Score: `47.1`
+- Max Monitor Score: `18`
+- Reichweite: `institutional` / `5.0`
+- Early Signal: `nein`
+- Dominanter Emitter: `ja`
+- Quellen: BIS Central Bankers Speeches, BIS Press Releases
+- Klassen: central_bank, tier3_specialist
+- Cross-source bestaetigt: ja
+- Momentum: stable (+0)
+- Erste Quelle: https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom
+- Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 
