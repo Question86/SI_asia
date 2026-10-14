@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T05:35:46+00:00",
+  "generated_at": "2026-10-14T06:10:06+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -2102,6 +2102,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_2050b1c34ea62388cc16",
+      "title": "vercel-labs/skills",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_208d0630da687bcda4e6",
@@ -7452,12 +7463,12 @@
     {
       "event_id": "evt_7027650dea3aed9042f2",
       "title": "Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -16742,7 +16753,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_fe8dfc9d7db2b012409c",
