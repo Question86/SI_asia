@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-14T08:02:21+00:00",
+  "generated_at": "2026-10-14T08:30:27+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 4,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 0,
-    "medium": 14,
-    "observe": 25
+    "medium": 15,
+    "observe": 28
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://github.com/vercel-labs/skills",
       "summary": "The open agent skills tool - npx skills https://skills.sh skills The CLI for the open agent skills ecosystem. Supports OpenCode , Claude Code , Codex , Cursor , and 75 more . Install a Skill npx skills add vercel-labs/agent-skills Use a Skill Without Installi…",
+      "section": "medium"
+    },
+    {
+      "title": "Singapore’s next AI industry may be the people who check the agents",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-14T08:08:56+00:00",
+      "relevance_score": 22,
+      "url": "https://e27.co/singapores-next-ai-industry-may-be-the-people-who-check-the-agents-20261014/",
+      "summary": "An AI chatbot that drafts a bad email is an embarrassment. An AI agent that sends it, to the wrong customer, with the wrong file attached, after approving the wrong refund, is a liability. Singapore’s regulators have clearly been losing sleep over the second…",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 19,
       "url": "https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/",
       "summary": "Singapore’s war on scams has mostly been fought far from the victim: in police operations centres, bank back offices and, more recently, in rulebooks telling platforms what they must block. Now the city-state wants part of that fight to happen inside the phon…",
-      "section": "medium"
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月13日）",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-14T13:30:40+09:00",
-      "relevance_score": 16,
-      "url": "https://jvn.jp/vu/JVNVU92045336/",
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
       "section": "medium"
     },
     {
@@ -100,143 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=52.71.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45",
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260091.en.html",
-        "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 117.74,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 52.71,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 2,
-        "momentum_delta": 3,
-        "baseline_z_hint": 10.53,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "source breadth +2",
-          "momentum delta +3",
-          "baseline z_hint 10.53",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 117.7d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月13日）",
-        "url": "https://jvn.jp/vu/JVNVU92045336/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-14T13:30:40+09:00",
-        "age_days": 0.16,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "[NEU] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3893",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-14T07:49:11+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft .NET Framework, Microsoft .NET, Microsoft ASP.NET, Microsoft Visual Studio 2022, Microsoft Visual Studio 2026, Microsoft Visual Studio Code, Microsoft SysInternals und Microsoft PowerShell ausnutzen, um seine Privilegien zu erhöhen, um Code auszuführen, um Informa…"
-      },
-      {
-        "title": "[NEU] [kritisch] Microsoft Windows und Windows Server: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3892",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-14T07:34:11+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: kritisch, code",
-          "security high-signal: kritisch, code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in verschiedenen Versionen von Microsoft Windows Server und Microsoft Windows ausnutzen, um seine Privilegien auf administrative Rechte zu erhöhen, um beliebigen Code auszuführen, um Informationen offenzulegen, um einen Denial of Service herbeizuführen, um…"
-      },
-      {
-        "title": "Security Alert: Microsoft Releases October 2026 Security Updates",
-        "url": "https://www.jpcert.or.jp/english/at/2026/at260031.html",
-        "source": "JPCERT/CC English Alerts",
-        "published_at": "2026-10-14T03:16:57+00:00",
-        "age_days": 0.21,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "security high-signal: security, microsoft"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

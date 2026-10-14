@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-14T08:02:21+00:00_
+_Generated: 2026-10-14T08:30:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `43`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-14T08:02:21+00:00_
 - url: https://github.com/vercel-labs/skills
 - summary: The open agent skills tool - npx skills https://skills.sh skills The CLI for the open agent skills ecosystem. Supports OpenCode , Claude Code , Codex , Cursor , and 75 more . Install a Skill npx skills add vercel-labs/agent-skills Use a Skill Without Installi…
 
-### 2. Can AI cut the US$170 billion cost of buying and selling homes?
+### 2. Singapore’s next AI industry may be the people who check the agents
+- source: e27 Asia Startup and Tech Feed
+- score: `22`
+- published: `2026-10-14T08:08:56+00:00`
+- url: https://e27.co/singapores-next-ai-industry-may-be-the-people-who-check-the-agents-20261014/
+- summary: An AI chatbot that drafts a bad email is an embarrassment. An AI agent that sends it, to the wrong customer, with the wrong file attached, after approving the wrong refund, is a liability. Singapore’s regulators have clearly been losing sleep over the second…
+
+### 3. Can AI cut the US$170 billion cost of buying and selling homes?
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-10-14T01:30:26+00:00`
 - url: https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/
 - summary: In 2024, Americans spent about US$170 billion on real estate commissions and other costs involved in transferring ownership of homes. The Bureau of Economic Analysis estimate, cited by the Federal Reserve, is equal to roughly 0.6 per cent of US GDP. This is m…
 
-### 3. Singapore wants Google’s AI to catch scammers before victims hit send
+### 4. Singapore wants Google’s AI to catch scammers before victims hit send
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-10-14T05:00:10+00:00`
 - url: https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/
 - summary: Singapore’s war on scams has mostly been fought far from the victim: in police operations centres, bank back offices and, more recently, in rulebooks telling platforms what they must block. Now the city-state wants part of that fight to happen inside the phon…
-
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年10月13日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-10-14T13:30:40+09:00`
-- url: https://jvn.jp/vu/JVNVU92045336/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
 ### 5. Manus came home, and Singapore couldn’t stop it
 - source: e27 Asia Startup and Tech Feed
