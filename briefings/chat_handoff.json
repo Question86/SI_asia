@@ -1,31 +1,64 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-14T00:31:26+00:00",
+  "generated_at": "2026-10-14T01:09:17+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 0,
-    "displayed_findings": 0,
+    "new_relevant_findings": 4,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 0,
-    "observe": 0
+    "observe": 4
   },
   "source_errors_count": 0,
-  "top_signals": [],
+  "top_signals": [
+    {
+      "title": "M 5.0 - 95 km NNW of Coquimbo, Chile",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-14T01:06:37.971+00:00",
+      "relevance_score": 11,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f",
+      "summary": "DYFI? - III Time 2026-10-14 00:36:45 UTC 2026-10-14 00:36:45 UTC at epicenter Location 29.218°S 71.843°W Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
+      "title": "M 5.1 - 92 km NW of La Serena, Chile",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-14T01:03:31.006+00:00",
+      "relevance_score": 11,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26c",
+      "summary": "DYFI? - III Time 2026-10-14 00:30:47 UTC 2026-10-14 00:30:47 UTC at epicenter Location 29.214°S 71.789°W Depth 19.22 km (11.94 mi)",
+      "section": "observe"
+    },
+    {
+      "title": "AI、家電乗っ取り増殖の恐れ アンソロピック「デジタル粘菌」と警告 - 日本経済新聞",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-13T23:42:29+00:00",
+      "relevance_score": 11,
+      "url": "https://www.nikkei.com/article/DGXZQOGN140170U6A011C2000000/",
+      "summary": "【シリコンバレー=山田遼太郎】米アンソロピックは12日、人工知能（AI）がインターネット接続するテレビなどのスマート家電を乗っ取り、自ら増殖する能力を持つ可能性があると警告した。無数の機器に「粘菌」のようにAIが広がれば、セキュリティーリスクを生むと指摘した。同社でAIの安全対策などに取り組む研究者らがブ...",
+      "section": "observe"
+    },
+    {
+      "title": "The new value test for investors: What founders are actually buying when they take your cheque",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-14T01:00:05+00:00",
+      "relevance_score": 6,
+      "url": "https://e27.co/the-new-value-test-for-investors-what-founders-are-actually-buying-when-they-take-your-cheque-20260916/",
+      "summary": "A founder I know recently received two term sheets in the same week. The first was from a regional VC firm with a recognisable brand. The cheque was for US$1.5 million. The terms were reasonable. The partner had introduced himself at a conference six months e…",
+      "section": "observe"
+    }
+  ],
   "next_read_order": [
     "briefings/chat_handoff.json",
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Keine verwertbaren Dynamiken im aktuellen Run.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": []
-  }
+  ]
 }
