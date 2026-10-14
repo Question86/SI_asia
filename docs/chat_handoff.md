@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-14T05:35:14+00:00_
+_Generated: 2026-10-14T06:09:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `31`
 
 ## Top Signals
 
-### 1. Can AI cut the US$170 billion cost of buying and selling homes?
+### 1. vercel-labs/skills
+- source: GitHub Trending RSS All Languages Daily
+- score: `23`
+- published: `None`
+- url: https://github.com/vercel-labs/skills
+- summary: The open agent skills tool - npx skills https://skills.sh skills The CLI for the open agent skills ecosystem. Supports OpenCode , Claude Code , Codex , Cursor , and 75 more . Install a Skill npx skills add vercel-labs/agent-skills Use a Skill Without Installi…
+
+### 2. Can AI cut the US$170 billion cost of buying and selling homes?
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-10-14T01:30:26+00:00`
 - url: https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/
 - summary: In 2024, Americans spent about US$170 billion on real estate commissions and other costs involved in transferring ownership of homes. The Bureau of Economic Analysis estimate, cited by the Federal Reserve, is equal to roughly 0.6 per cent of US GDP. This is m…
 
-### 2. Singapore wants Google’s AI to catch scammers before victims hit send
+### 3. Singapore wants Google’s AI to catch scammers before victims hit send
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-10-14T05:00:10+00:00`
 - url: https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/
 - summary: Singapore’s war on scams has mostly been fought far from the victim: in police operations centres, bank back offices and, more recently, in rulebooks telling platforms what they must block. Now the city-state wants part of that fight to happen inside the phon…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年10月13日）
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年10月13日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-10-14T13:30:40+09:00`
 - url: https://jvn.jp/vu/JVNVU92045336/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. Siemens製品に対するアップデート（2026年10月）
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-14T13:30:50+09:00`
-- url: https://jvn.jp/vu/JVNVU90141693/
-- summary: Siemensから各製品向けのアドバイザリが公表されました。
 
 ### 5. Manus came home, and Singapore couldn’t stop it
 - source: e27 Asia Startup and Tech Feed

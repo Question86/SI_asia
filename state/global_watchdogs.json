@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T05:35:18+00:00",
+  "generated_at": "2026-10-14T06:09:37+00:00",
   "sections": {
     "global_security": [
       {
@@ -96,21 +96,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571248",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "USGS earthquake M6.7 - central Mid-Atlantic Ridge",
-        "summary": "M6.7 - central Mid-Atlantic Ridge. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5",
-        "published_at": "2026-10-13T05:44:46+00:00",
-        "metrics": {
-          "mag": 6.7,
-          "alert": "green",
-          "sig": 691.0,
-          "tsunami": 0
-        }
       },
       {
         "domain": "security",
