@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-14T01:09:17+00:00",
+  "generated_at": "2026-10-14T01:30:37+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 4,
     "displayed_findings": 4,
     "high": 0,
@@ -60,140 +60,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “The new value test for investors: What founders are actually buying when they take your cheque” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "The new value test for investors: What founders are actually buying when they take your cheque",
-        "url": "https://e27.co/the-new-value-test-for-investors-what-founders-are-actually-buying-when-they-take-your-cheque-20260916/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-14T01:09:21+00:00",
-        "age_days": 0.0,
-        "topics": [
-          "axiom"
-        ],
-        "dynamics_score": 26.5,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 5.0 - 95 km NNW of Coquimbo, Chile",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-14T01:06:37.971+00:00",
-        "age_days": 0.0,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "DYFI? - III Time 2026-10-14 00:36:45 UTC 2026-10-14 00:36:45 UTC at epicenter Location 29.218°S 71.843°W Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 5.1 - 92 km NW of La Serena, Chile",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26c",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-14T01:03:31.006+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "DYFI? - III Time 2026-10-14 00:30:47 UTC 2026-10-14 00:30:47 UTC at epicenter Location 29.214°S 71.789°W Depth 19.22 km (11.94 mi)"
-      },
-      {
-        "title": "The new value test for investors: What founders are actually buying when they take your cheque",
-        "url": "https://e27.co/the-new-value-test-for-investors-what-founders-are-actually-buying-when-they-take-your-cheque-20260916/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-14T01:00:05+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "axiom"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: regional",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "A founder I know recently received two term sheets in the same week. The first was from a regional VC firm with a recognisable brand. The cheque was for US$1.5 million. The terms were reasonable. The partner had introduced himself at a conference six months earlier and had been pleasant in every interaction since. The…"
-      },
-      {
-        "title": "M 5.1 - 92 km NW of La Serena, Chile",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26c",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-03T06:37:14+00:00",
-        "age_days": 40.77,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 16.67,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.9,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.90",
-          "aging penalty -6.9 for 40.8d old signal"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

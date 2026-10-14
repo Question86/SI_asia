@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T01:09:21+00:00",
+  "generated_at": "2026-10-14T01:30:43+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3944,7 +3944,7 @@
     },
     "domain:www.nikkei.com": {
       "title": "AI、家電乗っ取り増殖の恐れ アンソロピック「デジタル粘菌」と警告 - 日本経済新聞",
-      "updated_at": "2026-10-14T01:09:21+00:00",
+      "updated_at": "2026-10-14T01:30:43+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -3961,7 +3961,6 @@
         9.1,
         9.1,
         9.1,
-        9.1,
         12.1,
         9.1,
         9.1,
@@ -3975,12 +3974,13 @@
         9.1,
         9.1,
         9.1,
-        16.1
+        16.1,
+        13.1
       ],
-      "rolling_average": 9.53,
+      "rolling_average": 9.67,
       "rolling_peak": 16.1,
-      "last_score": 16.1,
-      "z_hint": 6.57
+      "last_score": 13.1,
+      "z_hint": 3.43
     },
     "title:economy-moving-faster-than-our-institutions": {
       "title": "The AI economy is moving faster than our institutions",
@@ -15568,7 +15568,7 @@
     },
     "earthquake:chile:5.1": {
       "title": "M 5.1 - 92 km NW of La Serena, Chile",
-      "updated_at": "2026-10-14T01:09:21+00:00",
+      "updated_at": "2026-10-14T01:30:43+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -15598,13 +15598,13 @@
         13.7,
         13.7,
         13.7,
-        13.7,
-        16.7
+        16.7,
+        13.7
       ],
       "rolling_average": 13.8,
       "rolling_peak": 16.7,
-      "last_score": 16.7,
-      "z_hint": 2.9
+      "last_score": 13.7,
+      "z_hint": -0.1
     },
     "url:https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5": {
       "title": "民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました",
@@ -72177,25 +72177,27 @@
     },
     "earthquake:chile:5.0": {
       "title": "M 5.0 - 95 km NNW of Coquimbo, Chile",
-      "updated_at": "2026-10-14T01:09:21+00:00",
+      "updated_at": "2026-10-14T01:30:43+00:00",
       "network_scores": [
-        16.7
+        16.7,
+        13.7
       ],
-      "rolling_average": 16.7,
+      "rolling_average": 15.2,
       "rolling_peak": 16.7,
-      "last_score": 16.7,
-      "z_hint": 0.0
+      "last_score": 13.7,
+      "z_hint": -1.5
     },
     "title:value-test-investors-what-founders-are-actually-buying": {
       "title": "The new value test for investors: What founders are actually buying when they take your cheque",
-      "updated_at": "2026-10-14T01:09:21+00:00",
+      "updated_at": "2026-10-14T01:30:43+00:00",
       "network_scores": [
-        11.1
+        11.1,
+        8.1
       ],
-      "rolling_average": 11.1,
+      "rolling_average": 9.6,
       "rolling_peak": 11.1,
-      "last_score": 11.1,
-      "z_hint": 0.0
+      "last_score": 8.1,
+      "z_hint": -1.5
     }
   }
 }
