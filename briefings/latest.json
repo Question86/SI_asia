@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T22:30:02+00:00",
-  "run_id": "2026-10-14T22:30:02+00:00",
+  "generated_at": "2026-10-14T22:41:21+00:00",
+  "run_id": "2026-10-14T22:41:21+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 83,
     "displayed_findings": 83,
     "high": 1,
@@ -4088,29 +4088,7 @@
       "id": "6601618a19ff4fb18a08"
     }
   ],
-  "new_findings": [
-    {
-      "title": "仕組みを動く図で説明するエージェントスキルAnatomy公開 | gihyo.jp",
-      "url": "https://gihyo.jp/article/2026/10/anatomy",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-14T13:35:02+00:00",
-      "fetched_at": "2026-10-14T22:29:33+00:00",
-      "summary": "開発者のRyan氏（@wheresryan22）は2026年10月10日、さまざまな仕組みを動く図で説明するエージェントスキル「Anatomy」をXで紹介した。作りたい機械や説明したい概念を伝えると、AIエージェントが部品の形状や動作を設計して図を生成する。ポインターやキーボードの操作に応じて部品が動く図も作れる。 図はSVGファイル...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f34b4ff83ecdb444327f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
