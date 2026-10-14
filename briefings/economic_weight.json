@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T03:17:16+00:00",
+  "generated_at": "2026-10-14T03:37:49+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -396,7 +396,7 @@
       "p90_usd": 1080000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T02:47:43+00:00",
-      "last_seen_at": "2026-10-14T03:16:57+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
       "status": "active"
     },
     {
@@ -1171,7 +1171,7 @@
       "p90_usd": 108800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T01:09:21+00:00",
-      "last_seen_at": "2026-10-14T03:16:57+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
       "status": "active"
     },
     {
@@ -2463,7 +2463,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T06:37:14+00:00",
-      "last_seen_at": "2026-10-14T03:16:57+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
       "status": "active"
     },
     {
@@ -3279,7 +3279,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-14T01:09:21+00:00",
-      "last_seen_at": "2026-10-14T03:16:57+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
       "status": "active"
     },
     {
@@ -3740,6 +3740,23 @@
       "first_seen_at": "2026-09-29T10:50:43+00:00",
       "last_seen_at": "2026-09-29T19:18:52+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_5418b6f268ff708f3b3f",
+      "title": "M 4.9 - 16 km WSW of La Tirana, Chile",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-14T03:37:31+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_00e85c3d2c185ba34101",
@@ -4622,7 +4639,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-14T02:47:43+00:00",
-      "last_seen_at": "2026-10-14T03:16:57+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
       "status": "active"
     },
     {
@@ -7839,6 +7856,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f0daa8968bcaae138739",
+      "title": "M 4.8 - North Atlantic Ocean",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-14T03:37:31+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -8974,7 +9008,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T02:00:26+00:00",
-      "last_seen_at": "2026-10-14T03:16:57+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
       "status": "active"
     },
     {
@@ -9027,6 +9061,23 @@
       "first_seen_at": "2026-09-10T06:31:46+00:00",
       "last_seen_at": "2026-09-10T23:56:51+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e1441965dd9de50427c1",
+      "title": "楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-14T03:16:57+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_e829cfd9fccf2b0ceb16",
@@ -9095,23 +9146,6 @@
       "first_seen_at": "2026-10-07T13:58:07+00:00",
       "last_seen_at": "2026-10-07T23:54:54+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_e1441965dd9de50427c1",
-      "title": "楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-14T03:16:57+00:00",
-      "last_seen_at": "2026-10-14T03:16:57+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -9314,7 +9348,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T03:16:57+00:00",
-      "last_seen_at": "2026-10-14T03:16:57+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
       "status": "active"
     },
     {
@@ -10113,7 +10147,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T01:51:27+00:00",
-      "last_seen_at": "2026-10-14T03:16:57+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
       "status": "active"
     },
     {
@@ -10589,7 +10623,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-14T03:16:57+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
       "status": "active"
     },
     {
@@ -12544,7 +12578,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T01:51:27+00:00",
-      "last_seen_at": "2026-10-14T03:16:57+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
       "status": "active"
     },
     {
@@ -16612,6 +16646,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ff149116a28604153329",
+      "title": "Security Alert: Microsoft Releases October 2026 Security Updates",
+      "event_classes": [
+        "product_release"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-14T03:16:57+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_ffd8649f99bfc029d209",
       "title": "A*STAR and EDB unveil SG Semiconductor as partnerships target AI-era chis",
       "event_classes": [
@@ -16627,23 +16678,6 @@
       "first_seen_at": "2026-09-28T06:50:23+00:00",
       "last_seen_at": "2026-09-28T18:49:20+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_ff149116a28604153329",
-      "title": "Security Alert: Microsoft Releases October 2026 Security Updates",
-      "event_classes": [
-        "product_release"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112000.0,
-      "p50_usd": 11200000.0,
-      "p90_usd": 1120000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-14T03:16:57+00:00",
-      "last_seen_at": "2026-10-14T03:16:57+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_03377f8133c052e61312",
@@ -19265,6 +19299,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f1d54b0f4d3b50bfb822",
+      "title": "While the West invests in longevity, Southeast Asia still pays cash for the basics",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-14T03:16:57+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f28cd82d792d72cfd6ec",
       "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
       "event_classes": [
@@ -19365,23 +19416,6 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_f1d54b0f4d3b50bfb822",
-      "title": "While the West invests in longevity, Southeast Asia still pays cash for the basics",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-14T03:16:57+00:00",
-      "last_seen_at": "2026-10-14T03:16:57+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_041397919a21c7984d11",
@@ -24688,6 +24722,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_eb090b84bb62a598fa21",
+      "title": "無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-14T03:16:57+00:00",
+      "last_seen_at": "2026-10-14T03:37:31+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_eb16236e5ba8a531e765",
       "title": "nginxで502が稀に発生する原因はkeepalive接続",
       "event_classes": [
@@ -25077,23 +25128,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_eb090b84bb62a598fa21",
-      "title": "無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-14T03:16:57+00:00",
-      "last_seen_at": "2026-10-14T03:16:57+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
