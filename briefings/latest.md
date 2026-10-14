@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T14:23:26+00:00_
+_Generiert: 2026-10-14T14:37:12+00:00_
 
 ## Kurzlage
 
@@ -41,10 +41,10 @@ _Generiert: 2026-10-14T14:23:26+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Libya
-- **GDACS: Green flood alert in Türkiye** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104230)
+- **GDACS: Orange notification for tropical cyclone TWENTYNINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.177 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001338)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Türkiye
+  - Kurz: Orange notification for tropical cyclone TWENTYNINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.177 million .
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:585.07km) in Fiji 14/10/2026 10:49 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571524)
   - Quelle: GDACS
   - Zeit: ``
