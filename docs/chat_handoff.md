@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-14T04:59:56+00:00_
+_Generated: 2026-10-14T05:21:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `28`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-14T04:59:56+00:00_
 - url: https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/
 - summary: In 2024, Americans spent about US$170 billion on real estate commissions and other costs involved in transferring ownership of homes. The Bureau of Economic Analysis estimate, cited by the Federal Reserve, is equal to roughly 0.6 per cent of US GDP. This is m…
 
-### 2. CISA ICS Advisory / ICS Medical Advisory（2026年10月13日）
+### 2. Singapore wants Google’s AI to catch scammers before victims hit send
+- source: e27 Asia Startup and Tech Feed
+- score: `19`
+- published: `2026-10-14T05:00:10+00:00`
+- url: https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/
+- summary: Singapore’s war on scams has mostly been fought far from the victim: in police operations centres, bank back offices and, more recently, in rulebooks telling platforms what they must block. Now the city-state wants part of that fight to happen inside the phon…
+
+### 3. CISA ICS Advisory / ICS Medical Advisory（2026年10月13日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-10-14T13:30:40+09:00`
 - url: https://jvn.jp/vu/JVNVU92045336/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. Siemens製品に対するアップデート（2026年10月）
+### 4. Siemens製品に対するアップデート（2026年10月）
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-10-14T13:30:50+09:00`
 - url: https://jvn.jp/vu/JVNVU90141693/
 - summary: Siemensから各製品向けのアドバイザリが公表されました。
-
-### 4. KomodoサーバーのエージェントPeripheryにおけるOSコマンドインジェクションの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-14T13:30:30+09:00`
-- url: https://jvn.jp/vu/JVNVU96061614/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. Manus came home, and Singapore couldn’t stop it
 - source: e27 Asia Startup and Tech Feed

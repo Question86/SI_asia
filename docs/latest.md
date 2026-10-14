@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T04:59:56+00:00_
+_Generiert: 2026-10-14T05:21:54+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+28 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: In 2024, Americans spent about US$170 billion on real estate commissions and other costs involved in transferring ownership of homes. The Bureau of Economic Analysis estimate, cited by the Federal Reserve, is equal to roughly 0.6 per cent of US GDP. This is money spent not on the homes themselves, but largely on changing who […] The post Can AI cut the US$170 billion cost of buying and selling homes? appeared first…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Singapore wants Google’s AI to catch scammers before victims hit send** — Score 19, risk — [Quelle](https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-14T05:00:10+00:00`, fetched `2026-10-14T05:21:26+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Reputationsrisiko
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore’s war on scams has mostly been fought far from the victim: in police operations centres, bank back offices and, more recently, in rulebooks telling platforms what they must block. Now the city-state wants part of that fight to happen inside the phone itself. Google on Wednesday announced two initiatives with the Singapore Government, unveiled […] The post Singapore wants Google’s AI to catch scammers befor…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年10月13日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU92045336/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-14T13:30:40+09:00`, fetched `2026-10-14T04:40:34+00:00`

@@ -1,15 +1,53 @@
 {
-  "generated_at": "2026-10-14T04:59:59+00:00",
+  "generated_at": "2026-10-14T05:21:56+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 27,
-    "clusters": 27,
+    "findings": 28,
+    "clusters": 28,
     "cross_source_confrmed": 0,
-    "hot": 0,
-    "early_signals": 4,
+    "hot": 1,
+    "early_signals": 1,
     "dominance_penalized": 5
   },
   "clusters": [
+    {
+      "key": "title:singapore-wants-google-catch-scammers-before-victims-hit",
+      "title": "Singapore wants Google’s AI to catch scammers before victims hit send",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/"
+      ],
+      "finding_count": 1,
+      "max_score": 19,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 28.5,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 24.1,
+      "ranking_score": 28.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-14T05:21:56+00:00"
+    },
     {
       "key": "title:can-cut-170-billion-cost-buying-selling-homes",
       "title": "Can AI cut the US$170 billion cost of buying and selling homes?",
@@ -47,158 +85,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-14T01:51:27+00:00"
-    },
-    {
-      "key": "title:komodo-periphery",
-      "title": "KomodoサーバーのエージェントPeripheryにおけるOSコマンドインジェクションの脆弱性",
-      "sources": [
-        "JVN Japan Vulnerability Notes"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://jvn.jp/vu/JVNVU96061614/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 21.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-14T04:41:10+00:00"
-    },
-    {
-      "key": "title:lowcoder-query-library-api",
-      "title": "Lowcoder Query Library APIにおける認可回避の脆弱性",
-      "sources": [
-        "JVN Japan Vulnerability Notes"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://jvn.jp/vu/JVNVU91984971/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 21.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-14T04:41:10+00:00"
-    },
-    {
-      "key": "title:openssl-apple-libressl-pyca-wolfssl-rfc-5280",
-      "title": "Go、OpenSSL、Apple、LibreSSL、pyca、wolfSSLのRFC 5280実装における名前制約が不整合である脆弱性",
-      "sources": [
-        "JVN Japan Vulnerability Notes"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://jvn.jp/vu/JVNVU91265939/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 21.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-14T04:41:10+00:00"
-    },
-    {
-      "key": "title:shopware",
-      "title": "Shopwareにおけるクロスサイトスクリプティングの脆弱性",
-      "sources": [
-        "JVN Japan Vulnerability Notes"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://jvn.jp/vu/JVNVU94083107/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 21.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-14T04:41:10+00:00"
     },
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -275,6 +161,158 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-04T01:50:38+00:00"
+    },
+    {
+      "key": "title:komodo-periphery",
+      "title": "KomodoサーバーのエージェントPeripheryにおけるOSコマンドインジェクションの脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/vu/JVNVU96061614/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-14T04:41:10+00:00"
+    },
+    {
+      "key": "title:lowcoder-query-library-api",
+      "title": "Lowcoder Query Library APIにおける認可回避の脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/vu/JVNVU91984971/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-14T04:41:10+00:00"
+    },
+    {
+      "key": "title:openssl-apple-libressl-pyca-wolfssl-rfc-5280",
+      "title": "Go、OpenSSL、Apple、LibreSSL、pyca、wolfSSLのRFC 5280実装における名前制約が不整合である脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/vu/JVNVU91265939/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-14T04:41:10+00:00"
+    },
+    {
+      "key": "title:shopware",
+      "title": "Shopwareにおけるクロスサイトスクリプティングの脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/vu/JVNVU94083107/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-14T04:41:10+00:00"
     },
     {
       "key": "title:android-verified-boot",
@@ -408,18 +446,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.23,
+      "network_score": 13.18,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.1,
-      "ranking_score": 13.23,
+      "ranking_score": 13.18,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.73,
+      "baseline_bonus": 0.68,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1058,7 +1096,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-14T05:00:00Z",
+    "generated_at": "2026-10-14T05:21:57Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
