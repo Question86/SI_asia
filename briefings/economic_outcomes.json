@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T08:03:05+00:00",
+  "generated_at": "2026-10-14T08:31:01+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -1683,7 +1683,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1a6fb4d157b09125bd84",
@@ -3921,12 +3921,12 @@
     {
       "event_id": "evt_3c842d405fc1acc03477",
       "title": "EC-CUBE4系用プラグイン「AmazonPayプラグイン」における不変と想定しているWebパラメータの外部制御の脆弱性",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -5021,12 +5021,12 @@
     {
       "event_id": "evt_4bf0fa8cf86fb0ca9c6b",
       "title": "[NEU] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -5327,6 +5327,17 @@
       "status": "active"
     },
     {
+      "event_id": "evt_507051f10e4ff4d54171",
+      "title": "Singapore’s next AI industry may be the people who check the agents",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_508cc52b4823dd9222a5",
       "title": "Multiples vulnérabilités dans JFrog Artifactory (01 septembre 2026)",
       "deduplicated_buckets": 0,
@@ -5533,7 +5544,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_54469ce08846c5562aeb",
@@ -5896,7 +5907,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_5aab90b0cdfb10faa840",
@@ -10230,7 +10241,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_99397910c1bd5bbe64ac",
@@ -11484,7 +11495,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_adb252945edb1fa40335",

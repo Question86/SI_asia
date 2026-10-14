@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T08:02:51+00:00",
+  "generated_at": "2026-10-14T08:30:46+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -89,7 +89,7 @@
       "p90_usd": 1152000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T04:41:10+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
       "status": "active"
     },
     {
@@ -2482,7 +2482,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T06:37:14+00:00",
       "last_seen_at": "2026-10-14T08:02:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1acdba7b096c23b8737d",
@@ -2856,7 +2856,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-14T03:37:31+00:00",
       "last_seen_at": "2026-10-14T08:02:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_54b7eba72ac81a7ece83",
@@ -3315,7 +3315,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-14T01:09:21+00:00",
       "last_seen_at": "2026-10-14T08:02:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_adb252945edb1fa40335",
@@ -7904,7 +7904,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
       "status": "active"
     },
     {
@@ -8027,6 +8027,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4bf0fa8cf86fb0ca9c6b",
+      "title": "[NEU] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 292000.0,
+      "p50_usd": 29200000.0,
+      "p90_usd": 2920000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_620225625978c23a2aaa",
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）",
       "event_classes": [
@@ -8040,7 +8057,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
       "status": "active"
     },
     {
@@ -8076,23 +8093,6 @@
       "first_seen_at": "2026-09-14T14:00:01+00:00",
       "last_seen_at": "2026-09-18T23:55:00+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_4bf0fa8cf86fb0ca9c6b",
-      "title": "[NEU] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 292000.0,
-      "p50_usd": 29200000.0,
-      "p90_usd": 2920000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-14T08:02:24+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_b62c535c76c48b8bb112",
@@ -8142,7 +8142,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T04:41:10+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
       "status": "active"
     },
     {
@@ -8382,6 +8382,23 @@
       "first_seen_at": "2026-09-25T13:34:08+00:00",
       "last_seen_at": "2026-09-25T23:54:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_3c842d405fc1acc03477",
+      "title": "EC-CUBE4系用プラグイン「AmazonPayプラグイン」における不変と想定しているWebパラメータの外部制御の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_3eeea5703efbbc5d1adc",
@@ -9060,7 +9077,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T02:00:26+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
       "status": "active"
     },
     {
@@ -9111,7 +9128,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T04:41:10+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
       "status": "active"
     },
     {
@@ -9145,7 +9162,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T03:16:57+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
       "status": "active"
     },
     {
@@ -9162,7 +9179,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:50:38+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
       "status": "active"
     },
     {
@@ -9196,7 +9213,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T04:41:10+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
       "status": "active"
     },
     {
@@ -9232,23 +9249,6 @@
       "first_seen_at": "2026-10-07T13:58:07+00:00",
       "last_seen_at": "2026-10-07T23:54:54+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_3c842d405fc1acc03477",
-      "title": "EC-CUBE4系用プラグイン「AmazonPayプラグイン」における不変と想定しているWebパラメータの外部制御の脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-14T08:02:24+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -9349,8 +9349,8 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-14T07:27:44+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2bf1e7d57306cb9b7c1c",
@@ -9536,8 +9536,8 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-10-13T23:58:13+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_286c3df7e2f2f93926a3",
@@ -9604,7 +9604,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T06:09:37+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
       "status": "active"
     },
     {
@@ -9965,6 +9965,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_507051f10e4ff4d54171",
+      "title": "Singapore’s next AI industry may be the people who check the agents",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 121600.0,
+      "p50_usd": 12160000.0,
+      "p90_usd": 1216000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-14T08:30:30+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_75edcd792502a55adcdb",
       "title": "How to pitch Southeast Asia’s investors: A founder’s guide",
       "event_classes": [
@@ -10267,7 +10284,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T01:51:27+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
       "status": "active"
     },
     {
@@ -10505,7 +10522,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T05:21:56+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
       "status": "active"
     },
     {
@@ -12715,7 +12732,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T01:51:27+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
       "status": "active"
     },
     {
@@ -13497,7 +13514,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T05:35:18+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
       "status": "active"
     },
     {
@@ -16983,7 +17000,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-10-14T08:02:24+00:00",
+      "last_seen_at": "2026-10-14T08:30:30+00:00",
       "status": "active"
     },
     {
