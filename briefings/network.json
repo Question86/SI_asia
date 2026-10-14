@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T03:50:54+00:00",
+  "generated_at": "2026-10-14T03:59:24+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 17,
     "clusters": 17,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 2,
+    "early_signals": 0,
     "dominance_penalized": 5
   },
   "clusters": [
@@ -66,60 +66,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.0,
+      "network_score": 15.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 16.1,
-      "ranking_score": 21.0,
+      "ranking_score": 15.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-14T03:16:57+00:00"
-    },
-    {
-      "key": "title:salary-hero-lands-series-take-its-fight-against",
-      "title": "Salary Hero lands US$7.6M Series A to take its fight against loan sharks to Malaysia",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/salary-hero-lands-us7-6m-series-a-to-take-its-fight-against-loan-sharks-to-malaysia-20261014/"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.5,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 11.1,
-      "ranking_score": 16.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 6.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
@@ -220,18 +180,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.5,
+      "network_score": 13.45,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.1,
-      "ranking_score": 13.5,
+      "ranking_score": 13.45,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.0,
+      "baseline_bonus": 0.95,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -279,8 +239,8 @@
       "first_seen_at": "2026-10-14T03:16:57+00:00"
     },
     {
-      "key": "title:245-resistance-hours-away-being-tested-will-buyers",
-      "title": "The US$84,245 resistance is hours away from being tested. Will buyers show up or fold?",
+      "key": "title:salary-hero-lands-series-take-its-fight-against",
+      "title": "Salary Hero lands US$7.6M Series A to take its fight against loan sharks to Malaysia",
       "sources": [
         "e27 Asia Startup and Tech Feed"
       ],
@@ -288,27 +248,27 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/the-us84245-resistance-is-hours-away-from-being-tested-will-buyers-show-up-or-fold-20261014/"
+        "https://e27.co/salary-hero-lands-us7-6m-series-a-to-take-its-fight-against-loan-sharks-to-malaysia-20261014/"
       ],
       "finding_count": 1,
-      "max_score": 7,
+      "max_score": 9,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.0,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.5,
       "hot": false,
       "watchgraph_modules": [
         "capitals_power_centers"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.1,
-      "ranking_score": 11.0,
+      "raw_network_score": 11.1,
+      "ranking_score": 10.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -316,7 +276,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-10-14T03:50:54+00:00"
+      "first_seen_at": "2026-10-14T03:16:57+00:00"
     },
     {
       "key": "earthquake:chile:4.9",
@@ -478,6 +438,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-14T03:16:57+00:00"
+    },
+    {
+      "key": "title:245-resistance-hours-away-being-tested-will-buyers",
+      "title": "The US$84,245 resistance is hours away from being tested. Will buyers show up or fold?",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/the-us84245-resistance-is-hours-away-from-being-tested-will-buyers-show-up-or-fold-20261014/"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.1,
+      "ranking_score": 8.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-14T03:50:54+00:00"
     },
     {
       "key": "earthquake:m 4.8 - north atlantic ocean:4.8",
@@ -678,7 +678,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-14T03:50:55Z",
+    "generated_at": "2026-10-14T03:59:24Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
