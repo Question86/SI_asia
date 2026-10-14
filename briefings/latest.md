@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T04:41:06+00:00_
+_Generiert: 2026-10-14T04:53:34+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+27 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -201,14 +201,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Reputationsrisiko (+7.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph demote clone (x0.45)
   - Kurz: Image: FTC米国の消費者保護を担う連邦取引委員会（FTC）は2023年3月、AIで家族の声を複製し、お金をだまし取ろうとする手口について注意をよびかけました。 短い音声と声を複製するプログラムがあれば、本人に似た声を作れるのだそう。 ネットに投稿された動画などが、声を拾われるきっかけにもなるようです。 さらに注...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2147849.html)
+- **SBI証券のFXで“誤ロスカット” 再委託先IIJが作業ミス、システムでも検知できず 779口座が対象** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/14/2000002249/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-14T00:44:08+00:00`, fetched `2026-10-14T03:16:18+00:00`
+  - Zeit: published `2026-10-14T03:40:55+00:00`, fetched `2026-10-14T04:52:55+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証
+  - Kurz: 担保の株反映されず「保証金不足」と誤判定→ロスカット FXは、預けた保証金の数倍の金額で外貨を売買できる取引。損失によって保証金が一定の水準まで減ると、証券会社はそれ以上損失が広がらないよう、まだ決済していない取引（ポジション）を自動で決済（ロスカット）する。 「株券担保サービス」は、証券口座で保有す...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
