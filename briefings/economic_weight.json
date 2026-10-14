@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T00:31:46+00:00",
+  "generated_at": "2026-10-14T01:09:38+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1139,6 +1139,23 @@
       "first_seen_at": "2026-09-01T01:41:03+00:00",
       "last_seen_at": "2026-09-01T06:01:06+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_ed24fae0d5d51fb8ec7d",
+      "title": "The new value test for investors: What founders are actually buying when they take your cheque",
+      "event_classes": [
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 10880000.0,
+      "p50_usd": 1088000000.0,
+      "p90_usd": 108800000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-14T01:09:21+00:00",
+      "last_seen_at": "2026-10-14T01:09:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_07863196900fe20a0dc2",
@@ -2429,8 +2446,8 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T06:37:14+00:00",
-      "last_seen_at": "2026-10-09T23:33:21+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-14T01:09:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_1acdba7b096c23b8737d",
@@ -3689,6 +3706,23 @@
       "first_seen_at": "2026-09-29T10:50:43+00:00",
       "last_seen_at": "2026-09-29T19:18:52+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_ada7dc0897fdc5edde97",
+      "title": "M 5.0 - 95 km NNW of Coquimbo, Chile",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-14T01:09:21+00:00",
+      "last_seen_at": "2026-10-14T01:09:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_00e85c3d2c185ba34101",
@@ -10453,8 +10487,8 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-04T23:59:05+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-14T01:09:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_ccc81cd853a94a4b2b98",
