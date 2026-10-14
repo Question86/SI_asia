@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T11:47:21+00:00",
-  "run_id": "2026-10-14T11:47:21+00:00",
+  "generated_at": "2026-10-14T12:05:36+00:00",
+  "run_id": "2026-10-14T12:05:36+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 55
+      "configured_public_sources_only": 56
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 55,
-    "displayed_findings": 55,
+    "new_relevant_findings": 1,
+    "today_file_total": 56,
+    "displayed_findings": 56,
     "high": 1,
     "medium": 21,
-    "observe": 33,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -1270,6 +1270,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "adc1064e5a86eb085494"
+      },
+      {
+        "title": "日本における「純粋な悪の代名詞」とは誰なのか（たとえばヒトラーのような） - 文化史（技術と人文科学） - はてなパークス",
+        "url": "https://p.hatena.ne.jp/p/1542167047763398656/t/1559549110216822784?s=1&m=raw",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-14T09:29:50+00:00",
+        "fetched_at": "2026-10-14T12:05:00+00:00",
+        "summary": "「ヒトラーに例える論証」というものがあります。 例えば、 「彼のやり口は民主主義を破壊したヒトラーのやり方と全く同じだ。」 みたいなやつです。 ところで、ヒトラー以前もこのような論法はあったようです。 現代においては一般にヒトラーが引き合いに出されるが、この手の論理的誤謬は、第二次世界大戦以前から存在...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "eecfda557b5623c66ede"
       },
       {
         "title": "【第5報】不正アクセスによる障害に関する調査の進捗について | IDCフロンティア",
@@ -2637,6 +2658,27 @@
       "id": "adc1064e5a86eb085494"
     },
     {
+      "title": "日本における「純粋な悪の代名詞」とは誰なのか（たとえばヒトラーのような） - 文化史（技術と人文科学） - はてなパークス",
+      "url": "https://p.hatena.ne.jp/p/1542167047763398656/t/1559549110216822784?s=1&m=raw",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-14T09:29:50+00:00",
+      "fetched_at": "2026-10-14T12:05:00+00:00",
+      "summary": "「ヒトラーに例える論証」というものがあります。 例えば、 「彼のやり口は民主主義を破壊したヒトラーのやり方と全く同じだ。」 みたいなやつです。 ところで、ヒトラー以前もこのような論法はあったようです。 現代においては一般にヒトラーが引き合いに出されるが、この手の論理的誤謬は、第二次世界大戦以前から存在...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eecfda557b5623c66ede"
+    },
+    {
       "title": "【第5報】不正アクセスによる障害に関する調査の進捗について | IDCフロンティア",
       "url": "https://www.idcf.jp/news/topics/20261014001",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2760,7 +2802,29 @@
       "id": "6601618a19ff4fb18a08"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "日本における「純粋な悪の代名詞」とは誰なのか（たとえばヒトラーのような） - 文化史（技術と人文科学） - はてなパークス",
+      "url": "https://p.hatena.ne.jp/p/1542167047763398656/t/1559549110216822784?s=1&m=raw",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-14T09:29:50+00:00",
+      "fetched_at": "2026-10-14T12:05:00+00:00",
+      "summary": "「ヒトラーに例える論証」というものがあります。 例えば、 「彼のやり口は民主主義を破壊したヒトラーのやり方と全く同じだ。」 みたいなやつです。 ところで、ヒトラー以前もこのような論法はあったようです。 現代においては一般にヒトラーが引き合いに出されるが、この手の論理的誤謬は、第二次世界大戦以前から存在...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eecfda557b5623c66ede"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
