@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-14T07:02:54+00:00_
+_Generated: 2026-10-14T07:27:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `34`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-14T07:02:54+00:00_
 - url: https://e27.co/manus-came-home-and-singapore-couldnt-stop-it-20261013/
 - summary: There is a particular kind of Southeast Asian optimism that treats Singapore like a geopolitical airlock. Walk in from Beijing or Shenzhen, shut the door behind you, register a Pte Ltd, and the pressure from home equalises. You are now a Singaporean company w…
 
-### 6. Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context
+### 6. Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-10-14T08:15:23+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260091.en.html
+- summary: Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45
+
+### 7. Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-14T05:29:22+00:00`
 - url: https://e27.co/parallel-loop-nets-us6-6m-to-sell-enterprises-the-one-thing-ai-models-lack-context-20261014/
 - summary: In early 2018, Yujun Chean and Prateek Jogani were selling car insurance with a cashback twist. Their Singapore startup, Vouch Insurtech, had just raised SGD1 million (then US$755,000) in seed funding as the parent of Thai insurtech FairDee. Eight years on, t…
 
-### 7. M 4.9 - 16 km WSW of La Tirana, Chile
+### 8. M 4.9 - 16 km WSW of La Tirana, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-14T03:32:01.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272
 - summary: Time 2026-10-14 03:11:09 UTC 2026-10-14 03:11:09 UTC at epicenter Location 20.355°S 70.270°W Depth 44.91 km (27.91 mi)
-
-### 8. M 5.0 - 95 km NNW of Coquimbo, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-10-14T01:06:37.971+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f
-- summary: DYFI? - III Time 2026-10-14 00:36:45 UTC 2026-10-14 00:36:45 UTC at epicenter Location 29.218°S 71.843°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T07:02:54+00:00_
+_Generiert: 2026-10-14T07:27:41+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+34 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -143,6 +143,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Beijing (+2.0)
   - Kurz: There is a particular kind of Southeast Asian optimism that treats Singapore like a geopolitical airlock. Walk in from Beijing or Shenzhen, shut the door behind you, register a Pte Ltd, and the pressure from home equalises. You are now a Singaporean company with “Chinese roots”, free to raise from Silicon Valley and sell to […] The post Manus came home, and Singapore couldn’t stop it appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260091.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-10-14T08:15:23+00:00`, fetched `2026-10-14T07:27:09+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context** — Score 12, observation — [Quelle](https://e27.co/parallel-loop-nets-us6-6m-to-sell-enterprises-the-one-thing-ai-models-lack-context-20261014/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-14T05:29:22+00:00`, fetched `2026-10-14T05:34:42+00:00`
@@ -214,6 +223,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: When the Ministry of Trade and Industry raised Singapore’s 2026 growth forecast in August, most of the founders I talk to read it the way the headlines invited them to, as good news for everyone. The revision was large. MTI moved its forecast from 2.0 to 4.0 per cent up to 4.5 to 5.5 per […] The post Read the sectors, not the headline: What Singapore’s growth upgrade tells SEA founders appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Patchday: Attacken auf verschiedene Windows-Versionen beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Patchday-Attacken-auf-verschiedene-Windows-Versionen-beobachtet-11487264.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-14T06:59:00.000+00:00`, fetched `2026-10-14T07:27:09+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Microsoft hat mehr als 1400 Sicherheitslücken in Windows, Office & Co. geschlossen. Es laufen bereits Attacken.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **オレオレ詐欺がAIで極悪進化。無言電話に返した自分の声が、家族をだますヤバすぎる手口 | ギズモード・ジャパン** — Score 7, risk — [Quelle](https://www.gizmodo.jp/article/2610-ai-voice-clone-scam/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
