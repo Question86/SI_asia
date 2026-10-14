@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T01:51:23+00:00",
-  "run_id": "2026-10-14T01:51:23+00:00",
+  "generated_at": "2026-10-14T02:00:22+00:00",
+  "run_id": "2026-10-14T02:00:22+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 1,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
-    "medium": 1,
+    "medium": 2,
     "observe": 5,
     "source_errors": 0
   },
@@ -51,6 +51,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b100968136b2083ecdbb"
+      },
+      {
+        "title": "SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性",
+        "url": "https://jvn.jp/jp/JVN88474777/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-10-14T11:00:00+09:00",
+        "fetched_at": "2026-10-14T01:59:45+00:00",
+        "summary": "EGセキュアソリューションズ株式会社が提供するSiteGuard Server Editionには、OSコマンドインジェクションの脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "96ff732d9097e491b34f"
       }
     ],
     "observe": [
@@ -217,6 +239,28 @@
       "id": "b100968136b2083ecdbb"
     },
     {
+      "title": "SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN88474777/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-14T11:00:00+09:00",
+      "fetched_at": "2026-10-14T01:59:45+00:00",
+      "summary": "EGセキュアソリューションズ株式会社が提供するSiteGuard Server Editionには、OSコマンドインジェクションの脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "96ff732d9097e491b34f"
+    },
+    {
       "title": "Manus came home, and Singapore couldn’t stop it",
       "url": "https://e27.co/manus-came-home-and-singapore-couldnt-stop-it-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -355,48 +399,26 @@
   ],
   "new_findings": [
     {
-      "title": "Can AI cut the US$170 billion cost of buying and selling homes?",
-      "url": "https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN88474777/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-10-14T01:30:26+00:00",
-      "fetched_at": "2026-10-14T01:50:51+00:00",
-      "summary": "In 2024, Americans spent about US$170 billion on real estate commissions and other costs involved in transferring ownership of homes. The Bureau of Economic Analysis estimate, cited by the Federal Reserve, is equal to roughly 0.6 per cent of US GDP. This is money spent not on the homes themselves, but largely on changing who […] The post Can AI cut the US$170 billion cost of buying and selling homes? appeared first…",
+      "published_at": "2026-10-14T11:00:00+09:00",
+      "fetched_at": "2026-10-14T01:59:45+00:00",
+      "summary": "EGセキュアソリューションズ株式会社が提供するSiteGuard Server Editionには、OSコマンドインジェクションの脆弱性が存在します。",
       "matched_keywords": [
-        "AI/KI",
         "APAC Trend Radar",
-        "Macro/Policy",
-        "Public Health"
+        "JVN",
+        "Security"
       ],
-      "relevance_score": 20,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b100968136b2083ecdbb"
-    },
-    {
-      "title": "Manus came home, and Singapore couldn’t stop it",
-      "url": "https://e27.co/manus-came-home-and-singapore-couldnt-stop-it-20261013/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-14T01:30:48+00:00",
-      "fetched_at": "2026-10-14T01:50:51+00:00",
-      "summary": "There is a particular kind of Southeast Asian optimism that treats Singapore like a geopolitical airlock. Walk in from Beijing or Shenzhen, shut the door behind you, register a Pte Ltd, and the pressure from home equalises. You are now a Singaporean company with “Chinese roots”, free to raise from Silicon Valley and sell to […] The post Manus came home, and Singapore couldn’t stop it appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Beijing (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3858e935b345b7aeb191"
+      "id": "96ff732d9097e491b34f"
     }
   ],
   "source_errors": [],
