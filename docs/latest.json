@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T19:59:51+00:00",
-  "run_id": "2026-10-14T19:59:51+00:00",
+  "generated_at": "2026-10-14T20:20:55+00:00",
+  "run_id": "2026-10-14T20:20:55+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 77
+      "configured_public_sources_only": 78
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 77,
-    "displayed_findings": 77,
+    "new_relevant_findings": 1,
+    "today_file_total": 78,
+    "displayed_findings": 78,
     "high": 1,
     "medium": 29,
-    "observe": 47,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -1914,6 +1914,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a54e7af970691d9671ec"
+      },
+      {
+        "title": "GitHub availability report: September 2026",
+        "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-14T20:01:35+00:00",
+        "fetched_at": "2026-10-14T20:20:25+00:00",
+        "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "020238b9fdfbba5ae1f7"
       },
       {
         "title": "BYD expands EV shipping fleet as wars upend freight costs and key trade routes",
@@ -3820,6 +3840,26 @@
       "id": "a54e7af970691d9671ec"
     },
     {
+      "title": "GitHub availability report: September 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-14T20:01:35+00:00",
+      "fetched_at": "2026-10-14T20:20:25+00:00",
+      "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "020238b9fdfbba5ae1f7"
+    },
+    {
       "title": "BYD expands EV shipping fleet as wars upend freight costs and key trade routes",
       "url": "https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -3840,47 +3880,24 @@
   ],
   "new_findings": [
     {
-      "title": "HTML-in-Canvasで作る未来のWeb UI表現",
-      "url": "https://speakerdeck.com/clockmaker/html-in-canvas",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-14T12:02:04+00:00",
-      "fetched_at": "2026-10-14T19:59:20+00:00",
-      "summary": "フロントエンドカンファレンス関西2026の発表資料。 https://2026.frontend-conf.osaka.jp/ ■概要 HTML-in-Canvasという新しいAPIをオリジナルのデモで解説。 HTML・CSSから見た利点、Canvasタグから見た利点を掘り下げます。 …",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Webentwicklung"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7b3d06d4080725c6a5bf"
-    },
-    {
-      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+      "title": "GitHub availability report: September 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
       "source": "GitHub Blog Atom",
       "source_type": "rss",
-      "published_at": "2026-10-14T19:11:33+00:00",
-      "fetched_at": "2026-10-14T19:59:20+00:00",
-      "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The GitHub Blog .",
+      "published_at": "2026-10-14T20:01:35+00:00",
+      "fetched_at": "2026-10-14T20:20:25+00:00",
+      "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "APAC Trend Radar",
         "GitHub"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1ac71482851f0ba1f6fb"
+      "id": "020238b9fdfbba5ae1f7"
     }
   ],
   "source_errors": [],
