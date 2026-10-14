@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T23:07:58+00:00",
-  "run_id": "2026-10-14T23:07:58+00:00",
+  "generated_at": "2026-10-14T23:22:45+00:00",
+  "run_id": "2026-10-14T23:22:45+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 85
+      "configured_public_sources_only": 86
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 1,
     "medium": 30,
-    "observe": 54,
+    "observe": 55,
     "source_errors": 0
   },
   "sections": {
@@ -1895,6 +1895,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "65af14ef672b33f9da93"
+      },
+      {
+        "title": "八潮の道路陥没事故を国際圧入学会で総括 道路陥没メカニズムと最新技術による復旧の全貌",
+        "url": "https://built.itmedia.co.jp/bt/articles/2610/14/news078.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-14T11:00:30+00:00",
+        "fetched_at": "2026-10-14T23:22:15+00:00",
+        "summary": "埼玉県八潮市で2025年に発生した大規模な道路陥没事故について、国際圧入学会のセミナーで全プロセスが報告された。発生メカニズムや復旧工事のプロセス、毎秒4トンの汚水が流れる過酷な現場に対応した「圧入工法」の役割など、原因解明から復旧までの道のりをレポートで詳報する。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "05773c41991d6540bd95"
       },
       {
         "title": "日本における「純粋な悪の代名詞」とは誰なのか（たとえばヒトラーのような） - 文化史（技術と人文科学） - はてなパークス",
@@ -3970,6 +3991,27 @@
       "id": "65af14ef672b33f9da93"
     },
     {
+      "title": "八潮の道路陥没事故を国際圧入学会で総括 道路陥没メカニズムと最新技術による復旧の全貌",
+      "url": "https://built.itmedia.co.jp/bt/articles/2610/14/news078.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-14T11:00:30+00:00",
+      "fetched_at": "2026-10-14T23:22:15+00:00",
+      "summary": "埼玉県八潮市で2025年に発生した大規模な道路陥没事故について、国際圧入学会のセミナーで全プロセスが報告された。発生メカニズムや復旧工事のプロセス、毎秒4トンの汚水が流れる過酷な現場に対応した「圧入工法」の役割など、原因解明から復旧までの道のりをレポートで詳報する。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "05773c41991d6540bd95"
+    },
+    {
       "title": "日本における「純粋な悪の代名詞」とは誰なのか（たとえばヒトラーのような） - 文化史（技術と人文科学） - はてなパークス",
       "url": "https://p.hatena.ne.jp/p/1542167047763398656/t/1559549110216822784?s=1&m=raw",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4178,26 +4220,25 @@
   ],
   "new_findings": [
     {
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "source": "OpenAI News RSS",
+      "title": "八潮の道路陥没事故を国際圧入学会で総括 道路陥没メカニズムと最新技術による復旧の全貌",
+      "url": "https://built.itmedia.co.jp/bt/articles/2610/14/news078.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "fetched_at": "2026-10-14T23:07:29+00:00",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "published_at": "2026-10-14T11:00:30+00:00",
+      "fetched_at": "2026-10-14T23:22:15+00:00",
+      "summary": "埼玉県八潮市で2025年に発生した大規模な道路陥没事故について、国際圧入学会のセミナーで全プロセスが報告された。発生メカニズムや復旧工事のプロセス、毎秒4トンの汚水が流れる過酷な現場に対応した「圧入工法」の役割など、原因解明から復旧までの道のりをレポートで詳報する。",
       "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 20,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); Security (+7.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f28b7b6554902f246795"
+      "id": "05773c41991d6540bd95"
     }
   ],
   "source_errors": [],
