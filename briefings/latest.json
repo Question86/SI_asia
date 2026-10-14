@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T05:21:54+00:00",
-  "run_id": "2026-10-14T05:21:54+00:00",
+  "generated_at": "2026-10-14T05:35:14+00:00",
+  "run_id": "2026-10-14T05:35:14+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 28
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 10,
-    "observe": 18,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -273,6 +273,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3858e935b345b7aeb191"
+      },
+      {
+        "title": "Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context",
+        "url": "https://e27.co/parallel-loop-nets-us6-6m-to-sell-enterprises-the-one-thing-ai-models-lack-context-20261014/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-14T05:29:22+00:00",
+        "fetched_at": "2026-10-14T05:34:42+00:00",
+        "summary": "In early 2018, Yujun Chean and Prateek Jogani were selling car insurance with a cashback twist. Their Singapore startup, Vouch Insurtech, had just raised SGD1 million (then US$755,000) in seed funding as the parent of Thai insurtech FairDee. Eight years on, the pair are back with a much bigger cheque and a far more crowded […] The post Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: cont…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "funding"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a49a7b6ad30c49fb633e"
       },
       {
         "title": "M 4.9 - 16 km WSW of La Tirana, Chile",
@@ -997,6 +1019,28 @@
       "id": "3858e935b345b7aeb191"
     },
     {
+      "title": "Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context",
+      "url": "https://e27.co/parallel-loop-nets-us6-6m-to-sell-enterprises-the-one-thing-ai-models-lack-context-20261014/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-14T05:29:22+00:00",
+      "fetched_at": "2026-10-14T05:34:42+00:00",
+      "summary": "In early 2018, Yujun Chean and Prateek Jogani were selling car insurance with a cashback twist. Their Singapore startup, Vouch Insurtech, had just raised SGD1 million (then US$755,000) in seed funding as the parent of Thai insurtech FairDee. Eight years on, the pair are back with a much bigger cheque and a far more crowded […] The post Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: cont…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "funding"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a49a7b6ad30c49fb633e"
+    },
+    {
       "title": "M 4.9 - 16 km WSW of La Tirana, Chile",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1475,26 +1519,26 @@
   ],
   "new_findings": [
     {
-      "title": "Singapore wants Google’s AI to catch scammers before victims hit send",
-      "url": "https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/",
+      "title": "Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context",
+      "url": "https://e27.co/parallel-loop-nets-us6-6m-to-sell-enterprises-the-one-thing-ai-models-lack-context-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-14T05:00:10+00:00",
-      "fetched_at": "2026-10-14T05:21:26+00:00",
-      "summary": "Singapore’s war on scams has mostly been fought far from the victim: in police operations centres, bank back offices and, more recently, in rulebooks telling platforms what they must block. Now the city-state wants part of that fight to happen inside the phone itself. Google on Wednesday announced two initiatives with the Singapore Government, unveiled […] The post Singapore wants Google’s AI to catch scammers befor…",
+      "published_at": "2026-10-14T05:29:22+00:00",
+      "fetched_at": "2026-10-14T05:34:42+00:00",
+      "summary": "In early 2018, Yujun Chean and Prateek Jogani were selling car insurance with a cashback twist. Their Singapore startup, Vouch Insurtech, had just raised SGD1 million (then US$755,000) in seed funding as the parent of Thai insurtech FairDee. Eight years on, the pair are back with a much bigger cheque and a far more crowded […] The post Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: cont…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar",
-        "Reputationsrisiko"
+        "funding"
       ],
-      "relevance_score": 19,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "29c944a25746e0f49e6a"
+      "id": "a49a7b6ad30c49fb633e"
     }
   ],
   "source_errors": [],
