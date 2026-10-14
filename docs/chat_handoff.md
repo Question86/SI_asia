@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-14T02:47:40+00:00_
+_Generated: 2026-10-14T03:16:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `14`
 
 ## Top Signals
 
@@ -15,35 +15,42 @@ _Generated: 2026-10-14T02:47:40+00:00_
 - url: https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/
 - summary: In 2024, Americans spent about US$170 billion on real estate commissions and other costs involved in transferring ownership of homes. The Bureau of Economic Analysis estimate, cited by the Federal Reserve, is equal to roughly 0.6 per cent of US GDP. This is m…
 
-### 2. SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性
+### 2. 楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-10-14T12:00:00+09:00`
+- url: https://jvn.jp/jp/JVN47427200/
+- summary: 楽天モバイル株式会社が提供する複数のスマートフォンでは、Android Verified Boot（AVB）機能にAOSPのテスト用鍵が使用されています。
+
+### 3. SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-10-14T11:00:00+09:00`
 - url: https://jvn.jp/jp/JVN88474777/
 - summary: EGセキュアソリューションズ株式会社が提供するSiteGuard Server Editionには、OSコマンドインジェクションの脆弱性が存在します。
 
-### 3. Manus came home, and Singapore couldn’t stop it
+### 4. Manus came home, and Singapore couldn’t stop it
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-10-14T01:30:48+00:00`
 - url: https://e27.co/manus-came-home-and-singapore-couldnt-stop-it-20261013/
 - summary: There is a particular kind of Southeast Asian optimism that treats Singapore like a geopolitical airlock. Walk in from Beijing or Shenzhen, shut the door behind you, register a Pte Ltd, and the pressure from home equalises. You are now a Singaporean company w…
 
-### 4. M 5.0 - 95 km NNW of Coquimbo, Chile
+### 5. M 5.0 - 95 km NNW of Coquimbo, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-14T01:06:37.971+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f
 - summary: DYFI? - III Time 2026-10-14 00:36:45 UTC 2026-10-14 00:36:45 UTC at epicenter Location 29.218°S 71.843°W Depth 10.00 km (6.21 mi)
 
-### 5. M 5.1 - 92 km NW of La Serena, Chile
+### 6. M 5.1 - 92 km NW of La Serena, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-14T01:03:31.006+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26c
 - summary: DYFI? - III Time 2026-10-14 00:30:47 UTC 2026-10-14 00:30:47 UTC at epicenter Location 29.214°S 71.789°W Depth 19.22 km (11.94 mi)
 
-### 6. AI、家電乗っ取り増殖の恐れ アンソロピック「デジタル粘菌」と警告 - 日本経済新聞
+### 7. AI、家電乗っ取り増殖の恐れ アンソロピック「デジタル粘菌」と警告 - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-10-13T23:42:29+00:00`
