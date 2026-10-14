@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T20:20:55+00:00",
-  "run_id": "2026-10-14T20:20:55+00:00",
+  "generated_at": "2026-10-14T20:33:12+00:00",
+  "run_id": "2026-10-14T20:33:12+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 78
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 78,
-    "displayed_findings": 78,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 1,
     "medium": 29,
-    "observe": 48,
+    "observe": 49,
     "source_errors": 0
   },
   "sections": {
@@ -1767,6 +1767,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8d1c6ae3252c7caaf3bf"
+      },
+      {
+        "title": "HydraFusion updates and new Max option",
+        "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-14T20:01:35+00:00",
+        "fetched_at": "2026-10-14T20:32:42+00:00",
+        "summary": "HydraFusion has an updated model pool, improved orchestration workflows, and introduces HydraFusion Max. Both HydraFusion and HydraFusion Max are available across VS Code, the GitHub Copilot app, and GitHub Copilot… The post HydraFusion updates and new Max option appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "36f18da15d210641705e"
       },
       {
         "title": "楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存 利用停止と乗り換えを案内",
@@ -3693,6 +3714,27 @@
       "id": "8d1c6ae3252c7caaf3bf"
     },
     {
+      "title": "HydraFusion updates and new Max option",
+      "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-14T20:01:35+00:00",
+      "fetched_at": "2026-10-14T20:32:42+00:00",
+      "summary": "HydraFusion has an updated model pool, improved orchestration workflows, and introduces HydraFusion Max. Both HydraFusion and HydraFusion Max are available across VS Code, the GitHub Copilot app, and GitHub Copilot… The post HydraFusion updates and new Max option appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "36f18da15d210641705e"
+    },
+    {
       "title": "楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存 利用停止と乗り換えを案内",
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2148168.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3880,24 +3922,25 @@
   ],
   "new_findings": [
     {
-      "title": "GitHub availability report: September 2026",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
-      "source": "GitHub Blog Atom",
+      "title": "HydraFusion updates and new Max option",
+      "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
       "published_at": "2026-10-14T20:01:35+00:00",
-      "fetched_at": "2026-10-14T20:20:25+00:00",
-      "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
+      "fetched_at": "2026-10-14T20:32:42+00:00",
+      "summary": "HydraFusion has an updated model pool, improved orchestration workflows, and introduces HydraFusion Max. Both HydraFusion and HydraFusion Max are available across VS Code, the GitHub Copilot app, and GitHub Copilot… The post HydraFusion updates and new Max option appeared first on The GitHub Blog .",
       "matched_keywords": [
+        "Copilot",
         "GitHub"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "020238b9fdfbba5ae1f7"
+      "id": "36f18da15d210641705e"
     }
   ],
   "source_errors": [],

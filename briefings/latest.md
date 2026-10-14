@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T20:20:55+00:00_
+_Generiert: 2026-10-14T20:33:12+00:00_
 
 ## Kurzlage
 
-78 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 31, risk).
+79 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 31, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,10 +41,10 @@ _Generiert: 2026-10-14T20:20:55+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Libya
-- **GDACS: Orange notification for tropical cyclone TWENTYNINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.177 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001338)
+- **GDACS: Orange notification for tropical cyclone TWENTYNINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.158 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001338)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange notification for tropical cyclone TWENTYNINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.177 million .
+  - Kurz: Orange notification for tropical cyclone TWENTYNINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.158 million .
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:585.07km) in Fiji 14/10/2026 10:49 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571524)
   - Quelle: GDACS
   - Zeit: ``
