@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T18:30:12+00:00",
-  "run_id": "2026-10-14T18:30:12+00:00",
+  "generated_at": "2026-10-14T18:50:02+00:00",
+  "run_id": "2026-10-14T18:50:02+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 75,
     "displayed_findings": 75,
     "high": 1,
@@ -3752,29 +3752,7 @@
       "id": "6601618a19ff4fb18a08"
     }
   ],
-  "new_findings": [
-    {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-14T12:00:00+00:00",
-      "fetched_at": "2026-10-14T18:29:43+00:00",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "matched_keywords": [
-        "OpenAI",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+6.0); Security (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b2bfec455b76d97d690c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
