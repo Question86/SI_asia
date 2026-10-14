@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T09:59:47+00:00_
+_Generiert: 2026-10-14T10:22:42+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 31, risk).
+52 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 31, risk).
 
 ## Priorität Hoch
 
@@ -131,6 +131,15 @@ _Generiert: 2026-10-14T09:59:47+00:00_
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Beijing (+2.0)
   - Kurz: There is a particular kind of Southeast Asian optimism that treats Singapore like a geopolitical airlock. Walk in from Beijing or Shenzhen, shut the door behind you, register a Pte Ltd, and the pressure from home equalises. You are now a Singaporean company with “Chinese roots”, free to raise from Silicon Valley and sell to […] The post Manus came home, and Singapore couldn’t stop it appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Anthropic’s Singapore MOU bets on safety testing, not consumer reach** — Score 12, observation — [Quelle](https://e27.co/anthropics-singapore-mou-bets-on-safety-testing-not-consumer-reach-20261014/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-14T10:08:29+00:00`, fetched `2026-10-14T10:22:10+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Anthropic has finally given its Singapore customers somewhere to knock. The San Francisco-based AI lab opened an office in the city-state on Wednesday, its fifth in the Asia Pacific, and signed a memorandum of understanding (MOU) with the Ministry of Digital Development and Information (MDDI) that puts AI safety testing at the centre of the […] The post Anthropic’s Singapore MOU bets on safety testing, not consumer…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260091.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-10-14T08:15:23+00:00`, fetched `2026-10-14T07:27:09+00:00`
@@ -212,15 +221,6 @@ _Generiert: 2026-10-14T09:59:47+00:00_
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0)
   - Kurz: 網擎資訊｜SecuShare Pro - OS Command Injection
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Read the sectors, not the headline: What Singapore’s growth upgrade tells SEA founders** — Score 9, observation — [Quelle](https://e27.co/read-the-sectors-not-the-headline-what-singapores-growth-upgrade-tells-sea-founders-20261010/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-14T04:00:21+00:00`, fetched `2026-10-14T04:25:02+00:00`
-  - Treffer: APAC Trend Radar, founder
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: When the Ministry of Trade and Industry raised Singapore’s 2026 growth forecast in August, most of the founders I talk to read it the way the headlines invited them to, as good news for everyone. The revision was large. MTI moved its forecast from 2.0 to 4.0 per cent up to 4.5 to 5.5 per […] The post Read the sectors, not the headline: What Singapore’s growth upgrade tells SEA founders appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **フランス全土のスーパーマーケットの冷蔵庫を無理矢理50度まで上げたサイバー攻撃の詳細、パスワードは毎日自動更新で「本日の日付」になるという脆弱性** — Score 8, observation — [Quelle](https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-14T06:06:27+00:00`, fetched `2026-10-14T08:29:54+00:00`
