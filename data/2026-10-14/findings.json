@@ -1862,6 +1862,27 @@
     "id": "addd32a39604f779895e"
   },
   {
+    "title": "WAF でブロックする前に確かめていること",
+    "url": "https://zenn.dev/azunyan/articles/7a105969d7d16c",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-14T06:30:40+00:00",
+    "fetched_at": "2026-10-14T21:31:32+00:00",
+    "summary": "🧱 はじめに WAF の運用で、既知の攻撃を止めるルールをすり抜けてくる迷惑なアクセスや、攻撃ばかりを送ってくるアクセスを調べ、その送信元をブロックしています。 この記事では、そのときに気をつけていることと、前提になる基礎知識をまとめます。ポイントは次の 3 つです。 止める前に、巻き添えになる正規の利用者...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ad2ac7dce6b84b7bbddd"
+  },
+  {
     "title": "AnthropicがGit代替のバージョン管理システム「Scion」を開発し社内移行済み、AIでコードが爆増してGitの限界に達したので耐えられるシステムを開発",
     "url": "https://gigazine.net/news/20261014-anthropic-scion-version-control-system/",
     "source": "Hatena Bookmark Hotentry IT",
