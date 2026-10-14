@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-14T13:46:40+00:00_
+_Generated: 2026-10-14T14:01:52+00:00_
 
 ## Status
 - status: `normal`
-- findings: `62`
+- findings: `64`
 
 ## Top Signals
 
@@ -50,25 +50,25 @@ _Generated: 2026-10-14T13:46:40+00:00_
 - url: https://e27.co/manus-came-home-and-singapore-couldnt-stop-it-20261013/
 - summary: There is a particular kind of Southeast Asian optimism that treats Singapore like a geopolitical airlock. Walk in from Beijing or Shenzhen, shut the door behind you, register a Pte Ltd, and the pressure from home equalises. You are now a Singaporean company w…
 
-### 7. Anthropic’s Singapore MOU bets on safety testing, not consumer reach
+### 7. GitHub Actions workflow lockfiles in public preview
+- source: GitHub Changelog Atom
+- score: `12`
+- published: `2026-10-14T13:49:15+00:00`
+- url: https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview
+- summary: GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud and GitHub Enterprise Cloud with data residency. Tags and branches can move after you review a… The post GitHub Actions workflow lockfiles in public preview app…
+
+### 8. Anthropic’s Singapore MOU bets on safety testing, not consumer reach
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-14T10:08:29+00:00`
 - url: https://e27.co/anthropics-singapore-mou-bets-on-safety-testing-not-consumer-reach-20261014/
 - summary: Anthropic has finally given its Singapore customers somewhere to knock. The San Francisco-based AI lab opened an office in the city-state on Wednesday, its fifth in the Asia Pacific, and signed a memorandum of understanding (MOU) with the Ministry of Digital…
 
-### 8. Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45
+### 9. Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-10-14T08:15:23+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260091.en.html
 - summary: Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45
-
-### 9. Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-14T05:29:22+00:00`
-- url: https://e27.co/parallel-loop-nets-us6-6m-to-sell-enterprises-the-one-thing-ai-models-lack-context-20261014/
-- summary: In early 2018, Yujun Chean and Prateek Jogani were selling car insurance with a cashback twist. Their Singapore startup, Vouch Insurtech, had just raised SGD1 million (then US$755,000) in seed funding as the parent of Thai insurtech FairDee. Eight years on, t…
 
 END OF DOCUMENT

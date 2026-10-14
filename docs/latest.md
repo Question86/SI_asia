@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T13:46:40+00:00_
+_Generiert: 2026-10-14T14:01:52+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 31, risk).
+64 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 31, risk).
 
 ## Priorität Hoch
 
@@ -131,6 +131,15 @@ _Generiert: 2026-10-14T13:46:40+00:00_
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Beijing (+2.0)
   - Kurz: There is a particular kind of Southeast Asian optimism that treats Singapore like a geopolitical airlock. Walk in from Beijing or Shenzhen, shut the door behind you, register a Pte Ltd, and the pressure from home equalises. You are now a Singaporean company with “Chinese roots”, free to raise from Silicon Valley and sell to […] The post Manus came home, and Singapore couldn’t stop it appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Actions workflow lockfiles in public preview** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-14T13:49:15+00:00`, fetched `2026-10-14T14:01:22+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud and GitHub Enterprise Cloud with data residency. Tags and branches can move after you review a… The post GitHub Actions workflow lockfiles in public preview appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Anthropic’s Singapore MOU bets on safety testing, not consumer reach** — Score 12, observation — [Quelle](https://e27.co/anthropics-singapore-mou-bets-on-safety-testing-not-consumer-reach-20261014/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-14T10:08:29+00:00`, fetched `2026-10-14T10:22:10+00:00`
@@ -247,15 +256,6 @@ _Generiert: 2026-10-14T13:46:40+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Frank Elderson: Ensuring resilience in the face of uncertainty
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Patchday: Attacken auf verschiedene Windows-Versionen beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Patchday-Attacken-auf-verschiedene-Windows-Versionen-beobachtet-11487264.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-14T06:59:00.000+00:00`, fetched `2026-10-14T07:27:09+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Microsoft hat mehr als 1400 Sicherheitslücken in Windows, Office & Co. geschlossen. Es laufen bereits Attacken.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
