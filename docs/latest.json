@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T03:16:54+00:00",
-  "run_id": "2026-10-14T03:16:54+00:00",
+  "generated_at": "2026-10-14T03:37:27+00:00",
+  "run_id": "2026-10-14T03:37:27+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 14
+      "configured_public_sources_only": 16
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "new_relevant_findings": 2,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 3,
-    "observe": 11,
+    "observe": 13,
     "source_errors": 0
   },
   "sections": {
@@ -118,6 +118,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3858e935b345b7aeb191"
+      },
+      {
+        "title": "M 4.9 - 16 km WSW of La Tirana, Chile",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-14T03:32:01.040+00:00",
+        "fetched_at": "2026-10-14T03:36:49+00:00",
+        "summary": "Time 2026-10-14 03:11:09 UTC 2026-10-14 03:11:09 UTC at epicenter Location 20.355°S 70.270°W Depth 44.91 km (27.91 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "0771aaf0bb45a2ded055"
       },
       {
         "title": "M 5.0 - 95 km NNW of Coquimbo, Chile",
@@ -233,6 +269,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bb532454ea074b0f72b4"
+      },
+      {
+        "title": "M 4.8 - North Atlantic Ocean",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u273",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-14T03:30:00.040+00:00",
+        "fetched_at": "2026-10-14T03:36:49+00:00",
+        "summary": "Time 2026-10-14 03:02:14 UTC 2026-10-14 03:02:14 UTC at epicenter Location 5.006°N 27.584°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "4cecfb68b0748cd2c631"
       },
       {
         "title": "Salary Hero lands US$7.6M Series A to take its fight against loan sharks to Malaysia",
@@ -488,6 +560,42 @@
       "id": "3858e935b345b7aeb191"
     },
     {
+      "title": "M 4.9 - 16 km WSW of La Tirana, Chile",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-14T03:32:01.040+00:00",
+      "fetched_at": "2026-10-14T03:36:49+00:00",
+      "summary": "Time 2026-10-14 03:11:09 UTC 2026-10-14 03:11:09 UTC at epicenter Location 20.355°S 70.270°W Depth 44.91 km (27.91 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "0771aaf0bb45a2ded055"
+    },
+    {
       "title": "M 5.0 - 95 km NNW of Coquimbo, Chile",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -601,6 +709,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bb532454ea074b0f72b4"
+    },
+    {
+      "title": "M 4.8 - North Atlantic Ocean",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u273",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-14T03:30:00.040+00:00",
+      "fetched_at": "2026-10-14T03:36:49+00:00",
+      "summary": "Time 2026-10-14 03:02:14 UTC 2026-10-14 03:02:14 UTC at epicenter Location 5.006°N 27.584°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4cecfb68b0748cd2c631"
     },
     {
       "title": "Salary Hero lands US$7.6M Series A to take its fight against loan sharks to Malaysia",
@@ -767,131 +911,76 @@
   ],
   "new_findings": [
     {
-      "title": "楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
-      "url": "https://jvn.jp/jp/JVN47427200/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "M 4.9 - 16 km WSW of La Tirana, Chile",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-14T12:00:00+09:00",
-      "fetched_at": "2026-10-14T03:16:18+00:00",
-      "summary": "楽天モバイル株式会社が提供する複数のスマートフォンでは、Android Verified Boot（AVB）機能にAOSPのテスト用鍵が使用されています。",
+      "published_at": "2026-10-14T03:32:01.040+00:00",
+      "fetched_at": "2026-10-14T03:36:49+00:00",
+      "summary": "Time 2026-10-14 03:11:09 UTC 2026-10-14 03:11:09 UTC at epicenter Location 20.355°S 70.270°W Depth 44.91 km (27.91 mi)",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1a526d2ce1213deca37a"
-    },
-    {
-      "title": "Security Alert: Microsoft Releases October 2026 Security Updates",
-      "url": "https://www.jpcert.or.jp/english/at/2026/at260031.html",
-      "source": "JPCERT/CC English Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-14T11:25+09:00",
-      "fetched_at": "2026-10-14T03:16:18+00:00",
-      "summary": "Security Alert: Microsoft Releases October 2026 Security Updates",
-      "matched_keywords": [
-        "JPCERT",
-        "Security"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+7.5); JPCERT (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bb532454ea074b0f72b4"
-    },
-    {
-      "title": "Salary Hero lands US$7.6M Series A to take its fight against loan sharks to Malaysia",
-      "url": "https://e27.co/salary-hero-lands-us7-6m-series-a-to-take-its-fight-against-loan-sharks-to-malaysia-20261014/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-14T03:02:42+00:00",
-      "fetched_at": "2026-10-14T03:16:18+00:00",
-      "summary": "Bangkok-based financial health platform Salary Hero has raised US$7.6 million in a Series A round of investment led by Cento Ventures, with Malaysia’s Kairous Capital and M Venture Partners participating. The startup has also expanded its credit facility with regional banks and lenders to US$10 million, and is using the money to formally enter Malaysia, […] The post Salary Hero lands US$7.6M Series A to take its fig…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [
-        "capitals_power_centers"
+        "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "capitals_power_centers: capital"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "id": "c3fe68842440c0dd147d"
+      "id": "0771aaf0bb45a2ded055"
     },
     {
-      "title": "While the West invests in longevity, Southeast Asia still pays cash for the basics",
-      "url": "https://e27.co/while-the-west-invests-in-longevity-southeast-asia-still-pays-cash-for-the-basics-20261010/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 4.8 - North Atlantic Ocean",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u273",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-14T03:00:55+00:00",
-      "fetched_at": "2026-10-14T03:16:18+00:00",
-      "summary": "Longevity is having a moment. In the US, people pay up to US$2,499 for a full-body MRI and hundreds of dollars a month for peptide protocols, mostly out of pocket. In the Philippines, the picture is very different. Many families put off check-ups and screenings until symptoms become serious. When public hospital beds are full, […] The post While the West invests in longevity, Southeast Asia still pays cash for the b…",
+      "published_at": "2026-10-14T03:30:00.040+00:00",
+      "fetched_at": "2026-10-14T03:36:49+00:00",
+      "summary": "Time 2026-10-14 03:02:14 UTC 2026-10-14 03:02:14 UTC at epicenter Location 5.006°N 27.584°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9520f75070ee9a91f416"
-    },
-    {
-      "title": "無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2147849.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-14T00:44:08+00:00",
-      "fetched_at": "2026-10-14T03:16:18+00:00",
-      "summary": "無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "64f9adb2514879c332a0"
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4cecfb68b0748cd2c631"
     }
   ],
   "source_errors": [],

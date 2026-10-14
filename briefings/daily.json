@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T03:16:57+00:00",
-  "today_file_total": 14,
+  "generated_at": "2026-10-14T03:37:31+00:00",
+  "today_file_total": 16,
   "current_clusters": [
     {
       "key": "title:can-cut-170-billion-cost-buying-selling-homes",
@@ -26,6 +26,31 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "earthquake:chile:4.9",
+      "title": "M 4.9 - 16 km WSW of La Tirana, Chile",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "title:android-verified-boot",
       "title": "楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
       "sources": [
@@ -41,9 +66,9 @@
       "max_score": 14,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 19.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
@@ -95,52 +120,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:security-alert-microsoft-releases-october-2026-security-updates",
-      "title": "Security Alert: Microsoft Releases October 2026 Security Updates",
+      "key": "earthquake:m 4.8 - north atlantic ocean:4.8",
+      "title": "M 4.8 - North Atlantic Ocean",
       "sources": [
-        "JPCERT/CC English Alerts"
+        "USGS M4.5+ Earthquakes Past Hour"
       ],
       "source_classes": [
-        "tier3_specialist"
+        "tier1_official"
       ],
       "urls": [
-        "https://www.jpcert.or.jp/english/at/2026/at260031.html"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:salary-hero-lands-series-take-its-fight-against",
-      "title": "Salary Hero lands US$7.6M Series A to take its fight against loan sharks to Malaysia",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/salary-hero-lands-us7-6m-series-a-to-take-its-fight-against-loan-sharks-to-malaysia-20261014/"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u273"
       ],
       "finding_count": 1,
       "max_score": 9,
-      "credibility_total": 1.05,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 14.1,
+      "network_score": 14.7,
       "hot": false,
       "watchgraph_modules": [
-        "capitals_power_centers"
+        "earthquakes_tsunami"
       ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:chile:5.0",
@@ -216,24 +218,24 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:while-west-invests-longevity-southeast-asia-still-pays",
-      "title": "While the West invests in longevity, Southeast Asia still pays cash for the basics",
+      "key": "title:security-alert-microsoft-releases-october-2026-security-updates",
+      "title": "Security Alert: Microsoft Releases October 2026 Security Updates",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "JPCERT/CC English Alerts"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/while-the-west-invests-in-longevity-southeast-asia-still-pays-cash-for-the-basics-20261010/"
+        "https://www.jpcert.or.jp/english/at/2026/at260031.html"
       ],
       "finding_count": 1,
-      "max_score": 8,
+      "max_score": 10,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -264,23 +266,48 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:ibisoffice-ibispaint-rust-gpui-office",
-      "title": "無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証",
+      "key": "title:salary-hero-lands-series-take-its-fight-against",
+      "title": "Salary Hero lands US$7.6M Series A to take its fight against loan sharks to Malaysia",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://forest.watch.impress.co.jp/docs/news/2147849.html"
+        "https://e27.co/salary-hero-lands-us7-6m-series-a-to-take-its-fight-against-loan-sharks-to-malaysia-20261014/"
       ],
       "finding_count": 1,
-      "max_score": 5,
+      "max_score": 9,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:while-west-invests-longevity-southeast-asia-still-pays",
+      "title": "While the West invests in longevity, Southeast Asia still pays cash for the basics",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/while-the-west-invests-in-longevity-southeast-asia-still-pays-cash-for-the-basics-20261010/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
       "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -308,6 +335,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+    },
+    {
+      "key": "title:ibisoffice-ibispaint-rust-gpui-office",
+      "title": "無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://forest.watch.impress.co.jp/docs/news/2147849.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:dwarf-mini",
