@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T02:00:48+00:00",
+  "generated_at": "2026-10-14T02:29:28+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1154,7 +1154,7 @@
       "p90_usd": 108800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T01:09:21+00:00",
-      "last_seen_at": "2026-10-14T02:00:26+00:00",
+      "last_seen_at": "2026-10-14T02:29:10+00:00",
       "status": "active"
     },
     {
@@ -2446,7 +2446,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T06:37:14+00:00",
-      "last_seen_at": "2026-10-14T02:00:26+00:00",
+      "last_seen_at": "2026-10-14T02:29:10+00:00",
       "status": "active"
     },
     {
@@ -3262,7 +3262,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-14T01:09:21+00:00",
-      "last_seen_at": "2026-10-14T02:00:26+00:00",
+      "last_seen_at": "2026-10-14T02:29:10+00:00",
       "status": "active"
     },
     {
@@ -8927,6 +8927,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d49259de70ce41f1a0ea",
+      "title": "SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-14T02:00:26+00:00",
+      "last_seen_at": "2026-10-14T02:29:10+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_d5c5a3abe2e5829315e1",
       "title": "バッファロー製Wi-Fi製品における複数の脆弱性",
       "event_classes": [
@@ -9044,23 +9061,6 @@
       "first_seen_at": "2026-10-07T13:58:07+00:00",
       "last_seen_at": "2026-10-07T23:54:54+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_d49259de70ce41f1a0ea",
-      "title": "SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-14T02:00:26+00:00",
-      "last_seen_at": "2026-10-14T02:00:26+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -10045,7 +10045,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T01:51:27+00:00",
-      "last_seen_at": "2026-10-14T02:00:26+00:00",
+      "last_seen_at": "2026-10-14T02:29:10+00:00",
       "status": "active"
     },
     {
@@ -10521,7 +10521,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-14T02:00:26+00:00",
+      "last_seen_at": "2026-10-14T02:29:10+00:00",
       "status": "active"
     },
     {
@@ -12476,7 +12476,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T01:51:27+00:00",
-      "last_seen_at": "2026-10-14T02:00:26+00:00",
+      "last_seen_at": "2026-10-14T02:29:10+00:00",
       "status": "active"
     },
     {
