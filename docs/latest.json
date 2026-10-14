@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T12:05:36+00:00",
-  "run_id": "2026-10-14T12:05:36+00:00",
+  "generated_at": "2026-10-14T12:34:19+00:00",
+  "run_id": "2026-10-14T12:34:19+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 56
+      "configured_public_sources_only": 62
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 56,
-    "displayed_findings": 56,
+    "new_relevant_findings": 6,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 1,
-    "medium": 21,
-    "observe": 34,
+    "medium": 26,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -182,6 +182,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "29c944a25746e0f49e6a"
+      },
+      {
+        "title": "[NEU] [hoch] Adobe Magento Open Source: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3944",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-14T12:10:27+00:00",
+        "fetched_at": "2026-10-14T12:33:50+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Magento Open Source ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen sowie Daten offenzulegen oder zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Open Source",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cddefc65b7ba9f335204"
       },
       {
         "title": "The EU’s next chapter in AI is agentic",
@@ -433,6 +457,98 @@
         "id": "9e4e896052245cdc7a36"
       },
       {
+        "title": "[UPDATE] [mittel] GNU libc: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3522",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-14T12:10:31+00:00",
+        "fetched_at": "2026-10-14T12:33:50+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen, vertrauliche Informationen offenzulegen, den Speicher zu beschädigen oder einen Denial-of-Service-Zustand herbeizuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a182b44d31e6b2efb4b9"
+      },
+      {
+        "title": "[UPDATE] [niedrig] GNU libc: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3317",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-14T12:10:30+00:00",
+        "fetched_at": "2026-10-14T12:33:50+00:00",
+        "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in GNU libc ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "749c6f3e963007ad1bb9"
+      },
+      {
+        "title": "[NEU] [mittel] Adobe FrameMaker: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3943",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-14T12:10:27+00:00",
+        "fetched_at": "2026-10-14T12:33:50+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe FrameMaker ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "35ab98e55ad18730b057"
+      },
+      {
+        "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3945",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-14T12:10:27+00:00",
+        "fetched_at": "2026-10-14T12:33:50+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe ColdFusion ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitskontrollen zu umgehen, Daten offenzulegen oder zu manipulieren und Denial-of-Service-Zustände zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0727a3901a62976dc3f1"
+      },
+      {
         "title": "楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
         "url": "https://jvn.jp/jp/JVN47427200/",
         "source": "JVN Japan Vulnerability Notes",
@@ -655,6 +771,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a49a7b6ad30c49fb633e"
+      },
+      {
+        "title": "Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる｜shi3z",
+        "url": "https://note.com/shi3zblog/n/ncb38d2978074",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-14T06:49:13+00:00",
+        "fetched_at": "2026-10-14T12:33:50+00:00",
+        "summary": "Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる 実はClaude Codeは長時間動画を見ることができる。見るだけでなくてそこで何が起きているか、どんな会話がなされているかもみれる。 しかもただ見るだけでない。編集もできるしテロップも入れてくれる。 さらにInst...",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6c0fc763ee2e82fdac93"
       },
       {
         "title": "M 4.9 - 16 km WSW of La Tirana, Chile",
@@ -1572,6 +1710,30 @@
       "id": "29c944a25746e0f49e6a"
     },
     {
+      "title": "[NEU] [hoch] Adobe Magento Open Source: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3944",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-14T12:10:27+00:00",
+      "fetched_at": "2026-10-14T12:33:50+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Magento Open Source ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen sowie Daten offenzulegen oder zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Open Source",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cddefc65b7ba9f335204"
+    },
+    {
       "title": "The EU’s next chapter in AI is agentic",
       "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "source": "OpenAI News RSS",
@@ -1821,6 +1983,98 @@
       "id": "9e4e896052245cdc7a36"
     },
     {
+      "title": "[UPDATE] [mittel] GNU libc: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3522",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-14T12:10:31+00:00",
+      "fetched_at": "2026-10-14T12:33:50+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen, vertrauliche Informationen offenzulegen, den Speicher zu beschädigen oder einen Denial-of-Service-Zustand herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a182b44d31e6b2efb4b9"
+    },
+    {
+      "title": "[UPDATE] [niedrig] GNU libc: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3317",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-14T12:10:30+00:00",
+      "fetched_at": "2026-10-14T12:33:50+00:00",
+      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in GNU libc ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "749c6f3e963007ad1bb9"
+    },
+    {
+      "title": "[NEU] [mittel] Adobe FrameMaker: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3943",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-14T12:10:27+00:00",
+      "fetched_at": "2026-10-14T12:33:50+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe FrameMaker ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "35ab98e55ad18730b057"
+    },
+    {
+      "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3945",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-14T12:10:27+00:00",
+      "fetched_at": "2026-10-14T12:33:50+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe ColdFusion ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitskontrollen zu umgehen, Daten offenzulegen oder zu manipulieren und Denial-of-Service-Zustände zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0727a3901a62976dc3f1"
+    },
+    {
       "title": "楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
       "url": "https://jvn.jp/jp/JVN47427200/",
       "source": "JVN Japan Vulnerability Notes",
@@ -2041,6 +2295,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a49a7b6ad30c49fb633e"
+    },
+    {
+      "title": "Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる｜shi3z",
+      "url": "https://note.com/shi3zblog/n/ncb38d2978074",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-14T06:49:13+00:00",
+      "fetched_at": "2026-10-14T12:33:50+00:00",
+      "summary": "Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる 実はClaude Codeは長時間動画を見ることができる。見るだけでなくてそこで何が起きているか、どんな会話がなされているかもみれる。 しかもただ見るだけでない。編集もできるしテロップも入れてくれる。 さらにInst...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6c0fc763ee2e82fdac93"
     },
     {
       "title": "M 4.9 - 16 km WSW of La Tirana, Chile",
@@ -2804,25 +3080,142 @@
   ],
   "new_findings": [
     {
-      "title": "日本における「純粋な悪の代名詞」とは誰なのか（たとえばヒトラーのような） - 文化史（技術と人文科学） - はてなパークス",
-      "url": "https://p.hatena.ne.jp/p/1542167047763398656/t/1559549110216822784?s=1&m=raw",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[NEU] [hoch] Adobe Magento Open Source: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3944",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-14T09:29:50+00:00",
-      "fetched_at": "2026-10-14T12:05:00+00:00",
-      "summary": "「ヒトラーに例える論証」というものがあります。 例えば、 「彼のやり口は民主主義を破壊したヒトラーのやり方と全く同じだ。」 みたいなやつです。 ところで、ヒトラー以前もこのような論法はあったようです。 現代においては一般にヒトラーが引き合いに出されるが、この手の論理的誤謬は、第二次世界大戦以前から存在...",
+      "published_at": "2026-10-14T12:10:27+00:00",
+      "fetched_at": "2026-10-14T12:33:50+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Magento Open Source ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen sowie Daten offenzulegen oder zu manipulieren.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "BSI",
+        "CERT-Bund",
+        "Open Source",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cddefc65b7ba9f335204"
+    },
+    {
+      "title": "[UPDATE] [mittel] GNU libc: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3522",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-14T12:10:31+00:00",
+      "fetched_at": "2026-10-14T12:33:50+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen, vertrauliche Informationen offenzulegen, den Speicher zu beschädigen oder einen Denial-of-Service-Zustand herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "eecfda557b5623c66ede"
+      "id": "a182b44d31e6b2efb4b9"
+    },
+    {
+      "title": "[UPDATE] [niedrig] GNU libc: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3317",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-14T12:10:30+00:00",
+      "fetched_at": "2026-10-14T12:33:50+00:00",
+      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in GNU libc ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "749c6f3e963007ad1bb9"
+    },
+    {
+      "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3945",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-14T12:10:27+00:00",
+      "fetched_at": "2026-10-14T12:33:50+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe ColdFusion ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitskontrollen zu umgehen, Daten offenzulegen oder zu manipulieren und Denial-of-Service-Zustände zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0727a3901a62976dc3f1"
+    },
+    {
+      "title": "[NEU] [mittel] Adobe FrameMaker: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3943",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-14T12:10:27+00:00",
+      "fetched_at": "2026-10-14T12:33:50+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe FrameMaker ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "35ab98e55ad18730b057"
+    },
+    {
+      "title": "Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる｜shi3z",
+      "url": "https://note.com/shi3zblog/n/ncb38d2978074",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-14T06:49:13+00:00",
+      "fetched_at": "2026-10-14T12:33:50+00:00",
+      "summary": "Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる 実はClaude Codeは長時間動画を見ることができる。見るだけでなくてそこで何が起きているか、どんな会話がなされているかもみれる。 しかもただ見るだけでない。編集もできるしテロップも入れてくれる。 さらにInst...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6c0fc763ee2e82fdac93"
     }
   ],
   "source_errors": [],
