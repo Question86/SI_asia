@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T22:56:46+00:00_
+_Generiert: 2026-10-14T23:07:58+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 31, risk).
+85 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 31, risk).
 
 ## Priorität Hoch
 
@@ -47,6 +47,15 @@ _Generiert: 2026-10-14T22:56:46+00:00_
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.8); Public Health (+6.2); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: An AI chatbot that drafts a bad email is an embarrassment. An AI agent that sends it, to the wrong customer, with the wrong file attached, after approving the wrong refund, is a liability. Singapore’s regulators have clearly been losing sleep over the second scenario. On Wednesday, the Infocomm Media Development Authority (IMDA) announced three […] The post Singapore’s next AI industry may be the people who check th…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How Block is building AI-powered security with OpenAI technology** — Score 20, observation — [Quelle](https://openai.com/index/block-ai-powered-security)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-14T07:00:00+00:00`, fetched `2026-10-14T23:07:29+00:00`
+  - Treffer: AI/KI, OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); Security (+7.5); recent (+1.0)
+  - Kurz: Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Can AI cut the US$170 billion cost of buying and selling homes?** — Score 20, observation — [Quelle](https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-14T01:30:26+00:00`, fetched `2026-10-14T01:50:51+00:00`
@@ -83,15 +92,6 @@ _Generiert: 2026-10-14T22:56:46+00:00_
   - Warum relevant: Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Adobe Magento Open Source ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen sowie Daten offenzulegen oder zu manipulieren.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **The EU’s next chapter in AI is agentic** — Score 17, observation — [Quelle](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-10-14T00:00:00+00:00`, fetched `2026-10-14T09:37:43+00:00`
-  - Treffer: AI Agents, AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); recent (+1.0)
-  - Kurz: New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年10月13日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU92045336/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-14T13:30:40+09:00`, fetched `2026-10-14T04:40:34+00:00`

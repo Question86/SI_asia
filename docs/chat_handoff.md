@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-14T22:56:46+00:00_
+_Generated: 2026-10-14T23:07:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `84`
+- findings: `85`
 
 ## Top Signals
 
@@ -36,12 +36,12 @@ _Generated: 2026-10-14T22:56:46+00:00_
 - url: https://e27.co/singapores-next-ai-industry-may-be-the-people-who-check-the-agents-20261014/
 - summary: An AI chatbot that drafts a bad email is an embarrassment. An AI agent that sends it, to the wrong customer, with the wrong file attached, after approving the wrong refund, is a liability. Singapore’s regulators have clearly been losing sleep over the second…
 
-### 5. Can AI cut the US$170 billion cost of buying and selling homes?
-- source: e27 Asia Startup and Tech Feed
+### 5. How Block is building AI-powered security with OpenAI technology
+- source: OpenAI News RSS
 - score: `20`
-- published: `2026-10-14T01:30:26+00:00`
-- url: https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/
-- summary: In 2024, Americans spent about US$170 billion on real estate commissions and other costs involved in transferring ownership of homes. The Bureau of Economic Analysis estimate, cited by the Federal Reserve, is equal to roughly 0.6 per cent of US GDP. This is m…
+- published: `2026-10-14T07:00:00+00:00`
+- url: https://openai.com/index/block-ai-powered-security
+- summary: Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.
 
 ### 6. Manus came home, and Singapore couldn’t stop it
 - source: e27 Asia Startup and Tech Feed
