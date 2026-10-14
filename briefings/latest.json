@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T16:08:55+00:00",
-  "run_id": "2026-10-14T16:08:55+00:00",
+  "generated_at": "2026-10-14T16:28:26+00:00",
+  "run_id": "2026-10-14T16:28:26+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 72
+      "configured_public_sources_only": 73
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "new_relevant_findings": 1,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 1,
     "medium": 27,
-    "observe": 44,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -1657,6 +1657,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8d1c6ae3252c7caaf3bf"
+      },
+      {
+        "title": "楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存 利用停止と乗り換えを案内",
+        "url": "https://k-tai.watch.impress.co.jp/docs/news/2148168.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-14T11:08:25+00:00",
+        "fetched_at": "2026-10-14T16:27:56+00:00",
+        "summary": "楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存 利用停止と乗り換えを案内",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "65af14ef672b33f9da93"
       },
       {
         "title": "日本における「純粋な悪の代名詞」とは誰なのか（たとえばヒトラーのような） - 文化史（技術と人文科学） - はてなパークス",
@@ -3432,6 +3453,27 @@
       "id": "8d1c6ae3252c7caaf3bf"
     },
     {
+      "title": "楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存 利用停止と乗り換えを案内",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2148168.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-14T11:08:25+00:00",
+      "fetched_at": "2026-10-14T16:27:56+00:00",
+      "summary": "楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存 利用停止と乗り換えを案内",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "65af14ef672b33f9da93"
+    },
+    {
       "title": "日本における「純粋な悪の代名詞」とは誰なのか（たとえばヒトラーのような） - 文化史（技術と人文科学） - はてなパークス",
       "url": "https://p.hatena.ne.jp/p/1542167047763398656/t/1559549110216822784?s=1&m=raw",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3578,164 +3620,25 @@
   ],
   "new_findings": [
     {
-      "title": "Vulnérabilité dans Ceph (08 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1280/",
-      "source": "CERT-FR Avis de sécurité",
+      "title": "楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存 利用停止と乗り換えを案内",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2148168.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "fetched_at": "2026-10-14T16:08:25+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Ceph. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
+      "published_at": "2026-10-14T11:08:25+00:00",
+      "fetched_at": "2026-10-14T16:27:56+00:00",
+      "summary": "楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存 利用停止と乗り換えを案内",
       "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d18772b8d37e87e3152a"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Splunk (08 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1281/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "fetched_at": "2026-10-14T16:08:25+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3048d78116a902eb524c"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Cisco (08 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1282/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "fetched_at": "2026-10-14T16:08:25+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2c524509227d221fe83d"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (07 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1277/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "fetched_at": "2026-10-14T16:08:25+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e86074fc1ff0fca049ca"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Veeam (07 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1278/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "fetched_at": "2026-10-14T16:08:25+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "63c7cc26bb8934a1d50f"
-    },
-    {
-      "title": "Multiples vulnérabilités dans SPIP (07 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1279/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "fetched_at": "2026-10-14T16:08:25+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans SPIP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1ac75360f3a96145c9f1"
-    },
-    {
-      "title": "[MàJ] Vulnérabilité dans les produits Check Point (30 mai 2024)",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-008/",
-      "source": "CERT-FR Alertes",
-      "source_type": "rss",
-      "published_at": "2024-05-30T00:00:00+00:00",
-      "fetched_at": "2026-10-14T16:08:25+00:00",
-      "summary": "[Mise à jour du 31 mai 2024] Des preuves de concept sont désormais disponibles publiquement sur Internet. De plus, l'éditeur indique avoir détecté des tentatives de compromission à partir du 7 avril 2024. **[Publication Initiale]** Une vulnérabilité a été découverte dans les produits Check Point....",
-      "matched_keywords": [
-        "alerte",
-        "CERT-FR",
-        "vulnérabilité"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8d1c6ae3252c7caaf3bf"
+      "id": "65af14ef672b33f9da93"
     }
   ],
   "source_errors": [],
