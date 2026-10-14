@@ -1,25 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-14T09:38:14+00:00_
-
-## Singapore’s next AI industry may be the people who check the agents
-
-- Ranking Score: `29.0`
-- Raw Network Score: `24.1`
-- Max Monitor Score: `22`
-- Reichweite: `specialist` / `2.5`
-- Early Signal: `ja`
-- Dominanter Emitter: `nein`
-- Quellen: e27 Asia Startup and Tech Feed
-- Klassen: tier3_specialist
-- Cross-source bestaetigt: nein
-- Momentum: stable (+0)
-- Erste Quelle: https://e27.co/singapores-next-ai-industry-may-be-the-people-who-check-the-agents-20261014/
-- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
+_Generiert: 2026-10-14T09:50:55+00:00_
 
 ## Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45
 
-- Ranking Score: `23.23`
+- Ranking Score: `23.12`
 - Raw Network Score: `22.2`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`
