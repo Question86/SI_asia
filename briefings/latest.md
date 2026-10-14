@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T15:45:15+00:00_
+_Generiert: 2026-10-14T16:08:55+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 31, risk).
+72 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 31, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
