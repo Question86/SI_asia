@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-14T15:28:58+00:00_
+_Generated: 2026-10-14T15:45:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `64`
+- findings: `65`
 
 ## Top Signals
 
@@ -36,12 +36,12 @@ _Generated: 2026-10-14T15:28:58+00:00_
 - url: https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/
 - summary: In 2024, Americans spent about US$170 billion on real estate commissions and other costs involved in transferring ownership of homes. The Bureau of Economic Analysis estimate, cited by the Federal Reserve, is equal to roughly 0.6 per cent of US GDP. This is m…
 
-### 5. Singapore wants Google’s AI to catch scammers before victims hit send
-- source: e27 Asia Startup and Tech Feed
+### 5. How Third Moment Research runs 10,000 agents for 36+ hours
+- source: OpenAI News RSS
 - score: `19`
-- published: `2026-10-14T05:00:10+00:00`
-- url: https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/
-- summary: Singapore’s war on scams has mostly been fought far from the victim: in police operations centres, bank back offices and, more recently, in rulebooks telling platforms what they must block. Now the city-state wants part of that fight to happen inside the phon…
+- published: `2026-10-14T07:00:00+00:00`
+- url: https://openai.com/index/third-moment-research
+- summary: With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.
 
 ### 6. Manus came home, and Singapore couldn’t stop it
 - source: e27 Asia Startup and Tech Feed

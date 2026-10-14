@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-14T15:29:01+00:00_
+_Generiert: 2026-10-14T15:45:19+00:00_
 
 ## Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen
 
-- Ranking Score: `38.42`
+- Ranking Score: `38.14`
 - Raw Network Score: `33.1`
 - Max Monitor Score: `31`
 - Reichweite: `specialist` / `2.5`

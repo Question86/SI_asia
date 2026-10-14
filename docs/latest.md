@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T15:28:58+00:00_
+_Generiert: 2026-10-14T15:45:15+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 31, risk).
+65 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 31, risk).
 
 ## Priorität Hoch
 
@@ -46,6 +46,15 @@ _Generiert: 2026-10-14T15:28:58+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: In 2024, Americans spent about US$170 billion on real estate commissions and other costs involved in transferring ownership of homes. The Bureau of Economic Analysis estimate, cited by the Federal Reserve, is equal to roughly 0.6 per cent of US GDP. This is money spent not on the homes themselves, but largely on changing who […] The post Can AI cut the US$170 billion cost of buying and selling homes? appeared first…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How Third Moment Research runs 10,000 agents for 36+ hours** — Score 19, observation — [Quelle](https://openai.com/index/third-moment-research)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-14T07:00:00+00:00`, fetched `2026-10-14T15:44:46+00:00`
+  - Treffer: AI/KI, OpenAI, Security, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Security (+6.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singapore wants Google’s AI to catch scammers before victims hit send** — Score 19, risk — [Quelle](https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
