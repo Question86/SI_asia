@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-14T12:34:21+00:00_
+_Generiert: 2026-10-14T12:54:15+00:00_
 
 ## Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen
 
