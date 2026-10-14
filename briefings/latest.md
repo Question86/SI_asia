@@ -1,34 +1,34 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T18:50:02+00:00_
+_Generiert: 2026-10-14T19:59:51+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 31, risk).
+77 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 31, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-105134 Ahsay AhsayCBS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-14`
+  - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Ahsay AhsayCBS Command Injection Vulnerability
+- **CISA KEV: CVE-2026-76519 Cisco Secure Email Gateway** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-14`
+  - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Cisco Secure Email Gateway Relative Path Traversal Vulnerability
+- **CISA KEV: CVE-2026-105133 Ahsay AhsayCBS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-14`
+  - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Ahsay AhsayCBS Improper Authentication Vulnerability
+- **CISA KEV: CVE-2026-0322 Palo Alto Networks PAN-OS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-14`
+  - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Palo Alto Networks PAN-OS Code Injection Vulnerability
 - **CISA KEV: CVE-2026-104935 Ivanti Connect Secure** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-13`
   - Kurz: Known exploited vulnerability. Added 2026-10-13. Due 2026-10-16. Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability
-- **CISA KEV: CVE-2026-96951 Microsoft Windows** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-13`
-  - Kurz: Known exploited vulnerability. Added 2026-10-13. Due 2026-10-16. Microsoft Windows Command Injection Vulnerability
-- **CISA KEV: CVE-2015-5477 ISC BIND** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-08`
-  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11.  ISC BIND Data Processing Errors Vulnerability
-- **CISA KEV: CVE-2016-3081 Apache Struts** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-08`
-  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. Apache Struts Command Injection Vulnerability
-- **CISA KEV: CVE-2023-22894 Strapi Strapi** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-08`
-  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. Strapi Cleartext Storage of Sensitive Information Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.8M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571305)
   - Quelle: GDACS
   - Zeit: ``
@@ -326,14 +326,14 @@ _Generiert: 2026-10-14T18:50:02+00:00_
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0)
   - Kurz: 網擎資訊｜SecuShare Pro - OS Command Injection
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **フランス全土のスーパーマーケットの冷蔵庫を無理矢理50度まで上げたサイバー攻撃の詳細、パスワードは毎日自動更新で「本日の日付」になるという脆弱性** — Score 8, observation — [Quelle](https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/)
+- **HTML-in-Canvasで作る未来のWeb UI表現** — Score 8, observation — [Quelle](https://speakerdeck.com/clockmaker/html-in-canvas)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-14T06:06:27+00:00`, fetched `2026-10-14T08:29:54+00:00`
-  - Treffer: Hatena, hotentry, Open Source
+  - Zeit: published `2026-10-14T12:02:04+00:00`, fetched `2026-10-14T19:59:20+00:00`
+  - Treffer: Hatena, hotentry, Webentwicklung
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: フランス全土で「スーパーマーケットに設置された冷蔵庫の設定温度を50度にまで上げる」というサイバー攻撃が実施されました。このサイバー攻撃の詳細について、サイバーセキュリティ企業・Clarotyの脆弱(ぜいじゃく)性研究チームであるTeam82が報告しています。 Freeze the Controller, Defrost the Food: Uncovering V...
+  - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: フロントエンドカンファレンス関西2026の発表資料。 https://2026.frontend-conf.osaka.jp/ ■概要 HTML-in-Canvasという新しいAPIをオリジナルのデモで解説。 HTML・CSSから見た利点、Canvasタグから見た利点を掘り下げます。 …
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Frank Elderson: Ensuring resilience in the face of uncertainty** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
