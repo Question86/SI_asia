@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T10:55:40+00:00",
-  "run_id": "2026-10-14T10:55:40+00:00",
+  "generated_at": "2026-10-14T11:05:15+00:00",
+  "run_id": "2026-10-14T11:05:15+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 52
+      "configured_public_sources_only": 53
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 52,
-    "displayed_findings": 52,
+    "new_relevant_findings": 1,
+    "today_file_total": 53,
+    "displayed_findings": 53,
     "high": 1,
-    "medium": 19,
+    "medium": 20,
     "observe": 32,
     "source_errors": 0
   },
@@ -453,6 +453,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1a526d2ce1213deca37a"
+      },
+      {
+        "title": "[UPDATE] [mittel] libssh: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1385",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-14T11:01:17+00:00",
+        "fetched_at": "2026-10-14T11:04:43+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in libssh ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4e4cb2d55767530a4273"
       },
       {
         "title": "SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性",
@@ -1740,6 +1763,29 @@
       "id": "1a526d2ce1213deca37a"
     },
     {
+      "title": "[UPDATE] [mittel] libssh: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1385",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-14T11:01:17+00:00",
+      "fetched_at": "2026-10-14T11:04:43+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in libssh ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4e4cb2d55767530a4273"
+    },
+    {
       "title": "SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性",
       "url": "https://jvn.jp/jp/JVN88474777/",
       "source": "JVN Japan Vulnerability Notes",
@@ -2596,7 +2642,31 @@
       "id": "6601618a19ff4fb18a08"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "[UPDATE] [mittel] libssh: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1385",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-14T11:01:17+00:00",
+      "fetched_at": "2026-10-14T11:04:43+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in libssh ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4e4cb2d55767530a4273"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

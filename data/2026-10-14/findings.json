@@ -424,6 +424,29 @@
     "id": "1a526d2ce1213deca37a"
   },
   {
+    "title": "[UPDATE] [mittel] libssh: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1385",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-14T11:01:17+00:00",
+    "fetched_at": "2026-10-14T11:04:43+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in libssh ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4e4cb2d55767530a4273"
+  },
+  {
     "title": "SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性",
     "url": "https://jvn.jp/jp/JVN88474777/",
     "source": "JVN Japan Vulnerability Notes",
