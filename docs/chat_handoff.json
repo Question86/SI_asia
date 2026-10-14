@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-14T04:25:34+00:00",
+  "generated_at": "2026-10-14T04:41:06+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 6,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
-    "medium": 3,
+    "medium": 9,
     "observe": 17
   },
   "source_errors_count": 0,
@@ -25,23 +25,33 @@
       "section": "medium"
     },
     {
-      "title": "楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月13日）",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-10-14T12:00:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/jp/JVN47427200/",
-      "summary": "楽天モバイル株式会社が提供する複数のスマートフォンでは、Android Verified Boot（AVB）機能にAOSPのテスト用鍵が使用されています。",
+      "published_at": "2026-10-14T13:30:40+09:00",
+      "relevance_score": 16,
+      "url": "https://jvn.jp/vu/JVNVU92045336/",
+      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
       "section": "medium"
     },
     {
-      "title": "SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性",
+      "title": "Siemens製品に対するアップデート（2026年10月）",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-10-14T11:00:00+09:00",
+      "published_at": "2026-10-14T13:30:50+09:00",
       "relevance_score": 14,
-      "url": "https://jvn.jp/jp/JVN88474777/",
-      "summary": "EGセキュアソリューションズ株式会社が提供するSiteGuard Server Editionには、OSコマンドインジェクションの脆弱性が存在します。",
+      "url": "https://jvn.jp/vu/JVNVU90141693/",
+      "summary": "Siemensから各製品向けのアドバイザリが公表されました。",
+      "section": "medium"
+    },
+    {
+      "title": "KomodoサーバーのエージェントPeripheryにおけるOSコマンドインジェクションの脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-14T13:30:30+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU96061614/",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "section": "medium"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T04:25:37+00:00",
-  "today_file_total": 20,
+  "generated_at": "2026-10-14T04:41:10+00:00",
+  "today_file_total": 26,
   "current_clusters": [
     {
       "key": "title:can-cut-170-billion-cost-buying-selling-homes",
@@ -24,6 +24,144 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月13日）",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/vu/JVNVU92045336/"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:siemens-2026",
+      "title": "Siemens製品に対するアップデート（2026年10月）",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/vu/JVNVU90141693/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:komodo-periphery",
+      "title": "KomodoサーバーのエージェントPeripheryにおけるOSコマンドインジェクションの脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/vu/JVNVU96061614/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:lowcoder-query-library-api",
+      "title": "Lowcoder Query Library APIにおける認可回避の脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/vu/JVNVU91984971/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:openssl-apple-libressl-pyca-wolfssl-rfc-5280",
+      "title": "Go、OpenSSL、Apple、LibreSSL、pyca、wolfSSLのRFC 5280実装における名前制約が不整合である脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/vu/JVNVU91265939/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:shopware",
+      "title": "Shopwareにおけるクロスサイトスクリプティングの脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/vu/JVNVU94083107/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:android-verified-boot",
@@ -90,29 +228,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:read-sectors-not-headline-what-singapore-growth-upgrade",
-      "title": "Read the sectors, not the headline: What Singapore’s growth upgrade tells SEA founders",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/read-the-sectors-not-the-headline-what-singapores-growth-upgrade-tells-sea-founders-20261010/"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -239,52 +354,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:per-cent-singapore-employers-expect-staff-always-half",
-      "title": "85 per cent of Singapore employers expect staff to be always on. Half offer no help",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/85-per-cent-of-singapore-employers-expect-staff-to-be-always-on-half-offer-no-help-20261014/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.gizmodo.jp/article/2610-ai-voice-clone-scam/",
-      "title": "オレオレ詐欺がAIで極悪進化。無言電話に返した自分の声が、家族をだますヤバすぎる手口 | ギズモード・ジャパン",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.gizmodo.jp/article/2610-ai-voice-clone-scam/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
       "key": "earthquake:m 4.8 - north atlantic ocean:4.8",
       "title": "M 4.8 - North Atlantic Ocean",
       "sources": [
@@ -335,6 +404,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "title:read-sectors-not-headline-what-singapore-growth-upgrade",
+      "title": "Read the sectors, not the headline: What Singapore’s growth upgrade tells SEA founders",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/read-the-sectors-not-the-headline-what-singapores-growth-upgrade-tells-sea-founders-20261010/"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:salary-hero-lands-series-take-its-fight-against",
       "title": "Salary Hero lands US$7.6M Series A to take its fight against loan sharks to Malaysia",
       "sources": [
@@ -378,100 +470,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:245-resistance-hours-away-being-tested-will-buyers",
-      "title": "The US$84,245 resistance is hours away from being tested. Will buyers show up or fold?",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/the-us84245-resistance-is-hours-away-from-being-tested-will-buyers-show-up-or-fold-20261014/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:value-test-investors-what-founders-are-actually-buying",
-      "title": "The new value test for investors: What founders are actually buying when they take your cheque",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/the-new-value-test-for-investors-what-founders-are-actually-buying-when-they-take-your-cheque-20260916/"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
-    },
-    {
-      "key": "title:ibisoffice-ibispaint-rust-gpui-office",
-      "title": "無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://forest.watch.impress.co.jp/docs/news/2147849.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:dwarf-mini",
-      "title": "【やじうまミニレビュー】 宇宙ヤバイ！ベランダでアンドロメダ星雲が撮れるスマート望遠鏡DWARF mini",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147381.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

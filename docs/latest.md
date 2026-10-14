@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T04:25:34+00:00_
+_Generiert: 2026-10-14T04:41:06+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+26 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -21,23 +21,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: In 2024, Americans spent about US$170 billion on real estate commissions and other costs involved in transferring ownership of homes. The Bureau of Economic Analysis estimate, cited by the Federal Reserve, is equal to roughly 0.6 per cent of US GDP. This is money spent not on the homes themselves, but largely on changing who […] The post Can AI cut the US$170 billion cost of buying and selling homes? appeared first…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN47427200/)
+- **CISA ICS Advisory / ICS Medical Advisory（2026年10月13日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU92045336/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-10-14T12:00:00+09:00`, fetched `2026-10-14T03:16:18+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
+  - Zeit: published `2026-10-14T13:30:40+09:00`, fetched `2026-10-14T04:40:34+00:00`
+  - Treffer: advisory, APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 楽天モバイル株式会社が提供する複数のスマートフォンでは、Android Verified Boot（AVB）機能にAOSPのテスト用鍵が使用されています。
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN88474777/)
+- **Siemens製品に対するアップデート（2026年10月）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90141693/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-10-14T11:00:00+09:00`, fetched `2026-10-14T01:59:45+00:00`
+  - Zeit: published `2026-10-14T13:30:50+09:00`, fetched `2026-10-14T04:40:34+00:00`
   - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: EGセキュアソリューションズ株式会社が提供するSiteGuard Server Editionには、OSコマンドインジェクションの脆弱性が存在します。
+  - Kurz: Siemensから各製品向けのアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **KomodoサーバーのエージェントPeripheryにおけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96061614/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-10-14T13:30:30+09:00`, fetched `2026-10-14T04:40:34+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
