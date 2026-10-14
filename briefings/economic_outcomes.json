@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T04:26:06+00:00",
+  "generated_at": "2026-10-14T04:41:46+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -166,6 +166,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_01dd3cdec1f8751945fc",
+      "title": "Go、OpenSSL、Apple、LibreSSL、pyca、wolfSSLのRFC 5280実装における名前制約が不整合である脆弱性",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_01e5096d8cf45e97ab0e",
@@ -4295,13 +4306,13 @@
     {
       "event_id": "evt_434f0019657739edcfe0",
       "title": "85 per cent of Singapore employers expect staff to be always on. Half offer no help",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_435a024882db9ec5419c",
@@ -5270,6 +5281,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_500eeba58ccd3f0616e9",
+      "title": "Shopwareにおけるクロスサイトスクリプティングの脆弱性",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_508cc52b4823dd9222a5",
@@ -6391,7 +6413,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_62194cb8e571f2c6e25f",
@@ -7144,13 +7166,13 @@
     {
       "event_id": "evt_6d120b66a05465a0b9a9",
       "title": "オレオレ詐欺がAIで極悪進化。無言電話に返した自分の声が、家族をだますヤバすぎる手口 | ギズモード・ジャパン",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6d1f945f924440974f9c",
@@ -8624,7 +8646,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_81d0cef83b00b5206385",
@@ -10758,7 +10780,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a3140b3343ccc0817b9c",
@@ -14193,6 +14215,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d97b7f8b56f9b639950e",
+      "title": "Lowcoder Query Library APIにおける認可回避の脆弱性",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_d97f65e4066978ef9482",
       "title": "The credential trap: Why outsiders are winning in signal intelligence",
       "deduplicated_buckets": 0,
@@ -15257,7 +15290,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_e8746c574b43d3321b15",
@@ -15455,7 +15488,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_eb16236e5ba8a531e765",
@@ -15546,6 +15579,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ebbff876337b0a864f43",
+      "title": "KomodoサーバーのエージェントPeripheryにおけるOSコマンドインジェクションの脆弱性",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_ec0aeef3e45a0530029f",
       "title": "M 5.3 - 84 km SSW of Nikolski, Alaska",
       "deduplicated_buckets": 0,
@@ -15631,7 +15675,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ed3559ae697216e75477",
@@ -16670,12 +16714,12 @@
     {
       "event_id": "evt_fe563fe0409808f7afb0",
       "title": "Read the sectors, not the headline: What Singapore’s growth upgrade tells SEA founders",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
