@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T08:50:27+00:00",
+  "generated_at": "2026-10-14T09:38:14+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 43,
-    "clusters": 40,
+    "findings": 48,
+    "clusters": 41,
     "cross_source_confrmed": 2,
     "hot": 2,
-    "early_signals": 3,
+    "early_signals": 1,
     "dominance_penalized": 5
   },
   "clusters": [
@@ -49,6 +49,47 @@
       "first_seen_at": "2026-10-14T08:30:30+00:00"
     },
     {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (goose, environment-modules, tornado): Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3883",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3892",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3884",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3885"
+      ],
+      "finding_count": 4,
+      "max_score": 16,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 3,
+      "momentum_status": "increasing",
+      "network_score": 25.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 33.4,
+      "ranking_score": 25.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 7.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
       "key": "github_repo:vercel-labs/skills",
       "title": "vercel-labs/skills",
       "sources": [
@@ -89,6 +130,44 @@
       "first_seen_at": "2026-10-14T06:09:37+00:00"
     },
     {
+      "key": "domain:openai.com",
+      "title": "The EU’s next chapter in AI is agentic",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+      ],
+      "finding_count": 1,
+      "max_score": 17,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 24.23,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 22.1,
+      "ranking_score": 24.23,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 3.23,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
+    },
+    {
       "key": "domain:www.ecb.europa.eu",
       "title": "Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45",
       "sources": [
@@ -109,18 +188,18 @@
       "cross_source_confirmed": true,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 23.34,
+      "network_score": 23.23,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 22.2,
-      "ranking_score": 23.34,
+      "ranking_score": 23.23,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 5.5,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.84,
+      "baseline_bonus": 2.73,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -128,44 +207,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
-    {
-      "key": "domain:asp.net",
-      "title": "[NEU] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3893"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 23.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 18.1,
-      "ranking_score": 23.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-14T08:02:24+00:00"
     },
     {
       "key": "title:can-cut-170-billion-cost-buying-selling-homes",
@@ -204,44 +245,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-14T01:51:27+00:00"
-    },
-    {
-      "key": "title:cube4-amazonpay-web",
-      "title": "EC-CUBE4系用プラグイン「AmazonPayプラグイン」における不変と想定しているWebパラメータの外部制御の脆弱性",
-      "sources": [
-        "JVN Japan Vulnerability Notes"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://jvn.jp/jp/JVN43511918/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 21.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-14T08:02:24+00:00"
     },
     {
       "key": "title:singapore-wants-google-catch-scammers-before-victims-hit",
@@ -320,8 +323,8 @@
       "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [kritisch] Microsoft Windows und Windows Server: Mehrere Schwachstellen",
+      "key": "domain:asp.net",
+      "title": "[NEU] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -329,7 +332,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3892"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3893"
       ],
       "finding_count": 1,
       "max_score": 16,
@@ -355,7 +358,45 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
+      "first_seen_at": "2026-10-14T08:02:24+00:00"
+    },
+    {
+      "key": "title:cube4-amazonpay-web",
+      "title": "EC-CUBE4系用プラグイン「AmazonPayプラグイン」における不変と想定しているWebパラメータの外部制御の脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/jp/JVN43511918/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-14T08:02:24+00:00"
     },
     {
       "key": "title:siemens-2026",
@@ -624,6 +665,45 @@
       "first_seen_at": "2026-10-14T02:00:26+00:00"
     },
     {
+      "key": "domain:gigazine.net",
+      "title": "フランス全土のスーパーマーケットの冷蔵庫を無理矢理50度まで上げたサイバー攻撃の詳細、パスワードは毎日自動更新で「本日の日付」になるという脆弱性",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/",
+        "https://gigazine.net/news/20261014-anthropic-scion-version-control-system/"
+      ],
+      "finding_count": 2,
+      "max_score": 8,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.01,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 15.2,
+      "ranking_score": 15.01,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 3.01,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
       "key": "title:manus-came-home-singapore-couldn-stop",
       "title": "Manus came home, and Singapore couldn’t stop it",
       "sources": [
@@ -758,18 +838,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.83,
+      "network_score": 12.78,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.1,
-      "ranking_score": 12.83,
+      "ranking_score": 12.78,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.33,
+      "baseline_bonus": 0.28,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -854,44 +934,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-14T03:16:57+00:00"
-    },
-    {
-      "key": "domain:gigazine.net",
-      "title": "フランス全土のスーパーマーケットの冷蔵庫を無理矢理50度まで上げたサイバー攻撃の詳細、パスワードは毎日自動更新で「本日の日付」になるという脆弱性",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.58,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 10.58,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.08,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
       "key": "title:read-sectors-not-headline-what-singapore-growth-upgrade",
@@ -1561,7 +1603,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-14T08:50:28Z",
+    "generated_at": "2026-10-14T09:38:15Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T08:50:23+00:00_
+_Generiert: 2026-10-14T09:38:12+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+48 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore’s war on scams has mostly been fought far from the victim: in police operations centres, bank back offices and, more recently, in rulebooks telling platforms what they must block. Now the city-state wants part of that fight to happen inside the phone itself. Google on Wednesday announced two initiatives with the Singapore Government, unveiled […] The post Singapore wants Google’s AI to catch scammers befor…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The EU’s next chapter in AI is agentic** — Score 17, observation — [Quelle](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-14T00:00:00+00:00`, fetched `2026-10-14T09:37:43+00:00`
+  - Treffer: AI Agents, AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); recent (+1.0)
+  - Kurz: New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年10月13日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU92045336/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-14T13:30:40+09:00`, fetched `2026-10-14T04:40:34+00:00`
@@ -57,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Red Hat Enterprise Linux (goose, environment-modules, tornado): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3883)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-14T09:14:12+00:00`, fetched `2026-10-14T09:37:43+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, beliebigen Code auszuführen oder Denial-of-Service-Zustände herbeizuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3893)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-14T07:49:11+00:00`, fetched `2026-10-14T08:01:48+00:00`

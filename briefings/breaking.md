@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-14T08:50:27+00:00_
+_Generiert: 2026-10-14T09:38:14+00:00_
 
 ## Singapore’s next AI industry may be the people who check the agents
 
@@ -19,7 +19,7 @@ _Generiert: 2026-10-14T08:50:27+00:00_
 
 ## Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45
 
-- Ranking Score: `23.34`
+- Ranking Score: `23.23`
 - Raw Network Score: `22.2`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`

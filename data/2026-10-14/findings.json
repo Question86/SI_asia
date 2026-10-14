@@ -116,6 +116,28 @@
     "id": "29c944a25746e0f49e6a"
   },
   {
+    "title": "The EU’s next chapter in AI is agentic",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-10-14T00:00:00+00:00",
+    "fetched_at": "2026-10-14T09:37:43+00:00",
+    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8fa0a35bfa5bf2e9a443"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月13日）",
     "url": "https://jvn.jp/vu/JVNVU92045336/",
     "source": "JVN Japan Vulnerability Notes",
@@ -137,6 +159,30 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "379e3c85e427038c11bc"
+  },
+  {
+    "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (goose, environment-modules, tornado): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3883",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-14T09:14:12+00:00",
+    "fetched_at": "2026-10-14T09:37:43+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, beliebigen Code auszuführen oder Denial-of-Service-Zustände herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5d2a53d6c392322d3b00"
   },
   {
     "title": "[NEU] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen",
@@ -361,6 +407,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "96ff732d9097e491b34f"
+  },
+  {
+    "title": "[UPDATE] [mittel] Dell BIOS: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3884",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-14T09:14:12+00:00",
+    "fetched_at": "2026-10-14T09:37:43+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Dell BIOS ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e6e0c1b7a2fd05b79b53"
+  },
+  {
+    "title": "[UPDATE] [mittel] FreeType: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3885",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-14T09:14:11+00:00",
+    "fetched_at": "2026-10-14T09:37:43+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FreeType ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "018ce5e046446efe8575"
   },
   {
     "title": "Manus came home, and Singapore couldn’t stop it",
@@ -1005,6 +1097,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "adc1064e5a86eb085494"
+  },
+  {
+    "title": "AnthropicがGit代替のバージョン管理システム「Scion」を開発し社内移行済み、AIでコードが爆増してGitの限界に達したので耐えられるシステムを開発",
+    "url": "https://gigazine.net/news/20261014-anthropic-scion-version-control-system/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-14T04:36:13+00:00",
+    "fetched_at": "2026-10-14T09:37:43+00:00",
+    "summary": "Claudeの開発元として知られるAI企業のAnthropicが、Gitの代わりとなるバージョン管理システム「Scion」を開発したことを発表しました。ScionはAnthropicの社内システムとして運用されており、すでにGitからの移行を達成しているそうです。 Redesigning source control at Anthropic \\ Anthropic https://www.anthropic....",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e96e36fb34ef45d675e8"
   },
   {
     "title": "SBI証券のFXで“誤ロスカット” 再委託先IIJが作業ミス、システムでも検知できず 779口座が対象",
