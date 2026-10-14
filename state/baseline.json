@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T07:27:44+00:00",
+  "generated_at": "2026-10-14T08:02:24+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -909,8 +909,8 @@
       "z_hint": 0.0
     },
     "domain:www.bis.org": {
-      "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
-      "updated_at": "2026-10-13T23:58:13+00:00",
+      "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         49.2,
         49.2,
@@ -941,12 +941,12 @@
         49.2,
         49.2,
         49.2,
-        49.2
+        11.1
       ],
-      "rolling_average": 49.2,
+      "rolling_average": 47.93,
       "rolling_peak": 49.2,
-      "last_score": 49.2,
-      "z_hint": -0.0
+      "last_score": 11.1,
+      "z_hint": -36.83
     },
     "domain:www.federalreserve.gov": {
       "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
@@ -990,9 +990,8 @@
     },
     "domain:www.ecb.europa.eu": {
       "title": "Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
-        14.1,
         14.1,
         17.1,
         14.1,
@@ -1021,12 +1020,13 @@
         14.1,
         14.1,
         14.1,
-        17.1
+        17.1,
+        25.2
       ],
-      "rolling_average": 14.3,
-      "rolling_peak": 17.1,
-      "last_score": 17.1,
-      "z_hint": 2.8
+      "rolling_average": 14.67,
+      "rolling_peak": 25.2,
+      "last_score": 25.2,
+      "z_hint": 10.53
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -2868,7 +2868,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月13日）",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2890,8 +2890,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -3944,9 +3944,8 @@
     },
     "domain:www.nikkei.com": {
       "title": "AI、家電乗っ取り増殖の恐れ アンソロピック「デジタル粘菌」と警告 - 日本経済新聞",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
-        12.1,
         9.1,
         9.1,
         9.1,
@@ -3975,12 +3974,13 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 11.97,
+      "rolling_average": 12.0,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": 1.13
+      "z_hint": 1.1
     },
     "title:economy-moving-faster-than-our-institutions": {
       "title": "The AI economy is moving faster than our institutions",
@@ -4321,7 +4321,7 @@
     },
     "domain:www.heise.de": {
       "title": "Patchday: Attacken auf verschiedene Windows-Versionen beobachtet",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         22.5,
         22.5,
@@ -4351,13 +4351,13 @@
         22.5,
         22.5,
         22.5,
-        22.5,
-        12.1
+        12.1,
+        9.1
       ],
-      "rolling_average": 22.15,
+      "rolling_average": 21.71,
       "rolling_peak": 22.5,
-      "last_score": 12.1,
-      "z_hint": -10.05
+      "last_score": 9.1,
+      "z_hint": -12.61
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -4661,7 +4661,7 @@
     },
     "domain:www.twcert.org": {
       "title": "網擎資訊｜SecuShare Pro - OS Command Injection",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         25.4,
         25.4,
@@ -4690,14 +4690,14 @@
         25.4,
         25.4,
         25.4,
-        25.4,
         15.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 24.61,
+      "rolling_average": 24.17,
       "rolling_peak": 25.4,
       "last_score": 12.1,
-      "z_hint": -12.51
+      "z_hint": -12.07
     },
     "cve:CVE-2025-55182": {
       "title": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
@@ -5838,8 +5838,8 @@
       "z_hint": 0.0
     },
     "domain:wid.cert-bund.de": {
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libgd): Schwachstelle ermöglicht Codeausführung",
-      "updated_at": "2026-10-13T23:58:13+00:00",
+      "title": "[NEU] [kritisch] Microsoft Windows und Windows Server: Mehrere Schwachstellen",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         55.9,
         55.9,
@@ -5870,12 +5870,12 @@
         55.9,
         55.9,
         55.9,
-        55.9
+        21.1
       ],
-      "rolling_average": 55.9,
+      "rolling_average": 54.74,
       "rolling_peak": 55.9,
-      "last_score": 55.9,
-      "z_hint": -0.0
+      "last_score": 21.1,
+      "z_hint": -33.64
     },
     "title:why-every-warehouse-singapore-will-run-safety-monitoring": {
       "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
@@ -15568,7 +15568,7 @@
     },
     "earthquake:chile:5.1": {
       "title": "M 5.1 - 92 km NW of La Serena, Chile",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -15579,8 +15579,8 @@
         13.7,
         13.7,
         13.7,
-        13.7,
         16.7,
+        13.7,
         13.7,
         13.7,
         13.7,
@@ -17266,7 +17266,7 @@
     },
     "title:siemens-2026": {
       "title": "Siemens製品に対するアップデート（2026年10月）",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -17288,8 +17288,8 @@
         16.1,
         16.1,
         16.1,
-        16.1,
         19.1,
+        16.1,
         16.1,
         16.1,
         16.1,
@@ -72177,7 +72177,7 @@
     },
     "earthquake:chile:5.0": {
       "title": "M 5.0 - 95 km NNW of Coquimbo, Chile",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -72198,16 +72198,17 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 13.85,
+      "rolling_average": 13.84,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "title:value-test-investors-what-founders-are-actually-buying": {
       "title": "The new value test for investors: What founders are actually buying when they take your cheque",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -72228,16 +72229,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.25,
+      "rolling_average": 8.24,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "title:can-cut-170-billion-cost-buying-selling-homes": {
       "title": "Can AI cut the US$170 billion cost of buying and selling homes?",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         25.1,
         22.1,
@@ -72256,16 +72258,17 @@
         22.1,
         22.1,
         22.1,
+        22.1,
         22.1
       ],
-      "rolling_average": 22.27,
+      "rolling_average": 22.26,
       "rolling_peak": 25.1,
       "last_score": 22.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:manus-came-home-singapore-couldn-stop": {
       "title": "Manus came home, and Singapore couldn’t stop it",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         18.1,
         15.1,
@@ -72284,16 +72287,17 @@
         15.1,
         15.1,
         15.1,
+        15.1,
         15.1
       ],
-      "rolling_average": 15.27,
+      "rolling_average": 15.26,
       "rolling_peak": 18.1,
       "last_score": 15.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:siteguard-server-edition": {
       "title": "SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -72311,16 +72315,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.28,
+      "rolling_average": 16.27,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "earthquake:m 4.6 - 75 km e of kokopo, papua new guinea:4.6": {
       "title": "M 4.6 - 75 km E of Kokopo, Papua New Guinea",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -72336,16 +72341,143 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.9,
+      "rolling_average": 11.89,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:dwarf-mini": {
       "title": "【やじうまミニレビュー】 宇宙ヤバイ！ベランダでアンドロメダ星雲が撮れるスマート望遠鏡DWARF mini",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.29,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.19
+    },
+    "title:android-verified-boot": {
+      "title": "楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
+      "updated_at": "2026-10-14T08:02:24+00:00",
+      "network_scores": [
+        19.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1
+      ],
+      "rolling_average": 16.3,
+      "rolling_peak": 19.1,
+      "last_score": 16.1,
+      "z_hint": -0.2
+    },
+    "title:security-alert-microsoft-releases-october-2026-security-updates": {
+      "title": "Security Alert: Microsoft Releases October 2026 Security Updates",
+      "updated_at": "2026-10-14T08:02:24+00:00",
+      "network_scores": [
+        15.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1
+      ],
+      "rolling_average": 12.3,
+      "rolling_peak": 15.1,
+      "last_score": 12.1,
+      "z_hint": -0.2
+    },
+    "title:salary-hero-lands-series-take-its-fight-against": {
+      "title": "Salary Hero lands US$7.6M Series A to take its fight against loan sharks to Malaysia",
+      "updated_at": "2026-10-14T08:02:24+00:00",
+      "network_scores": [
+        14.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1
+      ],
+      "rolling_average": 11.3,
+      "rolling_peak": 14.1,
+      "last_score": 11.1,
+      "z_hint": -0.2
+    },
+    "title:while-west-invests-longevity-southeast-asia-still-pays": {
+      "title": "While the West invests in longevity, Southeast Asia still pays cash for the basics",
+      "updated_at": "2026-10-14T08:02:24+00:00",
+      "network_scores": [
+        13.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1
+      ],
+      "rolling_average": 10.3,
+      "rolling_peak": 13.1,
+      "last_score": 10.1,
+      "z_hint": -0.2
+    },
+    "title:ibisoffice-ibispaint-rust-gpui-office": {
+      "title": "無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -72368,129 +72500,9 @@
       "last_score": 7.1,
       "z_hint": -0.2
     },
-    "title:android-verified-boot": {
-      "title": "楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
-      "updated_at": "2026-10-14T07:27:44+00:00",
-      "network_scores": [
-        19.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1
-      ],
-      "rolling_average": 16.31,
-      "rolling_peak": 19.1,
-      "last_score": 16.1,
-      "z_hint": -0.21
-    },
-    "title:security-alert-microsoft-releases-october-2026-security-updates": {
-      "title": "Security Alert: Microsoft Releases October 2026 Security Updates",
-      "updated_at": "2026-10-14T07:27:44+00:00",
-      "network_scores": [
-        15.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1
-      ],
-      "rolling_average": 12.31,
-      "rolling_peak": 15.1,
-      "last_score": 12.1,
-      "z_hint": -0.21
-    },
-    "title:salary-hero-lands-series-take-its-fight-against": {
-      "title": "Salary Hero lands US$7.6M Series A to take its fight against loan sharks to Malaysia",
-      "updated_at": "2026-10-14T07:27:44+00:00",
-      "network_scores": [
-        14.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1
-      ],
-      "rolling_average": 11.31,
-      "rolling_peak": 14.1,
-      "last_score": 11.1,
-      "z_hint": -0.21
-    },
-    "title:while-west-invests-longevity-southeast-asia-still-pays": {
-      "title": "While the West invests in longevity, Southeast Asia still pays cash for the basics",
-      "updated_at": "2026-10-14T07:27:44+00:00",
-      "network_scores": [
-        13.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1
-      ],
-      "rolling_average": 10.31,
-      "rolling_peak": 13.1,
-      "last_score": 10.1,
-      "z_hint": -0.21
-    },
-    "title:ibisoffice-ibispaint-rust-gpui-office": {
-      "title": "無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証",
-      "updated_at": "2026-10-14T07:27:44+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.31,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.21
-    },
     "earthquake:chile:4.9": {
       "title": "M 4.9 - 16 km WSW of La Tirana, Chile",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -72504,16 +72516,17 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 13.93,
+      "rolling_average": 13.91,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "earthquake:m 4.8 - north atlantic ocean:4.8": {
       "title": "M 4.8 - North Atlantic Ocean",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -72527,16 +72540,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.93,
+      "rolling_average": 11.91,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:245-resistance-hours-away-being-tested-will-buyers": {
       "title": "The US$84,245 resistance is hours away from being tested. Will buyers show up or fold?",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         12.1,
         9.1,
@@ -72549,18 +72563,20 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.35,
+      "rolling_average": 9.33,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "title:read-sectors-not-headline-what-singapore-growth-upgrade": {
       "title": "Read the sectors, not the headline: What Singapore’s growth upgrade tells SEA founders",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         14.1,
+        11.1,
         11.1,
         11.1,
         11.1,
@@ -72571,14 +72587,14 @@
         11.1,
         11.1
       ],
-      "rolling_average": 11.4,
+      "rolling_average": 11.37,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:per-cent-singapore-employers-expect-staff-always-half": {
       "title": "85 per cent of Singapore employers expect staff to be always on. Half offer no help",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         12.1,
         9.1,
@@ -72589,16 +72605,17 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.4,
+      "rolling_average": 9.37,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "url:https://www.gizmodo.jp/article/2610-ai-voice-clone-scam/": {
       "title": "オレオレ詐欺がAIで極悪進化。無言電話に返した自分の声が、家族をだますヤバすぎる手口 | ギズモード・ジャパン",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         12.1,
         9.1,
@@ -72609,16 +72626,17 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.4,
+      "rolling_average": 9.37,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:komodo-periphery": {
       "title": "KomodoサーバーのエージェントPeripheryにおけるOSコマンドインジェクションの脆弱性",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -72628,16 +72646,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.43,
+      "rolling_average": 16.4,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:lowcoder-query-library-api": {
       "title": "Lowcoder Query Library APIにおける認可回避の脆弱性",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -72647,16 +72666,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.43,
+      "rolling_average": 16.4,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:openssl-apple-libressl-pyca-wolfssl-rfc-5280": {
       "title": "Go、OpenSSL、Apple、LibreSSL、pyca、wolfSSLのRFC 5280実装における名前制約が不整合である脆弱性",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -72666,16 +72686,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.43,
+      "rolling_average": 16.4,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:shopware": {
       "title": "Shopwareにおけるクロスサイトスクリプティングの脆弱性",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -72685,16 +72706,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.43,
+      "rolling_average": 16.4,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:sbi-iij-779": {
       "title": "SBI証券のFXで“誤ロスカット” 再委託先IIJが作業ミス、システムでも検知できず 779口座が対象",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -72703,71 +72725,98 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.48,
+      "rolling_average": 7.43,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "title:singapore-wants-google-catch-scammers-before-victims-hit": {
       "title": "Singapore wants Google’s AI to catch scammers before victims hit send",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         24.1,
         21.1,
         21.1,
         21.1,
         21.1,
+        21.1,
         21.1
       ],
-      "rolling_average": 21.6,
+      "rolling_average": 21.53,
       "rolling_peak": 24.1,
       "last_score": 21.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:parallel-loop-nets-sell-enterprises-one-thing-models": {
       "title": "Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         17.1,
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.7,
+      "rolling_average": 14.6,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "github_repo:vercel-labs/skills": {
       "title": "vercel-labs/skills",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         28.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.85,
+      "rolling_average": 25.7,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "url:https://www.digital.go.jp/councils/compliance/91dadb4f-4f6a-486c-9167-528e1564b3e7": {
       "title": "デジタル庁コンプライアンス委員会（第12回）の議事要旨および資料を掲載しました",
-      "updated_at": "2026-10-14T07:27:44+00:00",
+      "updated_at": "2026-10-14T08:02:24+00:00",
       "network_scores": [
         11.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.85,
+      "rolling_average": 8.7,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
+    },
+    "domain:asp.net": {
+      "title": "[NEU] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen",
+      "updated_at": "2026-10-14T08:02:24+00:00",
+      "network_scores": [
+        21.1
+      ],
+      "rolling_average": 21.1,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
+      "z_hint": 0.0
+    },
+    "title:cube4-amazonpay-web": {
+      "title": "EC-CUBE4系用プラグイン「AmazonPayプラグイン」における不変と想定しているWebパラメータの外部制御の脆弱性",
+      "updated_at": "2026-10-14T08:02:24+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
     }
   }
 }

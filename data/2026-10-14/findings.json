@@ -116,6 +116,76 @@
     "id": "379e3c85e427038c11bc"
   },
   {
+    "title": "[NEU] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3893",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-14T07:49:11+00:00",
+    "fetched_at": "2026-10-14T08:01:48+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft .NET Framework, Microsoft .NET, Microsoft ASP.NET, Microsoft Visual Studio 2022, Microsoft Visual Studio 2026, Microsoft Visual Studio Code, Microsoft SysInternals und Microsoft PowerShell ausnutzen, um seine Privilegien zu erhöhen, um Code auszuführen, um Informationen offenzulegen, um Sicherheitsmechanismen zu umgehen und um einen Denial of Service Zustand her…",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b919c459cd756d1aeb0b"
+  },
+  {
+    "title": "[NEU] [kritisch] Microsoft Windows und Windows Server: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3892",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-14T07:34:11+00:00",
+    "fetched_at": "2026-10-14T08:01:48+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in verschiedenen Versionen von Microsoft Windows Server und Microsoft Windows ausnutzen, um seine Privilegien auf administrative Rechte zu erhöhen, um beliebigen Code auszuführen, um Informationen offenzulegen, um einen Denial of Service herbeizuführen, um den Benutzer zu täuschen und andere, nicht näher spezifizierte Auswirkungen zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0bedf17b20eff876b528"
+  },
+  {
+    "title": "EC-CUBE4系用プラグイン「AmazonPayプラグイン」における不変と想定しているWebパラメータの外部制御の脆弱性",
+    "url": "https://jvn.jp/jp/JVN43511918/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-10-14T17:00:00+09:00",
+    "fetched_at": "2026-10-14T08:01:48+00:00",
+    "summary": "株式会社イーシーキューブが提供するEC-CUBE4系用プラグイン「AmazonPayプラグイン」には、不変と想定しているWebパラメータの外部制御の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dde228d84c32118f02c8"
+  },
+  {
     "title": "Siemens製品に対するアップデート（2026年10月）",
     "url": "https://jvn.jp/vu/JVNVU90141693/",
     "source": "JVN Japan Vulnerability Notes",
@@ -664,6 +734,26 @@
     "id": "9520f75070ee9a91f416"
   },
   {
+    "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-10-14T00:00:00+00:00",
+    "fetched_at": "2026-10-14T08:01:48+00:00",
+    "summary": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3749389ab94c41376dcf"
+  },
+  {
     "title": "Patchday: Attacken auf verschiedene Windows-Versionen beobachtet",
     "url": "https://www.heise.de/news/Patchday-Attacken-auf-verschiedene-Windows-Versionen-beobachtet-11487264.html",
     "source": "heise Security Alerts",
@@ -808,6 +898,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "bde014f83887a18000b1"
+  },
+  {
+    "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
+    "url": "https://www.bis.org/media-releases/20261014-global-standard-setting-bodies-publish-final-report-guidance-fmis-general-business-risks-and",
+    "source": "BIS Press Releases",
+    "source_type": "rss",
+    "published_at": "2026-10-14T00:00:00+00:00",
+    "fetched_at": "2026-10-14T08:01:48+00:00",
+    "summary": "The Bank for International Settlements’ Committee on Payments and Market Infrastructures (CPMI) and the International Organization of Securities Commissions (IOSCO) today published a final report on financial market infrastructures’ (FMIs) management of general business risks and general business losses.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5654b991007db233fcb3"
   },
   {
     "title": "SBI証券のFXで“誤ロスカット” 再委託先IIJが作業ミス、システムでも検知できず 779口座が対象",
