@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-14T02:00:26+00:00_
+_Generiert: 2026-10-14T02:29:10+00:00_
 
 ## Can AI cut the US$170 billion cost of buying and selling homes?
 
