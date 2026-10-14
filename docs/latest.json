@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T23:31:20+00:00",
-  "run_id": "2026-10-14T23:31:20+00:00",
+  "generated_at": "2026-10-14T23:40:10+00:00",
+  "run_id": "2026-10-14T23:40:10+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 86
+      "configured_public_sources_only": 88
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 86,
-    "displayed_findings": 86,
+    "new_relevant_findings": 2,
+    "today_file_total": 88,
+    "displayed_findings": 88,
     "high": 1,
     "medium": 30,
-    "observe": 55,
+    "observe": 57,
     "source_errors": 0
   },
   "sections": {
@@ -1169,6 +1169,42 @@
         "id": "cd0e11b7b29c4d3171bc"
       },
       {
+        "title": "M 4.5 - 82 km SSW of Mil’kovo, Russia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2d6",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-14T23:35:48.040+00:00",
+        "fetched_at": "2026-10-14T23:39:40+00:00",
+        "summary": "Time 2026-10-14 23:20:59 UTC 2026-10-14 23:20:59 UTC at epicenter Location 54.000°N 158.185°E Depth 183.50 km (114.02 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "19f8e8e5adc04938b406"
+      },
+      {
         "title": "M 5.9 - Fiji region",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u28y",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1832,6 +1868,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8d1c6ae3252c7caaf3bf"
+      },
+      {
+        "title": "小型・電動の「除雪ドローン」が雪国の課題に対応。実機をエバーブルーテクノロジーズが展示【CEATEC 2026】",
+        "url": "https://internet.watch.impress.co.jp/docs/event/2148145.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-14T22:00:11+00:00",
+        "fetched_at": "2026-10-14T23:39:40+00:00",
+        "summary": "小型・電動の「除雪ドローン」が雪国の課題に対応。実機をエバーブルーテクノロジーズが展示【CEATEC 2026】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "afe26c06e234dce193de"
       },
       {
         "title": "HydraFusion updates and new Max option",
@@ -3263,6 +3320,42 @@
       "id": "cd0e11b7b29c4d3171bc"
     },
     {
+      "title": "M 4.5 - 82 km SSW of Mil’kovo, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2d6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-14T23:35:48.040+00:00",
+      "fetched_at": "2026-10-14T23:39:40+00:00",
+      "summary": "Time 2026-10-14 23:20:59 UTC 2026-10-14 23:20:59 UTC at epicenter Location 54.000°N 158.185°E Depth 183.50 km (114.02 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "19f8e8e5adc04938b406"
+    },
+    {
       "title": "M 5.9 - Fiji region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u28y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3928,6 +4021,27 @@
       "id": "8d1c6ae3252c7caaf3bf"
     },
     {
+      "title": "小型・電動の「除雪ドローン」が雪国の課題に対応。実機をエバーブルーテクノロジーズが展示【CEATEC 2026】",
+      "url": "https://internet.watch.impress.co.jp/docs/event/2148145.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-14T22:00:11+00:00",
+      "fetched_at": "2026-10-14T23:39:40+00:00",
+      "summary": "小型・電動の「除雪ドローン」が雪国の課題に対応。実機をエバーブルーテクノロジーズが展示【CEATEC 2026】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "afe26c06e234dce193de"
+    },
+    {
       "title": "HydraFusion updates and new Max option",
       "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
       "source": "GitHub Changelog Atom",
@@ -4218,7 +4332,65 @@
       "id": "6601618a19ff4fb18a08"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 4.5 - 82 km SSW of Mil’kovo, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2d6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-14T23:35:48.040+00:00",
+      "fetched_at": "2026-10-14T23:39:40+00:00",
+      "summary": "Time 2026-10-14 23:20:59 UTC 2026-10-14 23:20:59 UTC at epicenter Location 54.000°N 158.185°E Depth 183.50 km (114.02 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "19f8e8e5adc04938b406"
+    },
+    {
+      "title": "小型・電動の「除雪ドローン」が雪国の課題に対応。実機をエバーブルーテクノロジーズが展示【CEATEC 2026】",
+      "url": "https://internet.watch.impress.co.jp/docs/event/2148145.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-14T22:00:11+00:00",
+      "fetched_at": "2026-10-14T23:39:40+00:00",
+      "summary": "小型・電動の「除雪ドローン」が雪国の課題に対応。実機をエバーブルーテクノロジーズが展示【CEATEC 2026】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "afe26c06e234dce193de"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
