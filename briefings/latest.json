@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T16:28:26+00:00",
-  "run_id": "2026-10-14T16:28:26+00:00",
+  "generated_at": "2026-10-14T16:44:44+00:00",
+  "run_id": "2026-10-14T16:44:44+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 73,
     "displayed_findings": 73,
     "high": 1,
@@ -3618,29 +3618,7 @@
       "id": "6601618a19ff4fb18a08"
     }
   ],
-  "new_findings": [
-    {
-      "title": "楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存 利用停止と乗り換えを案内",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2148168.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-14T11:08:25+00:00",
-      "fetched_at": "2026-10-14T16:27:56+00:00",
-      "summary": "楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存 利用停止と乗り換えを案内",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "65af14ef672b33f9da93"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
