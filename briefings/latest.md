@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T13:02:28+00:00_
+_Generiert: 2026-10-14T13:21:22+00:00_
 
 ## Kurzlage
 
@@ -29,42 +29,8 @@ _Generiert: 2026-10-14T13:02:28+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-08`
   - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. Strapi Cleartext Storage of Sensitive Information Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.8M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571305)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.8M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 6.7M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 05:44 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571248)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.7M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 05:44 UTC, [unknown].
-- **GDACS: Green flood alert in Libya** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104231)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Libya
-- **GDACS: Green flood alert in Türkiye** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104230)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Türkiye
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:585.07km) in Fiji 14/10/2026 10:49 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571524)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:585.07km) in Fiji 14/10/2026 10:49 UTC, Few people affected in 100km.
-- **GDACS: Green earthquake (Magnitude 6M, Depth:20.842km) in Papua New Guinea 13/10/2026 18:45 UTC, 4 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571367)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:20.842km) in Papua New Guinea 13/10/2026 18:45 UTC, 4 thousand in MMI V.
-- **GDACS: Green notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001337)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571161)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Panama 12/10/2026 23:20 UTC, 1 thousand (in MMI&gt;=VII).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1570970)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:195.212km) in Tonga 12/10/2026 04:38 UTC, No people affected in 100km.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f186da39610>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
