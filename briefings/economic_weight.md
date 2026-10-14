@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-10-14T02:29:28+00:00`
+Generated: `2026-10-14T02:48:01+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -28,9 +28,9 @@ Generated: `2026-10-14T02:29:28+00:00`
 | Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 | 一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも \| kawarimidoll.com | conflict | $109.60M | $10.96B | $1.10T | 0.31 |
 | Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert | conflict | $109.60M | $10.96B | $1.10T | 0.31 |
+| 【やじうまミニレビュー】 宇宙ヤバイ！ベランダでアンドロメダ星雲が撮れるスマート望遠鏡DWARF mini | conflict | $108.00M | $10.80B | $1.08T | 0.31 |
 | Bitcoin’s corrective pullback or the start of a deeper drop toward US$79,600? | conflict | $107.20M | $10.72B | $1.07T | 0.31 |
 | Can Bitcoin defend US$85,000 support, or will weakening bids send it toward US$83,000? | conflict | $107.20M | $10.72B | $1.07T | 0.31 |
-| CodeQL 2.26.4 improves GitHub actions security detections | regulation | $12.40M | $1.24B | $124.00B | 0.31 |
 
 ## Interpretation
 
