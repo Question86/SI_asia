@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T01:30:37+00:00_
+_Generiert: 2026-10-14T01:51:23+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 95 km NNW of Coquimbo, Chile“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
+6 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -12,10 +12,27 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **Can AI cut the US$170 billion cost of buying and selling homes?** — Score 20, observation — [Quelle](https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-14T01:30:26+00:00`, fetched `2026-10-14T01:50:51+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Macro/Policy, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: In 2024, Americans spent about US$170 billion on real estate commissions and other costs involved in transferring ownership of homes. The Bureau of Economic Analysis estimate, cited by the Federal Reserve, is equal to roughly 0.6 per cent of US GDP. This is money spent not on the homes themselves, but largely on changing who […] The post Can AI cut the US$170 billion cost of buying and selling homes? appeared first…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **Manus came home, and Singapore couldn’t stop it** — Score 13, observation — [Quelle](https://e27.co/manus-came-home-and-singapore-couldnt-stop-it-20261013/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-14T01:30:48+00:00`, fetched `2026-10-14T01:50:51+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Beijing (+2.0)
+  - Kurz: There is a particular kind of Southeast Asian optimism that treats Singapore like a geopolitical airlock. Walk in from Beijing or Shenzhen, shut the door behind you, register a Pte Ltd, and the pressure from home equalises. You are now a Singaporean company with “Chinese roots”, free to raise from Silicon Valley and sell to […] The post Manus came home, and Singapore couldn’t stop it appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 95 km NNW of Coquimbo, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-14T01:06:37.971+00:00`, fetched `2026-10-14T01:08:43+00:00`
@@ -55,7 +72,7 @@ Keine neuen mittleren Treffer.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

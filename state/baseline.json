@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T01:30:43+00:00",
+  "generated_at": "2026-10-14T01:51:27+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3944,9 +3944,8 @@
     },
     "domain:www.nikkei.com": {
       "title": "AI、家電乗っ取り増殖の恐れ アンソロピック「デジタル粘菌」と警告 - 日本経済新聞",
-      "updated_at": "2026-10-14T01:30:43+00:00",
+      "updated_at": "2026-10-14T01:51:27+00:00",
       "network_scores": [
-        9.1,
         9.1,
         9.1,
         9.1,
@@ -3975,12 +3974,13 @@
         9.1,
         9.1,
         16.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 9.67,
+      "rolling_average": 9.8,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": 3.43
+      "z_hint": 3.3
     },
     "title:economy-moving-faster-than-our-institutions": {
       "title": "The AI economy is moving faster than our institutions",
@@ -15568,7 +15568,7 @@
     },
     "earthquake:chile:5.1": {
       "title": "M 5.1 - 92 km NW of La Serena, Chile",
-      "updated_at": "2026-10-14T01:30:43+00:00",
+      "updated_at": "2026-10-14T01:51:27+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -15597,8 +15597,8 @@
         13.7,
         13.7,
         13.7,
-        13.7,
         16.7,
+        13.7,
         13.7
       ],
       "rolling_average": 13.8,
@@ -72177,27 +72177,51 @@
     },
     "earthquake:chile:5.0": {
       "title": "M 5.0 - 95 km NNW of Coquimbo, Chile",
-      "updated_at": "2026-10-14T01:30:43+00:00",
+      "updated_at": "2026-10-14T01:51:27+00:00",
       "network_scores": [
         16.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 15.2,
+      "rolling_average": 14.7,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:value-test-investors-what-founders-are-actually-buying": {
       "title": "The new value test for investors: What founders are actually buying when they take your cheque",
-      "updated_at": "2026-10-14T01:30:43+00:00",
+      "updated_at": "2026-10-14T01:51:27+00:00",
       "network_scores": [
         11.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 9.6,
+      "rolling_average": 9.1,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
+    },
+    "title:can-cut-170-billion-cost-buying-selling-homes": {
+      "title": "Can AI cut the US$170 billion cost of buying and selling homes?",
+      "updated_at": "2026-10-14T01:51:27+00:00",
+      "network_scores": [
+        25.1
+      ],
+      "rolling_average": 25.1,
+      "rolling_peak": 25.1,
+      "last_score": 25.1,
+      "z_hint": 0.0
+    },
+    "title:manus-came-home-singapore-couldn-stop": {
+      "title": "Manus came home, and Singapore couldn’t stop it",
+      "updated_at": "2026-10-14T01:51:27+00:00",
+      "network_scores": [
+        18.1
+      ],
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
+      "last_score": 18.1,
+      "z_hint": 0.0
     }
   }
 }

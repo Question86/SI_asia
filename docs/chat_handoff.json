@@ -1,19 +1,39 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-14T01:30:37+00:00",
+  "generated_at": "2026-10-14T01:51:23+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 2,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
-    "medium": 0,
-    "observe": 4
+    "medium": 1,
+    "observe": 5
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Can AI cut the US$170 billion cost of buying and selling homes?",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-14T01:30:26+00:00",
+      "relevance_score": 20,
+      "url": "https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/",
+      "summary": "In 2024, Americans spent about US$170 billion on real estate commissions and other costs involved in transferring ownership of homes. The Bureau of Economic Analysis estimate, cited by the Federal Reserve, is equal to roughly 0.6 per cent of US GDP. This is m…",
+      "section": "medium"
+    },
+    {
+      "title": "Manus came home, and Singapore couldn’t stop it",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-14T01:30:48+00:00",
+      "relevance_score": 13,
+      "url": "https://e27.co/manus-came-home-and-singapore-couldnt-stop-it-20261013/",
+      "summary": "There is a particular kind of Southeast Asian optimism that treats Singapore like a geopolitical airlock. Walk in from Beijing or Shenzhen, shut the door behind you, register a Pte Ltd, and the pressure from home equalises. You are now a Singaporean company w…",
+      "section": "observe"
+    },
     {
       "title": "M 5.0 - 95 km NNW of Coquimbo, Chile",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -43,16 +63,6 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN140170U6A011C2000000/",
       "summary": "【シリコンバレー=山田遼太郎】米アンソロピックは12日、人工知能（AI）がインターネット接続するテレビなどのスマート家電を乗っ取り、自ら増殖する能力を持つ可能性があると警告した。無数の機器に「粘菌」のようにAIが広がれば、セキュリティーリスクを生むと指摘した。同社でAIの安全対策などに取り組む研究者らがブ...",
       "section": "observe"
-    },
-    {
-      "title": "The new value test for investors: What founders are actually buying when they take your cheque",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-14T01:00:05+00:00",
-      "relevance_score": 6,
-      "url": "https://e27.co/the-new-value-test-for-investors-what-founders-are-actually-buying-when-they-take-your-cheque-20260916/",
-      "summary": "A founder I know recently received two term sheets in the same week. The first was from a regional VC firm with a recognisable brand. The cheque was for US$1.5 million. The terms were reasonable. The partner had introduced himself at a conference six months e…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -60,138 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “The new value test for investors: What founders are actually buying when they take your cheque” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "The new value test for investors: What founders are actually buying when they take your cheque",
-        "url": "https://e27.co/the-new-value-test-for-investors-what-founders-are-actually-buying-when-they-take-your-cheque-20260916/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-14T01:09:21+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "axiom"
-        ],
-        "dynamics_score": 24.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 5.0 - 95 km NNW of Coquimbo, Chile",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-14T01:06:37.971+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "DYFI? - III Time 2026-10-14 00:36:45 UTC 2026-10-14 00:36:45 UTC at epicenter Location 29.218°S 71.843°W Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 5.1 - 92 km NW of La Serena, Chile",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26c",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-14T01:03:31.006+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "DYFI? - III Time 2026-10-14 00:30:47 UTC 2026-10-14 00:30:47 UTC at epicenter Location 29.214°S 71.789°W Depth 19.22 km (11.94 mi)"
-      },
-      {
-        "title": "The new value test for investors: What founders are actually buying when they take your cheque",
-        "url": "https://e27.co/the-new-value-test-for-investors-what-founders-are-actually-buying-when-they-take-your-cheque-20260916/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-14T01:00:05+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "axiom"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: regional",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "A founder I know recently received two term sheets in the same week. The first was from a regional VC firm with a recognisable brand. The cheque was for US$1.5 million. The terms were reasonable. The partner had introduced himself at a conference six months earlier and had been pleasant in every interaction since. The…"
-      },
-      {
-        "title": "M 5.0 - 95 km NNW of Coquimbo, Chile",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-14T01:09:21+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 13.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
