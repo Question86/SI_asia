@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-15T22:33:19+00:00",
+  "generated_at": "2026-10-15T22:58:38+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 80,
-    "clusters": 65,
+    "findings": 81,
+    "clusters": 66,
     "cross_source_confrmed": 0,
     "hot": 1,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 10
   },
   "clusters": [
@@ -205,44 +205,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-15T14:36:41+00:00"
-    },
-    {
-      "key": "title:staying-evergreen-automated-secure-access-repo-hygiene-shared",
-      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-      "sources": [
-        "GitHub Blog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 19.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 19.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-15T22:00:37+00:00"
     },
     {
       "key": "title:inflation-are-driving-singapore-workplace-anxiety-employers-are",
@@ -689,18 +651,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.22,
+      "network_score": 14.19,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 16.2,
-      "ranking_score": 14.22,
+      "ranking_score": 14.19,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.72,
+      "baseline_bonus": 0.69,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -748,6 +710,44 @@
       "first_seen_at": "2026-10-15T20:25:02+00:00"
     },
     {
+      "key": "title:staying-evergreen-automated-secure-access-repo-hygiene-shared",
+      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "sources": [
+        "GitHub Blog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 13.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-15T22:00:37+00:00"
+    },
+    {
       "key": "title:southeast-asia-funding-winter-real-its-building-winter",
       "title": "Southeast Asia’s funding winter is real. Its building winter isn’t",
       "sources": [
@@ -786,6 +786,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-15T02:06:52+00:00"
+    },
+    {
+      "key": "domain:www.docswell.com",
+      "title": "「UNIXという考え方」再考 | ドクセル",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.docswell.com/s/Songmu/5WR64J-unix-philosophy"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.93,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.1,
+      "ranking_score": 12.93,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 1.93,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-15T21:48:13+00:00"
     },
     {
       "key": "domain:note.com",
@@ -2528,7 +2566,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-15T22:33:19Z",
+    "generated_at": "2026-10-15T22:58:38Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
