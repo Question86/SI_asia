@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-15T07:42:58+00:00",
-  "run_id": "2026-10-15T07:42:58+00:00",
+  "generated_at": "2026-10-15T07:54:30+00:00",
+  "run_id": "2026-10-15T07:54:30+00:00",
   "date": "2026-10-15",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 31
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 31,
     "displayed_findings": 31,
     "high": 0,
     "medium": 11,
     "observe": 20,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1597,38 +1597,8 @@
       "id": "c73aa7224d2d6dc5eb13"
     }
   ],
-  "new_findings": [
-    {
-      "title": "PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もAI需要の餌食になる可能性",
-      "url": "https://gazlog.jp/entry/ps5-can-run-27b-llm/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-15T03:54:24+00:00",
-      "fetched_at": "2026-10-15T07:42:20+00:00",
-      "summary": "脱獄したPS5で大規模言語モデル（LLM）を動かす「PS5LM」の派生版として、PS5のGPUを使う「PS5LM Plus」が登場し、27BのLLMが1秒あたり約20トークンで動かしたと報告されています。 PS5LMは脱獄したPS5のCPUでLLMを動作。現状の対応モデルは1.6GBまで PS5LMは、PCで広く使われるLLM実行ソフトllama.cppを脱獄したPS5へ移...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9da0743a7ee8c41beefe"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "bsi_cert_bund_csw",
-      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "new_findings": [],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

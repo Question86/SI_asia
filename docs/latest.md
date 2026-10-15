@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T07:42:58+00:00_
+_Generiert: 2026-10-15T07:54:30+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+31 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -214,7 +214,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
