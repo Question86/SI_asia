@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T02:51:03+00:00_
+_Generated: 2026-10-15T02:58:50+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `9`
 
 ## Top Signals
 
@@ -15,25 +15,25 @@ _Generated: 2026-10-15T02:51:03+00:00_
 - url: https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/
 - summary: Anyone who has spent 10 minutes pressing “0” to escape a voice bot knows how the last automation wave ended. Call centres were promised dramatic savings from IVRs and chatbots. Customers got phone trees that went in circles, and companies got a fresh layer of…
 
-### 2. Google BoringSSL証明書検証における複数の名前制約回避の脆弱性
+### 2. 「バイブコーディング」の生みの親カルパシー氏、「AIの理解格差は“鋭い漏斗”になった」 | Business Insider Japan
+- source: Hatena Bookmark Hotentry IT
+- score: `22`
+- published: `2026-10-13T22:59:48+00:00`
+- url: https://www.businessinsider.jp/article/2610-andrej-karpathy-ai-gap-widening-usage/
+- summary: AI研究者のアンドレイ・カルパシーは、4月に観察したAIの普及における格差が広がっていると述べた。Michael Macor/The San Francisco Chronicle via Getty Images OpenAIの共同創業者アンドレイ・カルパシー（Andrej Karpathy）氏は、世界はいまもAIをほとんど知らないと述べている。 「一般の人々は、こうしたシステム...
+
+### 3. Bowman, Supervisory Modernization After Silicon Valley Bank
+- source: Federal Reserve Speeches and Testimony
+- score: `17`
+- published: `2026-10-15T02:55:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm
+- summary: Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand
+
+### 4. Google BoringSSL証明書検証における複数の名前制約回避の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-10-15T10:30:30+09:00`
 - url: https://jvn.jp/vu/JVNVU95613365/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
-
-### 3. 複数のTLSライブラリにおける名前制約回避の問題
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-15T10:30:15+09:00`
-- url: https://jvn.jp/vu/JVNVU95474776/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
-
-### 4. Bishengにおける複数の認証回避の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-15T10:30:00+09:00`
-- url: https://jvn.jp/vu/JVNVU94697946/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. Southeast Asia’s funding winter is real. Its building winter isn’t

@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-15T02:51:03+00:00",
+  "generated_at": "2026-10-15T02:58:50+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 2,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
-    "medium": 4,
+    "medium": 6,
     "observe": 3
   },
   "source_errors_count": 0,
@@ -25,32 +25,32 @@
       "section": "medium"
     },
     {
+      "title": "「バイブコーディング」の生みの親カルパシー氏、「AIの理解格差は“鋭い漏斗”になった」 | Business Insider Japan",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-13T22:59:48+00:00",
+      "relevance_score": 22,
+      "url": "https://www.businessinsider.jp/article/2610-andrej-karpathy-ai-gap-widening-usage/",
+      "summary": "AI研究者のアンドレイ・カルパシーは、4月に観察したAIの普及における格差が広がっていると述べた。Michael Macor/The San Francisco Chronicle via Getty Images OpenAIの共同創業者アンドレイ・カルパシー（Andrej Karpathy）氏は、世界はいまもAIをほとんど知らないと述べている。 「一般の人々は、こうしたシステム...",
+      "section": "medium"
+    },
+    {
+      "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
+      "source": "Federal Reserve Speeches and Testimony",
+      "source_type": "rss",
+      "published_at": "2026-10-15T02:55:00+00:00",
+      "relevance_score": 17,
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
+      "summary": "Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand",
+      "section": "medium"
+    },
+    {
       "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
       "published_at": "2026-10-15T10:30:30+09:00",
       "relevance_score": 14,
       "url": "https://jvn.jp/vu/JVNVU95613365/",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "section": "medium"
-    },
-    {
-      "title": "複数のTLSライブラリにおける名前制約回避の問題",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-15T10:30:15+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU95474776/",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "section": "medium"
-    },
-    {
-      "title": "Bishengにおける複数の認証回避の脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-15T10:30:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU94697946/",
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "section": "medium"
     },
