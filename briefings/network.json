@@ -1,18 +1,57 @@
 {
-  "generated_at": "2026-10-15T00:13:17+00:00",
+  "generated_at": "2026-10-15T00:56:42+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 0,
-    "clusters": 0,
+    "findings": 1,
+    "clusters": 1,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
     "dominance_penalized": 0
   },
-  "clusters": [],
+  "clusters": [
+    {
+      "key": "title:windows-microsoft-execution-containers-mxc",
+      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-15T00:56:42+00:00"
+    }
+  ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-15T00:13:17Z",
+    "generated_at": "2026-10-15T00:56:43Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
