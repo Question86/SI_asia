@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T11:22:51+00:00",
+  "generated_at": "2026-10-15T11:34:51+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://cert.europa.eu/publications/security-advisories/2026-017/"
       },
       {
+        "title": "[UPDATE] [hoch] Microsoft SQL Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T11:26:51+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3917"
+      },
+      {
         "title": "[UPDATE] [kritisch] Microsoft Office Produkte: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-15T10:30:51+00:00",
@@ -112,39 +119,32 @@
         "url": "https://jvn.jp/jp/JVN40460777/"
       },
       {
-        "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
+        "title": "[UPDATE] [hoch] cURL: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-15T10:55:52+00:00",
+        "published_at": "2026-10-15T11:27:14+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3948"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3904"
       },
       {
-        "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T10:30:30+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU95613365/"
-      },
-      {
-        "title": "複数のTLSライブラリにおける名前制約回避の問題",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T10:30:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU95474776/"
-      },
-      {
-        "title": "Bishengにおける複数の認証回避の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T10:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94697946/"
-      },
-      {
-        "title": "[NEU] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen",
+        "title": "[UPDATE] [hoch] PgBouncer: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-15T10:15:52+00:00",
+        "published_at": "2026-10-15T11:27:14+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3947"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3906"
+      },
+      {
+        "title": "[UPDATE] [hoch] IBM WebSphere Application Server und Application Server Liberty: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T11:26:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3909"
+      },
+      {
+        "title": "[UPDATE] [mittel] OpenVPN: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T11:26:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3915"
       }
     ],
     "geopolitics": [
