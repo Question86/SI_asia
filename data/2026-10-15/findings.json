@@ -331,6 +331,29 @@
     "id": "d9d02595ad8341adaa7d"
   },
   {
+    "title": "[NEU] [mittel] Palo Alto Networks Cortex XSOAR: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3946",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-15T09:55:52+00:00",
+    "fetched_at": "2026-10-15T09:59:00+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Palo Alto Networks Cortex XSOAR ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0aa5141141586191005a"
+  },
+  {
     "title": "M 5.3 - 43 km SSE of Otorohanga, New Zealand",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ev",
     "source": "USGS M4.5+ Earthquakes Past Hour",
