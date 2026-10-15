@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T08:01:53+00:00_
+_Generiert: 2026-10-15T08:30:57+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+34 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)
   - Kurz: The cryptocurrency sector experienced a severe and sudden decline over the last 24 hours. Bitcoin fell 2.28 per cent to US$81,370.58. The broader digital asset ecosystem mirrored this downward trajectory, dropping 2.22 per cent to a total valuation of US$2.74 trillion. An unexpectedly hot United States inflation report drove this widespread selloff across all major […] The post Institutional buyers face a massive te…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sea and Google open chapter two of their AI pact before chapter one ships** — Score 10, observation — [Quelle](https://e27.co/sea-and-google-open-chapter-two-of-their-ai-pact-before-chapter-one-ships-20261015/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-15T08:19:49+00:00`, fetched `2026-10-15T08:30:26+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Google has been busy making friends in Singapore. On 7 October, its AI Futures Fund teamed up with Granite Asia to write cheques of up to US$2 million into Asian AI startups. Eight days later, the same fund has walked into Sea Limited’s office carrying something different: not a term sheet, but a key to […] The post Sea and Google open chapter two of their AI pact before chapter one ships appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 30 km E of Safotu, Samoa** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-15T04:02:36.040+00:00`, fetched `2026-10-15T04:24:12+00:00`
@@ -141,15 +150,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-10-15 03:36:29 UTC 2026-10-15 03:36:29 UTC at epicenter Location 13.409°S 172.069°W Depth 13.21 km (8.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Character.ai was worth US$2.7B to Google. Disney just offered US$20M** — Score 8, observation — [Quelle](https://e27.co/character-ai-was-worth-us2-7b-to-google-disney-just-offered-us20m-20261015/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-15T08:00:23+00:00`, fetched `2026-10-15T08:01:22+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: In August 2024, Google wrote Character.ai a cheque for roughly US$2.7 billion. On Monday, Disney offered US$20 million. Both were for a licence to the same company’s technology. Allowing for the fine print, that is a fall of more than 99 per cent in a little over two years. Character.ai filed for Chapter 11 bankruptcy […] The post Character.ai was worth US$2.7B to Google. Disney just offered US$20M appeared first on…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もAI需要の餌食になる可能性** — Score 8, observation — [Quelle](https://gazlog.jp/entry/ps5-can-run-27b-llm/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-15T03:54:24+00:00`, fetched `2026-10-15T07:42:20+00:00`
@@ -195,14 +195,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 動画【ガバメントAI 開発記録】雇用環境・均等行政の挑戦【①AIに何を任せるか】を公開しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **雑談はセンサーになる──ふりかえりで言えない本音を拾い、チームを動かす - Agile Journey** — Score 5, observation — [Quelle](https://agilejourney.uzabase.com/entry/2026/10/15/103000)
+- **バーガーキング アプリの会員情報 約1118万件漏えい | NHKニュース** — Score 5, observation — [Quelle](https://news.web.nhk/newsweb/na/nd-20261015de59803)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-15T01:33:17+00:00`, fetched `2026-10-15T05:33:09+00:00`
+  - Zeit: published `2026-10-15T07:06:47+00:00`, fetched `2026-10-15T08:30:26+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 株式会社ビットキーの高橋秀一郎（しゅういちろ）です。 20年ほどSIerでの実装から要件定義、役割としてはプロジェクトマネージャや組織の長を経験したのち、2024年にビットキーへ入社しました。現在は社内のエンジニアリングマネージャー（EM）を支援する立場から、組織開発や技術広報に携わっています。 チームの中に...
+  - Kurz: ハンバーガーチェーン「バーガーキング」の運営会社は、アプリのシステムに対する不正アクセスが確認され、会員の情報、およそ1118万件が外部に漏えいしたと発表しました。漏れたのは会員の氏名、電話番号、メー…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

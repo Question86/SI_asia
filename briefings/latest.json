@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T08:01:53+00:00",
-  "run_id": "2026-10-15T08:01:53+00:00",
+  "generated_at": "2026-10-15T08:30:57+00:00",
+  "run_id": "2026-10-15T08:30:57+00:00",
   "date": "2026-10-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 32
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 2,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
     "medium": 11,
-    "observe": 21,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -453,6 +453,27 @@
         "id": "e6ebc5e4af24bd89463d"
       },
       {
+        "title": "Sea and Google open chapter two of their AI pact before chapter one ships",
+        "url": "https://e27.co/sea-and-google-open-chapter-two-of-their-ai-pact-before-chapter-one-ships-20261015/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-15T08:19:49+00:00",
+        "fetched_at": "2026-10-15T08:30:26+00:00",
+        "summary": "Google has been busy making friends in Singapore. On 7 October, its AI Futures Fund teamed up with Granite Asia to write cheques of up to US$2 million into Asian AI startups. Eight days later, the same fund has walked into Sea Limited’s office carrying something different: not a term sheet, but a key to […] The post Sea and Google open chapter two of their AI pact before chapter one ships appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9afd5310250c48d836d9"
+      },
+      {
         "title": "M 4.8 - 30 km E of Safotu, Samoa",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -708,6 +729,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "609046f9e26e2c1f6c4d"
+      },
+      {
+        "title": "バーガーキング アプリの会員情報 約1118万件漏えい | NHKニュース",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261015de59803",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-15T07:06:47+00:00",
+        "fetched_at": "2026-10-15T08:30:26+00:00",
+        "summary": "ハンバーガーチェーン「バーガーキング」の運営会社は、アプリのシステムに対する不正アクセスが確認され、会員の情報、およそ1118万件が外部に漏えいしたと発表しました。漏れたのは会員の氏名、電話番号、メー…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "55d0384bdb4a157d3c04"
       },
       {
         "title": "雑談はセンサーになる──ふりかえりで言えない本音を拾い、チームを動かす - Agile Journey",
@@ -1258,6 +1300,27 @@
       "id": "e6ebc5e4af24bd89463d"
     },
     {
+      "title": "Sea and Google open chapter two of their AI pact before chapter one ships",
+      "url": "https://e27.co/sea-and-google-open-chapter-two-of-their-ai-pact-before-chapter-one-ships-20261015/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-15T08:19:49+00:00",
+      "fetched_at": "2026-10-15T08:30:26+00:00",
+      "summary": "Google has been busy making friends in Singapore. On 7 October, its AI Futures Fund teamed up with Granite Asia to write cheques of up to US$2 million into Asian AI startups. Eight days later, the same fund has walked into Sea Limited’s office carrying something different: not a term sheet, but a key to […] The post Sea and Google open chapter two of their AI pact before chapter one ships appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9afd5310250c48d836d9"
+    },
+    {
       "title": "M 4.8 - 30 km E of Safotu, Samoa",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1515,6 +1578,27 @@
       "id": "609046f9e26e2c1f6c4d"
     },
     {
+      "title": "バーガーキング アプリの会員情報 約1118万件漏えい | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59803",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-15T07:06:47+00:00",
+      "fetched_at": "2026-10-15T08:30:26+00:00",
+      "summary": "ハンバーガーチェーン「バーガーキング」の運営会社は、アプリのシステムに対する不正アクセスが確認され、会員の情報、およそ1118万件が外部に漏えいしたと発表しました。漏れたのは会員の氏名、電話番号、メー…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "55d0384bdb4a157d3c04"
+    },
+    {
       "title": "雑談はセンサーになる──ふりかえりで言えない本音を拾い、チームを動かす - Agile Journey",
       "url": "https://agilejourney.uzabase.com/entry/2026/10/15/103000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1641,25 +1725,46 @@
   ],
   "new_findings": [
     {
-      "title": "Character.ai was worth US$2.7B to Google. Disney just offered US$20M",
-      "url": "https://e27.co/character-ai-was-worth-us2-7b-to-google-disney-just-offered-us20m-20261015/",
+      "title": "Sea and Google open chapter two of their AI pact before chapter one ships",
+      "url": "https://e27.co/sea-and-google-open-chapter-two-of-their-ai-pact-before-chapter-one-ships-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-15T08:00:23+00:00",
-      "fetched_at": "2026-10-15T08:01:22+00:00",
-      "summary": "In August 2024, Google wrote Character.ai a cheque for roughly US$2.7 billion. On Monday, Disney offered US$20 million. Both were for a licence to the same company’s technology. Allowing for the fine print, that is a fall of more than 99 per cent in a little over two years. Character.ai filed for Chapter 11 bankruptcy […] The post Character.ai was worth US$2.7B to Google. Disney just offered US$20M appeared first on…",
+      "published_at": "2026-10-15T08:19:49+00:00",
+      "fetched_at": "2026-10-15T08:30:26+00:00",
+      "summary": "Google has been busy making friends in Singapore. On 7 October, its AI Futures Fund teamed up with Granite Asia to write cheques of up to US$2 million into Asian AI startups. Eight days later, the same fund has walked into Sea Limited’s office carrying something different: not a term sheet, but a key to […] The post Sea and Google open chapter two of their AI pact before chapter one ships appeared first on e27 .",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "848f33b22eb69777a5ea"
+      "id": "9afd5310250c48d836d9"
+    },
+    {
+      "title": "バーガーキング アプリの会員情報 約1118万件漏えい | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59803",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-15T07:06:47+00:00",
+      "fetched_at": "2026-10-15T08:30:26+00:00",
+      "summary": "ハンバーガーチェーン「バーガーキング」の運営会社は、アプリのシステムに対する不正アクセスが確認され、会員の情報、およそ1118万件が外部に漏えいしたと発表しました。漏れたのは会員の氏名、電話番号、メー…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "55d0384bdb4a157d3c04"
     }
   ],
   "source_errors": [],
