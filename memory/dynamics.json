@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-15T19:39:55Z",
+  "generated_at": "2026-10-15T20:28:23Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
-      "krass": 15,
-      "strong": 23
+      "krass": 16,
+      "strong": 22
     },
     "bands_after_gate_recheck": {
       "krass": 5,
@@ -21,7 +21,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3917",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T11:26:51+00:00",
-      "age_days": 0.34,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3777",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T13:15:54+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3915",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T11:26:53+00:00",
-      "age_days": 0.34,
+      "age_days": 0.38,
       "topics": [
         "security",
         "infra"
@@ -97,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3947",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T10:15:52+00:00",
-      "age_days": 0.39,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3946",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T09:55:52+00:00",
-      "age_days": 0.41,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -147,7 +147,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-017/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-10-15T11:38:20+00:00",
-      "age_days": 0.33,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security"
@@ -174,7 +174,7 @@
       "url": "https://www.heise.de/news/PAN-OS-Schadcode-schluepft-durch-Root-Luecke-in-Palo-Alto-Firewalls-11488897.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-15T09:15:00.000+00:00",
-      "age_days": 0.43,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "security",
@@ -201,7 +201,7 @@
       "url": "https://jvn.jp/jp/JVN48627289/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:30+09:00",
-      "age_days": 0.69,
+      "age_days": 0.73,
       "topics": [
         "security"
       ],
@@ -225,7 +225,7 @@
       "url": "https://jvn.jp/jp/JVN94004488/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:15+09:00",
-      "age_days": 0.69,
+      "age_days": 0.73,
       "topics": [
         "security"
       ],
@@ -249,7 +249,7 @@
       "url": "https://jvn.jp/jp/JVN40460777/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:00+09:00",
-      "age_days": 0.69,
+      "age_days": 0.73,
       "topics": [
         "security"
       ],
@@ -273,7 +273,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3906",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T11:27:14+00:00",
-      "age_days": 0.34,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -297,7 +297,7 @@
       "url": "https://jvn.jp/vu/JVNVU95613365/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:30+09:00",
-      "age_days": 0.76,
+      "age_days": 0.79,
       "topics": [
         "security"
       ],
@@ -321,7 +321,7 @@
       "url": "https://jvn.jp/vu/JVNVU95474776/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:15+09:00",
-      "age_days": 0.76,
+      "age_days": 0.79,
       "topics": [
         "security"
       ],
@@ -345,7 +345,7 @@
       "url": "https://jvn.jp/vu/JVNVU94697946/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:00+09:00",
-      "age_days": 0.76,
+      "age_days": 0.79,
       "topics": [
         "security",
         "macro"
@@ -370,7 +370,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297701-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-10-15T12:20:00+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "security"
@@ -399,7 +399,7 @@
       "url": "https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T01:00:34+00:00",
-      "age_days": 0.78,
+      "age_days": 0.81,
       "topics": [
         "ai",
         "macro"
@@ -428,7 +428,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3978",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T13:16:15+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -454,7 +454,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3916",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T10:30:51+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -480,7 +480,7 @@
       "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T02:00:34+00:00",
-      "age_days": 0.74,
+      "age_days": 0.77,
       "topics": [
         "general"
       ],
@@ -507,7 +507,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3976",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T13:16:15+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -533,7 +533,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3904",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T11:27:14+00:00",
-      "age_days": 0.34,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -559,7 +559,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3909",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T11:26:54+00:00",
-      "age_days": 0.34,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -585,7 +585,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3948",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T10:55:52+00:00",
-      "age_days": 0.36,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -607,11 +607,37 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in NGINX NGINX Plus und NGINX ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand auszulösen."
     },
     {
+      "title": "Download GitHub Code Quality license usage as a CSV",
+      "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-15T20:11:26+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, rce, code",
+        "security high-signal: active, rce, code, 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "You can now download a CSV report of your GitHub Code Quality license usage to reconcile your license count with your own records. The report includes: Each active committer who… The post Download GitHub Code Quality license usage as a CSV appeared first on The GitHub Blog ."
+    },
+    {
       "title": "[NEU] [UNGEPATCHT] [mittel] Synacor Zimbra: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3977",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T13:16:15+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -636,7 +662,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3975",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T13:15:54+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -661,7 +687,7 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-15T06:03:43+00:00",
-      "age_days": 0.57,
+      "age_days": 0.6,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -686,7 +712,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297701-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-09-02T15:24:15+00:00",
-      "age_days": 43.18,
+      "age_days": 43.21,
       "topics": [
         "ai",
         "security"
@@ -715,7 +741,7 @@
       "url": "https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T01:18:37+00:00",
-      "age_days": 0.76,
+      "age_days": 0.8,
       "topics": [
         "ai"
       ],
@@ -742,7 +768,7 @@
       "url": "https://www.businessinsider.jp/article/2610-andrej-karpathy-ai-gap-widening-usage/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T06:37:12+00:00",
-      "age_days": 44.54,
+      "age_days": 44.58,
       "topics": [
         "ai"
       ],
@@ -760,7 +786,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 44.5d old signal",
+        "aging penalty -8.0 for 44.6d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -770,7 +796,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-017/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-09-10T08:29:02+00:00",
-      "age_days": 35.47,
+      "age_days": 35.5,
       "topics": [
         "ai",
         "security"
@@ -799,7 +825,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3978",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 48.23,
+      "age_days": 48.26,
       "topics": [
         "security"
       ],
@@ -810,16 +836,42 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.6,
+      "baseline_z_hint": 0.2,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.60",
+        "baseline z_hint 0.20",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 48.2d old signal",
+        "aging penalty -8.0 for 48.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Download GitHub Code Quality license usage as a CSV",
+      "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-15T20:25:02+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "high terms: code",
+        "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
     },
@@ -828,7 +880,7 @@
       "url": "https://www.heise.de/news/Angreifer-nutzen-Root-Luecke-in-Cisco-Secure-Email-Gateway-aus-11488853.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-15T07:07:00.000+00:00",
-      "age_days": 0.52,
+      "age_days": 0.56,
       "topics": [
         "ai",
         "security"
@@ -854,7 +906,7 @@
       "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-15T14:36:41+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -881,7 +933,7 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-15T06:03:08+00:00",
-      "age_days": 0.57,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -907,7 +959,7 @@
       "url": "https://e27.co/cash-on-delivery-is-dying-in-southeast-asia-six-different-wallets-are-taking-its-place-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T01:39:20+00:00",
-      "age_days": 0.75,
+      "age_days": 0.78,
       "topics": [
         "ai",
         "macro"
@@ -933,55 +985,7 @@
       "url": "https://jvn.jp/jp/JVN48627289/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T03:24:46+00:00",
-      "age_days": 0.68,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性",
-      "url": "https://jvn.jp/jp/JVN94004488/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-15T03:24:46+00:00",
-      "age_days": 0.68,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "スマートフォンアプリ「ゲオアプリ」における複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN40460777/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-15T03:24:46+00:00",
-      "age_days": 0.68,
+      "age_days": 0.71,
       "topics": [
         "general"
       ],
@@ -1005,7 +1009,7 @@
       "url": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-15T10:00:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -1030,7 +1034,7 @@
       "url": "https://www.sourcenext.com/support/i/2026/1015_info/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T08:49:13+00:00",
-      "age_days": 0.45,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
