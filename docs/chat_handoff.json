@@ -110,5 +110,145 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=57.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt",
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297701-1032_bits.html",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "published_at": "2026-10-15T12:20:00+00:00",
+        "age_days": 0.37,
+        "topics": [
+          "axiom",
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 57.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: zero-day, active, exploitation",
+          "security high-signal: zero-day, active, exploitation, ausgenutzt",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt"
+      },
+      {
+        "title": "Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao",
+        "url": "https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-15T01:00:34+00:00",
+        "age_days": 0.84,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 48.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce, 10",
+          "security high-signal: rce, 10",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Anyone who has spent 10 minutes pressing “0” to escape a voice bot knows how the last automation wave ended. Call centres were promised dramatic savings from IVRs and chatbots. Customers got phone trees that went in circles, and companies got a fresh layer of complaints to manage. Sunny Rao sold that promise from the…"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (lrzsz): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3978",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T13:16:15+00:00",
+        "age_days": 0.33,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (lrzsz) ausnutzen, um Dateien zu manipulieren oder beliebigen Programmcode mit Benutzerrechten auszuführen."
+      },
+      {
+        "title": "[UPDATE] [hoch] Microsoft SQL Server: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3917",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T11:26:51+00:00",
+        "age_days": 0.41,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft SQL Server 2017, Microsoft SQL Server 2019 und Microsoft SQL Server 2022 ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Angriff durchzuführen."
+      },
+      {
+        "title": "[UPDATE] [kritisch] Microsoft Office Produkte: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3916",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T10:30:51+00:00",
+        "age_days": 0.45,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: kritisch, code",
+          "security high-signal: kritisch, code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten ausnutzen, um seine Privilegien zu erhöhen, um Code auszuführen, um Informationen offenzulegen oder zu manipulieren und um Sicherheitsmechanismen zu umgehen."
+      }
+    ]
+  }
 }
