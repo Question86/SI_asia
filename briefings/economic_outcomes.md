@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-10-15T23:33:11+00:00`
+Generated: `2026-10-15T23:42:30+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -23,7 +23,7 @@ Generated: `2026-10-15T23:33:11+00:00`
 | Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026) | $0 | — | 0 | 0 | dormant |
 | 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
-| リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中 | $0 | — | 0 | 0 | active |
+| リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中 | $0 | — | 0 | 0 | dormant |
 | M 4.7 - 9 km SSE of La Mesa, Panama | $0 | — | 0 | 0 | dormant |
 | M 5.4 - north of Svalbard | $0 | — | 0 | 0 | dormant |
 | 「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性 | $0 | — | 0 | 0 | active |
