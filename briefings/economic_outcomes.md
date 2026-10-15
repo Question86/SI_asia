@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-10-15T02:59:18+00:00`
+Generated: `2026-10-15T03:25:13+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -25,7 +25,7 @@ Generated: `2026-10-15T02:59:18+00:00`
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
 | M 4.7 - 9 km SSE of La Mesa, Panama | $0 | — | 0 | 0 | dormant |
 | M 5.4 - north of Svalbard | $0 | — | 0 | 0 | dormant |
+| 「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性 | $0 | — | 0 | 0 | active |
 | M 5.0 - 3 km NW of Flores, Panama | $0 | — | 0 | 0 | dormant |
 | Change fatigue is an organisational design problem, not a resilience problem | $0 | — | 0 | 0 | dormant |
 | Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性 | $0 | — | 0 | 0 | dormant |
-| BuilderIO/agent-native | $0 | — | 0 | 0 | dormant |
