@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T06:03:40+00:00_
+_Generiert: 2026-10-15T06:38:20+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+29 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -211,6 +211,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: We may be using AI to save hours of work, only to fill those hours with more work. This is something I have been thinking about as organisations accelerate their investment in AI. The productivity opportunity is undeniable. Generative AI can draft in seconds, analyse large volumes of information, automate administrative work and give leaders […] The post AI can increase productivity. It can’t increase human capacity…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **令和8年度（2026年度）デジタル庁情報システム調達改革検討会（第1回） の開催情報と資料を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/procurement-reform/FY2026/84c9dba6-43cb-4cf1-be91-0753c744f38d)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-15T06:15:54+00:00`, fetched `2026-10-15T06:37:46+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 令和8年度（2026年度）デジタル庁情報システム調達改革検討会（第1回） の開催情報と資料を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集の結果が公表されました** — Score 6, observation — [Quelle](https://www.digital.go.jp/get-involved/procedure/e01662cd-4263-445c-8db8-55013d45ab10)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-15T06:00:00+00:00`, fetched `2026-10-15T06:03:08+00:00`
@@ -228,15 +237,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 動画【ガバメントAI 開発記録】雇用環境・均等行政の挑戦【①AIに何を任せるか】を公開しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **デジタル庁ダッシュボードシリーズがグッドデザイン・ベスト100を受賞しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/press/bc0973b1-afd3-4948-8592-a610513e0a95)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-15T06:00:00+00:00`, fetched `2026-10-15T06:03:08+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: デジタル庁ダッシュボードシリーズがグッドデザイン・ベスト100を受賞しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **雑談はセンサーになる──ふりかえりで言えない本音を拾い、チームを動かす - Agile Journey** — Score 5, observation — [Quelle](https://agilejourney.uzabase.com/entry/2026/10/15/103000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
