@@ -378,6 +378,28 @@
     "id": "5df4af2cee0ab889bffa"
   },
   {
+    "title": "AI Scan for pull requests generally available",
+    "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-15T15:04:51+00:00",
+    "fetched_at": "2026-10-15T15:46:35+00:00",
+    "summary": "Code scanning AI Scan for pull requests is now generally available. It complements CodeQL by finding vulnerabilities in pull request changes for languages and frameworks that CodeQL does not currently… The post AI Scan for pull requests generally available appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI/KI",
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "CodeQL/Dependabot (+7.0); AI/KI (+3.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3d2993a8b7949a315ad0"
+  },
+  {
     "title": "[NEU] [hoch] Juniper Junos OS und Junos OS Evolved: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3976",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1015,6 +1037,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0b4ff7d051afb2dcd71b"
+  },
+  {
+    "title": "M 4.9 - 198 km SSE of Vilyuchinsk, Russia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2i2",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-15T15:43:40.040+00:00",
+    "fetched_at": "2026-10-15T15:46:35+00:00",
+    "summary": "Time 2026-10-15 14:59:52 UTC 2026-10-15 14:59:52 UTC at epicenter Location 51.380°N 159.847°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "f20242e7e9e7ccdedc5f"
   },
   {
     "title": "M 5.2 - 107 km NNE of Hihifo, Tonga",

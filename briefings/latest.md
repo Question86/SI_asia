@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T14:58:22+00:00_
+_Generiert: 2026-10-15T15:47:08+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
+72 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,10 +57,10 @@ _Generiert: 2026-10-15T14:58:22+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:20.842km) in Papua New Guinea 13/10/2026 18:45 UTC, 4 thousand in MMI V.
-- **GDACS: Green notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001337)
+- **GDACS: Green notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7173 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001337)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+  - Kurz: Green notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7173 .
 
 ## Wirtschaft global
 
@@ -175,6 +175,15 @@ _Generiert: 2026-10-15T14:58:22+00:00_
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ https://clianything.cc/ CLI-Anything: Making ALL Software Agent-Native Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub : pip install cli-anything-hub then cli-hub install <name> — browse, install, and manage all community-built C…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **AI Scan for pull requests generally available** — Score 14, observation — [Quelle](https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-15T15:04:51+00:00`, fetched `2026-10-15T15:46:35+00:00`
+  - Treffer: AI/KI, CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+7.0); AI/KI (+3.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: Code scanning AI Scan for pull requests is now generally available. It complements CodeQL by finding vulnerabilities in pull request changes for languages and frameworks that CodeQL does not currently… The post AI Scan for pull requests generally available appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN48627289/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-15T12:00:30+09:00`, fetched `2026-10-15T03:24:12+00:00`
@@ -295,14 +304,14 @@ _Generiert: 2026-10-15T14:58:22+00:00_
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Google has been busy making friends in Singapore. On 7 October, its AI Futures Fund teamed up with Granite Asia to write cheques of up to US$2 million into Asian AI startups. Eight days later, the same fund has walked into Sea Limited’s office carrying something different: not a term sheet, but a key to […] The post Sea and Google open chapter two of their AI pact before chapter one ships appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.2 - 107 km NNE of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2hv)
+- **M 4.9 - 198 km SSE of Vilyuchinsk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2i2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-15T13:52:47.040+00:00`, fetched `2026-10-15T13:59:08+00:00`
+  - Zeit: published `2026-10-15T15:43:40.040+00:00`, fetched `2026-10-15T15:46:35+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-15 13:29:31 UTC 2026-10-15 13:29:31 UTC at epicenter Location 15.043°S 173.444°W Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-10-15 14:59:52 UTC 2026-10-15 14:59:52 UTC at epicenter Location 51.380°N 159.847°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もAI需要の餌食になる可能性** — Score 8, observation — [Quelle](https://gazlog.jp/entry/ps5-can-run-27b-llm/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
