@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-15T17:19:26+00:00",
+  "generated_at": "2026-10-15T17:31:44+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-21589 Atlassian Multiple Products",
+        "summary": "Known exploited vulnerability. Added 2026-10-15. Due 2026-10-18. Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-10-15",
+        "metrics": {
+          "cve": "CVE-2026-21589"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -48,18 +60,6 @@
         "published_at": "2026-10-14",
         "metrics": {
           "cve": "CVE-2026-0322"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-104935 Ivanti Connect Secure",
-        "summary": "Known exploited vulnerability. Added 2026-10-13. Due 2026-10-16. Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-13",
-        "metrics": {
-          "cve": "CVE-2026-104935"
         }
       },
       {
