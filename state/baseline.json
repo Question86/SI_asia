@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T02:06:52+00:00",
+  "generated_at": "2026-10-15T02:33:34+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -74057,95 +74057,102 @@
     },
     "title:windows-microsoft-execution-containers-mxc": {
       "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
-      "updated_at": "2026-10-15T02:06:52+00:00",
+      "updated_at": "2026-10-15T02:33:34+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.7,
+      "rolling_average": 7.6,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:tokens-are-wrong-yardstick-agents-says-jfrog-sunny": {
       "title": "Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao",
-      "updated_at": "2026-10-15T02:06:52+00:00",
+      "updated_at": "2026-10-15T02:33:34+00:00",
       "network_scores": [
         28.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.85,
+      "rolling_average": 25.7,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:google-boringssl": {
       "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
-      "updated_at": "2026-10-15T02:06:52+00:00",
+      "updated_at": "2026-10-15T02:33:34+00:00",
       "network_scores": [
         19.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 16.85,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:tls": {
       "title": "複数のTLSライブラリにおける名前制約回避の問題",
-      "updated_at": "2026-10-15T02:06:52+00:00",
+      "updated_at": "2026-10-15T02:33:34+00:00",
       "network_scores": [
         19.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 16.85,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:bisheng": {
       "title": "Bishengにおける複数の認証回避の脆弱性",
-      "updated_at": "2026-10-15T02:06:52+00:00",
+      "updated_at": "2026-10-15T02:33:34+00:00",
       "network_scores": [
         19.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 16.85,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:cash-delivery-dying-southeast-asia-six-different-wallets": {
       "title": "Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place",
-      "updated_at": "2026-10-15T02:06:52+00:00",
+      "updated_at": "2026-10-15T02:33:34+00:00",
       "network_scores": [
         11.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 9.1,
+      "rolling_average": 8.85,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:southeast-asia-funding-winter-real-its-building-winter": {
       "title": "Southeast Asia’s funding winter is real. Its building winter isn’t",
-      "updated_at": "2026-10-15T02:06:52+00:00",
+      "updated_at": "2026-10-15T02:33:34+00:00",
       "network_scores": [
-        17.1
+        17.1,
+        14.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 15.6,
       "rolling_peak": 17.1,
-      "last_score": 17.1,
-      "z_hint": 0.0
+      "last_score": 14.1,
+      "z_hint": -1.5
     }
   }
 }
