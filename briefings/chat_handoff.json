@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-15T20:11:33+00:00",
+  "generated_at": "2026-10-15T20:24:59+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 74,
-    "displayed_findings": 74,
+    "new_relevant_findings": 1,
+    "today_file_total": 75,
+    "displayed_findings": 75,
     "high": 1,
     "medium": 28,
-    "observe": 45
+    "observe": 46
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "Download GitHub Code Quality license usage as a CSV",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-15T20:11:26+00:00",
+      "relevance_score": 12,
+      "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
+      "summary": "You can now download a CSV report of your GitHub Code Quality license usage to reconcile your license count with your own records. The report includes: Each active committer who… The post Download GitHub Code Quality license usage as a CSV appeared first on T…",
+      "section": "observe"
+    },
+    {
       "title": "Teaching students to think and learn through questions",
       "source": "OpenAI News RSS",
       "source_type": "rss",
@@ -92,16 +102,6 @@
       "relevance_score": 12,
       "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/",
       "summary": "Every few weeks, another report tells the same story about Southeast Asian tech: capital has fled, deals have dried up, and the region’s startup engine has stalled. The most recent numbers make the case forcefully. Zero dedicated regional private equity funds…",
-      "section": "observe"
-    },
-    {
-      "title": "M 5.6 - 43 km NNW of Lake Minchumina, Alaska",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-15T11:21:34.898+00:00",
-      "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukynnb",
-      "summary": "ShakeMap - VII DYFI? - III Time 2026-10-15 11:07:01 UTC 2026-10-15 11:07:01 UTC at epicenter Location 64.220°N 152.746°W Depth 4.50 km (2.80 mi)",
       "section": "observe"
     }
   ],

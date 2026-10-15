@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T20:11:33+00:00_
+_Generiert: 2026-10-15T20:24:59+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
+75 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -223,6 +223,15 @@ _Generiert: 2026-10-15T20:11:33+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - III DYFI? - III Time 2026-10-15 05:25:31 UTC 2026-10-15 05:25:31 UTC at epicenter Location 38.548°S 175.381°E Depth 286.01 km (177.72 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Download GitHub Code Quality license usage as a CSV** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-15T20:11:26+00:00`, fetched `2026-10-15T20:24:29+00:00`
+  - Treffer: GitHub, Open Source, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Open Source (+3.8); Public Health (+5.0); GitHub (+2.5); recent (+1.0)
+  - Kurz: You can now download a CSV report of your GitHub Code Quality license usage to reconcile your license count with your own records. The report includes: Each active committer who… The post Download GitHub Code Quality license usage as a CSV appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Teaching students to think and learn through questions** — Score 12, observation — [Quelle](https://openai.com/index/teaching-students-to-think-and-learn-through-questions)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-10-15T13:00:00+00:00`, fetched `2026-10-15T14:21:51+00:00`
@@ -339,15 +348,6 @@ _Generiert: 2026-10-15T20:11:33+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Eine kritische Lücke in Ciscos Secure Email Gateway wird bereits ausgenutzt. Präparierte Mailanhänge verschaffen Angreifern Root-Rechte.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The next developer interface is ambient intelligence** — Score 6, observation — [Quelle](https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-10-15T19:39:27+00:00`, fetched `2026-10-15T19:49:22+00:00`
-  - Treffer: AI/KI, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
