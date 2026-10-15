@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T08:02:29+00:00",
+  "generated_at": "2026-10-15T08:31:32+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -291,12 +291,12 @@
     {
       "event_id": "evt_038a6e586a27b96b8eef",
       "title": "Character.ai was worth US$2.7B to Google. Disney just offered US$20M",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -6688,7 +6688,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_63f9ec391b40e631b756",
@@ -12200,6 +12200,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_b490cc12940086a8ba01",
+      "title": "Sea and Google open chapter two of their AI pact before chapter one ships",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_b49f4890d2026857c5b7",
