@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-15T20:47:43+00:00",
+  "generated_at": "2026-10-15T20:56:23+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 75,
     "clusters": 61,
     "cross_source_confrmed": 0,
     "hot": 1,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 9
   },
   "clusters": [
@@ -205,44 +205,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-15T14:36:41+00:00"
-    },
-    {
-      "key": "title:download-github-code-quality-license-usage-csv",
-      "title": "Download GitHub Code Quality license usage as a CSV",
-      "sources": [
-        "GitHub Changelog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 19.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 19.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-15T20:25:02+00:00"
     },
     {
       "key": "title:inflation-are-driving-singapore-workplace-anxiety-employers-are",
@@ -669,6 +631,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-15T01:40:35+00:00"
+    },
+    {
+      "key": "title:download-github-code-quality-license-usage-csv",
+      "title": "Download GitHub Code Quality license usage as a CSV",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 13.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-15T20:25:02+00:00"
     },
     {
       "key": "domain:openai.com",
@@ -2372,7 +2372,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-15T20:47:43Z",
+    "generated_at": "2026-10-15T20:56:24Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
