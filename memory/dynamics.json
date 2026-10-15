@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-15T03:44:12Z",
+  "generated_at": "2026-10-15T03:55:33Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 28,
@@ -24,7 +24,7 @@
       "url": "https://jvn.jp/jp/JVN48627289/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:30+09:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/jp/JVN94004488/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:15+09:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://jvn.jp/jp/JVN40460777/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://jvn.jp/vu/JVNVU95613365/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:30+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -120,7 +120,7 @@
       "url": "https://jvn.jp/vu/JVNVU95474776/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:15+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -144,7 +144,7 @@
       "url": "https://jvn.jp/vu/JVNVU94697946/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security",
         "macro"
@@ -165,11 +165,83 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
+      "url": "https://jvn.jp/jp/JVN48627289/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-15T03:24:46+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性",
+      "url": "https://jvn.jp/jp/JVN94004488/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-15T03:24:46+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "スマートフォンアプリ「ゲオアプリ」における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN40460777/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-15T03:24:46+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao",
       "url": "https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T01:00:34+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -198,7 +270,7 @@
       "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T02:00:34+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -225,7 +297,7 @@
       "url": "https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T01:18:37+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -252,7 +324,7 @@
       "url": "https://www.businessinsider.jp/article/2610-andrej-karpathy-ai-gap-widening-usage/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T06:37:12+00:00",
-      "age_days": 43.88,
+      "age_days": 43.89,
       "topics": [
         "ai"
       ],
@@ -263,88 +335,16 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.8,
+      "baseline_z_hint": 1.73,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.80",
+        "baseline z_hint 1.73",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 43.9d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
-      "url": "https://jvn.jp/jp/JVN48627289/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-15T03:24:46+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性",
-      "url": "https://jvn.jp/jp/JVN94004488/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-15T03:24:46+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "スマートフォンアプリ「ゲオアプリ」における複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN40460777/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-15T03:24:46+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -451,7 +451,7 @@
       "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T02:06:52+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -475,7 +475,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 118.55,
+      "age_days": 118.56,
       "topics": [
         "general"
       ],
@@ -486,13 +486,13 @@
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.0,
+      "baseline_z_hint": 7.7,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 8.00",
-        "aging penalty -8.0 for 118.5d old signal",
+        "baseline z_hint 7.70",
+        "aging penalty -8.0 for 118.6d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
@@ -502,7 +502,7 @@
       "url": "https://www.businessinsider.jp/article/2610-andrej-karpathy-ai-gap-widening-usage/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-13T22:59:48+00:00",
-      "age_days": 1.2,
+      "age_days": 1.21,
       "topics": [
         "ai"
       ],
@@ -528,7 +528,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-10-15T02:55:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -578,11 +578,35 @@
       "summary": ""
     },
     {
+      "title": "Every dashboard is green. So why can’t anyone say what worked?",
+      "url": "https://e27.co/every-dashboard-is-green-so-why-cant-anyone-say-what-worked-20261012/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-15T03:24:46+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」と不安を煽られる→メリットがあるか議論に",
       "url": "https://togetter.com/li/2758344",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T00:38:43+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -606,7 +630,7 @@
       "url": "https://e27.co/every-dashboard-is-green-so-why-cant-anyone-say-what-worked-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T03:00:06+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "macro"
       ],
@@ -624,30 +648,6 @@
         "high terms: 10"
       ],
       "summary": "Here is an uncomfortable finding for anyone building a 2027 marketing plan this month: audiences are warming to advertising, and marketers are growing less sure that theirs works. That tension sits at the centre of Kantar’s Media Reactions study, published on 2 October and based on interviews with more than 800 senior…"
-    },
-    {
-      "title": "Every dashboard is green. So why can’t anyone say what worked?",
-      "url": "https://e27.co/every-dashboard-is-green-so-why-cant-anyone-say-what-worked-20261012/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-15T03:24:46+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
     },
     {
       "title": "Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place",
@@ -680,7 +680,7 @@
       "url": "https://togetter.com/li/2758344",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 117.63,
+      "age_days": 117.64,
       "topics": [
         "general"
       ],
@@ -705,7 +705,7 @@
       "url": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-14T16:29:36+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
