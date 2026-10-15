@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T01:18:33+00:00_
+_Generated: 2026-10-15T01:40:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `6`
 
 ## Top Signals
 
@@ -15,7 +15,35 @@ _Generated: 2026-10-15T01:18:33+00:00_
 - url: https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/
 - summary: Anyone who has spent 10 minutes pressing “0” to escape a voice bot knows how the last automation wave ended. Call centres were promised dramatic savings from IVRs and chatbots. Customers got phone trees that went in circles, and companies got a fresh layer of…
 
-### 2. Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ
+### 2. Google BoringSSL証明書検証における複数の名前制約回避の脆弱性
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-10-15T10:30:30+09:00`
+- url: https://jvn.jp/vu/JVNVU95613365/
+- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+
+### 3. 複数のTLSライブラリにおける名前制約回避の問題
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-10-15T10:30:15+09:00`
+- url: https://jvn.jp/vu/JVNVU95474776/
+- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+
+### 4. Bishengにおける複数の認証回避の脆弱性
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-10-15T10:30:00+09:00`
+- url: https://jvn.jp/vu/JVNVU94697946/
+- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+
+### 5. Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place
+- source: e27 Asia Startup and Tech Feed
+- score: `6`
+- published: `2026-10-15T01:39:20+00:00`
+- url: https://e27.co/cash-on-delivery-is-dying-in-southeast-asia-six-different-wallets-are-taking-its-place-20261015/
+- summary: Southeast Asia’s online shoppers spent the better part of a decade being nudged to stop handing cash to the courier. They are finally listening, though not in any single, tidy way. Cash-on-delivery (COD), long the default in markets where card ownership was t…
+
+### 6. Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-14T16:29:36+00:00`

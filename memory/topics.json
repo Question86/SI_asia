@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T01:18:33+00:00",
+  "generated_at": "2026-10-15T01:40:32+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,38 @@
         "published_at": "2026-10-14T16:29:36+00:00",
         "relevance_score": 5,
         "url": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html"
+      }
+    ],
+    "security": [
+      {
+        "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-15T10:30:30+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU95613365/"
+      },
+      {
+        "title": "複数のTLSライブラリにおける名前制約回避の問題",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-15T10:30:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU95474776/"
+      },
+      {
+        "title": "Bishengにおける複数の認証回避の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-15T10:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94697946/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-15T01:39:20+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/cash-on-delivery-is-dying-in-southeast-asia-six-different-wallets-are-taking-its-place-20261015/"
       }
     ]
   }
