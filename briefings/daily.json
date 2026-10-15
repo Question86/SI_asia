@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T05:33:45+00:00",
-  "today_file_total": 22,
+  "generated_at": "2026-10-15T06:03:43+00:00",
+  "today_file_total": 28,
   "current_clusters": [
     {
       "key": "title:tokens-are-wrong-yardstick-agents-says-jfrog-sunny",
@@ -51,6 +51,31 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
+      "key": "github_repo:hkuds/cli-anything",
+      "title": "HKUDS/CLI-Anything",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/HKUDS/CLI-Anything"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+    },
+    {
       "key": "title:inflation-are-driving-singapore-workplace-anxiety-employers-are",
       "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
       "sources": [
@@ -95,6 +120,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 5.3 - 43 km sse of otorohanga, new zealand:5.3",
+      "title": "M 5.3 - 43 km SSE of Otorohanga, New Zealand",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ev"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 18.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:creema",
@@ -235,6 +285,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "domain:note.com",
+      "title": "有名企業や一流開発者のノウハウをそのまま持ち込める、Claude Codeスキル11選｜苦しんでプログラミングを学んだ柴犬（くるしば）",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://note.com/shiba_program/n/nd2d72747f8c5"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:southeast-asia-funding-winter-real-its-building-winter",
       "title": "Southeast Asia’s funding winter is real. Its building winter isn’t",
       "sources": [
@@ -333,139 +406,70 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:can-increase-productivity-can-increase-human-capacity",
-      "title": "AI can increase productivity. It can’t increase human capacity",
+      "key": "url:https://www.digital.go.jp/get-involved/procedure/e01662cd-4263-445c-8db8-55013d45ab10",
+      "title": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集の結果が公表されました",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "Japan Digital Agency News RSS"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/ai-can-increase-productivity-it-cant-increase-human-capacity-20261015/"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:agilejourney.uzabase.com",
-      "title": "雑談はセンサーになる──ふりかえりで言えない本音を拾い、チームを動かす - Agile Journey",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://agilejourney.uzabase.com/entry/2026/10/15/103000"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:cash-delivery-dying-southeast-asia-six-different-wallets",
-      "title": "Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/cash-on-delivery-is-dying-in-southeast-asia-six-different-wallets-are-taking-its-place-20261015/"
+        "https://www.digital.go.jp/get-involved/procedure/e01662cd-4263-445c-8db8-55013d45ab10"
       ],
       "finding_count": 1,
       "max_score": 6,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "domain:togetter.com",
-      "title": "タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」と不安を煽られる→メリットがあるか議論に",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://togetter.com/li/2758344"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 11.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:iphone-air-1tb",
-      "title": "異例の「iPhone Air」投げ売りはなぜ起きている？ 定価29.5万円の1TBモデルが、いま18.4万円で買える3つの理由",
+      "key": "url:https://www.digital.go.jp/policies/genai/employment-equality-01",
+      "title": "動画【ガバメントAI 開発記録】雇用環境・均等行政の挑戦【①AIに何を任せるか】を公開しました",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "Japan Digital Agency News RSS"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.itmedia.co.jp/mobile/articles/2610/15/news037.html"
+        "https://www.digital.go.jp/policies/genai/employment-equality-01"
       ],
       "finding_count": 1,
-      "max_score": 5,
+      "max_score": 6,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 11.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:windows-microsoft-execution-containers-mxc",
-      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
+      "key": "title:100",
+      "title": "デジタル庁ダッシュボードシリーズがグッドデザイン・ベスト100を受賞しました",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "Japan Digital Agency News RSS"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html"
+        "https://www.digital.go.jp/press/bc0973b1-afd3-4948-8592-a610513e0a95"
       ],
       "finding_count": 1,
-      "max_score": 5,
+      "max_score": 6,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 11.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

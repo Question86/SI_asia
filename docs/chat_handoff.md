@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T05:33:40+00:00_
+_Generated: 2026-10-15T06:03:40+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `28`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-15T05:33:40+00:00_
 - url: https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm
 - summary: Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand
 
-### 5. Southeast Asia’s funding winter is real. Its building winter isn’t
+### 5. M 5.3 - 43 km SSE of Otorohanga, New Zealand
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-15T05:57:13.132+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ev
+- summary: PAGER - GREEN ShakeMap - III DYFI? - III Time 2026-10-15 05:25:31 UTC 2026-10-15 05:25:31 UTC at epicenter Location 38.548°S 175.381°E Depth 286.01 km (177.72 mi)
+
+### 6. Southeast Asia’s funding winter is real. Its building winter isn’t
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-15T02:00:34+00:00`
 - url: https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/
 - summary: Every few weeks, another report tells the same story about Southeast Asian tech: capital has fled, deals have dried up, and the region’s startup engine has stalled. The most recent numbers make the case forcefully. Zero dedicated regional private equity funds…
 
-### 6. Institutional buyers face a massive test at the US$81,000 Bitcoin support level
+### 7. 有名企業や一流開発者のノウハウをそのまま持ち込める、Claude Codeスキル11選｜苦しんでプログラミングを学んだ柴犬（くるしば）
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-15T04:24:08+00:00`
+- url: https://note.com/shiba_program/n/nd2d72747f8c5
+- summary: こんにちは。くるしばです。 エラー監視サービスのSentry社が自社の開発チームで使っているコードレビューの基準を、明日から自分のプロジェクトにそのまま適用できるとしたら、ちょっと試してみたくならないでしょうか。 Claude Codeの「スキル」という仕組みを使うと、これが簡単に実現できます。決まった手順やルール...
+
+### 8. Institutional buyers face a massive test at the US$81,000 Bitcoin support level
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-10-15T03:53:43+00:00`
 - url: https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/
 - summary: The cryptocurrency sector experienced a severe and sudden decline over the last 24 hours. Bitcoin fell 2.28 per cent to US$81,370.58. The broader digital asset ecosystem mirrored this downward trajectory, dropping 2.22 per cent to a total valuation of US$2.74…
-
-### 7. M 4.8 - 30 km E of Safotu, Samoa
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-15T04:02:36.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh
-- summary: Time 2026-10-15 03:36:08 UTC 2026-10-15 03:36:08 UTC at epicenter Location 13.433°S 172.117°W Depth 13.47 km (8.37 mi)
-
-### 8. M 5.1 - 36 km E of Safotu, Samoa
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-15T03:59:13.050+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ec
-- summary: DYFI? - III Time 2026-10-15 03:36:29 UTC 2026-10-15 03:36:29 UTC at epicenter Location 13.409°S 172.069°W Depth 13.21 km (8.21 mi)
 
 END OF DOCUMENT
