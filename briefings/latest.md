@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T14:48:14+00:00_
+_Generiert: 2026-10-15T14:58:22+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
+70 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -259,6 +259,33 @@ _Generiert: 2026-10-15T14:48:14+00:00_
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)
   - Kurz: The cryptocurrency sector experienced a severe and sudden decline over the last 24 hours. Bitcoin fell 2.28 per cent to US$81,370.58. The broader digital asset ecosystem mirrored this downward trajectory, dropping 2.22 per cent to a total valuation of US$2.74 trillion. An unexpectedly hot United States inflation report drove this widespread selloff across all major […] The post Institutional buyers face a massive te…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux de SUSE (09 octobre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1288/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-09T00:00:00+00:00`, fetched `2026-10-15T14:57:53+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux de Red Hat (09 octobre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1287/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-09T00:00:00+00:00`, fetched `2026-10-15T14:57:53+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux de Debian LTS (09 octobre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1289/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-09T00:00:00+00:00`, fetched `2026-10-15T14:57:53+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sea and Google open chapter two of their AI pact before chapter one ships** — Score 10, observation — [Quelle](https://e27.co/sea-and-google-open-chapter-two-of-their-ai-pact-before-chapter-one-ships-20261015/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-15T08:19:49+00:00`, fetched `2026-10-15T08:30:26+00:00`
@@ -312,33 +339,6 @@ _Generiert: 2026-10-15T14:48:14+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和8年度（2026年度）デジタル庁情報システム調達改革検討会（第1回） の開催情報と資料を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集の結果が公表されました** — Score 6, observation — [Quelle](https://www.digital.go.jp/get-involved/procedure/e01662cd-4263-445c-8db8-55013d45ab10)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-15T06:00:00+00:00`, fetched `2026-10-15T06:03:08+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集の結果が公表されました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **動画【ガバメントAI 開発記録】雇用環境・均等行政の挑戦【①AIに何を任せるか】を公開しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/genai/employment-equality-01)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-15T06:00:00+00:00`, fetched `2026-10-15T06:03:08+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 動画【ガバメントAI 開発記録】雇用環境・均等行政の挑戦【①AIに何を任せるか】を公開しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ソースネクスト、最大2251万件の情報流出 パスワード再設定を** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2148547.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-15T10:52:15+00:00`, fetched `2026-10-15T12:32:29+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ソースネクスト、最大2251万件の情報流出 パスワード再設定を
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
