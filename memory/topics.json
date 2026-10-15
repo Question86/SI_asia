@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T10:35:07+00:00",
+  "generated_at": "2026-10-15T11:05:44+00:00",
   "topics": {
     "ai": [
       {
@@ -112,6 +112,13 @@
         "url": "https://jvn.jp/jp/JVN40460777/"
       },
       {
+        "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T10:55:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3948"
+      },
+      {
         "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-15T10:30:30+09:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-10-15T10:15:52+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3947"
-      },
-      {
-        "title": "[NEU] [mittel] Palo Alto Networks Cortex XSOAR: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-15T09:55:52+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3946"
       }
     ],
     "geopolitics": [
@@ -161,6 +161,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      {
+        "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T10:55:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3948"
       },
       {
         "title": "[NEU] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen",
@@ -316,6 +323,13 @@
         "url": "https://www.digital.go.jp/press/bc0973b1-afd3-4948-8592-a610513e0a95"
       },
       {
+        "title": "当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-15T08:49:13+00:00",
+        "relevance_score": 5,
+        "url": "https://www.sourcenext.com/support/i/2026/1015_info/"
+      },
+      {
         "title": "バーガーキング アプリの会員情報 約1118万件漏えい | NHKニュース",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-15T07:06:47+00:00",
@@ -328,13 +342,6 @@
         "published_at": "2026-10-15T04:01:12+00:00",
         "relevance_score": 5,
         "url": "https://tools.oyasumi-gamedev.com/worldgacha/"
-      },
-      {
-        "title": "雑談はセンサーになる──ふりかえりで言えない本音を拾い、チームを動かす - Agile Journey",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-15T01:33:17+00:00",
-        "relevance_score": 5,
-        "url": "https://agilejourney.uzabase.com/entry/2026/10/15/103000"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T10:35:07+00:00",
-  "run_id": "2026-10-15T10:35:07+00:00",
+  "generated_at": "2026-10-15T11:05:44+00:00",
+  "run_id": "2026-10-15T11:05:44+00:00",
   "date": "2026-10-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 41
+      "configured_public_sources_only": 43
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 41,
-    "displayed_findings": 41,
+    "new_relevant_findings": 2,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 0,
-    "medium": 15,
-    "observe": 26,
+    "medium": 16,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -317,6 +317,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5ea8a5da90a1eaef0acd"
+      },
+      {
+        "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3948",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-15T10:55:52+00:00",
+        "fetched_at": "2026-10-15T11:05:12+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in NGINX NGINX Plus und NGINX ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "77fa7a51162501599300"
       },
       {
         "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
@@ -876,6 +899,27 @@
         "id": "8dc2edab300ff325a87e"
       },
       {
+        "title": "当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト",
+        "url": "https://www.sourcenext.com/support/i/2026/1015_info/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-15T08:49:13+00:00",
+        "fetched_at": "2026-10-15T11:05:12+00:00",
+        "summary": "このたび、当社が管理する会員情報に対し、第三者による不正アクセスが行われ、当社に会員登録いただいているお客様の個人情報が外部に流出したことが判明いたしました。 お客様ならびに関係者の皆様に多大なるご迷惑とご心配をおかけしておりますことを、深くお詫び申し上げます。 現在、外部の専門機関と連携し、原因...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cd9336221360e728473e"
+      },
+      {
         "title": "バーガーキング アプリの会員情報 約1118万件漏えい | NHKニュース",
         "url": "https://news.web.nhk/newsweb/na/nd-20261015de59803",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1332,6 +1376,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "5ea8a5da90a1eaef0acd"
+    },
+    {
+      "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3948",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-15T10:55:52+00:00",
+      "fetched_at": "2026-10-15T11:05:12+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in NGINX NGINX Plus und NGINX ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "77fa7a51162501599300"
     },
     {
       "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
@@ -1889,6 +1956,27 @@
       "id": "8dc2edab300ff325a87e"
     },
     {
+      "title": "当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト",
+      "url": "https://www.sourcenext.com/support/i/2026/1015_info/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-15T08:49:13+00:00",
+      "fetched_at": "2026-10-15T11:05:12+00:00",
+      "summary": "このたび、当社が管理する会員情報に対し、第三者による不正アクセスが行われ、当社に会員登録いただいているお客様の個人情報が外部に流出したことが判明いたしました。 お客様ならびに関係者の皆様に多大なるご迷惑とご心配をおかけしておりますことを、深くお詫び申し上げます。 現在、外部の専門機関と連携し、原因...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cd9336221360e728473e"
+    },
+    {
       "title": "バーガーキング アプリの会員情報 約1118万件漏えい | NHKニュース",
       "url": "https://news.web.nhk/newsweb/na/nd-20261015de59803",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2057,28 +2145,48 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [kritisch] Microsoft Office Produkte: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3916",
+      "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3948",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-15T10:30:51+00:00",
-      "fetched_at": "2026-10-15T10:34:32+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten ausnutzen, um seine Privilegien zu erhöhen, um Code auszuführen, um Informationen offenzulegen oder zu manipulieren und um Sicherheitsmechanismen zu umgehen.",
+      "published_at": "2026-10-15T10:55:52+00:00",
+      "fetched_at": "2026-10-15T11:05:12+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in NGINX NGINX Plus und NGINX ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Microsoft",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fc8e60718bb2945cb474"
+      "id": "77fa7a51162501599300"
+    },
+    {
+      "title": "当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト",
+      "url": "https://www.sourcenext.com/support/i/2026/1015_info/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-15T08:49:13+00:00",
+      "fetched_at": "2026-10-15T11:05:12+00:00",
+      "summary": "このたび、当社が管理する会員情報に対し、第三者による不正アクセスが行われ、当社に会員登録いただいているお客様の個人情報が外部に流出したことが判明いたしました。 お客様ならびに関係者の皆様に多大なるご迷惑とご心配をおかけしておりますことを、深くお詫び申し上げます。 現在、外部の専門機関と連携し、原因...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cd9336221360e728473e"
     }
   ],
   "source_errors": [],

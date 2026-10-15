@@ -289,6 +289,29 @@
     "id": "5ea8a5da90a1eaef0acd"
   },
   {
+    "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3948",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-15T10:55:52+00:00",
+    "fetched_at": "2026-10-15T11:05:12+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in NGINX NGINX Plus und NGINX ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "77fa7a51162501599300"
+  },
+  {
     "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU95613365/",
     "source": "JVN Japan Vulnerability Notes",
@@ -842,6 +865,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "8dc2edab300ff325a87e"
+  },
+  {
+    "title": "当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト",
+    "url": "https://www.sourcenext.com/support/i/2026/1015_info/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-15T08:49:13+00:00",
+    "fetched_at": "2026-10-15T11:05:12+00:00",
+    "summary": "このたび、当社が管理する会員情報に対し、第三者による不正アクセスが行われ、当社に会員登録いただいているお客様の個人情報が外部に流出したことが判明いたしました。 お客様ならびに関係者の皆様に多大なるご迷惑とご心配をおかけしておりますことを、深くお詫び申し上げます。 現在、外部の専門機関と連携し、原因...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cd9336221360e728473e"
   },
   {
     "title": "バーガーキング アプリの会員情報 約1118万件漏えい | NHKニュース",
