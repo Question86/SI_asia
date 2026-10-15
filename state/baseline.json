@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T03:24:46+00:00",
+  "generated_at": "2026-10-15T03:40:06+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -950,9 +950,8 @@
     },
     "domain:www.federalreserve.gov": {
       "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
-      "updated_at": "2026-10-15T03:24:46+00:00",
+      "updated_at": "2026-10-15T03:40:06+00:00",
       "network_scores": [
-        13.1,
         10.1,
         10.1,
         10.1,
@@ -981,12 +980,13 @@
         10.1,
         10.1,
         22.1,
+        19.1,
         19.1
       ],
-      "rolling_average": 10.9,
+      "rolling_average": 11.1,
       "rolling_peak": 22.1,
       "last_score": 19.1,
-      "z_hint": 8.2
+      "z_hint": 8.0
     },
     "domain:www.ecb.europa.eu": {
       "title": "Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45",
@@ -5081,9 +5081,8 @@
     },
     "domain:togetter.com": {
       "title": "タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」と不安を煽られる→メリットがあるか議論に",
-      "updated_at": "2026-10-15T03:24:46+00:00",
+      "updated_at": "2026-10-15T03:40:06+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -5112,12 +5111,13 @@
         9.2,
         9.2,
         9.2,
-        10.1
+        10.1,
+        7.1
       ],
       "rolling_average": 9.05,
       "rolling_peak": 12.2,
-      "last_score": 10.1,
-      "z_hint": 1.05
+      "last_score": 7.1,
+      "z_hint": -1.95
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -11391,9 +11391,8 @@
     },
     "title:business-insider-japan": {
       "title": "「バイブコーディング」の生みの親カルパシー氏、「AIの理解格差は“鋭い漏斗”になった」 | Business Insider Japan",
-      "updated_at": "2026-10-15T03:24:46+00:00",
+      "updated_at": "2026-10-15T03:40:06+00:00",
       "network_scores": [
-        22.1,
         22.1,
         22.1,
         22.1,
@@ -11422,12 +11421,13 @@
         21.1,
         21.1,
         27.1,
+        24.1,
         24.1
       ],
-      "rolling_average": 22.23,
+      "rolling_average": 22.3,
       "rolling_peak": 27.1,
       "last_score": 24.1,
-      "z_hint": 1.87
+      "z_hint": 1.8
     },
     "github_repo:jingyaogong/minimind": {
       "title": "jingyaogong/minimind",
@@ -74057,7 +74057,7 @@
     },
     "title:windows-microsoft-execution-containers-mxc": {
       "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
-      "updated_at": "2026-10-15T03:24:46+00:00",
+      "updated_at": "2026-10-15T03:40:06+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -74067,16 +74067,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.43,
+      "rolling_average": 7.4,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:tokens-are-wrong-yardstick-agents-says-jfrog-sunny": {
       "title": "Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao",
-      "updated_at": "2026-10-15T03:24:46+00:00",
+      "updated_at": "2026-10-15T03:40:06+00:00",
       "network_scores": [
         28.1,
         25.1,
@@ -74085,16 +74086,17 @@
         25.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.47,
+      "rolling_average": 25.43,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.37
+      "z_hint": -0.33
     },
     "title:google-boringssl": {
       "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
-      "updated_at": "2026-10-15T03:24:46+00:00",
+      "updated_at": "2026-10-15T03:40:06+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -74102,16 +74104,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.53,
+      "rolling_average": 16.47,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.43
+      "z_hint": -0.37
     },
     "title:tls": {
       "title": "複数のTLSライブラリにおける名前制約回避の問題",
-      "updated_at": "2026-10-15T03:24:46+00:00",
+      "updated_at": "2026-10-15T03:40:06+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -74119,16 +74122,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.53,
+      "rolling_average": 16.47,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.43
+      "z_hint": -0.37
     },
     "title:bisheng": {
       "title": "Bishengにおける複数の認証回避の脆弱性",
-      "updated_at": "2026-10-15T03:24:46+00:00",
+      "updated_at": "2026-10-15T03:40:06+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -74136,16 +74140,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.53,
+      "rolling_average": 16.47,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.43
+      "z_hint": -0.37
     },
     "title:cash-delivery-dying-southeast-asia-six-different-wallets": {
       "title": "Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place",
-      "updated_at": "2026-10-15T03:24:46+00:00",
+      "updated_at": "2026-10-15T03:40:06+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -74153,71 +74158,77 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.53,
+      "rolling_average": 8.47,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "title:southeast-asia-funding-winter-real-its-building-winter": {
       "title": "Southeast Asia’s funding winter is real. Its building winter isn’t",
-      "updated_at": "2026-10-15T03:24:46+00:00",
+      "updated_at": "2026-10-15T03:40:06+00:00",
       "network_scores": [
         17.1,
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.7,
+      "rolling_average": 14.6,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:creema": {
       "title": "スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
-      "updated_at": "2026-10-15T03:24:46+00:00",
+      "updated_at": "2026-10-15T03:40:06+00:00",
       "network_scores": [
-        19.1
+        19.1,
+        16.1
       ],
-      "rolling_average": 19.1,
+      "rolling_average": 17.6,
       "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
+      "last_score": 16.1,
+      "z_hint": -1.5
     },
     "url:https://jvn.jp/jp/jvn94004488/": {
       "title": "「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性",
-      "updated_at": "2026-10-15T03:24:46+00:00",
+      "updated_at": "2026-10-15T03:40:06+00:00",
       "network_scores": [
-        19.1
+        19.1,
+        16.1
       ],
-      "rolling_average": 19.1,
+      "rolling_average": 17.6,
       "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
+      "last_score": 16.1,
+      "z_hint": -1.5
     },
     "url:https://jvn.jp/jp/jvn40460777/": {
       "title": "スマートフォンアプリ「ゲオアプリ」における複数の脆弱性",
-      "updated_at": "2026-10-15T03:24:46+00:00",
+      "updated_at": "2026-10-15T03:40:06+00:00",
       "network_scores": [
-        19.1
+        19.1,
+        16.1
       ],
-      "rolling_average": 19.1,
+      "rolling_average": 17.6,
       "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
+      "last_score": 16.1,
+      "z_hint": -1.5
     },
     "title:every-dashboard-green-why-can-anyone-say-what": {
       "title": "Every dashboard is green. So why can’t anyone say what worked?",
-      "updated_at": "2026-10-15T03:24:46+00:00",
+      "updated_at": "2026-10-15T03:40:06+00:00",
       "network_scores": [
-        9.1
+        9.1,
+        6.1
       ],
-      "rolling_average": 9.1,
+      "rolling_average": 7.6,
       "rolling_peak": 9.1,
-      "last_score": 9.1,
-      "z_hint": 0.0
+      "last_score": 6.1,
+      "z_hint": -1.5
     }
   }
 }
