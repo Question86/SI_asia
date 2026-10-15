@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T08:50:41+00:00",
+  "generated_at": "2026-10-15T09:38:50+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-10-13T22:59:48+00:00",
         "relevance_score": 22,
         "url": "https://www.businessinsider.jp/article/2610-andrej-karpathy-ai-gap-widening-usage/"
+      },
+      {
+        "title": "2026-017: Critical Vulnerability in Cisco Secure Email Gateway",
+        "source": "CERT-EU Security Advisories",
+        "published_at": "2026-10-15T11:38:20+00:00",
+        "relevance_score": 20,
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-017/"
       },
       {
         "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
@@ -66,6 +73,64 @@
         "published_at": "2026-10-15T03:54:24+00:00",
         "relevance_score": 8,
         "url": "https://gazlog.jp/entry/ps5-can-run-27b-llm/"
+      }
+    ],
+    "security": [
+      {
+        "title": "2026-017: Critical Vulnerability in Cisco Secure Email Gateway",
+        "source": "CERT-EU Security Advisories",
+        "published_at": "2026-10-15T11:38:20+00:00",
+        "relevance_score": 20,
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-017/"
+      },
+      {
+        "title": "スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-15T12:00:30+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN48627289/"
+      },
+      {
+        "title": "「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-15T12:00:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN94004488/"
+      },
+      {
+        "title": "スマートフォンアプリ「ゲオアプリ」における複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-15T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN40460777/"
+      },
+      {
+        "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-15T10:30:30+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU95613365/"
+      },
+      {
+        "title": "複数のTLSライブラリにおける名前制約回避の問題",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-15T10:30:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU95474776/"
+      },
+      {
+        "title": "Bishengにおける複数の認証回避の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-15T10:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94697946/"
+      },
+      {
+        "title": "PAN-OS: Schadcode schlüpft durch Root-Lücke in Palo-Alto-Firewalls",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-15T09:15:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/PAN-OS-Schadcode-schluepft-durch-Root-Luecke-in-Palo-Alto-Firewalls-11488897.html"
       },
       {
         "title": "Angreifer nutzen Root-Lücke in Cisco Secure Email Gateway aus",
@@ -73,6 +138,36 @@
         "published_at": "2026-10-15T07:07:00.000+00:00",
         "relevance_score": 7,
         "url": "https://www.heise.de/news/Angreifer-nutzen-Root-Luecke-in-Cisco-Secure-Email-Gateway-aus-11488853.html"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "2026-017: Critical Vulnerability in Cisco Secure Email Gateway",
+        "source": "CERT-EU Security Advisories",
+        "published_at": "2026-10-15T11:38:20+00:00",
+        "relevance_score": 20,
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-017/"
+      },
+      {
+        "title": "HKUDS/CLI-Anything",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      {
+        "title": "Institutional buyers face a massive test at the US$81,000 Bitcoin support level",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-15T03:53:43+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/"
+      },
+      {
+        "title": "Every dashboard is green. So why can’t anyone say what worked?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-15T03:00:06+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/every-dashboard-is-green-so-why-cant-anyone-say-what-worked-20261012/"
       }
     ],
     "economy": [
@@ -147,80 +242,6 @@
         "published_at": "2026-10-15T03:53:43+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "HKUDS/CLI-Anything",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 16,
-        "url": "https://github.com/HKUDS/CLI-Anything"
-      },
-      {
-        "title": "Institutional buyers face a massive test at the US$81,000 Bitcoin support level",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-15T03:53:43+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/"
-      },
-      {
-        "title": "Every dashboard is green. So why can’t anyone say what worked?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-15T03:00:06+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/every-dashboard-is-green-so-why-cant-anyone-say-what-worked-20261012/"
-      }
-    ],
-    "security": [
-      {
-        "title": "スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T12:00:30+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN48627289/"
-      },
-      {
-        "title": "「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T12:00:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN94004488/"
-      },
-      {
-        "title": "スマートフォンアプリ「ゲオアプリ」における複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN40460777/"
-      },
-      {
-        "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T10:30:30+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU95613365/"
-      },
-      {
-        "title": "複数のTLSライブラリにおける名前制約回避の問題",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T10:30:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU95474776/"
-      },
-      {
-        "title": "Bishengにおける複数の認証回避の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T10:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94697946/"
-      },
-      {
-        "title": "Angreifer nutzen Root-Lücke in Cisco Secure Email Gateway aus",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-15T07:07:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Angreifer-nutzen-Root-Luecke-in-Cisco-Secure-Email-Gateway-aus-11488853.html"
       }
     ],
     "general": [
