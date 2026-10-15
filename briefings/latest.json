@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T04:38:41+00:00",
-  "run_id": "2026-10-15T04:38:41+00:00",
+  "generated_at": "2026-10-15T04:50:29+00:00",
+  "run_id": "2026-10-15T04:50:29+00:00",
   "date": "2026-10-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 21,
     "displayed_findings": 21,
     "high": 0,
@@ -1097,29 +1097,7 @@
       "id": "c73aa7224d2d6dc5eb13"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI can increase productivity. It can’t increase human capacity",
-      "url": "https://e27.co/ai-can-increase-productivity-it-cant-increase-human-capacity-20261015/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-15T04:30:45+00:00",
-      "fetched_at": "2026-10-15T04:38:07+00:00",
-      "summary": "We may be using AI to save hours of work, only to fill those hours with more work. This is something I have been thinking about as organisations accelerate their investment in AI. The productivity opportunity is undeniable. Generative AI can draft in seconds, analyse large volumes of information, automate administrative work and give leaders […] The post AI can increase productivity. It can’t increase human capacity…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c648f76d1a275c909b96"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-15T04:38:45+00:00_
+_Generiert: 2026-10-15T04:50:32+00:00_
 
 ## AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix
 
