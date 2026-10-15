@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T00:57:00+00:00",
+  "generated_at": "2026-10-15T01:18:56+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -9878,6 +9878,23 @@
       "first_seen_at": "2026-10-06T10:50:44+00:00",
       "last_seen_at": "2026-10-06T23:46:08+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8f99d429361637e5e598",
+      "title": "Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 122400.0,
+      "p50_usd": 12240000.0,
+      "p90_usd": 1224000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-15T01:18:37+00:00",
+      "last_seen_at": "2026-10-15T01:18:37+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_1dc9bdd21755f73fe1e3",
@@ -22802,6 +22819,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_5348b973bb4e3b856f97",
+      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-15T00:56:42+00:00",
+      "last_seen_at": "2026-10-15T01:18:37+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_53a1da19d8eec77cc200",
       "title": "みんなほしいのはiPhone Duo “mini”だよね",
       "event_classes": [
@@ -25401,23 +25435,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_5348b973bb4e3b856f97",
-      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-15T00:56:42+00:00",
-      "last_seen_at": "2026-10-15T00:56:42+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
