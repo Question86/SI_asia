@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T21:05:38+00:00",
-  "run_id": "2026-10-15T21:05:38+00:00",
+  "generated_at": "2026-10-15T21:22:38+00:00",
+  "run_id": "2026-10-15T21:22:38+00:00",
   "date": "2026-10-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 76
+      "configured_public_sources_only": 77
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 1,
     "medium": 28,
-    "observe": 47,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -1637,6 +1637,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "609046f9e26e2c1f6c4d"
+      },
+      {
+        "title": "国内で相次ぐWebシステムからの情報漏えい～ラックの観測から見える変化と、企業が今とるべき対策 | LAC WATCH",
+        "url": "https://www.lac.co.jp/lacwatch/alert/20261015_004996.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-15T11:26:49+00:00",
+        "fetched_at": "2026-10-15T21:22:07+00:00",
+        "summary": "2026年7月以降、国内法人が運営するWebシステムやスマートフォンアプリに関連した個人情報漏えいの公表が相次いでいます。公開情報の独自集計では、2026年10月6日時点で119件に上り、そのうち約68%にあたる81件が7月以降に公表※されたものです。ラックのサイバー救急センターへの相談件数においても、サーバへの不正侵入...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c530e9d7b56fbe06e985"
       },
       {
         "title": "ソースネクスト、最大2251万件の情報流出 パスワード再設定を",
@@ -3538,6 +3559,27 @@
       "id": "609046f9e26e2c1f6c4d"
     },
     {
+      "title": "国内で相次ぐWebシステムからの情報漏えい～ラックの観測から見える変化と、企業が今とるべき対策 | LAC WATCH",
+      "url": "https://www.lac.co.jp/lacwatch/alert/20261015_004996.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-15T11:26:49+00:00",
+      "fetched_at": "2026-10-15T21:22:07+00:00",
+      "summary": "2026年7月以降、国内法人が運営するWebシステムやスマートフォンアプリに関連した個人情報漏えいの公表が相次いでいます。公開情報の独自集計では、2026年10月6日時点で119件に上り、そのうち約68%にあたる81件が7月以降に公表※されたものです。ラックのサイバー救急センターへの相談件数においても、サーバへの不正侵入...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c530e9d7b56fbe06e985"
+    },
+    {
       "title": "ソースネクスト、最大2251万件の情報流出 パスワード再設定を",
       "url": "https://www.watch.impress.co.jp/docs/news/2148547.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3830,40 +3872,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.5 - 44 km SSE of Champerico, Guatemala",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2kz",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "国内で相次ぐWebシステムからの情報漏えい～ラックの観測から見える変化と、企業が今とるべき対策 | LAC WATCH",
+      "url": "https://www.lac.co.jp/lacwatch/alert/20261015_004996.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-15T20:59:15.040+00:00",
-      "fetched_at": "2026-10-15T21:05:05+00:00",
-      "summary": "Time 2026-10-15 20:39:25 UTC 2026-10-15 20:39:25 UTC at epicenter Location 13.901°N 91.818°W Depth 59.49 km (36.96 mi)",
+      "published_at": "2026-10-15T11:26:49+00:00",
+      "fetched_at": "2026-10-15T21:22:07+00:00",
+      "summary": "2026年7月以降、国内法人が運営するWebシステムやスマートフォンアプリに関連した個人情報漏えいの公表が相次いでいます。公開情報の独自集計では、2026年10月6日時点で119件に上り、そのうち約68%にあたる81件が7月以降に公表※されたものです。ラックのサイバー救急センターへの相談件数においても、サーバへの不正侵入...",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "951d61bf77c03ca45e13"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c530e9d7b56fbe06e985"
     }
   ],
   "source_errors": [],
