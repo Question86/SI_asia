@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T14:23:05+00:00",
+  "generated_at": "2026-10-15T14:37:15+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -6592,6 +6592,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_61ef41ce43270fbaeb9d",
+      "title": "Agentic autofix for code scanning alerts general availability",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_620225625978c23a2aaa",
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）",
       "deduplicated_buckets": 0,
@@ -11165,7 +11176,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a5a54b57014a28b3b8cc",
