@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T10:20:33+00:00",
+  "generated_at": "2026-10-15T10:35:07+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://cert.europa.eu/publications/security-advisories/2026-017/"
       },
       {
+        "title": "[UPDATE] [kritisch] Microsoft Office Produkte: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T10:30:51+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3916"
+      },
+      {
         "title": "スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-15T12:00:30+09:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-10-15T09:55:52+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3946"
-      },
-      {
-        "title": "PAN-OS: Schadcode schlüpft durch Root-Lücke in Palo-Alto-Firewalls",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-15T09:15:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/PAN-OS-Schadcode-schluepft-durch-Root-Luecke-in-Palo-Alto-Firewalls-11488897.html"
       }
     ],
     "geopolitics": [
