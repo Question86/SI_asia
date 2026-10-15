@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:41:53+00:00",
+  "generated_at": "2026-10-15T18:55:33+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 72,
@@ -28,20 +28,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 37.54,
+      "network_score": 37.53,
       "hot": true,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 34.1,
-      "ranking_score": 37.54,
+      "ranking_score": 37.53,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.04,
+      "baseline_bonus": 0.03,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": true,
@@ -207,49 +207,6 @@
       "first_seen_at": "2026-10-15T14:36:41+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [mittel] Red Hat Enterprise Linux (lrzsz): Mehrere Schwachstellen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3978",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3977",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3975",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3917",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3916",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3976"
-      ],
-      "finding_count": 14,
-      "max_score": 16,
-      "credibility_total": 14.7,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 18.6,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 45.4,
-      "ranking_score": 18.6,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.1,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
       "key": "title:inflation-are-driving-singapore-workplace-anxiety-employers-are",
       "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
       "sources": [
@@ -286,6 +243,49 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-15T04:24:44+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (lrzsz): Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3978",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3977",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3975",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3917",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3916",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3976"
+      ],
+      "finding_count": 14,
+      "max_score": 16,
+      "credibility_total": 14.7,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 18.36,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 45.4,
+      "ranking_score": 18.36,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.86,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "github_repo:hkuds/cli-anything",
@@ -2258,7 +2258,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-15T18:41:54Z",
+    "generated_at": "2026-10-15T18:55:34Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
