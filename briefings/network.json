@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-15T04:50:32+00:00",
+  "generated_at": "2026-10-15T04:58:57+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 21,
     "clusters": 21,
     "cross_source_confrmed": 0,
-    "hot": 1,
-    "early_signals": 1,
+    "hot": 0,
+    "early_signals": 0,
     "dominance_penalized": 3
   },
   "clusters": [
@@ -68,18 +68,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 24.09,
+      "network_score": 24.06,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 24.1,
-      "ranking_score": 24.09,
+      "ranking_score": 24.06,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.59,
+      "baseline_bonus": 0.56,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -87,44 +87,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-01T06:37:12+00:00"
-    },
-    {
-      "key": "title:inflation-are-driving-singapore-workplace-anxiety-employers-are",
-      "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/"
-      ],
-      "finding_count": 1,
-      "max_score": 17,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 24.0,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 19.1,
-      "ranking_score": 24.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-15T04:24:44+00:00"
     },
     {
       "key": "domain:www.federalreserve.gov",
@@ -145,18 +107,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 19.6,
+      "network_score": 19.48,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 19.1,
-      "ranking_score": 19.6,
+      "ranking_score": 19.48,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.6,
+      "baseline_bonus": 2.48,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -164,6 +126,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "title:inflation-are-driving-singapore-workplace-anxiety-employers-are",
+      "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/"
+      ],
+      "finding_count": 1,
+      "max_score": 17,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 18.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 19.1,
+      "ranking_score": 18.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-15T04:24:44+00:00"
     },
     {
       "key": "title:creema",
@@ -822,7 +822,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-15T04:50:32Z",
+    "generated_at": "2026-10-15T04:58:58Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
