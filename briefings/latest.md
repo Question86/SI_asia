@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T04:24:41+00:00_
+_Generiert: 2026-10-15T04:38:41+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+21 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -175,15 +175,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-10-15 03:36:29 UTC 2026-10-15 03:36:29 UTC at epicenter Location 13.409°S 172.069°W Depth 13.21 km (8.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place** — Score 6, risk — [Quelle](https://e27.co/cash-on-delivery-is-dying-in-southeast-asia-six-different-wallets-are-taking-its-place-20261015/)
+- **AI can increase productivity. It can’t increase human capacity** — Score 8, observation — [Quelle](https://e27.co/ai-can-increase-productivity-it-cant-increase-human-capacity-20261015/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-15T01:39:20+00:00`, fetched `2026-10-15T01:40:00+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
+  - Zeit: published `2026-10-15T04:30:45+00:00`, fetched `2026-10-15T04:38:07+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: Southeast Asia’s online shoppers spent the better part of a decade being nudged to stop handing cash to the courier. They are finally listening, though not in any single, tidy way. Cash-on-delivery (COD), long the default in markets where card ownership was thin and trust in online merchants thinner, made up about half of e-commerce […] The post Cash-on-delivery is dying in Southeast Asia. Six different wallets are…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: We may be using AI to save hours of work, only to fill those hours with more work. This is something I have been thinking about as organisations accelerate their investment in AI. The productivity opportunity is undeniable. Generative AI can draft in seconds, analyse large volumes of information, automate administrative work and give leaders […] The post AI can increase productivity. It can’t increase human capacity…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」と不安を煽られる→メリットがあるか議論に** — Score 5, observation — [Quelle](https://togetter.com/li/2758344)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-15T00:38:43+00:00`, fetched `2026-10-15T03:24:12+00:00`

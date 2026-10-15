@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T04:24:44+00:00",
-  "today_file_total": 20,
+  "generated_at": "2026-10-15T04:38:45+00:00",
+  "today_file_total": 21,
   "current_clusters": [
     {
       "key": "title:tokens-are-wrong-yardstick-agents-says-jfrog-sunny",
@@ -66,9 +66,9 @@
       "max_score": 17,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 22.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 19.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -235,31 +235,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "earthquake:m 4.8 - 30 km e of safotu, samoa:4.8",
-      "title": "M 4.8 - 30 km E of Safotu, Samoa",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
       "key": "title:southeast-asia-funding-winter-real-its-building-winter",
       "title": "Southeast Asia’s funding winter is real. Its building winter isn’t",
       "sources": [
@@ -308,6 +283,54 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "title:can-increase-productivity-can-increase-human-capacity",
+      "title": "AI can increase productivity. It can’t increase human capacity",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/ai-can-increase-productivity-it-cant-increase-human-capacity-20261015/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 4.8 - 30 km e of safotu, samoa:4.8",
+      "title": "M 4.8 - 30 km E of Safotu, Samoa",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "earthquake:m 5.1 - 36 km e of safotu, samoa:5.1",
       "title": "M 5.1 - 36 km E of Safotu, Samoa",
       "sources": [
@@ -331,52 +354,6 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:iphone-air-1tb",
-      "title": "異例の「iPhone Air」投げ売りはなぜ起きている？ 定価29.5万円の1TBモデルが、いま18.4万円で買える3つの理由",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.itmedia.co.jp/mobile/articles/2610/15/news037.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:human-rights-lost-esg",
-      "title": "Human rights: Lost in the “S” of ESG?",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/human-rights-lost-in-the-s-of-esg-20261012/"
-      ],
-      "finding_count": 1,
-      "max_score": 4,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:cash-delivery-dying-southeast-asia-six-different-wallets",
@@ -425,6 +402,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "title:iphone-air-1tb",
+      "title": "異例の「iPhone Air」投げ売りはなぜ起きている？ 定価29.5万円の1TBモデルが、いま18.4万円で買える3つの理由",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.itmedia.co.jp/mobile/articles/2610/15/news037.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:windows-microsoft-execution-containers-mxc",
       "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
       "sources": [
@@ -448,8 +448,8 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:every-dashboard-green-why-can-anyone-say-what",
-      "title": "Every dashboard is green. So why can’t anyone say what worked?",
+      "key": "title:human-rights-lost-esg",
+      "title": "Human rights: Lost in the “S” of ESG?",
       "sources": [
         "e27 Asia Startup and Tech Feed"
       ],
@@ -457,7 +457,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/every-dashboard-is-green-so-why-cant-anyone-say-what-worked-20261012/"
+        "https://e27.co/human-rights-lost-in-the-s-of-esg-20261012/"
       ],
       "finding_count": 1,
       "max_score": 4,
