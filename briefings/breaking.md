@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-15T01:40:35+00:00_
+_Generiert: 2026-10-15T01:55:41+00:00_
 
 ## Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao
 
