@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T14:22:26+00:00_
+_Generiert: 2026-10-15T14:36:37+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
+63 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -112,6 +112,15 @@ _Generiert: 2026-10-15T14:22:26+00:00_
   - Warum relevant: CodeQL/Dependabot (+7.0); Security (+7.5); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: On 14 October 2026, Cisco published a security advisory addressing a critical vulnerability affecting the Advanced Malware Protection (AMP) feature of Cisco Secure Email Gateway. This vulnerability could allow an unauthenticated, remote attacker to write arbitrary files and execute commands with root privileges on the underlying operating system. The Cisco PSIRT is aware of active exploitation of this vulnerability.…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Agentic autofix for code scanning alerts general availability** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-15T13:49:20+00:00`, fetched `2026-10-15T14:36:07+00:00`
+  - Treffer: AI Agents, CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); AI Agents (+6.2); GitHub (+2.0); recent (+1.0)
+  - Kurz: Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix,… The post Agentic autofix for code scanning alerts general availability appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix** — Score 17, observation — [Quelle](https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-15T04:00:44+00:00`, fetched `2026-10-15T04:24:12+00:00`

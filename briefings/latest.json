@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T14:22:26+00:00",
-  "run_id": "2026-10-15T14:22:26+00:00",
+  "generated_at": "2026-10-15T14:36:37+00:00",
+  "run_id": "2026-10-15T14:36:37+00:00",
   "date": "2026-10-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 62
+      "configured_public_sources_only": 63
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "new_relevant_findings": 1,
+    "today_file_total": 63,
+    "displayed_findings": 63,
     "high": 1,
-    "medium": 26,
+    "medium": 27,
     "observe": 35,
     "source_errors": 0
   },
@@ -173,6 +173,28 @@
           "S"
         ],
         "id": "f11254f977e8a8513422"
+      },
+      {
+        "title": "Agentic autofix for code scanning alerts general availability",
+        "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-15T13:49:20+00:00",
+        "fetched_at": "2026-10-15T14:36:07+00:00",
+        "summary": "Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix,… The post Agentic autofix for code scanning alerts general availability appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI Agents",
+          "CodeQL/Dependabot",
+          "GitHub"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "CodeQL/Dependabot (+8.8); AI Agents (+6.2); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "73c89886aa624280dc6d"
       },
       {
         "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
@@ -1733,6 +1755,28 @@
       "id": "f11254f977e8a8513422"
     },
     {
+      "title": "Agentic autofix for code scanning alerts general availability",
+      "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-15T13:49:20+00:00",
+      "fetched_at": "2026-10-15T14:36:07+00:00",
+      "summary": "Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix,… The post Agentic autofix for code scanning alerts general availability appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "CodeQL/Dependabot",
+        "GitHub"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); AI Agents (+6.2); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "73c89886aa624280dc6d"
+    },
+    {
       "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
       "url": "https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -3144,66 +3188,26 @@
   ],
   "new_findings": [
     {
-      "title": "Teaching students to think and learn through questions",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-15T13:00:00+00:00",
-      "fetched_at": "2026-10-15T14:21:51+00:00",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5ed7446e46c6079b0dec"
-    },
-    {
-      "title": "連続不正アクセス事案の攻撃手法に関する調査 - JPCERT/CC Eyes",
-      "url": "https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-15T08:02:36+00:00",
-      "fetched_at": "2026-10-15T14:21:51+00:00",
-      "summary": "JPCERT/CCは、2026年10月8日に、国内の複数の組織で相次いで公表された不正アクセスによる個人情報などの漏えい被害に関する注意喚起を公開しました。 JPCERT/CCでは、複数の組織と連携し、攻撃に使用された可能性のあるインフラの調査を進めています。その過程で、攻撃者がAIを利用して、既知の脆弱性のスキャンやAPI経...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ff5750875d641a1750e1"
-    },
-    {
-      "title": "Email notifications for repository push events have been retired",
-      "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+      "title": "Agentic autofix for code scanning alerts general availability",
+      "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-10-15T13:42:19+00:00",
-      "fetched_at": "2026-10-15T14:21:51+00:00",
-      "summary": "As of October 15, 2026, email notifications for repository push events have been retired and are no longer sent. We shut down this feature to help prevent spam and abuse.… The post Email notifications for repository push events have been retired appeared first on The GitHub Blog .",
+      "published_at": "2026-10-15T13:49:20+00:00",
+      "fetched_at": "2026-10-15T14:36:07+00:00",
+      "summary": "Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix,… The post Agentic autofix for code scanning alerts general availability appeared first on The GitHub Blog .",
       "matched_keywords": [
+        "AI Agents",
+        "CodeQL/Dependabot",
         "GitHub"
       ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 18,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); AI Agents (+6.2); GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7bc22eef86ea9396c307"
+      "id": "73c89886aa624280dc6d"
     }
   ],
   "source_errors": [],

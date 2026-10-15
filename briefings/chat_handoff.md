@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T14:22:26+00:00_
+_Generated: 2026-10-15T14:36:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `62`
+- findings: `63`
 
 ## Top Signals
 
@@ -36,12 +36,12 @@ _Generated: 2026-10-15T14:22:26+00:00_
 - url: https://cert.europa.eu/publications/security-advisories/2026-017/
 - summary: On 14 October 2026, Cisco published a security advisory addressing a critical vulnerability affecting the Advanced Malware Protection (AMP) feature of Cisco Secure Email Gateway. This vulnerability could allow an unauthenticated, remote attacker to write arbi…
 
-### 5. AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix
-- source: e27 Asia Startup and Tech Feed
-- score: `17`
-- published: `2026-10-15T04:00:44+00:00`
-- url: https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/
-- summary: Most Singapore office workers know the ritual. A message lands at 10.47pm. It is not urgent. You answer it within 90 seconds anyway, not because the work demands it, but because you want someone to notice that you answered it within 90 seconds. It turns out t…
+### 5. Agentic autofix for code scanning alerts general availability
+- source: GitHub Changelog Atom
+- score: `18`
+- published: `2026-10-15T13:49:20+00:00`
+- url: https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability
+- summary: Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix,… The post Agentic autofix for code scanning alerts general availab…
 
 ### 6. M 5.3 - 43 km SSE of Otorohanga, New Zealand
 - source: USGS M4.5+ Earthquakes Past Hour

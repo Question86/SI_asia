@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T14:22:26+00:00",
+  "generated_at": "2026-10-15T14:36:37+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-10-15T11:38:20+00:00",
         "relevance_score": 20,
         "url": "https://cert.europa.eu/publications/security-advisories/2026-017/"
+      },
+      {
+        "title": "Agentic autofix for code scanning alerts general availability",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-15T13:49:20+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability"
       },
       {
         "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-15T08:19:49+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/sea-and-google-open-chapter-two-of-their-ai-pact-before-chapter-one-ships-20261015/"
-      },
-      {
-        "title": "Character.ai was worth US$2.7B to Google. Disney just offered US$20M",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-15T08:00:23+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/character-ai-was-worth-us2-7b-to-google-disney-just-offered-us20m-20261015/"
       }
     ],
     "security": [
@@ -219,6 +219,43 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3946"
       }
     ],
+    "github": [
+      {
+        "title": "Agentic autofix for code scanning alerts general availability",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-15T13:49:20+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability"
+      },
+      {
+        "title": "HKUDS/CLI-Anything",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      {
+        "title": "Southeast Asia’s funding winter is real. Its building winter isn’t",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-15T02:00:34+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/"
+      },
+      {
+        "title": "Institutional buyers face a massive test at the US$81,000 Bitcoin support level",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-15T03:53:43+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/"
+      },
+      {
+        "title": "Email notifications for repository push events have been retired",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-15T13:42:19+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired"
+      }
+    ],
     "economy": [
       {
         "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
@@ -275,36 +312,6 @@
         "published_at": "2026-10-15T03:00:06+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/every-dashboard-is-green-so-why-cant-anyone-say-what-worked-20261012/"
-      }
-    ],
-    "github": [
-      {
-        "title": "HKUDS/CLI-Anything",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 16,
-        "url": "https://github.com/HKUDS/CLI-Anything"
-      },
-      {
-        "title": "Southeast Asia’s funding winter is real. Its building winter isn’t",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-15T02:00:34+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/"
-      },
-      {
-        "title": "Institutional buyers face a massive test at the US$81,000 Bitcoin support level",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-15T03:53:43+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/"
-      },
-      {
-        "title": "Email notifications for repository push events have been retired",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-15T13:42:19+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired"
       }
     ],
     "general": [
