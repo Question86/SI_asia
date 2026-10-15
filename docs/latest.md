@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T11:05:44+00:00_
+_Generiert: 2026-10-15T11:22:51+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+44 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Every few weeks, another report tells the same story about Southeast Asian tech: capital has fled, deals have dried up, and the region’s startup engine has stalled. The most recent numbers make the case forcefully. Zero dedicated regional private equity funds reached final close in the first half of 2026. Three pan-Asian mega-funds — EQT, […] The post Southeast Asia’s funding winter is real. Its building winter isn’…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.6 - 43 km NNW of Lake Minchumina, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukynnb)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-15T11:21:34.898+00:00`, fetched `2026-10-15T11:22:21+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - VII DYFI? - III Time 2026-10-15 11:07:01 UTC 2026-10-15 11:07:01 UTC at epicenter Location 64.220°N 152.746°W Depth 4.50 km (2.80 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **有名企業や一流開発者のノウハウをそのまま持ち込める、Claude Codeスキル11選｜苦しんでプログラミングを学んだ柴犬（くるしば）** — Score 11, observation — [Quelle](https://note.com/shiba_program/n/nd2d72747f8c5)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-15T04:24:08+00:00`, fetched `2026-10-15T06:03:08+00:00`
@@ -176,15 +185,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-15 03:36:08 UTC 2026-10-15 03:36:08 UTC at epicenter Location 13.433°S 172.117°W Depth 13.47 km (8.37 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - 36 km E of Safotu, Samoa** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ec)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-15T03:59:13.050+00:00`, fetched `2026-10-15T04:00:13+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - III Time 2026-10-15 03:36:29 UTC 2026-10-15 03:36:29 UTC at epicenter Location 13.409°S 172.069°W Depth 13.21 km (8.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もAI需要の餌食になる可能性** — Score 8, observation — [Quelle](https://gazlog.jp/entry/ps5-can-run-27b-llm/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

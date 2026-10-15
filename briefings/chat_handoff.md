@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T11:05:44+00:00_
+_Generated: 2026-10-15T11:22:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `43`
+- findings: `44`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-15T11:05:44+00:00_
 - url: https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/
 - summary: Every few weeks, another report tells the same story about Southeast Asian tech: capital has fled, deals have dried up, and the region’s startup engine has stalled. The most recent numbers make the case forcefully. Zero dedicated regional private equity funds…
 
-### 7. 有名企業や一流開発者のノウハウをそのまま持ち込める、Claude Codeスキル11選｜苦しんでプログラミングを学んだ柴犬（くるしば）
+### 7. M 5.6 - 43 km NNW of Lake Minchumina, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-10-15T11:21:34.898+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukynnb
+- summary: ShakeMap - VII DYFI? - III Time 2026-10-15 11:07:01 UTC 2026-10-15 11:07:01 UTC at epicenter Location 64.220°N 152.746°W Depth 4.50 km (2.80 mi)
+
+### 8. 有名企業や一流開発者のノウハウをそのまま持ち込める、Claude Codeスキル11選｜苦しんでプログラミングを学んだ柴犬（くるしば）
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-10-15T04:24:08+00:00`
 - url: https://note.com/shiba_program/n/nd2d72747f8c5
 - summary: こんにちは。くるしばです。 エラー監視サービスのSentry社が自社の開発チームで使っているコードレビューの基準を、明日から自分のプロジェクトにそのまま適用できるとしたら、ちょっと試してみたくならないでしょうか。 Claude Codeの「スキル」という仕組みを使うと、これが簡単に実現できます。決まった手順やルール...
-
-### 8. Institutional buyers face a massive test at the US$81,000 Bitcoin support level
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-10-15T03:53:43+00:00`
-- url: https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/
-- summary: The cryptocurrency sector experienced a severe and sudden decline over the last 24 hours. Bitcoin fell 2.28 per cent to US$81,370.58. The broader digital asset ecosystem mirrored this downward trajectory, dropping 2.22 per cent to a total valuation of US$2.74…
 
 END OF DOCUMENT
