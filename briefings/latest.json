@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T09:38:50+00:00",
-  "run_id": "2026-10-15T09:38:50+00:00",
+  "generated_at": "2026-10-15T09:51:08+00:00",
+  "run_id": "2026-10-15T09:51:08+00:00",
   "date": "2026-10-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 36,
     "displayed_findings": 36,
     "high": 0,
@@ -1833,63 +1833,7 @@
       "id": "c73aa7224d2d6dc5eb13"
     }
   ],
-  "new_findings": [
-    {
-      "title": "2026-017: Critical Vulnerability in Cisco Secure Email Gateway",
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-017/",
-      "source": "CERT-EU Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-15T11:38:20+00:00",
-      "fetched_at": "2026-10-15T09:38:17+00:00",
-      "summary": "On 14 October 2026, Cisco published a security advisory addressing a critical vulnerability affecting the Advanced Malware Protection (AMP) feature of Cisco Secure Email Gateway. This vulnerability could allow an unauthenticated, remote attacker to write arbitrary files and execute commands with root privileges on the underlying operating system. The Cisco PSIRT is aware of active exploitation of this vulnerability.…",
-      "matched_keywords": [
-        "CERT-EU",
-        "CodeQL/Dependabot",
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
-      ],
-      "relevance_score": 20,
-      "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+7.5); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: critical vulnerability"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "f11254f977e8a8513422"
-    },
-    {
-      "title": "PAN-OS: Schadcode schlüpft durch Root-Lücke in Palo-Alto-Firewalls",
-      "url": "https://www.heise.de/news/PAN-OS-Schadcode-schluepft-durch-Root-Luecke-in-Palo-Alto-Firewalls-11488897.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-15T09:15:00.000+00:00",
-      "fetched_at": "2026-10-15T09:38:17+00:00",
-      "summary": "Angreifer attackieren zurzeit Firewalls von Palo Alto Networks. Eine reparierte PAN-OS-Version schafft Abhilfe.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "901f6b7efcacad17b84c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
