@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T13:05:09+00:00",
+  "generated_at": "2026-10-15T13:25:36+00:00",
   "topics": {
     "ai": [
       {
@@ -91,6 +91,27 @@
         "url": "https://cert.europa.eu/publications/security-advisories/2026-017/"
       },
       {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (lrzsz): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T13:16:15+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3978"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Synacor Zimbra: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T13:16:15+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3977"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [niedrig] CUPS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T13:15:54+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3975"
+      },
+      {
         "title": "[UPDATE] [hoch] Microsoft SQL Server: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-15T11:26:51+00:00",
@@ -105,46 +126,25 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3916"
       },
       {
+        "title": "[NEU] [hoch] Juniper Junos OS und Junos OS Evolved: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T13:16:15+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3976"
+      },
+      {
+        "title": "[UPDATE] [hoch] Ghostscript: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T13:15:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3777"
+      },
+      {
         "title": "スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-15T12:00:30+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN48627289/"
-      },
-      {
-        "title": "「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T12:00:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN94004488/"
-      },
-      {
-        "title": "スマートフォンアプリ「ゲオアプリ」における複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN40460777/"
-      },
-      {
-        "title": "[UPDATE] [hoch] cURL: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-15T11:27:14+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3904"
-      },
-      {
-        "title": "[UPDATE] [hoch] PgBouncer: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-15T11:27:14+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3906"
-      },
-      {
-        "title": "[UPDATE] [hoch] IBM WebSphere Application Server und Application Server Liberty: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-15T11:26:54+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3909"
       }
     ],
     "geopolitics": [
@@ -163,11 +163,39 @@
         "url": "https://cert.europa.eu/publications/security-advisories/2026-017/"
       },
       {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (lrzsz): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T13:16:15+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3978"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Synacor Zimbra: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T13:16:15+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3977"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [niedrig] CUPS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T13:15:54+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3975"
+      },
+      {
         "title": "HKUDS/CLI-Anything",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      {
+        "title": "[NEU] [hoch] Juniper Junos OS und Junos OS Evolved: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T13:16:15+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3976"
       },
       {
         "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
@@ -189,20 +217,6 @@
         "published_at": "2026-10-15T09:55:52+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3946"
-      },
-      {
-        "title": "Institutional buyers face a massive test at the US$81,000 Bitcoin support level",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-15T03:53:43+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/"
-      },
-      {
-        "title": "Every dashboard is green. So why can’t anyone say what worked?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-15T03:00:06+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/every-dashboard-is-green-so-why-cant-anyone-say-what-worked-20261012/"
       }
     ],
     "economy": [
