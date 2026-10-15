@@ -1,32 +1,7 @@
 {
-  "generated_at": "2026-10-15T12:33:04+00:00",
+  "generated_at": "2026-10-15T12:55:27+00:00",
   "today_file_total": 52,
   "current_clusters": [
-    {
-      "key": "domain:www.bsi.bund.de",
-      "title": "Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt",
-      "sources": [
-        "BSI CERT-Bund Cyber-Sicherheitswarnungen"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297701-1032_bits.html"
-      ],
-      "finding_count": 1,
-      "max_score": 32,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 37.1,
-      "hot": true,
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
     {
       "key": "domain:wid.cert-bund.de",
       "title": "[UPDATE] [hoch] Microsoft SQL Server: Mehrere Schwachstellen",
@@ -53,6 +28,31 @@
       "network_score": 34.9,
       "hot": true,
       "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:www.bsi.bund.de",
+      "title": "Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt",
+      "sources": [
+        "BSI CERT-Bund Cyber-Sicherheitswarnungen"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297701-1032_bits.html"
+      ],
+      "finding_count": 1,
+      "max_score": 32,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 34.1,
+      "hot": true,
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
