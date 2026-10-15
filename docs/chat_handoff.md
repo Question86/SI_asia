@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T01:55:38+00:00_
+_Generated: 2026-10-15T02:06:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -36,14 +36,21 @@ _Generated: 2026-10-15T01:55:38+00:00_
 - url: https://jvn.jp/vu/JVNVU94697946/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 5. Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place
+### 5. Southeast Asia’s funding winter is real. Its building winter isn’t
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-10-15T02:00:34+00:00`
+- url: https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/
+- summary: Every few weeks, another report tells the same story about Southeast Asian tech: capital has fled, deals have dried up, and the region’s startup engine has stalled. The most recent numbers make the case forcefully. Zero dedicated regional private equity funds…
+
+### 6. Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place
 - source: e27 Asia Startup and Tech Feed
 - score: `6`
 - published: `2026-10-15T01:39:20+00:00`
 - url: https://e27.co/cash-on-delivery-is-dying-in-southeast-asia-six-different-wallets-are-taking-its-place-20261015/
 - summary: Southeast Asia’s online shoppers spent the better part of a decade being nudged to stop handing cash to the courier. They are finally listening, though not in any single, tidy way. Cash-on-delivery (COD), long the default in markets where card ownership was t…
 
-### 6. Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ
+### 7. Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-14T16:29:36+00:00`

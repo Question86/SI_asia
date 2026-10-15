@@ -1,19 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-15T01:55:41+00:00_
+_Generiert: 2026-10-15T02:06:52+00:00_
 
-## Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao
-
-- Ranking Score: `30.0`
-- Raw Network Score: `25.1`
-- Max Monitor Score: `23`
-- Reichweite: `specialist` / `2.5`
-- Early Signal: `ja`
-- Dominanter Emitter: `nein`
-- Quellen: e27 Asia Startup and Tech Feed
-- Klassen: tier3_specialist
-- Cross-source bestaetigt: nein
-- Momentum: stable (+0)
-- Erste Quelle: https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/
-- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
+Keine Breaking-Signale. Kleine Signale bleiben im Network Hub sichtbar.
 

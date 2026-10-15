@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T01:55:38+00:00_
+_Generiert: 2026-10-15T02:06:49+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+7 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Southeast Asia’s funding winter is real. Its building winter isn’t** — Score 12, observation — [Quelle](https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-15T02:00:34+00:00`, fetched `2026-10-15T02:06:17+00:00`
+  - Treffer: APAC Trend Radar, funding, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Every few weeks, another report tells the same story about Southeast Asian tech: capital has fled, deals have dried up, and the region’s startup engine has stalled. The most recent numbers make the case forcefully. Zero dedicated regional private equity funds reached final close in the first half of 2026. Three pan-Asian mega-funds — EQT, […] The post Southeast Asia’s funding winter is real. Its building winter isn’…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place** — Score 6, risk — [Quelle](https://e27.co/cash-on-delivery-is-dying-in-southeast-asia-six-different-wallets-are-taking-its-place-20261015/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-15T01:39:20+00:00`, fetched `2026-10-15T01:40:00+00:00`
