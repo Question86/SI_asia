@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-15T11:28:18Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-10-15T11:42:42Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft SQL Server: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,62 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [hoch] Microsoft SQL Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3917",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-15T11:26:51+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft SQL Server 2017, Microsoft SQL Server 2019 und Microsoft SQL Server 2022 ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] OpenVPN: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3915",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-15T11:26:53+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security",
+        "infra"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: vpn, auth",
+        "security high-signal: vpn, auth"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in OpenVPN ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Denial of Service Attacken durchzuführen und Informationen offenzulegen."
+    },
+    {
       "title": "[NEU] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3947",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T10:15:52+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -40,7 +91,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3946",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T09:55:52+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -65,7 +116,7 @@
       "url": "https://jvn.jp/jp/JVN48627289/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:30+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -85,107 +136,11 @@
       "summary": "株式会社クリーマが提供するスマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」には、オープンリダイレクトの脆弱性が存在します。"
     },
     {
-      "title": "「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性",
-      "url": "https://jvn.jp/jp/JVN94004488/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-15T12:00:15+09:00",
-      "age_days": 0.35,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "国土交通省が提供する「車検証閲覧アプリ」には、送信データへの機微な情報の挿入の脆弱性が存在します。"
-    },
-    {
-      "title": "スマートフォンアプリ「ゲオアプリ」における複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN40460777/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-15T12:00:00+09:00",
-      "age_days": 0.35,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "株式会社ゲオが提供するスマートフォンアプリ「ゲオアプリ」には、複数の脆弱性が存在します。"
-    },
-    {
-      "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU95613365/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-15T10:30:30+09:00",
-      "age_days": 0.42,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security, google"
-      ],
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-    },
-    {
-      "title": "複数のTLSライブラリにおける名前制約回避の問題",
-      "url": "https://jvn.jp/vu/JVNVU95474776/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-15T10:30:15+09:00",
-      "age_days": 0.42,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-    },
-    {
       "title": "Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao",
       "url": "https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T01:00:34+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "macro"
@@ -214,7 +169,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3916",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T10:30:51+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -240,7 +195,7 @@
       "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T02:00:34+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -263,11 +218,63 @@
       "summary": "Every few weeks, another report tells the same story about Southeast Asian tech: capital has fled, deals have dried up, and the region’s startup engine has stalled. The most recent numbers make the case forcefully. Zero dedicated regional private equity funds reached final close in the first half of 2026. Three pan-As…"
     },
     {
+      "title": "[UPDATE] [hoch] cURL: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3904",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-15T11:27:14+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in cURL ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
+      "title": "[UPDATE] [hoch] IBM WebSphere Application Server und Application Server Liberty: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3909",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-15T11:26:54+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server Liberty und IBM WebSphere Application Server ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Daten zu manipulieren und um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3948",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T10:55:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -293,7 +300,7 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-15T06:03:43+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -323,8 +330,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 2,
-      "strong": 10
+      "krass": 4,
+      "strong": 8
     }
   }
 }
