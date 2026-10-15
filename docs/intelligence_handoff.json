@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-15T02:46:41Z",
+  "generated_at": "2026-10-15T03:16:40Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Google BoringSSL証明書検証における複数の名前制約回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU95613365/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:30+09:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU95474776/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:15+09:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU94697946/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security",
         "macro"
@@ -88,7 +88,7 @@
       "url": "https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T01:00:34+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -117,7 +117,7 @@
       "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T02:00:34+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -140,11 +140,40 @@
       "summary": "Every few weeks, another report tells the same story about Southeast Asian tech: capital has fled, deals have dried up, and the region’s startup engine has stalled. The most recent numbers make the case forcefully. Zero dedicated regional private equity funds reached final close in the first half of 2026. Three pan-As…"
     },
     {
+      "title": "「バイブコーディング」の生みの親カルパシー氏、「AIの理解格差は“鋭い漏斗”になった」 | Business Insider Japan",
+      "url": "https://www.businessinsider.jp/article/2610-andrej-karpathy-ai-gap-widening-usage/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-01T06:37:12+00:00",
+      "age_days": 43.86,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 4.93,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 4.93",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 43.9d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao",
       "url": "https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T01:18:37+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -167,35 +196,11 @@
       "summary": ""
     },
     {
-      "title": "Southeast Asia’s funding winter is real. Its building winter isn’t",
-      "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-15T02:06:52+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place",
       "url": "https://e27.co/cash-on-delivery-is-dying-in-southeast-asia-six-different-wallets-are-taking-its-place-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T01:39:20+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -221,7 +226,7 @@
       "url": "https://jvn.jp/vu/JVNVU95613365/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T01:40:35+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -245,7 +250,7 @@
       "url": "https://jvn.jp/vu/JVNVU95474776/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T01:40:35+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -269,7 +274,7 @@
       "url": "https://jvn.jp/vu/JVNVU94697946/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T01:40:35+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "macro"
       ],
@@ -289,29 +294,26 @@
       "summary": ""
     },
     {
-      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
-      "url": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-15T00:56:42+00:00",
-      "age_days": 0.08,
+      "title": "Southeast Asia’s funding winter is real. Its building winter isn’t",
+      "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-15T02:06:52+00:00",
+      "age_days": 0.05,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "high terms: execution, container",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3"
       ],
       "summary": ""
     }
@@ -325,8 +327,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "quiet": 1
+      "strong": 12
     }
   }
 }
