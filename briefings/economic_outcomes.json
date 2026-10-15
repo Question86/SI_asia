@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T12:02:54+00:00",
+  "generated_at": "2026-10-15T12:33:49+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -1490,13 +1490,13 @@
     {
       "event_id": "evt_175b1720a966bdceabdf",
       "title": "M 4.8 - off the coast of Ecuador",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_175e1a5f7356589f9695",
@@ -10714,7 +10714,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9d686fecbf93fce2e1d9",
