@@ -1,6 +1,19 @@
 # Senna Breaking
 
-_Generiert: 2026-10-15T12:02:19+00:00_
+_Generiert: 2026-10-15T12:33:04+00:00_
 
-Keine Breaking-Signale. Kleine Signale bleiben im Network Hub sichtbar.
+## Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt
+
+- Ranking Score: `41.55`
+- Raw Network Score: `37.1`
+- Max Monitor Score: `32`
+- Reichweite: `specialist` / `2.5`
+- Early Signal: `nein`
+- Dominanter Emitter: `nein`
+- Quellen: BSI CERT-Bund Cyber-Sicherheitswarnungen
+- Klassen: tier3_specialist
+- Cross-source bestaetigt: nein
+- Momentum: increasing (+1)
+- Erste Quelle: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297701-1032_bits.html
+- Handlung: HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.
 
