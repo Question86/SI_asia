@@ -95,6 +95,72 @@
     "id": "c10d02a41a6cece25905"
   },
   {
+    "title": "スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
+    "url": "https://jvn.jp/jp/JVN48627289/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-10-15T12:00:30+09:00",
+    "fetched_at": "2026-10-15T03:24:12+00:00",
+    "summary": "株式会社クリーマが提供するスマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」には、オープンリダイレクトの脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e8edb7305ed912845af7"
+  },
+  {
+    "title": "「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性",
+    "url": "https://jvn.jp/jp/JVN94004488/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-10-15T12:00:15+09:00",
+    "fetched_at": "2026-10-15T03:24:12+00:00",
+    "summary": "国土交通省が提供する「車検証閲覧アプリ」には、送信データへの機微な情報の挿入の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5a4c08c6a33acf2f1f16"
+  },
+  {
+    "title": "スマートフォンアプリ「ゲオアプリ」における複数の脆弱性",
+    "url": "https://jvn.jp/jp/JVN40460777/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-10-15T12:00:00+09:00",
+    "fetched_at": "2026-10-15T03:24:12+00:00",
+    "summary": "株式会社ゲオが提供するスマートフォンアプリ「ゲオアプリ」には、複数の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5ea8a5da90a1eaef0acd"
+  },
+  {
     "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU95613365/",
     "source": "JVN Japan Vulnerability Notes",
@@ -226,6 +292,27 @@
     "id": "609046f9e26e2c1f6c4d"
   },
   {
+    "title": "タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」と不安を煽られる→メリットがあるか議論に",
+    "url": "https://togetter.com/li/2758344",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-15T00:38:43+00:00",
+    "fetched_at": "2026-10-15T03:24:12+00:00",
+    "summary": "savo @moruharu430 タイムズカーの煽りを受け 免許証再発行の為に警察署へ 警察署では 「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」 と不安を煽られる 好きで再発行するんじゃないのになぁ もー 2026-10-14 14:33:08 【衝撃】運転免許証の画像が流出…専門家が警告「借金の申し込みが...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "eb03af304b8d8118b8bb"
+  },
+  {
     "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
     "url": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -245,5 +332,25 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c1e099eb003c24965df3"
+  },
+  {
+    "title": "Every dashboard is green. So why can’t anyone say what worked?",
+    "url": "https://e27.co/every-dashboard-is-green-so-why-cant-anyone-say-what-worked-20261012/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-15T03:00:06+00:00",
+    "fetched_at": "2026-10-15T03:24:12+00:00",
+    "summary": "Here is an uncomfortable finding for anyone building a 2027 marketing plan this month: audiences are warming to advertising, and marketers are growing less sure that theirs works. That tension sits at the centre of Kantar’s Media Reactions study, published on 2 October and based on interviews with more than 800 senior marketers and 23,000 […] The post Every dashboard is green. So why can’t anyone say what worked? ap…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c73aa7224d2d6dc5eb13"
   }
 ]

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T02:58:50+00:00_
+_Generiert: 2026-10-15T03:24:44+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+14 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -39,32 +39,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Silicon Valley, Federal Reserve (+2.0); watchgraph region southeast_asia: Thailand (+2.0)
   - Kurz: Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Google BoringSSL証明書検証における複数の名前制約回避の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU95613365/)
+- **スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN48627289/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-10-15T10:30:30+09:00`, fetched `2026-10-15T01:40:00+00:00`
+  - Zeit: published `2026-10-15T12:00:30+09:00`, fetched `2026-10-15T03:24:12+00:00`
   - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Kurz: 株式会社クリーマが提供するスマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」には、オープンリダイレクトの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **複数のTLSライブラリにおける名前制約回避の問題** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU95474776/)
+- **「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN94004488/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-10-15T10:30:15+09:00`, fetched `2026-10-15T01:40:00+00:00`
+  - Zeit: published `2026-10-15T12:00:15+09:00`, fetched `2026-10-15T03:24:12+00:00`
   - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Kurz: 国土交通省が提供する「車検証閲覧アプリ」には、送信データへの機微な情報の挿入の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Bishengにおける複数の認証回避の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94697946/)
+- **スマートフォンアプリ「ゲオアプリ」における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN40460777/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-10-15T10:30:00+09:00`, fetched `2026-10-15T01:40:00+00:00`
+  - Zeit: published `2026-10-15T12:00:00+09:00`, fetched `2026-10-15T03:24:12+00:00`
   - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Kurz: 株式会社ゲオが提供するスマートフォンアプリ「ゲオアプリ」には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Southeast Asia’s online shoppers spent the better part of a decade being nudged to stop handing cash to the courier. They are finally listening, though not in any single, tidy way. Cash-on-delivery (COD), long the default in markets where card ownership was thin and trust in online merchants thinner, made up about half of e-commerce […] The post Cash-on-delivery is dying in Southeast Asia. Six different wallets are…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」と不安を煽られる→メリットがあるか議論に** — Score 5, observation — [Quelle](https://togetter.com/li/2758344)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-15T00:38:43+00:00`, fetched `2026-10-15T03:24:12+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: savo @moruharu430 タイムズカーの煽りを受け 免許証再発行の為に警察署へ 警察署では 「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」 と不安を煽られる 好きで再発行するんじゃないのになぁ もー 2026-10-14 14:33:08 【衝撃】運転免許証の画像が流出…専門家が警告「借金の申し込みが...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-14T16:29:36+00:00`, fetched `2026-10-15T00:56:08+00:00`
@@ -95,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表し...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Every dashboard is green. So why can’t anyone say what worked?** — Score 4, observation — [Quelle](https://e27.co/every-dashboard-is-green-so-why-cant-anyone-say-what-worked-20261012/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-15T03:00:06+00:00`, fetched `2026-10-15T03:24:12+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Here is an uncomfortable finding for anyone building a 2027 marketing plan this month: audiences are warming to advertising, and marketers are growing less sure that theirs works. That tension sits at the centre of Kantar’s Media Reactions study, published on 2 October and based on interviews with more than 800 senior marketers and 23,000 […] The post Every dashboard is green. So why can’t anyone say what worked? ap…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

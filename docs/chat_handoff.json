@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-15T02:58:50+00:00",
+  "generated_at": "2026-10-15T03:24:44+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 5,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
-    "medium": 6,
-    "observe": 3
+    "medium": 9,
+    "observe": 5
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
+      "title": "スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-10-15T10:30:30+09:00",
+      "published_at": "2026-10-15T12:00:30+09:00",
       "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU95613365/",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "url": "https://jvn.jp/jp/JVN48627289/",
+      "summary": "株式会社クリーマが提供するスマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」には、オープンリダイレクトの脆弱性が存在します。",
       "section": "medium"
     },
     {
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」と不安を煽られる→メリットがあるか議論に",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-15T00:38:43+00:00",
+      "relevance_score": 5,
+      "url": "https://togetter.com/li/2758344",
+      "summary": "savo @moruharu430 タイムズカーの煽りを受け 免許証再発行の為に警察署へ 警察署では 「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」 と不安を煽られる 好きで再発行するんじゃないのになぁ もー 2026-10-14 14:33:08 【衝撃】運転免許証の画像が流出…専門家が警告「借金の申し込みが...",
+      "section": "observe"
+    },
+    {
       "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -90,141 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao",
-        "url": "https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-15T01:00:34+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Anyone who has spent 10 minutes pressing “0” to escape a voice bot knows how the last automation wave ended. Call centres were promised dramatic savings from IVRs and chatbots. Customers got phone trees that went in circles, and companies got a fresh layer of complaints to manage. Sunny Rao sold that promise from the…"
-      },
-      {
-        "title": "Southeast Asia’s funding winter is real. Its building winter isn’t",
-        "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-15T02:00:34+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: regional",
-          "high terms: rce, 10",
-          "security high-signal: rce, 10"
-        ],
-        "summary": "Every few weeks, another report tells the same story about Southeast Asian tech: capital has fled, deals have dried up, and the region’s startup engine has stalled. The most recent numbers make the case forcefully. Zero dedicated regional private equity funds reached final close in the first half of 2026. Three pan-As…"
-      },
-      {
-        "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU95613365/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T10:30:30+09:00",
-        "age_days": 0.07,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security, google"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "複数のTLSライブラリにおける名前制約回避の問題",
-        "url": "https://jvn.jp/vu/JVNVU95474776/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T10:30:15+09:00",
-        "age_days": 0.07,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "Bishengにおける複数の認証回避の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU94697946/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T10:30:00+09:00",
-        "age_days": 0.07,
-        "topics": [
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      }
-    ]
-  }
+  ]
 }

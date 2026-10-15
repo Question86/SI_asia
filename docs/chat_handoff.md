@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T02:58:50+00:00_
+_Generated: 2026-10-15T03:24:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `14`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-15T02:58:50+00:00_
 - url: https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm
 - summary: Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand
 
-### 4. Google BoringSSL証明書検証における複数の名前制約回避の脆弱性
+### 4. スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
-- published: `2026-10-15T10:30:30+09:00`
-- url: https://jvn.jp/vu/JVNVU95613365/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+- published: `2026-10-15T12:00:30+09:00`
+- url: https://jvn.jp/jp/JVN48627289/
+- summary: 株式会社クリーマが提供するスマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」には、オープンリダイレクトの脆弱性が存在します。
 
 ### 5. Southeast Asia’s funding winter is real. Its building winter isn’t
 - source: e27 Asia Startup and Tech Feed
@@ -50,7 +50,14 @@ _Generated: 2026-10-15T02:58:50+00:00_
 - url: https://e27.co/cash-on-delivery-is-dying-in-southeast-asia-six-different-wallets-are-taking-its-place-20261015/
 - summary: Southeast Asia’s online shoppers spent the better part of a decade being nudged to stop handing cash to the courier. They are finally listening, though not in any single, tidy way. Cash-on-delivery (COD), long the default in markets where card ownership was t…
 
-### 7. Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ
+### 7. タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」と不安を煽られる→メリットがあるか議論に
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-10-15T00:38:43+00:00`
+- url: https://togetter.com/li/2758344
+- summary: savo @moruharu430 タイムズカーの煽りを受け 免許証再発行の為に警察署へ 警察署では 「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」 と不安を煽られる 好きで再発行するんじゃないのになぁ もー 2026-10-14 14:33:08 【衝撃】運転免許証の画像が流出…専門家が警告「借金の申し込みが...
+
+### 8. Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-14T16:29:36+00:00`
