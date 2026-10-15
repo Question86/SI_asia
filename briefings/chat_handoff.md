@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T03:52:17+00:00_
+_Generated: 2026-10-15T04:00:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `16`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-15T03:52:17+00:00_
 - url: https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/
 - summary: Every few weeks, another report tells the same story about Southeast Asian tech: capital has fled, deals have dried up, and the region’s startup engine has stalled. The most recent numbers make the case forcefully. Zero dedicated regional private equity funds…
 
-### 6. Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place
+### 6. Institutional buyers face a massive test at the US$81,000 Bitcoin support level
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-10-15T03:53:43+00:00`
+- url: https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/
+- summary: The cryptocurrency sector experienced a severe and sudden decline over the last 24 hours. Bitcoin fell 2.28 per cent to US$81,370.58. The broader digital asset ecosystem mirrored this downward trajectory, dropping 2.22 per cent to a total valuation of US$2.74…
+
+### 7. M 5.1 - 36 km E of Safotu, Samoa
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-15T03:59:13.050+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ec
+- summary: DYFI? - III Time 2026-10-15 03:36:29 UTC 2026-10-15 03:36:29 UTC at epicenter Location 13.409°S 172.069°W Depth 13.21 km (8.21 mi)
+
+### 8. Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place
 - source: e27 Asia Startup and Tech Feed
 - score: `6`
 - published: `2026-10-15T01:39:20+00:00`
 - url: https://e27.co/cash-on-delivery-is-dying-in-southeast-asia-six-different-wallets-are-taking-its-place-20261015/
 - summary: Southeast Asia’s online shoppers spent the better part of a decade being nudged to stop handing cash to the courier. They are finally listening, though not in any single, tidy way. Cash-on-delivery (COD), long the default in markets where card ownership was t…
-
-### 7. タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」と不安を煽られる→メリットがあるか議論に
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-15T00:38:43+00:00`
-- url: https://togetter.com/li/2758344
-- summary: savo @moruharu430 タイムズカーの煽りを受け 免許証再発行の為に警察署へ 警察署では 「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」 と不安を煽られる 好きで再発行するんじゃないのになぁ もー 2026-10-14 14:33:08 【衝撃】運転免許証の画像が流出…専門家が警告「借金の申し込みが...
-
-### 8. Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-14T16:29:36+00:00`
-- url: https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html
-- summary: Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表し...
 
 END OF DOCUMENT
