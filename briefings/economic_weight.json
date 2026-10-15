@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T15:47:33+00:00",
+  "generated_at": "2026-10-15T15:55:58+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -191,7 +191,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -397,7 +397,7 @@
       "p90_usd": 1096000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T07:59:58+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -2141,7 +2141,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-15T06:03:43+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -2804,8 +2804,8 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-15T11:22:53+00:00",
-      "last_seen_at": "2026-10-15T14:48:17+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_43a66ad3fda61d859fca",
@@ -4981,6 +4981,23 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-02T16:58:34+00:00",
       "last_seen_at": "2026-10-02T16:58:34+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_43cb238766d843ce5fbe",
+      "title": "M 4.9 - 198 km SSE of Vilyuchinsk, Russia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:47:11+00:00",
       "status": "dormant"
     },
     {
@@ -8061,23 +8078,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_43cb238766d843ce5fbe",
-      "title": "M 4.9 - 198 km SSE of Vilyuchinsk, Russia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-15T15:47:11+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -8091,7 +8091,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -8346,7 +8346,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T03:24:46+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -8414,7 +8414,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T01:40:35+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -8516,7 +8516,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T03:24:46+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -8703,7 +8703,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T03:24:46+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -9417,7 +9417,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T01:40:35+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -9519,7 +9519,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T01:40:35+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -9621,7 +9621,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T02:06:52+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -10114,7 +10114,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T01:18:37+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -10505,7 +10505,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -11049,7 +11049,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T14:36:41+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -11185,7 +11185,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T04:24:44+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -11763,7 +11763,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -11967,7 +11967,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T06:03:43+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -12222,7 +12222,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T08:29:02+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
       "status": "active"
     },
     {
@@ -12872,6 +12872,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_bdfe7b6c5d52d303b9e4",
+      "title": "AI Scan for pull requests generally available",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-15T15:47:11+00:00",
+      "last_seen_at": "2026-10-15T15:55:37+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_c0c4e633d1008ca1a89e",
       "title": "Seoul tops global AI implementation as Singapore enters top tier",
       "event_classes": [
@@ -12989,23 +13006,6 @@
       "first_seen_at": "2026-09-15T05:35:26+00:00",
       "last_seen_at": "2026-09-15T23:55:14+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_bdfe7b6c5d52d303b9e4",
-      "title": "AI Scan for pull requests generally available",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 115200.0,
-      "p50_usd": 11520000.0,
-      "p90_usd": 1152000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-15T15:47:11+00:00",
-      "last_seen_at": "2026-10-15T15:47:11+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",

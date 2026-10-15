@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T15:47:54+00:00",
+  "generated_at": "2026-10-15T15:56:13+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -4488,7 +4488,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_43856848b80264610146",
@@ -4515,13 +4515,13 @@
     {
       "event_id": "evt_43cb238766d843ce5fbe",
       "title": "M 4.9 - 198 km SSE of Vilyuchinsk, Russia",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_43d91c6b0a97611c8e6c",
@@ -12842,12 +12842,12 @@
     {
       "event_id": "evt_bdfe7b6c5d52d303b9e4",
       "title": "AI Scan for pull requests generally available",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
