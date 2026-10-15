@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T03:25:03+00:00",
+  "generated_at": "2026-10-15T03:40:23+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -191,7 +191,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-15T03:24:46+00:00",
+      "last_seen_at": "2026-10-15T03:40:06+00:00",
       "status": "active"
     },
     {
@@ -8163,6 +8163,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_03028f44cc0d4c4535fb",
+      "title": "「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-15T03:24:46+00:00",
+      "last_seen_at": "2026-10-15T03:40:06+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_0356f186b03269c1ab70",
       "title": "Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性",
       "event_classes": [
@@ -8227,7 +8244,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T01:40:35+00:00",
-      "last_seen_at": "2026-10-15T03:24:46+00:00",
+      "last_seen_at": "2026-10-15T03:40:06+00:00",
       "status": "active"
     },
     {
@@ -8314,6 +8331,23 @@
       "first_seen_at": "2026-09-24T01:39:57+00:00",
       "last_seen_at": "2026-09-24T23:52:18+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_22f0b50be1c74cf22ab6",
+      "title": "スマートフォンアプリ「ゲオアプリ」における複数の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-15T03:24:46+00:00",
+      "last_seen_at": "2026-10-15T03:40:06+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2610890545923eccec3a",
@@ -8484,6 +8518,23 @@
       "first_seen_at": "2026-09-17T05:01:53+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_51505b7fa4ed3f9079ad",
+      "title": "スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-15T03:24:46+00:00",
+      "last_seen_at": "2026-10-15T03:40:06+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_5406131107a45806e0bf",
@@ -9196,7 +9247,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T01:40:35+00:00",
-      "last_seen_at": "2026-10-15T03:24:46+00:00",
+      "last_seen_at": "2026-10-15T03:40:06+00:00",
       "status": "active"
     },
     {
@@ -9298,7 +9349,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T01:40:35+00:00",
-      "last_seen_at": "2026-10-15T03:24:46+00:00",
+      "last_seen_at": "2026-10-15T03:40:06+00:00",
       "status": "active"
     },
     {
@@ -9317,57 +9368,6 @@
       "first_seen_at": "2026-10-07T13:58:07+00:00",
       "last_seen_at": "2026-10-07T23:54:54+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_51505b7fa4ed3f9079ad",
-      "title": "スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-15T03:24:46+00:00",
-      "last_seen_at": "2026-10-15T03:24:46+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_03028f44cc0d4c4535fb",
-      "title": "「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-15T03:24:46+00:00",
-      "last_seen_at": "2026-10-15T03:24:46+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_22f0b50be1c74cf22ab6",
-      "title": "スマートフォンアプリ「ゲオアプリ」における複数の脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-15T03:24:46+00:00",
-      "last_seen_at": "2026-10-15T03:24:46+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -9451,7 +9451,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T02:06:52+00:00",
-      "last_seen_at": "2026-10-15T03:24:46+00:00",
+      "last_seen_at": "2026-10-15T03:40:06+00:00",
       "status": "active"
     },
     {
@@ -9944,7 +9944,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T01:18:37+00:00",
-      "last_seen_at": "2026-10-15T03:24:46+00:00",
+      "last_seen_at": "2026-10-15T03:40:06+00:00",
       "status": "active"
     },
     {
@@ -10335,7 +10335,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-10-15T03:24:46+00:00",
+      "last_seen_at": "2026-10-15T03:40:06+00:00",
       "status": "active"
     },
     {
@@ -21710,7 +21710,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T01:40:35+00:00",
-      "last_seen_at": "2026-10-15T03:24:46+00:00",
+      "last_seen_at": "2026-10-15T03:40:06+00:00",
       "status": "active"
     },
     {
@@ -22356,7 +22356,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-10-15T03:24:46+00:00",
+      "last_seen_at": "2026-10-15T03:40:06+00:00",
       "status": "active"
     },
     {
@@ -22968,7 +22968,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T00:56:42+00:00",
-      "last_seen_at": "2026-10-15T03:24:46+00:00",
+      "last_seen_at": "2026-10-15T03:40:06+00:00",
       "status": "active"
     },
     {
@@ -25760,6 +25760,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_31566e1ba73aa88e7350",
+      "title": "Every dashboard is green. So why can’t anyone say what worked?",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-15T03:24:46+00:00",
+      "last_seen_at": "2026-10-15T03:40:06+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_37022ff263a30ede81c6",
       "title": "Can Asia’s ETF infrastructure keep pace with its growth?",
       "event_classes": [
@@ -26320,23 +26337,6 @@
       "first_seen_at": "2026-09-23T04:56:56+00:00",
       "last_seen_at": "2026-09-23T05:42:29+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_31566e1ba73aa88e7350",
-      "title": "Every dashboard is green. So why can’t anyone say what worked?",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 107200.0,
-      "p50_usd": 10720000.0,
-      "p90_usd": 1072000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-15T03:24:46+00:00",
-      "last_seen_at": "2026-10-15T03:24:46+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
