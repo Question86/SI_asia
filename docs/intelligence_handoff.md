@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-15T05:45:44Z_
+_Generated: 2026-10-15T05:55:13Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “スマートフォンアプリ「ハン�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-15T12:00:30+09:00` / age_days `0.11`
+- Published: `2026-10-15T12:00:30+09:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “スマートフォンアプリ「ハン�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-15T12:00:15+09:00` / age_days `0.11`
+- Published: `2026-10-15T12:00:15+09:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “スマートフォンアプリ「ハン�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T06:37:12+00:00` / age_days `43.96`
+- Published: `2026-09-01T06:37:12+00:00` / age_days `43.97`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 1.27, high terms: rce, security high-signal: rce, aging penalty -8.0 for 44.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “スマートフォンアプリ「ハン�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-15T01:39:20+00:00` / age_days `0.17`
+- Published: `2026-10-15T01:39:20+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
