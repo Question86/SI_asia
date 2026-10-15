@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-15T14:36:41+00:00_
+_Generiert: 2026-10-15T14:48:17+00:00_
 
 ## Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt
 
-- Ranking Score: `37.74`
+- Ranking Score: `37.73`
 - Raw Network Score: `34.1`
 - Max Monitor Score: `32`
 - Reichweite: `specialist` / `2.5`
@@ -19,8 +19,8 @@ _Generiert: 2026-10-15T14:36:41+00:00_
 
 ## Agentic autofix for code scanning alerts general availability
 
-- Ranking Score: `27.5`
-- Raw Network Score: `23.1`
+- Ranking Score: `25.0`
+- Raw Network Score: `20.1`
 - Max Monitor Score: `18`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
@@ -28,7 +28,7 @@ _Generiert: 2026-10-15T14:36:41+00:00_
 - Quellen: GitHub Changelog Atom
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
