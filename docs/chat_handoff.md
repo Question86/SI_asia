@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T21:45:22+00:00_
+_Generated: 2026-10-15T22:00:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `77`
+- findings: `80`
 
 ## Top Signals
 
@@ -57,18 +57,18 @@ _Generated: 2026-10-15T21:45:22+00:00_
 - url: https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv
 - summary: You can now download a CSV report of your GitHub Code Quality license usage to reconcile your license count with your own records. The report includes: Each active committer who… The post Download GitHub Code Quality license usage as a CSV appeared first on T…
 
-### 8. Teaching students to think and learn through questions
+### 8. Staying Evergreen: How we automated secure access and repo hygiene in a shared org
+- source: GitHub Blog Atom
+- score: `12`
+- published: `2026-10-15T18:00:00+00:00`
+- url: https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/
+- summary: Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .
+
+### 9. Teaching students to think and learn through questions
 - source: OpenAI News RSS
 - score: `12`
 - published: `2026-10-15T13:00:00+00:00`
 - url: https://openai.com/index/teaching-students-to-think-and-learn-through-questions
 - summary: Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
-
-### 9. Southeast Asia’s funding winter is real. Its building winter isn’t
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-15T02:00:34+00:00`
-- url: https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/
-- summary: Every few weeks, another report tells the same story about Southeast Asian tech: capital has fled, deals have dried up, and the region’s startup engine has stalled. The most recent numbers make the case forcefully. Zero dedicated regional private equity funds…
 
 END OF DOCUMENT
