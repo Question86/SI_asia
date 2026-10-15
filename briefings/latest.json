@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T22:58:35+00:00",
-  "run_id": "2026-10-15T22:58:35+00:00",
+  "generated_at": "2026-10-15T23:32:35+00:00",
+  "run_id": "2026-10-15T23:32:35+00:00",
   "date": "2026-10-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 81
+      "configured_public_sources_only": 83
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "new_relevant_findings": 2,
+    "today_file_total": 83,
+    "displayed_findings": 83,
     "high": 1,
     "medium": 28,
-    "observe": 52,
+    "observe": 54,
     "source_errors": 0
   },
   "sections": {
@@ -917,6 +917,50 @@
           "EWZ"
         ],
         "id": "3bea069725b1fb40a5ad"
+      },
+      {
+        "title": "リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中",
+        "url": "https://gigazine.net/news/20261016-linus-torvalds-claude-code/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-15T21:32:18+00:00",
+        "fetched_at": "2026-10-15T23:32:03+00:00",
+        "summary": "Linuxカーネルの生みの親であるリーナス・トーバルズ氏がAIコーディングアシスタントのClaude Codeを活用し、Linuxカーネルの大幅な改善に取り組んでいることが明らかになりました。 Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code - Phoronix https://www.phoronix.com/news/Linus-Torv...",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0076260c177a1dd7ebca"
+      },
+      {
+        "title": "Claude Code 入門",
+        "url": "https://speakerdeck.com/nogu66/claude-code-nyuumon",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-15T13:28:26+00:00",
+        "fetched_at": "2026-10-15T23:32:03+00:00",
+        "summary": "Navigating the Design Leadership Dip - Product Design Week Design Leaders+ Conference 2024",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7e8febe091bfd3531337"
       },
       {
         "title": "M 5.6 - 43 km NNW of Lake Minchumina, Alaska",
@@ -2924,6 +2968,50 @@
       "id": "3bea069725b1fb40a5ad"
     },
     {
+      "title": "リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中",
+      "url": "https://gigazine.net/news/20261016-linus-torvalds-claude-code/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-15T21:32:18+00:00",
+      "fetched_at": "2026-10-15T23:32:03+00:00",
+      "summary": "Linuxカーネルの生みの親であるリーナス・トーバルズ氏がAIコーディングアシスタントのClaude Codeを活用し、Linuxカーネルの大幅な改善に取り組んでいることが明らかになりました。 Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code - Phoronix https://www.phoronix.com/news/Linus-Torv...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0076260c177a1dd7ebca"
+    },
+    {
+      "title": "Claude Code 入門",
+      "url": "https://speakerdeck.com/nogu66/claude-code-nyuumon",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-15T13:28:26+00:00",
+      "fetched_at": "2026-10-15T23:32:03+00:00",
+      "summary": "Navigating the Design Leadership Dip - Product Design Week Design Leaders+ Conference 2024",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7e8febe091bfd3531337"
+    },
+    {
       "title": "M 5.6 - 43 km NNW of Lake Minchumina, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukynnb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4042,26 +4130,48 @@
   ],
   "new_findings": [
     {
-      "title": "「UNIXという考え方」再考 | ドクセル",
-      "url": "https://www.docswell.com/s/Songmu/5WR64J-unix-philosophy",
+      "title": "リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中",
+      "url": "https://gigazine.net/news/20261016-linus-torvalds-claude-code/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-15T10:38:08+00:00",
-      "fetched_at": "2026-10-15T22:58:01+00:00",
-      "summary": "GitHubber, OSS作家。Tech SaaSのPdM、スタートアップ取締役CTOや外資スタートアップのIC等を経験後現職。好きな言語はGoとPerlと中国語で雑なOSSを200以上量産している。3 times ISUCON winner. 著書「みんなのGo言語」共著他。Podcast https://oss4.fun",
+      "published_at": "2026-10-15T21:32:18+00:00",
+      "fetched_at": "2026-10-15T23:32:03+00:00",
+      "summary": "Linuxカーネルの生みの親であるリーナス・トーバルズ氏がAIコーディングアシスタントのClaude Codeを活用し、Linuxカーネルの大幅な改善に取り組んでいることが明らかになりました。 Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code - Phoronix https://www.phoronix.com/news/Linus-Torv...",
       "matched_keywords": [
-        "GitHub",
+        "AI Agents",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f2e9e25ebd95aba5aab1"
+      "id": "0076260c177a1dd7ebca"
+    },
+    {
+      "title": "Claude Code 入門",
+      "url": "https://speakerdeck.com/nogu66/claude-code-nyuumon",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-15T13:28:26+00:00",
+      "fetched_at": "2026-10-15T23:32:03+00:00",
+      "summary": "Navigating the Design Leadership Dip - Product Design Week Design Leaders+ Conference 2024",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7e8febe091bfd3531337"
     }
   ],
   "source_errors": [],
