@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-10-14T23:57:22+00:00`
+Generated: `2026-10-15T00:13:35+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -19,7 +19,7 @@ Generated: `2026-10-14T23:57:22+00:00`
 | Investors do not just fund startups. They fund predictability | $0 | — | 0 | 0 | dormant |
 | ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました | $0 | — | 0 | 0 | dormant |
 | M 4.7 - 110 km SSE of Sola, Vanuatu | $0 | — | 0 | 0 | dormant |
-| Go、OpenSSL、Apple、LibreSSL、pyca、wolfSSLのRFC 5280実装における名前制約が不整合である脆弱性 | $0 | — | 0 | 0 | active |
+| Go、OpenSSL、Apple、LibreSSL、pyca、wolfSSLのRFC 5280実装における名前制約が不整合である脆弱性 | $0 | — | 0 | 0 | dormant |
 | Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026) | $0 | — | 0 | 0 | dormant |
 | 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
