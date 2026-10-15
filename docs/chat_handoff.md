@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T13:59:50+00:00_
+_Generated: 2026-10-15T14:22:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `59`
+- findings: `62`
 
 ## Top Signals
 
@@ -50,25 +50,25 @@ _Generated: 2026-10-15T13:59:50+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ev
 - summary: PAGER - GREEN ShakeMap - III DYFI? - III Time 2026-10-15 05:25:31 UTC 2026-10-15 05:25:31 UTC at epicenter Location 38.548°S 175.381°E Depth 286.01 km (177.72 mi)
 
-### 7. Southeast Asia’s funding winter is real. Its building winter isn’t
+### 7. Teaching students to think and learn through questions
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-10-15T13:00:00+00:00`
+- url: https://openai.com/index/teaching-students-to-think-and-learn-through-questions
+- summary: Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
+
+### 8. Southeast Asia’s funding winter is real. Its building winter isn’t
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-15T02:00:34+00:00`
 - url: https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/
 - summary: Every few weeks, another report tells the same story about Southeast Asian tech: capital has fled, deals have dried up, and the region’s startup engine has stalled. The most recent numbers make the case forcefully. Zero dedicated regional private equity funds…
 
-### 8. M 5.6 - 43 km NNW of Lake Minchumina, Alaska
+### 9. M 5.6 - 43 km NNW of Lake Minchumina, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-15T11:21:34.898+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukynnb
 - summary: ShakeMap - VII DYFI? - III Time 2026-10-15 11:07:01 UTC 2026-10-15 11:07:01 UTC at epicenter Location 64.220°N 152.746°W Depth 4.50 km (2.80 mi)
-
-### 9. 有名企業や一流開発者のノウハウをそのまま持ち込める、Claude Codeスキル11選｜苦しんでプログラミングを学んだ柴犬（くるしば）
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-10-15T04:24:08+00:00`
-- url: https://note.com/shiba_program/n/nd2d72747f8c5
-- summary: こんにちは。くるしばです。 エラー監視サービスのSentry社が自社の開発チームで使っているコードレビューの基準を、明日から自分のプロジェクトにそのまま適用できるとしたら、ちょっと試してみたくならないでしょうか。 Claude Codeの「スキル」という仕組みを使うと、これが簡単に実現できます。決まった手順やルール...
 
 END OF DOCUMENT

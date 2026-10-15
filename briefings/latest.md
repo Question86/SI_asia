@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T13:59:50+00:00_
+_Generiert: 2026-10-15T14:22:26+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
+62 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -205,6 +205,15 @@ _Generiert: 2026-10-15T13:59:50+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - III DYFI? - III Time 2026-10-15 05:25:31 UTC 2026-10-15 05:25:31 UTC at epicenter Location 38.548°S 175.381°E Depth 286.01 km (177.72 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Teaching students to think and learn through questions** — Score 12, observation — [Quelle](https://openai.com/index/teaching-students-to-think-and-learn-through-questions)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-15T13:00:00+00:00`, fetched `2026-10-15T14:21:51+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0)
+  - Kurz: Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Southeast Asia’s funding winter is real. Its building winter isn’t** — Score 12, observation — [Quelle](https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-15T02:00:34+00:00`, fetched `2026-10-15T02:06:17+00:00`
@@ -321,15 +330,6 @@ _Generiert: 2026-10-15T13:59:50+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ソースネクスト、最大2251万件の情報流出 パスワード再設定を
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **What the West can learn from AI optimists in the rest of the world** — Score 5, observation — [Quelle](https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-10-15T10:00:00+00:00`, fetched `2026-10-15T10:19:58+00:00`
-  - Treffer: AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); recent (+1.0)
-  - Kurz: The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
