@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T01:40:54+00:00",
+  "generated_at": "2026-10-15T01:55:57+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -8214,6 +8214,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_16f9800c9cf3d48706c6",
+      "title": "複数のTLSライブラリにおける名前制約回避の問題",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-15T01:40:35+00:00",
+      "last_seen_at": "2026-10-15T01:55:41+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_18f8c5a5964987a8e5b7",
       "title": "MCC製Universal Library for Linux (uldaq)におけるバッファオーバーフローの脆弱性",
       "event_classes": [
@@ -9166,6 +9183,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e044efe4aa4b1f11a946",
+      "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-15T01:40:35+00:00",
+      "last_seen_at": "2026-10-15T01:55:41+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_e1441965dd9de50427c1",
       "title": "楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
       "event_classes": [
@@ -9251,6 +9285,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_fe705b02173715b189d8",
+      "title": "Bishengにおける複数の認証回避の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-15T01:40:35+00:00",
+      "last_seen_at": "2026-10-15T01:55:41+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_fea050fcd8c05433a9e1",
       "title": "Multiples vulnérabilités dans GitLab (30 septembre 2026)",
       "event_classes": [
@@ -9266,57 +9317,6 @@
       "first_seen_at": "2026-10-07T13:58:07+00:00",
       "last_seen_at": "2026-10-07T23:54:54+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_e044efe4aa4b1f11a946",
-      "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-15T01:40:35+00:00",
-      "last_seen_at": "2026-10-15T01:40:35+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_16f9800c9cf3d48706c6",
-      "title": "複数のTLSライブラリにおける名前制約回避の問題",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-15T01:40:35+00:00",
-      "last_seen_at": "2026-10-15T01:40:35+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_fe705b02173715b189d8",
-      "title": "Bishengにおける複数の認証回避の脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-15T01:40:35+00:00",
-      "last_seen_at": "2026-10-15T01:40:35+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -9876,7 +9876,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T01:18:37+00:00",
-      "last_seen_at": "2026-10-15T01:40:35+00:00",
+      "last_seen_at": "2026-10-15T01:55:41+00:00",
       "status": "active"
     },
     {
@@ -21629,6 +21629,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e6a65e5560a204dc9722",
+      "title": "Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-15T01:40:35+00:00",
+      "last_seen_at": "2026-10-15T01:55:41+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_e6f8cacacf30596e829e",
       "title": "Laters.com raises US$1.5M to expand flexible flight payments",
       "event_classes": [
@@ -21763,23 +21780,6 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_e6a65e5560a204dc9722",
-      "title": "Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108800.0,
-      "p50_usd": 10880000.0,
-      "p90_usd": 1088000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-15T01:40:35+00:00",
-      "last_seen_at": "2026-10-15T01:40:35+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -22900,7 +22900,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T00:56:42+00:00",
-      "last_seen_at": "2026-10-15T01:40:35+00:00",
+      "last_seen_at": "2026-10-15T01:55:41+00:00",
       "status": "active"
     },
     {
