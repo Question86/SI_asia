@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T07:54:30+00:00_
+_Generiert: 2026-10-15T08:01:53+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+32 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -141,14 +141,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-10-15 03:36:29 UTC 2026-10-15 03:36:29 UTC at epicenter Location 13.409°S 172.069°W Depth 13.21 km (8.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI can increase productivity. It can’t increase human capacity** — Score 8, observation — [Quelle](https://e27.co/ai-can-increase-productivity-it-cant-increase-human-capacity-20261015/)
+- **Character.ai was worth US$2.7B to Google. Disney just offered US$20M** — Score 8, observation — [Quelle](https://e27.co/character-ai-was-worth-us2-7b-to-google-disney-just-offered-us20m-20261015/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-15T04:30:45+00:00`, fetched `2026-10-15T04:38:07+00:00`
+  - Zeit: published `2026-10-15T08:00:23+00:00`, fetched `2026-10-15T08:01:22+00:00`
   - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: We may be using AI to save hours of work, only to fill those hours with more work. This is something I have been thinking about as organisations accelerate their investment in AI. The productivity opportunity is undeniable. Generative AI can draft in seconds, analyse large volumes of information, automate administrative work and give leaders […] The post AI can increase productivity. It can’t increase human capacity…
+  - Kurz: In August 2024, Google wrote Character.ai a cheque for roughly US$2.7 billion. On Monday, Disney offered US$20 million. Both were for a licence to the same company’s technology. Allowing for the fine print, that is a fall of more than 99 per cent in a little over two years. Character.ai filed for Chapter 11 bankruptcy […] The post Character.ai was worth US$2.7B to Google. Disney just offered US$20M appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もAI需要の餌食になる可能性** — Score 8, observation — [Quelle](https://gazlog.jp/entry/ps5-can-run-27b-llm/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
