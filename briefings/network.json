@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-15T19:19:40+00:00",
+  "generated_at": "2026-10-15T19:50:00+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 72,
-    "clusters": 58,
+    "findings": 74,
+    "clusters": 60,
     "cross_source_confrmed": 0,
     "hot": 1,
     "early_signals": 0,
@@ -267,18 +267,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 18.14,
+      "network_score": 18.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 45.4,
-      "ranking_score": 18.14,
+      "ranking_score": 18.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.64,
+      "baseline_bonus": 0.5,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1057,6 +1057,82 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-10-15T11:22:53+00:00"
+    },
+    {
+      "key": "title:next-developer-interface-ambient-intelligence",
+      "title": "The next developer interface is ambient intelligence",
+      "sources": [
+        "GitHub Blog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-15T19:50:00+00:00"
+    },
+    {
+      "key": "title:upcoming-deprecation-selected-github-copilot-models-mid-november",
+      "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-15T19:50:00+00:00"
     },
     {
       "key": "title:character-was-worth-google-disney-just-offered-20m",
@@ -2258,7 +2334,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-15T19:19:41Z",
+    "generated_at": "2026-10-15T19:50:01Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
