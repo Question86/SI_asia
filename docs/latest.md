@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T04:00:49+00:00_
+_Generiert: 2026-10-15T04:24:41+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+20 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -29,6 +29,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AI研究者のアンドレイ・カルパシーは、4月に観察したAIの普及における格差が広がっていると述べた。Michael Macor/The San Francisco Chronicle via Getty Images OpenAIの共同創業者アンドレイ・カルパシー（Andrej Karpathy）氏は、世界はいまもAIをほとんど知らないと述べている。 「一般の人々は、こうしたシステム...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix** — Score 17, observation — [Quelle](https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-15T04:00:44+00:00`, fetched `2026-10-15T04:24:12+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Most Singapore office workers know the ritual. A message lands at 10.47pm. It is not urgent. You answer it within 90 seconds anyway, not because the work demands it, but because you want someone to notice that you answered it within 90 seconds. It turns out that performance is playing to a near-empty theatre. The […] The post AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the w…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Bowman, Supervisory Modernization After Silicon Valley Bank** — Score 17, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
@@ -87,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)
   - Kurz: The cryptocurrency sector experienced a severe and sudden decline over the last 24 hours. Bitcoin fell 2.28 per cent to US$81,370.58. The broader digital asset ecosystem mirrored this downward trajectory, dropping 2.22 per cent to a total valuation of US$2.74 trillion. An unexpectedly hot United States inflation report drove this widespread selloff across all major […] The post Institutional buyers face a massive te…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 30 km E of Safotu, Samoa** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-15T04:02:36.040+00:00`, fetched `2026-10-15T04:24:12+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-15 03:36:08 UTC 2026-10-15 03:36:08 UTC at epicenter Location 13.433°S 172.117°W Depth 13.47 km (8.37 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 36 km E of Safotu, Samoa** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ec)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-15T03:59:13.050+00:00`, fetched `2026-10-15T04:00:13+00:00`
@@ -113,6 +131,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: savo @moruharu430 タイムズカーの煽りを受け 免許証再発行の為に警察署へ 警察署では 「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」 と不安を煽られる 好きで再発行するんじゃないのになぁ もー 2026-10-14 14:33:08 【衝撃】運転免許証の画像が流出…専門家が警告「借金の申し込みが...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **異例の「iPhone Air」投げ売りはなぜ起きている？ 定価29.5万円の1TBモデルが、いま18.4万円で買える3つの理由** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/mobile/articles/2610/15/news037.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-14T23:13:47+00:00`, fetched `2026-10-15T04:24:12+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Appleの「iPhone Air」が、Amazon.co.jpのセールで異例の大幅割引となっている。定価29万4800円の1TBモデルが18万3500円で販売される背景には、日本独自仕様による過剰在庫など複雑な要因が絡み合っている。その市場のゆがみを読み解く。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

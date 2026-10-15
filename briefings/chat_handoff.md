@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T04:00:49+00:00_
+_Generated: 2026-10-15T04:24:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `20`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-15T04:00:49+00:00_
 - url: https://www.businessinsider.jp/article/2610-andrej-karpathy-ai-gap-widening-usage/
 - summary: AI研究者のアンドレイ・カルパシーは、4月に観察したAIの普及における格差が広がっていると述べた。Michael Macor/The San Francisco Chronicle via Getty Images OpenAIの共同創業者アンドレイ・カルパシー（Andrej Karpathy）氏は、世界はいまもAIをほとんど知らないと述べている。 「一般の人々は、こうしたシステム...
 
-### 3. Bowman, Supervisory Modernization After Silicon Valley Bank
+### 3. AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix
+- source: e27 Asia Startup and Tech Feed
+- score: `17`
+- published: `2026-10-15T04:00:44+00:00`
+- url: https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/
+- summary: Most Singapore office workers know the ritual. A message lands at 10.47pm. It is not urgent. You answer it within 90 seconds anyway, not because the work demands it, but because you want someone to notice that you answered it within 90 seconds. It turns out t…
+
+### 4. Bowman, Supervisory Modernization After Silicon Valley Bank
 - source: Federal Reserve Speeches and Testimony
 - score: `17`
 - published: `2026-10-15T02:55:00+00:00`
 - url: https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm
 - summary: Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand
-
-### 4. スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-15T12:00:30+09:00`
-- url: https://jvn.jp/jp/JVN48627289/
-- summary: 株式会社クリーマが提供するスマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」には、オープンリダイレクトの脆弱性が存在します。
 
 ### 5. Southeast Asia’s funding winter is real. Its building winter isn’t
 - source: e27 Asia Startup and Tech Feed
@@ -50,18 +50,18 @@ _Generated: 2026-10-15T04:00:49+00:00_
 - url: https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/
 - summary: The cryptocurrency sector experienced a severe and sudden decline over the last 24 hours. Bitcoin fell 2.28 per cent to US$81,370.58. The broader digital asset ecosystem mirrored this downward trajectory, dropping 2.22 per cent to a total valuation of US$2.74…
 
-### 7. M 5.1 - 36 km E of Safotu, Samoa
+### 7. M 4.8 - 30 km E of Safotu, Samoa
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-15T04:02:36.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh
+- summary: Time 2026-10-15 03:36:08 UTC 2026-10-15 03:36:08 UTC at epicenter Location 13.433°S 172.117°W Depth 13.47 km (8.37 mi)
+
+### 8. M 5.1 - 36 km E of Safotu, Samoa
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-15T03:59:13.050+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ec
 - summary: DYFI? - III Time 2026-10-15 03:36:29 UTC 2026-10-15 03:36:29 UTC at epicenter Location 13.409°S 172.069°W Depth 13.21 km (8.21 mi)
-
-### 8. Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place
-- source: e27 Asia Startup and Tech Feed
-- score: `6`
-- published: `2026-10-15T01:39:20+00:00`
-- url: https://e27.co/cash-on-delivery-is-dying-in-southeast-asia-six-different-wallets-are-taking-its-place-20261015/
-- summary: Southeast Asia’s online shoppers spent the better part of a decade being nudged to stop handing cash to the courier. They are finally listening, though not in any single, tidy way. Cash-on-delivery (COD), long the default in markets where card ownership was t…
 
 END OF DOCUMENT

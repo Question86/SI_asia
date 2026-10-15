@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-15T04:00:49+00:00",
+  "generated_at": "2026-10-15T04:24:41+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 4,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
-    "medium": 9,
-    "observe": 7
+    "medium": 10,
+    "observe": 10
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-15T04:00:44+00:00",
+      "relevance_score": 17,
+      "url": "https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/",
+      "summary": "Most Singapore office workers know the ritual. A message lands at 10.47pm. It is not urgent. You answer it within 90 seconds anyway, not because the work demands it, but because you want someone to notice that you answered it within 90 seconds. It turns out t…",
+      "section": "medium"
+    },
+    {
       "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
       "source": "Federal Reserve Speeches and Testimony",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 17,
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
       "summary": "Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand",
-      "section": "medium"
-    },
-    {
-      "title": "スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-15T12:00:30+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/jp/JVN48627289/",
-      "summary": "株式会社クリーマが提供するスマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」には、オープンリダイレクトの脆弱性が存在します。",
       "section": "medium"
     },
     {
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "M 4.8 - 30 km E of Safotu, Samoa",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-15T04:02:36.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh",
+      "summary": "Time 2026-10-15 03:36:08 UTC 2026-10-15 03:36:08 UTC at epicenter Location 13.433°S 172.117°W Depth 13.47 km (8.37 mi)",
+      "section": "observe"
+    },
+    {
       "title": "M 5.1 - 36 km E of Safotu, Samoa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ec",
       "summary": "DYFI? - III Time 2026-10-15 03:36:29 UTC 2026-10-15 03:36:29 UTC at epicenter Location 13.409°S 172.069°W Depth 13.21 km (8.21 mi)",
       "section": "observe"
-    },
-    {
-      "title": "Cash-on-delivery is dying in Southeast Asia. Six different wallets are taking its place",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-15T01:39:20+00:00",
-      "relevance_score": 6,
-      "url": "https://e27.co/cash-on-delivery-is-dying-in-southeast-asia-six-different-wallets-are-taking-its-place-20261015/",
-      "summary": "Southeast Asia’s online shoppers spent the better part of a decade being nudged to stop handing cash to the courier. They are finally listening, though not in any single, tidy way. Cash-on-delivery (COD), long the default in markets where card ownership was t…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,140 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao",
-        "url": "https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-15T01:00:34+00:00",
-        "age_days": 0.14,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Anyone who has spent 10 minutes pressing “0” to escape a voice bot knows how the last automation wave ended. Call centres were promised dramatic savings from IVRs and chatbots. Customers got phone trees that went in circles, and companies got a fresh layer of complaints to manage. Sunny Rao sold that promise from the…"
-      },
-      {
-        "title": "Southeast Asia’s funding winter is real. Its building winter isn’t",
-        "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-15T02:00:34+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: regional",
-          "high terms: rce, 10",
-          "security high-signal: rce, 10"
-        ],
-        "summary": "Every few weeks, another report tells the same story about Southeast Asian tech: capital has fled, deals have dried up, and the region’s startup engine has stalled. The most recent numbers make the case forcefully. Zero dedicated regional private equity funds reached final close in the first half of 2026. Three pan-As…"
-      },
-      {
-        "title": "スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
-        "url": "https://jvn.jp/jp/JVN48627289/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T12:00:30+09:00",
-        "age_days": 0.05,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "株式会社クリーマが提供するスマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」には、オープンリダイレクトの脆弱性が存在します。"
-      },
-      {
-        "title": "「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性",
-        "url": "https://jvn.jp/jp/JVN94004488/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T12:00:15+09:00",
-        "age_days": 0.05,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "国土交通省が提供する「車検証閲覧アプリ」には、送信データへの機微な情報の挿入の脆弱性が存在します。"
-      },
-      {
-        "title": "スマートフォンアプリ「ゲオアプリ」における複数の脆弱性",
-        "url": "https://jvn.jp/jp/JVN40460777/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-15T12:00:00+09:00",
-        "age_days": 0.05,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "株式会社ゲオが提供するスマートフォンアプリ「ゲオアプリ」には、複数の脆弱性が存在します。"
-      }
-    ]
-  }
+  ]
 }
