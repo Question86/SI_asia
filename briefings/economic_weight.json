@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T04:01:11+00:00",
+  "generated_at": "2026-10-15T04:25:05+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -191,7 +191,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
       "status": "active"
     },
     {
@@ -7755,6 +7755,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f6e902b7817e276c03bb",
+      "title": "M 5.1 - 36 km E of Safotu, Samoa",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f75dd09efc50b039e807",
       "title": "M 4.8 - 21 km W of Río Grande, Panama",
       "event_classes": [
@@ -7908,8 +7925,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_f6e902b7817e276c03bb",
-      "title": "M 5.1 - 36 km E of Safotu, Samoa",
+      "event_id": "evt_b44332a16f50095d62d5",
+      "title": "M 4.8 - 30 km E of Safotu, Samoa",
       "event_classes": [
         "natural_disaster"
       ],
@@ -7920,8 +7937,8 @@
       "p50_usd": 111200000.0,
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
-      "first_seen_at": "2026-10-15T04:00:53+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
+      "first_seen_at": "2026-10-15T04:24:44+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
       "status": "active"
     },
     {
@@ -8193,7 +8210,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T03:24:46+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
       "status": "active"
     },
     {
@@ -8261,7 +8278,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T01:40:35+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
       "status": "active"
     },
     {
@@ -8363,7 +8380,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T03:24:46+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
       "status": "active"
     },
     {
@@ -8550,7 +8567,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T03:24:46+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
       "status": "active"
     },
     {
@@ -9264,7 +9281,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T01:40:35+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
       "status": "active"
     },
     {
@@ -9366,7 +9383,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T01:40:35+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
       "status": "active"
     },
     {
@@ -9468,7 +9485,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T02:06:52+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
       "status": "active"
     },
     {
@@ -9961,7 +9978,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T01:18:37+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
       "status": "active"
     },
     {
@@ -10352,7 +10369,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
       "status": "active"
     },
     {
@@ -11221,6 +11238,23 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_127993d2676c850297cd",
+      "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 117600.0,
+      "p50_usd": 11760000.0,
+      "p90_usd": 1176000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-15T04:24:44+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_04dd5841535ba2efa091",
@@ -15134,6 +15168,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a5972b34f9babd3e73cf",
+      "title": "Institutional buyers face a massive test at the US$81,000 Bitcoin support level",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_a8b9aa641cc82423d63a",
       "title": "ハッカーが楽天会員1億100万件の個人情報 販売を主張―氏名・住所・ポイント情報のサンプル掲載、漏洩元・真正性は未確認|セキュリティニュースのセキュリティ対策Lab",
       "event_classes": [
@@ -15523,23 +15574,6 @@
       "first_seen_at": "2026-09-08T05:58:24+00:00",
       "last_seen_at": "2026-09-08T22:21:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_a5972b34f9babd3e73cf",
-      "title": "Institutional buyers face a massive test at the US$81,000 Bitcoin support level",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 112800.0,
-      "p50_usd": 11280000.0,
-      "p90_usd": 1128000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-15T04:00:53+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -21744,7 +21778,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T01:40:35+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
       "status": "active"
     },
     {
@@ -22390,7 +22424,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
       "status": "active"
     },
     {
@@ -23002,7 +23036,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T00:56:42+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
       "status": "active"
     },
     {
@@ -25607,6 +25641,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_685776a73d9c55e2b757",
+      "title": "異例の「iPhone Air」投げ売りはなぜ起きている？ 定価29.5万円の1TBモデルが、いま18.4万円で買える3つの理由",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-15T04:24:44+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_017c3d08edef1ec4ff45",
       "title": "Can Ethereum clear US$2,672 this week and unlock a run to US$3,000?",
       "event_classes": [
@@ -25807,7 +25858,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-15T03:24:46+00:00",
-      "last_seen_at": "2026-10-15T04:00:53+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
       "status": "active"
     },
     {
@@ -26371,6 +26422,23 @@
       "first_seen_at": "2026-09-23T04:56:56+00:00",
       "last_seen_at": "2026-09-23T05:42:29+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1f2e8922d511be086780",
+      "title": "Human rights: Lost in the “S” of ESG?",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-15T04:24:44+00:00",
+      "last_seen_at": "2026-10-15T04:24:44+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
