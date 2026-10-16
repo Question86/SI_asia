@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-16T05:45:28Z_
+_Generated: 2026-10-16T05:55:11Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-16T09:15:00+09:00` / age_days `0.23`
+- Published: `2026-10-16T09:15:00+09:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-16T04:30:31+00:00` / age_days `0.05`
+- Published: `2026-10-16T04:30:31+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-10-16T03:16:20+00:00` / age_days `0.1`
+- Published: `2026-10-16T03:16:20+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-10-16T01:48:54+00:00` / age_days `0.16`
+- Published: `2026-10-16T01:48:54+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, early terms: local, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-10-16T01:28:39+00:00` / age_days `0.18`
+- Published: `2026-10-16T01:28:39+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-16T01:28:39+00:00` / age_days `0.18`
+- Published: `2026-10-16T01:28:39+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, vpn
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-10-15T00:00:00+00:00` / age_days `1.24`
+- Published: `2026-10-15T00:00:00+00:00` / age_days `1.25`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
