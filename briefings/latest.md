@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T07:51:30+00:00_
+_Generiert: 2026-10-16T07:59:07+00:00_
 
 ## Kurzlage
 
@@ -53,10 +53,10 @@ _Generiert: 2026-10-16T07:51:30+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:1km) in United States 15/10/2026 11:07 UTC, 9 thousand in MMI&gt;=III.
-- **GDACS: Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.175 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001338)
+- **GDACS: Orange notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.175 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001338)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.175 million .
+  - Kurz: Orange notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.175 million .
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:585.07km) in Fiji 14/10/2026 10:49 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571524)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,10 +65,10 @@ _Generiert: 2026-10-16T07:51:30+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:20.842km) in Papua New Guinea 13/10/2026 18:45 UTC, 4 thousand in MMI V.
-- **GDACS: Green notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001337)
+- **GDACS: Green notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 18093 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001337)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+  - Kurz: Green notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 18093 .
 
 ## Wirtschaft global
 
