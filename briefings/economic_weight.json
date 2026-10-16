@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T03:51:51+00:00",
+  "generated_at": "2026-10-16T03:59:47+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2876,6 +2876,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4d905a2c47584bc70c39",
+      "title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-16T03:51:35+00:00",
+      "last_seen_at": "2026-10-16T03:59:28+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_4f61e8c3b6852de8150c",
       "title": "M 5.0 - 191 km NW of Oula Xiuma, China",
       "event_classes": [
@@ -3860,23 +3877,6 @@
       "first_seen_at": "2026-09-29T10:50:43+00:00",
       "last_seen_at": "2026-09-29T19:18:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_4d905a2c47584bc70c39",
-      "title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-16T03:51:35+00:00",
-      "last_seen_at": "2026-10-16T03:51:35+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_00e85c3d2c185ba34101",
@@ -8278,7 +8278,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T03:51:35+00:00",
+      "last_seen_at": "2026-10-16T03:59:28+00:00",
       "status": "active"
     },
     {
@@ -10675,7 +10675,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:16:20+00:00",
-      "last_seen_at": "2026-10-16T03:51:35+00:00",
+      "last_seen_at": "2026-10-16T03:59:28+00:00",
       "status": "active"
     },
     {
@@ -11168,7 +11168,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T03:51:35+00:00",
+      "last_seen_at": "2026-10-16T03:59:28+00:00",
       "status": "active"
     },
     {
@@ -11814,7 +11814,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T03:51:35+00:00",
+      "last_seen_at": "2026-10-16T03:59:28+00:00",
       "status": "active"
     },
     {
@@ -14756,7 +14756,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:48:54+00:00",
-      "last_seen_at": "2026-10-16T03:51:35+00:00",
+      "last_seen_at": "2026-10-16T03:59:28+00:00",
       "status": "active"
     },
     {
@@ -19636,7 +19636,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:16:20+00:00",
-      "last_seen_at": "2026-10-16T03:51:35+00:00",
+      "last_seen_at": "2026-10-16T03:59:28+00:00",
       "status": "active"
     },
     {
@@ -20775,7 +20775,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:02:54+00:00",
-      "last_seen_at": "2026-10-16T03:51:35+00:00",
+      "last_seen_at": "2026-10-16T03:59:28+00:00",
       "status": "active"
     },
     {
@@ -21336,7 +21336,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:37:22+00:00",
-      "last_seen_at": "2026-10-16T03:51:35+00:00",
+      "last_seen_at": "2026-10-16T03:59:28+00:00",
       "status": "active"
     },
     {
@@ -21676,7 +21676,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T02:01:03+00:00",
-      "last_seen_at": "2026-10-16T03:51:35+00:00",
+      "last_seen_at": "2026-10-16T03:59:28+00:00",
       "status": "active"
     },
     {
@@ -21846,7 +21846,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:28:39+00:00",
-      "last_seen_at": "2026-10-16T03:51:35+00:00",
+      "last_seen_at": "2026-10-16T03:59:28+00:00",
       "status": "active"
     },
     {
@@ -23835,7 +23835,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:16:20+00:00",
-      "last_seen_at": "2026-10-16T03:51:35+00:00",
+      "last_seen_at": "2026-10-16T03:59:28+00:00",
       "status": "active"
     },
     {
@@ -24600,7 +24600,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T06:55:31+00:00",
-      "last_seen_at": "2026-10-16T03:51:35+00:00",
+      "last_seen_at": "2026-10-16T03:59:28+00:00",
       "status": "active"
     },
     {
@@ -24787,7 +24787,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:02:54+00:00",
-      "last_seen_at": "2026-10-16T03:51:35+00:00",
+      "last_seen_at": "2026-10-16T03:59:28+00:00",
       "status": "active"
     },
     {
@@ -25127,7 +25127,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:28:39+00:00",
-      "last_seen_at": "2026-10-16T03:51:35+00:00",
+      "last_seen_at": "2026-10-16T03:59:28+00:00",
       "status": "active"
     },
     {
