@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T20:46:57+00:00_
+_Generiert: 2026-10-16T21:03:34+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
+73 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -210,6 +210,15 @@ _Generiert: 2026-10-16T20:46:57+00:00_
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0)
   - Kurz: 台灣智園｜Tronclass - 存在3個漏洞
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Eストアー ショップサーブへのサイバー攻撃による個人情報漏洩 まとめ PFU・キングジムなど影響企業一覧、885万3,839件が対象|セキュリティニュースのセキュリティ対策Lab** — Score 10, risk — [Quelle](https://rocket-boys.co.jp/security-measures-lab/shopserve-data-breach-company-list-2026/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-27T08:52:34+00:00`, fetched `2026-10-16T21:03:04+00:00`
+  - Treffer: Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0)
+  - Kurz: 株式会社Eストアーが運営するECサイト構築サービス「ショップサーブ」への不正アクセスによる個人情報漏洩では、2026年8月の公表から2カ月以上が経過した後も、利用企業から新たな発表が続いています。 Eストアーは8月2日の第2報で、2026年5月21日から8月1日にかけて外部の第三者が同社サーバー上で不正なプログラムを実...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - off the coast of Ecuador** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2v8)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-16T19:55:24.040+00:00`, fetched `2026-10-16T20:02:26+00:00`
@@ -263,15 +272,6 @@ _Generiert: 2026-10-16T20:46:57+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); Basel (+2.5); recent (+1.0)
   - Kurz: The Basel Committee on Banking Supervision today published final amendments to address window dressing in the G-SIB framework and a consultation on the G-SIB methodology review.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans les produits Adobe (14 octobre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1301/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-10-14T00:00:00+00:00`, fetched `2026-10-16T13:36:39+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
