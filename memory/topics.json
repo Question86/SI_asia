@@ -1,8 +1,131 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-16T11:07:51+00:00",
+  "generated_at": "2026-10-16T11:24:23+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "published_at": "2026-10-16T11:20:00+00:00",
+        "relevance_score": 32,
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297832-1032_bits.html"
+      },
+      {
+        "title": "[UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T09:54:02+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3922"
+      },
+      {
+        "title": "[UPDATE] [hoch] Fortinet FortiSandbox: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T09:54:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3940"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-16T09:15:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU96928590/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T09:00:51+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952"
+      },
+      {
+        "title": "[NEU] [hoch] Sonatype Nexus Repository Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T11:20:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4004"
+      },
+      {
+        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4002"
+      },
+      {
+        "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4003"
+      },
+      {
+        "title": "[NEU] [kritisch] BeyondTrust Remote Support: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4001"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T09:54:03+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3905"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "published_at": "2026-10-16T11:20:00+00:00",
+        "relevance_score": 32,
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297832-1032_bits.html"
+      },
+      {
+        "title": "[NEU] [hoch] Sonatype Nexus Repository Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T11:20:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4004"
+      },
+      {
+        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4002"
+      },
+      {
+        "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4003"
+      },
+      {
+        "title": "[NEU] [kritisch] BeyondTrust Remote Support: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4001"
+      },
+      {
+        "title": "The US$82,000 Illusion: Why Bitcoin still trades like a traditional tech stock",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-16T04:49:12+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/the-us82000-illusion-why-bitcoin-still-trades-like-a-traditional-tech-stock-20261016/"
+      },
+      {
+        "title": "Hong Kong builds a test track for robots that keep failing outside the lab",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-16T04:30:31+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/hong-kong-builds-a-test-track-for-robots-that-keep-failing-outside-the-lab-20261016/"
+      }
+    ],
     "ai": [
       {
         "title": "Employers are buying AI tools. Their managers are being left behind",
@@ -126,78 +249,6 @@
         "url": "https://e27.co/defa-cuts-the-cost-of-entry-your-architecture-sets-the-cost-of-scale-20261012/"
       }
     ],
-    "security": [
-      {
-        "title": "[UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T09:54:02+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3922"
-      },
-      {
-        "title": "[UPDATE] [hoch] Fortinet FortiSandbox: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T09:54:01+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3940"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-16T09:15:00+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU96928590/"
-      },
-      {
-        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T09:00:51+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952"
-      },
-      {
-        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T10:45:51+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4002"
-      },
-      {
-        "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T10:45:51+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4003"
-      },
-      {
-        "title": "[NEU] [kritisch] BeyondTrust Remote Support: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T10:45:51+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4001"
-      },
-      {
-        "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T09:54:03+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3905"
-      },
-      {
-        "title": "[UPDATE] [hoch] Adobe Photoshop: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T09:54:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3931"
-      },
-      {
-        "title": "[UPDATE] [mittel] Erlang/OTP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T09:00:52+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3964"
-      }
-    ],
     "general": [
       {
         "title": "M 4.9 - 31 km ENE of Kinablangan, Philippines",
@@ -270,44 +321,14 @@
         "url": "https://www.cnn.co.jp/business/35253632.html"
       }
     ],
-    "geopolitics": [
-      {
-        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T10:45:51+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4002"
-      },
-      {
-        "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T10:45:51+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4003"
-      },
-      {
-        "title": "[NEU] [kritisch] BeyondTrust Remote Support: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T10:45:51+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4001"
-      },
-      {
-        "title": "The US$82,000 Illusion: Why Bitcoin still trades like a traditional tech stock",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-16T04:49:12+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/the-us82000-illusion-why-bitcoin-still-trades-like-a-traditional-tech-stock-20261016/"
-      },
-      {
-        "title": "Hong Kong builds a test track for robots that keep failing outside the lab",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-16T04:30:31+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/hong-kong-builds-a-test-track-for-robots-that-keep-failing-outside-the-lab-20261016/"
-      }
-    ],
     "github": [
+      {
+        "title": "[NEU] [hoch] Sonatype Nexus Repository Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T11:20:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4004"
+      },
       {
         "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
         "source": "GitHub Changelog Atom",
