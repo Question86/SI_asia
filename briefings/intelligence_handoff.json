@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-16T04:53:19Z",
+  "generated_at": "2026-10-16T05:14:46Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU96928590/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-16T09:15:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://e27.co/hong-kong-builds-a-test-track-for-robots-that-keep-failing-outside-the-lab-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T04:30:31+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -66,7 +66,7 @@
       "url": "https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T03:16:20+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -92,7 +92,7 @@
       "url": "https://zenn.dev/solvio/articles/6d374a9224327a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T01:48:54+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -120,7 +120,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261016-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-16T01:28:39+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -145,7 +145,7 @@
       "url": "https://jvn.jp/vu/JVNVU96928590/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 119.12,
+      "age_days": 119.14,
       "topics": [
         "general"
       ],
@@ -172,7 +172,7 @@
       "url": "https://openai.com/index/sullivan-cromwell",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 120.34,
+      "age_days": 120.35,
       "topics": [],
       "dynamics_score": 19.0,
       "raw_band": "watch",
@@ -187,7 +187,7 @@
       "why": [
         "momentum delta +3",
         "AXI0M/User-Yps identity hit",
-        "aging penalty -8.0 for 120.3d old signal",
+        "aging penalty -8.0 for 120.4d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -198,7 +198,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2148594.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T01:28:39+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "infra"
       ],
@@ -223,7 +223,7 @@
       "url": "https://e27.co/defa-cuts-the-cost-of-entry-your-architecture-sets-the-cost-of-scale-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T02:00:21+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "macro"
       ],
@@ -249,7 +249,7 @@
       "url": "https://openai.com/index/sullivan-cromwell",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-15T00:00:00+00:00",
-      "age_days": 1.2,
+      "age_days": 1.22,
       "topics": [
         "ai"
       ],
@@ -271,11 +271,35 @@
       "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
     },
     {
+      "title": "Why a small Gulf currency matters for Partior’s Southeast Asian ambitions",
+      "url": "https://e27.co/why-a-small-gulf-currency-matters-for-partiors-southeast-asian-ambitions-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-16T04:23:28+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Employers are buying AI tools. Their managers are being left behind",
       "url": "https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T03:12:44+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -296,30 +320,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Thirty-seven per cent. Eleven per cent. Those two numbers, tucked deep inside Jobstreet by SEEK’s Singapore Workplace Culture Study 2026, may say more about the region’s productivity problem than any headline about AI or inflation. The first is the share of employees who try to manage workplace pressure by quietly dra…"
-    },
-    {
-      "title": "Why Indonesian fintech’s ASEAN expansion cost more than anyone priced in",
-      "url": "https://e27.co/why-indonesian-fintechs-asean-expansion-cost-more-than-anyone-priced-in-20261015/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-16T01:02:54+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
