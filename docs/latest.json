@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T01:02:52+00:00",
-  "run_id": "2026-10-16T01:02:52+00:00",
+  "generated_at": "2026-10-16T01:28:36+00:00",
+  "run_id": "2026-10-16T01:28:36+00:00",
   "date": "2026-10-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 2,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 1,
-    "observe": 3,
+    "observe": 5,
     "source_errors": 0
   },
   "sections": {
@@ -94,6 +94,47 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a3779e55f680c2228f6f"
+      },
+      {
+        "title": "古川大臣記者会見（令和8年10月16日）動画を掲載しました",
+        "url": "https://www.digital.go.jp/speech/minister-261016-01",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-16T01:13:41+00:00",
+        "fetched_at": "2026-10-16T01:28:04+00:00",
+        "summary": "古川大臣記者会見（令和8年10月16日）動画を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0d928b614740b6ed093d"
+      },
+      {
+        "title": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2148594.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-15T23:16:45+00:00",
+        "fetched_at": "2026-10-16T01:28:04+00:00",
+        "summary": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2b170c2d8b434a9b8f60"
       },
       {
         "title": "速くて安いAI「Jev」でQAを自動化してみた - every Tech Blog",
@@ -184,6 +225,47 @@
       "id": "a3779e55f680c2228f6f"
     },
     {
+      "title": "古川大臣記者会見（令和8年10月16日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261016-01",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-16T01:13:41+00:00",
+      "fetched_at": "2026-10-16T01:28:04+00:00",
+      "summary": "古川大臣記者会見（令和8年10月16日）動画を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0d928b614740b6ed093d"
+    },
+    {
+      "title": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2148594.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-15T23:16:45+00:00",
+      "fetched_at": "2026-10-16T01:28:04+00:00",
+      "summary": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2b170c2d8b434a9b8f60"
+    },
+    {
       "title": "速くて安いAI「Jev」でQAを自動化してみた - every Tech Blog",
       "url": "https://tech.every.tv/entry/2026/10/15/125805",
       "source": "Hatena Bookmark Hotentry IT",
@@ -207,54 +289,33 @@
   ],
   "new_findings": [
     {
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "source": "OpenAI News RSS",
+      "title": "古川大臣記者会見（令和8年10月16日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261016-01",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "fetched_at": "2026-10-16T01:02:22+00:00",
-      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "472d43009a747d288453"
-    },
-    {
-      "title": "Why Indonesian fintech’s ASEAN expansion cost more than anyone priced in",
-      "url": "https://e27.co/why-indonesian-fintechs-asean-expansion-cost-more-than-anyone-priced-in-20261015/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-16T01:00:43+00:00",
-      "fetched_at": "2026-10-16T01:02:22+00:00",
-      "summary": "Indonesian fintech expansion into ASEAN looks different in 2026 than it did when Investree opened its Thailand operations in 2018 and its Philippines unit shortly after. The cohort of Indonesian platforms that pushed beyond the domestic market between 2018 and 2022 (Investree, Modalku, several payment players, a handful of insurtechs) encountered a structural cost that […] The post Why Indonesian fintech’s ASEAN exp…",
+      "published_at": "2026-10-16T01:13:41+00:00",
+      "fetched_at": "2026-10-16T01:28:04+00:00",
+      "summary": "古川大臣記者会見（令和8年10月16日）動画を掲載しました",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia, Thailand, Philippines (+2.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a3779e55f680c2228f6f"
+      "id": "0d928b614740b6ed093d"
     },
     {
-      "title": "速くて安いAI「Jev」でQAを自動化してみた - every Tech Blog",
-      "url": "https://tech.every.tv/entry/2026/10/15/125805",
+      "title": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2148594.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-15T09:51:51+00:00",
-      "fetched_at": "2026-10-16T01:02:22+00:00",
-      "summary": "はじめに こんにちは！株式会社エブリーで1ヶ月間、iOS エンジニアとしてインターンをしていた木村風葉です。ヘルシカの iOS チームで、食事記録まわりの改善や無料会員向けの機能追加など、いくつかの機能開発に取り組みました。 この記事では、インターンの後半に取り組んだ「Jev」という新しいAIを使った検証ツールづ...",
+      "published_at": "2026-10-15T23:16:45+00:00",
+      "fetched_at": "2026-10-16T01:28:04+00:00",
+      "summary": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -266,7 +327,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "219dcac654b9ec5033fe"
+      "id": "2b170c2d8b434a9b8f60"
     }
   ],
   "source_errors": [],

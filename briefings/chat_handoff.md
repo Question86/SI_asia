@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-16T01:02:52+00:00_
+_Generated: 2026-10-16T01:28:36+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `6`
 
 ## Top Signals
 
@@ -29,11 +29,18 @@ _Generated: 2026-10-16T01:02:52+00:00_
 - url: https://e27.co/why-indonesian-fintechs-asean-expansion-cost-more-than-anyone-priced-in-20261015/
 - summary: Indonesian fintech expansion into ASEAN looks different in 2026 than it did when Investree opened its Thailand operations in 2018 and its Philippines unit shortly after. The cohort of Indonesian platforms that pushed beyond the domestic market between 2018 an…
 
-### 4. 速くて安いAI「Jev」でQAを自動化してみた - every Tech Blog
+### 4. 古川大臣記者会見（令和8年10月16日）動画を掲載しました
+- source: Japan Digital Agency News RSS
+- score: `6`
+- published: `2026-10-16T01:13:41+00:00`
+- url: https://www.digital.go.jp/speech/minister-261016-01
+- summary: 古川大臣記者会見（令和8年10月16日）動画を掲載しました
+
+### 5. 2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-10-15T09:51:51+00:00`
-- url: https://tech.every.tv/entry/2026/10/15/125805
-- summary: はじめに こんにちは！株式会社エブリーで1ヶ月間、iOS エンジニアとしてインターンをしていた木村風葉です。ヘルシカの iOS チームで、食事記録まわりの改善や無料会員向けの機能追加など、いくつかの機能開発に取り組みました。 この記事では、インターンの後半に取り組んだ「Jev」という新しいAIを使った検証ツールづ...
+- published: `2026-10-15T23:16:45+00:00`
+- url: https://forest.watch.impress.co.jp/docs/news/2148594.html
+- summary: 2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない
 
 END OF DOCUMENT
