@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T03:37:22+00:00",
+  "generated_at": "2026-10-16T03:51:35+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "updated_at": "2026-10-16T03:37:22+00:00",
+      "updated_at": "2026-10-16T03:51:35+00:00",
       "network_scores": [
-        14.1,
         14.1,
         14.1,
         14.1,
@@ -130,12 +129,13 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 14.33,
+      "rolling_average": 14.26,
       "rolling_peak": 19.2,
       "last_score": 12.1,
-      "z_hint": -2.23
+      "z_hint": -2.16
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -2868,7 +2868,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）",
-      "updated_at": "2026-10-16T03:37:22+00:00",
+      "updated_at": "2026-10-16T03:51:35+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2890,8 +2890,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -3944,9 +3944,8 @@
     },
     "domain:www.nikkei.com": {
       "title": "タイムズカー情報流出、信用機関に悪用防止要請殺到 クレカ発行に手間 - 日本経済新聞",
-      "updated_at": "2026-10-16T03:37:22+00:00",
+      "updated_at": "2026-10-16T03:51:35+00:00",
       "network_scores": [
-        13.1,
         13.1,
         13.1,
         13.1,
@@ -3975,12 +3974,13 @@
         12.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 13.26,
+      "rolling_average": 13.12,
       "rolling_peak": 18.2,
       "last_score": 9.1,
-      "z_hint": -4.16
+      "z_hint": -4.02
     },
     "title:economy-moving-faster-than-our-institutions": {
       "title": "The AI economy is moving faster than our institutions",
@@ -5143,9 +5143,8 @@
     },
     "domain:pic.x.com": {
       "title": "「スパムのメールヘッダ偽装にニュータイプ出てきた」楽天カードを持っていないのに公式アドレスからの送信だと誤認…Xで報告が相次ぐ「ドメインだけでは判断できない」",
-      "updated_at": "2026-10-16T03:37:22+00:00",
+      "updated_at": "2026-10-16T03:51:35+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -5174,12 +5173,13 @@
         9.2,
         9.2,
         9.2,
-        10.1
+        10.1,
+        7.1
       ],
       "rolling_average": 8.07,
       "rolling_peak": 12.2,
-      "last_score": 10.1,
-      "z_hint": 2.03
+      "last_score": 7.1,
+      "z_hint": -0.97
     },
     "earthquake:m 4.7 - fiji region:4.7": {
       "title": "M 4.7 - Fiji region",
@@ -75914,7 +75914,7 @@
     },
     "title:why-indonesian-fintech-asean-expansion-cost-more-than": {
       "title": "Why Indonesian fintech’s ASEAN expansion cost more than anyone priced in",
-      "updated_at": "2026-10-16T03:37:22+00:00",
+      "updated_at": "2026-10-16T03:51:35+00:00",
       "network_scores": [
         12.1,
         9.1,
@@ -75923,16 +75923,54 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.47,
+      "rolling_average": 9.43,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "title:jev-every-tech-blog": {
       "title": "速くて安いAI「Jev」でQAを自動化してみた - every Tech Blog",
-      "updated_at": "2026-10-16T03:37:22+00:00",
+      "updated_at": "2026-10-16T03:51:35+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.43,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.33
+    },
+    "url:https://www.digital.go.jp/speech/minister-261016-01": {
+      "title": "古川大臣記者会見（令和8年10月16日）動画を掲載しました",
+      "updated_at": "2026-10-16T03:51:35+00:00",
+      "network_scores": [
+        11.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1
+      ],
+      "rolling_average": 8.47,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -0.38
+    },
+    "title:2026-windows-update-vpn-ntlmv1": {
+      "title": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない",
+      "updated_at": "2026-10-16T03:51:35+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -75948,116 +75986,99 @@
       "last_score": 7.1,
       "z_hint": -0.38
     },
-    "url:https://www.digital.go.jp/speech/minister-261016-01": {
-      "title": "古川大臣記者会見（令和8年10月16日）動画を掲載しました",
-      "updated_at": "2026-10-16T03:37:22+00:00",
-      "network_scores": [
-        11.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1
-      ],
-      "rolling_average": 8.53,
-      "rolling_peak": 11.1,
-      "last_score": 8.1,
-      "z_hint": -0.43
-    },
-    "title:2026-windows-update-vpn-ntlmv1": {
-      "title": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない",
-      "updated_at": "2026-10-16T03:37:22+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.53,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.43
-    },
     "title:localllm-claude-code": {
       "title": "【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証",
-      "updated_at": "2026-10-16T03:37:22+00:00",
+      "updated_at": "2026-10-16T03:51:35+00:00",
       "network_scores": [
         16.1,
         13.1,
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.6,
+      "rolling_average": 13.53,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:defa-cuts-cost-entry-your-architecture-sets-cost": {
       "title": "DEFA cuts the cost of entry. Your architecture sets the cost of scale",
-      "updated_at": "2026-10-16T03:37:22+00:00",
+      "updated_at": "2026-10-16T03:51:35+00:00",
       "network_scores": [
         11.1,
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.7,
+      "rolling_average": 8.6,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:employers-are-buying-tools-their-managers-are-being": {
       "title": "Employers are buying AI tools. Their managers are being left behind",
-      "updated_at": "2026-10-16T03:37:22+00:00",
+      "updated_at": "2026-10-16T03:51:35+00:00",
       "network_scores": [
         25.1,
+        22.1,
         22.1
       ],
-      "rolling_average": 23.6,
+      "rolling_average": 23.1,
       "rolling_peak": 25.1,
       "last_score": 22.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:before-you-use-predictive-decide-what-decision-should": {
       "title": "Before you use predictive AI, decide what decision it should change",
-      "updated_at": "2026-10-16T03:37:22+00:00",
+      "updated_at": "2026-10-16T03:51:35+00:00",
       "network_scores": [
         13.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 11.6,
+      "rolling_average": 11.1,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "url:https://www.itmedia.co.jp/news/article/2610/16/2000002314/": {
       "title": "「『楽天カード公式』から詐欺メール」報告相次ぐ ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性",
-      "updated_at": "2026-10-16T03:37:22+00:00",
+      "updated_at": "2026-10-16T03:51:35+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.1,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:multi-repo-support-other-improvements-github-copilot-slack": {
       "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-      "updated_at": "2026-10-16T03:37:22+00:00",
+      "updated_at": "2026-10-16T03:51:35+00:00",
       "network_scores": [
-        11.1
+        11.1,
+        8.1
       ],
-      "rolling_average": 11.1,
+      "rolling_average": 9.6,
       "rolling_peak": 11.1,
-      "last_score": 11.1,
+      "last_score": 8.1,
+      "z_hint": -1.5
+    },
+    "earthquake:m 6.9 - 76 km ne of ozernovskiy, russia:6.9": {
+      "title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
+      "updated_at": "2026-10-16T03:51:35+00:00",
+      "network_scores": [
+        16.7
+      ],
+      "rolling_average": 16.7,
+      "rolling_peak": 16.7,
+      "last_score": 16.7,
       "z_hint": 0.0
     }
   }

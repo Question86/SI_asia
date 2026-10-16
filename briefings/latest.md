@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T03:37:19+00:00_
+_Generiert: 2026-10-16T03:51:31+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „Employers are buying AI tools. Their managers are being left behind“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+15 neue relevante Treffer. Stärkstes Signal: „Employers are buying AI tools. Their managers are being left behind“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,6 +41,10 @@ _Generiert: 2026-10-16T03:37:19+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Libya
+- **USGS earthquake M6.9 - 76 km NE of Ozernovskiy, Russia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq)
+  - Quelle: USGS
+  - Zeit: `2026-10-16T03:35:32+00:00`
+  - Kurz: M6.9 - 76 km NE of Ozernovskiy, Russia. PAGER alert: none. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:1km) in United States 15/10/2026 11:07 UTC, 9 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571732)
   - Quelle: GDACS
   - Zeit: ``
@@ -98,6 +102,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.9 - 76 km NE of Ozernovskiy, Russia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-16T03:50:50.963+00:00`, fetched `2026-10-16T03:50:53+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - VI Time 2026-10-16 03:35:32 UTC 2026-10-16 03:35:32 UTC at epicenter Location 52.007°N 157.250°E Depth 143.18 km (88.97 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証** — Score 11, observation — [Quelle](https://zenn.dev/solvio/articles/6d374a9224327a)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-15T12:35:58+00:00`, fetched `2026-10-16T01:48:22+00:00`

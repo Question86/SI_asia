@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-16T03:37:22+00:00_
+_Generiert: 2026-10-16T03:51:35+00:00_
 
 ## Employers are buying AI tools. Their managers are being left behind
 
