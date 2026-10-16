@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T11:53:51+00:00",
+  "generated_at": "2026-10-16T12:01:49+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -397,7 +397,7 @@
       "p90_usd": 1096000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T07:59:58+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -1529,7 +1529,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-31T04:36:22+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -2889,7 +2889,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-16T03:51:35+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -4368,7 +4368,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-16T04:59:34+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -6121,6 +6121,23 @@
       "first_seen_at": "2026-09-26T18:49:37+00:00",
       "last_seen_at": "2026-09-26T23:56:49+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_819e1b55834b621eb5a2",
+      "title": "M 4.8 - 7 km WSW of Soconusco, Mexico",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_822c5dcd33ef6ec098a0",
@@ -8129,23 +8146,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_819e1b55834b621eb5a2",
-      "title": "M 4.8 - 7 km WSW of Soconusco, Mexico",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-16T11:53:33+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -8159,7 +8159,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -8312,7 +8312,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -9723,8 +9723,8 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-14T21:01:59+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2bf1e7d57306cb9b7c1c",
@@ -9910,7 +9910,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -10709,7 +10709,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:16:20+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -11202,7 +11202,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -11848,7 +11848,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -13888,7 +13888,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T09:32:59+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -14807,7 +14807,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:48:54+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -15742,7 +15742,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -19330,7 +19330,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T04:23:28+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -19704,7 +19704,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:16:20+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -20368,7 +20368,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T04:51:14+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -20504,7 +20504,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T06:07:02+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -20878,7 +20878,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:02:54+00:00",
-      "last_seen_at": "2026-10-16T11:53:33+00:00",
+      "last_seen_at": "2026-10-16T12:01:33+00:00",
       "status": "active"
     },
     {
@@ -22528,7 +22528,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T06:07:02+00:00",
       "last_seen_at": "2026-10-16T11:53:33+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_fdf22df040ccf2aa1416",
