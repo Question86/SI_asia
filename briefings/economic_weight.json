@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T05:34:43+00:00",
+  "generated_at": "2026-10-16T06:07:18+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2889,7 +2889,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-16T03:51:35+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -4368,7 +4368,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-16T04:59:34+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -8142,8 +8142,8 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-15T23:57:11+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_b380be2049a414b6cdc6",
@@ -8295,7 +8295,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -10692,7 +10692,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:16:20+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -11185,7 +11185,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -11831,7 +11831,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -14773,7 +14773,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:48:54+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -19296,7 +19296,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T04:23:28+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -19670,7 +19670,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:16:20+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -20334,7 +20334,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T04:51:14+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -20827,7 +20827,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:02:54+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -20880,6 +20880,23 @@
       "first_seen_at": "2026-09-14T07:35:53+00:00",
       "last_seen_at": "2026-09-14T09:28:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_59882159775de94451d0",
+      "title": "Ecosystem Roundup: Singapore’s always-on workers are performing to an empty room",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "labor"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-16T06:07:02+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_01f8d7013bd851003572",
@@ -21133,7 +21150,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T04:38:20+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -21286,7 +21303,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T04:23:28+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -21422,7 +21439,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:37:22+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -21762,7 +21779,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T02:01:03+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -21932,7 +21949,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:28:39+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -22478,6 +22495,23 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_fdb7e3f8e41ed157deae",
+      "title": "保育提供体制に関するダッシュボードを更新しました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-16T06:07:02+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -23922,7 +23956,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:16:20+00:00",
       "last_seen_at": "2026-10-16T05:34:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_67c97d7b18f6ee0a0029",
@@ -24686,7 +24720,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T06:55:31+00:00",
-      "last_seen_at": "2026-10-16T05:34:22+00:00",
+      "last_seen_at": "2026-10-16T06:07:02+00:00",
       "status": "active"
     },
     {
@@ -24874,7 +24908,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:02:54+00:00",
       "last_seen_at": "2026-10-16T05:34:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a641b624695a1b313674",
@@ -25214,7 +25248,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:28:39+00:00",
       "last_seen_at": "2026-10-16T05:34:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_bf9ad2541e7b1fb42cca",
