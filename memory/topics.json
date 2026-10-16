@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-16T11:46:16+00:00",
+  "generated_at": "2026-10-16T11:53:30+00:00",
   "topics": {
     "security": [
       {
@@ -54,6 +54,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952"
       },
       {
+        "title": "[NEU] [mittel] Mattermost: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T11:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4009"
+      },
+      {
         "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-16T11:25:51+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-16T11:25:51+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4006"
-      },
-      {
-        "title": "[NEU] [hoch] Sonatype Nexus Repository Manager: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T11:20:51+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4004"
       }
     ],
     "geopolitics": [
@@ -96,6 +96,13 @@
         "published_at": "2026-10-16T11:30:51+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4007"
+      },
+      {
+        "title": "[NEU] [mittel] Mattermost: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T11:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4009"
       },
       {
         "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen",
@@ -138,13 +145,6 @@
         "published_at": "2026-10-16T10:45:51+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4001"
-      },
-      {
-        "title": "The US$82,000 Illusion: Why Bitcoin still trades like a traditional tech stock",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-16T04:49:12+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/the-us82000-illusion-why-bitcoin-still-trades-like-a-traditional-tech-stock-20261016/"
       }
     ],
     "ai": [
@@ -286,6 +286,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq"
       },
       {
+        "title": "M 4.8 - 7 km WSW of Soconusco, Mexico",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-16T11:52:45.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ph"
+      },
+      {
         "title": "M 4.7 - 95 km SW of Brisas Barra de Suchiate, Mexico",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-16T04:56:50.040+00:00",
@@ -333,13 +340,6 @@
         "published_at": "2026-10-16T05:56:04+00:00",
         "relevance_score": 5,
         "url": "https://news.web.nhk/newsweb/na/nd-20261016de60395"
-      },
-      {
-        "title": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-16T05:18:18+00:00",
-        "relevance_score": 5,
-        "url": "https://www.cnn.co.jp/business/35253632.html"
       }
     ],
     "github": [

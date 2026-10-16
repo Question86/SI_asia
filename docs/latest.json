@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T11:46:16+00:00",
-  "run_id": "2026-10-16T11:46:16+00:00",
+  "generated_at": "2026-10-16T11:53:30+00:00",
+  "run_id": "2026-10-16T11:53:30+00:00",
   "date": "2026-10-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 50
+      "configured_public_sources_only": 52
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 50,
-    "displayed_findings": 50,
+    "new_relevant_findings": 2,
+    "today_file_total": 52,
+    "displayed_findings": 52,
     "high": 1,
-    "medium": 20,
-    "observe": 29,
+    "medium": 21,
+    "observe": 30,
     "source_errors": 0
   },
   "sections": {
@@ -281,6 +281,29 @@
           "LOW"
         ],
         "id": "509dfe38c1663bd5fa30"
+      },
+      {
+        "title": "[NEU] [mittel] Mattermost: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4009",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-16T11:45:51+00:00",
+        "fetched_at": "2026-10-16T11:52:59+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "71ba2d41c18339924c6c"
       },
       {
         "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen",
@@ -660,6 +683,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "472d43009a747d288453"
+      },
+      {
+        "title": "M 4.8 - 7 km WSW of Soconusco, Mexico",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ph",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-16T11:52:45.040+00:00",
+        "fetched_at": "2026-10-16T11:52:59+00:00",
+        "summary": "Time 2026-10-16 11:39:44 UTC 2026-10-16 11:39:44 UTC at epicenter Location 15.278°N 92.788°W Depth 108.91 km (67.67 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "5ee0a44672e61aea46ee"
       },
       {
         "title": "M 4.7 - 95 km SW of Brisas Barra de Suchiate, Mexico",
@@ -1471,6 +1530,29 @@
       "id": "509dfe38c1663bd5fa30"
     },
     {
+      "title": "[NEU] [mittel] Mattermost: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4009",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-16T11:45:51+00:00",
+      "fetched_at": "2026-10-16T11:52:59+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "71ba2d41c18339924c6c"
+    },
+    {
       "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4005",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1846,6 +1928,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "472d43009a747d288453"
+    },
+    {
+      "title": "M 4.8 - 7 km WSW of Soconusco, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ph",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-16T11:52:45.040+00:00",
+      "fetched_at": "2026-10-16T11:52:59+00:00",
+      "summary": "Time 2026-10-16 11:39:44 UTC 2026-10-16 11:39:44 UTC at epicenter Location 15.278°N 92.788°W Depth 108.91 km (67.67 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5ee0a44672e61aea46ee"
     },
     {
       "title": "M 4.7 - 95 km SW of Brisas Barra de Suchiate, Mexico",
@@ -2404,28 +2522,63 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4008",
+      "title": "[NEU] [mittel] Mattermost: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4009",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-16T11:35:51+00:00",
-      "fetched_at": "2026-10-16T11:45:40+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder Root-Rechte zu erlangen.",
+      "published_at": "2026-10-16T11:45:51+00:00",
+      "fetched_at": "2026-10-16T11:52:59+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Linux",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "86d936e21da1f218d18f"
+      "id": "71ba2d41c18339924c6c"
+    },
+    {
+      "title": "M 4.8 - 7 km WSW of Soconusco, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ph",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-16T11:52:45.040+00:00",
+      "fetched_at": "2026-10-16T11:52:59+00:00",
+      "summary": "Time 2026-10-16 11:39:44 UTC 2026-10-16 11:39:44 UTC at epicenter Location 15.278°N 92.788°W Depth 108.91 km (67.67 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5ee0a44672e61aea46ee"
     }
   ],
   "source_errors": [],

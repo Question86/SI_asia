@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T11:46:20+00:00",
-  "today_file_total": 50,
+  "generated_at": "2026-10-16T11:53:33+00:00",
+  "today_file_total": 52,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -17,15 +17,15 @@
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3922",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3940",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4005"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4009"
       ],
-      "finding_count": 17,
+      "finding_count": 18,
       "max_score": 16,
-      "credibility_total": 17.85,
+      "credibility_total": 18.9,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 54.7,
+      "network_score": 56.8,
       "hot": true,
       "watchgraph_modules": [
         "cyber_active_exploitation"
@@ -122,6 +122,31 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 17.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:m 4.8 - 7 km wsw of soconusco, mexico:4.8",
+      "title": "M 4.8 - 7 km WSW of Soconusco, Mexico",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ph"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -444,29 +469,6 @@
       ],
       "urls": [
         "https://www.digital.go.jp/resources/govdashboard/childcare"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:hong-kong-builds-test-track-robots-that-keep",
-      "title": "Hong Kong builds a test track for robots that keep failing outside the lab",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/hong-kong-builds-a-test-track-for-robots-that-keep-failing-outside-the-lab-20261016/"
       ],
       "finding_count": 1,
       "max_score": 6,
