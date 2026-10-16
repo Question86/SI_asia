@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T04:38:37+00:00",
+  "generated_at": "2026-10-16T04:51:33+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2889,7 +2889,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-16T03:51:35+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -8278,7 +8278,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -10675,7 +10675,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:16:20+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -11168,7 +11168,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -11814,7 +11814,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -14756,7 +14756,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:48:54+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -19279,7 +19279,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T04:23:28+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -19653,7 +19653,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:16:20+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -20792,7 +20792,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:02:54+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -20845,6 +20845,24 @@
       "first_seen_at": "2026-09-14T07:35:53+00:00",
       "last_seen_at": "2026-09-14T09:28:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_154512d216cfce2e8049",
+      "title": "The US$82,000 Illusion: Why Bitcoin still trades like a traditional tech stock",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "market_valuation",
+        "trade"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-16T04:51:14+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_01f8d7013bd851003572",
@@ -21085,6 +21103,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_2a401916db2ce129213f",
+      "title": "Hong Kong builds a test track for robots that keep failing outside the lab",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2d18a66abe8acb1c3665",
       "title": "松本大臣記者会見（令和8年9月4日）動画を掲載しました",
       "event_classes": [
@@ -21234,7 +21269,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T04:23:28+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -21370,7 +21405,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:37:22+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -21710,7 +21745,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T02:01:03+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -21880,7 +21915,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:28:39+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -22426,23 +22461,6 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_2a401916db2ce129213f",
-      "title": "Hong Kong builds a test track for robots that keep failing outside the lab",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108800.0,
-      "p50_usd": 10880000.0,
-      "p90_usd": 1088000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-16T04:38:20+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -23886,7 +23904,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:16:20+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -24651,7 +24669,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T06:55:31+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -24838,7 +24856,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:02:54+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
@@ -25178,7 +25196,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:28:39+00:00",
-      "last_seen_at": "2026-10-16T04:38:20+00:00",
+      "last_seen_at": "2026-10-16T04:51:14+00:00",
       "status": "active"
     },
     {
