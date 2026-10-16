@@ -1,29 +1,105 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-16T09:51:46Z",
+  "generated_at": "2026-10-16T10:14:18Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 4,
+      "krass": 8,
       "strong": 8,
-      "watch": 20,
-      "quiet": 8
+      "watch": 22,
+      "quiet": 2
     },
     "bands_after_gate_recheck": {
-      "strong": 12,
-      "watch": 20,
-      "quiet": 8
+      "krass": 3,
+      "strong": 13,
+      "watch": 22,
+      "quiet": 2
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3922",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-16T09:54:02+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft PowerToys, Microsoft Power Apps und Microsoft Apps ausnutzen, um erweiterte Berechtigungen – einschließlich Administratorrechte – zu erlangen, beliebigen Code auszuführen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Fortinet FortiSandbox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3940",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-16T09:54:01+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, exploitation, fortinet",
+        "security high-signal: active, exploitation, fortinet"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiSandbox ausnutzen, um einen Denial of Service Angriff durchzuführen, Informationen offenzulegen und Sicherheitsmaßnahmen zu umgehen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3905",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-16T09:54:03+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
+    },
     {
       "title": "[UPDATE] [mittel] Erlang/OTP: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3964",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T09:00:52+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -47,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3860",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T07:15:51+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -71,7 +147,7 @@
       "url": "https://jvn.jp/vu/JVNVU96928590/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-16T09:15:00+09:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -93,11 +169,37 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "[UPDATE] [hoch] Adobe Photoshop: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3931",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-16T09:54:01+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Photoshop ausnutzen, um beliebigen Programmcode auszuführen und Denial of Service Attacken durchzuführen."
+    },
+    {
       "title": "[UPDATE] [hoch] OPNsense: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2177",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T06:45:51+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -123,7 +225,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3926",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T05:55:51+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -149,7 +251,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T09:00:51+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -170,11 +272,11 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um eine Heap-Beschädigung oder einen Denial-of-Service-Zustand auszulösen."
     },
     {
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952",
+      "title": "[UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3922",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 48.82,
+      "age_days": 48.84,
       "topics": [
         "security"
       ],
@@ -184,12 +286,13 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
+      "momentum_delta": 4,
+      "baseline_z_hint": 10.51,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3",
+        "momentum delta +4",
+        "baseline z_hint 10.51",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 48.8d old signal",
@@ -202,7 +305,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/childcare",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-16T06:00:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -227,7 +330,7 @@
       "url": "https://e27.co/hong-kong-builds-a-test-track-for-robots-that-keep-failing-outside-the-lab-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T04:30:31+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -252,7 +355,7 @@
       "url": "https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T03:16:20+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -278,7 +381,7 @@
       "url": "https://zenn.dev/solvio/articles/6d374a9224327a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T01:48:54+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -306,7 +409,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261016-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-16T01:28:39+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -331,7 +434,7 @@
       "url": "https://jvn.jp/vu/JVNVU96928590/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 119.33,
+      "age_days": 119.34,
       "topics": [
         "general"
       ],
@@ -358,7 +461,7 @@
       "url": "https://openai.com/index/sullivan-cromwell",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 120.55,
+      "age_days": 120.56,
       "topics": [],
       "dynamics_score": 19.0,
       "raw_band": "watch",
@@ -373,7 +476,7 @@
       "why": [
         "momentum delta +3",
         "AXI0M/User-Yps identity hit",
-        "aging penalty -8.0 for 120.5d old signal",
+        "aging penalty -8.0 for 120.6d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -384,7 +487,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2148594.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T01:28:39+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "infra"
       ],
@@ -409,7 +512,7 @@
       "url": "https://e27.co/defa-cuts-the-cost-of-entry-your-architecture-sets-the-cost-of-scale-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T02:00:21+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "macro"
       ],
@@ -435,7 +538,7 @@
       "url": "https://openai.com/index/sullivan-cromwell",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-15T00:00:00+00:00",
-      "age_days": 1.41,
+      "age_days": 1.43,
       "topics": [
         "ai"
       ],
@@ -461,7 +564,7 @@
       "url": "https://e27.co/why-a-small-gulf-currency-matters-for-partiors-southeast-asian-ambitions-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T04:23:28+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -485,7 +588,7 @@
       "url": "https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T03:12:44+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -512,7 +615,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2n4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-16T04:56:50.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -537,7 +640,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2n4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-16T04:59:34+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -561,7 +664,7 @@
       "url": "https://e27.co/ecosystem-roundup-singapores-always-on-workers-are-performing-to-an-empty-room-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T06:07:02+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -585,7 +688,7 @@
       "url": "https://e27.co/the-us82000-illusion-why-bitcoin-still-trades-like-a-traditional-tech-stock-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T04:51:14+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -609,7 +712,7 @@
       "url": "https://e27.co/why-indonesian-fintechs-asean-expansion-cost-more-than-anyone-priced-in-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T01:02:54+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -633,7 +736,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/childcare",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-16T06:07:02+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -657,7 +760,7 @@
       "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-16T03:37:22+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -681,7 +784,7 @@
       "url": "https://e27.co/defa-cuts-the-cost-of-entry-your-architecture-sets-the-cost-of-scale-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T02:01:03+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -705,7 +808,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2p2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-16T09:34:45.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "disaster"
@@ -729,11 +832,59 @@
       "summary": "Time 2026-10-16 09:13:44 UTC 2026-10-16 09:13:44 UTC at epicenter Location 7.839°N 126.799°E Depth 73.71 km (45.80 mi)"
     },
     {
+      "title": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60395",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-16T09:15:36+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目",
+      "url": "https://www.cnn.co.jp/business/35253632.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-16T09:32:59+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Tesla、新型「Roadster」発表 SpaceX技術で“飛べる”モデルも 日本でも予約受付中",
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T06:38:23+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -757,7 +908,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002314/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T03:16:20+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -781,22 +932,22 @@
       "url": "https://e27.co/what-does-chatgpt-say-about-your-brand-miracly-raises-us2m-to-find-out-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T09:32:59+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 13.5,
+      "dynamics_score": 13.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -807,7 +958,7 @@
       "url": "https://e27.co/ecosystem-roundup-singapores-always-on-workers-are-performing-to-an-empty-room-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T05:41:15+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -827,63 +978,11 @@
       "summary": "Singapore’s office workers answer a 10.47pm message within 90 seconds to prove their commitment. Their bosses barely notice. The Jobstreet by SEEK Singapore Workplace Culture Study 2026, which surveyed 600 employees and jobseekers and 200 hiring decision makers, finds that 63% of staff signal dedication by replying fa…"
     },
     {
-      "title": "M 4.9 - 31 km ENE of Kinablangan, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2p2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-31T04:36:22+00:00",
-      "age_days": 46.22,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 11.59,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 46.2d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60395",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-16T09:15:36+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-16T03:50:50.963+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "disaster"
@@ -911,7 +1010,7 @@
       "url": "https://zenn.dev/solvio/articles/6d374a9224327a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T12:35:58+00:00",
-      "age_days": 0.89,
+      "age_days": 0.9,
       "topics": [
         "ai"
       ],
@@ -932,105 +1031,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Claude CodeはAmazon BedrockやGoogle Cloudなどを通して、自社で契約したクラウドから使うこともできます。この場合、モデルとの通信先はAnthropicではなく、契約したクラウド事業者（AWSやGoogle Cloudなど）になります。この記事では、Anthropicのクラウドを直接使う場合で比較しています。 AIによるコーディング支援..."
-    },
-    {
-      "title": "古川大臣記者会見（令和8年10月16日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261016-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-16T01:13:41+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "古川大臣記者会見（令和8年10月16日）動画を掲載しました"
-    },
-    {
-      "title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-16T03:51:35+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60395",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-16T05:56:04+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "宅配大手のヤマト運輸は、代金を後払いするサービスに不正アクセスがあり、530万件余りの個人情報が外部に流出したことを確認したと明らかにしました。 流出が確認されたのは、2018年10月1日から202…"
-    },
-    {
-      "title": "Tesla、新型「Roadster」発表 SpaceX技術で“飛べる”モデルも 日本でも予約受付中",
-      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-16T02:55:17+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "米Teslaは10月15日（現地時間）、次世代EVスポーツカー「Roadster」を発表した。米テキサス州マクレガーにある米SpaceXの試験施設からイベントをライブ配信した。イーロン・マスクCEOは2028年の生産開始を目指すと説明した。価格は明らかにしていないが、日本でも公式サイトで予約を受け付けており、予約金合計は682万円..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Erlang/OTP: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }
