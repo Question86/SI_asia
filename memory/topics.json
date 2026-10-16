@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-16T14:15:23+00:00",
+  "generated_at": "2026-10-16T14:47:14+00:00",
   "topics": {
     "security": [
       {
@@ -293,6 +293,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq"
       },
       {
+        "title": "M 5.0 - Auckland Islands, New Zealand region",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-16T14:32:55.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2q5"
+      },
+      {
         "title": "M 4.9 - 119 km SSW of Merizo Village, Guam",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-16T12:16:21.040+00:00",
@@ -340,13 +347,6 @@
         "published_at": "2026-10-15T21:42:04+00:00",
         "relevance_score": 7,
         "url": "https://www.nikkei.com/article/DGXZQOUC084IG0Y6A001C2000000/"
-      },
-      {
-        "title": "保育提供体制に関するダッシュボードを更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-10-16T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/resources/govdashboard/childcare"
       }
     ],
     "github": [
@@ -356,6 +356,13 @@
         "published_at": "2026-10-16T11:20:51+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4004"
+      },
+      {
+        "title": "Open source license compliance generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-16T14:00:32+00:00",
+        "relevance_score": 7,
+        "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available"
       },
       {
         "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
