@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T04:23:25+00:00_
+_Generiert: 2026-10-16T04:38:17+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Employers are buying AI tools. Their managers are being left behind“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+18 neue relevante Treffer. Stärkstes Signal: „Employers are buying AI tools. Their managers are being left behind“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -132,7 +132,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `cert_fr_alerts` (rss): HTTPSConnectionPool(host='www.cert.ssi.gouv.fr', port=443): Max retries exceeded with url: /alerte/feed/ (Caused by NewConnectionError("HTTPSConnection(host='www.cert.ssi.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))

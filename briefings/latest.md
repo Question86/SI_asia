@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T04:23:25+00:00_
+_Generiert: 2026-10-16T04:38:17+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Employers are buying AI tools. Their managers are being left behind“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+18 neue relevante Treffer. Stärkstes Signal: „Employers are buying AI tools. Their managers are being left behind“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,10 @@ _Generiert: 2026-10-16T04:23:25+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-14`
   - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Palo Alto Networks PAN-OS Code Injection Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.9M, Depth:143.176km) in Russia 16/10/2026 03:35 UTC, 10 thousand in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571917)
+- **GDACS: Green earthquake (Magnitude 6.9M, Depth:143.176km) in Russia 16/10/2026 03:35 UTC, 10 thousand in MMI&gt;=V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571917)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.9M, Depth:143.176km) in Russia 16/10/2026 03:35 UTC, 10 thousand in MMI V.
+  - Kurz: Green earthquake (Magnitude 6.9M, Depth:143.176km) in Russia 16/10/2026 03:35 UTC, 10 thousand in MMI&gt;=V.
 - **GDACS: Green earthquake (Magnitude 6.8M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571305)
   - Quelle: GDACS
   - Zeit: ``
@@ -205,7 +205,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `cert_fr_alerts` (rss): HTTPSConnectionPool(host='www.cert.ssi.gouv.fr', port=443): Max retries exceeded with url: /alerte/feed/ (Caused by NewConnectionError("HTTPSConnection(host='www.cert.ssi.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
