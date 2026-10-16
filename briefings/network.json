@@ -1,56 +1,52 @@
 {
-  "generated_at": "2026-10-16T09:15:36+00:00",
+  "generated_at": "2026-10-16T09:32:59+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 31,
-    "clusters": 27,
+    "findings": 33,
+    "clusters": 29,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 0,
+    "early_signals": 1,
     "dominance_penalized": 3
   },
   "clusters": [
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
+      "key": "title:what-does-chatgpt-say-about-your-brand-miracly",
+      "title": "What does ChatGPT say about your brand? Miracly raises US$2M to find out",
       "sources": [
-        "BSI CERT-Bund Security Advisories"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3964",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3860",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2177",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3926"
+        "https://e27.co/what-does-chatgpt-say-about-your-brand-miracly-raises-us2m-to-find-out-20261016/"
       ],
-      "finding_count": 5,
-      "max_score": 16,
-      "credibility_total": 5.25,
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 22.5,
+      "network_score": 21.5,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 32.5,
-      "ranking_score": 22.5,
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 21.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 5.0,
+      "momentum_bonus": 2.5,
       "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
+      "first_seen_at": "2026-10-16T09:32:59+00:00"
     },
     {
       "key": "title:employers-are-buying-tools-their-managers-are-being",
@@ -89,6 +85,48 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-16T03:16:20+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3964",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3860",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2177",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3926"
+      ],
+      "finding_count": 5,
+      "max_score": 16,
+      "credibility_total": 5.25,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 26.5,
+      "ranking_score": 17.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -203,45 +241,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-17T20:44:40+00:00"
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
-      "sources": [
-        "BIS Press Releases"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 13.1,
-      "ranking_score": 10.5,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "earthquake:m 6.9 - 76 km ne of ozernovskiy, russia:6.9",
@@ -361,8 +360,8 @@
       "first_seen_at": "2026-10-16T03:16:20+00:00"
     },
     {
-      "key": "title:530-nhk",
-      "title": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース",
+      "key": "url:https://www.cnn.co.jp/business/35253632.html",
+      "title": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -370,7 +369,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://news.web.nhk/newsweb/na/nd-20261016de60395"
+        "https://www.cnn.co.jp/business/35253632.html"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -396,7 +395,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-10-16T09:15:36+00:00"
+      "first_seen_at": "2026-10-16T09:32:59+00:00"
     },
     {
       "key": "title:ecosystem-roundup-singapore-always-workers-are-performing-empty",
@@ -592,6 +591,45 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-10-16T04:59:34+00:00"
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
+      "sources": [
+        "BIS Press Releases"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 8.0,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "url:https://www.digital.go.jp/resources/govdashboard/childcare",
@@ -820,6 +858,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-16T01:28:39+00:00"
+    },
+    {
+      "key": "title:530-nhk",
+      "title": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60395"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-16T09:15:36+00:00"
     },
     {
       "key": "domain:orangestar2.hatenadiary.com",
@@ -1052,7 +1128,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-16T09:15:36Z",
+    "generated_at": "2026-10-16T09:33:00Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

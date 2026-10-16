@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T09:15:36+00:00",
-  "today_file_total": 31,
+  "generated_at": "2026-10-16T09:32:59+00:00",
+  "today_file_total": 33,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -22,9 +22,9 @@
       "max_score": 16,
       "credibility_total": 5.25,
       "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 32.5,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 26.5,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -76,6 +76,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "title:what-does-chatgpt-say-about-your-brand-miracly",
+      "title": "What does ChatGPT say about your brand? Miracly raises US$2M to find out",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/what-does-chatgpt-say-about-your-brand-miracly-raises-us2m-to-find-out-20261016/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "earthquake:m 6.9 - 76 km ne of ozernovskiy, russia:6.9",
       "title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
       "sources": [
@@ -118,29 +141,6 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
-      "sources": [
-        "BIS Press Releases"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
       "network_score": 13.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -241,8 +241,31 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:530-nhk",
-      "title": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース",
+      "key": "domain:www.bis.org",
+      "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
+      "sources": [
+        "BIS Press Releases"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://www.cnn.co.jp/business/35253632.html",
+      "title": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -250,7 +273,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://news.web.nhk/newsweb/na/nd-20261016de60395"
+        "https://www.cnn.co.jp/business/35253632.html"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -437,29 +460,6 @@
       ],
       "urls": [
         "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:defa-cuts-cost-entry-your-architecture-sets-cost",
-      "title": "DEFA cuts the cost of entry. Your architecture sets the cost of scale",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/defa-cuts-the-cost-of-entry-your-architecture-sets-the-cost-of-scale-20261012/"
       ],
       "finding_count": 1,
       "max_score": 6,

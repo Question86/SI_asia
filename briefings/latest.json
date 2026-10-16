@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-16T09:15:32+00:00",
-  "run_id": "2026-10-16T09:15:32+00:00",
+  "generated_at": "2026-10-16T09:32:56+00:00",
+  "run_id": "2026-10-16T09:32:56+00:00",
   "date": "2026-10-16",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 31
+      "configured_public_sources_only": 33
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "new_relevant_findings": 2,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 0,
     "medium": 7,
-    "observe": 24,
-    "source_errors": 0
+    "observe": 26,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -193,6 +193,27 @@
       }
     ],
     "observe": [
+      {
+        "title": "What does ChatGPT say about your brand? Miracly raises US$2M to find out",
+        "url": "https://e27.co/what-does-chatgpt-say-about-your-brand-miracly-raises-us2m-to-find-out-20261016/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-16T09:29:17+00:00",
+        "fetched_at": "2026-10-16T09:32:18+00:00",
+        "summary": "For two decades, marketers obsessed over a single question: where do we rank on Google? A growing number now ask a stranger one: what does ChatGPT say about us when we are not in the room? The Wild Ventures, the Swedish-founded company behind home decor brand Wild Palace, is betting that question will turn into […] The post What does ChatGPT say about your brand? Miracly raises US$2M to find out appeared first on e2…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e3e0e39e497374a1bd54"
+      },
       {
         "title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq",
@@ -640,6 +661,27 @@
         "id": "12aaefc0743927d87bad"
       },
       {
+        "title": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目",
+        "url": "https://www.cnn.co.jp/business/35253632.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-16T05:18:18+00:00",
+        "fetched_at": "2026-10-16T09:32:18+00:00",
+        "summary": "オーバーハングした路面を離れ、ジェット噴射で空中での姿勢を制御するテスラの「ロードスター」/Youtube/@Tesla （CNN） 米電気自動車（EV）大手テスラのイーロン・マスク最高経営責任者（CEO）は15日、SFやアニメの世界だけのものだった「空飛ぶ車」をお披露目した。 マスク氏が経営するもう一つの上場企業、スペースX...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "27086b25db0e3a310b9c"
+      },
+      {
         "title": "Tesla、新型「Roadster」発表 SpaceX技術で“飛べる”モデルも 日本でも予約受付中",
         "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -908,6 +950,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3606296cb16c2b42dcd6"
+    },
+    {
+      "title": "What does ChatGPT say about your brand? Miracly raises US$2M to find out",
+      "url": "https://e27.co/what-does-chatgpt-say-about-your-brand-miracly-raises-us2m-to-find-out-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-16T09:29:17+00:00",
+      "fetched_at": "2026-10-16T09:32:18+00:00",
+      "summary": "For two decades, marketers obsessed over a single question: where do we rank on Google? A growing number now ask a stranger one: what does ChatGPT say about us when we are not in the room? The Wild Ventures, the Swedish-founded company behind home decor brand Wild Palace, is betting that question will turn into […] The post What does ChatGPT say about your brand? Miracly raises US$2M to find out appeared first on e2…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e3e0e39e497374a1bd54"
     },
     {
       "title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
@@ -1356,6 +1419,27 @@
       "id": "12aaefc0743927d87bad"
     },
     {
+      "title": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目",
+      "url": "https://www.cnn.co.jp/business/35253632.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-16T05:18:18+00:00",
+      "fetched_at": "2026-10-16T09:32:18+00:00",
+      "summary": "オーバーハングした路面を離れ、ジェット噴射で空中での姿勢を制御するテスラの「ロードスター」/Youtube/@Tesla （CNN） 米電気自動車（EV）大手テスラのイーロン・マスク最高経営責任者（CEO）は15日、SFやアニメの世界だけのものだった「空飛ぶ車」をお披露目した。 マスク氏が経営するもう一つの上場企業、スペースX...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "27086b25db0e3a310b9c"
+    },
+    {
       "title": "Tesla、新型「Roadster」発表 SpaceX技術で“飛べる”モデルも 日本でも予約受付中",
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1463,81 +1547,34 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "What does ChatGPT say about your brand? Miracly raises US$2M to find out",
+      "url": "https://e27.co/what-does-chatgpt-say-about-your-brand-miracly-raises-us2m-to-find-out-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-16T09:00:51+00:00",
-      "fetched_at": "2026-10-16T09:14:55+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um eine Heap-Beschädigung oder einen Denial-of-Service-Zustand auszulösen.",
+      "published_at": "2026-10-16T09:29:17+00:00",
+      "fetched_at": "2026-10-16T09:32:18+00:00",
+      "summary": "For two decades, marketers obsessed over a single question: where do we rank on Google? A growing number now ask a stranger one: what does ChatGPT say about us when we are not in the room? The Wild Ventures, the Swedish-founded company behind home decor brand Wild Palace, is betting that question will turn into […] The post What does ChatGPT say about your brand? Miracly raises US$2M to find out appeared first on e2…",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
+        "APAC Trend Radar",
+        "OpenAI"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f415458973e0b8316a7b"
+      "id": "e3e0e39e497374a1bd54"
     },
     {
-      "title": "[UPDATE] [mittel] Erlang/OTP: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3964",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-16T09:00:52+00:00",
-      "fetched_at": "2026-10-16T09:14:55+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Erlang/OTP ausnutzen, um Sicherheitsvorkehrungen zu umgehen oder einen Denial of Service zu verursachen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fc32778b13bdd836656c"
-    },
-    {
-      "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
-      "url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
-      "source": "BIS Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "fetched_at": "2026-10-16T09:14:55+00:00",
-      "summary": "The Basel Committee on Banking Supervision today published final amendments to address window dressing in the G-SIB framework and a consultation on the G-SIB methodology review.",
-      "matched_keywords": [
-        "Basel",
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); Basel (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e49708302771148cd033"
-    },
-    {
-      "title": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60395",
+      "title": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目",
+      "url": "https://www.cnn.co.jp/business/35253632.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-16T05:56:04+00:00",
-      "fetched_at": "2026-10-16T09:14:55+00:00",
-      "summary": "宅配大手のヤマト運輸は、代金を後払いするサービスに不正アクセスがあり、530万件余りの個人情報が外部に流出したことを確認したと明らかにしました。 流出が確認されたのは、2018年10月1日から202…",
+      "published_at": "2026-10-16T05:18:18+00:00",
+      "fetched_at": "2026-10-16T09:32:18+00:00",
+      "summary": "オーバーハングした路面を離れ、ジェット噴射で空中での姿勢を制御するテスラの「ロードスター」/Youtube/@Tesla （CNN） 米電気自動車（EV）大手テスラのイーロン・マスク最高経営責任者（CEO）は15日、SFやアニメの世界だけのものだった「空飛ぶ車」をお披露目した。 マスク氏が経営するもう一つの上場企業、スペースX...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1549,10 +1586,17 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "13e490529dbaaded34a2"
+      "id": "27086b25db0e3a310b9c"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "ecb_yield_curve",
+      "source_name": "ECB Euro Area Yield Curve",
+      "source_type": "rss",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
