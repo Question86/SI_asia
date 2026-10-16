@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-16T10:36:58+00:00",
+  "generated_at": "2026-10-16T10:48:03+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,27 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952"
       },
       {
+        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4002"
+      },
+      {
+        "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4003"
+      },
+      {
+        "title": "[NEU] [kritisch] BeyondTrust Remote Support: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4001"
+      },
+      {
         "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-16T09:54:03+00:00",
@@ -175,27 +196,6 @@
         "published_at": "2026-10-16T09:00:52+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3964"
-      },
-      {
-        "title": "[UPDATE] [niedrig] CUPS: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T07:15:51+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3860"
-      },
-      {
-        "title": "[UPDATE] [hoch] OPNsense: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T06:45:51+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2177"
-      },
-      {
-        "title": "[UPDATE] [hoch] Adobe Experience Manager: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T05:55:51+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3926"
       }
     ],
     "general": [
@@ -249,6 +249,13 @@
         "url": "https://www.digital.go.jp/speech/minister-261016-01"
       },
       {
+        "title": "ソースネクスト パスワード暗号化がない状態で流出 再設定を | NHKニュース",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-16T09:05:24+00:00",
+        "relevance_score": 5,
+        "url": "https://news.web.nhk/newsweb/na/nd-20261016de60556"
+      },
+      {
         "title": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-16T05:56:04+00:00",
@@ -261,16 +268,30 @@
         "published_at": "2026-10-16T05:18:18+00:00",
         "relevance_score": 5,
         "url": "https://www.cnn.co.jp/business/35253632.html"
-      },
-      {
-        "title": "Windows 11、8GBメモリのPCも軽快に 基本メモリ使用量を削減",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-16T04:58:22+00:00",
-        "relevance_score": 5,
-        "url": "https://www.watch.impress.co.jp/docs/news/2148683.html"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4002"
+      },
+      {
+        "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4003"
+      },
+      {
+        "title": "[NEU] [kritisch] BeyondTrust Remote Support: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4001"
+      },
       {
         "title": "The US$82,000 Illusion: Why Bitcoin still trades like a traditional tech stock",
         "source": "e27 Asia Startup and Tech Feed",
