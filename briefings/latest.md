@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T13:23:25+00:00_
+_Generiert: 2026-10-16T13:37:09+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
+62 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -258,32 +258,32 @@ _Generiert: 2026-10-16T13:23:25+00:00_
   - Warum relevant: Macro/Policy (+5.0); Basel (+2.5); recent (+1.0)
   - Kurz: The Basel Committee on Banking Supervision today published final amendments to address window dressing in the G-SIB framework and a consultation on the G-SIB methodology review.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **タイムズカー情報流出、信用機関に悪用防止要請殺到 クレカ発行に手間 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC084IG0Y6A001C2000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-15T21:42:04+00:00`, fetched `2026-10-16T02:28:44+00:00`
-  - Treffer: Hatena, hotentry
+- **Multiples vulnérabilités dans les produits Adobe (14 octobre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1301/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-14T00:00:00+00:00`, fetched `2026-10-16T13:36:39+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: パーク24のカーシェアサービス「タイムズカー」における免許証画像流出を受け、信用情報機関に悪用防止の届け出が殺到している。クレジットカードの審査を厳格にして、なりすましを防ぐためだ。一方、本人でも発行までに手間がかかる可能性がある。システムへの不正アクセスによってタイムズカーでは約160万件分の免許証...
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **保育提供体制に関するダッシュボードを更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/childcare)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-16T06:00:00+00:00`, fetched `2026-10-16T06:06:28+00:00`
-  - Treffer: APAC Trend Radar
+- **Multiples vulnérabilités dans Xen (14 octobre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1302/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-14T00:00:00+00:00`, fetched `2026-10-16T13:36:39+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 保育提供体制に関するダッシュボードを更新しました
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Xen. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-10-16T02:16:35+00:00`, fetched `2026-10-16T03:36:48+00:00`
-  - Treffer: Copilot, GitHub
+- **Vulnérabilité dans Schneider Electric Harmony (13 octobre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1299/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-16T13:36:39+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: Multi-repo support in Slack and Microsoft Teams GitHub Copilot in Slack and Microsoft Teams now supports working across multiple repositories in a single conversation. Whether you’re tracking pull requests, investigating… The post Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams appeared first on The GitHub Blog .
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans Schneider Electric Harmony. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
