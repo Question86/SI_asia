@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-16T11:24:23+00:00_
+_Generated: 2026-10-16T11:35:15+00:00_
 
 ## Status
-- status: `warning`
-- findings: `46`
+- status: `normal`
+- findings: `49`
 
 ## Top Signals
 
@@ -22,26 +22,26 @@ _Generated: 2026-10-16T11:24:23+00:00_
 - url: https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/
 - summary: Thirty-seven per cent. Eleven per cent. Those two numbers, tucked deep inside Jobstreet by SEEK’s Singapore Workplace Culture Study 2026, may say more about the region’s productivity problem than any headline about AI or inflation. The first is the share of e…
 
-### 3. [UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen
+### 3. [NEU] [UNGEPATCHT] [mittel] PJSIP: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-16T11:30:51+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4007
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in PJSIP ausnutzen, um einen Denial of Service Angriff durchzuführen oder Informationen offenzulegen.
+
+### 4. [UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-16T09:54:02+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3922
 - summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft PowerToys, Microsoft Power Apps und Microsoft Apps ausnutzen, um erweiterte Berechtigungen – einschließlich Administratorrechte – zu erlangen, beliebigen Code auszuführen, Daten zu manipulieren oder einen…
 
-### 4. [UPDATE] [hoch] Fortinet FortiSandbox: Mehrere Schwachstellen
+### 5. [UPDATE] [hoch] Fortinet FortiSandbox: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-16T09:54:01+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3940
 - summary: Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiSandbox ausnutzen, um einen Denial of Service Angriff durchzuführen, Informationen offenzulegen und Sicherheitsmaßnahmen zu umgehen.
-
-### 5. CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-10-16T09:15:00+09:00`
-- url: https://jvn.jp/vu/JVNVU96928590/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
 ### 6. What does ChatGPT say about your brand? Miracly raises US$2M to find out
 - source: e27 Asia Startup and Tech Feed
