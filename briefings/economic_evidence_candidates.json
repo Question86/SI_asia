@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T08:29:03+00:00",
-  "candidate_count": 1987,
+  "generated_at": "2026-10-16T09:16:08+00:00",
+  "candidate_count": 1989,
   "candidates": [
     {
       "amount_native": 2000000000000.0,
@@ -28577,6 +28577,24 @@
       "source_url": "https://www.bis.org/publications/202604-commentary-ibs-gli"
     },
     {
+      "candidate_id": "cand_d787862960a0f8ade0c5",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
+      "observed_at": "2026-10-16T09:16:01+00:00",
+      "currency": "EUR",
+      "amount_native": 350000000000.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "the revised standard will be implemented by 1 January 2030. In addition, the Committee has agreed to increase the G-SIB reporting and disclosure threshold from EUR 200 billion to EUR 350 billion in leverage ratio exposure measure, to be implemented from 2027. Separately, as part of the Committee's periodic review of the G-SIB assessment methodology , the Committee is cons",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 312000000000.0,
       "amount_usd": 312000000000.0,
       "attribution_probability": null,
@@ -28701,6 +28719,24 @@
       "snippet": "ant Scheme to fuel the momentum. Subsidies had been granted to over 700 green and sustainable debt instruments issued in Hong Kong, with a total underlying issuance volume of over US$200 billion. Additional forces Two forces make all the ripples I mentioned travel further and faster: technology and collaboration. Technology is a powerful multiplier. By anchoring finance i",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/speeches/20260930-good-practices-green-finance-southeast-asia"
+    },
+    {
+      "candidate_id": "cand_0fe03f52035980e0c27a",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
+      "observed_at": "2026-10-16T09:16:01+00:00",
+      "currency": "EUR",
+      "amount_native": 200000000000.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "reporting process, the revised standard will be implemented by 1 January 2030. In addition, the Committee has agreed to increase the G-SIB reporting and disclosure threshold from EUR 200 billion to EUR 350 billion in leverage ratio exposure measure, to be implemented from 2027. Separately, as part of the Committee's periodic review of the G-SIB assessment methodology , th",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 192000000000.0,
