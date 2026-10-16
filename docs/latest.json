@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T17:32:45+00:00",
-  "run_id": "2026-10-16T17:32:45+00:00",
+  "generated_at": "2026-10-16T17:43:28+00:00",
+  "run_id": "2026-10-16T17:43:28+00:00",
   "date": "2026-10-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 68,
     "displayed_findings": 68,
     "high": 1,
@@ -3342,29 +3342,7 @@
       "id": "219dcac654b9ec5033fe"
     }
   ],
-  "new_findings": [
-    {
-      "title": "漏えいが起きたときに最初に読んでほしい章を、発売前に公開します - 思い出したいことがある",
-      "url": "https://www.seko-law.com/entry/reort",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-16T12:50:09+00:00",
-      "fetched_at": "2026-10-16T17:32:16+00:00",
-      "summary": "1.今日のテーマ 今回は、2026年11月30日に有斐閣から発売される『個人情報保護法に基づくインシデント対応の実務』の一部を、発売に先駆けてこのブログで公開します。 公開するのは、本書第1部第1章「総論」の手元原稿です。インシデント対応の全体の流れと本書の読み方に加えて、個人情報保護委員会への報告フォームを1...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "82285ac9405ee0f1f107"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
