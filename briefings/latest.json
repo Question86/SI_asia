@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T07:59:07+00:00",
-  "run_id": "2026-10-16T07:59:07+00:00",
+  "generated_at": "2026-10-16T08:28:32+00:00",
+  "run_id": "2026-10-16T08:28:32+00:00",
   "date": "2026-10-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 27
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 1,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 5,
-    "observe": 21,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -528,6 +528,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0d928b614740b6ed093d"
+      },
+      {
+        "title": "『note組大きくリードしてます。はてな組も頑張ってください』 - orangestar2",
+        "url": "https://orangestar2.hatenadiary.com/entry/2026/10/16/140905",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-16T05:54:14+00:00",
+        "fetched_at": "2026-10-16T08:28:05+00:00",
+        "summary": "p.hatena.ne.jp 2026年10月6日に公開されたnoteの3Q決算説明資料を今更ながら確認した。はっきり言って衝撃だった。 全部の数字がすごかった。特に印象に残った数字を抜き出すと以下だ。 売上高14.53億円、前年同期比35.1%増 営業利益3.10億円、前年同期比約3倍。営業利益率21.3% 従業員数161人→151人。AIを積極的に活用...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "12aaefc0743927d87bad"
       },
       {
         "title": "Tesla、新型「Roadster」発表 SpaceX技術で“飛べる”モデルも 日本でも予約受付中",
@@ -1136,6 +1157,27 @@
       "id": "0d928b614740b6ed093d"
     },
     {
+      "title": "『note組大きくリードしてます。はてな組も頑張ってください』 - orangestar2",
+      "url": "https://orangestar2.hatenadiary.com/entry/2026/10/16/140905",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-16T05:54:14+00:00",
+      "fetched_at": "2026-10-16T08:28:05+00:00",
+      "summary": "p.hatena.ne.jp 2026年10月6日に公開されたnoteの3Q決算説明資料を今更ながら確認した。はっきり言って衝撃だった。 全部の数字がすごかった。特に印象に残った数字を抜き出すと以下だ。 売上高14.53億円、前年同期比35.1%増 営業利益3.10億円、前年同期比約3倍。営業利益率21.3% 従業員数161人→151人。AIを積極的に活用...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "12aaefc0743927d87bad"
+    },
+    {
       "title": "Tesla、新型「Roadster」発表 SpaceX技術で“飛べる”モデルも 日本でも予約受付中",
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1241,7 +1283,29 @@
       "id": "219dcac654b9ec5033fe"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "『note組大きくリードしてます。はてな組も頑張ってください』 - orangestar2",
+      "url": "https://orangestar2.hatenadiary.com/entry/2026/10/16/140905",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-16T05:54:14+00:00",
+      "fetched_at": "2026-10-16T08:28:05+00:00",
+      "summary": "p.hatena.ne.jp 2026年10月6日に公開されたnoteの3Q決算説明資料を今更ながら確認した。はっきり言って衝撃だった。 全部の数字がすごかった。特に印象に残った数字を抜き出すと以下だ。 売上高14.53億円、前年同期比35.1%増 営業利益3.10億円、前年同期比約3倍。営業利益率21.3% 従業員数161人→151人。AIを積極的に活用...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "12aaefc0743927d87bad"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
