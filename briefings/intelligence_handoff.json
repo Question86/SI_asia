@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-16T07:42:28Z",
+  "generated_at": "2026-10-16T07:54:24Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] CUPS: Mehrere Schwachstellen ermöglichen Denial of Service” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3860",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T07:15:51+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU96928590/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-16T09:15:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2177",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T06:45:51+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -91,7 +91,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3926",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T05:55:51+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -117,7 +117,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/childcare",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-16T06:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -142,7 +142,7 @@
       "url": "https://e27.co/hong-kong-builds-a-test-track-for-robots-that-keep-failing-outside-the-lab-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T04:30:31+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -167,7 +167,7 @@
       "url": "https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T03:16:20+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -221,7 +221,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261016-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-16T01:28:39+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -246,7 +246,7 @@
       "url": "https://jvn.jp/vu/JVNVU96928590/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 119.24,
+      "age_days": 119.25,
       "topics": [
         "general"
       ],
@@ -273,7 +273,7 @@
       "url": "https://openai.com/index/sullivan-cromwell",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 120.46,
+      "age_days": 120.47,
       "topics": [],
       "dynamics_score": 19.0,
       "raw_band": "watch",
@@ -299,7 +299,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2148594.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T01:28:39+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "infra"
       ],
