@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T01:28:39+00:00",
+  "generated_at": "2026-10-16T01:48:54+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "updated_at": "2026-10-16T01:28:39+00:00",
+      "updated_at": "2026-10-16T01:48:54+00:00",
       "network_scores": [
-        14.1,
         14.1,
         14.1,
         14.1,
@@ -130,12 +129,13 @@
         16.2,
         16.2,
         15.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 14.73,
+      "rolling_average": 14.66,
       "rolling_peak": 19.2,
       "last_score": 12.1,
-      "z_hint": -2.63
+      "z_hint": -2.56
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -2868,7 +2868,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）",
-      "updated_at": "2026-10-16T01:28:39+00:00",
+      "updated_at": "2026-10-16T01:48:54+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2896,8 +2896,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1
       ],
@@ -75914,19 +75914,45 @@
     },
     "title:why-indonesian-fintech-asean-expansion-cost-more-than": {
       "title": "Why Indonesian fintech’s ASEAN expansion cost more than anyone priced in",
-      "updated_at": "2026-10-16T01:28:39+00:00",
+      "updated_at": "2026-10-16T01:48:54+00:00",
       "network_scores": [
         12.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 10.6,
+      "rolling_average": 10.1,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:jev-every-tech-blog": {
       "title": "速くて安いAI「Jev」でQAを自動化してみた - every Tech Blog",
-      "updated_at": "2026-10-16T01:28:39+00:00",
+      "updated_at": "2026-10-16T01:48:54+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 8.1,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -1.0
+    },
+    "url:https://www.digital.go.jp/speech/minister-261016-01": {
+      "title": "古川大臣記者会見（令和8年10月16日）動画を掲載しました",
+      "updated_at": "2026-10-16T01:48:54+00:00",
+      "network_scores": [
+        11.1,
+        8.1
+      ],
+      "rolling_average": 9.6,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -1.5
+    },
+    "title:2026-windows-update-vpn-ntlmv1": {
+      "title": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない",
+      "updated_at": "2026-10-16T01:48:54+00:00",
       "network_scores": [
         10.1,
         7.1
@@ -75936,26 +75962,15 @@
       "last_score": 7.1,
       "z_hint": -1.5
     },
-    "url:https://www.digital.go.jp/speech/minister-261016-01": {
-      "title": "古川大臣記者会見（令和8年10月16日）動画を掲載しました",
-      "updated_at": "2026-10-16T01:28:39+00:00",
+    "title:localllm-claude-code": {
+      "title": "【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証",
+      "updated_at": "2026-10-16T01:48:54+00:00",
       "network_scores": [
-        11.1
+        16.1
       ],
-      "rolling_average": 11.1,
-      "rolling_peak": 11.1,
-      "last_score": 11.1,
-      "z_hint": 0.0
-    },
-    "title:2026-windows-update-vpn-ntlmv1": {
-      "title": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない",
-      "updated_at": "2026-10-16T01:28:39+00:00",
-      "network_scores": [
-        10.1
-      ],
-      "rolling_average": 10.1,
-      "rolling_peak": 10.1,
-      "last_score": 10.1,
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
       "z_hint": 0.0
     }
   }
