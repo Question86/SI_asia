@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T03:51:31+00:00",
-  "run_id": "2026-10-16T03:51:31+00:00",
+  "generated_at": "2026-10-16T03:59:24+00:00",
+  "run_id": "2026-10-16T03:59:24+00:00",
   "date": "2026-10-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 15,
     "displayed_findings": 15,
     "high": 0,
@@ -701,45 +701,7 @@
       "id": "219dcac654b9ec5033fe"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-16T03:50:50.963+00:00",
-      "fetched_at": "2026-10-16T03:50:53+00:00",
-      "summary": "ShakeMap - VI Time 2026-10-16 03:35:32 UTC 2026-10-16 03:35:32 UTC at epicenter Location 52.007°N 157.250°E Depth 143.18 km (88.97 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "6a05c5660c6c21fcc21e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

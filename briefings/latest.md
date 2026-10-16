@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T03:51:31+00:00_
+_Generiert: 2026-10-16T03:59:24+00:00_
 
 ## Kurzlage
 
@@ -29,6 +29,10 @@ _Generiert: 2026-10-16T03:51:31+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-14`
   - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Palo Alto Networks PAN-OS Code Injection Vulnerability
+- **GDACS: Green earthquake (Magnitude 6.9M, Depth:143.176km) in Russia 16/10/2026 03:35 UTC, 10 thousand in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571917)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.9M, Depth:143.176km) in Russia 16/10/2026 03:35 UTC, 10 thousand in MMI V.
 - **GDACS: Green earthquake (Magnitude 6.8M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571305)
   - Quelle: GDACS
   - Zeit: ``
@@ -44,7 +48,7 @@ _Generiert: 2026-10-16T03:51:31+00:00_
 - **USGS earthquake M6.9 - 76 km NE of Ozernovskiy, Russia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq)
   - Quelle: USGS
   - Zeit: `2026-10-16T03:35:32+00:00`
-  - Kurz: M6.9 - 76 km NE of Ozernovskiy, Russia. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M6.9 - 76 km NE of Ozernovskiy, Russia. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:1km) in United States 15/10/2026 11:07 UTC, 9 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571732)
   - Quelle: GDACS
   - Zeit: ``
