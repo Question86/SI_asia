@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T09:33:16+00:00",
+  "generated_at": "2026-10-16T09:47:17+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1529,8 +1529,8 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-31T04:36:22+00:00",
-      "last_seen_at": "2026-09-28T23:58:45+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_74f0f1c56f8e7f996c36",
@@ -2889,7 +2889,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-16T03:51:35+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -4368,7 +4368,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-16T04:59:34+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -8142,7 +8142,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -8295,7 +8295,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -9893,7 +9893,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -10692,7 +10692,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:16:20+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -11185,7 +11185,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -11831,7 +11831,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -13858,6 +13858,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_59dcb3fe9b7bac68165a",
+      "title": "What does ChatGPT say about your brand? Miracly raises US$2M to find out",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_5e839ef2f65d6d8cf77f",
       "title": "Why Southeast Asia’s next healthtech winners will be built around healthcare workflows, not just AI",
       "event_classes": [
@@ -14607,23 +14624,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_59dcb3fe9b7bac68165a",
-      "title": "What does ChatGPT say about your brand? Miracly raises US$2M to find out",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-16T09:32:59+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_017a730364c807861d1b",
       "title": "Gemini 4 Argon in GitHub Copilot",
       "event_classes": [
@@ -14790,7 +14790,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:48:54+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -19313,7 +19313,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T04:23:28+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -19687,7 +19687,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:16:20+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -20351,7 +20351,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T04:51:14+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -20487,7 +20487,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T06:07:02+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -20861,7 +20861,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:02:54+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -21167,7 +21167,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T04:38:20+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -21320,7 +21320,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T04:23:28+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -21456,7 +21456,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:37:22+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -22510,7 +22510,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T06:07:02+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:46:58+00:00",
       "status": "active"
     },
     {
@@ -23293,6 +23293,23 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T06:12:03+00:00",
       "last_seen_at": "2026-10-09T08:25:31+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_37073614552c957af89b",
+      "title": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-16T09:32:59+00:00",
+      "last_seen_at": "2026-10-16T09:32:59+00:00",
       "status": "dormant"
     },
     {
@@ -26388,23 +26405,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_37073614552c957af89b",
-      "title": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-16T09:32:59+00:00",
-      "last_seen_at": "2026-10-16T09:32:59+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
