@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T19:55:12+00:00",
+  "generated_at": "2026-10-16T20:03:33+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -9526,7 +9526,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_86f41fe2294390412625",
@@ -13036,6 +13036,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_ba497fd6de181a20dd8d",
+      "title": "M 5.2 - off the coast of Ecuador",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_baf4486bb9471ac8077d",
