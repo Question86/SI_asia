@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T09:16:08+00:00",
+  "generated_at": "2026-10-16T09:33:33+00:00",
   "fx_as_of": null,
-  "candidate_count": 1989,
+  "candidate_count": 1992,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 1989
+    "pending": 1992
   },
   "coverage_warning": null,
   "candidates": [
@@ -24111,6 +24111,48 @@
       "source_url": "https://e27.co/ecosystem-roundup-singapores-always-on-workers-are-performing-to-an-empty-room-20261016/"
     },
     {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_2503aa9c099211fcfbdf",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_59dcb3fe9b7bac68165a",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-16T09:33:21+00:00",
+      "overlap_group_suggestion": "evt_59dcb3fe9b7bac68165a:capital_allocation:16a051a7b684",
+      "review_status": "pending",
+      "snippet": "data Defi E-Commerce Hardware Retail Artificial Intelligence Cryptocurrency Education Healthtech Software As A Service View all Startups --> POSTS STARTUPS Tech Innovators secured $50 million in funding from Venture Capitalist Alpha, paving the way for groundbreaking advancements in artificial intelligence. Discover the power of AI in transforming your daily tasks! Wit",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/what-does-chatgpt-say-about-your-brand-miracly-raises-us2m-to-find-out-20261016/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_fa2049e4efd39dfdc602",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_59dcb3fe9b7bac68165a",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-16T09:33:21+00:00",
+      "overlap_group_suggestion": "evt_59dcb3fe9b7bac68165a:capital_allocation:f3a8ffe32888",
+      "review_status": "pending",
+      "snippet": "cial intelligence. Discover the power of AI in transforming your daily tasks! With intelligent algorithms, we enhance productivity and streamline workflows. AI Innovations Secures $50 Million in Funding from Visionary Investor Experience the future with AI-driven solutions that simplify complex processes and boost efficiency in your work environment. View all Posts Xam",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/what-does-chatgpt-say-about-your-brand-miracly-raises-us2m-to-find-out-20261016/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 44000000.0,
       "amount_usd": 44000000.0,
       "attribution_probability": null,
@@ -30164,6 +30206,27 @@
       "snippet": "NASA-linked, MIT-trained founders' nSWX raises US$2M for AI chip packaging | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email address Go to Edit Profile Send Email Verif",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://e27.co/nasa-linked-mit-trained-founders-nswx-raises-us2m-for-ai-chip-packaging-20260902/"
+    },
+    {
+      "amount_native": 2000000.0,
+      "amount_usd": 2000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_f9a3f1103c3d758c1820",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_59dcb3fe9b7bac68165a",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-16T09:33:21+00:00",
+      "overlap_group_suggestion": "evt_59dcb3fe9b7bac68165a:unknown:e00c347a068f",
+      "review_status": "pending",
+      "snippet": "What does ChatGPT say about your brand? Miracly raises US$2M to find out | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email address Go to Edit Profile Send Email Verification Ad",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/what-does-chatgpt-say-about-your-brand-miracly-raises-us2m-to-find-out-20261016/",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 1700000.0,
@@ -40506,6 +40569,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.35,
       "candidate_id": "cand_0fe03f52035980e0c27a",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "missing_rate",
       "currency": "EUR",
@@ -40516,8 +40580,7 @@
       "review_status": "pending",
       "snippet": "reporting process, the revised standard will be implemented by 1 January 2030. In addition, the Committee has agreed to increase the G-SIB reporting and disclosure threshold from EUR 200 billion to EUR 350 billion in leverage ratio exposure measure, to be implemented from 2027. Separately, as part of the Committee's periodic review of the G-SIB assessment methodology , th",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
-      "component_confidence": 0.0
+      "source_url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib"
     },
     {
       "amount_native": 350000000000.0,
@@ -40525,6 +40588,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.35,
       "candidate_id": "cand_d787862960a0f8ade0c5",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "missing_rate",
       "currency": "EUR",
@@ -40535,8 +40599,7 @@
       "review_status": "pending",
       "snippet": "the revised standard will be implemented by 1 January 2030. In addition, the Committee has agreed to increase the G-SIB reporting and disclosure threshold from EUR 200 billion to EUR 350 billion in leverage ratio exposure measure, to be implemented from 2027. Separately, as part of the Committee's periodic review of the G-SIB assessment methodology , the Committee is cons",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
-      "component_confidence": 0.0
+      "source_url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib"
     }
   ]
 }
