@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T13:24:05+00:00",
+  "generated_at": "2026-10-16T13:37:49+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -1430,7 +1430,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_154dabff1ff7bd83f0c9",
@@ -2852,6 +2852,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_2955ba0eab7e1c9ea00e",
+      "title": "Multiples vulnérabilités dans les produits Siemens (13 octobre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_296368e1aba53a777a57",
       "title": "ベンダによる署名済みUEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
       "deduplicated_buckets": 0,
@@ -3752,6 +3763,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_378032373214d70cd60b",
+      "title": "Multiples vulnérabilités dans Xen (14 octobre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_3798464737d06de06243",
@@ -5294,6 +5316,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4c5c44efcf960d3748b1",
+      "title": "Vulnérabilité dans Schneider Electric Harmony (13 octobre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_4c68b46634dc8a2dccd8",
       "title": "ELYZAの「業務AIアプリをAIで作成」特許、「新規性ない」と批判殺到→謝罪後も収まらず",
       "deduplicated_buckets": 0,
@@ -6149,7 +6182,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_599c941385c78d90af8c",
@@ -6215,7 +6248,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5aab90b0cdfb10faa840",
@@ -7822,6 +7855,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6f7cb0313fc0832c337b",
+      "title": "Multiples vulnérabilités dans les produits SAP (13 octobre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_6f82fedfa747af9655d0",
@@ -9449,7 +9493,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_86f41fe2294390412625",
@@ -11685,6 +11729,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a960fe39de18bfc229f2",
+      "title": "Multiples vulnérabilités dans Mozilla Firefox (13 octobre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_a99b06f3eef925cd2bf7",
       "title": "M 4.6 - 71 km N of Isangel, Vanuatu",
       "deduplicated_buckets": 0,
@@ -12892,7 +12947,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b9e2035b72777801567e",
@@ -14069,7 +14124,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_cc97b4f2aca764ac48ca",
@@ -14719,6 +14774,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d709a3970b6dd8403001",
+      "title": "Multiples vulnérabilités dans les produits Adobe (14 octobre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_d7258f67b47576cb5e16",
