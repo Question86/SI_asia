@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-16T00:34:26Z",
+  "generated_at": "2026-10-16T01:08:19Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU96928590/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-16T09:15:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -37,33 +37,187 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-06-17T20:44:40+00:00",
+      "age_days": 120.18,
+      "topics": [],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.31,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 0.31",
+        "AXI0M/User-Yps identity hit",
+        "aging penalty -8.0 for 120.2d old signal",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）",
       "url": "https://jvn.jp/vu/JVNVU96928590/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 118.94,
+      "age_days": 118.97,
       "topics": [
         "general"
       ],
       "dynamics_score": 19.9,
-      "raw_band": "krass",
+      "raw_band": "strong",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.90",
         "high terms: 10",
-        "aging penalty -8.0 for 118.9d old signal",
-        "krass gate: single-source non-official/non-identity signal capped",
+        "aging penalty -8.0 for 119.0d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
+    },
+    {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "age_days": 1.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
+    },
+    {
+      "title": "Why Indonesian fintech’s ASEAN expansion cost more than anyone priced in",
+      "url": "https://e27.co/why-indonesian-fintechs-asean-expansion-cost-more-than-anyone-priced-in-20261015/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-16T01:02:54+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Why Indonesian fintech’s ASEAN expansion cost more than anyone priced in",
+      "url": "https://e27.co/why-indonesian-fintechs-asean-expansion-cost-more-than-anyone-priced-in-20261015/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-16T01:00:43+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Indonesian fintech expansion into ASEAN looks different in 2026 than it did when Investree opened its Thailand operations in 2018 and its Philippines unit shortly after. The cohort of Indonesian platforms that pushed beyond the domestic market between 2018 and 2022 (Investree, Modalku, several payment players, a handf…"
+    },
+    {
+      "title": "速くて安いAI「Jev」でQAを自動化してみた - every Tech Blog",
+      "url": "https://tech.every.tv/entry/2026/10/15/125805",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-16T01:02:54+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "速くて安いAI「Jev」でQAを自動化してみた - every Tech Blog",
+      "url": "https://tech.every.tv/entry/2026/10/15/125805",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-15T09:51:51+00:00",
+      "age_days": 0.64,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "はじめに こんにちは！株式会社エブリーで1ヶ月間、iOS エンジニアとしてインターンをしていた木村風葉です。ヘルシカの iOS チームで、食事記録まわりの改善や無料会員向けの機能追加など、いくつかの機能開発に取り組みました。 この記事では、インターンの後半に取り組んだ「Jev」という新しいAIを使った検証ツールづ..."
     }
   ],
   "read_order": [
@@ -75,8 +229,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 1,
-      "watch": 1
+      "strong": 2,
+      "watch": 3,
+      "quiet": 3
     }
   }
 }
