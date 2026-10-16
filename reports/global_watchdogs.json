@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-16T17:43:32+00:00",
+  "generated_at": "2026-10-16T17:59:33+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-102764 BeyondTrust Remote Support",
+        "summary": "Known exploited vulnerability. Added 2026-10-16. Due 2026-10-19. BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-10-16",
+        "metrics": {
+          "cve": "CVE-2026-102764"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2025-61624 Fortinet Multiple Products",
+        "summary": "Known exploited vulnerability. Added 2026-10-16. Due 2026-10-19. Fortinet Multiple Products Path Traversal Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-10-16",
+        "metrics": {
+          "cve": "CVE-2025-61624"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -36,30 +60,6 @@
         "published_at": "2026-10-14",
         "metrics": {
           "cve": "CVE-2026-76519"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-105133 Ahsay AhsayCBS",
-        "summary": "Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Ahsay AhsayCBS Improper Authentication Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-14",
-        "metrics": {
-          "cve": "CVE-2026-105133"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-0322 Palo Alto Networks PAN-OS",
-        "summary": "Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Palo Alto Networks PAN-OS Code Injection Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-14",
-        "metrics": {
-          "cve": "CVE-2026-0322"
         }
       },
       {

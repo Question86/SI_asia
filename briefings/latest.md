@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T17:43:28+00:00_
+_Generiert: 2026-10-16T17:59:31+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-10-16T17:43:28+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-102764 BeyondTrust Remote Support** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-16`
+  - Kurz: Known exploited vulnerability. Added 2026-10-16. Due 2026-10-19. BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability
+- **CISA KEV: CVE-2025-61624 Fortinet Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-16`
+  - Kurz: Known exploited vulnerability. Added 2026-10-16. Due 2026-10-19. Fortinet Multiple Products Path Traversal Vulnerability
 - **CISA KEV: CVE-2026-21589 Atlassian Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-15`
@@ -21,14 +29,6 @@ _Generiert: 2026-10-16T17:43:28+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-14`
   - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Cisco Secure Email Gateway Relative Path Traversal Vulnerability
-- **CISA KEV: CVE-2026-105133 Ahsay AhsayCBS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-14`
-  - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Ahsay AhsayCBS Improper Authentication Vulnerability
-- **CISA KEV: CVE-2026-0322 Palo Alto Networks PAN-OS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-14`
-  - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Palo Alto Networks PAN-OS Code Injection Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.9M, Depth:143.176km) in Russia 16/10/2026 03:35 UTC, 10 thousand in MMI&gt;=V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571917)
   - Quelle: GDACS
   - Zeit: ``
