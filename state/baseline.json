@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T09:32:59+00:00",
+  "generated_at": "2026-10-16T09:46:58+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
-        16.2,
         16.2,
         16.2,
         16.2,
@@ -130,12 +129,13 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.75,
+      "rolling_average": 12.61,
       "rolling_peak": 16.2,
       "last_score": 12.1,
-      "z_hint": -0.65
+      "z_hint": -0.51
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -910,7 +910,7 @@
     },
     "domain:www.bis.org": {
       "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         16.2,
         16.2,
@@ -939,14 +939,14 @@
         16.2,
         16.2,
         16.2,
-        16.2,
         13.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 15.89,
+      "rolling_average": 15.69,
       "rolling_peak": 16.2,
       "last_score": 10.1,
-      "z_hint": -5.79
+      "z_hint": -5.59
     },
     "domain:www.federalreserve.gov": {
       "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
@@ -2868,12 +2868,12 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -3944,9 +3944,8 @@
     },
     "domain:www.nikkei.com": {
       "title": "タイムズカー情報流出、信用機関に悪用防止要請殺到 クレカ発行に手間 - 日本経済新聞",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
-        13.1,
         18.2,
         15.2,
         15.2,
@@ -3975,12 +3974,13 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 10.86,
+      "rolling_average": 10.72,
       "rolling_peak": 18.2,
       "last_score": 9.1,
-      "z_hint": -1.76
+      "z_hint": -1.62
     },
     "title:economy-moving-faster-than-our-institutions": {
       "title": "The AI economy is moving faster than our institutions",
@@ -5143,9 +5143,8 @@
     },
     "domain:pic.x.com": {
       "title": "「スパムのメールヘッダ偽装にニュータイプ出てきた」楽天カードを持っていないのに公式アドレスからの送信だと誤認…Xで報告が相次ぐ「ドメインだけでは判断できない」",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
-        12.2,
         9.2,
         9.2,
         9.2,
@@ -5174,12 +5173,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.07,
-      "rolling_peak": 12.2,
+      "rolling_average": 7.9,
+      "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.97
+      "z_hint": -0.8
     },
     "earthquake:m 4.7 - fiji region:4.7": {
       "title": "M 4.7 - Fiji region",
@@ -5839,9 +5839,8 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
-        45.4,
         45.4,
         45.4,
         45.4,
@@ -5870,12 +5869,13 @@
         20.3,
         20.3,
         32.5,
+        26.5,
         26.5
       ],
-      "rolling_average": 37.6,
+      "rolling_average": 36.97,
       "rolling_peak": 45.4,
       "last_score": 26.5,
-      "z_hint": -11.1
+      "z_hint": -10.47
     },
     "title:why-every-warehouse-singapore-will-run-safety-monitoring": {
       "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
@@ -9102,8 +9102,8 @@
       "z_hint": -0.0
     },
     "earthquake:philippines:4.9": {
-      "title": "M 4.9 - 124 km SE of Pondaguitan, Philippines",
-      "updated_at": "2026-09-28T23:58:45+00:00",
+      "title": "M 4.9 - 31 km ENE of Kinablangan, Philippines",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -9134,12 +9134,12 @@
         17.7,
         17.7,
         17.7,
-        17.7
+        20.7
       ],
-      "rolling_average": 17.7,
-      "rolling_peak": 17.7,
-      "last_score": 17.7,
-      "z_hint": 0.0
+      "rolling_average": 17.8,
+      "rolling_peak": 20.7,
+      "last_score": 20.7,
+      "z_hint": 2.9
     },
     "title:changing-global-expansion-but-cannot-standardise-local-markets": {
       "title": "AI is changing global expansion, but it cannot standardise local markets",
@@ -18906,7 +18906,7 @@
     },
     "domain:orangestar2.hatenadiary.com": {
       "title": "『note組大きくリードしてます。はてな組も頑張ってください』 - orangestar2",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -18934,8 +18934,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1
       ],
@@ -75914,7 +75914,7 @@
     },
     "title:why-indonesian-fintech-asean-expansion-cost-more-than": {
       "title": "Why Indonesian fintech’s ASEAN expansion cost more than anyone priced in",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         12.1,
         9.1,
@@ -75941,16 +75941,17 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.22,
+      "rolling_average": 9.21,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "title:jev-every-tech-blog": {
       "title": "速くて安いAI「Jev」でQAを自動化してみた - every Tech Blog",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -75977,18 +75978,20 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.22,
+      "rolling_average": 7.21,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "url:https://www.digital.go.jp/speech/minister-261016-01": {
       "title": "古川大臣記者会見（令和8年10月16日）動画を掲載しました",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         11.1,
+        8.1,
         8.1,
         8.1,
         8.1,
@@ -76021,9 +76024,10 @@
     },
     "title:2026-windows-update-vpn-ntlmv1": {
       "title": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -76056,7 +76060,7 @@
     },
     "title:localllm-claude-code": {
       "title": "【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -76081,16 +76085,17 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.23,
+      "rolling_average": 13.22,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:defa-cuts-cost-entry-your-architecture-sets-cost": {
       "title": "DEFA cuts the cost of entry. Your architecture sets the cost of scale",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -76114,16 +76119,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.23,
+      "rolling_average": 8.22,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:employers-are-buying-tools-their-managers-are-being": {
       "title": "Employers are buying AI tools. Their managers are being left behind",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         25.1,
         22.1,
@@ -76144,16 +76150,17 @@
         22.1,
         22.1,
         22.1,
+        22.1,
         22.1
       ],
-      "rolling_average": 22.25,
+      "rolling_average": 22.24,
       "rolling_peak": 25.1,
       "last_score": 22.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "title:before-you-use-predictive-decide-what-decision-should": {
       "title": "Before you use predictive AI, decide what decision it should change",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -76174,18 +76181,20 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.25,
+      "rolling_average": 10.24,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "url:https://www.itmedia.co.jp/news/article/2610/16/2000002314/": {
       "title": "「『楽天カード公式』から詐欺メール」報告相次ぐ ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -76206,14 +76215,14 @@
         7.1,
         7.1
       ],
-      "rolling_average": 7.25,
+      "rolling_average": 7.24,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "title:multi-repo-support-other-improvements-github-copilot-slack": {
       "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -76233,16 +76242,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.26,
+      "rolling_average": 8.25,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "earthquake:m 6.9 - 76 km ne of ozernovskiy, russia:6.9": {
       "title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -76261,16 +76271,17 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 13.87,
+      "rolling_average": 13.86,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:why-small-gulf-currency-matters-partior-southeast-asian": {
       "title": "Why a small Gulf currency matters for Partior’s Southeast Asian ambitions",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -76287,16 +76298,44 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.29,
+      "rolling_average": 10.28,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:your-esop-fundraising-document-most-founders-treat-perk": {
       "title": "Your ESOP is a fundraising document. Most founders treat it as a HR perk",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
+      "network_scores": [
+        11.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1
+      ],
+      "rolling_average": 8.28,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -0.18
+    },
+    "title:hong-kong-builds-test-track-robots-that-keep": {
+      "title": "Hong Kong builds a test track for robots that keep failing outside the lab",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -76320,34 +76359,9 @@
       "last_score": 8.1,
       "z_hint": -0.19
     },
-    "title:hong-kong-builds-test-track-robots-that-keep": {
-      "title": "Hong Kong builds a test track for robots that keep failing outside the lab",
-      "updated_at": "2026-10-16T09:32:59+00:00",
-      "network_scores": [
-        11.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1
-      ],
-      "rolling_average": 8.3,
-      "rolling_peak": 11.1,
-      "last_score": 8.1,
-      "z_hint": -0.2
-    },
     "title:000-illusion-why-bitcoin-still-trades-like-traditional": {
       "title": "The US$82,000 Illusion: Why Bitcoin still trades like a traditional tech stock",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         12.1,
         9.1,
@@ -76362,16 +76376,17 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.31,
+      "rolling_average": 9.3,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "earthquake:m 4.7 - 95 km sw of brisas barra de suchiate, mexico:4.7": {
       "title": "M 4.7 - 95 km SW of Brisas Barra de Suchiate, Mexico",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -76385,16 +76400,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.93,
+      "rolling_average": 11.91,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:ecosystem-roundup-singapore-always-workers-are-performing-empty": {
       "title": "Ecosystem Roundup: Singapore’s always-on workers are performing to an empty room",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         12.1,
         9.1,
@@ -76405,16 +76421,17 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.4,
+      "rolling_average": 9.37,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "url:https://www.digital.go.jp/resources/govdashboard/childcare": {
       "title": "保育提供体制に関するダッシュボードを更新しました",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -76425,16 +76442,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.4,
+      "rolling_average": 8.37,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:tesla-roadster-spacex": {
       "title": "Tesla、新型「Roadster」発表 SpaceX技術で“飛べる”モデルも 日本でも予約受付中",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -76444,16 +76462,42 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.43,
+      "rolling_average": 7.4,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:530-nhk": {
       "title": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース",
-      "updated_at": "2026-10-16T09:32:59+00:00",
+      "updated_at": "2026-10-16T09:46:58+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 8.1,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -1.0
+    },
+    "title:what-does-chatgpt-say-about-your-brand-miracly": {
+      "title": "What does ChatGPT say about your brand? Miracly raises US$2M to find out",
+      "updated_at": "2026-10-16T09:46:58+00:00",
+      "network_scores": [
+        17.1,
+        14.1
+      ],
+      "rolling_average": 15.6,
+      "rolling_peak": 17.1,
+      "last_score": 14.1,
+      "z_hint": -1.5
+    },
+    "url:https://www.cnn.co.jp/business/35253632.html": {
+      "title": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目",
+      "updated_at": "2026-10-16T09:46:58+00:00",
       "network_scores": [
         10.1,
         7.1
@@ -76462,28 +76506,6 @@
       "rolling_peak": 10.1,
       "last_score": 7.1,
       "z_hint": -1.5
-    },
-    "title:what-does-chatgpt-say-about-your-brand-miracly": {
-      "title": "What does ChatGPT say about your brand? Miracly raises US$2M to find out",
-      "updated_at": "2026-10-16T09:32:59+00:00",
-      "network_scores": [
-        17.1
-      ],
-      "rolling_average": 17.1,
-      "rolling_peak": 17.1,
-      "last_score": 17.1,
-      "z_hint": 0.0
-    },
-    "url:https://www.cnn.co.jp/business/35253632.html": {
-      "title": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目",
-      "updated_at": "2026-10-16T09:32:59+00:00",
-      "network_scores": [
-        10.1
-      ],
-      "rolling_average": 10.1,
-      "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
     }
   }
 }
