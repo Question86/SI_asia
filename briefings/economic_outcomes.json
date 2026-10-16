@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T07:59:41+00:00",
+  "generated_at": "2026-10-16T08:29:04+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -4357,6 +4357,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_40ed2e85d3180cac61a5",
+      "title": "『note組大きくリードしてます。はてな組も頑張ってください』 - orangestar2",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_41161acb79759718291f",
@@ -11649,7 +11660,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_aa29dd4888359becb13a",
