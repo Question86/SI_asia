@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T07:38:42+00:00_
+_Generiert: 2026-10-16T07:51:30+00:00_
 
 ## Kurzlage
 
@@ -41,14 +41,14 @@ _Generiert: 2026-10-16T07:38:42+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.7M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 05:44 UTC, [unknown].
-- **GDACS: Green flood alert in Libya** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104231)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Libya
 - **USGS earthquake M6.9 - 76 km NE of Ozernovskiy, Russia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq)
   - Quelle: USGS
   - Zeit: `2026-10-16T03:35:31+00:00`
   - Kurz: M6.9 - 76 km NE of Ozernovskiy, Russia. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001339)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:1km) in United States 15/10/2026 11:07 UTC, 9 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571732)
   - Quelle: GDACS
   - Zeit: ``
