@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-16T21:30:28+00:00_
+_Generiert: 2026-10-16T21:41:35+00:00_
 
 ## Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt
 
