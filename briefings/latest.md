@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T06:06:59+00:00_
+_Generiert: 2026-10-16T06:38:16+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „Employers are buying AI tools. Their managers are being left behind“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+24 neue relevante Treffer. Stärkstes Signal: „Employers are buying AI tools. Their managers are being left behind“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -214,14 +214,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年10月16日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「スパムのメールヘッダ偽装にニュータイプ出てきた」楽天カードを持っていないのに公式アドレスからの送信だと誤認…Xで報告が相次ぐ「ドメインだけでは判断できない」** — Score 5, observation — [Quelle](https://togetter.com/li/2758764)
+- **Tesla、新型「Roadster」発表 SpaceX技術で“飛べる”モデルも 日本でも予約受付中** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/16/2000002323/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-16T02:02:15+00:00`, fetched `2026-10-16T03:36:48+00:00`
+  - Zeit: published `2026-10-16T02:55:17+00:00`, fetched `2026-10-16T06:37:39+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: T_K_Soft💉💉💉💉💉 @TechnoTreasure スパムのメールヘッダ偽装にニュータイプ出てきた😓 公式アドレスからの送信だと受信側が誤認している。 偽装と気付いた理由は私が楽天カードを持ってないからで、他にも個人名が書かれていないとか識別方法はあるものの、相当紛らわしくなっている。 pic.x.com/bywWtADPju 2026-10-...
+  - Kurz: 米Teslaは10月15日（現地時間）、次世代EVスポーツカー「Roadster」を発表した。米テキサス州マクレガーにある米SpaceXの試験施設からイベントをライブ配信した。イーロン・マスクCEOは2028年の生産開始を目指すと説明した。価格は明らかにしていないが、日本でも公式サイトで予約を受け付けており、予約金合計は682万円...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
