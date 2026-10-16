@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T01:48:52+00:00_
+_Generiert: 2026-10-16T02:01:01+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+8 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -50,6 +50,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia, Thailand, Philippines (+2.0)
   - Kurz: Indonesian fintech expansion into ASEAN looks different in 2026 than it did when Investree opened its Thailand operations in 2018 and its Philippines unit shortly after. The cohort of Indonesian platforms that pushed beyond the domestic market between 2018 and 2022 (Investree, Modalku, several payment players, a handful of insurtechs) encountered a structural cost that […] The post Why Indonesian fintech’s ASEAN exp…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **DEFA cuts the cost of entry. Your architecture sets the cost of scale** — Score 6, observation — [Quelle](https://e27.co/defa-cuts-the-cost-of-entry-your-architecture-sets-the-cost-of-scale-20261012/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-16T02:00:21+00:00`, fetched `2026-10-16T02:00:22+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia, ASEAN (+2.0)
+  - Kurz: Sit in the architecture review of almost any platform that has reached four ASEAN markets and the same diagram appears. One product on top. Underneath, four data stores, four payment integrations, four know-your-customer flows (the identity checks that onboard each user), and four sets of legal entities and directors. Adding Malaysia means adding a […] The post DEFA cuts the cost of entry. Your architecture sets the…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **古川大臣記者会見（令和8年10月16日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261016-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
