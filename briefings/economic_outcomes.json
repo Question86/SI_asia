@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T01:49:19+00:00",
+  "generated_at": "2026-10-16T02:01:30+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -2095,12 +2095,12 @@
     {
       "event_id": "evt_1ea69ad03cbcce448048",
       "title": "【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -9384,6 +9384,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_88355c0e71af7f4d6734",
+      "title": "DEFA cuts the cost of entry. Your architecture sets the cost of scale",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_88de3b1e1475af07bd80",
