@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T14:47:14+00:00",
-  "run_id": "2026-10-16T14:47:14+00:00",
+  "generated_at": "2026-10-16T14:55:22+00:00",
+  "run_id": "2026-10-16T14:55:22+00:00",
   "date": "2026-10-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 64,
     "displayed_findings": 64,
     "high": 1,
@@ -3112,65 +3112,7 @@
       "id": "219dcac654b9ec5033fe"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.0 - Auckland Islands, New Zealand region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2q5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-16T14:32:55.040+00:00",
-      "fetched_at": "2026-10-16T14:46:41+00:00",
-      "summary": "Time 2026-10-16 14:09:54 UTC 2026-10-16 14:09:54 UTC at epicenter Location 49.883°S 163.404°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "2323fe51c965fd18593d"
-    },
-    {
-      "title": "Open source license compliance generally available",
-      "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-16T14:00:32+00:00",
-      "fetched_at": "2026-10-16T14:46:41+00:00",
-      "summary": "Enterprises can now manage their dependencies’ licenses at scale with sophisticated, ruleset-based checks that enforce a centralized policy. Open source license compliance is now generally available for GitHub Enterprise Cloud… The post Open source license compliance generally available appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub",
-        "Open Source"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Open Source (+3.8); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "709d56853148b06ad2d8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
