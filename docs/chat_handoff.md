@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-16T08:28:32+00:00_
+_Generated: 2026-10-16T09:15:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `31`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-16T08:28:32+00:00_
 - url: https://jvn.jp/vu/JVNVU96928590/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. [UPDATE] [niedrig] CUPS: Mehrere Schwachstellen ermöglichen Denial of Service
+### 3. [UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
-- score: `14`
-- published: `2026-10-16T07:15:51+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3860
-- summary: Ein Angreifer kann mehrere Schwachstellen in CUPS ausnutzen, um einen Denial of Service Angriff durchzuführen.
+- score: `16`
+- published: `2026-10-16T09:00:51+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um eine Heap-Beschädigung oder einen Denial-of-Service-Zustand auszulösen.
 
-### 4. [UPDATE] [hoch] OPNsense: Mehrere Schwachstellen
+### 4. [UPDATE] [mittel] Erlang/OTP: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `14`
-- published: `2026-10-16T06:45:51+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2177
-- summary: Ein Angreifer kann mehrere Schwachstellen in OPNsense ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, um Sicherheitsvorkehrungen zu umgehen, um einen Cross-Site Scripting Angriff durchzuführen, um Dateien zu manipulieren, um Inform…
+- published: `2026-10-16T09:00:52+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3964
+- summary: Ein Angreifer kann mehrere Schwachstellen in Erlang/OTP ausnutzen, um Sicherheitsvorkehrungen zu umgehen oder einen Denial of Service zu verursachen.
 
 ### 5. M 6.9 - 76 km NE of Ozernovskiy, Russia
 - source: USGS M4.5+ Earthquakes Past Hour

@@ -46,6 +46,53 @@
     "id": "9df5b2a79906ce058e08"
   },
   {
+    "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-16T09:00:51+00:00",
+    "fetched_at": "2026-10-16T09:14:55+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um eine Heap-Beschädigung oder einen Denial-of-Service-Zustand auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f415458973e0b8316a7b"
+  },
+  {
+    "title": "[UPDATE] [mittel] Erlang/OTP: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3964",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-16T09:00:52+00:00",
+    "fetched_at": "2026-10-16T09:14:55+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Erlang/OTP ausnutzen, um Sicherheitsvorkehrungen zu umgehen oder einen Denial of Service zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fc32778b13bdd836656c"
+  },
+  {
     "title": "[UPDATE] [niedrig] CUPS: Mehrere Schwachstellen ermöglichen Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3860",
     "source": "BSI CERT-Bund Security Advisories",
@@ -273,6 +320,27 @@
     "id": "d2d717c4d661c3ae5feb"
   },
   {
+    "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
+    "url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
+    "source": "BIS Press Releases",
+    "source_type": "rss",
+    "published_at": "2026-10-16T00:00:00+00:00",
+    "fetched_at": "2026-10-16T09:14:55+00:00",
+    "summary": "The Basel Committee on Banking Supervision today published final amendments to address window dressing in the G-SIB framework and a consultation on the G-SIB methodology review.",
+    "matched_keywords": [
+      "Basel",
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); Basel (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e49708302771148cd033"
+  },
+  {
     "title": "Ecosystem Roundup: Singapore’s always-on workers are performing to an empty room",
     "url": "https://e27.co/ecosystem-roundup-singapores-always-on-workers-are-performing-to-an-empty-room-20261016/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -496,6 +564,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0d928b614740b6ed093d"
+  },
+  {
+    "title": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60395",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-16T05:56:04+00:00",
+    "fetched_at": "2026-10-16T09:14:55+00:00",
+    "summary": "宅配大手のヤマト運輸は、代金を後払いするサービスに不正アクセスがあり、530万件余りの個人情報が外部に流出したことを確認したと明らかにしました。 流出が確認されたのは、2018年10月1日から202…",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "13e490529dbaaded34a2"
   },
   {
     "title": "『note組大きくリードしてます。はてな組も頑張ってください』 - orangestar2",
