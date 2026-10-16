@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-16T09:55:59+00:00",
+  "generated_at": "2026-10-16T10:05:12+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "new_relevant_findings": 4,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
-    "medium": 8,
+    "medium": 12,
     "observe": 26
   },
   "source_errors_count": 0,
@@ -25,6 +25,26 @@
       "section": "medium"
     },
     {
+      "title": "[UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-16T09:54:02+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3922",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft PowerToys, Microsoft Power Apps und Microsoft Apps ausnutzen, um erweiterte Berechtigungen – einschließlich Administratorrechte – zu erlangen, beliebigen Code auszuführen, Daten zu manipulieren oder einen…",
+      "section": "medium"
+    },
+    {
+      "title": "[UPDATE] [hoch] Fortinet FortiSandbox: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-16T09:54:01+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3940",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiSandbox ausnutzen, um einen Denial of Service Angriff durchzuführen, Informationen offenzulegen und Sicherheitsmaßnahmen zu umgehen.",
+      "section": "medium"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
@@ -32,26 +52,6 @@
       "relevance_score": 16,
       "url": "https://jvn.jp/vu/JVNVU96928590/",
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-16T09:00:51+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um eine Heap-Beschädigung oder einen Denial-of-Service-Zustand auszulösen.",
-      "section": "medium"
-    },
-    {
-      "title": "M 4.9 - 31 km ENE of Kinablangan, Philippines",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-16T09:34:45.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2p2",
-      "summary": "Time 2026-10-16 09:13:44 UTC 2026-10-16 09:13:44 UTC at epicenter Location 7.839°N 126.799°E Depth 73.71 km (45.80 mi)",
       "section": "medium"
     },
     {

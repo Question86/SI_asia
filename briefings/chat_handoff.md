@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-16T09:55:59+00:00_
+_Generated: 2026-10-16T10:05:12+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `38`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-16T09:55:59+00:00_
 - url: https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/
 - summary: Thirty-seven per cent. Eleven per cent. Those two numbers, tucked deep inside Jobstreet by SEEK’s Singapore Workplace Culture Study 2026, may say more about the region’s productivity problem than any headline about AI or inflation. The first is the share of e…
 
-### 2. CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）
+### 2. [UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-16T09:54:02+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3922
+- summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft PowerToys, Microsoft Power Apps und Microsoft Apps ausnutzen, um erweiterte Berechtigungen – einschließlich Administratorrechte – zu erlangen, beliebigen Code auszuführen, Daten zu manipulieren oder einen…
+
+### 3. [UPDATE] [hoch] Fortinet FortiSandbox: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-16T09:54:01+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3940
+- summary: Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiSandbox ausnutzen, um einen Denial of Service Angriff durchzuführen, Informationen offenzulegen und Sicherheitsmaßnahmen zu umgehen.
+
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-10-16T09:15:00+09:00`
 - url: https://jvn.jp/vu/JVNVU96928590/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 3. [UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-16T09:00:51+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952
-- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um eine Heap-Beschädigung oder einen Denial-of-Service-Zustand auszulösen.
-
-### 4. M 4.9 - 31 km ENE of Kinablangan, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-16T09:34:45.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2p2
-- summary: Time 2026-10-16 09:13:44 UTC 2026-10-16 09:13:44 UTC at epicenter Location 7.839°N 126.799°E Depth 73.71 km (45.80 mi)
 
 ### 5. What does ChatGPT say about your brand? Miracly raises US$2M to find out
 - source: e27 Asia Startup and Tech Feed

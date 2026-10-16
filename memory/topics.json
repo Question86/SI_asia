@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-16T09:55:59+00:00",
+  "generated_at": "2026-10-16T10:05:12+00:00",
   "topics": {
     "ai": [
       {
@@ -128,6 +128,20 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T09:54:02+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3922"
+      },
+      {
+        "title": "[UPDATE] [hoch] Fortinet FortiSandbox: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T09:54:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3940"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-16T09:15:00+09:00",
@@ -140,6 +154,20 @@
         "published_at": "2026-10-16T09:00:51+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T09:54:03+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3905"
+      },
+      {
+        "title": "[UPDATE] [hoch] Adobe Photoshop: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T09:54:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3931"
       },
       {
         "title": "[UPDATE] [mittel] Erlang/OTP: Mehrere Schwachstellen",
