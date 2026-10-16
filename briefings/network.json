@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T07:01:28+00:00",
+  "generated_at": "2026-10-16T07:25:12+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 25,
+    "findings": 26,
     "clusters": 24,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -50,7 +50,7 @@
     },
     {
       "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] OPNsense: Mehrere Schwachstellen",
+      "title": "[UPDATE] [niedrig] CUPS: Mehrere Schwachstellen ermöglichen Denial of Service",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -58,12 +58,13 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3860",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2177",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3926"
       ],
-      "finding_count": 2,
+      "finding_count": 3,
       "max_score": 14,
-      "credibility_total": 2.1,
+      "credibility_total": 3.15,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
@@ -71,7 +72,7 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 21.2,
+      "raw_network_score": 23.3,
       "ranking_score": 18.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
@@ -934,7 +935,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-16T07:01:28Z",
+    "generated_at": "2026-10-16T07:25:12Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
