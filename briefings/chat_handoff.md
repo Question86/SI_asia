@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-16T19:28:56+00:00_
+_Generated: 2026-10-16T19:46:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `69`
+- findings: `70`
 
 ## Top Signals
 
@@ -57,18 +57,18 @@ _Generated: 2026-10-16T19:28:56+00:00_
 - url: https://e27.co/what-does-chatgpt-say-about-your-brand-miracly-raises-us2m-to-find-out-20261016/
 - summary: For two decades, marketers obsessed over a single question: where do we rank on Google? A growing number now ask a stranger one: what does ChatGPT say about us when we are not in the room? The Wild Ventures, the Swedish-founded company behind home decor brand…
 
-### 8. M 6.9 - 76 km NE of Ozernovskiy, Russia
+### 8. Stack Overflow for Agents triples signups with ChatGPT plugin
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-10-16T00:00:00+00:00`
+- url: https://openai.com/index/stack-overflow-chatgpt-plugin
+- summary: Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.
+
+### 9. M 6.9 - 76 km NE of Ozernovskiy, Russia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-16T03:50:50.963+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq
 - summary: ShakeMap - VI Time 2026-10-16 03:35:32 UTC 2026-10-16 03:35:32 UTC at epicenter Location 52.007°N 157.250°E Depth 143.18 km (88.97 mi)
-
-### 9. 【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-10-15T12:35:58+00:00`
-- url: https://zenn.dev/solvio/articles/6d374a9224327a
-- summary: Claude CodeはAmazon BedrockやGoogle Cloudなどを通して、自社で契約したクラウドから使うこともできます。この場合、モデルとの通信先はAnthropicではなく、契約したクラウド事業者（AWSやGoogle Cloudなど）になります。この記事では、Anthropicのクラウドを直接使う場合で比較しています。 AIによるコーディング支援...
 
 END OF DOCUMENT
