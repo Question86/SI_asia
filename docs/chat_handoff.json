@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-16T04:51:12+00:00",
+  "generated_at": "2026-10-16T04:59:30+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 2,
-    "observe": 17
+    "observe": 18
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,13 +65,13 @@
       "section": "observe"
     },
     {
-      "title": "Why a small Gulf currency matters for Partior’s Southeast Asian ambitions",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 4.7 - 95 km SW of Brisas Barra de Suchiate, Mexico",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-16T04:00:57+00:00",
-      "relevance_score": 8,
-      "url": "https://e27.co/why-a-small-gulf-currency-matters-for-partiors-southeast-asian-ambitions-20261016/",
-      "summary": "The National Bank of Bahrain (NBB) has signed a memorandum of understanding with blockchain settlement network Partior to study whether the Bahraini dinar (BHD) can be settled on the Singaporean firm’s rails, with NBB acting as the currency’s settlement bank.…",
+      "published_at": "2026-10-16T04:56:50.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2n4",
+      "summary": "Time 2026-10-16 04:42:40 UTC 2026-10-16 04:42:40 UTC at epicenter Location 13.934°N 92.862°W Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],
@@ -80,141 +80,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）",
-        "url": "https://jvn.jp/vu/JVNVU96928590/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-16T09:15:00+09:00",
-        "age_days": 0.19,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "Hong Kong builds a test track for robots that keep failing outside the lab",
-        "url": "https://e27.co/hong-kong-builds-a-test-track-for-robots-that-keep-failing-outside-the-lab-20261016/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-16T04:30:31+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10"
-        ],
-        "summary": "Every humanoid robot looks brilliant in a launch video. The trouble begins on an ordinary weekday in a warehouse, when a parcel arrives in a shape nobody trained the machine for, a forklift reverses where it shouldn’t, and a worker strolls into its path while scrolling a phone. That messy gap between the lab and […] T…"
-      },
-      {
-        "title": "Employers are buying AI tools. Their managers are being left behind",
-        "url": "https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-16T03:16:20+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 21.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証",
-        "url": "https://zenn.dev/solvio/articles/6d374a9224327a",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-16T01:48:54+00:00",
-        "age_days": 0.13,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 20.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "early terms: local",
-          "high terms: code",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "古川大臣記者会見（令和8年10月16日）動画を掲載しました",
-        "url": "https://www.digital.go.jp/speech/minister-261016-01",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-10-16T01:28:39+00:00",
-        "age_days": 0.14,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 20.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: 10"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
