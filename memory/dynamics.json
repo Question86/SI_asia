@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-16T03:44:51Z",
+  "generated_at": "2026-10-16T03:55:49Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 28,
+    "dynamics": 30,
     "bands": {
       "krass": 1,
       "strong": 3,
-      "watch": 9,
-      "quiet": 15
+      "watch": 8,
+      "quiet": 18
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 9,
-      "quiet": 15
+      "watch": 8,
+      "quiet": 18
     }
   },
   "top_dynamics": [
@@ -49,22 +49,22 @@
       "url": "https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T03:16:20+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 21.5,
+      "dynamics_score": 24.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -75,7 +75,7 @@
       "url": "https://zenn.dev/solvio/articles/6d374a9224327a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T01:48:54+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -103,7 +103,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261016-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-16T01:28:39+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -128,7 +128,7 @@
       "url": "https://jvn.jp/vu/JVNVU96928590/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 119.07,
+      "age_days": 119.08,
       "topics": [
         "general"
       ],
@@ -155,7 +155,7 @@
       "url": "https://openai.com/index/sullivan-cromwell",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 120.29,
+      "age_days": 120.3,
       "topics": [],
       "dynamics_score": 19.0,
       "raw_band": "watch",
@@ -181,7 +181,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2148594.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T01:28:39+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "infra"
       ],
@@ -206,7 +206,7 @@
       "url": "https://e27.co/defa-cuts-the-cost-of-entry-your-architecture-sets-the-cost-of-scale-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T02:00:21+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "macro"
       ],
@@ -258,7 +258,7 @@
       "url": "https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T03:12:44+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -285,7 +285,7 @@
       "url": "https://e27.co/why-indonesian-fintechs-asean-expansion-cost-more-than-anyone-priced-in-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T01:02:54+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -309,7 +309,7 @@
       "url": "https://e27.co/defa-cuts-the-cost-of-entry-your-architecture-sets-the-cost-of-scale-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T02:01:03+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -329,35 +329,63 @@
       "summary": ""
     },
     {
-      "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-      "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-10-16T03:37:22+00:00",
-      "age_days": 0.01,
+      "title": "「『楽天カード公式』から詐欺メール」報告相次ぐ ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性",
+      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002314/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-16T03:16:20+00:00",
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 12.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-16T03:50:50.963+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "disaster"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "ShakeMap - VI Time 2026-10-16 03:35:32 UTC 2026-10-16 03:35:32 UTC at epicenter Location 52.007°N 157.250°E Depth 143.18 km (88.97 mi)"
     },
     {
       "title": "【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証",
       "url": "https://zenn.dev/solvio/articles/6d374a9224327a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T12:35:58+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -384,7 +412,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261016-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-16T01:13:41+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -404,28 +432,26 @@
       "summary": "古川大臣記者会見（令和8年10月16日）動画を掲載しました"
     },
     {
-      "title": "「スパムのメールヘッダ偽装にニュータイプ出てきた」楽天カードを持っていないのに公式アドレスからの送信だと誤認…Xで報告が相次ぐ「ドメインだけでは判断できない」",
-      "url": "https://togetter.com/li/2758764",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T14:52:13+00:00",
-      "age_days": 118.54,
+      "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-16T03:37:22+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 10.73,
+      "dynamics_score": 10.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.03,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.03",
-        "aging penalty -8.0 for 118.5d old signal"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -434,7 +460,7 @@
       "url": "https://togetter.com/li/2758764",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T02:02:15+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -458,7 +484,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002314/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T01:57:36+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -502,30 +528,6 @@
       "summary": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない"
     },
     {
-      "title": "「『楽天カード公式』から詐欺メール」報告相次ぐ ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性",
-      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002314/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-16T03:16:20+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "タイムズカー情報流出、信用機関に悪用防止要請殺到 クレカ発行に手間 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOUC084IG0Y6A001C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -551,11 +553,37 @@
       "summary": ""
     },
     {
+      "title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-16T03:51:35+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.4,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "タイムズカー情報流出、信用機関に悪用防止要請殺到 クレカ発行に手間 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOUC084IG0Y6A001C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T21:42:04+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -575,11 +603,62 @@
       "summary": "パーク24のカーシェアサービス「タイムズカー」における免許証画像流出を受け、信用情報機関に悪用防止の届け出が殺到している。クレジットカードの審査を厳格にして、なりすましを防ぐためだ。一方、本人でも発行までに手間がかかる可能性がある。システムへの不正アクセスによってタイムズカーでは約160万件分の免許証..."
     },
     {
+      "title": "Before you use predictive AI, decide what decision it should change",
+      "url": "https://e27.co/before-you-use-predictive-ai-decide-what-decision-it-should-change-20261012/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-16T03:16:20+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +2",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "「スパムのメールヘッダ偽装にニュータイプ出てきた」楽天カードを持っていないのに公式アドレスからの送信だと誤認…Xで報告が相次ぐ「ドメインだけでは判断できない」",
+      "url": "https://togetter.com/li/2758764",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T14:52:13+00:00",
+      "age_days": 118.54,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 118.5d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "速くて安いAI「Jev」でQAを自動化してみた - every Tech Blog",
       "url": "https://tech.every.tv/entry/2026/10/15/125805",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T01:02:54+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -605,7 +684,7 @@
       "url": "https://e27.co/before-you-use-predictive-ai-decide-what-decision-it-should-change-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T03:00:27+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -627,37 +706,11 @@
       "summary": "A lot of startup advice about predictive AI starts too early. It starts with the model, the tool, the data stack, or the dashboard. Those things matter, but they are not the first question. The first question is simpler: what decision should this prediction change? If a startup cannot answer that clearly, it is usuall…"
     },
     {
-      "title": "Before you use predictive AI, decide what decision it should change",
-      "url": "https://e27.co/before-you-use-predictive-ai-decide-what-decision-it-should-change-20261012/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-16T03:16:20+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Why Indonesian fintech’s ASEAN expansion cost more than anyone priced in",
       "url": "https://e27.co/why-indonesian-fintechs-asean-expansion-cost-more-than-anyone-priced-in-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T01:00:43+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -684,7 +737,7 @@
       "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-16T02:16:35+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
