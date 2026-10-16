@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T13:03:14+00:00",
+  "generated_at": "2026-10-16T13:23:32+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 55,
     "clusters": 38,
     "cross_source_confrmed": 0,
     "hot": 1,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 6
   },
   "clusters": [
@@ -134,44 +134,6 @@
       "first_seen_at": "2026-10-16T03:16:20+00:00"
     },
     {
-      "key": "cve:CVE-2026-99999",
-      "title": "【重要】Linuxカーネルの脆弱性（CVE-2026-99999）に関する当社サービスへの影響について | さくらインターネット",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/16/1968226051/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 19.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 19.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-16T12:31:55+00:00"
-    },
-    {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）",
       "sources": [
@@ -249,6 +211,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-08-31T04:36:22+00:00"
+    },
+    {
+      "key": "cve:CVE-2026-99999",
+      "title": "【重要】Linuxカーネルの脆弱性（CVE-2026-99999）に関する当社サービスへの影響について | さくらインターネット",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/16/1968226051/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 13.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-16T12:31:55+00:00"
     },
     {
       "key": "title:what-does-chatgpt-say-about-your-brand-miracly",
@@ -461,18 +461,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.18,
+      "network_score": 10.14,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 10.1,
-      "ranking_score": 10.18,
+      "ranking_score": 10.14,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.68,
+      "baseline_bonus": 0.64,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1484,7 +1484,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-16T13:03:15Z",
+    "generated_at": "2026-10-16T13:23:33Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
