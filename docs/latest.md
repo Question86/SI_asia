@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T04:38:17+00:00_
+_Generiert: 2026-10-16T04:51:12+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Employers are buying AI tools. Their managers are being left behind“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+19 neue relevante Treffer. Stärkstes Signal: „Employers are buying AI tools. Their managers are being left behind“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -78,14 +78,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: A lot of startup advice about predictive AI starts too early. It starts with the model, the tool, the data stack, or the dashboard. Those things matter, but they are not the first question. The first question is simpler: what decision should this prediction change? If a startup cannot answer that clearly, it is usually […] The post Before you use predictive AI, decide what decision it should change appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why Indonesian fintech’s ASEAN expansion cost more than anyone priced in** — Score 7, observation — [Quelle](https://e27.co/why-indonesian-fintechs-asean-expansion-cost-more-than-anyone-priced-in-20261015/)
+- **The US$82,000 Illusion: Why Bitcoin still trades like a traditional tech stock** — Score 7, observation — [Quelle](https://e27.co/the-us82000-illusion-why-bitcoin-still-trades-like-a-traditional-tech-stock-20261016/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-16T01:00:43+00:00`, fetched `2026-10-16T01:02:22+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia, Thailand, Philippines (+2.0)
-  - Kurz: Indonesian fintech expansion into ASEAN looks different in 2026 than it did when Investree opened its Thailand operations in 2018 and its Philippines unit shortly after. The cohort of Indonesian platforms that pushed beyond the domestic market between 2018 and 2022 (Investree, Modalku, several payment players, a handful of insurtechs) encountered a structural cost that […] The post Why Indonesian fintech’s ASEAN exp…
+  - Zeit: published `2026-10-16T04:49:12+00:00`, fetched `2026-10-16T04:50:35+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Bitcoin currently trades at US$82,231.14, reflecting a 0.65 per cent gain over the last 24 hours. This movement mirrors a broader 0.84 per cent rise in the total crypto market capitalisation. Having operated in this industry for over 15 years and advised on blockchain policy, I view this price action as a clear reflection of […] The post The US$82,000 Illusion: Why Bitcoin still trades like a traditional tech stock…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **タイムズカー情報流出、信用機関に悪用防止要請殺到 クレカ発行に手間 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC084IG0Y6A001C2000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
