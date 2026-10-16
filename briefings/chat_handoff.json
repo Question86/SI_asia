@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-16T23:26:48+00:00",
+  "generated_at": "2026-10-16T23:35:45+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "new_relevant_findings": 1,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 1,
-    "medium": 21,
+    "medium": 22,
     "observe": 53
   },
   "source_errors_count": 0,
@@ -23,6 +23,16 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297832-1032_bits.html",
       "summary": "Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt",
       "section": "high"
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-16T19:00:00+00:00",
+      "relevance_score": 22,
+      "url": "https://openai.com/index/itau-generative-ai",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "section": "medium"
     },
     {
       "title": "Employers are buying AI tools. Their managers are being left behind",
@@ -52,16 +62,6 @@
       "relevance_score": 16,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4007",
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in PJSIP ausnutzen, um einen Denial of Service Angriff durchzuführen oder Informationen offenzulegen.",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-16T09:54:02+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3922",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft PowerToys, Microsoft Power Apps und Microsoft Apps ausnutzen, um erweiterte Berechtigungen – einschließlich Administratorrechte – zu erlangen, beliebigen Code auszuführen, Daten zu manipulieren oder einen…",
       "section": "medium"
     },
     {

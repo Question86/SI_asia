@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T23:26:48+00:00_
+_Generiert: 2026-10-16T23:35:45+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
+76 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 32, risk).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ _Generiert: 2026-10-16T23:26:48+00:00_
 
 ## Priorität Mittel
 
+- **How Itaú is building generative AI for its entire customer base** — Score 22, observation — [Quelle](https://openai.com/index/itau-generative-ai)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-16T19:00:00+00:00`, fetched `2026-10-16T23:35:14+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Markets/Capital Structure, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0)
+  - Kurz: With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Employers are buying AI tools. Their managers are being left behind** — Score 20, observation — [Quelle](https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-16T03:12:44+00:00`, fetched `2026-10-16T03:15:44+00:00`
