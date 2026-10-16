@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T18:51:35+00:00",
-  "run_id": "2026-10-16T18:51:35+00:00",
+  "generated_at": "2026-10-16T18:59:50+00:00",
+  "run_id": "2026-10-16T18:59:50+00:00",
   "date": "2026-10-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 69,
     "displayed_findings": 69,
     "high": 1,
@@ -3384,29 +3384,7 @@
       "id": "219dcac654b9ec5033fe"
     }
   ],
-  "new_findings": [
-    {
-      "title": "徳丸浩氏に聞く、タイムズカー事案から考えるユーザーデータ管理 保管場所と漏えいリスクの移転・回避、消去の判断体制",
-      "url": "https://unitis.jp/articles/24665/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-16T01:31:13+00:00",
-      "fetched_at": "2026-10-16T18:51:05+00:00",
-      "summary": "UNITIS セキュリティマネジメント 徳丸浩氏に聞く、タイムズカー事案から考えるユーザーデータ管理 保管場所と漏えいリスクの移転・回避、消去の判断体制 タイムズモビリティ株式会社は9月25日、同社が運営するカーシェアリングサービス「タイムズカー」のWebシステムが第三者による不正アクセスを受けたことを公表しま...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ee0b165c4d297abae1f1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
