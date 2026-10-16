@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T03:16:38+00:00",
+  "generated_at": "2026-10-16T03:37:39+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -8261,7 +8261,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T03:16:20+00:00",
+      "last_seen_at": "2026-10-16T03:37:22+00:00",
       "status": "active"
     },
     {
@@ -10658,7 +10658,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T03:16:20+00:00",
-      "last_seen_at": "2026-10-16T03:16:20+00:00",
+      "last_seen_at": "2026-10-16T03:37:22+00:00",
       "status": "active"
     },
     {
@@ -11151,7 +11151,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T03:16:20+00:00",
+      "last_seen_at": "2026-10-16T03:37:22+00:00",
       "status": "active"
     },
     {
@@ -11797,7 +11797,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-16T03:16:20+00:00",
+      "last_seen_at": "2026-10-16T03:37:22+00:00",
       "status": "active"
     },
     {
@@ -14739,7 +14739,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:48:54+00:00",
-      "last_seen_at": "2026-10-16T03:16:20+00:00",
+      "last_seen_at": "2026-10-16T03:37:22+00:00",
       "status": "active"
     },
     {
@@ -19606,6 +19606,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b99cdf76246a6ab13326",
+      "title": "Before you use predictive AI, decide what decision it should change",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-16T03:16:20+00:00",
+      "last_seen_at": "2026-10-16T03:37:22+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_ba2f68d6742fe01fd865",
       "title": "Why AI literacy is becoming a business necessity, not a competitive advantage",
       "event_classes": [
@@ -20184,23 +20201,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_b99cdf76246a6ab13326",
-      "title": "Before you use predictive AI, decide what decision it should change",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-16T03:16:20+00:00",
-      "last_seen_at": "2026-10-16T03:16:20+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_041397919a21c7984d11",
       "title": "The new engineering bottleneck isn’t writing code, it’s trusting it",
       "event_classes": [
@@ -20758,7 +20758,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:02:54+00:00",
-      "last_seen_at": "2026-10-16T03:16:20+00:00",
+      "last_seen_at": "2026-10-16T03:37:22+00:00",
       "status": "active"
     },
     {
@@ -21642,7 +21642,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T02:01:03+00:00",
-      "last_seen_at": "2026-10-16T03:16:20+00:00",
+      "last_seen_at": "2026-10-16T03:37:22+00:00",
       "status": "active"
     },
     {
@@ -21812,7 +21812,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:28:39+00:00",
-      "last_seen_at": "2026-10-16T03:16:20+00:00",
+      "last_seen_at": "2026-10-16T03:37:22+00:00",
       "status": "active"
     },
     {
@@ -22358,6 +22358,23 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_64eb6a1ea5f9c7207577",
+      "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-16T03:37:22+00:00",
+      "last_seen_at": "2026-10-16T03:37:22+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -23788,6 +23805,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_673299dc23eb50f3de7e",
+      "title": "「『楽天カード公式』から詐欺メール」報告相次ぐ ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-16T03:16:20+00:00",
+      "last_seen_at": "2026-10-16T03:37:22+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_67c97d7b18f6ee0a0029",
       "title": "新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり",
       "event_classes": [
@@ -24549,8 +24583,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T06:55:31+00:00",
-      "last_seen_at": "2026-09-27T22:42:38+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-16T03:37:22+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_99002374b5b02748f3eb",
@@ -24736,7 +24770,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:02:54+00:00",
-      "last_seen_at": "2026-10-16T03:16:20+00:00",
+      "last_seen_at": "2026-10-16T03:37:22+00:00",
       "status": "active"
     },
     {
@@ -25076,7 +25110,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T01:28:39+00:00",
-      "last_seen_at": "2026-10-16T03:16:20+00:00",
+      "last_seen_at": "2026-10-16T03:37:22+00:00",
       "status": "active"
     },
     {
@@ -26149,23 +26183,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_673299dc23eb50f3de7e",
-      "title": "「『楽天カード公式』から詐欺メール」報告相次ぐ ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-16T03:16:20+00:00",
-      "last_seen_at": "2026-10-16T03:16:20+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
