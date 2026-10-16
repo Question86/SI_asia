@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T03:59:24+00:00_
+_Generiert: 2026-10-16T04:23:25+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „Employers are buying AI tools. Their managers are being left behind“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+17 neue relevante Treffer. Stärkstes Signal: „Employers are buying AI tools. Their managers are being left behind“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -47,7 +47,7 @@ _Generiert: 2026-10-16T03:59:24+00:00_
   - Kurz: Green flood alert in Libya
 - **USGS earthquake M6.9 - 76 km NE of Ozernovskiy, Russia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq)
   - Quelle: USGS
-  - Zeit: `2026-10-16T03:35:32+00:00`
+  - Zeit: `2026-10-16T03:35:31+00:00`
   - Kurz: M6.9 - 76 km NE of Ozernovskiy, Russia. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:1km) in United States 15/10/2026 11:07 UTC, 9 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571732)
   - Quelle: GDACS
@@ -133,6 +133,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
   - Kurz: In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Why a small Gulf currency matters for Partior’s Southeast Asian ambitions** — Score 8, observation — [Quelle](https://e27.co/why-a-small-gulf-currency-matters-for-partiors-southeast-asian-ambitions-20261016/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-16T04:00:57+00:00`, fetched `2026-10-16T04:22:46+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: The National Bank of Bahrain (NBB) has signed a memorandum of understanding with blockchain settlement network Partior to study whether the Bahraini dinar (BHD) can be settled on the Singaporean firm’s rails, with NBB acting as the currency’s settlement bank. Read the fine print and the ambition shrinks to its proper size. The MoU commits […] The post Why a small Gulf currency matters for Partior’s Southeast Asian a…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Before you use predictive AI, decide what decision it should change** — Score 8, observation — [Quelle](https://e27.co/before-you-use-predictive-ai-decide-what-decision-it-should-change-20261012/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-16T03:00:27+00:00`, fetched `2026-10-16T03:15:44+00:00`
@@ -169,15 +178,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: Multi-repo support in Slack and Microsoft Teams GitHub Copilot in Slack and Microsoft Teams now supports working across multiple repositories in a single conversation. Whether you’re tracking pull requests, investigating… The post Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **DEFA cuts the cost of entry. Your architecture sets the cost of scale** — Score 6, observation — [Quelle](https://e27.co/defa-cuts-the-cost-of-entry-your-architecture-sets-the-cost-of-scale-20261012/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-16T02:00:21+00:00`, fetched `2026-10-16T02:00:22+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia, ASEAN (+2.0)
-  - Kurz: Sit in the architecture review of almost any platform that has reached four ASEAN markets and the same diagram appears. One product on top. Underneath, four data stores, four payment integrations, four know-your-customer flows (the identity checks that onboard each user), and four sets of legal entities and directors. Adding Malaysia means adding a […] The post DEFA cuts the cost of entry. Your architecture sets the…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **古川大臣記者会見（令和8年10月16日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261016-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-16T01:13:41+00:00`, fetched `2026-10-16T01:28:04+00:00`
@@ -205,3 +205,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `cert_fr_alerts` (rss): HTTPSConnectionPool(host='www.cert.ssi.gouv.fr', port=443): Max retries exceeded with url: /alerte/feed/ (Caused by NewConnectionError("HTTPSConnection(host='www.cert.ssi.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))

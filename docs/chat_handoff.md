@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-16T03:59:24+00:00_
+_Generated: 2026-10-16T04:23:25+00:00_
 
 ## Status
-- status: `normal`
-- findings: `15`
+- status: `warning`
+- findings: `17`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-10-16T03:59:24+00:00_
 - url: https://openai.com/index/sullivan-cromwell
 - summary: In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.
 
-### 6. Before you use predictive AI, decide what decision it should change
+### 6. Why a small Gulf currency matters for Partior’s Southeast Asian ambitions
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
-- published: `2026-10-16T03:00:27+00:00`
-- url: https://e27.co/before-you-use-predictive-ai-decide-what-decision-it-should-change-20261012/
-- summary: A lot of startup advice about predictive AI starts too early. It starts with the model, the tool, the data stack, or the dashboard. Those things matter, but they are not the first question. The first question is simpler: what decision should this prediction c…
+- published: `2026-10-16T04:00:57+00:00`
+- url: https://e27.co/why-a-small-gulf-currency-matters-for-partiors-southeast-asian-ambitions-20261016/
+- summary: The National Bank of Bahrain (NBB) has signed a memorandum of understanding with blockchain settlement network Partior to study whether the Bahraini dinar (BHD) can be settled on the Singaporean firm’s rails, with NBB acting as the currency’s settlement bank.…
 
 END OF DOCUMENT

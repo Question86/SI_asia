@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-16T03:59:24+00:00",
-  "run_id": "2026-10-16T03:59:24+00:00",
+  "generated_at": "2026-10-16T04:23:25+00:00",
+  "run_id": "2026-10-16T04:23:25+00:00",
   "date": "2026-10-16",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 2,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 2,
-    "observe": 13,
-    "source_errors": 0
+    "observe": 15,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -158,6 +158,27 @@
         "id": "472d43009a747d288453"
       },
       {
+        "title": "Why a small Gulf currency matters for Partior’s Southeast Asian ambitions",
+        "url": "https://e27.co/why-a-small-gulf-currency-matters-for-partiors-southeast-asian-ambitions-20261016/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-16T04:00:57+00:00",
+        "fetched_at": "2026-10-16T04:22:46+00:00",
+        "summary": "The National Bank of Bahrain (NBB) has signed a memorandum of understanding with blockchain settlement network Partior to study whether the Bahraini dinar (BHD) can be settled on the Singaporean firm’s rails, with NBB acting as the currency’s settlement bank. Read the fine print and the ambition shrinks to its proper size. The MoU commits […] The post Why a small Gulf currency matters for Partior’s Southeast Asian a…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c5241c40d6f10aa653af"
+      },
+      {
         "title": "Before you use predictive AI, decide what decision it should change",
         "url": "https://e27.co/before-you-use-predictive-ai-decide-what-decision-it-should-change-20261012/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -218,6 +239,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c594dcc89ba9f32d67ce"
+      },
+      {
+        "title": "Your ESOP is a fundraising document. Most founders treat it as a HR perk",
+        "url": "https://e27.co/your-esop-is-a-fundraising-document-most-founders-treat-it-as-a-hr-perk-20261012/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-16T04:00:52+00:00",
+        "fetched_at": "2026-10-16T04:22:46+00:00",
+        "summary": "Almost every founder I meet reaches the same conclusion at roughly the same moment. You cannot outbid a funded competitor on salary, so you give people a stake in the outcome instead. The logic is sound. Equity turns salary-limited hires into owners and aligns the people doing the work with the value they create. Then […] The post Your ESOP is a fundraising document. Most founders treat it as a HR perk appeared firs…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f2d9902e27a7362e7cae"
       },
       {
         "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
@@ -494,6 +536,27 @@
       "id": "472d43009a747d288453"
     },
     {
+      "title": "Why a small Gulf currency matters for Partior’s Southeast Asian ambitions",
+      "url": "https://e27.co/why-a-small-gulf-currency-matters-for-partiors-southeast-asian-ambitions-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-16T04:00:57+00:00",
+      "fetched_at": "2026-10-16T04:22:46+00:00",
+      "summary": "The National Bank of Bahrain (NBB) has signed a memorandum of understanding with blockchain settlement network Partior to study whether the Bahraini dinar (BHD) can be settled on the Singaporean firm’s rails, with NBB acting as the currency’s settlement bank. Read the fine print and the ambition shrinks to its proper size. The MoU commits […] The post Why a small Gulf currency matters for Partior’s Southeast Asian a…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c5241c40d6f10aa653af"
+    },
+    {
       "title": "Before you use predictive AI, decide what decision it should change",
       "url": "https://e27.co/before-you-use-predictive-ai-decide-what-decision-it-should-change-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -554,6 +617,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "c594dcc89ba9f32d67ce"
+    },
+    {
+      "title": "Your ESOP is a fundraising document. Most founders treat it as a HR perk",
+      "url": "https://e27.co/your-esop-is-a-fundraising-document-most-founders-treat-it-as-a-hr-perk-20261012/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-16T04:00:52+00:00",
+      "fetched_at": "2026-10-16T04:22:46+00:00",
+      "summary": "Almost every founder I meet reaches the same conclusion at roughly the same moment. You cannot outbid a funded competitor on salary, so you give people a stake in the outcome instead. The logic is sound. Equity turns salary-limited hires into owners and aligns the people doing the work with the value they create. Then […] The post Your ESOP is a fundraising document. Most founders treat it as a HR perk appeared firs…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f2d9902e27a7362e7cae"
     },
     {
       "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
@@ -701,8 +785,58 @@
       "id": "219dcac654b9ec5033fe"
     }
   ],
-  "new_findings": [],
-  "source_errors": [],
+  "new_findings": [
+    {
+      "title": "Why a small Gulf currency matters for Partior’s Southeast Asian ambitions",
+      "url": "https://e27.co/why-a-small-gulf-currency-matters-for-partiors-southeast-asian-ambitions-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-16T04:00:57+00:00",
+      "fetched_at": "2026-10-16T04:22:46+00:00",
+      "summary": "The National Bank of Bahrain (NBB) has signed a memorandum of understanding with blockchain settlement network Partior to study whether the Bahraini dinar (BHD) can be settled on the Singaporean firm’s rails, with NBB acting as the currency’s settlement bank. Read the fine print and the ambition shrinks to its proper size. The MoU commits […] The post Why a small Gulf currency matters for Partior’s Southeast Asian a…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c5241c40d6f10aa653af"
+    },
+    {
+      "title": "Your ESOP is a fundraising document. Most founders treat it as a HR perk",
+      "url": "https://e27.co/your-esop-is-a-fundraising-document-most-founders-treat-it-as-a-hr-perk-20261012/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-16T04:00:52+00:00",
+      "fetched_at": "2026-10-16T04:22:46+00:00",
+      "summary": "Almost every founder I meet reaches the same conclusion at roughly the same moment. You cannot outbid a funded competitor on salary, so you give people a stake in the outcome instead. The logic is sound. Equity turns salary-limited hires into owners and aligns the people doing the work with the value they create. Then […] The post Your ESOP is a fundraising document. Most founders treat it as a HR perk appeared firs…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f2d9902e27a7362e7cae"
+    }
+  ],
+  "source_errors": [
+    {
+      "source_id": "cert_fr_alerts",
+      "source_name": "CERT-FR Alertes",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.cert.ssi.gouv.fr', port=443): Max retries exceeded with url: /alerte/feed/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.cert.ssi.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
