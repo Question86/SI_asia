@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T18:59:50+00:00_
+_Generiert: 2026-10-16T19:16:49+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,6 @@ _Generiert: 2026-10-16T18:59:50+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.9M, Depth:143.176km) in Russia 16/10/2026 03:35 UTC, 10 thousand in MMI&gt;=V.
-- **GDACS: Green earthquake (Magnitude 6.8M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571305)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.8M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].
 - **USGS earthquake M6.9 - 76 km NE of Ozernovskiy, Russia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq)
   - Quelle: USGS
   - Zeit: `2026-10-16T03:35:31+00:00`
@@ -61,10 +57,6 @@ _Generiert: 2026-10-16T18:59:50+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:20.842km) in Papua New Guinea 13/10/2026 18:45 UTC, 4 thousand in MMI V.
-- **GDACS: Green notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2195 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001337)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2195 .
 
 ## Wirtschaft global
 
