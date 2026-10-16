@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-16T02:01:01+00:00_
+_Generated: 2026-10-16T02:29:14+00:00_
 
 ## Status
-- status: `normal`
-- findings: `8`
+- status: `warning`
+- findings: `9`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-10-16T02:01:01+00:00_
 - url: https://e27.co/why-indonesian-fintechs-asean-expansion-cost-more-than-anyone-priced-in-20261015/
 - summary: Indonesian fintech expansion into ASEAN looks different in 2026 than it did when Investree opened its Thailand operations in 2018 and its Philippines unit shortly after. The cohort of Indonesian platforms that pushed beyond the domestic market between 2018 an…
 
-### 5. DEFA cuts the cost of entry. Your architecture sets the cost of scale
-- source: e27 Asia Startup and Tech Feed
-- score: `6`
-- published: `2026-10-16T02:00:21+00:00`
-- url: https://e27.co/defa-cuts-the-cost-of-entry-your-architecture-sets-the-cost-of-scale-20261012/
-- summary: Sit in the architecture review of almost any platform that has reached four ASEAN markets and the same diagram appears. One product on top. Underneath, four data stores, four payment integrations, four know-your-customer flows (the identity checks that onboar…
+### 5. タイムズカー情報流出、信用機関に悪用防止要請殺到 クレカ発行に手間 - 日本経済新聞
+- source: Hatena Bookmark Hotentry IT
+- score: `7`
+- published: `2026-10-15T21:42:04+00:00`
+- url: https://www.nikkei.com/article/DGXZQOUC084IG0Y6A001C2000000/
+- summary: パーク24のカーシェアサービス「タイムズカー」における免許証画像流出を受け、信用情報機関に悪用防止の届け出が殺到している。クレジットカードの審査を厳格にして、なりすましを防ぐためだ。一方、本人でも発行までに手間がかかる可能性がある。システムへの不正アクセスによってタイムズカーでは約160万件分の免許証...
 
 END OF DOCUMENT
