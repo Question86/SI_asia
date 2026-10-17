@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T07:02:14+00:00_
+_Generiert: 2026-10-17T07:21:31+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „ruvnet/ruflo“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+17 neue relevante Treffer. Stärkstes Signal: „ruvnet/ruflo“ aus GitHub Trending RSS All Languages Daily (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -113,3 +113,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_statistics` (rss): 403 Client Error: Forbidden for url: https://www.bis.org/doclist/all_statistics.rss

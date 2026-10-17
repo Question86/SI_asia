@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-17T07:02:14+00:00",
-  "run_id": "2026-10-17T07:02:14+00:00",
+  "generated_at": "2026-10-17T07:21:31+00:00",
+  "run_id": "2026-10-17T07:21:31+00:00",
   "date": "2026-10-17",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 1,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 2,
-    "observe": 14,
-    "source_errors": 0
+    "observe": 15,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -441,6 +441,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2ddeae39157ea232c8b1"
+      },
+      {
+        "title": "こんにちは，UUID 芸人です - ハーフダチョウ研究会",
+        "url": "https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-17T00:36:24+00:00",
+        "fetched_at": "2026-10-17T07:21:00+00:00",
+        "summary": "こんにちは，都内で UUID 芸人をやっている id:mimifuwacc です． UUIDv4の衝突が話題になっているので，いいねした人にUUIDv4を配ろうと思います— mimifuwacc (@mimifuwacc) March 23, 2026 ついに UUID を配り終えたので，良いタイミングということで UUID の話をします． そもそも UUID とは まず，UUID について軽く...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2e85cf51ce7afef323e3"
       },
       {
         "title": "InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log",
@@ -899,6 +920,27 @@
       "id": "2ddeae39157ea232c8b1"
     },
     {
+      "title": "こんにちは，UUID 芸人です - ハーフダチョウ研究会",
+      "url": "https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-17T00:36:24+00:00",
+      "fetched_at": "2026-10-17T07:21:00+00:00",
+      "summary": "こんにちは，都内で UUID 芸人をやっている id:mimifuwacc です． UUIDv4の衝突が話題になっているので，いいねした人にUUIDv4を配ろうと思います— mimifuwacc (@mimifuwacc) March 23, 2026 ついに UUID を配り終えたので，良いタイミングということで UUID の話をします． そもそも UUID とは まず，UUID について軽く...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e85cf51ce7afef323e3"
+    },
+    {
       "title": "InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log",
       "url": "https://blog.naoshihoshi.com/entry/2023/02/17/120000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -941,8 +983,37 @@
       "id": "6a0313cc375c3772773a"
     }
   ],
-  "new_findings": [],
-  "source_errors": [],
+  "new_findings": [
+    {
+      "title": "こんにちは，UUID 芸人です - ハーフダチョウ研究会",
+      "url": "https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-17T00:36:24+00:00",
+      "fetched_at": "2026-10-17T07:21:00+00:00",
+      "summary": "こんにちは，都内で UUID 芸人をやっている id:mimifuwacc です． UUIDv4の衝突が話題になっているので，いいねした人にUUIDv4を配ろうと思います— mimifuwacc (@mimifuwacc) March 23, 2026 ついに UUID を配り終えたので，良いタイミングということで UUID の話をします． そもそも UUID とは まず，UUID について軽く...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e85cf51ce7afef323e3"
+    }
+  ],
+  "source_errors": [
+    {
+      "source_id": "bis_statistics",
+      "source_name": "BIS Statistical Releases",
+      "source_type": "rss",
+      "error": "403 Client Error: Forbidden for url: https://www.bis.org/doclist/all_statistics.rss"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
