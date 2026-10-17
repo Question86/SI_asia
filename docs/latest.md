@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T07:59:58+00:00_
+_Generiert: 2026-10-17T08:24:32+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „ruvnet/ruflo“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+20 neue relevante Treffer. Stärkstes Signal: „ruvnet/ruflo“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 ## Priorität Hoch
 
