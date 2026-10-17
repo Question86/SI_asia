@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T03:57:33+00:00_
+_Generiert: 2026-10-17T04:13:28+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „How the Claude Code team does code review / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+10 neue relevante Treffer. Stärkstes Signal: „How the Claude Code team does code review / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -130,3 +130,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `cert_fr_alerts` (rss): HTTPSConnectionPool(host='cert.cyber.gouv.fr', port=443): Read timed out. (read timeout=8)

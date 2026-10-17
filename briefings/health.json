@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-10-17T03:57:33+00:00",
-  "status": "normal",
+  "generated_at": "2026-10-17T04:13:28+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 1,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 1,
-    "observe": 8,
-    "source_errors": 0
+    "observe": 9,
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "cert_fr_alerts",
+      "source_name": "CERT-FR Alertes",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='cert.cyber.gouv.fr', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
