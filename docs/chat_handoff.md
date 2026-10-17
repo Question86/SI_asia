@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-17T16:33:32+00:00_
+_Generated: 2026-10-17T16:44:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `29`
 
 ## Top Signals
 
-### 1. ruvnet/ruflo
+### 1. すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能
+- source: Hatena Bookmark Hotentry IT
+- score: `23`
+- published: `2026-10-17T09:27:07+00:00`
+- url: https://gigazine.net/news/20261017-agentsview/
+- summary: Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」で...
+
+### 2. ruvnet/ruflo
 - source: GitHub Trending RSS All Languages Daily
 - score: `23`
 - published: `None`
 - url: https://github.com/ruvnet/ruflo
 - summary: 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Code…
 
-### 2. How the Claude Code team does code review / claude.dev Blog
+### 3. How the Claude Code team does code review / claude.dev Blog
 - source: Hatena Bookmark Hotentry IT
 - score: `16`
 - published: `2026-10-16T12:24:30+00:00`
 - url: https://claude.dev/blog/solving-code-review-at-anthropic/
 - summary: We've said before that Claude writes about 90 percent of Claude Code's own code. So how do we review code at the volume we produce it? Does anyone read code anymore? And if something breaks, who catches it? This post covers the code review flow on the Claude…
 
-### 3. M 4.5 - 59 km NNW of Ruteng, Indonesia
+### 4. M 4.5 - 59 km NNW of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-17T07:36:26.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yw
 - summary: Time 2026-10-17 07:20:48 UTC 2026-10-17 07:20:48 UTC at epicenter Location 8.109°S 120.282°E Depth 10.00 km (6.21 mi)
-
-### 4. GitHub - google-research/harness2
-- source: Hatena Bookmark Hotentry IT
-- score: `14`
-- published: `2026-10-16T08:41:45+00:00`
-- url: https://github.com/google-research/harness2
-- summary: A harness is the system around a model that enables it to act as an agent: prompts, tools, memory, skills, orchestration, and more. Harnessing is the process of optimizing that system. Harness² is a plug-and-play framework for recursive agent harnessing in an…
 
 ### 5. M 5.7 - 48 km WNW of Khuzdar, Pakistan
 - source: USGS M4.5+ Earthquakes Past Hour
