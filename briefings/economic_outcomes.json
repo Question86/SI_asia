@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T09:23:15+00:00",
+  "generated_at": "2026-10-17T09:34:27+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -1490,12 +1490,12 @@
     {
       "event_id": "evt_164e5beddac25854c021",
       "title": "M 4.8 - 110 km NE of Norsup, Vanuatu",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -10937,6 +10937,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_99d5cf1ae44fd8278d72",
+      "title": "M 4.6 - 51 km N of Pante Makasar, Timor Leste",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_9a2361687c9a12c7708c",
       "title": "For Southeast Asian startups, distress may show up before the cash runs out",
       "deduplicated_buckets": 0,
@@ -15224,7 +15235,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_da275e7d4e672b8bea83",
