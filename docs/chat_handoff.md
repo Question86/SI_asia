@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-17T04:29:51+00:00_
+_Generated: 2026-10-17T04:45:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `10`
+- findings: `12`
 
 ## Top Signals
 
@@ -29,18 +29,18 @@ _Generated: 2026-10-17T04:29:51+00:00_
 - url: https://vps.sakura.ad.jp/contents/info/202610-pendingapply/
 - summary: 平素よりさくらのVPSをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999、通称「PwnEscape」）について、さくらのVPSにおける現在の対応状況をご案内いたします。 現在、さくらのVPSでは石狩、東京、大阪の全リージョンで新規申し込みの受付を一時的に停止し...
 
-### 4. 漢字の上にふりがなを表示する日本語フォント「Furifont」オープンライセンスで公開 | gihyo.jp
+### 4. AI「ミューズ」が侵食する旅行サイト ブッキングなど株価軒並み下落 - 日本経済新聞
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-16T21:50:27+00:00`
+- url: https://www.nikkei.com/article/DGXZQOFD0801K0Y6A001C2000000/
+- summary: 【ニューヨーク=石坪真衣】旅行予約を代行する米メタの「Muse（ミューズ）」の登場以降、米オンライン旅行会社の株価が軟調に推移している。ブッキング・ホールディングスは1割以上下落した。手数料や広告減を招く懸念が指摘されている。QUICK・ファクトセットによると、16日時点の株価はミューズ発表前の9月4日終値比で...
+
+### 5. 漢字の上にふりがなを表示する日本語フォント「Furifont」オープンライセンスで公開 | gihyo.jp
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-10-16T11:10:40+00:00`
 - url: https://gihyo.jp/article/2026/10/furifont
 - summary: OSS開発者のAnthony Fu氏は2026年10月15日、漢字の上にふりがな（かな文字またはローマ字）を表示するフォント「Furifont」を製作、オープンなライセンス[1]で公開した。日本語学習などに役立てたいとしている。 Furifont⁠：ふりがなを表示するフォント https://furifont.antfu.me/ Hey Japanese learners! I built a fo...
-
-### 5. M 4.9 - 115 km SW of Puerto Madero, Mexico
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-17T01:18:02.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7
-- summary: Time 2026-10-17 01:03:00 UTC 2026-10-17 01:03:00 UTC at epicenter Location 14.058°N 93.248°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

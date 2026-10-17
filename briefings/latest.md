@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T04:29:51+00:00_
+_Generiert: 2026-10-17T04:45:07+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „How the Claude Code team does code review / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+12 neue relevante Treffer. Stärkstes Signal: „How the Claude Code team does code review / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -95,15 +95,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 平素よりさくらのVPSをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999、通称「PwnEscape」）について、さくらのVPSにおける現在の対応状況をご案内いたします。 現在、さくらのVPSでは石狩、東京、大阪の全リージョンで新規申し込みの受付を一時的に停止し...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **漢字の上にふりがなを表示する日本語フォント「Furifont」オープンライセンスで公開 | gihyo.jp** — Score 10, observation — [Quelle](https://gihyo.jp/article/2026/10/furifont)
+- **AI「ミューズ」が侵食する旅行サイト ブッキングなど株価軒並み下落 - 日本経済新聞** — Score 11, observation — [Quelle](https://www.nikkei.com/article/DGXZQOFD0801K0Y6A001C2000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-16T11:10:40+00:00`, fetched `2026-10-17T03:24:05+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Zeit: published `2026-10-16T21:50:27+00:00`, fetched `2026-10-17T04:44:37+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: OSS開発者のAnthony Fu氏は2026年10月15日、漢字の上にふりがな（かな文字またはローマ字）を表示するフォント「Furifont」を製作、オープンなライセンス[1]で公開した。日本語学習などに役立てたいとしている。 Furifont⁠：ふりがなを表示するフォント https://furifont.antfu.me/ Hey Japanese learners! I built a fo...
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 【ニューヨーク=石坪真衣】旅行予約を代行する米メタの「Muse（ミューズ）」の登場以降、米オンライン旅行会社の株価が軟調に推移している。ブッキング・ホールディングスは1割以上下落した。手数料や広告減を招く懸念が指摘されている。QUICK・ファクトセットによると、16日時点の株価はミューズ発表前の9月4日終値比で...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 196 km SSE of Alo, Wallis and Futuna** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2xs)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-17T04:33:19.040+00:00`, fetched `2026-10-17T04:44:37+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-17 04:19:05 UTC 2026-10-17 04:19:05 UTC at epicenter Location 16.044°S 177.728°W Depth 439.39 km (273.03 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 115 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-17T01:18:02.040+00:00`, fetched `2026-10-17T01:30:03+00:00`
