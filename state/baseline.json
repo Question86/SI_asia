@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T02:27:35+00:00",
+  "generated_at": "2026-10-17T02:43:33+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -76874,7 +76874,7 @@
     },
     "cve:CVE-2026-99999": {
       "title": "さくらのVPSにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について",
-      "updated_at": "2026-10-17T02:27:35+00:00",
+      "updated_at": "2026-10-17T02:43:33+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -77597,7 +77597,38 @@
     },
     "earthquake:m 4.6 - 6 km nne of sámi, greece:4.6": {
       "title": "M 4.6 - 6 km NNE of Sámi, Greece",
-      "updated_at": "2026-10-17T02:27:35+00:00",
+      "updated_at": "2026-10-17T02:43:33+00:00",
+      "network_scores": [
+        14.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7
+      ],
+      "rolling_average": 12.2,
+      "rolling_peak": 14.7,
+      "last_score": 11.7,
+      "z_hint": -0.5
+    },
+    "title:claude-code-team-does-code-review-claude-dev": {
+      "title": "How the Claude Code team does code review / claude.dev Blog",
+      "updated_at": "2026-10-17T02:43:33+00:00",
+      "network_scores": [
+        21.1,
+        18.1,
+        18.1,
+        18.1,
+        18.1
+      ],
+      "rolling_average": 18.7,
+      "rolling_peak": 21.1,
+      "last_score": 18.1,
+      "z_hint": -0.6
+    },
+    "earthquake:m 4.9 - 115 km sw of puerto madero, mexico:4.9": {
+      "title": "M 4.9 - 115 km SW of Puerto Madero, Mexico",
+      "updated_at": "2026-10-17T02:43:33+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -77610,51 +77641,39 @@
       "last_score": 11.7,
       "z_hint": -0.6
     },
-    "title:claude-code-team-does-code-review-claude-dev": {
-      "title": "How the Claude Code team does code review / claude.dev Blog",
-      "updated_at": "2026-10-17T02:27:35+00:00",
-      "network_scores": [
-        21.1,
-        18.1,
-        18.1,
-        18.1
-      ],
-      "rolling_average": 18.85,
-      "rolling_peak": 21.1,
-      "last_score": 18.1,
-      "z_hint": -0.75
-    },
-    "earthquake:m 4.9 - 115 km sw of puerto madero, mexico:4.9": {
-      "title": "M 4.9 - 115 km SW of Puerto Madero, Mexico",
-      "updated_at": "2026-10-17T02:27:35+00:00",
-      "network_scores": [
-        14.7,
-        11.7,
-        11.7,
-        11.7
-      ],
-      "rolling_average": 12.45,
-      "rolling_peak": 14.7,
-      "last_score": 11.7,
-      "z_hint": -0.75
-    },
     "domain:blog.naoshihoshi.com": {
       "title": "InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log",
-      "updated_at": "2026-10-17T02:27:35+00:00",
+      "updated_at": "2026-10-17T02:43:33+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.85,
+      "rolling_average": 7.7,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:void-void": {
       "title": "ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する",
-      "updated_at": "2026-10-17T02:27:35+00:00",
+      "updated_at": "2026-10-17T02:43:33+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.7,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.6
+    },
+    "title:base-2335-209": {
+      "title": "BASE子会社の漏えい、約2335万人分に 209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も",
+      "updated_at": "2026-10-17T02:43:33+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -77665,19 +77684,6 @@
       "rolling_peak": 10.1,
       "last_score": 7.1,
       "z_hint": -0.75
-    },
-    "title:base-2335-209": {
-      "title": "BASE子会社の漏えい、約2335万人分に 209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も",
-      "updated_at": "2026-10-17T02:27:35+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 8.1,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -1.0
     }
   }
 }
