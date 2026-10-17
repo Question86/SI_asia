@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T08:24:32+00:00",
-  "run_id": "2026-10-17T08:24:32+00:00",
+  "generated_at": "2026-10-17T08:37:53+00:00",
+  "run_id": "2026-10-17T08:37:53+00:00",
   "date": "2026-10-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 20,
     "displayed_findings": 20,
     "high": 0,
@@ -1171,29 +1171,7 @@
       "id": "6a0313cc375c3772773a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "中国製車両、ノルウェー軍の機密情報を記録 訓練中に発覚",
-      "url": "https://www.afpbb.com/articles/-/3658078",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-17T05:51:11+00:00",
-      "fetched_at": "2026-10-17T08:24:02+00:00",
-      "summary": "この写真にはショッキングな表現、または18歳以上の年齢制限の対象となる内容が含まれます。 ご覧になる場合にはご了承の上、クリックしてください。 【10月17日 AFP】ノルウェー軍の訓練中、中国製車両の車載カメラが軍事施設への入場コードや関係者の出入りなど、機密性の高い情報を記録していたことが分かり、コネク...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4bdf3161b13bf3a70492"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
