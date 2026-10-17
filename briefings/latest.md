@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T23:00:28+00:00_
+_Generiert: 2026-10-17T23:16:05+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+33 neue relevante Treffer. Stärkstes Signal: „すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,10 +45,6 @@ _Generiert: 2026-10-17T23:00:28+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:1km) in United States 15/10/2026 11:07 UTC, 9 thousand in MMI&gt;=III.
-- **GDACS: Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.175 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001338)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.175 million .
 - **USGS earthquake M5.7 - 48 km WNW of Khuzdar, Pakistan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1)
   - Quelle: USGS
   - Zeit: `2026-10-17T05:06:57+00:00`
@@ -198,7 +194,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `hn_release_security_burst` (hackernews): HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)
