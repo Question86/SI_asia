@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T09:22:45+00:00",
-  "today_file_total": 21,
+  "generated_at": "2026-10-17T09:33:56+00:00",
+  "today_file_total": 22,
   "current_clusters": [
     {
       "key": "github_repo:ruvnet/ruflo",
@@ -125,8 +125,8 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "earthquake:m 4.8 - 110 km ne of norsup, vanuatu:4.8",
-      "title": "M 4.8 - 110 km NE of Norsup, Vanuatu",
+      "key": "earthquake:m 4.6 - 51 km n of pante makasar, timor leste:4.6",
+      "title": "M 4.6 - 51 km N of Pante Makasar, Timor Leste",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -134,7 +134,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2z9"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2zb"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -219,6 +219,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 4.8 - 110 km ne of norsup, vanuatu:4.8",
+      "title": "M 4.8 - 110 km NE of Norsup, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2z9"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 4.5 - 80 km nw of sola, vanuatu:4.5",
@@ -446,29 +471,6 @@
       ],
       "urls": [
         "https://blog.naoshihoshi.com/entry/2023/02/17/120000"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:void-void",
-      "title": "ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://zenn.dev/nkzn/articles/my-first-void"
       ],
       "finding_count": 1,
       "max_score": 5,
