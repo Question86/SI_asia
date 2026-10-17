@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T19:00:39+00:00_
+_Generiert: 2026-10-17T19:15:07+00:00_
 
 ## Kurzlage
 
@@ -49,10 +49,6 @@ _Generiert: 2026-10-17T19:00:39+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.175 million .
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:585.07km) in Fiji 14/10/2026 10:49 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571524)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:585.07km) in Fiji 14/10/2026 10:49 UTC, Few people affected in 100km.
 - **USGS earthquake M5.7 - 48 km WNW of Khuzdar, Pakistan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1)
   - Quelle: USGS
   - Zeit: `2026-10-17T05:06:57+00:00`
