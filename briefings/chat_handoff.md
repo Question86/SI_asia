@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-17T01:30:33+00:00_
+_Generated: 2026-10-17T01:50:33+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-10-17T01:30:33+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ww
 - summary: Time 2026-10-16 23:57:50 UTC 2026-10-16 23:57:50 UTC at epicenter Location 38.305°N 20.686°E Depth 10.00 km (6.21 mi)
 
-### 5. InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log
+### 5. BASE子会社の漏えい、約2335万人分に 209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-10-16T21:13:31+00:00`
-- url: https://blog.naoshihoshi.com/entry/2023/02/17/120000
-- summary: 概要 SnapmartアプリではInstagramグラフAPIを使用しているのですが、8月下旬にMeta社より「プラットフォーム違反しているからAPI利用停止するね」とお達しがありました。*1 Instagram連携不具合解消のお知らせ | Snapmart（スナップマート）公式ブログ この記事では、InstagramグラフAPIのプラットフォーム利用規約違反...
+- published: `2026-10-17T00:57:57+00:00`
+- url: https://www.itmedia.co.jp/news/article/2610/17/2000002349/
+- summary: ショップサーブは、企業が独自ドメインのネットショップを作るためのECサイト構築・運営支援サービス。25年7月にBASEがEストアーの全株式を取得して子会社化した。 今回の漏えいは8月に公表。詳細を調べた結果、10月16日に最終報が出た。 店舗はID・パスワードなど、購入者はカード情報の一部など漏えい 対象店舗は、シ...
 
 END OF DOCUMENT
