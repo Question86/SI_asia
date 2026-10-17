@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T21:44:56+00:00",
-  "run_id": "2026-10-17T21:44:56+00:00",
+  "generated_at": "2026-10-17T22:01:06+00:00",
+  "run_id": "2026-10-17T22:01:06+00:00",
   "date": "2026-10-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 32,
     "displayed_findings": 32,
     "high": 0,
@@ -1831,30 +1831,7 @@
       "id": "3d940e8ce327960d4c32"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
-      "url": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-17T14:59:56+00:00",
-      "fetched_at": "2026-10-17T21:44:24+00:00",
-      "summary": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性 悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-20...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Security"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "34055ed16dfee481ebc4"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
