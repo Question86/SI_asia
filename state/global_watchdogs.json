@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T03:24:41+00:00",
+  "generated_at": "2026-10-17T03:37:38+00:00",
   "sections": {
     "global_security": [
       {
@@ -71,21 +71,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571917",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "USGS earthquake M6.9 - 76 km NE of Ozernovskiy, Russia",
-        "summary": "M6.9 - 76 km NE of Ozernovskiy, Russia. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq",
-        "published_at": "2026-10-16T03:35:31+00:00",
-        "metrics": {
-          "mag": 6.9,
-          "alert": "green",
-          "sig": 734.0,
-          "tsunami": 0
-        }
       },
       {
         "domain": "security",

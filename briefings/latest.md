@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T03:24:38+00:00_
+_Generiert: 2026-10-17T03:37:35+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,6 @@ _Generiert: 2026-10-17T03:24:38+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.9M, Depth:143.176km) in Russia 16/10/2026 03:35 UTC, 10 thousand in MMI&gt;=V.
-- **USGS earthquake M6.9 - 76 km NE of Ozernovskiy, Russia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq)
-  - Quelle: USGS
-  - Zeit: `2026-10-16T03:35:31+00:00`
-  - Kurz: M6.9 - 76 km NE of Ozernovskiy, Russia. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3815 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001339)
   - Quelle: GDACS
   - Zeit: ``

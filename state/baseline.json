@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T03:24:41+00:00",
+  "generated_at": "2026-10-17T03:37:38+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -76874,7 +76874,7 @@
     },
     "cve:CVE-2026-99999": {
       "title": "CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita",
-      "updated_at": "2026-10-17T03:24:41+00:00",
+      "updated_at": "2026-10-17T03:37:38+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -76903,14 +76903,14 @@
         14.1,
         14.1,
         14.1,
-        14.1,
         19.2,
+        16.2,
         16.2
       ],
-      "rolling_average": 14.34,
+      "rolling_average": 14.41,
       "rolling_peak": 19.2,
       "last_score": 16.2,
-      "z_hint": 1.86
+      "z_hint": 1.79
     },
     "earthquake:m 4.9 - 119 km ssw of merizo village, guam:4.9": {
       "title": "M 4.9 - 119 km SSW of Merizo Village, Guam",
@@ -77597,7 +77597,44 @@
     },
     "earthquake:m 4.6 - 6 km nne of sámi, greece:4.6": {
       "title": "M 4.6 - 6 km NNE of Sámi, Greece",
-      "updated_at": "2026-10-17T03:24:41+00:00",
+      "updated_at": "2026-10-17T03:37:38+00:00",
+      "network_scores": [
+        14.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7
+      ],
+      "rolling_average": 12.03,
+      "rolling_peak": 14.7,
+      "last_score": 11.7,
+      "z_hint": -0.33
+    },
+    "title:claude-code-team-does-code-review-claude-dev": {
+      "title": "How the Claude Code team does code review / claude.dev Blog",
+      "updated_at": "2026-10-17T03:37:38+00:00",
+      "network_scores": [
+        21.1,
+        18.1,
+        18.1,
+        18.1,
+        18.1,
+        18.1,
+        18.1,
+        18.1
+      ],
+      "rolling_average": 18.47,
+      "rolling_peak": 21.1,
+      "last_score": 18.1,
+      "z_hint": -0.37
+    },
+    "earthquake:m 4.9 - 115 km sw of puerto madero, mexico:4.9": {
+      "title": "M 4.9 - 115 km SW of Puerto Madero, Mexico",
+      "updated_at": "2026-10-17T03:37:38+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -77613,43 +77650,9 @@
       "last_score": 11.7,
       "z_hint": -0.38
     },
-    "title:claude-code-team-does-code-review-claude-dev": {
-      "title": "How the Claude Code team does code review / claude.dev Blog",
-      "updated_at": "2026-10-17T03:24:41+00:00",
-      "network_scores": [
-        21.1,
-        18.1,
-        18.1,
-        18.1,
-        18.1,
-        18.1,
-        18.1
-      ],
-      "rolling_average": 18.53,
-      "rolling_peak": 21.1,
-      "last_score": 18.1,
-      "z_hint": -0.43
-    },
-    "earthquake:m 4.9 - 115 km sw of puerto madero, mexico:4.9": {
-      "title": "M 4.9 - 115 km SW of Puerto Madero, Mexico",
-      "updated_at": "2026-10-17T03:24:41+00:00",
-      "network_scores": [
-        14.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7
-      ],
-      "rolling_average": 12.13,
-      "rolling_peak": 14.7,
-      "last_score": 11.7,
-      "z_hint": -0.43
-    },
     "domain:blog.naoshihoshi.com": {
       "title": "InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log",
-      "updated_at": "2026-10-17T03:24:41+00:00",
+      "updated_at": "2026-10-17T03:37:38+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -77657,16 +77660,35 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.53,
+      "rolling_average": 7.48,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "title:void-void": {
       "title": "ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する",
-      "updated_at": "2026-10-17T03:24:41+00:00",
+      "updated_at": "2026-10-17T03:37:38+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.48,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.38
+    },
+    "title:base-2335-209": {
+      "title": "BASE子会社の漏えい、約2335万人分に 209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も",
+      "updated_at": "2026-10-17T03:37:38+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -77681,32 +77703,17 @@
       "last_score": 7.1,
       "z_hint": -0.43
     },
-    "title:base-2335-209": {
-      "title": "BASE子会社の漏えい、約2335万人分に 209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も",
-      "updated_at": "2026-10-17T03:24:41+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.6,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.5
-    },
     "title:furifont-gihyo": {
       "title": "漢字の上にふりがなを表示する日本語フォント「Furifont」オープンライセンスで公開 | gihyo.jp",
-      "updated_at": "2026-10-17T03:24:41+00:00",
+      "updated_at": "2026-10-17T03:37:38+00:00",
       "network_scores": [
-        15.1
+        15.1,
+        12.1
       ],
-      "rolling_average": 15.1,
+      "rolling_average": 13.6,
       "rolling_peak": 15.1,
-      "last_score": 15.1,
-      "z_hint": 0.0
+      "last_score": 12.1,
+      "z_hint": -1.5
     }
   }
 }
