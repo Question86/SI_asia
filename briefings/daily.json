@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T09:44:10+00:00",
-  "today_file_total": 22,
+  "generated_at": "2026-10-17T09:59:03+00:00",
+  "today_file_total": 23,
   "current_clusters": [
     {
       "key": "github_repo:ruvnet/ruflo",
@@ -190,6 +190,29 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
+      "network_score": 12.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:future-architect.github.io",
+      "title": "E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://future-architect.github.io/articles/20261016a/"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "network_score": 12.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -448,29 +471,6 @@
       ],
       "urls": [
         "https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:blog.naoshihoshi.com",
-      "title": "InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://blog.naoshihoshi.com/entry/2023/02/17/120000"
       ],
       "finding_count": 1,
       "max_score": 5,
