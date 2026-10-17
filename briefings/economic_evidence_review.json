@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T03:02:06+00:00",
+  "generated_at": "2026-10-17T03:25:06+00:00",
   "fx_as_of": null,
   "candidate_count": 1993,
   "promoted_count": 0,
@@ -30339,20 +30339,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.35,
       "candidate_id": "cand_f93e8bcc4a0f824df9ef",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_fbb2c72f335e9b249a7d",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-10-17T03:02:02+00:00",
       "overlap_group_suggestion": "evt_fbb2c72f335e9b249a7d:unknown:031609cabed5",
       "review_status": "pending",
       "snippet": "er：CVE-2026-99999 — https://security-tracker.debian.org/tracker/CVE-2026-99999 Ubuntu Security：CVE-2026-99999 — https://ubuntu.com/security/CVE-2026-99999 Vercel：Findings from the $1M Vercel Sandbox challenge（10月14日） — https://vercel.com/blog/findings-from-the-1-million-dollar-vercel-sandbox-challenge Vercel：チャレンジ募集・構成・脅威モデル（8月18日） — https://vercel.com/blog/one",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
-      "component_confidence": 0.0,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3"
     },
     {
       "amount_native": 500000.0,
