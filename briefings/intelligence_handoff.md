@@ -1,18 +1,18 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-17T06:21:29Z_
+_Generated: 2026-10-17T06:49:03Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.94.
+Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.91.
 
 ## Top Dynamics
 
 ### CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `25.94`
-- Published: `2026-10-16T12:31:55+00:00` / age_days `0.74`
+- Dynamics score: `25.91`
+- Published: `2026-10-16T12:31:55+00:00` / age_days `0.76`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cve
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-16T12:24:30+00:00` / age_days `0.75`
+- Published: `2026-10-16T12:24:30+00:00` / age_days `0.77`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-16T17:16:58+00:00` / age_days `0.54`
+- Published: `2026-10-16T17:16:58+00:00` / age_days `0.56`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-16T13:16:01+00:00` / age_days `0.71`
+- Published: `2026-10-16T13:16:01+00:00` / age_days `0.73`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-17T05:58:27+00:00` / age_days `0.02`
+- Published: `2026-10-17T05:58:27+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -60,19 +60,19 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 ### ruvnet/ruflo
 
-- Band: `strong` (raw `extreme`)
+- Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-17T05:59:00+00:00` / age_days `0.02`
+- Published: `2026-10-17T05:59:00+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +1, krass gate: single-source non-official/non-identity signal capped
 - Quelle: https://github.com/ruvnet/ruflo
 
 ### How the Claude Code team does code review / claude.dev Blog
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-10-17T01:30:36+00:00` / age_days `0.2`
+- Published: `2026-10-17T01:30:36+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-17T03:24:41+00:00` / age_days `0.12`
+- Published: `2026-10-17T03:24:41+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-17T04:33:19.040+00:00` / age_days `0.08`
+- Published: `2026-10-17T04:33:19.040+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-17T01:18:02.040+00:00` / age_days `0.21`
+- Published: `2026-10-17T01:18:02.040+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-17T00:32:21.040+00:00` / age_days `0.24`
+- Published: `2026-10-17T00:32:21.040+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-10-17T04:45:10+00:00` / age_days `0.07`
+- Published: `2026-10-17T04:45:10+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
