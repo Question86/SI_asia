@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-17T09:40:03Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.57.",
+  "generated_at": "2026-10-17T09:50:38Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.54.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -15,11 +15,11 @@
       "url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T12:31:55+00:00",
-      "age_days": 0.88,
+      "age_days": 0.89,
       "topics": [
         "security"
       ],
-      "dynamics_score": 25.57,
+      "dynamics_score": 25.54,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
@@ -65,7 +65,7 @@
       "url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T17:16:58+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "security"
       ],
@@ -91,7 +91,7 @@
       "url": "https://vps.sakura.ad.jp/contents/info/202610-pendingapply/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T13:16:01+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "security"
       ],
@@ -117,7 +117,7 @@
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-17T05:59:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -144,7 +144,7 @@
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-17T05:58:27+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -196,7 +196,7 @@
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T01:30:36+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -223,7 +223,7 @@
       "url": "https://gihyo.jp/article/2026/10/furifont",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T03:24:41+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -243,11 +243,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.8 - 110 km NE of Norsup, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2z9",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-17T09:22:45+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.6 - 51 km N of Pante Makasar, Timor Leste",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2zb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T09:25:09.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -272,7 +297,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2z9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T09:22:00.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -291,31 +316,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-17 08:59:51 UTC 2026-10-17 08:59:51 UTC at epicenter Location 15.512°S 168.252°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.5 - 80 km NW of Sola, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yz",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-17T07:58:10.040+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-17 07:40:02 UTC 2026-10-17 07:40:02 UTC at epicenter Location 13.346°S 167.047°E Depth 145.27 km (90.26 mi)"
     }
   ],
   "read_order": [
