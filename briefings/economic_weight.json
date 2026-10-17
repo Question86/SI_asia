@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T09:34:13+00:00",
+  "generated_at": "2026-10-17T09:44:30+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1784,7 +1784,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T07:22:32+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -2073,7 +2073,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-17T05:33:05+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -4300,7 +4300,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-17T09:22:45+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -4453,7 +4453,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-17T04:45:10+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -5541,7 +5541,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-17T08:00:01+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -6599,6 +6599,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_99d5cf1ae44fd8278d72",
+      "title": "M 4.6 - 51 km N of Pante Makasar, Timor Leste",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_9a93fcb3246f1eb6756b",
       "title": "M 5.3 - 108 km ESE of Yigo Village, Guam",
       "event_classes": [
@@ -7207,7 +7224,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-17T01:30:36+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -7938,7 +7955,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-17T00:44:00+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -8348,23 +8365,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_99d5cf1ae44fd8278d72",
-      "title": "M 4.6 - 51 km N of Pante Makasar, Timor Leste",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-17T09:33:56+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -9927,7 +9927,7 @@
       "p90_usd": 2840000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T12:31:55+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -10284,7 +10284,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-17T05:59:00+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -11457,7 +11457,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -11848,7 +11848,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-17T01:30:36+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -12120,7 +12120,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -17459,7 +17459,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-17T03:24:41+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -17935,7 +17935,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -19432,7 +19432,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T03:53:58+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -23496,7 +23496,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -25927,7 +25927,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-17T01:50:36+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -26199,7 +26199,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-17T07:21:34+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
@@ -26216,7 +26216,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-17T01:30:36+00:00",
-      "last_seen_at": "2026-10-17T09:33:56+00:00",
+      "last_seen_at": "2026-10-17T09:44:10+00:00",
       "status": "active"
     },
     {
