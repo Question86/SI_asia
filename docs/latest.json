@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T20:06:31+00:00",
-  "run_id": "2026-10-17T20:06:31+00:00",
+  "generated_at": "2026-10-17T20:23:36+00:00",
+  "run_id": "2026-10-17T20:23:36+00:00",
   "date": "2026-10-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 31,
     "displayed_findings": 31,
     "high": 0,
@@ -1787,29 +1787,7 @@
       "id": "3d940e8ce327960d4c32"
     }
   ],
-  "new_findings": [
-    {
-      "title": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2149045.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-17T14:39:34+00:00",
-      "fetched_at": "2026-10-17T20:06:00+00:00",
-      "summary": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ea26c705aae7dd00f5e8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
