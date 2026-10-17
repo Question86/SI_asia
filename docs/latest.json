@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-17T08:48:38+00:00",
-  "run_id": "2026-10-17T08:48:38+00:00",
+  "generated_at": "2026-10-17T08:56:31+00:00",
+  "run_id": "2026-10-17T08:56:31+00:00",
   "date": "2026-10-17",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 20
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 3,
     "observe": 17,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -1172,7 +1172,14 @@
     }
   ],
   "new_findings": [],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "cert_fr_alerts",
+      "source_name": "CERT-FR Alertes",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.cert.ssi.gouv.fr', port=443): Max retries exceeded with url: /alerte/feed/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.cert.ssi.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
