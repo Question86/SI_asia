@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T00:44:17+00:00",
+  "generated_at": "2026-10-17T01:30:52+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -7840,6 +7840,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_eddf735dd43f1dd4117c",
+      "title": "M 4.6 - 6 km NNE of Sámi, Greece",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-17T00:44:00+00:00",
+      "last_seen_at": "2026-10-17T01:30:36+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_ee0728b4c952e99dcfc6",
       "title": "M 5.1 - 162 km SSW of Merizo Village, Guam",
       "event_classes": [
@@ -8248,8 +8265,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_eddf735dd43f1dd4117c",
-      "title": "M 4.6 - 6 km NNE of Sámi, Greece",
+      "event_id": "evt_bf97d64b8252516f042d",
+      "title": "M 4.9 - 115 km SW of Puerto Madero, Mexico",
       "event_classes": [
         "natural_disaster"
       ],
@@ -8260,8 +8277,8 @@
       "p50_usd": 111200000.0,
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
-      "first_seen_at": "2026-10-17T00:44:00+00:00",
-      "last_seen_at": "2026-10-17T00:44:00+00:00",
+      "first_seen_at": "2026-10-17T01:30:36+00:00",
+      "last_seen_at": "2026-10-17T01:30:36+00:00",
       "status": "active"
     },
     {
@@ -9825,7 +9842,7 @@
       "p90_usd": 2840000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-16T12:31:55+00:00",
-      "last_seen_at": "2026-10-17T00:44:00+00:00",
+      "last_seen_at": "2026-10-17T01:30:36+00:00",
       "status": "active"
     },
     {
@@ -12309,6 +12326,23 @@
       "first_seen_at": "2026-09-25T09:44:45+00:00",
       "last_seen_at": "2026-09-25T23:54:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_22addf2585c041d5aa48",
+      "title": "How the Claude Code team does code review / claude.dev Blog",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-17T01:30:36+00:00",
+      "last_seen_at": "2026-10-17T01:30:36+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_164cc1afee592ac2b935",
@@ -26728,6 +26762,40 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_dbb98cb3ef077e168dd4",
+      "title": "InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "production"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-17T01:30:36+00:00",
+      "last_seen_at": "2026-10-17T01:30:36+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_da26514f82ee43c39622",
+      "title": "ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-17T01:30:36+00:00",
+      "last_seen_at": "2026-10-17T01:30:36+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
