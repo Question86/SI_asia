@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-17T21:28:01+00:00",
+  "generated_at": "2026-10-17T21:44:56+00:00",
   "topics": {
     "ai": [
       {
@@ -196,6 +196,13 @@
       }
     ],
     "security": [
+      {
+        "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-17T14:59:56+00:00",
+        "relevance_score": 12,
+        "url": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html"
+      },
       {
         "title": "CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita",
         "source": "Hatena Bookmark Hotentry IT",

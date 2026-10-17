@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T21:28:01+00:00_
+_Generiert: 2026-10-17T21:44:56+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+32 neue relevante Treffer. Stärkstes Signal: „すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -126,6 +126,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - YELLOW ShakeMap - VII Time 2026-10-17 05:06:57 UTC 2026-10-17 05:06:57 UTC at epicenter Location 28.018°N 66.171°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性** — Score 12, risk — [Quelle](https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-17T14:59:56+00:00`, fetched `2026-10-17T21:44:24+00:00`
+  - Treffer: Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性 悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-20...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita** — Score 12, risk — [Quelle](https://qiita.com/k2_naka/items/fa87685231377f15e7e3)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-16T17:16:58+00:00`, fetched `2026-10-17T03:01:08+00:00`
@@ -152,15 +161,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI「ミューズ」が侵食する旅行サイト ブッキングなど株価軒並み下落 - 日本経済新聞** — Score 11, observation — [Quelle](https://www.nikkei.com/article/DGXZQOFD0801K0Y6A001C2000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-16T21:50:27+00:00`, fetched `2026-10-17T04:44:37+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 【ニューヨーク=石坪真衣】旅行予約を代行する米メタの「Muse（ミューズ）」の登場以降、米オンライン旅行会社の株価が軟調に推移している。ブッキング・ホールディングスは1割以上下落した。手数料や広告減を招く懸念が指摘されている。QUICK・ファクトセットによると、16日時点の株価はミューズ発表前の9月4日終値比で...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - 86 km SW of Brisas Barra de Suchiate, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u309)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
