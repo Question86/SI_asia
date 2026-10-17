@@ -1,15 +1,53 @@
 {
-  "generated_at": "2026-10-17T00:44:00+00:00",
+  "generated_at": "2026-10-17T01:30:36+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 2,
-    "clusters": 2,
+    "findings": 6,
+    "clusters": 6,
     "cross_source_confrmed": 0,
-    "hot": 0,
-    "early_signals": 0,
-    "dominance_penalized": 1
+    "hot": 1,
+    "early_signals": 1,
+    "dominance_penalized": 2
   },
   "clusters": [
+    {
+      "key": "title:claude-code-team-does-code-review-claude-dev",
+      "title": "How the Claude Code team does code review / claude.dev Blog",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://claude.dev/blog/solving-code-review-at-anthropic/"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 25.5,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 21.1,
+      "ranking_score": 25.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-17T01:30:36+00:00"
+    },
     {
       "key": "cve:CVE-2026-99999",
       "title": "さくらのVPSにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について",
@@ -49,8 +87,8 @@
       "first_seen_at": "2026-10-16T12:31:55+00:00"
     },
     {
-      "key": "earthquake:m 4.6 - 6 km nne of sámi, greece:4.6",
-      "title": "M 4.6 - 6 km NNE of Sámi, Greece",
+      "key": "earthquake:m 4.9 - 115 km sw of puerto madero, mexico:4.9",
+      "title": "M 4.9 - 115 km SW of Puerto Madero, Mexico",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -59,7 +97,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ww"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -87,12 +125,129 @@
       "dominant_emitter": true,
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-10-17T01:30:36+00:00"
+    },
+    {
+      "key": "domain:blog.naoshihoshi.com",
+      "title": "InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://blog.naoshihoshi.com/entry/2023/02/17/120000"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-17T01:30:36+00:00"
+    },
+    {
+      "key": "title:void-void",
+      "title": "ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://zenn.dev/nkzn/articles/my-first-void"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-17T01:30:36+00:00"
+    },
+    {
+      "key": "earthquake:m 4.6 - 6 km nne of sámi, greece:4.6",
+      "title": "M 4.6 - 6 km NNE of Sámi, Greece",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ww"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 11.7,
+      "ranking_score": 8.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-10-17T00:44:00+00:00"
     }
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-17T00:44:01Z",
+    "generated_at": "2026-10-17T01:30:36Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
