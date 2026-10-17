@@ -1,18 +1,18 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-17T04:33:17Z_
+_Generated: 2026-10-17T04:52:18Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.1.
+Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.08.
 
 ## Top Dynamics
 
 ### CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `26.1`
-- Published: `2026-10-16T12:31:55+00:00` / age_days `0.67`
+- Dynamics score: `26.08`
+- Published: `2026-10-16T12:31:55+00:00` / age_days `0.68`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cve
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-16T12:24:30+00:00` / age_days `0.67`
+- Published: `2026-10-16T12:24:30+00:00` / age_days `0.69`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-16T17:16:58+00:00` / age_days `0.47`
+- Published: `2026-10-16T17:16:58+00:00` / age_days `0.48`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-16T13:16:01+00:00` / age_days `0.64`
+- Published: `2026-10-16T13:16:01+00:00` / age_days `0.65`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-10-17T01:30:36+00:00` / age_days `0.13`
+- Published: `2026-10-17T01:30:36+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,17 +62,27 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-17T03:24:41+00:00` / age_days `0.05`
+- Published: `2026-10-17T03:24:41+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://gihyo.jp/article/2026/10/furifont
 
+### M 4.8 - 196 km SSE of Alo, Wallis and Futuna
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-10-17T04:33:19.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2xs
+
 ### M 4.9 - 115 km SW of Puerto Madero, Mexico
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-17T01:18:02.040+00:00` / age_days `0.14`
+- Published: `2026-10-17T01:18:02.040+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-17T00:32:21.040+00:00` / age_days `0.17`
+- Published: `2026-10-17T00:32:21.040+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-10-17T01:30:36+00:00` / age_days `0.13`
+- Published: `2026-10-17T01:30:36+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-10-17T00:44:00+00:00` / age_days `0.16`
+- Published: `2026-10-17T00:44:00+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-10-16T11:10:40+00:00` / age_days `0.72`
+- Published: `2026-10-16T11:10:40+00:00` / age_days `0.74`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
 - Quelle: https://gihyo.jp/article/2026/10/furifont
-
-### BASE子会社の漏えい、約2335万人分に 209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-10-17T01:50:36+00:00` / age_days `0.11`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://www.itmedia.co.jp/news/article/2610/17/2000002349/
 
 END OF DOCUMENT
