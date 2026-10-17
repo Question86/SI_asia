@@ -1,107 +1,37 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-16T23:58:57+00:00",
+  "generated_at": "2026-10-17T00:43:57+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 77,
-    "displayed_findings": 77,
-    "high": 1,
-    "medium": 22,
-    "observe": 54
+    "new_relevant_findings": 2,
+    "today_file_total": 2,
+    "displayed_findings": 2,
+    "high": 0,
+    "medium": 0,
+    "observe": 2
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt",
-      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-      "source_type": "rss",
-      "published_at": "2026-10-16T11:20:00+00:00",
-      "relevance_score": 32,
-      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297832-1032_bits.html",
-      "summary": "Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt",
-      "section": "high"
-    },
-    {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-16T19:00:00+00:00",
-      "relevance_score": 22,
-      "url": "https://openai.com/index/itau-generative-ai",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "section": "medium"
-    },
-    {
-      "title": "Employers are buying AI tools. Their managers are being left behind",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-16T03:12:44+00:00",
-      "relevance_score": 20,
-      "url": "https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/",
-      "summary": "Thirty-seven per cent. Eleven per cent. Those two numbers, tucked deep inside Jobstreet by SEEK’s Singapore Workplace Culture Study 2026, may say more about the region’s productivity problem than any headline about AI or inflation. The first is the share of e…",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-16T11:35:51+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4008",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder Root-Rechte zu erlangen.",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [UNGEPATCHT] [mittel] PJSIP: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-16T11:30:51+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4007",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in PJSIP ausnutzen, um einen Denial of Service Angriff durchzuführen oder Informationen offenzulegen.",
-      "section": "medium"
-    },
-    {
-      "title": "【重要】Linuxカーネルの脆弱性（CVE-2026-99999）に関する当社サービスへの影響について | さくらインターネット",
+      "title": "さくらのVPSにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-16T09:57:11+00:00",
+      "published_at": "2026-10-16T13:16:01+00:00",
       "relevance_score": 12,
-      "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/16/1968226051/",
-      "summary": "お客さま各位 平素よりさくらインターネットをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999）が公開されました。 本脆弱性については、仮想化環境においてホストシステムへの影響につながる可能性があると報告されています。当社では本脆弱性を認知し、...",
+      "url": "https://vps.sakura.ad.jp/contents/info/202610-pendingapply/",
+      "summary": "平素よりさくらのVPSをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999、通称「PwnEscape」）について、さくらのVPSにおける現在の対応状況をご案内いたします。 現在、さくらのVPSでは石狩、東京、大阪の全リージョンで新規申し込みの受付を一時的に停止し...",
       "section": "observe"
     },
     {
-      "title": "What does ChatGPT say about your brand? Miracly raises US$2M to find out",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-16T09:29:17+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/what-does-chatgpt-say-about-your-brand-miracly-raises-us2m-to-find-out-20261016/",
-      "summary": "For two decades, marketers obsessed over a single question: where do we rank on Google? A growing number now ask a stranger one: what does ChatGPT say about us when we are not in the room? The Wild Ventures, the Swedish-founded company behind home decor brand…",
-      "section": "observe"
-    },
-    {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "relevance_score": 12,
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "section": "observe"
-    },
-    {
-      "title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
+      "title": "M 4.6 - 6 km NNE of Sámi, Greece",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-16T03:50:50.963+00:00",
-      "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq",
-      "summary": "ShakeMap - VI Time 2026-10-16 03:35:32 UTC 2026-10-16 03:35:32 UTC at epicenter Location 52.007°N 157.250°E Depth 143.18 km (88.97 mi)",
+      "published_at": "2026-10-17T00:32:21.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ww",
+      "summary": "Time 2026-10-16 23:57:50 UTC 2026-10-16 23:57:50 UTC at epicenter Location 38.305°N 20.686°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],
@@ -110,144 +40,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=57.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt",
-        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297832-1032_bits.html",
-        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-        "published_at": "2026-10-16T11:20:00+00:00",
-        "age_days": 0.55,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 57.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: zero-day, active, exploitation",
-          "security high-signal: zero-day, active, exploitation, ausgenutzt",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt"
-      },
-      {
-        "title": "Open source license compliance generally available",
-        "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-16T14:47:17+00:00",
-        "age_days": 0.41,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 41.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4008",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T11:35:51+00:00",
-        "age_days": 0.54,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: root",
-          "security high-signal: root"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder Root-Rechte zu erlangen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3922",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T09:54:02+00:00",
-        "age_days": 0.61,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft PowerToys, Microsoft Power Apps und Microsoft Apps ausnutzen, um erweiterte Berechtigungen – einschließlich Administratorrechte – zu erlangen, beliebigen Code auszuführen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Fortinet FortiSandbox: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3940",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T09:54:01+00:00",
-        "age_days": 0.61,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, fortinet",
-          "security high-signal: active, exploitation, fortinet"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiSandbox ausnutzen, um einen Denial of Service Angriff durchzuführen, Informationen offenzulegen und Sicherheitsmaßnahmen zu umgehen."
-      }
-    ]
-  }
+  ]
 }
