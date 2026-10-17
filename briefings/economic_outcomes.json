@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T04:30:18+00:00",
+  "generated_at": "2026-10-17T04:45:38+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -2377,6 +2377,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_223d5d4108aa8e8b611e",
+      "title": "M 4.8 - 196 km SSE of Alo, Wallis and Futuna",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_226b51769226267bf6cb",
@@ -8635,7 +8646,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_790c08ce3bb1f8fbe804",
