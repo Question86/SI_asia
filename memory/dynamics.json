@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-17T21:51:24Z",
+  "generated_at": "2026-10-17T22:12:50Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 4,
-      "strong": 9,
+      "krass": 3,
+      "strong": 10,
       "watch": 26,
       "quiet": 1
     },
@@ -19,11 +19,35 @@
   },
   "top_dynamics": [
     {
+      "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
+      "url": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-16T12:31:55+00:00",
+      "age_days": 1.4,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.24,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cve"
+      ],
+      "summary": ""
+    },
+    {
       "title": "How the Claude Code team does code review / claude.dev Blog",
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T12:24:30+00:00",
-      "age_days": 1.39,
+      "age_days": 1.41,
       "topics": [
         "ai"
       ],
@@ -45,37 +69,11 @@
       "summary": "We've said before that Claude writes about 90 percent of Claude Code's own code. So how do we review code at the volume we produce it? Does anyone read code anymore? And if something breaks, who catches it? This post covers the code review flow on the Claude Code team and how it has evolved. From..."
     },
     {
-      "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
-      "url": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-16T12:31:55+00:00",
-      "age_days": 1.39,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "security high-signal: cve",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": ""
-    },
-    {
       "title": "CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita",
       "url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T17:16:58+00:00",
-      "age_days": 1.19,
+      "age_days": 1.21,
       "topics": [
         "security"
       ],
@@ -101,7 +99,7 @@
       "url": "https://vps.sakura.ad.jp/contents/info/202610-pendingapply/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T13:16:01+00:00",
-      "age_days": 1.36,
+      "age_days": 1.37,
       "topics": [
         "security"
       ],
@@ -127,7 +125,7 @@
       "url": "https://gigazine.net/news/20261017-agentsview/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 120.83,
+      "age_days": 120.84,
       "topics": [
         "ai"
       ],
@@ -138,12 +136,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.62,
+      "baseline_z_hint": 1.19,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.62",
+        "baseline z_hint 1.19",
         "high terms: rce, code",
         "security high-signal: rce, code",
         "aging penalty -8.0 for 120.8d old signal",
@@ -156,7 +154,7 @@
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-17T05:59:00+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "general"
       ],
@@ -183,7 +181,7 @@
       "url": "https://gigazine.net/news/20261017-agentsview/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T09:27:07+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "macro"
@@ -210,7 +208,7 @@
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-17T05:58:27+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "ai",
         "macro"
@@ -237,7 +235,7 @@
       "url": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T14:59:56+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -261,7 +259,7 @@
       "url": "https://github.com/google-research/harness2",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T12:01:45+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -285,7 +283,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T07:36:26.040+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "disaster"
       ],
@@ -310,7 +308,7 @@
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T01:30:36+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "ai"
       ],
@@ -337,7 +335,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2z9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T09:22:45+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "general"
       ],
@@ -362,7 +360,7 @@
       "url": "https://gihyo.jp/article/2026/10/furifont",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T03:24:41+00:00",
-      "age_days": 0.77,
+      "age_days": 0.78,
       "topics": [
         "general"
       ],
@@ -386,7 +384,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2149045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T20:06:34+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -411,7 +409,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u309",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T14:17:39.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -436,7 +434,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2zb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T09:25:09.040+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "disaster"
       ],
@@ -461,7 +459,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2z9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T09:22:00.040+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "disaster"
       ],
@@ -486,7 +484,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T07:58:10.040+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "disaster"
       ],
@@ -511,7 +509,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2xs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T04:33:19.040+00:00",
-      "age_days": 0.72,
+      "age_days": 0.74,
       "topics": [
         "disaster"
       ],
@@ -536,7 +534,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T01:18:02.040+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "disaster"
       ],
@@ -561,7 +559,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ww",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T00:32:21.040+00:00",
-      "age_days": 0.89,
+      "age_days": 0.9,
       "topics": [
         "disaster"
       ],
@@ -586,7 +584,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u309",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T14:19:02+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -610,7 +608,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2zb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T09:33:56+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "general"
       ],
@@ -634,7 +632,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T08:00:01+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "general"
       ],
@@ -658,7 +656,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2xs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T04:45:10+00:00",
-      "age_days": 0.71,
+      "age_days": 0.73,
       "topics": [
         "general"
       ],
@@ -682,7 +680,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T01:30:36+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "general"
       ],
@@ -706,7 +704,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ww",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T00:44:00+00:00",
-      "age_days": 0.88,
+      "age_days": 0.9,
       "topics": [
         "general"
       ],
@@ -730,7 +728,7 @@
       "url": "https://future-architect.github.io/articles/20261016a/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T19:49:03+00:00",
-      "age_days": 9.08,
+      "age_days": 9.1,
       "topics": [
         "general"
       ],
@@ -754,7 +752,7 @@
       "url": "https://gihyo.jp/article/2026/10/furifont",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T11:10:40+00:00",
-      "age_days": 1.44,
+      "age_days": 1.46,
       "topics": [
         "general"
       ],
@@ -778,11 +776,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:22:32+00:00",
-      "age_days": 42.6,
+      "age_days": 42.62,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.94,
+      "dynamics_score": 14.93,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -803,7 +801,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T01:50:36+00:00",
-      "age_days": 0.83,
+      "age_days": 0.85,
       "topics": [
         "general"
       ],
@@ -827,7 +825,7 @@
       "url": "https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T07:21:34+00:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "general"
       ],
@@ -851,7 +849,7 @@
       "url": "https://blog.naoshihoshi.com/entry/2023/02/17/120000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T01:30:36+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "general"
       ],
@@ -875,7 +873,7 @@
       "url": "https://zenn.dev/nkzn/articles/my-first-void",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T01:30:36+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "general"
       ],
@@ -899,7 +897,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-17T05:00:00+00:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [
         "macro"
       ],
@@ -923,7 +921,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T05:32:24.122+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai",
         "disaster"
@@ -951,7 +949,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T05:33:05+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -977,7 +975,7 @@
       "url": "https://future-architect.github.io/articles/20261016a/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T02:35:04+00:00",
-      "age_days": 0.8,
+      "age_days": 0.82,
       "topics": [
         "general"
       ],
@@ -1001,7 +999,7 @@
       "url": "https://togetter.com/li/2759213",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 120.39,
+      "age_days": 120.4,
       "topics": [
         "general"
       ],
@@ -1023,5 +1021,5 @@
       "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “How the Claude Code team does code review / claude.dev Blog” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.24."
 }
