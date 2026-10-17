@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-17T09:59:01+00:00",
-  "run_id": "2026-10-17T09:59:01+00:00",
+  "generated_at": "2026-10-17T10:17:30+00:00",
+  "run_id": "2026-10-17T10:17:30+00:00",
   "date": "2026-10-17",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 23
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
     "medium": 3,
     "observe": 20,
-    "source_errors": 2
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1359,44 +1359,8 @@
       "id": "6a0313cc375c3772773a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ",
-      "url": "https://future-architect.github.io/articles/20261016a/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-17T02:35:04+00:00",
-      "fetched_at": "2026-10-17T09:58:18+00:00",
-      "summary": "はじめに従来より E2E テストはテストピラミッドの頂点に置かれ、テストケース数は必要最低限にする（ユニットテストやインテグレーションテストよりも少なくする）というのがセオリーでした。しかしながら昨今、コーディングエージェントの進化により、これまでのユニットテスト中心のテスト戦略から E2E テスト中心の...",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7fc032372cfed5568c60"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "cert_fr_alerts",
-      "source_name": "CERT-FR Alertes",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.cert.ssi.gouv.fr', port=443): Max retries exceeded with url: /alerte/feed/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.cert.ssi.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
-    },
-    {
-      "source_id": "cert_fr_advisories",
-      "source_name": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.cert.ssi.gouv.fr', port=443): Max retries exceeded with url: /avis/feed/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.cert.ssi.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
-    }
-  ],
+  "new_findings": [],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
