@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T09:44:42+00:00",
+  "generated_at": "2026-10-17T09:59:32+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -5325,6 +5325,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_4b5536472bb64a18606b",
+      "title": "E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_4b6fce70c1280fba185b",
@@ -15400,7 +15411,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_dc084a8543d8e732372b",
