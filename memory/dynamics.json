@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-17T09:29:08Z",
+  "generated_at": "2026-10-17T09:40:03Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 3,
       "strong": 5,
-      "watch": 20,
-      "quiet": 12
+      "watch": 22,
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
       "strong": 8,
-      "watch": 20,
-      "quiet": 12
+      "watch": 22,
+      "quiet": 10
     }
   },
   "top_dynamics": [
@@ -23,11 +23,11 @@
       "url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T12:31:55+00:00",
-      "age_days": 0.87,
+      "age_days": 0.88,
       "topics": [
         "security"
       ],
-      "dynamics_score": 25.6,
+      "dynamics_score": 25.57,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
@@ -47,7 +47,7 @@
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T12:24:30+00:00",
-      "age_days": 0.88,
+      "age_days": 0.89,
       "topics": [
         "ai"
       ],
@@ -99,7 +99,7 @@
       "url": "https://vps.sakura.ad.jp/contents/info/202610-pendingapply/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T13:16:01+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "security"
       ],
@@ -179,7 +179,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T07:36:26.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -204,7 +204,7 @@
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T01:30:36+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -231,7 +231,7 @@
       "url": "https://gihyo.jp/article/2026/10/furifont",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T03:24:41+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -251,36 +251,36 @@
       "summary": ""
     },
     {
-      "title": "M 4.8 - 110 km NE of Norsup, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2z9",
+      "title": "M 4.6 - 51 km N of Pante Makasar, Timor Leste",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2zb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-17T09:22:45+00:00",
-      "age_days": 0.0,
+      "published_at": "2026-10-17T09:25:09.040+00:00",
+      "age_days": 0.01,
       "topics": [
-        "general"
+        "disaster"
       ],
-      "dynamics_score": 18.4,
+      "dynamics_score": 17.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
+        "early terms: earthquake",
         "high terms: 10"
       ],
-      "summary": ""
+      "summary": "Time 2026-10-17 09:07:40 UTC 2026-10-17 09:07:40 UTC at epicenter Location 8.734°S 124.342°E Depth 90.84 km (56.45 mi)"
     },
     {
       "title": "M 4.8 - 110 km NE of Norsup, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2z9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T09:22:00.040+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "disaster"
       ],
@@ -305,7 +305,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T07:58:10.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -355,7 +355,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T01:18:02.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -380,7 +380,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ww",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T00:32:21.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -401,11 +401,36 @@
       "summary": "Time 2026-10-16 23:57:50 UTC 2026-10-16 23:57:50 UTC at epicenter Location 38.305°N 20.686°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.8 - 110 km NE of Norsup, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2z9",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-17T09:22:45+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.5 - 80 km NW of Sola, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T08:00:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -453,7 +478,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T01:30:36+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -477,7 +502,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ww",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T00:44:00+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -501,7 +526,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:22:32+00:00",
-      "age_days": 42.09,
+      "age_days": 42.1,
       "topics": [
         "general"
       ],
@@ -526,7 +551,7 @@
       "url": "https://gihyo.jp/article/2026/10/furifont",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T11:10:40+00:00",
-      "age_days": 0.93,
+      "age_days": 0.94,
       "topics": [
         "general"
       ],
@@ -550,7 +575,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T01:50:36+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -574,7 +599,7 @@
       "url": "https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T07:21:34+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -598,7 +623,7 @@
       "url": "https://blog.naoshihoshi.com/entry/2023/02/17/120000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T01:30:36+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -622,7 +647,7 @@
       "url": "https://zenn.dev/nkzn/articles/my-first-void",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T01:30:36+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -666,11 +691,35 @@
       "summary": "Christine Lagarde: IMFC Statement"
     },
     {
+      "title": "M 4.6 - 51 km N of Pante Makasar, Timor Leste",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2zb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-17T09:33:56+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.7 - 48 km WNW of Khuzdar, Pakistan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T05:32:24.122+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "disaster"
@@ -698,7 +747,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T05:33:05+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -724,7 +773,7 @@
       "url": "https://togetter.com/li/2759213",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 119.87,
+      "age_days": 119.88,
       "topics": [
         "general"
       ],
@@ -750,7 +799,7 @@
       "url": "https://openai.com/index/benefit-street-partners",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 121.53,
+      "age_days": 121.54,
       "topics": [
         "ai"
       ],
@@ -778,7 +827,7 @@
       "url": "https://www.afpbb.com/articles/-/3658078",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T05:51:11+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -802,7 +851,7 @@
       "url": "https://togetter.com/li/2759213",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T02:58:45+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -826,7 +875,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T00:57:57+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -850,7 +899,7 @@
       "url": "https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T00:36:24+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -874,7 +923,7 @@
       "url": "https://zenn.dev/nkzn/articles/my-first-void",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T16:35:53+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "general"
       ],
@@ -924,7 +973,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 120.79,
+      "age_days": 120.8,
       "topics": [
         "general"
       ],
@@ -949,7 +998,7 @@
       "url": "https://www.afpbb.com/articles/-/3658078",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T20:19:20+00:00",
-      "age_days": 44.55,
+      "age_days": 44.56,
       "topics": [
         "general"
       ],
@@ -965,62 +1014,10 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 44.5d old signal"
+        "aging penalty -8.0 for 44.6d old signal"
       ],
       "summary": ""
-    },
-    {
-      "title": "AI「ミューズ」が侵食する旅行サイト ブッキングなど株価軒並み下落 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOFD0801K0Y6A001C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 120.3,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.65,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 1.5,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 1.50",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 120.3d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log",
-      "url": "https://blog.naoshihoshi.com/entry/2023/02/17/120000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-16T21:13:31+00:00",
-      "age_days": 0.51,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "概要 SnapmartアプリではInstagramグラフAPIを使用しているのですが、8月下旬にMeta社より「プラットフォーム違反しているからAPI利用停止するね」とお達しがありました。*1 Instagram連携不具合解消のお知らせ | Snapmart（スナップマート）公式ブログ この記事では、InstagramグラフAPIのプラットフォーム利用規約違反..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.6."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.57."
 }
