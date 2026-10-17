@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-17T10:13:09Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.52.",
+  "generated_at": "2026-10-17T10:25:53Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -15,11 +15,11 @@
       "url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T12:31:55+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "security"
       ],
-      "dynamics_score": 25.52,
+      "dynamics_score": 25.5,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
@@ -39,7 +39,7 @@
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T12:24:30+00:00",
-      "age_days": 0.91,
+      "age_days": 0.92,
       "topics": [
         "ai"
       ],
@@ -91,7 +91,7 @@
       "url": "https://vps.sakura.ad.jp/contents/info/202610-pendingapply/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T13:16:01+00:00",
-      "age_days": 0.87,
+      "age_days": 0.88,
       "topics": [
         "security"
       ],
@@ -117,7 +117,7 @@
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-17T05:59:00+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -144,7 +144,7 @@
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-17T05:58:27+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -171,7 +171,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T07:36:26.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -196,7 +196,7 @@
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T01:30:36+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -244,36 +244,11 @@
       "summary": ""
     },
     {
-      "title": "E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ",
-      "url": "https://future-architect.github.io/articles/20261016a/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-08T19:49:03+00:00",
-      "age_days": 8.6,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 21.44,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.67,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.67"
-      ],
-      "summary": ""
-    },
-    {
       "title": "漢字の上にふりがなを表示する日本語フォント「Furifont」オープンライセンスで公開 | gihyo.jp",
       "url": "https://gihyo.jp/article/2026/10/furifont",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T03:24:41+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -297,7 +272,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2zb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T09:25:09.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -316,6 +291,31 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-17 09:07:40 UTC 2026-10-17 09:07:40 UTC at epicenter Location 8.734°S 124.342°E Depth 90.84 km (56.45 mi)"
+    },
+    {
+      "title": "M 4.8 - 110 km NE of Norsup, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2z9",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-17T09:22:00.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-17 08:59:51 UTC 2026-10-17 08:59:51 UTC at epicenter Location 15.512°S 168.252°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
@@ -327,8 +327,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 10,
-      "watch": 2
+      "strong": 9,
+      "watch": 3
     }
   }
 }
