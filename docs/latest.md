@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T03:01:39+00:00_
+_Generiert: 2026-10-17T03:24:38+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „How the Claude Code team does code review / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+9 neue relevante Treffer. Stärkstes Signal: „How the Claude Code team does code review / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -42,6 +42,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 平素よりさくらのVPSをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999、通称「PwnEscape」）について、さくらのVPSにおける現在の対応状況をご案内いたします。 現在、さくらのVPSでは石狩、東京、大阪の全リージョンで新規申し込みの受付を一時的に停止し...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **漢字の上にふりがなを表示する日本語フォント「Furifont」オープンライセンスで公開 | gihyo.jp** — Score 10, observation — [Quelle](https://gihyo.jp/article/2026/10/furifont)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-16T11:10:40+00:00`, fetched `2026-10-17T03:24:05+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: OSS開発者のAnthony Fu氏は2026年10月15日、漢字の上にふりがな（かな文字またはローマ字）を表示するフォント「Furifont」を製作、オープンなライセンス[1]で公開した。日本語学習などに役立てたいとしている。 Furifont⁠：ふりがなを表示するフォント https://furifont.antfu.me/ Hey Japanese learners! I built a fo...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 115 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-17T01:18:02.040+00:00`, fetched `2026-10-17T01:30:03+00:00`
@@ -60,15 +69,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-16 23:57:50 UTC 2026-10-16 23:57:50 UTC at epicenter Location 38.305°N 20.686°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **BASE子会社の漏えい、約2335万人分に 209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/17/2000002349/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-17T00:57:57+00:00`, fetched `2026-10-17T01:50:03+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ショップサーブは、企業が独自ドメインのネットショップを作るためのECサイト構築・運営支援サービス。25年7月にBASEがEストアーの全株式を取得して子会社化した。 今回の漏えいは8月に公表。詳細を調べた結果、10月16日に最終報が出た。 店舗はID・パスワードなど、購入者はカード情報の一部など漏えい 対象店舗は、シ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
