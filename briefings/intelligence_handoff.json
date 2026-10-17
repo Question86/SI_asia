@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-17T22:36:00Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.19.",
+  "generated_at": "2026-10-17T22:50:11Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.16.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -15,11 +15,11 @@
       "url": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T12:31:55+00:00",
-      "age_days": 1.42,
+      "age_days": 1.43,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.19,
+      "dynamics_score": 26.16,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
@@ -39,7 +39,7 @@
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T12:24:30+00:00",
-      "age_days": 1.42,
+      "age_days": 1.43,
       "topics": [
         "ai"
       ],
@@ -65,7 +65,7 @@
       "url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T17:16:58+00:00",
-      "age_days": 1.22,
+      "age_days": 1.23,
       "topics": [
         "security"
       ],
@@ -91,7 +91,7 @@
       "url": "https://vps.sakura.ad.jp/contents/info/202610-pendingapply/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T13:16:01+00:00",
-      "age_days": 1.39,
+      "age_days": 1.4,
       "topics": [
         "security"
       ],
@@ -117,7 +117,7 @@
       "url": "https://gigazine.net/news/20261017-agentsview/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 120.86,
+      "age_days": 120.87,
       "topics": [
         "ai"
       ],
@@ -128,12 +128,11 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.33,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.33",
         "high terms: rce, code",
         "security high-signal: rce, code",
         "aging penalty -8.0 for 120.9d old signal",
@@ -146,7 +145,7 @@
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-17T05:59:00+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "general"
       ],
@@ -173,7 +172,7 @@
       "url": "https://gigazine.net/news/20261017-agentsview/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T09:27:07+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "ai",
         "macro"
@@ -200,7 +199,7 @@
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-17T05:58:27+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "ai",
         "macro"
@@ -227,7 +226,7 @@
       "url": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T14:59:56+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -251,7 +250,7 @@
       "url": "https://github.com/google-research/harness2",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T12:01:45+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -275,7 +274,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T07:36:26.040+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "disaster"
       ],
@@ -300,7 +299,7 @@
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T01:30:36+00:00",
-      "age_days": 0.88,
+      "age_days": 0.89,
       "topics": [
         "ai"
       ],
