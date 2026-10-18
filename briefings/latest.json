@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T11:49:41+00:00",
-  "run_id": "2026-10-18T11:49:41+00:00",
+  "generated_at": "2026-10-18T11:57:53+00:00",
+  "run_id": "2026-10-18T11:57:53+00:00",
   "date": "2026-10-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 14,
     "displayed_findings": 14,
     "high": 0,
@@ -657,29 +657,7 @@
       "id": "07566234db3ba4be3ea1"
     }
   ],
-  "new_findings": [
-    {
-      "title": "iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン",
-      "url": "https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-18T09:18:39+00:00",
-      "fetched_at": "2026-10-18T11:49:13+00:00",
-      "summary": "iPhoneをiOS 27にアップデートした人のなかには、もうSiri AIやAppleのAIによる写真編集機能のいくつかを試してみた人もいるのではないでしょうか。 その一方で、別のことに気づいた人もいるかもしれません。 iPhoneのバッテリーのもちが悪くなっている、ということです。このアップデートによってバッテリーの駆動時間...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "186c8c6482a668aaa4c2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
