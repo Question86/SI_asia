@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T20:02:12+00:00",
-  "run_id": "2026-10-18T20:02:12+00:00",
+  "generated_at": "2026-10-18T20:20:08+00:00",
+  "run_id": "2026-10-18T20:20:08+00:00",
   "date": "2026-10-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 1,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
     "medium": 1,
-    "observe": 17,
+    "observe": 18,
     "source_errors": 0
   },
   "sections": {
@@ -68,6 +68,42 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 5.2 - 71 km ESE of ‘Ohonua, Tonga",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-18T20:13:00.040+00:00",
+        "fetched_at": "2026-10-18T20:19:30+00:00",
+        "summary": "Time 2026-10-18 19:32:28 UTC 2026-10-18 19:32:28 UTC at epicenter Location 21.541°S 174.296°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "5b49d6c4011625108420"
+      },
       {
         "title": "M 4.7 - 20 km SW of Sandy Point Town, Saint Kitts and Nevis",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d",
@@ -498,6 +534,42 @@
       "id": "1561fdc7bea737598f22"
     },
     {
+      "title": "M 5.2 - 71 km ESE of ‘Ohonua, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-18T20:13:00.040+00:00",
+      "fetched_at": "2026-10-18T20:19:30+00:00",
+      "summary": "Time 2026-10-18 19:32:28 UTC 2026-10-18 19:32:28 UTC at epicenter Location 21.541°S 174.296°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5b49d6c4011625108420"
+    },
+    {
       "title": "M 4.7 - 20 km SW of Sandy Point Town, Saint Kitts and Nevis",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -887,7 +959,44 @@
       "id": "07566234db3ba4be3ea1"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.2 - 71 km ESE of ‘Ohonua, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-18T20:13:00.040+00:00",
+      "fetched_at": "2026-10-18T20:19:30+00:00",
+      "summary": "Time 2026-10-18 19:32:28 UTC 2026-10-18 19:32:28 UTC at epicenter Location 21.541°S 174.296°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5b49d6c4011625108420"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

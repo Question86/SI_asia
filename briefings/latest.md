@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-18T20:02:12+00:00_
+_Generiert: 2026-10-18T20:20:08+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „M 5.2 - 55 km NNW of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+19 neue relevante Treffer. Stärkstes Signal: „M 5.2 - 55 km NNW of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.2 - 71 km ESE of ‘Ohonua, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-18T20:13:00.040+00:00`, fetched `2026-10-18T20:19:30+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-18 19:32:28 UTC 2026-10-18 19:32:28 UTC at epicenter Location 21.541°S 174.296°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.7 - 20 km SW of Sandy Point Town, Saint Kitts and Nevis** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-18T15:57:25.295+00:00`, fetched `2026-10-18T15:58:18+00:00`
