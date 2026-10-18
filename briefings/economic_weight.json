@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T01:38:43+00:00",
+  "generated_at": "2026-10-18T01:57:42+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -23139,7 +23139,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-18T00:42:20+00:00",
-      "last_seen_at": "2026-10-18T01:38:27+00:00",
+      "last_seen_at": "2026-10-18T01:57:24+00:00",
       "status": "active"
     },
     {
@@ -24569,6 +24569,23 @@
       "first_seen_at": "2026-10-08T03:47:14+00:00",
       "last_seen_at": "2026-10-08T08:10:19+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_63a9c71f8e5fd801e700",
+      "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-18T01:38:27+00:00",
+      "last_seen_at": "2026-10-18T01:57:24+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_673299dc23eb50f3de7e",
@@ -27036,8 +27053,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_63a9c71f8e5fd801e700",
-      "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
+      "event_id": "evt_05452579830a889413f4",
+      "title": "ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた",
       "event_classes": [
         "unknown"
       ],
@@ -27048,8 +27065,8 @@
       "p50_usd": 10800000.0,
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
-      "first_seen_at": "2026-10-18T01:38:27+00:00",
-      "last_seen_at": "2026-10-18T01:38:27+00:00",
+      "first_seen_at": "2026-10-18T01:57:24+00:00",
+      "last_seen_at": "2026-10-18T01:57:24+00:00",
       "status": "active"
     },
     {
