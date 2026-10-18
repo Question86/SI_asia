@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-18T20:13:26Z",
+  "generated_at": "2026-10-18T20:28:03Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.2 - 55 km NNW of Ruteng, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T08:14:46.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -40,7 +40,7 @@
       "url": "https://cid.ninjal.ac.jp/kana/list/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T13:37:23+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -60,11 +60,36 @@
       "summary": ""
     },
     {
+      "title": "M 5.2 - 71 km ESE of ‘Ohonua, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-18T20:13:00.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-18 19:32:28 UTC 2026-10-18 19:32:28 UTC at epicenter Location 21.541°S 174.296°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.5 - Kermadec Islands, New Zealand",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T12:59:51.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -89,7 +114,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T13:16:07+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -113,7 +138,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 44.61,
+      "age_days": 44.62,
       "topics": [
         "general"
       ],
@@ -138,7 +163,7 @@
       "url": "https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T11:49:43+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -162,7 +187,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T06:31:10+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -186,7 +211,7 @@
       "url": "https://courrier.jp/news/archives/462520/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T05:24:33+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "general"
       ],
@@ -210,7 +235,7 @@
       "url": "https://ashunar0.dev/posts/try-void/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T02:50:20+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "general"
       ],
@@ -234,7 +259,7 @@
       "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:57:24+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "general"
       ],
@@ -258,31 +283,7 @@
       "url": "https://blog.jxck.io/entries/2026-10-17/example.com.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T07:45:29+00:00",
-      "age_days": 0.52,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-18T01:38:27+00:00",
-      "age_days": 0.77,
+      "age_days": 0.53,
       "topics": [
         "general"
       ],
