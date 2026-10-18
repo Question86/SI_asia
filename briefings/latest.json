@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T20:43:33+00:00",
-  "run_id": "2026-10-18T20:43:33+00:00",
+  "generated_at": "2026-10-18T20:59:25+00:00",
+  "run_id": "2026-10-18T20:59:25+00:00",
   "date": "2026-10-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 20,
     "displayed_findings": 20,
     "high": 0,
@@ -1001,29 +1001,7 @@
       "id": "07566234db3ba4be3ea1"
     }
   ],
-  "new_findings": [
-    {
-      "title": "リーダーシップなき越境は組織を壊す｜TakayukiSaruta",
-      "url": "https://note.com/srt_taka/n/nff6c2d40c11b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-18T12:26:25+00:00",
-      "fetched_at": "2026-10-18T20:43:00+00:00",
-      "summary": "はじめにこのnoteでは、コミュニケーションの量は多いのに前に進まない組織の正体を、具体化は放っておいても進み、抽象化には意志が必要であるという非対称として説明します。そのうえで、越境がこの非対称を加速させること、Slackがその具体化のコストをゼロにしたこと、そして組織の規模で抽象化を担うリーダーシップ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7dc502e67c626b687643"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
