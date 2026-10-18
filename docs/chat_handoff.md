@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-18T12:58:51+00:00_
+_Generated: 2026-10-18T13:16:04+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `15`
 
 ## Top Signals
 
@@ -15,32 +15,32 @@ _Generated: 2026-10-18T12:58:51+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e
 - summary: Time 2026-10-18 08:00:06 UTC 2026-10-18 08:00:06 UTC at epicenter Location 8.145°S 120.273°E Depth 10.00 km (6.21 mi)
 
-### 2. 知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳
+### 2. M 4.5 - Kermadec Islands, New Zealand
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-18T12:59:51.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l
+- summary: Time 2026-10-18 12:42:22 UTC 2026-10-18 12:42:22 UTC at epicenter Location 30.127°S 177.384°W Depth 10.00 km (6.21 mi)
+
+### 3. 知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳
 - source: Hatena Bookmark Hotentry IT
 - score: `9`
 - published: `2026-10-17T17:43:11+00:00`
 - url: https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830
 - summary: Open AI が証明したと主張している、Navier-Stokes 方程式の爆発解の構成の書籍を発売しました。 smooth-pudding.hatenablog.com それに関連して、この書籍の活用方法や、AI を使って学びを広げることについて以下の記事で話しました。 smooth-pudding.hatenablog.com 今回はより具体的に、自分がまだ知らない分野につい...
 
-### 3. iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン
+### 4. iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-18T09:18:39+00:00`
 - url: https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/
 - summary: iPhoneをiOS 27にアップデートした人のなかには、もうSiri AIやAppleのAIによる写真編集機能のいくつかを試してみた人もいるのではないでしょうか。 その一方で、別のことに気づいた人もいるかもしれません。 iPhoneのバッテリーのもちが悪くなっている、ということです。このアップデートによってバッテリーの駆動時間...
 
-### 4. スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果
+### 5. スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-18T04:35:48+00:00`
 - url: https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html
 - summary: 急速充電は使わない。満充電のまま朝まで挿しっぱなしにしない。充電は80％で止める。バッテリーを長持ちさせるために、どれか1つは守っている人が多いはずだ。現行のスマートフォンでは、80％で充電を止める設定を用意している機種が多い。この設定は、スマートフォンのバッテリーを長く使う上で有効だとされている。 ...
-
-### 5. オントロジーとは？意味・ナレッジグラフとの違い・LLMでの効果
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-18T02:55:30+00:00`
-- url: https://fd-x.co.jp/insights/41-what-is-ontology
-- summary: 最新世代の​モデルでも、​意味の​層を​通した​ほうが​精度は​明確に​高い。​加えて、​文脈付きメタデータを​与えた​場合は​スキーマのみの​プロンプトに​対しSQL生成精度が​3倍、​522問規模の​別ベンチマークでも​38%の​相対改善が​報告されている。 モデルの進化は意味の層を不要にしていない。​むしろエージェントが​...
 
 END OF DOCUMENT
