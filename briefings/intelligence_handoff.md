@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-18T16:42:25Z_
+_Generated: 2026-10-18T16:50:58Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.2 - 55 km NNW of Ruteng, Indonesia�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-18T08:14:46.040+00:00` / age_days `0.35`
+- Published: `2026-10-18T08:14:46.040+00:00` / age_days `0.36`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.2 - 55 km NNW of Ruteng, Indonesia�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-18T12:59:51.040+00:00` / age_days `0.15`
+- Published: `2026-10-18T12:59:51.040+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.2 - 55 km NNW of Ruteng, Indonesia�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-10-18T13:16:07+00:00` / age_days `0.14`
+- Published: `2026-10-18T13:16:07+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.2 - 55 km NNW of Ruteng, Indonesia�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T11:49:43+00:00` / age_days `0.2`
+- Published: `2026-10-18T11:49:43+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.2 - 55 km NNW of Ruteng, Indonesia�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T06:31:10+00:00` / age_days `0.42`
+- Published: `2026-10-18T06:31:10+00:00` / age_days `0.43`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.2 - 55 km NNW of Ruteng, Indonesia�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T05:24:33+00:00` / age_days `0.47`
+- Published: `2026-10-18T05:24:33+00:00` / age_days `0.48`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.2 - 55 km NNW of Ruteng, Indonesia�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T01:57:24+00:00` / age_days `0.61`
+- Published: `2026-10-18T01:57:24+00:00` / age_days `0.62`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.2 - 55 km NNW of Ruteng, Indonesia�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T07:45:29+00:00` / age_days `0.37`
+- Published: `2026-10-18T07:45:29+00:00` / age_days `0.38`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
