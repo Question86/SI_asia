@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-18T21:58:50+00:00",
+  "generated_at": "2026-10-18T22:35:42+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "new_relevant_findings": 2,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
     "medium": 1,
-    "observe": 20
+    "observe": 22
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -23,6 +23,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
       "summary": "Time 2026-10-18 08:00:06 UTC 2026-10-18 08:00:06 UTC at epicenter Location 8.145°S 120.273°E Depth 10.00 km (6.21 mi)",
       "section": "medium"
+    },
+    {
+      "title": "M 4.7 - 150 km SSW of Kokopo, Papua New Guinea",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-18T22:22:50.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b",
+      "summary": "Time 2026-10-18 22:06:14 UTC 2026-10-18 22:06:14 UTC at epicenter Location 5.646°S 151.868°E Depth 10.00 km (6.21 mi)",
+      "section": "observe"
     },
     {
       "title": "M 5.2 - 71 km ESE of ‘Ohonua, Tonga",
@@ -53,16 +63,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l",
       "summary": "Time 2026-10-18 12:42:22 UTC 2026-10-18 12:42:22 UTC at epicenter Location 30.127°S 177.384°W Depth 10.00 km (6.21 mi)",
       "section": "observe"
-    },
-    {
-      "title": "知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-17T17:43:11+00:00",
-      "relevance_score": 9,
-      "url": "https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830",
-      "summary": "Open AI が証明したと主張している、Navier-Stokes 方程式の爆発解の構成の書籍を発売しました。 smooth-pudding.hatenablog.com それに関連して、この書籍の活用方法や、AI を使って学びを広げることについて以下の記事で話しました。 smooth-pudding.hatenablog.com 今回はより具体的に、自分がまだ知らない分野につい...",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -70,137 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “M 5.2 - 55 km NNW of Ruteng, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "M 5.2 - 55 km NNW of Ruteng, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-18T08:14:46.040+00:00",
-        "age_days": 0.59,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-10-18 08:00:06 UTC 2026-10-18 08:00:06 UTC at epicenter Location 8.145°S 120.273°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "変体仮名一覧表",
-        "url": "https://cid.ninjal.ac.jp/kana/list/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-18T13:37:23+00:00",
-        "age_days": 0.37,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 18.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 5.2 - 71 km ESE of ‘Ohonua, Tonga",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-18T20:13:00.040+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-10-18 19:32:28 UTC 2026-10-18 19:32:28 UTC at epicenter Location 21.541°S 174.296°W Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 4.5 - Kermadec Islands, New Zealand",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-18T12:59:51.040+00:00",
-        "age_days": 0.39,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-10-18 12:42:22 UTC 2026-10-18 12:42:22 UTC at epicenter Location 30.127°S 177.384°W Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 5.2 - 71 km ESE of ‘Ohonua, Tonga",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-18T20:20:19+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 16.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

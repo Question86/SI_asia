@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-18T21:58:50+00:00_
+_Generiert: 2026-10-18T22:35:42+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „M 5.2 - 55 km NNW of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+23 neue relevante Treffer. Stärkstes Signal: „M 5.2 - 55 km NNW of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 4.7 - 150 km SSW of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-18T22:22:50.040+00:00`, fetched `2026-10-18T22:35:12+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-18 22:06:14 UTC 2026-10-18 22:06:14 UTC at epicenter Location 5.646°S 151.868°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - 71 km ESE of ‘Ohonua, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-18T20:13:00.040+00:00`, fetched `2026-10-18T20:19:30+00:00`
@@ -41,15 +50,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - II Time 2026-10-18 15:35:47 UTC 2026-10-18 15:35:47 UTC at epicenter Location 17.253°N 63.007°W Depth 149.95 km (93.18 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - Kermadec Islands, New Zealand** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-18T12:59:51.040+00:00`, fetched `2026-10-18T13:15:34+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-18 12:42:22 UTC 2026-10-18 12:42:22 UTC at epicenter Location 30.127°S 177.384°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳** — Score 9, observation — [Quelle](https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
