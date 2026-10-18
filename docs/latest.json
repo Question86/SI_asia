@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T03:59:09+00:00",
-  "run_id": "2026-10-18T03:59:09+00:00",
+  "generated_at": "2026-10-18T04:20:58+00:00",
+  "run_id": "2026-10-18T04:20:58+00:00",
   "date": "2026-10-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 5
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 1,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 0,
-    "observe": 5,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
@@ -50,6 +50,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7ad5412adddd32df9452"
+      },
+      {
+        "title": "会社の若い子が「ﾙｰﾓｽ…」って呟いたら、スマホのライトがピカァ！ってなったんで俺が🫨⁉️ってなってたら、「魔法…使えるんですよ…」って言われた",
+        "url": "https://togetter.com/li/2759573",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-18T00:53:32+00:00",
+        "fetched_at": "2026-10-18T04:20:26+00:00",
+        "summary": "カツオ武士 @katsuobushi0205 会社の若い子が「ﾙｰﾓｽ…」って呟いたら、スマホのライトがピカァ！ってなったんで俺が🫨⁉️ってなってたら、ニチャアって顔して「魔法…使えるんですよ…」って言われたから俺は「べっ💦別にカッコいいとか思ってねーし💦」って強がったけど１人になった時ﾙｰﾓｽ…って自分のスマホで試した…↓ 2026-1...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e42cce978aef9d61e8d0"
       },
       {
         "title": "Void を触ってみた。もう全部これでよくね？ | ashunar0",
@@ -160,6 +181,27 @@
       "id": "7ad5412adddd32df9452"
     },
     {
+      "title": "会社の若い子が「ﾙｰﾓｽ…」って呟いたら、スマホのライトがピカァ！ってなったんで俺が🫨⁉️ってなってたら、「魔法…使えるんですよ…」って言われた",
+      "url": "https://togetter.com/li/2759573",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-18T00:53:32+00:00",
+      "fetched_at": "2026-10-18T04:20:26+00:00",
+      "summary": "カツオ武士 @katsuobushi0205 会社の若い子が「ﾙｰﾓｽ…」って呟いたら、スマホのライトがピカァ！ってなったんで俺が🫨⁉️ってなってたら、ニチャアって顔して「魔法…使えるんですよ…」って言われたから俺は「べっ💦別にカッコいいとか思ってねーし💦」って強がったけど１人になった時ﾙｰﾓｽ…って自分のスマホで試した…↓ 2026-1...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e42cce978aef9d61e8d0"
+    },
+    {
       "title": "Void を触ってみた。もう全部これでよくね？ | ashunar0",
       "url": "https://ashunar0.dev/posts/try-void/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -244,7 +286,29 @@
       "id": "07566234db3ba4be3ea1"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "会社の若い子が「ﾙｰﾓｽ…」って呟いたら、スマホのライトがピカァ！ってなったんで俺が🫨⁉️ってなってたら、「魔法…使えるんですよ…」って言われた",
+      "url": "https://togetter.com/li/2759573",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-18T00:53:32+00:00",
+      "fetched_at": "2026-10-18T04:20:26+00:00",
+      "summary": "カツオ武士 @katsuobushi0205 会社の若い子が「ﾙｰﾓｽ…」って呟いたら、スマホのライトがピカァ！ってなったんで俺が🫨⁉️ってなってたら、ニチャアって顔して「魔法…使えるんですよ…」って言われたから俺は「べっ💦別にカッコいいとか思ってねーし💦」って強がったけど１人になった時ﾙｰﾓｽ…って自分のスマホで試した…↓ 2026-1...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e42cce978aef9d61e8d0"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
