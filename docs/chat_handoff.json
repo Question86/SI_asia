@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-18T13:27:56+00:00",
+  "generated_at": "2026-10-18T13:37:20+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 1,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 1,
-    "observe": 14
+    "observe": 15
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,6 +45,16 @@
       "section": "observe"
     },
     {
+      "title": "変体仮名一覧表",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2023-09-13T17:11:42+00:00",
+      "relevance_score": 9,
+      "url": "https://cid.ninjal.ac.jp/kana/list/",
+      "summary": "©2022 National Institute for Japanese Language and Linguistics",
+      "section": "observe"
+    },
+    {
       "title": "iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -52,16 +62,6 @@
       "relevance_score": 5,
       "url": "https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/",
       "summary": "iPhoneをiOS 27にアップデートした人のなかには、もうSiri AIやAppleのAIによる写真編集機能のいくつかを試してみた人もいるのではないでしょうか。 その一方で、別のことに気づいた人もいるかもしれません。 iPhoneのバッテリーのもちが悪くなっている、ということです。このアップデートによってバッテリーの駆動時間...",
-      "section": "observe"
-    },
-    {
-      "title": "スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-18T04:35:48+00:00",
-      "relevance_score": 5,
-      "url": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
-      "summary": "急速充電は使わない。満充電のまま朝まで挿しっぱなしにしない。充電は80％で止める。バッテリーを長持ちさせるために、どれか1つは守っている人が多いはずだ。現行のスマートフォンでは、80％で充電を止める設定を用意している機種が多い。この設定は、スマートフォンのバッテリーを長く使う上で有効だとされている。 ...",
       "section": "observe"
     }
   ],

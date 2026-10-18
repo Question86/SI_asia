@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-18T13:27:56+00:00_
+_Generiert: 2026-10-18T13:37:20+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „M 5.2 - 55 km NNW of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+16 neue relevante Treffer. Stärkstes Signal: „M 5.2 - 55 km NNW of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -91,6 +91,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Open AI が証明したと主張している、Navier-Stokes 方程式の爆発解の構成の書籍を発売しました。 smooth-pudding.hatenablog.com それに関連して、この書籍の活用方法や、AI を使って学びを広げることについて以下の記事で話しました。 smooth-pudding.hatenablog.com 今回はより具体的に、自分がまだ知らない分野につい...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **変体仮名一覧表** — Score 9, observation — [Quelle](https://cid.ninjal.ac.jp/kana/list/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2023-09-13T17:11:42+00:00`, fetched `2026-10-18T13:36:50+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ©2022 National Institute for Japanese Language and Linguistics
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン** — Score 5, observation — [Quelle](https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-18T09:18:39+00:00`, fetched `2026-10-18T11:49:13+00:00`
@@ -99,15 +108,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: iPhoneをiOS 27にアップデートした人のなかには、もうSiri AIやAppleのAIによる写真編集機能のいくつかを試してみた人もいるのではないでしょうか。 その一方で、別のことに気づいた人もいるかもしれません。 iPhoneのバッテリーのもちが悪くなっている、ということです。このアップデートによってバッテリーの駆動時間...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-18T04:35:48+00:00`, fetched `2026-10-18T06:30:34+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 急速充電は使わない。満充電のまま朝まで挿しっぱなしにしない。充電は80％で止める。バッテリーを長持ちさせるために、どれか1つは守っている人が多いはずだ。現行のスマートフォンでは、80％で充電を止める設定を用意している機種が多い。この設定は、スマートフォンのバッテリーを長く使う上で有効だとされている。 ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

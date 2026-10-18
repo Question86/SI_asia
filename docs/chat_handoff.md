@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-18T13:27:56+00:00_
+_Generated: 2026-10-18T13:37:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `16`
 
 ## Top Signals
 
@@ -29,18 +29,18 @@ _Generated: 2026-10-18T13:27:56+00:00_
 - url: https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830
 - summary: Open AI が証明したと主張している、Navier-Stokes 方程式の爆発解の構成の書籍を発売しました。 smooth-pudding.hatenablog.com それに関連して、この書籍の活用方法や、AI を使って学びを広げることについて以下の記事で話しました。 smooth-pudding.hatenablog.com 今回はより具体的に、自分がまだ知らない分野につい...
 
-### 4. iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン
+### 4. 変体仮名一覧表
+- source: Hatena Bookmark Hotentry IT
+- score: `9`
+- published: `2023-09-13T17:11:42+00:00`
+- url: https://cid.ninjal.ac.jp/kana/list/
+- summary: ©2022 National Institute for Japanese Language and Linguistics
+
+### 5. iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-18T09:18:39+00:00`
 - url: https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/
 - summary: iPhoneをiOS 27にアップデートした人のなかには、もうSiri AIやAppleのAIによる写真編集機能のいくつかを試してみた人もいるのではないでしょうか。 その一方で、別のことに気づいた人もいるかもしれません。 iPhoneのバッテリーのもちが悪くなっている、ということです。このアップデートによってバッテリーの駆動時間...
-
-### 5. スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-18T04:35:48+00:00`
-- url: https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html
-- summary: 急速充電は使わない。満充電のまま朝まで挿しっぱなしにしない。充電は80％で止める。バッテリーを長持ちさせるために、どれか1つは守っている人が多いはずだ。現行のスマートフォンでは、80％で充電を止める設定を用意している機種が多い。この設定は、スマートフォンのバッテリーを長く使う上で有効だとされている。 ...
 
 END OF DOCUMENT
