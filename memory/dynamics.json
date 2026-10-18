@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-18T23:12:06Z",
+  "generated_at": "2026-10-18T23:23:47Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "strong": 1,
-      "watch": 17,
-      "quiet": 22
+      "watch": 16,
+      "quiet": 23
     },
     "bands_after_gate_recheck": {
       "strong": 1,
-      "watch": 17,
-      "quiet": 22
+      "watch": 16,
+      "quiet": 23
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T08:14:46.040+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "disaster"
       ],
@@ -47,7 +47,7 @@
       "url": "https://cid.ninjal.ac.jp/kana/list/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T13:37:23+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -96,7 +96,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T22:22:50.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -121,7 +121,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T20:13:00.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -167,11 +167,35 @@
       "summary": "Time 2026-10-18 12:42:22 UTC 2026-10-18 12:42:22 UTC at epicenter Location 30.127°S 177.384°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.7 - 150 km SSW of Kokopo, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-18T22:35:45+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.2 - 71 km ESE of ‘Ohonua, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T20:20:19+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -195,7 +219,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T13:16:07+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -240,35 +264,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.7 - 150 km SSW of Kokopo, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-18T22:35:45+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン",
       "url": "https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T11:49:43+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -316,7 +316,7 @@
       "url": "https://courrier.jp/news/archives/462520/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T05:24:33+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -340,7 +340,7 @@
       "url": "https://ashunar0.dev/posts/try-void/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T02:50:20+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "general"
       ],
@@ -388,7 +388,7 @@
       "url": "https://blog.jxck.io/entries/2026-10-17/example.com.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T07:45:29+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "general"
       ],
@@ -412,7 +412,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:38:27+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "general"
       ],
@@ -436,14 +436,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38g",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T22:59:10+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 1,
@@ -464,19 +464,19 @@
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.53,
+      "dynamics_score": 11.42,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.3,
+      "baseline_z_hint": 2.2,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.30",
+        "baseline z_hint 2.20",
         "aging penalty -8.0 for 47.1d old signal"
       ],
       "summary": ""
@@ -486,7 +486,7 @@
       "url": "https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T07:22:45+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "ai"
       ],
@@ -560,7 +560,7 @@
       "url": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:11:39+00:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [
         "general"
       ],
@@ -584,7 +584,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T15:57:25.295+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "disaster"
@@ -612,7 +612,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T15:58:50+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -642,19 +642,19 @@
       "topics": [
         "general"
       ],
-      "dynamics_score": 7.86,
+      "dynamics_score": 7.78,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.69,
+      "baseline_z_hint": 1.62,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.69",
+        "baseline z_hint 1.62",
         "aging penalty -8.0 for 48.9d old signal"
       ],
       "summary": ""
@@ -664,11 +664,11 @@
       "url": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T12:34:59+00:00",
-      "age_days": 39.44,
+      "age_days": 39.45,
       "topics": [
         "general"
       ],
-      "dynamics_score": 7.55,
+      "dynamics_score": 7.54,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -680,7 +680,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -6.5 for 39.4d old signal"
+        "aging penalty -6.5 for 39.5d old signal"
       ],
       "summary": ""
     },
@@ -689,7 +689,7 @@
       "url": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T11:21:59+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -715,7 +715,7 @@
       "url": "https://togetter.com/li/2759573",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 121.44,
+      "age_days": 121.45,
       "topics": [
         "general"
       ],
@@ -731,7 +731,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 121.4d old signal"
+        "aging penalty -8.0 for 121.5d old signal"
       ],
       "summary": ""
     },
@@ -740,7 +740,7 @@
       "url": "https://togetter.com/li/2759529",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T00:42:20+00:00",
-      "age_days": 0.94,
+      "age_days": 0.95,
       "topics": [
         "ai"
       ],
@@ -766,7 +766,7 @@
       "url": "https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T17:43:11+00:00",
-      "age_days": 1.23,
+      "age_days": 1.24,
       "topics": [
         "ai"
       ],
@@ -792,7 +792,7 @@
       "url": "https://fd-x.co.jp/insights/41-what-is-ontology",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T16:37:33+00:00",
-      "age_days": 21.27,
+      "age_days": 21.28,
       "topics": [
         "ai"
       ],
@@ -819,7 +819,7 @@
       "url": "https://news.yahoo.co.jp/articles/df7e374ecdb58831f4b5f497fdcf5407c9af4e36",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T14:34:10+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -843,7 +843,7 @@
       "url": "https://togetter.com/li/2759573",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T00:53:32+00:00",
-      "age_days": 0.93,
+      "age_days": 0.94,
       "topics": [
         "general"
       ],
@@ -867,7 +867,7 @@
       "url": "https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T09:18:39+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -946,7 +946,7 @@
       "url": "https://cid.ninjal.ac.jp/kana/list/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2023-09-13T17:11:42+00:00",
-      "age_days": 1131.25,
+      "age_days": 1131.26,
       "topics": [
         "general"
       ],
@@ -970,7 +970,7 @@
       "url": "https://www.anthropic.com/research/employment-at-anthropic",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T07:07:57+00:00",
-      "age_days": 1.67,
+      "age_days": 1.68,
       "topics": [
         "ai"
       ],
@@ -995,7 +995,7 @@
       "url": "https://note.com/srt_taka/n/nff6c2d40c11b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T12:26:25+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
