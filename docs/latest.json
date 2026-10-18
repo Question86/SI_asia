@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T23:36:35+00:00",
-  "run_id": "2026-10-18T23:36:35+00:00",
+  "generated_at": "2026-10-18T23:43:57+00:00",
+  "run_id": "2026-10-18T23:43:57+00:00",
   "date": "2026-10-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 26,
     "displayed_findings": 26,
     "high": 0,
@@ -1345,29 +1345,7 @@
       "id": "07566234db3ba4be3ea1"
     }
   ],
-  "new_findings": [
-    {
-      "title": "CIで使うLambda MicroVMs 最高なんだよなぁ！",
-      "url": "https://speakerdeck.com/kuracchi_enj1/ci-de-tsukau-lambda-microvms-saikouna-nda-yonaa",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-18T13:08:54+00:00",
-      "fetched_at": "2026-10-18T23:36:07+00:00",
-      "summary": "JAWS-UG彩の国埼玉支部 #12 AWS re:Invent 2026準備回",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1266c6fbf6745836d479"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
