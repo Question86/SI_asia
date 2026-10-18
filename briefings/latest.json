@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T02:50:18+00:00",
-  "run_id": "2026-10-18T02:50:18+00:00",
+  "generated_at": "2026-10-18T03:21:56+00:00",
+  "run_id": "2026-10-18T03:21:56+00:00",
   "date": "2026-10-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 4,
     "displayed_findings": 4,
     "high": 0,
@@ -202,29 +202,7 @@
       "id": "07566234db3ba4be3ea1"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Void を触ってみた。もう全部これでよくね？ | ashunar0",
-      "url": "https://ashunar0.dev/posts/try-void/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-17T21:28:03+00:00",
-      "fetched_at": "2026-10-18T02:49:51+00:00",
-      "summary": "はじめに ついに、ついに Void が出ました！！（大歓喜） 発表されてからずっと待っていたので、出たと知ってすぐに触ってみました。 待っていたのは、Void が TS 版の Rails みたいになってくれるんじゃないか、という期待があったからです。自分でもアプリの書き方の規約を作ろうとしていたので、その一部を Void がフ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d928ff0be5954a5d51dd"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
