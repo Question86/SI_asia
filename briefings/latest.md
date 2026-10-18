@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-18T08:38:10+00:00_
+_Generiert: 2026-10-18T08:49:46+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,10 @@ _Generiert: 2026-10-18T08:38:10+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Pakistan 17/10/2026 05:06 UTC, 2 thousand (in MMI&gt;=VII).
-- **GDACS: Orange notification for tropical cyclone WATI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4982 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001339)
+- **GDACS: Green notification for tropical cyclone WATI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001339)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange notification for tropical cyclone WATI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4982 .
+  - Kurz: Green notification for tropical cyclone WATI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:1km) in United States 15/10/2026 11:07 UTC, 9 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571732)
   - Quelle: GDACS
   - Zeit: ``
