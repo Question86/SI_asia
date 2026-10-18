@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:57:37+00:00",
+  "generated_at": "2026-10-18T05:11:23+00:00",
   "sections": {
     "global_security": [
       {
@@ -101,21 +101,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571732",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.7 - 48 km WNW of Khuzdar, Pakistan",
-        "summary": "M5.7 - 48 km WNW of Khuzdar, Pakistan. PAGER alert: yellow. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1",
-        "published_at": "2026-10-17T05:06:57+00:00",
-        "metrics": {
-          "mag": 5.7,
-          "alert": "yellow",
-          "sig": 651.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

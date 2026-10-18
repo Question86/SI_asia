@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-18T04:57:34+00:00_
+_Generiert: 2026-10-18T05:11:20+00:00_
 
 ## Kurzlage
 
@@ -45,10 +45,6 @@ _Generiert: 2026-10-18T04:57:34+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:1km) in United States 15/10/2026 11:07 UTC, 9 thousand in MMI&gt;=III.
-- **USGS earthquake M5.7 - 48 km WNW of Khuzdar, Pakistan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1)
-  - Quelle: USGS
-  - Zeit: `2026-10-17T05:06:57+00:00`
-  - Kurz: M5.7 - 48 km WNW of Khuzdar, Pakistan. PAGER alert: yellow. Tsunami flag: 0.
 
 ## Wirtschaft global
 
