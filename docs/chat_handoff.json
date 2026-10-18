@@ -60,5 +60,136 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Void を触ってみた。もう全部これでよくね？ | ashunar0” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Void を触ってみた。もう全部これでよくね？ | ashunar0",
+        "url": "https://ashunar0.dev/posts/try-void/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-18T02:50:20+00:00",
+        "age_days": 0.07,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 14.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた",
+        "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-18T01:57:24+00:00",
+        "age_days": 0.11,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 14.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
+        "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-18T01:38:27+00:00",
+        "age_days": 0.12,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 14.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "会社の若い子が「ﾙｰﾓｽ…」って呟いたら、スマホのライトがピカァ！ってなったんで俺が🫨⁉️ってなってたら、「魔法…使えるんですよ…」って言われた",
+        "url": "https://togetter.com/li/2759573",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T12:31:48+00:00",
+        "age_days": 120.67,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 11.69,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.9,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.90",
+          "aging penalty -8.0 for 120.7d old signal"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道",
+        "url": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-18T01:11:39+00:00",
+        "age_days": 0.14,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 10.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10"
+        ],
+        "summary": "英紙テレグラフは17日までに、ウクライナ軍が使用する米衛星通信網「スターリンク」の軍事用サービスの利用制限について、運用する企業スペースXを率いる実業家イーロン・マスク氏がトランプ大統領に提案したと報じた。トランプ氏も同意したとしている。 マスク氏は自身の関与を否定し、利用制限を決める最終権限はトラ..."
+      }
+    ]
+  }
 }
