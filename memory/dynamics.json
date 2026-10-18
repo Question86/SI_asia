@@ -1,15 +1,17 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-18T02:28:26Z",
+  "generated_at": "2026-10-18T02:46:55Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 6,
     "bands": {
-      "quiet": 6
+      "watch": 1,
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
-      "quiet": 6
+      "watch": 1,
+      "quiet": 5
     }
   },
   "top_dynamics": [
@@ -18,6 +20,30 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:38:27+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた",
+      "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-18T01:57:24+00:00",
       "age_days": 0.03,
       "topics": [
         "general"
@@ -38,35 +64,11 @@
       "summary": ""
     },
     {
-      "title": "ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた",
-      "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-18T01:57:24+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "「AIに頼らずいろんな絵柄やタッチを再現して描いた絵を見てくれ」『しかるねこ』作者が9年前に描いた16枚のそれぞれ違った作風のサーバルちゃんの模写アレンジ絵がスゴい",
       "url": "https://togetter.com/li/2759529",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T00:42:20+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -92,7 +94,7 @@
       "url": "https://togetter.com/li/2759529",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T19:59:13+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -117,7 +119,7 @@
       "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T13:37:34+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -142,7 +144,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T06:57:30+00:00",
-      "age_days": 0.81,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
@@ -163,5 +165,5 @@
       "summary": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=11.5."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.0."
 }
