@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T02:13:15+00:00",
+  "generated_at": "2026-10-18T02:34:57+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -78335,7 +78335,22 @@
     },
     "domain:mojacookie.com": {
       "title": "「AIに頼らずいろんな絵柄やタッチを再現して描いた絵を見てくれ」『しかるねこ』作者が9年前に描いた16枚のそれぞれ違った作風のサーバルちゃんの模写アレンジ絵がスゴい",
-      "updated_at": "2026-10-18T02:13:15+00:00",
+      "updated_at": "2026-10-18T02:34:57+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.7,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.6
+    },
+    "url:https://k-tai.watch.impress.co.jp/docs/news/2149025.html": {
+      "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
+      "updated_at": "2026-10-18T02:34:57+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -78347,9 +78362,9 @@
       "last_score": 7.1,
       "z_hint": -0.75
     },
-    "url:https://k-tai.watch.impress.co.jp/docs/news/2149025.html": {
-      "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
-      "updated_at": "2026-10-18T02:13:15+00:00",
+    "title:rag-rag": {
+      "title": "ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた",
+      "updated_at": "2026-10-18T02:34:57+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -78359,18 +78374,6 @@
       "rolling_peak": 10.1,
       "last_score": 7.1,
       "z_hint": -1.0
-    },
-    "title:rag-rag": {
-      "title": "ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた",
-      "updated_at": "2026-10-18T02:13:15+00:00",
-      "network_scores": [
-        10.1,
-        7.1
-      ],
-      "rolling_average": 8.6,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -1.5
     }
   }
 }
