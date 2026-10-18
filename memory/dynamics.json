@@ -1,26 +1,78 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-18T08:16:45Z",
+  "generated_at": "2026-10-18T08:42:13Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 20,
+    "dynamics": 22,
     "bands": {
-      "watch": 5,
-      "quiet": 15
+      "strong": 1,
+      "watch": 7,
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
-      "watch": 5,
-      "quiet": 15
+      "strong": 1,
+      "watch": 7,
+      "quiet": 14
     }
   },
   "top_dynamics": [
+    {
+      "title": "M 5.2 - 55 km NNW of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-18T08:14:46.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-18 08:00:06 UTC 2026-10-18 08:00:06 UTC at epicenter Location 8.145°S 120.273°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 5.2 - 55 km NNW of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-04T05:31:26+00:00",
+      "age_days": 44.13,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 44.1d old signal"
+      ],
+      "summary": ""
+    },
     {
       "title": "スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果",
       "url": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T06:31:10+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -44,7 +96,7 @@
       "url": "https://courrier.jp/news/archives/462520/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T05:24:33+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -68,7 +120,7 @@
       "url": "https://ashunar0.dev/posts/try-void/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T02:50:20+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -92,7 +144,31 @@
       "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:57:24+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "example.com が刷新された話 | blog.jxck.io",
+      "url": "https://blog.jxck.io/entries/2026-10-17/example.com.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-18T07:45:29+00:00",
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -116,7 +192,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:38:27+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -140,7 +216,7 @@
       "url": "https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T07:22:45+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -166,7 +242,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T04:35:48+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -190,7 +266,7 @@
       "url": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:11:39+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -210,35 +286,11 @@
       "summary": "英紙テレグラフは17日までに、ウクライナ軍が使用する米衛星通信網「スターリンク」の軍事用サービスの利用制限について、運用する企業スペースXを率いる実業家イーロン・マスク氏がトランプ大統領に提案したと報じた。トランプ氏も同意したとしている。 マスク氏は自身の関与を否定し、利用制限を決める最終権限はトラ..."
     },
     {
-      "title": "example.com が刷新された話 | blog.jxck.io",
-      "url": "https://blog.jxck.io/entries/2026-10-17/example.com.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-18T07:45:29+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道",
       "url": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T12:34:59+00:00",
-      "age_days": 38.82,
+      "age_days": 38.84,
       "topics": [
         "general"
       ],
@@ -263,7 +315,7 @@
       "url": "https://togetter.com/li/2759573",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 120.82,
+      "age_days": 120.84,
       "topics": [
         "general"
       ],
@@ -288,7 +340,7 @@
       "url": "https://togetter.com/li/2759529",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T00:42:20+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -314,7 +366,7 @@
       "url": "https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T17:43:11+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "ai"
       ],
@@ -340,7 +392,7 @@
       "url": "https://togetter.com/li/2759573",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T00:53:32+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -364,7 +416,7 @@
       "url": "https://blog.jxck.io/entries/2026-10-17/example.com.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T09:51:10+00:00",
-      "age_days": 0.93,
+      "age_days": 0.95,
       "topics": [
         "ai"
       ],
@@ -390,7 +442,7 @@
       "url": "https://courrier.jp/news/archives/462520/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T23:50:03+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -415,7 +467,7 @@
       "url": "https://ashunar0.dev/posts/try-void/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T21:28:03+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -440,7 +492,7 @@
       "url": "https://togetter.com/li/2759529",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T19:59:13+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "ai"
       ],
@@ -465,7 +517,7 @@
       "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T13:37:34+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -490,7 +542,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T06:57:30+00:00",
-      "age_days": 1.06,
+      "age_days": 1.07,
       "topics": [
         "ai"
       ],
@@ -511,5 +563,5 @@
       "summary": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.2 - 55 km NNW of Ruteng, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0."
 }

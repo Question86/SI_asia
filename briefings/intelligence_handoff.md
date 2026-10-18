@@ -1,18 +1,38 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-18T08:16:45Z_
+_Generated: 2026-10-18T08:42:13Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.0.
+Stärkste Dynamik nach Gate-Recheck: “M 5.2 - 55 km NNW of Ruteng, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0.
 
 ## Top Dynamics
+
+### M 5.2 - 55 km NNW of Ruteng, Indonesia
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.0`
+- Published: `2026-10-18T08:14:46.040+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e
+
+### M 5.2 - 55 km NNW of Ruteng, Indonesia
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.5`
+- Published: `2026-09-04T05:31:26+00:00` / age_days `44.13`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, aging penalty -8.0 for 44.1d old signal
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e
 
 ### スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T06:31:10+00:00` / age_days `0.07`
+- Published: `2026-10-18T06:31:10+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -22,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “スマホの「充電80％止めで長�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T05:24:33+00:00` / age_days `0.12`
+- Published: `2026-10-18T05:24:33+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “スマホの「充電80％止めで長�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T02:50:20+00:00` / age_days `0.23`
+- Published: `2026-10-18T02:50:20+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,17 +62,27 @@ Stärkste Dynamik nach Gate-Recheck: “スマホの「充電80％止めで長�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T01:57:24+00:00` / age_days `0.26`
+- Published: `2026-10-18T01:57:24+00:00` / age_days `0.28`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://zenn.dev/aiforall/articles/8e1803396534de
 
+### example.com が刷新された話 | blog.jxck.io
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.0`
+- Published: `2026-10-18T07:45:29+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://blog.jxck.io/entries/2026-10-17/example.com.html
+
 ### ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T01:38:27+00:00` / age_days `0.28`
+- Published: `2026-10-18T01:38:27+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -62,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “スマホの「充電80％止めで長�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-18T07:22:45+00:00` / age_days `0.04`
+- Published: `2026-10-18T07:22:45+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “スマホの「充電80％止めで長�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-18T04:35:48+00:00` / age_days `0.15`
+- Published: `2026-10-18T04:35:48+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -82,50 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “スマホの「充電80％止めで長�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-18T01:11:39+00:00` / age_days `0.3`
+- Published: `2026-10-18T01:11:39+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
 - Quelle: https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/
 
-### example.com が刷新された話 | blog.jxck.io
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `9.0`
-- Published: `2026-10-18T07:45:29+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://blog.jxck.io/entries/2026-10-17/example.com.html
-
 ### 米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.76`
-- Published: `2026-09-09T12:34:59+00:00` / age_days `38.82`
+- Published: `2026-09-09T12:34:59+00:00` / age_days `38.84`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -6.2 for 38.8d old signal
 - Quelle: https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/
-
-### 会社の若い子が「ﾙｰﾓｽ…」って呟いたら、スマホのライトがピカァ！ってなったんで俺が🫨⁉️ってなってたら、「魔法…使えるんですよ…」って言われた
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `6.0`
-- Published: `2026-06-19T12:31:48+00:00` / age_days `120.82`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -8.0 for 120.8d old signal
-- Quelle: https://togetter.com/li/2759573
-
-### 「AIに頼らずいろんな絵柄やタッチを再現して描いた絵を見てくれ」『しかるねこ』作者が9年前に描いた16枚のそれぞれ違った作風のサーバルちゃんの模写アレンジ絵がスゴい
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `6.0`
-- Published: `2026-10-18T00:42:20+00:00` / age_days `0.32`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://togetter.com/li/2759529
 
 END OF DOCUMENT
