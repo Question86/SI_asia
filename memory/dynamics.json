@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-18T22:24:48Z",
+  "generated_at": "2026-10-18T22:50:53Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "strong": 1,
-      "watch": 13,
-      "quiet": 26
+      "watch": 14,
+      "quiet": 25
     },
     "bands_after_gate_recheck": {
       "strong": 1,
-      "watch": 13,
-      "quiet": 26
+      "watch": 14,
+      "quiet": 25
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T08:14:46.040+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "disaster"
       ],
@@ -47,7 +47,7 @@
       "url": "https://cid.ninjal.ac.jp/kana/list/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T13:37:23+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -67,11 +67,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.7 - 150 km SSW of Kokopo, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-18T22:22:50.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-18 22:06:14 UTC 2026-10-18 22:06:14 UTC at epicenter Location 5.646°S 151.868°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.2 - 71 km ESE of ‘Ohonua, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T20:13:00.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -96,7 +121,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T12:59:51.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -121,7 +146,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T20:20:19+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -145,7 +170,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T13:16:07+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -169,7 +194,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 44.7,
+      "age_days": 44.72,
       "topics": [
         "general"
       ],
@@ -194,7 +219,7 @@
       "url": "https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T11:49:43+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -218,7 +243,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T06:31:10+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "general"
       ],
@@ -242,7 +267,7 @@
       "url": "https://courrier.jp/news/archives/462520/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T05:24:33+00:00",
-      "age_days": 0.71,
+      "age_days": 0.73,
       "topics": [
         "general"
       ],
@@ -266,7 +291,7 @@
       "url": "https://ashunar0.dev/posts/try-void/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T02:50:20+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "general"
       ],
@@ -290,7 +315,7 @@
       "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:57:24+00:00",
-      "age_days": 0.85,
+      "age_days": 0.87,
       "topics": [
         "general"
       ],
@@ -314,7 +339,7 @@
       "url": "https://blog.jxck.io/entries/2026-10-17/example.com.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T07:45:29+00:00",
-      "age_days": 0.61,
+      "age_days": 0.63,
       "topics": [
         "general"
       ],
@@ -338,7 +363,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:38:27+00:00",
-      "age_days": 0.87,
+      "age_days": 0.88,
       "topics": [
         "general"
       ],
@@ -362,24 +387,48 @@
       "url": "https://www.anthropic.com/research/employment-at-anthropic",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T21:51:36+00:00",
-      "age_days": 47.02,
+      "age_days": 47.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.86,
+      "dynamics_score": 11.64,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.6,
+      "baseline_z_hint": 2.4,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.60",
+        "baseline z_hint 2.40",
         "aging penalty -8.0 for 47.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.7 - 150 km SSW of Kokopo, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-18T22:35:45+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -388,7 +437,7 @@
       "url": "https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T07:22:45+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -410,11 +459,35 @@
       "summary": ""
     },
     {
+      "title": "リクルート、カーセンサーの利用を一時停止 外部から不審なアクセス感知で 復旧は未定（日刊自動車新聞） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/68bd47fa31266bea1674102a579dbd199c4d892e",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-18T12:30:38+00:00",
+      "age_days": 0.43,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "同サイトでは現在、サービス停止の案内が表示されている（日刊自動車新聞） 中古車検索サイト「カーセンサー」を運営するリクルート（牛田圭一社長、東京都千代田区）は、10月17日に外部から不審なアクセスを検知したため、同サイトと関連する中古車事業者向けサービスの利用を一時停止したと発表した。18日夕方時点で..."
+    },
+    {
       "title": "スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果",
       "url": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T04:35:48+00:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "general"
       ],
@@ -438,7 +511,7 @@
       "url": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:11:39+00:00",
-      "age_days": 0.88,
+      "age_days": 0.9,
       "topics": [
         "general"
       ],
@@ -462,7 +535,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T15:57:25.295+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "disaster"
@@ -490,7 +563,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T15:58:50+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -512,15 +585,41 @@
       "summary": ""
     },
     {
+      "title": "『コミックシーモア』サービス再開の見通し立たず「正確な再開日時をお伝えすることが困難な状況です」（オリコン） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/df7e374ecdb58831f4b5f497fdcf5407c9af4e36",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T00:59:38+00:00",
+      "age_days": 48.91,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 7.93,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 1.76,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 1.76",
+        "aging penalty -8.0 for 48.9d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道",
       "url": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T12:34:59+00:00",
-      "age_days": 39.41,
+      "age_days": 39.43,
       "topics": [
         "general"
       ],
-      "dynamics_score": 7.56,
+      "dynamics_score": 7.55,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -537,36 +636,11 @@
       "summary": ""
     },
     {
-      "title": "『コミックシーモア』サービス再開の見通し立たず「正確な再開日時をお伝えすることが困難な状況です」（オリコン） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/df7e374ecdb58831f4b5f497fdcf5407c9af4e36",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T00:59:38+00:00",
-      "age_days": 48.89,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 48.9d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
       "url": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T11:21:59+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -592,7 +666,7 @@
       "url": "https://togetter.com/li/2759573",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 121.41,
+      "age_days": 121.43,
       "topics": [
         "general"
       ],
@@ -617,7 +691,7 @@
       "url": "https://togetter.com/li/2759529",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T00:42:20+00:00",
-      "age_days": 0.9,
+      "age_days": 0.92,
       "topics": [
         "ai"
       ],
@@ -643,7 +717,7 @@
       "url": "https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T17:43:11+00:00",
-      "age_days": 1.2,
+      "age_days": 1.21,
       "topics": [
         "ai"
       ],
@@ -669,11 +743,11 @@
       "url": "https://fd-x.co.jp/insights/41-what-is-ontology",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-27T16:37:33+00:00",
-      "age_days": 21.24,
+      "age_days": 21.26,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 5.92,
+      "dynamics_score": 5.91,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -686,7 +760,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -0.1 for 21.2d old signal",
+        "aging penalty -0.1 for 21.3d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -696,7 +770,7 @@
       "url": "https://news.yahoo.co.jp/articles/df7e374ecdb58831f4b5f497fdcf5407c9af4e36",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T14:34:10+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -720,7 +794,7 @@
       "url": "https://togetter.com/li/2759573",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T00:53:32+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "general"
       ],
@@ -744,7 +818,7 @@
       "url": "https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T09:18:39+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -770,7 +844,7 @@
       "url": "https://blog.jxck.io/entries/2026-10-17/example.com.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T09:51:10+00:00",
-      "age_days": 1.52,
+      "age_days": 1.54,
       "topics": [
         "ai"
       ],
@@ -796,7 +870,7 @@
       "url": "https://note.com/srt_taka/n/nff6c2d40c11b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 48.15,
+      "age_days": 48.17,
       "topics": [
         "ai"
       ],
@@ -823,7 +897,7 @@
       "url": "https://cid.ninjal.ac.jp/kana/list/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2023-09-13T17:11:42+00:00",
-      "age_days": 1131.22,
+      "age_days": 1131.24,
       "topics": [
         "general"
       ],
@@ -847,7 +921,7 @@
       "url": "https://www.anthropic.com/research/employment-at-anthropic",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T07:07:57+00:00",
-      "age_days": 1.64,
+      "age_days": 1.65,
       "topics": [
         "ai"
       ],
@@ -872,7 +946,7 @@
       "url": "https://note.com/srt_taka/n/nff6c2d40c11b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T12:26:25+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -897,7 +971,7 @@
       "url": "https://fd-x.co.jp/insights/41-what-is-ontology",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T02:55:30+00:00",
-      "age_days": 0.81,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
@@ -922,7 +996,7 @@
       "url": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:26:27+00:00",
-      "age_days": 0.87,
+      "age_days": 0.89,
       "topics": [
         "ai"
       ],
@@ -941,81 +1015,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "はじめに オライリーの本は、技術書として信頼できるので、これまでも必要なものを買って読んでいました。 自分は紙の本のほうが読みやすいタイプです。ただ、オライリーの本は分厚いものが多く、持ち歩くと重いのが難点でした。そんなとき、オライリーの本がオンラインのサブスクで読み放題になると知って、魅力を感じ..."
-    },
-    {
-      "title": "ナオミ・クラインが暴く「テック億万長者という“中身のない男たち”の正体」 | 彼らの態度が「ころころ変わる」不気味な理由",
-      "url": "https://courrier.jp/news/archives/462520/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-17T23:50:03+00:00",
-      "age_days": 0.94,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "2024年の米大統領選では、それまで民主党支持だったイーロン・マスクらテック億万長者たちが、トランプ支持へと雪崩を打った。なぜ彼らの態度は180度変わったのか？ ジャーナリストのナオミ・クラインは、気候危機やAIによる失業を冷笑し、富と技術の力で世界を私物化しようとする超富裕層の冷酷な本音を、その新著で暴..."
-    },
-    {
-      "title": "Void を触ってみた。もう全部これでよくね？ | ashunar0",
-      "url": "https://ashunar0.dev/posts/try-void/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-17T21:28:03+00:00",
-      "age_days": 1.04,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "はじめに ついに、ついに Void が出ました！！（大歓喜） 発表されてからずっと待っていたので、出たと知ってすぐに触ってみました。 待っていたのは、Void が TS 版の Rails みたいになってくれるんじゃないか、という期待があったからです。自分でもアプリの書き方の規約を作ろうとしていたので、その一部を Void がフ..."
-    },
-    {
-      "title": "「AIに頼らずいろんな絵柄やタッチを再現して描いた絵を見てくれ」『しかるねこ』作者が9年前に描いた16枚のそれぞれ違った作風のサーバルちゃんの模写アレンジ絵がスゴい",
-      "url": "https://togetter.com/li/2759529",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-17T19:59:13+00:00",
-      "age_days": 1.1,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "もじゃクッキー @mojacookie 【11/14(土)15(日)デザインフェスタVol.64/G-74】 イラストレーター/Web漫画家 「しかるねこ」(@shikaruneko)「ヒヨハリ！」(@hiyohari)「ちょっぴりおしゃべりで、ちょっぴり個性的などうぶつさんたち」 アニポケ公式Xでイラスト連載中 連絡先▷ctc@mojacookie.com mojacookie.com"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.2 - 55 km NNW of Ruteng, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0."
