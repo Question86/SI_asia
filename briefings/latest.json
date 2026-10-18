@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T13:37:20+00:00",
-  "run_id": "2026-10-18T13:37:20+00:00",
+  "generated_at": "2026-10-18T13:44:14+00:00",
+  "run_id": "2026-10-18T13:44:14+00:00",
   "date": "2026-10-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 16,
     "displayed_findings": 16,
     "high": 0,
@@ -773,30 +773,7 @@
       "id": "07566234db3ba4be3ea1"
     }
   ],
-  "new_findings": [
-    {
-      "title": "変体仮名一覧表",
-      "url": "https://cid.ninjal.ac.jp/kana/list/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2023-09-13T17:11:42+00:00",
-      "fetched_at": "2026-10-18T13:36:50+00:00",
-      "summary": "©2022 National Institute for Japanese Language and Linguistics",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8d1a62c70acfcc99e8ee"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
