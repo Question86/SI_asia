@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-18T06:49:40Z_
+_Generated: 2026-10-18T07:14:32Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “ナオミ・クラインが暴く「テ�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T05:24:33+00:00` / age_days `0.06`
+- Published: `2026-10-18T05:24:33+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “ナオミ・クラインが暴く「テ�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T02:50:20+00:00` / age_days `0.17`
+- Published: `2026-10-18T02:50:20+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “ナオミ・クラインが暴く「テ�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T01:57:24+00:00` / age_days `0.2`
+- Published: `2026-10-18T01:57:24+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “ナオミ・クラインが暴く「テ�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T01:38:27+00:00` / age_days `0.22`
+- Published: `2026-10-18T01:38:27+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,17 +52,17 @@ Stärkste Dynamik nach Gate-Recheck: “ナオミ・クラインが暴く「テ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.5`
-- Published: `2026-10-18T06:31:10+00:00` / age_days `0.01`
+- Published: `2026-10-18T06:31:10+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
+- Warum: momentum delta +2
 - Quelle: https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html
 
 ### スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-18T04:35:48+00:00` / age_days `0.09`
+- Published: `2026-10-18T04:35:48+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “ナオミ・クラインが暴く「テ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-18T01:11:39+00:00` / age_days `0.23`
+- Published: `2026-10-18T01:11:39+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “ナオミ・クラインが暴く「テ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.78`
-- Published: `2026-09-09T12:34:59+00:00` / age_days `38.76`
+- Published: `2026-09-09T12:34:59+00:00` / age_days `38.78`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -6.2 for 38.8d old signal
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “ナオミ・クラインが暴く「テ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-06-19T12:31:48+00:00` / age_days `120.76`
+- Published: `2026-06-19T12:31:48+00:00` / age_days `120.78`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 120.8d old signal
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “ナオミ・クラインが暴く「テ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-10-18T00:42:20+00:00` / age_days `0.26`
+- Published: `2026-10-18T00:42:20+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “ナオミ・クラインが暴く「テ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-10-18T00:53:32+00:00` / age_days `0.25`
+- Published: `2026-10-18T00:53:32+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “ナオミ・クラインが暴く「テ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-10-17T23:50:03+00:00` / age_days `0.29`
+- Published: `2026-10-17T23:50:03+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
