@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-18T23:43:57+00:00_
+_Generiert: 2026-10-18T23:59:48+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „M 5.2 - 55 km NNW of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+27 neue relevante Treffer. Stärkstes Signal: „M 5.2 - 55 km NNW of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
