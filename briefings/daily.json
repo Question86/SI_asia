@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-18T01:38:27+00:00",
-  "today_file_total": 2,
+  "generated_at": "2026-10-18T01:57:24+00:00",
+  "today_file_total": 3,
   "current_clusters": [
     {
-      "key": "url:https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
-      "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
+      "key": "title:rag-rag",
+      "title": "ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -12,7 +12,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://k-tai.watch.impress.co.jp/docs/news/2149025.html"
+        "https://zenn.dev/aiforall/articles/8e1803396534de"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -36,6 +36,29 @@
       ],
       "urls": [
         "https://togetter.com/li/2759529"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
+      "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://k-tai.watch.impress.co.jp/docs/news/2149025.html"
       ],
       "finding_count": 1,
       "max_score": 5,

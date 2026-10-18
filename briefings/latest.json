@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T01:38:25+00:00",
-  "run_id": "2026-10-18T01:38:25+00:00",
+  "generated_at": "2026-10-18T01:57:21+00:00",
+  "run_id": "2026-10-18T01:57:21+00:00",
   "date": "2026-10-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 3
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
     "medium": 0,
-    "observe": 2,
+    "observe": 3,
     "source_errors": 0
   },
   "sections": {
@@ -50,6 +50,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f3497e6f93409ed66f27"
+      },
+      {
+        "title": "ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた",
+        "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-17T13:37:34+00:00",
+        "fetched_at": "2026-10-18T01:56:45+00:00",
+        "summary": "階層ナビゲーション型RAGとは 「階層ナビゲーション型RAG」は、ベクトルDBを使わずに文書を探すRAGです。準備段階で文書の山から階層的な目次を自動で作っておき、質問が来たらLLMがその目次を上から順に辿って、答えが書かれていそうな文書を選びます。質問のたびにベクトル検索をしない点が、一般的なベクトルDB版RAG...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4b82fc3c339a9428538a"
       },
       {
         "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
@@ -97,6 +118,27 @@
       "id": "f3497e6f93409ed66f27"
     },
     {
+      "title": "ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた",
+      "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-17T13:37:34+00:00",
+      "fetched_at": "2026-10-18T01:56:45+00:00",
+      "summary": "階層ナビゲーション型RAGとは 「階層ナビゲーション型RAG」は、ベクトルDBを使わずに文書を探すRAGです。準備段階で文書の山から階層的な目次を自動で作っておき、質問が来たらLLMがその目次を上から順に辿って、答えが書かれていそうな文書を選びます。質問のたびにベクトル検索をしない点が、一般的なベクトルDB版RAG...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4b82fc3c339a9428538a"
+    },
+    {
       "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -120,13 +162,13 @@
   ],
   "new_findings": [
     {
-      "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
+      "title": "ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた",
+      "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-17T06:57:30+00:00",
-      "fetched_at": "2026-10-18T01:37:54+00:00",
-      "summary": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
+      "published_at": "2026-10-17T13:37:34+00:00",
+      "fetched_at": "2026-10-18T01:56:45+00:00",
+      "summary": "階層ナビゲーション型RAGとは 「階層ナビゲーション型RAG」は、ベクトルDBを使わずに文書を探すRAGです。準備段階で文書の山から階層的な目次を自動で作っておき、質問が来たらLLMがその目次を上から順に辿って、答えが書かれていそうな文書を選びます。質問のたびにベクトル検索をしない点が、一般的なベクトルDB版RAG...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -138,7 +180,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "07566234db3ba4be3ea1"
+      "id": "4b82fc3c339a9428538a"
     }
   ],
   "source_errors": [],
