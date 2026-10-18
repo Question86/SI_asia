@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-18T11:21:56+00:00_
+_Generiert: 2026-10-18T11:32:19+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „M 5.2 - 55 km NNW of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+13 neue relevante Treffer. Stärkstes Signal: „M 5.2 - 55 km NNW of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -91,14 +91,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 急速充電は使わない。満充電のまま朝まで挿しっぱなしにしない。充電は80％で止める。バッテリーを長持ちさせるために、どれか1つは守っている人が多いはずだ。現行のスマートフォンでは、80％で充電を止める設定を用意している機種が多い。この設定は、スマートフォンのバッテリーを長く使う上で有効だとされている。 ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）** — Score 5, observation — [Quelle](https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm)
+- **オントロジーとは？意味・ナレッジグラフとの違い・LLMでの効果** — Score 5, observation — [Quelle](https://fd-x.co.jp/insights/41-what-is-ontology)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-18T01:26:27+00:00`, fetched `2026-10-18T11:21:22+00:00`
+  - Zeit: published `2026-10-18T02:55:30+00:00`, fetched `2026-10-18T11:31:50+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに オライリーの本は、技術書として信頼できるので、これまでも必要なものを買って読んでいました。 自分は紙の本のほうが読みやすいタイプです。ただ、オライリーの本は分厚いものが多く、持ち歩くと重いのが難点でした。そんなとき、オライリーの本がオンラインのサブスクで読み放題になると知って、魅力を感じ...
+  - Kurz: 最新世代の​モデルでも、​意味の​層を​通した​ほうが​精度は​明確に​高い。​加えて、​文脈付きメタデータを​与えた​場合は​スキーマのみの​プロンプトに​対しSQL生成精度が​3倍、​522問規模の​別ベンチマークでも​38%の​相対改善が​報告されている。 モデルの進化は意味の層を不要にしていない。​むしろエージェントが​...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

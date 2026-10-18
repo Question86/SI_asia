@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T11:21:56+00:00",
-  "run_id": "2026-10-18T11:21:56+00:00",
+  "generated_at": "2026-10-18T11:32:19+00:00",
+  "run_id": "2026-10-18T11:32:19+00:00",
   "date": "2026-10-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 12
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
     "medium": 1,
-    "observe": 11,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
@@ -110,6 +110,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fb27e3f9ee8cbeb1c7d2"
+      },
+      {
+        "title": "オントロジーとは？意味・ナレッジグラフとの違い・LLMでの効果",
+        "url": "https://fd-x.co.jp/insights/41-what-is-ontology",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-18T02:55:30+00:00",
+        "fetched_at": "2026-10-18T11:31:50+00:00",
+        "summary": "最新世代の​モデルでも、​意味の​層を​通した​ほうが​精度は​明確に​高い。​加えて、​文脈付きメタデータを​与えた​場合は​スキーマのみの​プロンプトに​対しSQL生成精度が​3倍、​522問規模の​別ベンチマークでも​38%の​相対改善が​報告されている。 モデルの進化は意味の層を不要にしていない。​むしろエージェントが​...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "68bd58b382de714917de"
       },
       {
         "title": "技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
@@ -384,6 +405,27 @@
       "id": "fb27e3f9ee8cbeb1c7d2"
     },
     {
+      "title": "オントロジーとは？意味・ナレッジグラフとの違い・LLMでの効果",
+      "url": "https://fd-x.co.jp/insights/41-what-is-ontology",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-18T02:55:30+00:00",
+      "fetched_at": "2026-10-18T11:31:50+00:00",
+      "summary": "最新世代の​モデルでも、​意味の​層を​通した​ほうが​精度は​明確に​高い。​加えて、​文脈付きメタデータを​与えた​場合は​スキーマのみの​プロンプトに​対しSQL生成精度が​3倍、​522問規模の​別ベンチマークでも​38%の​相対改善が​報告されている。 モデルの進化は意味の層を不要にしていない。​むしろエージェントが​...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "68bd58b382de714917de"
+    },
+    {
       "title": "技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
       "url": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
       "source": "Hatena Bookmark Hotentry IT",
@@ -575,13 +617,13 @@
   ],
   "new_findings": [
     {
-      "title": "技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
-      "url": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
+      "title": "オントロジーとは？意味・ナレッジグラフとの違い・LLMでの効果",
+      "url": "https://fd-x.co.jp/insights/41-what-is-ontology",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-18T01:26:27+00:00",
-      "fetched_at": "2026-10-18T11:21:22+00:00",
-      "summary": "はじめに オライリーの本は、技術書として信頼できるので、これまでも必要なものを買って読んでいました。 自分は紙の本のほうが読みやすいタイプです。ただ、オライリーの本は分厚いものが多く、持ち歩くと重いのが難点でした。そんなとき、オライリーの本がオンラインのサブスクで読み放題になると知って、魅力を感じ...",
+      "published_at": "2026-10-18T02:55:30+00:00",
+      "fetched_at": "2026-10-18T11:31:50+00:00",
+      "summary": "最新世代の​モデルでも、​意味の​層を​通した​ほうが​精度は​明確に​高い。​加えて、​文脈付きメタデータを​与えた​場合は​スキーマのみの​プロンプトに​対しSQL生成精度が​3倍、​522問規模の​別ベンチマークでも​38%の​相対改善が​報告されている。 モデルの進化は意味の層を不要にしていない。​むしろエージェントが​...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -593,7 +635,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f4fe5e8523e65ced1de0"
+      "id": "68bd58b382de714917de"
     }
   ],
   "source_errors": [],
