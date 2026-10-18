@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T03:21:59+00:00",
+  "generated_at": "2026-10-18T03:37:55+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -25023,8 +25023,8 @@
       "z_hint": 0.0
     },
     "domain:www.sankei.com": {
-      "title": "タイムズカー免許証画像流出、集団訴訟準備サイトに1万人超登録 責任追及へ弁護士が開設",
-      "updated_at": "2026-10-02T23:57:27+00:00",
+      "title": "米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道",
+      "updated_at": "2026-10-18T03:37:55+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -25047,7 +25047,6 @@
         10.1,
         10.1,
         10.1,
-        10.1,
         7.1,
         7.1,
         7.1,
@@ -25055,12 +25054,13 @@
         7.1,
         7.1,
         7.1,
-        7.1
+        7.1,
+        10.1
       ],
       "rolling_average": 9.3,
       "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -2.2
+      "last_score": 10.1,
+      "z_hint": 0.8
     },
     "earthquake:m 4.7 - 139 km nne of hihifo, tonga:4.7": {
       "title": "M 4.7 - 139 km NNE of Hihifo, Tonga",
@@ -78335,7 +78335,25 @@
     },
     "domain:mojacookie.com": {
       "title": "「AIに頼らずいろんな絵柄やタッチを再現して描いた絵を見てくれ」『しかるねこ』作者が9年前に描いた16枚のそれぞれ違った作風のサーバルちゃんの模写アレンジ絵がスゴい",
-      "updated_at": "2026-10-18T03:21:59+00:00",
+      "updated_at": "2026-10-18T03:37:55+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.48,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.38
+    },
+    "url:https://k-tai.watch.impress.co.jp/docs/news/2149025.html": {
+      "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
+      "updated_at": "2026-10-18T03:37:55+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -78350,9 +78368,9 @@
       "last_score": 7.1,
       "z_hint": -0.43
     },
-    "url:https://k-tai.watch.impress.co.jp/docs/news/2149025.html": {
-      "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
-      "updated_at": "2026-10-18T03:21:59+00:00",
+    "title:rag-rag": {
+      "title": "ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた",
+      "updated_at": "2026-10-18T03:37:55+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -78366,32 +78384,18 @@
       "last_score": 7.1,
       "z_hint": -0.5
     },
-    "title:rag-rag": {
-      "title": "ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた",
-      "updated_at": "2026-10-18T03:21:59+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.7,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.6
-    },
     "title:void-ashunar0": {
       "title": "Void を触ってみた。もう全部これでよくね？ | ashunar0",
-      "updated_at": "2026-10-18T03:21:59+00:00",
+      "updated_at": "2026-10-18T03:37:55+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.1,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     }
   }
 }

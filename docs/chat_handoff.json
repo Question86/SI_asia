@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-18T03:21:56+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-10-18T03:37:52+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 1,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
     "medium": 0,
-    "observe": 4
+    "observe": 5
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
+    {
+      "title": "米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-18T01:11:39+00:00",
+      "relevance_score": 5,
+      "url": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
+      "summary": "英紙テレグラフは17日までに、ウクライナ軍が使用する米衛星通信網「スターリンク」の軍事用サービスの利用制限について、運用する企業スペースXを率いる実業家イーロン・マスク氏がトランプ大統領に提案したと報じた。トランプ氏も同意したとしている。 マスク氏は自身の関与を否定し、利用制限を決める最終権限はトラ...",
+      "section": "observe"
+    },
     {
       "title": "Void を触ってみた。もう全部これでよくね？ | ashunar0",
       "source": "Hatena Bookmark Hotentry IT",
@@ -42,16 +52,6 @@
       "relevance_score": 5,
       "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
       "summary": "階層ナビゲーション型RAGとは 「階層ナビゲーション型RAG」は、ベクトルDBを使わずに文書を探すRAGです。準備段階で文書の山から階層的な目次を自動で作っておき、質問が来たらLLMがその目次を上から順に辿って、答えが書かれていそうな文書を選びます。質問のたびにベクトル検索をしない点が、一般的なベクトルDB版RAG...",
-      "section": "observe"
-    },
-    {
-      "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-17T06:57:30+00:00",
-      "relevance_score": 5,
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
-      "summary": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
       "section": "observe"
     }
   ],
