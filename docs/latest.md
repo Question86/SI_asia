@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-18T03:37:52+00:00_
+_Generiert: 2026-10-18T03:50:22+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道“ aus Hatena Bookmark Hotentry IT (Score 5, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+5 neue relevante Treffer. Stärkstes Signal: „米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道“ aus Hatena Bookmark Hotentry IT (Score 5, observation).
 
 ## Priorität Hoch
 
@@ -51,7 +51,3 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f7f05a43a10>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

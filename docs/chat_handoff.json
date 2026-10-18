@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-18T03:37:52+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-10-18T03:50:22+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 5,
     "displayed_findings": 5,
     "high": 0,
     "medium": 0,
     "observe": 5
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道",
@@ -60,136 +60,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた",
-        "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-18T01:57:24+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 14.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
-        "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-18T01:38:27+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 14.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Void を触ってみた。もう全部これでよくね？ | ashunar0",
-        "url": "https://ashunar0.dev/posts/try-void/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-18T02:50:20+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 11.5,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +2"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道",
-        "url": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-09T12:34:59+00:00",
-        "age_days": 38.63,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 11.21,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.8,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 0.80",
-          "aging penalty -6.2 for 38.6d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道",
-        "url": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-18T01:11:39+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 10.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10"
-        ],
-        "summary": "英紙テレグラフは17日までに、ウクライナ軍が使用する米衛星通信網「スターリンク」の軍事用サービスの利用制限について、運用する企業スペースXを率いる実業家イーロン・マスク氏がトランプ大統領に提案したと報じた。トランプ氏も同意したとしている。 マスク氏は自身の関与を否定し、利用制限を決める最終権限はトラ..."
-      }
-    ]
-  }
+  ]
 }
