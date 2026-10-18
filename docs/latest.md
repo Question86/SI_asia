@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-18T05:11:20+00:00_
+_Generiert: 2026-10-18T05:24:30+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道“ aus Hatena Bookmark Hotentry IT (Score 5, observation).
+7 neue relevante Treffer. Stärkstes Signal: „米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道“ aus Hatena Bookmark Hotentry IT (Score 5, observation).
 
 ## Priorität Hoch
 
@@ -34,14 +34,14 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: カツオ武士 @katsuobushi0205 会社の若い子が「ﾙｰﾓｽ…」って呟いたら、スマホのライトがピカァ！ってなったんで俺が🫨⁉️ってなってたら、ニチャアって顔して「魔法…使えるんですよ…」って言われたから俺は「べっ💦別にカッコいいとか思ってねーし💦」って強がったけど１人になった時ﾙｰﾓｽ…って自分のスマホで試した…↓ 2026-1...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Void を触ってみた。もう全部これでよくね？ | ashunar0** — Score 5, observation — [Quelle](https://ashunar0.dev/posts/try-void/)
+- **ナオミ・クラインが暴く「テック億万長者という“中身のない男たち”の正体」 | 彼らの態度が「ころころ変わる」不気味な理由** — Score 5, observation — [Quelle](https://courrier.jp/news/archives/462520/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-17T21:28:03+00:00`, fetched `2026-10-18T02:49:51+00:00`
+  - Zeit: published `2026-10-17T23:50:03+00:00`, fetched `2026-10-18T05:23:59+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに ついに、ついに Void が出ました！！（大歓喜） 発表されてからずっと待っていたので、出たと知ってすぐに触ってみました。 待っていたのは、Void が TS 版の Rails みたいになってくれるんじゃないか、という期待があったからです。自分でもアプリの書き方の規約を作ろうとしていたので、その一部を Void がフ...
+  - Kurz: 2024年の米大統領選では、それまで民主党支持だったイーロン・マスクらテック億万長者たちが、トランプ支持へと雪崩を打った。なぜ彼らの態度は180度変わったのか？ ジャーナリストのナオミ・クラインは、気候危機やAIによる失業を冷笑し、富と技術の力で世界を私物化しようとする超富裕層の冷酷な本音を、その新著で暴...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

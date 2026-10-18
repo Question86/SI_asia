@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T05:11:20+00:00",
-  "run_id": "2026-10-18T05:11:20+00:00",
+  "generated_at": "2026-10-18T05:24:30+00:00",
+  "run_id": "2026-10-18T05:24:30+00:00",
   "date": "2026-10-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 1,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 0,
-    "observe": 6,
+    "observe": 7,
     "source_errors": 0
   },
   "sections": {
@@ -71,6 +71,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e42cce978aef9d61e8d0"
+      },
+      {
+        "title": "ナオミ・クラインが暴く「テック億万長者という“中身のない男たち”の正体」 | 彼らの態度が「ころころ変わる」不気味な理由",
+        "url": "https://courrier.jp/news/archives/462520/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-17T23:50:03+00:00",
+        "fetched_at": "2026-10-18T05:23:59+00:00",
+        "summary": "2024年の米大統領選では、それまで民主党支持だったイーロン・マスクらテック億万長者たちが、トランプ支持へと雪崩を打った。なぜ彼らの態度は180度変わったのか？ ジャーナリストのナオミ・クラインは、気候危機やAIによる失業を冷笑し、富と技術の力で世界を私物化しようとする超富裕層の冷酷な本音を、その新著で暴...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d9aef2b3495fec33a1c2"
       },
       {
         "title": "Void を触ってみた。もう全部これでよくね？ | ashunar0",
@@ -202,6 +223,27 @@
       "id": "e42cce978aef9d61e8d0"
     },
     {
+      "title": "ナオミ・クラインが暴く「テック億万長者という“中身のない男たち”の正体」 | 彼らの態度が「ころころ変わる」不気味な理由",
+      "url": "https://courrier.jp/news/archives/462520/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-17T23:50:03+00:00",
+      "fetched_at": "2026-10-18T05:23:59+00:00",
+      "summary": "2024年の米大統領選では、それまで民主党支持だったイーロン・マスクらテック億万長者たちが、トランプ支持へと雪崩を打った。なぜ彼らの態度は180度変わったのか？ ジャーナリストのナオミ・クラインは、気候危機やAIによる失業を冷笑し、富と技術の力で世界を私物化しようとする超富裕層の冷酷な本音を、その新著で暴...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d9aef2b3495fec33a1c2"
+    },
+    {
       "title": "Void を触ってみた。もう全部これでよくね？ | ashunar0",
       "url": "https://ashunar0.dev/posts/try-void/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -286,7 +328,29 @@
       "id": "07566234db3ba4be3ea1"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ナオミ・クラインが暴く「テック億万長者という“中身のない男たち”の正体」 | 彼らの態度が「ころころ変わる」不気味な理由",
+      "url": "https://courrier.jp/news/archives/462520/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-17T23:50:03+00:00",
+      "fetched_at": "2026-10-18T05:23:59+00:00",
+      "summary": "2024年の米大統領選では、それまで民主党支持だったイーロン・マスクらテック億万長者たちが、トランプ支持へと雪崩を打った。なぜ彼らの態度は180度変わったのか？ ジャーナリストのナオミ・クラインは、気候危機やAIによる失業を冷笑し、富と技術の力で世界を私物化しようとする超富裕層の冷酷な本音を、その新著で暴...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d9aef2b3495fec33a1c2"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

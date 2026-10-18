@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-18T05:11:20+00:00_
+_Generated: 2026-10-18T05:24:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -22,18 +22,18 @@ _Generated: 2026-10-18T05:11:20+00:00_
 - url: https://togetter.com/li/2759573
 - summary: カツオ武士 @katsuobushi0205 会社の若い子が「ﾙｰﾓｽ…」って呟いたら、スマホのライトがピカァ！ってなったんで俺が🫨⁉️ってなってたら、ニチャアって顔して「魔法…使えるんですよ…」って言われたから俺は「べっ💦別にカッコいいとか思ってねーし💦」って強がったけど１人になった時ﾙｰﾓｽ…って自分のスマホで試した…↓ 2026-1...
 
-### 3. Void を触ってみた。もう全部これでよくね？ | ashunar0
+### 3. ナオミ・クラインが暴く「テック億万長者という“中身のない男たち”の正体」 | 彼らの態度が「ころころ変わる」不気味な理由
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-10-17T23:50:03+00:00`
+- url: https://courrier.jp/news/archives/462520/
+- summary: 2024年の米大統領選では、それまで民主党支持だったイーロン・マスクらテック億万長者たちが、トランプ支持へと雪崩を打った。なぜ彼らの態度は180度変わったのか？ ジャーナリストのナオミ・クラインは、気候危機やAIによる失業を冷笑し、富と技術の力で世界を私物化しようとする超富裕層の冷酷な本音を、その新著で暴...
+
+### 4. Void を触ってみた。もう全部これでよくね？ | ashunar0
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-17T21:28:03+00:00`
 - url: https://ashunar0.dev/posts/try-void/
 - summary: はじめに ついに、ついに Void が出ました！！（大歓喜） 発表されてからずっと待っていたので、出たと知ってすぐに触ってみました。 待っていたのは、Void が TS 版の Rails みたいになってくれるんじゃないか、という期待があったからです。自分でもアプリの書き方の規約を作ろうとしていたので、その一部を Void がフ...
-
-### 4. 「AIに頼らずいろんな絵柄やタッチを再現して描いた絵を見てくれ」『しかるねこ』作者が9年前に描いた16枚のそれぞれ違った作風のサーバルちゃんの模写アレンジ絵がスゴい
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-17T19:59:13+00:00`
-- url: https://togetter.com/li/2759529
-- summary: もじゃクッキー @mojacookie 【11/14(土)15(日)デザインフェスタVol.64/G-74】 イラストレーター/Web漫画家 「しかるねこ」(@shikaruneko)「ヒヨハリ！」(@hiyohari)「ちょっぴりおしゃべりで、ちょっぴり個性的などうぶつさんたち」 アニポケ公式Xでイラスト連載中 連絡先▷ctc@mojacookie.com mojacookie.com
 
 END OF DOCUMENT
