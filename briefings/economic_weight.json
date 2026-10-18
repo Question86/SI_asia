@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T02:50:37+00:00",
+  "generated_at": "2026-10-18T03:22:18+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -23122,7 +23122,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-18T01:57:24+00:00",
-      "last_seen_at": "2026-10-18T02:50:20+00:00",
+      "last_seen_at": "2026-10-18T03:21:59+00:00",
       "status": "active"
     },
     {
@@ -23156,7 +23156,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-18T00:42:20+00:00",
-      "last_seen_at": "2026-10-18T02:50:20+00:00",
+      "last_seen_at": "2026-10-18T03:21:59+00:00",
       "status": "active"
     },
     {
@@ -23583,6 +23583,23 @@
       "first_seen_at": "2026-10-03T04:30:15+00:00",
       "last_seen_at": "2026-10-03T22:13:31+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_20dece5d093cc228b065",
+      "title": "Void を触ってみた。もう全部これでよくね？ | ashunar0",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-18T02:50:20+00:00",
+      "last_seen_at": "2026-10-18T03:21:59+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_213b41d4490aede3ec40",
@@ -24601,7 +24618,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-18T01:38:27+00:00",
-      "last_seen_at": "2026-10-18T02:50:20+00:00",
+      "last_seen_at": "2026-10-18T03:21:59+00:00",
       "status": "active"
     },
     {
@@ -27068,23 +27085,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_20dece5d093cc228b065",
-      "title": "Void を触ってみた。もう全部これでよくね？ | ashunar0",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-18T02:50:20+00:00",
-      "last_seen_at": "2026-10-18T02:50:20+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
