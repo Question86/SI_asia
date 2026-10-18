@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-18T23:17:09+00:00",
+  "generated_at": "2026-10-18T23:27:52+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 1,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
     "medium": 1,
-    "observe": 23
+    "observe": 24
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -23,6 +23,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
       "summary": "Time 2026-10-18 08:00:06 UTC 2026-10-18 08:00:06 UTC at epicenter Location 8.145°S 120.273°E Depth 10.00 km (6.21 mi)",
       "section": "medium"
+    },
+    {
+      "title": "M 4.5 - Fiji region",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-18T23:19:33.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38i",
+      "summary": "Time 2026-10-18 22:34:22 UTC 2026-10-18 22:34:22 UTC at epicenter Location 20.927°S 178.659°W Depth 551.95 km (342.96 mi)",
+      "section": "observe"
     },
     {
       "title": "M 5.1 - 129 km SSE of Kokopo, Papua New Guinea",
@@ -53,16 +63,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
       "summary": "Time 2026-10-18 19:32:28 UTC 2026-10-18 19:32:28 UTC at epicenter Location 21.541°S 174.296°W Depth 10.00 km (6.21 mi)",
       "section": "observe"
-    },
-    {
-      "title": "M 4.7 - 20 km SW of Sandy Point Town, Saint Kitts and Nevis",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-18T15:57:25.295+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d",
-      "summary": "DYFI? - II Time 2026-10-18 15:35:47 UTC 2026-10-18 15:35:47 UTC at epicenter Location 17.253°N 63.007°W Depth 149.95 km (93.18 mi)",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -70,138 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “M 5.2 - 55 km NNW of Ruteng, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "M 5.2 - 55 km NNW of Ruteng, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-18T08:14:46.040+00:00",
-        "age_days": 0.63,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-10-18 08:00:06 UTC 2026-10-18 08:00:06 UTC at epicenter Location 8.145°S 120.273°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "変体仮名一覧表",
-        "url": "https://cid.ninjal.ac.jp/kana/list/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-18T13:37:23+00:00",
-        "age_days": 0.41,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 18.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 5.1 - 129 km SSE of Kokopo, Papua New Guinea",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38g",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-18T22:48:48.040+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-10-18 22:31:43 UTC 2026-10-18 22:31:43 UTC at epicenter Location 5.437°S 152.675°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 4.7 - 150 km SSW of Kokopo, Papua New Guinea",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-18T22:22:50.040+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-10-18 22:06:14 UTC 2026-10-18 22:06:14 UTC at epicenter Location 5.646°S 151.868°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 5.2 - 71 km ESE of ‘Ohonua, Tonga",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-18T20:13:00.040+00:00",
-        "age_days": 0.13,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-10-18 19:32:28 UTC 2026-10-18 19:32:28 UTC at epicenter Location 21.541°S 174.296°W Depth 10.00 km (6.21 mi)"
-      }
-    ]
-  }
+  ]
 }
