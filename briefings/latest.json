@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T07:02:16+00:00",
-  "run_id": "2026-10-18T07:02:16+00:00",
+  "generated_at": "2026-10-18T07:22:43+00:00",
+  "run_id": "2026-10-18T07:22:43+00:00",
   "date": "2026-10-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 8
+      "configured_public_sources_only": 9
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,18 +18,40 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 1,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
     "medium": 0,
-    "observe": 8,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [],
     "observe": [
+      {
+        "title": "知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳",
+        "url": "https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-17T17:43:11+00:00",
+        "fetched_at": "2026-10-18T07:22:14+00:00",
+        "summary": "Open AI が証明したと主張している、Navier-Stokes 方程式の爆発解の構成の書籍を発売しました。 smooth-pudding.hatenablog.com それに関連して、この書籍の活用方法や、AI を使って学びを広げることについて以下の記事で話しました。 smooth-pudding.hatenablog.com 今回はより具体的に、自分がまだ知らない分野につい...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "634af62c36bc1182a290"
+      },
       {
         "title": "スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果",
         "url": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
@@ -202,6 +224,28 @@
   },
   "findings": [
     {
+      "title": "知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳",
+      "url": "https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-17T17:43:11+00:00",
+      "fetched_at": "2026-10-18T07:22:14+00:00",
+      "summary": "Open AI が証明したと主張している、Navier-Stokes 方程式の爆発解の構成の書籍を発売しました。 smooth-pudding.hatenablog.com それに関連して、この書籍の活用方法や、AI を使って学びを広げることについて以下の記事で話しました。 smooth-pudding.hatenablog.com 今回はより具体的に、自分がまだ知らない分野につい...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "634af62c36bc1182a290"
+    },
+    {
       "title": "スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果",
       "url": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -370,7 +414,30 @@
       "id": "07566234db3ba4be3ea1"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳",
+      "url": "https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-17T17:43:11+00:00",
+      "fetched_at": "2026-10-18T07:22:14+00:00",
+      "summary": "Open AI が証明したと主張している、Navier-Stokes 方程式の爆発解の構成の書籍を発売しました。 smooth-pudding.hatenablog.com それに関連して、この書籍の活用方法や、AI を使って学びを広げることについて以下の記事で話しました。 smooth-pudding.hatenablog.com 今回はより具体的に、自分がまだ知らない分野につい...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "634af62c36bc1182a290"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
