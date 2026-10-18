@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-18T03:17:05Z_
+_Generated: 2026-10-18T03:43:26Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “ベクトルDBを使わない「階層�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T01:57:24+00:00` / age_days `0.06`
+- Published: `2026-10-18T01:57:24+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “ベクトルDBを使わない「階層�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-18T01:38:27+00:00` / age_days `0.07`
+- Published: `2026-10-18T01:38:27+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,17 +32,37 @@ Stärkste Dynamik nach Gate-Recheck: “ベクトルDBを使わない「階層�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.5`
-- Published: `2026-10-18T02:50:20+00:00` / age_days `0.02`
+- Published: `2026-10-18T02:50:20+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
+- Warum: momentum delta +2
 - Quelle: https://ashunar0.dev/posts/try-void/
+
+### 米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `11.21`
+- Published: `2026-09-09T12:34:59+00:00` / age_days `38.63`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, baseline z_hint 0.80, aging penalty -6.2 for 38.6d old signal
+- Quelle: https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/
+
+### 米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `10.0`
+- Published: `2026-10-18T01:11:39+00:00` / age_days `0.11`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: high terms: 10
+- Quelle: https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/
 
 ### 「AIに頼らずいろんな絵柄やタッチを再現して描いた絵を見てくれ」『しかるねこ』作者が9年前に描いた16枚のそれぞれ違った作風のサーバルちゃんの模写アレンジ絵がスゴい
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-10-18T00:42:20+00:00` / age_days `0.11`
+- Published: `2026-10-18T00:42:20+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -52,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “ベクトルDBを使わない「階層�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-10-17T21:28:03+00:00` / age_days `0.24`
+- Published: `2026-10-17T21:28:03+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “ベクトルDBを使わない「階層�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-10-17T19:59:13+00:00` / age_days `0.3`
+- Published: `2026-10-17T19:59:13+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “ベクトルDBを使わない「階層�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-10-17T13:37:34+00:00` / age_days `0.57`
+- Published: `2026-10-17T13:37:34+00:00` / age_days `0.59`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “ベクトルDBを使わない「階層�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-10-17T06:57:30+00:00` / age_days `0.85`
+- Published: `2026-10-17T06:57:30+00:00` / age_days `0.87`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
