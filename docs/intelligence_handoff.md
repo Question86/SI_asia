@@ -1,12 +1,22 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-18T02:46:55Z_
+_Generated: 2026-10-18T02:56:55Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.0.
+Stärkste Dynamik nach Gate-Recheck: “ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.0.
 
 ## Top Dynamics
+
+### ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.0`
+- Published: `2026-10-18T01:57:24+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://zenn.dev/aiforall/articles/8e1803396534de
 
 ### ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識
 
@@ -18,15 +28,15 @@ Stärkste Dynamik nach Gate-Recheck: “ドコモの「緊急地震速報」不�
 - Warum: momentum delta +3
 - Quelle: https://k-tai.watch.impress.co.jp/docs/news/2149025.html
 
-### ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた
+### Void を触ってみた。もう全部これでよくね？ | ashunar0
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.5`
-- Published: `2026-10-18T01:57:24+00:00` / age_days `0.03`
+- Published: `2026-10-18T02:50:20+00:00` / age_days `0.0`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2
-- Quelle: https://zenn.dev/aiforall/articles/8e1803396534de
+- Warum: momentum delta +1
+- Quelle: https://ashunar0.dev/posts/try-void/
 
 ### 「AIに頼らずいろんな絵柄やタッチを再現して描いた絵を見てくれ」『しかるねこ』作者が9年前に描いた16枚のそれぞれ違った作風のサーバルちゃんの模写アレンジ絵がスゴい
 
@@ -38,11 +48,21 @@ Stärkste Dynamik nach Gate-Recheck: “ドコモの「緊急地震速報」不�
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://togetter.com/li/2759529
 
+### Void を触ってみた。もう全部これでよくね？ | ashunar0
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-10-17T21:28:03+00:00` / age_days `0.23`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://ashunar0.dev/posts/try-void/
+
 ### 「AIに頼らずいろんな絵柄やタッチを再現して描いた絵を見てくれ」『しかるねこ』作者が9年前に描いた16枚のそれぞれ違った作風のサーバルちゃんの模写アレンジ絵がスゴい
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-10-17T19:59:13+00:00` / age_days `0.28`
+- Published: `2026-10-17T19:59:13+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -52,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “ドコモの「緊急地震速報」不�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-10-17T13:37:34+00:00` / age_days `0.55`
+- Published: `2026-10-17T13:37:34+00:00` / age_days `0.56`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
