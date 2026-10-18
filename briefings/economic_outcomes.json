@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T22:44:35+00:00",
+  "generated_at": "2026-10-18T22:59:42+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -451,7 +451,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_058a0e17878f3797ed5c",
@@ -9923,6 +9923,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8991541780e2d081f063",
+      "title": "M 5.1 - 129 km SSE of Kokopo, Papua New Guinea",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_89a7e5f27d931cc40227",
