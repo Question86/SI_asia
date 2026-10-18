@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-18T11:42:18+00:00",
+  "generated_at": "2026-10-18T11:49:41+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "new_relevant_findings": 1,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
     "medium": 1,
-    "observe": 12
+    "observe": 13
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "observe"
     },
     {
+      "title": "iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-18T09:18:39+00:00",
+      "relevance_score": 5,
+      "url": "https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/",
+      "summary": "iPhoneをiOS 27にアップデートした人のなかには、もうSiri AIやAppleのAIによる写真編集機能のいくつかを試してみた人もいるのではないでしょうか。 その一方で、別のことに気づいた人もいるかもしれません。 iPhoneのバッテリーのもちが悪くなっている、ということです。このアップデートによってバッテリーの駆動時間...",
+      "section": "observe"
+    },
+    {
       "title": "スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -52,16 +62,6 @@
       "relevance_score": 5,
       "url": "https://fd-x.co.jp/insights/41-what-is-ontology",
       "summary": "最新世代の​モデルでも、​意味の​層を​通した​ほうが​精度は​明確に​高い。​加えて、​文脈付きメタデータを​与えた​場合は​スキーマのみの​プロンプトに​対しSQL生成精度が​3倍、​522問規模の​別ベンチマークでも​38%の​相対改善が​報告されている。 モデルの進化は意味の層を不要にしていない。​むしろエージェントが​...",
-      "section": "observe"
-    },
-    {
-      "title": "技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-18T01:26:27+00:00",
-      "relevance_score": 5,
-      "url": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
-      "summary": "はじめに オライリーの本は、技術書として信頼できるので、これまでも必要なものを買って読んでいました。 自分は紙の本のほうが読みやすいタイプです。ただ、オライリーの本は分厚いものが多く、持ち歩くと重いのが難点でした。そんなとき、オライリーの本がオンラインのサブスクで読み放題になると知って、魅力を感じ...",
       "section": "observe"
     }
   ],
