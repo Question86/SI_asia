@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T16:35:40+00:00",
+  "generated_at": "2026-10-19T16:45:47+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -4598,7 +4598,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_40ad2aec1c91d4980628",
@@ -7980,13 +7980,13 @@
     {
       "event_id": "evt_6d10bec8e923d7975e3e",
       "title": "M 4.9 - 77 km WSW of Murghob, Tajikistan",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6d120b66a05465a0b9a9",
