@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-19T09:54:56+00:00_
+_Generated: 2026-10-19T10:02:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `35`
+- findings: `36`
 
 ## Top Signals
 
-### 1. Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust
+### 1. Will developing nations be able to handle millions of AI agents?
+- source: Rest of World Global Tech Feed
+- score: `22`
+- published: `2026-10-19T10:00:00+00:00`
+- url: https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+- summary: It may be some time before AI agents can fully navigate the complexities and cultural nuances of developing nations.
+
+### 2. Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-10-19T01:00:24+00:00`
 - url: https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/
 - summary: At M360 ASEAN in Kuala Lumpur last week, the GSMA released its ASEAN Consumer Scam Report 2026. Nearly half of reported scam cases across six markets remain unresolved. Nearly nine in ten consumers said they had recognised AI being used in scams, from deepfak…
 
-### 2. The AI exit window is wide open. Southeast Asia isn’t standing anywhere near it
+### 3. The AI exit window is wide open. Southeast Asia isn’t standing anywhere near it
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-10-19T09:37:47+00:00`
 - url: https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/
 - summary: Last week, Amazon was reported to be in talks to pay around US$7 billion for Decart, a three-year-old startup valued at just under US$4 billion in May. Cohere signed a letter of intent to buy AI security startup AISLE. Prime Intellect snapped up Moondream. Bu…
 
-### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (rpcbind): Schwachstelle ermöglicht Denial of Service
+### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (rpcbind): Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-19T09:15:52+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3979
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (rpcbind) ausnutzen, um einen Denial of Service Angriff durchzuführen.
-
-### 4. [UPDATE] [mittel] Fortinet FortiOS, FortiProxy und FortiSwitch: Schwachstelle ermöglicht Manipulation von Dateien
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-19T07:45:52+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096
-- summary: Ein lokaler Angreifer kann eine Schwachstelle in Fortinet FortiOS, Fortinet FortiProxy und Fortinet FortiSwitch ausnutzen, um Dateien zu manipulieren.
 
 ### 5. M 5.9 - 185 km NW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
