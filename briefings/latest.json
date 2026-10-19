@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T17:59:03+00:00",
-  "run_id": "2026-10-19T17:59:03+00:00",
+  "generated_at": "2026-10-19T18:27:17+00:00",
+  "run_id": "2026-10-19T18:27:17+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 80
+      "configured_public_sources_only": 81
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 80,
-    "displayed_findings": 80,
+    "new_relevant_findings": 1,
+    "today_file_total": 81,
+    "displayed_findings": 81,
     "high": 0,
     "medium": 24,
-    "observe": 56,
+    "observe": 57,
     "source_errors": 0
   },
   "sections": {
@@ -1086,6 +1086,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4029dcd2b673f2c6ecce"
+      },
+      {
+        "title": "M 5.1 - South Sandwich Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ft",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-19T18:01:47.040+00:00",
+        "fetched_at": "2026-10-19T18:26:47+00:00",
+        "summary": "Time 2026-10-19 17:45:50 UTC 2026-10-19 17:45:50 UTC at epicenter Location 56.354°S 27.085°W Depth 101.46 km (63.05 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "f9a17dc1b6283496d58b"
       },
       {
         "title": "M 4.6 - south of the Fiji Islands",
@@ -3152,6 +3188,42 @@
       "id": "4029dcd2b673f2c6ecce"
     },
     {
+      "title": "M 5.1 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ft",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-19T18:01:47.040+00:00",
+      "fetched_at": "2026-10-19T18:26:47+00:00",
+      "summary": "Time 2026-10-19 17:45:50 UTC 2026-10-19 17:45:50 UTC at epicenter Location 56.354°S 27.085°W Depth 101.46 km (63.05 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f9a17dc1b6283496d58b"
+    },
+    {
       "title": "M 4.6 - south of the Fiji Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3db",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4157,7 +4229,44 @@
       "id": "142272aaffc0585475d8"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.1 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ft",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-19T18:01:47.040+00:00",
+      "fetched_at": "2026-10-19T18:26:47+00:00",
+      "summary": "Time 2026-10-19 17:45:50 UTC 2026-10-19 17:45:50 UTC at epicenter Location 56.354°S 27.085°W Depth 101.46 km (63.05 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f9a17dc1b6283496d58b"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
