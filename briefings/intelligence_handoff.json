@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-19T03:47:53Z",
+  "generated_at": "2026-10-19T04:17:23Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-19T10:00:00+09:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T03:00:46+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -64,7 +64,7 @@
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-19T01:21:18+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -88,7 +88,7 @@
       "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T01:21:18+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -114,7 +114,7 @@
       "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T01:00:24+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -141,7 +141,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T02:36:14+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -165,7 +165,7 @@
       "url": "https://e27.co/dealing-with-shadow-ai-what-companies-should-do-instead-of-banning-ai-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T02:36:14+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -190,35 +190,8 @@
       "title": "AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから",
       "url": "https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 28.11,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 9.01,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "aging penalty -2.5 for 28.1d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから",
-      "url": "https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror",
-      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T02:34:05+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -239,11 +212,37 @@
       "summary": "フィジカルAIの脅威は「AIの反乱」ではない YouTubeで配信されていたTBSの対談番組「AI QUEST」で、参議院議員の安野貴博とAI研究者の今井翔太による議論を見ていた。 「Claude Mythos」級の高い脆弱性探索能力やサイバー攻撃能力を持つオープンウェイトモデルが急速に拡散し、従来のサイバー防衛が通用しなくなるという..."
     },
     {
+      "title": "Faster, smarter, but more fragile? Rethinking communications resilience in Southeast Asia",
+      "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-19T03:01:44+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Dealing with shadow AI: What companies should do instead of banning AI",
       "url": "https://e27.co/dealing-with-shadow-ai-what-companies-should-do-instead-of-banning-ai-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T02:00:15+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -265,41 +264,43 @@
       "summary": "In most companies across Singapore and Thailand, the AI policy already exists: drafted, approved and circulated. And yet, somewhere in the same organisation, an employee is pasting a supplier contract into a free chatbot to summarise it before a meeting. This is known as shadow AI: employees using AI at work without c…"
     },
     {
-      "title": "Faster, smarter, but more fragile? Rethinking communications resilience in Southeast Asia",
-      "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-19T03:01:44+00:00",
-      "age_days": 0.03,
+      "title": "AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから",
+      "url": "https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-21T01:03:04+00:00",
+      "age_days": 28.13,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 2.0,
+      "dynamics_score": 6.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
+        "aging penalty -2.5 for 28.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
     {
-      "title": "SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-18T00:54:51+00:00",
-      "age_days": 1.12,
+      "title": "When AI takes your side in a workplace conflict",
+      "url": "https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-19T03:30:07+00:00",
+      "age_days": 0.03,
       "topics": [
-        "ai"
+        "ai",
+        "macro"
       ],
-      "dynamics_score": 2.0,
+      "dynamics_score": 5.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -314,7 +315,7 @@
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明：「エンジニアへの経歴詐称の強要」問題を機に考える（1/2 ページ） SES企業がエンジニアに経歴詐称を強いる問題が浮上する中、そもそも各社がエンジニアの技術力をどう評価し、育成しているのかは気になるところだ。だが、こうした取り組みを..."
+      "summary": "Workplace conflict rarely arrives as a clean set of facts. By the time we decide that a manager is undermining us, a colleague is being deliberately difficult, or someone on the team cannot be trusted, we have usually spent some time interpreting what happened. We have noticed particular behaviours, connected them wit…"
     }
   ],
   "read_order": [
