@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-19T11:30:13+00:00_
+_Generated: 2026-10-19T11:54:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `45`
+- findings: `51`
 
 ## Top Signals
 
@@ -22,18 +22,18 @@ _Generated: 2026-10-19T11:30:13+00:00_
 - url: https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/
 - summary: At M360 ASEAN in Kuala Lumpur last week, the GSMA released its ASEAN Consumer Scam Report 2026. Nearly half of reported scam cases across six markets remain unresolved. Nearly nine in ten consumers said they had recognised AI being used in scams, from deepfak…
 
-### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-19T11:05:08+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.
+### 3. Building trusted foundations for digital finance
+- source: BIS Central Bankers Speeches
+- score: `19`
+- published: `2026-10-19T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance
+- summary: Keynote address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the INSEAD Digital Finance and Agentic AI Summit, Singapore, 9 October 2026.
 
 ### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-19T11:05:08+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3804
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.
 
 ### 5. M 5.9 - 185 km NW of Port-Olry, Vanuatu
