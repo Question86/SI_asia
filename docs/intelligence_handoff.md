@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-19T05:55:07Z_
+_Generated: 2026-10-19T06:31:37Z_
 
 ## Lageurteil
 
@@ -12,27 +12,47 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-19T10:00:00+09:00` / age_days `0.2`
+- Published: `2026-10-19T10:00:00+09:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
 - Quelle: https://jvn.jp/vu/JVNVU93520490/
 
-### Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target?
+### Points beat percentages: Why three in four Singaporeans think their spare cash is underperforming
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-19T05:15:33+00:00` / age_days `0.03`
+- Published: `2026-10-19T06:00:13+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, 10, security high-signal: rce, 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/
+
+### Points beat percentages: Why three in four Singaporeans think their spare cash is underperforming
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-10-19T06:25:15+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: momentum delta +1, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/
+
+### Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target?
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `24.0`
+- Published: `2026-10-19T05:15:33+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2, krass gate: single-source non-official/non-identity signal capped
+- Warum: momentum delta +3
 - Quelle: https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/
 
 ### Faster, smarter, but more fragile? Rethinking communications resilience in Southeast Asia
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-19T03:00:46+00:00` / age_days `0.12`
+- Published: `2026-10-19T03:00:46+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
@@ -42,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-19T01:21:18+00:00` / age_days `0.19`
+- Published: `2026-10-19T01:21:18+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-10-19T01:21:18+00:00` / age_days `0.19`
+- Published: `2026-10-19T01:21:18+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-10-19T04:59:33+00:00` / age_days `0.04`
+- Published: `2026-10-19T04:59:33+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-19T01:00:24+00:00` / age_days `0.2`
+- Published: `2026-10-19T01:00:24+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-10-19T04:26:52+00:00` / age_days `0.06`
+- Published: `2026-10-19T04:26:52+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,40 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-19T02:36:14+00:00` / age_days `0.14`
+- Published: `2026-10-19T02:36:14+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html
 
-### Gen Z is bringing its own AI to work. Singapore’s SMEs need rules, not bans
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.0`
-- Published: `2026-10-19T04:26:52+00:00` / age_days `0.06`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/gen-z-is-bringing-its-own-ai-to-work-singapores-smes-need-rules-not-bans-20261019/
-
-### Dealing with shadow AI: What companies should do instead of banning AI
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.0`
-- Published: `2026-10-19T02:36:14+00:00` / age_days `0.14`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/dealing-with-shadow-ai-what-companies-should-do-instead-of-banning-ai-20261016/
-
 ### Singapore employers say they offer burnout support. Half their staff say they’ve never seen it
 
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.0`
-- Published: `2026-10-19T05:32:35+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Band: `watch` (raw `watch`)
+- Dynamics score: `13.5`
+- Published: `2026-10-19T05:32:35+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
+- Warum: momentum delta +2
 - Quelle: https://e27.co/singapore-employers-say-they-offer-burnout-support-half-their-staff-say-theyve-never-seen-it-20261019/
 
 END OF DOCUMENT
