@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-19T22:00:48+00:00_
+_Generated: 2026-10-19T22:20:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `88`
+- findings: `91`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-19T22:00:48+00:00_
 - url: https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai
 - summary: Introductory remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the Citi Macro Forum, Bangkok, 14 October 2026.
 
-### 8. Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30
-- source: ECB Open Market Operations and Communication
+### 8. 最近Gemini使い始めたけど、明らかにchatGPTの方が優秀じゃないか？「Geminiはやる気あるバカってイメージ」「嘘しかつかないので使うのやめました」
+- source: Hatena Bookmark Hotentry IT
 - score: `12`
-- published: `2026-10-19T14:40:22+00:00`
-- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260092.en.html
-- summary: Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30
+- published: `2026-10-19T15:50:13+00:00`
+- url: https://togetter.com/li/2760356
+- summary: 最近Gemini使い始めたけど、明らかにchatGPTの方が優秀じゃないか？「Geminiはやる気あるバカってイメージ」「嘘しかつかないので使うのやめました」
 
 END OF DOCUMENT

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T22:00:48+00:00_
+_Generiert: 2026-10-19T22:20:44+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
+91 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+6.2); macro (+2.0); recent (+1.0)
   - Kurz: Introductory remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the Citi Macro Forum, Bangkok, 14 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **最近Gemini使い始めたけど、明らかにchatGPTの方が優秀じゃないか？「Geminiはやる気あるバカってイメージ」「嘘しかつかないので使うのやめました」** — Score 12, observation — [Quelle](https://togetter.com/li/2760356)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-19T15:50:13+00:00`, fetched `2026-10-19T22:20:13+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 最近Gemini使い始めたけど、明らかにchatGPTの方が優秀じゃないか？「Geminiはやる気あるバカってイメージ」「嘘しかつかないので使うのやめました」
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260092.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-10-19T14:40:22+00:00`, fetched `2026-10-19T13:51:33+00:00`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Claude Codeに、全部任せて開発してる現場。 めっちゃ多いんですけど。 1〜2ヶ月後、ガチで地獄になるの、知ってます? 今、現場でリアルに起きてる現象なんですよ。 「検索機能、作って」 Claude Codeに、ポンって投げる。 バーって、コード出てくる。 動く。 「お、いけたな」って、マージ。 これ、現代エンジニアの開...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **相次ぐ不正アクセスの攻撃元の多くがAIであることを確認 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ** — Score 11, observation — [Quelle](https://gmo-cybersecurity.com/blog/20261019/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-19T07:45:02+00:00`, fetched `2026-10-19T12:56:44+00:00`
-  - Treffer: Hatena, hotentry, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: GMOサイバー犯罪対策センターの福森です。 前回の記事の続報です。日本企業を狙った侵害事案において攻撃元インフラを調査したところ、AIによる自律型ペネトレーションテストシステムであるARTEXが使われていることを確認いたしました。前回の記事ではフォレンジックログからAIによる攻撃である可能性が高いと推定してお...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Cyberangriffe auf Sicherheitslücken in Fortinet-Produkten und BeyondTrust** — Score 10, observation — [Quelle](https://www.heise.de/news/Cyberangriffe-auf-Sicherheitsluecken-in-Fortinet-Produkten-und-BeyondTrust-11492254.html)
   - Quelle: heise Security Alerts / `rss`
