@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T09:06:43+00:00",
+  "generated_at": "2026-10-19T09:37:02+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -1057,6 +1057,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_0e15434c20e583e466d2",
+      "title": "M 4.5 - 2 km W of Lunca Jariștei, Romania",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_0e4ce772b9f254c0c403",
@@ -4653,7 +4664,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_41aba4ef58fdc89c21ff",
@@ -8459,7 +8470,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_72dffffa214ab02f3de5",
@@ -12100,7 +12111,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_a8b9aa641cc82423d63a",
