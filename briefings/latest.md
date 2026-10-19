@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T13:34:29+00:00_
+_Generiert: 2026-10-19T13:52:02+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
+67 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -190,6 +190,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+6.2); macro (+2.0); recent (+1.0)
   - Kurz: Introductory remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the Citi Macro Forum, Bangkok, 14 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260092.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-10-19T14:40:22+00:00`, fetched `2026-10-19T13:51:33+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CodeQL changes for macOS 27, Xcode 27, and Swift 6.4** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-10-19T10:29:09+00:00`, fetched `2026-10-19T10:49:13+00:00`
@@ -297,15 +306,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Frank Elderson: From climate and nature risks to economic resilience and competitiveness
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Supervisory modernisation after Silicon Valley Bank** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261019-supervisory-modernisation-after-silicon-valley-bank)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-19T00:00:00+00:00`, fetched `2026-10-19T12:00:32+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Silicon Valley, Federal Reserve (+2.0)
-  - Kurz: Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, 14 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

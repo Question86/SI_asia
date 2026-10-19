@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-19T13:34:29+00:00_
+_Generated: 2026-10-19T13:52:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `65`
+- findings: `67`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-19T13:34:29+00:00_
 - url: https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai
 - summary: Introductory remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the Citi Macro Forum, Bangkok, 14 October 2026.
 
-### 7. CodeQL changes for macOS 27, Xcode 27, and Swift 6.4
+### 7. Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-10-19T14:40:22+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260092.en.html
+- summary: Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30
+
+### 8. CodeQL changes for macOS 27, Xcode 27, and Swift 6.4
 - source: GitHub Changelog Atom
 - score: `12`
 - published: `2026-10-19T10:29:09+00:00`
 - url: https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4
 - summary: Starting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As… The post CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 appeared first on The GitHu…
-
-### 8. Points beat percentages: Why three in four Singaporeans think their spare cash is underperforming
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-19T06:00:13+00:00`
-- url: https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/
-- summary: A Singaporean who will argue over a 50-cent difference in cashback at a hawker centre may have no idea what their savings account pays. New research suggests that person is the norm. Some 89 per cent of Singapore residents hold spare cash, according to a surv…
 
 END OF DOCUMENT
