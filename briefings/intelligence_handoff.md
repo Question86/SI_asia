@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-19T01:53:16Z_
+_Generated: 2026-10-19T02:22:43Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-19T10:00:00+09:00` / age_days `0.04`
+- Published: `2026-10-19T10:00:00+09:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -21,28 +21,28 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 ### ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `23.5`
-- Published: `2026-10-19T01:21:18+00:00` / age_days `0.02`
+- Dynamics score: `26.0`
+- Published: `2026-10-19T01:21:18+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
+- Warum: momentum delta +2
 - Quelle: https://jvn.jp/vu/JVNVU93520490/
 
 ### Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `21.5`
-- Published: `2026-10-19T01:21:18+00:00` / age_days `0.02`
+- Dynamics score: `24.0`
+- Published: `2026-10-19T01:21:18+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +2, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/
 
 ### Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-19T01:00:24+00:00` / age_days `0.04`
+- Published: `2026-10-19T01:00:24+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -51,28 +51,28 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 ### 施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ - Findy Tech Blog
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `4.72`
-- Published: `2026-09-14T01:36:38+00:00` / age_days `35.01`
+- Dynamics score: `1.0`
+- Published: `2026-10-16T03:30:41+00:00` / age_days `2.95`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 1.93, single-source AI hype brake -8.0, aging penalty -4.9 for 35.0d old signal, single-source AI cap enforced after phrase recheck
+- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://tech.findy.co.jp/entry/2026/10/16/120000
 
 ### 施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ - Findy Tech Blog
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `1.0`
-- Published: `2026-10-16T03:30:41+00:00` / age_days `2.93`
+- Dynamics score: `0.09`
+- Published: `2026-09-14T01:36:38+00:00` / age_days `35.03`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, single-source AI hype brake -8.0, aging penalty -4.9 for 35.0d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://tech.findy.co.jp/entry/2026/10/16/120000
 
 ### テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた - Qiita
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `122.0`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `122.02`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, aging penalty -8.0 for 122.0d old signal, single-source AI cap enforced after phrase recheck
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-10-18T10:34:03+00:00` / age_days `0.64`
+- Published: `2026-10-18T10:34:03+00:00` / age_days `0.66`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
