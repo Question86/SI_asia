@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T03:50:34+00:00",
-  "run_id": "2026-10-19T03:50:34+00:00",
+  "generated_at": "2026-10-19T04:00:48+00:00",
+  "run_id": "2026-10-19T04:00:48+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 9,
     "displayed_findings": 9,
     "high": 0,
@@ -443,29 +443,7 @@
       "id": "142272aaffc0585475d8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "When AI takes your side in a workplace conflict",
-      "url": "https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-19T03:30:07+00:00",
-      "fetched_at": "2026-10-19T03:50:05+00:00",
-      "summary": "Workplace conflict rarely arrives as a clean set of facts. By the time we decide that a manager is undermining us, a colleague is being deliberately difficult, or someone on the team cannot be trusted, we have usually spent some time interpreting what happened. We have noticed particular behaviours, connected them with earlier experiences, filled […] The post When AI takes your side in a workplace conflict appeared…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "02d54c82527030226e70"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
