@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T05:32:32+00:00_
+_Generiert: 2026-10-19T05:47:29+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+15 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -87,14 +87,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: フィジカルAIの脅威は「AIの反乱」ではない YouTubeで配信されていたTBSの対談番組「AI QUEST」で、参議院議員の安野貴博とAI研究者の今井翔太による議論を見ていた。 「Claude Mythos」級の高い脆弱性探索能力やサイバー攻撃能力を持つオープンウェイトモデルが急速に拡散し、従来のサイバー防衛が通用しなくなるという...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた - Qiita** — Score 5, observation — [Quelle](https://qiita.com/ebichan_88/items/f7c44c74e437875b1399)
+- **Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減** — Score 8, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/19/2000002353/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-18T10:34:03+00:00`, fetched `2026-10-19T00:55:08+00:00`
-  - Treffer: Hatena, hotentry
+  - Zeit: published `2026-10-18T23:45:01+00:00`, fetched `2026-10-19T05:47:02+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 米Anthropicは10月16日（現地時間）、2本の調査レポートを公開した。「How employment is changing at Anthropic」は、AIが同社内の雇用や働き方をどう変えたかを分析したもの。「The AI expectations gap」は、同社従業員と米国の一般市民がAIの将来をどう予測しているかを比較したものだ。AI導入の最前線にある同社の...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
