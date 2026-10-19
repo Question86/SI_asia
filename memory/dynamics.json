@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-19T11:44:13Z",
+  "generated_at": "2026-10-19T12:22:33Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 12,
-      "strong": 14,
-      "watch": 13
+      "krass": 14,
+      "strong": 18,
+      "watch": 7
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 24,
-      "watch": 14
+      "strong": 30,
+      "watch": 8
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T07:45:52+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://www.heise.de/news/Cyberangriffe-auf-Sicherheitsluecken-in-Fortinet-Produkten-und-BeyondTrust-11492254.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-19T09:25:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-19T10:00:00+09:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -93,11 +93,36 @@
       "summary": "ヤマハ株式会社が提供するVOCALOID6 Editorには、外部エンティティ参照の不適切な制限の脆弱性が存在します。"
     },
     {
+      "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+      "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-19T10:49:44+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: code"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Will developing nations be able to handle millions of AI agents?",
       "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-19T10:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -126,7 +151,7 @@
       "url": "https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T09:37:47+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security"
@@ -153,7 +178,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3993",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -179,7 +204,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3973",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -205,7 +230,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3982",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -227,11 +252,40 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen oder einen Denial of Service herbeizuführen."
     },
     {
+      "title": "Effective supervision through timely remediation",
+      "url": "https://www.bis.org/speeches/20261016-effective-supervision-through-timely-remediation",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "age_days": 0.52,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, 10, auth",
+        "security high-signal: rce, 10, auth",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Contribution by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, to the panel discussion “Effective supervision and enforcement” at the 17th FMA Supervisory Conference “Europe’s financial future: sovereignty and resilien…"
+    },
+    {
       "title": "Points beat percentages: Why three in four Singaporeans think their spare cash is underperforming",
       "url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T06:00:13+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -257,7 +311,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T11:05:08+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -282,7 +336,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3804",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T11:05:08+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -307,7 +361,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3951",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T11:05:08+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -332,7 +386,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3979",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -353,11 +407,68 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (rpcbind) ausnutzen, um einen Denial of Service Angriff durchzuführen."
     },
     {
+      "title": "Building trusted foundations for digital finance",
+      "url": "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "age_days": 0.52,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10, auth",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Keynote address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the INSEAD Digital Finance and Agentic AI Summit, Singapore, 9 October 2026."
+    },
+    {
+      "title": "Building trusted foundations for digital finance",
+      "url": "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 122.91,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 29.33,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 29.33",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 122.9d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Will developing nations be able to handle millions of AI agents?",
       "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 122.41,
+      "age_days": 122.43,
       "topics": [
         "ai"
       ],
@@ -368,12 +479,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 11.1,
+      "baseline_z_hint": 10.17,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 11.10",
+        "baseline z_hint 10.17",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 122.4d old signal",
@@ -386,7 +497,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 51.9,
+      "age_days": 51.93,
       "topics": [
         "security"
       ],
@@ -414,7 +525,7 @@
       "url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T06:25:15+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -437,37 +548,11 @@
       "summary": ""
     },
     {
-      "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
-      "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-10-19T10:49:44+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "high terms: code",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target?",
       "url": "https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T05:15:33+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "macro"
       ],
@@ -491,7 +576,7 @@
       "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T03:00:46+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -516,7 +601,7 @@
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-19T01:21:18+00:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -540,7 +625,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T10:13:09.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -561,11 +646,68 @@
       "summary": "Time 2026-10-19 09:45:56 UTC 2026-10-19 09:45:56 UTC at epicenter Location 8.106°S 120.187°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "The AI opportunity for Europe",
+      "url": "https://www.bis.org/speeches/20261019-ai-opportunity-europe",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "age_days": 0.52,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Dinner remarks by Philip R Lane, Member of the Executive Board of the European Central Bank, at the International AI Summit, Dublin, 13 October 2026."
+    },
+    {
+      "title": "Partnerships for prosperity - unlocking regional potential",
+      "url": "https://www.bis.org/speeches/20261016-partnerships-prosperity-unlocking-regional-potential",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "age_days": 0.52,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: regional",
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Speech by Dr P Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, at the 49th Annual General Meeting of the Association of Development Financing Institutions in Asia and the Pacific (ADFIAP), Colombo, 23 September 2026."
+    },
+    {
       "title": "Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust",
       "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T01:21:18+00:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
@@ -591,7 +733,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:15:05.817+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -612,11 +754,39 @@
       "summary": "PAGER - GREEN ShakeMap - IV Time 2026-10-19 07:49:04 UTC 2026-10-19 07:49:04 UTC at epicenter Location 14.026°S 165.705°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Ensuring resilience in the face of uncertainty",
+      "url": "https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "age_days": 0.52,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Keynote speech by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the ECB-Bank of England Conference on supervising climate risk in a non-linear world, Frankfurt am Main, 14 October 2026."
+    },
+    {
       "title": "M 5.9 - 185 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:34:10+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -640,7 +810,7 @@
       "url": "https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T10:23:36+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -667,7 +837,7 @@
       "url": "https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T04:59:33+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "macro"
       ],
@@ -691,7 +861,7 @@
       "url": "https://www.heise.de/news/Cyberangriffe-auf-Sicherheitsluecken-in-Fortinet-Produkten-und-BeyondTrust-11492254.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 122.17,
+      "age_days": 122.2,
       "topics": [
         "security"
       ],
@@ -702,12 +872,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.56,
+      "baseline_z_hint": 0.5,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.56",
+        "baseline z_hint 0.50",
         "high terms: angriffe, fortinet",
         "security high-signal: angriffe, fortinet",
         "aging penalty -8.0 for 122.2d old signal",
@@ -720,7 +890,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T11:18:55.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -745,7 +915,7 @@
       "url": "https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T09:54:59+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -771,7 +941,7 @@
       "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T01:00:24+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "macro"
@@ -798,7 +968,7 @@
       "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-19T10:29:09+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -822,7 +992,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T10:55:47.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -847,7 +1017,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T10:17:25.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -872,7 +1042,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T09:32:07.607+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -891,154 +1061,6 @@
         "high terms: 10"
       ],
       "summary": "DYFI? - III Time 2026-10-19 08:51:57 UTC 2026-10-19 08:51:57 UTC at epicenter Location 45.481°N 26.217°E Depth 124.75 km (77.52 mi)"
-    },
-    {
-      "title": "M 5.2 - 211 km WNW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bk",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-19T08:41:07.040+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-19 08:21:47 UTC 2026-10-19 08:21:47 UTC at epicenter Location 14.155°S 165.334°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.4 - 184 km WNW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bi",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-19T08:31:05.040+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-19 08:12:38 UTC 2026-10-19 08:12:38 UTC at epicenter Location 14.139°S 165.638°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.3 - 188 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3be",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-19T08:12:11.040+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-19 07:55:36 UTC 2026-10-19 07:55:36 UTC at epicenter Location 13.982°S 165.700°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.5 - Banda Sea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ar",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-19T06:46:54.040+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10, 9.9"
-      ],
-      "summary": "Time 2026-10-19 06:15:13 UTC 2026-10-19 06:15:13 UTC at epicenter Location 6.337°S 129.929°E Depth 157.77 km (98.04 mi)"
-    },
-    {
-      "title": "M 4.9 - 115 km NNW of Sola, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bz",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-19T10:23:36+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.5 - 2 km W of Lunca Jariștei, Romania",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bs",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-19T09:36:28+00:00",
-      "age_days": 0.09,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Fortinet FortiOS, FortiProxy und FortiSwitch: Schwachstelle ermöglicht Manipulation von Dateien” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
