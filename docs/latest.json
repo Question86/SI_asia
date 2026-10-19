@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T21:33:48+00:00",
-  "run_id": "2026-10-19T21:33:48+00:00",
+  "generated_at": "2026-10-19T21:44:32+00:00",
+  "run_id": "2026-10-19T21:44:32+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 88,
     "displayed_findings": 88,
     "high": 0,
@@ -4629,29 +4629,7 @@
       "id": "142272aaffc0585475d8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "サイバー攻撃受け情報漏えい、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡り痕跡",
-      "url": "https://www.yomiuri.co.jp/national/20261019-GYT1T00477/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-19T20:16:56+00:00",
-      "fetched_at": "2026-10-19T21:33:15+00:00",
-      "summary": "【読売新聞】 国内の企業・団体がサイバー攻撃を受けて個人情報が大量漏えいしている問題で、システムの 脆弱 （ ぜいじゃく ） 性を診断する中国語のＡＩ（人工知能）エージェントが一部の攻撃で悪用されたとみられることが１９日、日本のセキ",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e11fac65fb8200607717"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
