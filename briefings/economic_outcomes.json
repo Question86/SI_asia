@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T19:15:37+00:00",
+  "generated_at": "2026-10-19T19:26:15+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -3404,13 +3404,13 @@
     {
       "event_id": "evt_2e5f73a0c6fdaa5559a6",
       "title": "M 5.7 - 198 km NW of Port-Olry, Vanuatu",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2e9d9ec03302056d3575",
@@ -7824,6 +7824,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_6a8ed79a03140f53da0b",
+      "title": "M 5.7 - 203 km WNW of Port-Olry, Vanuatu",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_6ae6966eae2b8bf7fb81",
       "title": "ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜",
       "deduplicated_buckets": 0,
@@ -8673,12 +8684,12 @@
     {
       "event_id": "evt_74a7499948460b5fca3b",
       "title": "How to continue a GitHub Copilot app session in VS Code",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {

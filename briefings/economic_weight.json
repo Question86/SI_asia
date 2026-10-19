@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T19:15:14+00:00",
+  "generated_at": "2026-10-19T19:25:58+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -88,7 +88,7 @@
       "p90_usd": 1160000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T05:15:33+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -780,7 +780,7 @@
       "p90_usd": 113600000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T15:21:10+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -1666,7 +1666,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -1836,7 +1836,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T07:58:33+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -2125,7 +2125,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-19T08:34:10+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -2520,6 +2520,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_6a8ed79a03140f53da0b",
+      "title": "M 5.7 - 203 km WNW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-19T19:25:40+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_016849870c540dd48378",
       "title": "M 5.0 - 124 km N of Metinaro, Timor Leste",
       "event_classes": [
@@ -2720,7 +2737,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-19T11:30:15+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -4880,6 +4897,23 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-27T01:47:15+00:00",
       "last_seen_at": "2026-09-27T23:53:06+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_2e5f73a0c6fdaa5559a6",
+      "title": "M 5.7 - 198 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:14:50+00:00",
       "status": "dormant"
     },
     {
@@ -8742,23 +8776,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_2e5f73a0c6fdaa5559a6",
-      "title": "M 5.7 - 198 km NW of Port-Olry, Vanuatu",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-19T19:14:50+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -8772,7 +8789,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -9673,7 +9690,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T01:21:18+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -10557,7 +10574,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -11220,7 +11237,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T01:21:18+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -12427,7 +12444,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T09:54:59+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -13060,6 +13077,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_74a7499948460b5fca3b",
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116000.0,
+      "p50_usd": 11600000.0,
+      "p90_usd": 1160000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_757f70c9653f9344ff14",
       "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」",
       "event_classes": [
@@ -13211,23 +13245,6 @@
       "first_seen_at": "2026-10-07T03:29:23+00:00",
       "last_seen_at": "2026-10-07T23:54:54+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_74a7499948460b5fca3b",
-      "title": "How to continue a GitHub Copilot app session in VS Code",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 116000.0,
-      "p50_usd": 11600000.0,
-      "p90_usd": 1160000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-19T19:14:50+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_070b081f5eeabbc39c41",
@@ -13617,7 +13634,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T10:23:36+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -15148,7 +15165,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T12:33:46+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -15216,7 +15233,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T06:25:15+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -15267,7 +15284,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T10:49:44+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -16576,7 +16593,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -18531,7 +18548,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
@@ -24517,7 +24534,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-10-19T19:14:50+00:00",
+      "last_seen_at": "2026-10-19T19:25:40+00:00",
       "status": "active"
     },
     {
