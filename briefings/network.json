@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19T19:34:42+00:00",
+  "generated_at": "2026-10-19T19:46:15+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 86,
     "clusters": 60,
     "cross_source_confrmed": 1,
     "hot": 1,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 20
   },
   "clusters": [
@@ -71,106 +71,24 @@
       "cross_source_confirmed": true,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 22.4,
+      "network_score": 22.24,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 22.2,
-      "ranking_score": 22.4,
+      "ranking_score": 22.24,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 5.5,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.9,
+      "baseline_bonus": 1.74,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": true,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
-    {
-      "key": "title:continue-github-copilot-app-session-code",
-      "title": "How to continue a GitHub Copilot app session in VS Code",
-      "sources": [
-        "GitHub Blog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
-      ],
-      "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 22.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 17.1,
-      "ranking_score": 22.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-19T19:14:50+00:00"
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "Building trusted foundations for digital finance",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance",
-        "https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai",
-        "https://www.bis.org/speeches/20261019-ai-opportunity-europe",
-        "https://www.bis.org/speeches/20261019-supervisory-modernisation-after-silicon-valley-bank",
-        "https://www.bis.org/speeches/20261019-opening-remarks-beyond-cycle-growth-innovation-and-resilience-chinese-economy-conference",
-        "https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty"
-      ],
-      "finding_count": 11,
-      "max_score": 19,
-      "credibility_total": 11.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.62,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 42.1,
-      "ranking_score": 21.62,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 2.62,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
@@ -214,6 +132,50 @@
       "first_seen_at": "2026-10-19T01:21:18+00:00"
     },
     {
+      "key": "domain:www.bis.org",
+      "title": "Building trusted foundations for digital finance",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance",
+        "https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai",
+        "https://www.bis.org/speeches/20261019-ai-opportunity-europe",
+        "https://www.bis.org/speeches/20261019-supervisory-modernisation-after-silicon-valley-bank",
+        "https://www.bis.org/speeches/20261019-opening-remarks-beyond-cycle-growth-innovation-and-resilience-chinese-economy-conference",
+        "https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty"
+      ],
+      "finding_count": 11,
+      "max_score": 19,
+      "credibility_total": 11.55,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 21.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 42.1,
+      "ranking_score": 21.2,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 2.2,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
       "key": "domain:wid.cert-bund.de",
       "title": "[UPDATE] [hoch] Ubiquiti UniFi Protect AI Key: Mehrere Schwachstellen",
       "sources": [
@@ -236,20 +198,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 20.84,
+      "network_score": 20.54,
       "hot": false,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 48.5,
-      "ranking_score": 20.84,
+      "ranking_score": 20.54,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.34,
+      "baseline_bonus": 2.04,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -295,6 +257,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-19T09:54:59+00:00"
+    },
+    {
+      "key": "title:continue-github-copilot-app-session-code",
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "sources": [
+        "GitHub Blog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 16.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-19T19:14:50+00:00"
     },
     {
       "key": "title:will-upcoming-federal-reserve-meeting-crush-bullish-push",
@@ -513,18 +513,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.22,
+      "network_score": 14.11,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 15.2,
-      "ranking_score": 14.22,
+      "ranking_score": 14.11,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.72,
+      "baseline_bonus": 1.61,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -2377,7 +2377,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-19T19:34:42Z",
+    "generated_at": "2026-10-19T19:46:16Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
