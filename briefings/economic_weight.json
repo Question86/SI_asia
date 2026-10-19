@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T00:55:58+00:00",
+  "generated_at": "2026-10-19T01:21:36+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -9948,6 +9948,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8cce5a555aff9e67c984",
+      "title": "ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-19T01:21:18+00:00",
+      "last_seen_at": "2026-10-19T01:21:18+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2f5c3cffbb9951edd868",
       "title": "Southeast Asia startup funding finds a floor, but not a rebound",
       "event_classes": [
@@ -11085,6 +11102,23 @@
       "first_seen_at": "2026-10-16T03:16:20+00:00",
       "last_seen_at": "2026-10-16T23:59:00+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_475a9de6e545b47ec3e0",
+      "title": "Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 120000.0,
+      "p50_usd": 12000000.0,
+      "p90_usd": 1200000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-19T01:21:18+00:00",
+      "last_seen_at": "2026-10-19T01:21:18+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2170780765320e429d3b",
@@ -24142,7 +24176,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-10-19T00:55:39+00:00",
+      "last_seen_at": "2026-10-19T01:21:18+00:00",
       "status": "active"
     },
     {
