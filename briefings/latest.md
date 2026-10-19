@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T08:55:35+00:00_
+_Generiert: 2026-10-19T09:06:06+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+27 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,10 +41,10 @@ _Generiert: 2026-10-19T08:55:35+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Nicaragua
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572503)
+- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572503)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI&gt;=III.
+  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI&gt;=III.
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Pakistan 17/10/2026 05:06 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572122)
   - Quelle: GDACS
   - Zeit: ``
@@ -216,3 +216,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_yield_curve` (rss): HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Read timed out. (read timeout=8)

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T08:55:35+00:00_
+_Generiert: 2026-10-19T09:06:06+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+27 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -159,3 +159,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_yield_curve` (rss): HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Read timed out. (read timeout=8)
