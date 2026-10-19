@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T18:45:31+00:00_
+_Generiert: 2026-10-19T19:14:48+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
+85 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -74,6 +74,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Last week, Amazon was reported to be in talks to pay around US$7 billion for Decart, a three-year-old startup valued at just under US$4 billion in May. Cohere signed a letter of intent to buy AI security startup AISLE. Prime Intellect snapped up Moondream. Bumble agreed to a US$1.3 billion take-private. And that was a […] The post The AI exit window is wide open. Southeast Asia isn’t standing anywhere near it appear…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How to continue a GitHub Copilot app session in VS Code** — Score 15, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-10-19T18:47:22+00:00`, fetched `2026-10-19T19:14:15+00:00`
+  - Treffer: AI/KI, Content-Chance, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Content-Chance (+6.2); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 56 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ch)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
