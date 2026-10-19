@@ -103,6 +103,30 @@
     "id": "e9b96980ebce2014580f"
   },
   {
+    "title": "[UPDATE] [hoch] Ubiquiti UniFi Protect AI Key: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3911",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-19T13:11:34+00:00",
+    "fetched_at": "2026-10-19T13:14:13+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Ubiquiti UniFi Protect AI Key ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebige Betriebssystembefehle auszuführen, vertrauliche Informationen auszulesen, Dateien zu manipulieren oder Denial-of-Service-Angriffe durchzuführen.",
+    "matched_keywords": [
+      "AI/KI",
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "AI/KI (+3.8); Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dd5ab6311ef0a1af3cd4"
+  },
+  {
     "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822",
     "source": "BSI CERT-Bund Security Advisories",
@@ -375,6 +399,75 @@
     "id": "9ba0715616c8559feb9e"
   },
   {
+    "title": "[UPDATE] [hoch] Python: Schwachstelle ermöglicht Manipulation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1280",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-19T13:11:35+00:00",
+    "fetched_at": "2026-10-19T13:14:13+00:00",
+    "summary": "Ein Angreifer kann eine Schwachstelle in Python ausnutzen, um HTTP Anfragen zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "32b29c59eac362868e74"
+  },
+  {
+    "title": "[UPDATE] [hoch] Xen: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3930",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-19T13:11:34+00:00",
+    "fetched_at": "2026-10-19T13:14:13+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Xen ausnutzen, um beliebigen Code – möglicherweise sogar mit Root-Rechten – auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2133acd5ff71712c4be3"
+  },
+  {
+    "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4025",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-19T13:11:33+00:00",
+    "fetched_at": "2026-10-19T13:14:13+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "572abcf7be47fe3ee2ac"
+  },
+  {
     "title": "ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU93520490/",
     "source": "JVN Japan Vulnerability Notes",
@@ -525,6 +618,28 @@
       "LOW"
     ],
     "id": "7338f46b36f47d28a1b0"
+  },
+  {
+    "title": "Monetary policy in testing times - power politics and AI",
+    "url": "https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-19T00:00:00+00:00",
+    "fetched_at": "2026-10-19T13:14:13+00:00",
+    "summary": "Introductory remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the Citi Macro Forum, Bangkok, 14 October 2026.",
+    "matched_keywords": [
+      "AI/KI",
+      "macro",
+      "Macro/Policy"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); macro (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c4018a445258ad47962e"
   },
   {
     "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-19T12:57:14+00:00",
+  "generated_at": "2026-10-19T13:14:44+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 57,
-    "displayed_findings": 57,
+    "new_relevant_findings": 5,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
-    "medium": 17,
-    "observe": 40
+    "medium": 21,
+    "observe": 41
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "title": "[UPDATE] [hoch] Ubiquiti UniFi Protect AI Key: Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-19T11:05:08+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "published_at": "2026-10-19T13:11:34+00:00",
+      "relevance_score": 17,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3911",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Ubiquiti UniFi Protect AI Key ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebige Betriebssystembefehle auszuführen, vertrauliche Informationen auszulesen, Dateien zu manipulieren oder…",
       "section": "medium"
     },
     {
@@ -62,6 +62,16 @@
       "relevance_score": 13,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc",
       "summary": "PAGER - GREEN ShakeMap - IV Time 2026-10-19 07:49:04 UTC 2026-10-19 07:49:04 UTC at epicenter Location 14.026°S 165.705°E Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
+      "title": "Monetary policy in testing times - power politics and AI",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "relevance_score": 13,
+      "url": "https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai",
+      "summary": "Introductory remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the Citi Macro Forum, Bangkok, 14 October 2026.",
       "section": "observe"
     },
     {
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/",
       "summary": "A Singaporean who will argue over a 50-cent difference in cashback at a hawker centre may have no idea what their savings account pays. New research suggests that person is the norm. Some 89 per cent of Singapore residents hold spare cash, according to a surv…",
-      "section": "observe"
-    },
-    {
-      "title": "GPT-4o級モデルが自宅のPCで動いた！ ローカルAIの常識を変える「Strata」 (1/5)",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-18T23:36:35+00:00",
-      "relevance_score": 12,
-      "url": "https://ascii.jp/elem/000/004/443/4443584/",
-      "summary": "9月24日に一般公開された「Strata」というローカルLLM向け技術が話題沸騰中です。これまで、ローカルLLMで動かせるモデルの大きさは、使用するPCのVRAMの容量や、RAMとVRAMで共有するユニファイドメモリの容量によって決まっていました。そのため、強力な思考能力を持つローカルLLMまでは動かすことができなかったのです...",
       "section": "observe"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-19T12:57:14+00:00",
+  "generated_at": "2026-10-19T13:14:44+00:00",
   "topics": {
     "ai": [
       {
@@ -26,11 +26,25 @@
         "url": "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance"
       },
       {
+        "title": "[UPDATE] [hoch] Ubiquiti UniFi Protect AI Key: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-19T13:11:34+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3911"
+      },
+      {
         "title": "The AI exit window is wide open. Southeast Asia isn’t standing anywhere near it",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-19T09:37:47+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/"
+      },
+      {
+        "title": "Monetary policy in testing times - power politics and AI",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai"
       },
       {
         "title": "GPT-4o級モデルが自宅のPCで動いた！ ローカルAIの常識を変える「Strata」 (1/5)",
@@ -59,20 +73,6 @@
         "published_at": "2026-10-19T02:00:15+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/dealing-with-shadow-ai-what-companies-should-do-instead-of-banning-ai-20261016/"
-      },
-      {
-        "title": "The AI opportunity for Europe",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-19T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.bis.org/speeches/20261019-ai-opportunity-europe"
-      },
-      {
-        "title": "AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 | Amazon Web Services",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-18T12:44:57+00:00",
-        "relevance_score": 10,
-        "url": "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/"
       }
     ],
     "github": [
@@ -112,6 +112,13 @@
         "published_at": "2026-10-19T00:00:00+00:00",
         "relevance_score": 19,
         "url": "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance"
+      },
+      {
+        "title": "Monetary policy in testing times - power politics and AI",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai"
       },
       {
         "title": "The AI opportunity for Europe",
@@ -161,16 +168,16 @@
         "published_at": "2026-10-19T00:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.bis.org/speeches/20261016-financial-literacy-towards-inclusive-economy"
-      },
-      {
-        "title": "Effective supervision through timely remediation",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-19T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261016-effective-supervision-through-timely-remediation"
       }
     ],
     "security": [
+      {
+        "title": "[UPDATE] [hoch] Ubiquiti UniFi Protect AI Key: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-19T13:11:34+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3911"
+      },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
@@ -214,32 +221,25 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096"
       },
       {
-        "title": "ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-19T10:00:00+09:00",
+        "title": "[UPDATE] [hoch] Python: Schwachstelle ermöglicht Manipulation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-19T13:11:35+00:00",
         "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU93520490/"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1280"
       },
       {
-        "title": "[UPDATE] [mittel] Devolutions Server: Mehrere Schwachstellen",
+        "title": "[UPDATE] [hoch] Xen: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-19T09:15:52+00:00",
+        "published_at": "2026-10-19T13:11:34+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3993"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3930"
       },
       {
-        "title": "[UPDATE] [hoch] Vercel Next.js: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-19T09:15:52+00:00",
+        "published_at": "2026-10-19T13:11:33+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3973"
-      },
-      {
-        "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-19T09:15:52+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3982"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4025"
       }
     ],
     "general": [
@@ -323,6 +323,20 @@
         "url": "https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/"
       },
       {
+        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-19T13:11:33+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4025"
+      },
+      {
+        "title": "Monetary policy in testing times - power politics and AI",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai"
+      },
+      {
         "title": "Points beat percentages: Why three in four Singaporeans think their spare cash is underperforming",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-19T06:00:13+00:00",
@@ -370,20 +384,6 @@
         "published_at": "2026-10-19T03:00:46+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/"
-      },
-      {
-        "title": "Financial literacy towards an inclusive economy",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-19T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261016-financial-literacy-towards-inclusive-economy"
-      },
-      {
-        "title": "Effective supervision through timely remediation",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-19T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261016-effective-supervision-through-timely-remediation"
       }
     ]
   }
