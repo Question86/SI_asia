@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T03:29:47+00:00_
+_Generiert: 2026-10-19T03:50:34+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+9 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -86,6 +86,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0)
   - Kurz: In most companies across Singapore and Thailand, the AI policy already exists: drafted, approved and circulated. And yet, somewhere in the same organisation, an employee is pasting a supplier contract into a free chatbot to summarise it before a meeting. This is known as shadow AI: employees using AI at work without company oversight, such […] The post Dealing with shadow AI: What companies should do instead of bann…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **When AI takes your side in a workplace conflict** — Score 8, observation — [Quelle](https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-19T03:30:07+00:00`, fetched `2026-10-19T03:50:05+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Workplace conflict rarely arrives as a clean set of facts. By the time we decide that a manager is undermining us, a colleague is being deliberately difficult, or someone on the team cannot be trusted, we have usually spent some time interpreting what happened. We have noticed particular behaviours, connected them with earlier experiences, filled […] The post When AI takes your side in a workplace conflict appeared…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから** — Score 8, observation — [Quelle](https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
