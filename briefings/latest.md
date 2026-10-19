@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T19:46:13+00:00_
+_Generiert: 2026-10-19T20:03:40+00:00_
 
 ## Kurzlage
 
@@ -49,14 +49,6 @@ _Generiert: 2026-10-19T19:46:13+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Pakistan 17/10/2026 05:06 UTC, 2 thousand (in MMI&gt;=VII).
-- **USGS earthquake M5.7 - 203 km WNW of Port-Olry, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ge)
-  - Quelle: USGS
-  - Zeit: `2026-10-19T18:55:37+00:00`
-  - Kurz: M5.7 - 203 km WNW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
-- **USGS earthquake M5.7 - 198 km NW of Port-Olry, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga)
-  - Quelle: USGS
-  - Zeit: `2026-10-19T18:52:36+00:00`
-  - Kurz: M5.7 - 198 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
