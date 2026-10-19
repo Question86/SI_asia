@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-19T10:58:27+00:00",
+  "generated_at": "2026-10-19T11:30:15+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 41,
-    "clusters": 37,
+    "findings": 45,
+    "clusters": 38,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 1,
-    "dominance_penalized": 10
+    "dominance_penalized": 11
   },
   "clusters": [
     {
@@ -28,20 +28,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 28.13,
+      "network_score": 27.94,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 24.1,
-      "ranking_score": 28.13,
+      "ranking_score": 27.94,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 4.63,
+      "baseline_bonus": 4.44,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -49,6 +49,51 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3804",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3951",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3979",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3993"
+      ],
+      "finding_count": 8,
+      "max_score": 16,
+      "credibility_total": 8.4,
+      "cross_source_confirmed": false,
+      "momentum_delta": 3,
+      "momentum_status": "increasing",
+      "network_score": 25.0,
+      "hot": false,
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 41.8,
+      "ranking_score": 25.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 7.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:telcos-are-racing-put-app-their-subscribers-have",
@@ -127,50 +172,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-19T10:49:44+00:00"
-    },
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (rpcbind): Schwachstelle ermöglicht Denial of Service",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3979",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3993",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3973",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3982"
-      ],
-      "finding_count": 5,
-      "max_score": 16,
-      "credibility_total": 5.25,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 17.5,
-      "hot": false,
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 26.5,
-      "ranking_score": 17.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:exit-window-wide-open-southeast-asia-isn-standing",
@@ -406,6 +407,47 @@
       "first_seen_at": "2026-10-19T06:25:15+00:00"
     },
     {
+      "key": "earthquake:m 5.0 - 31 km nw of jiangyou, china:5.0",
+      "title": "M 5.0 - 31 km NW of Jiangyou, China",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c7"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.7,
+      "ranking_score": 12.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-10-19T11:30:15+00:00"
+    },
+    {
       "key": "earthquake:m 5.9 - 185 km nw of port-olry, vanuatu:5.9",
       "title": "M 5.9 - 185 km NW of Port-Olry, Vanuatu",
       "sources": [
@@ -464,18 +506,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.19,
+      "network_score": 12.13,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 12.1,
-      "ranking_score": 12.19,
+      "ranking_score": 12.13,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.69,
+      "baseline_bonus": 0.63,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -502,20 +544,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 11.74,
+      "network_score": 11.72,
       "hot": false,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 12.1,
-      "ranking_score": 11.74,
+      "ranking_score": 11.72,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.24,
+      "baseline_bonus": 0.22,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -599,47 +641,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-19T02:36:14+00:00"
-    },
-    {
-      "key": "earthquake:m 5.4 - 196 km nw of port-olry, vanuatu:5.4",
-      "title": "M 5.4 - 196 km NW of Port-Olry, Vanuatu",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "emergency_official",
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.9,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 14.7,
-      "ranking_score": 10.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-10-19T10:58:27+00:00"
     },
     {
       "key": "title:when-takes-your-side-workplace-conflict",
@@ -868,6 +869,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-19T04:26:52+00:00"
+    },
+    {
+      "key": "earthquake:m 5.4 - 196 km nw of port-olry, vanuatu:5.4",
+      "title": "M 5.4 - 196 km NW of Port-Olry, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 11.7,
+      "ranking_score": 8.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-10-19T10:58:27+00:00"
     },
     {
       "key": "earthquake:m 4.9 - 115 km nnw of sola, vanuatu:4.9",
@@ -1461,7 +1503,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-19T10:58:27Z",
+    "generated_at": "2026-10-19T11:30:16Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

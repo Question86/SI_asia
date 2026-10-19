@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-19T10:58:27+00:00",
-  "today_file_total": 41,
+  "generated_at": "2026-10-19T11:30:15+00:00",
+  "today_file_total": 45,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (rpcbind): Schwachstelle ermöglicht Denial of Service",
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -12,19 +12,20 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3804",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3951",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3979",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3993",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3973",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3982"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3993"
       ],
-      "finding_count": 5,
+      "finding_count": 8,
       "max_score": 16,
-      "credibility_total": 5.25,
+      "credibility_total": 8.4,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 26.5,
+      "momentum_delta": 3,
+      "momentum_status": "increasing",
+      "network_score": 41.8,
       "hot": true,
       "watchgraph_modules": [
         "cyber_active_exploitation"
@@ -155,6 +156,31 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "earthquake:m 5.0 - 31 km nw of jiangyou, china:5.0",
+      "title": "M 5.0 - 31 km NW of Jiangyou, China",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c7"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "title:vocaloid6-editor",
       "title": "ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性",
       "sources": [
@@ -219,31 +245,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 15.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.4 - 196 km nw of port-olry, vanuatu:5.4",
-      "title": "M 5.4 - 196 km NW of Port-Olry, Vanuatu",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -391,6 +392,31 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "earthquake:m 5.4 - 196 km nw of port-olry, vanuatu:5.4",
+      "title": "M 5.4 - 196 km NW of Port-Olry, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "earthquake:m 4.9 - 115 km nnw of sola, vanuatu:4.9",
       "title": "M 4.9 - 115 km NNW of Sola, Vanuatu",
       "sources": [
@@ -451,31 +477,6 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bk"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.4 - 184 km wnw of port-olry, vanuatu:5.4",
-      "title": "M 5.4 - 184 km WNW of Port-Olry, Vanuatu",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bi"
       ],
       "finding_count": 1,
       "max_score": 9,
