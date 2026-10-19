@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-19T05:47:29+00:00_
+_Generated: 2026-10-19T06:25:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `19`
 
 ## Top Signals
 
@@ -29,32 +29,32 @@ _Generated: 2026-10-19T05:47:29+00:00_
 - url: https://jvn.jp/vu/JVNVU93520490/
 - summary: ヤマハ株式会社が提供するVOCALOID6 Editorには、外部エンティティ参照の不適切な制限の脆弱性が存在します。
 
-### 4. Gen Z is bringing its own AI to work. Singapore’s SMEs need rules, not bans
+### 4. Points beat percentages: Why three in four Singaporeans think their spare cash is underperforming
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-10-19T06:00:13+00:00`
+- url: https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/
+- summary: A Singaporean who will argue over a 50-cent difference in cashback at a hawker centre may have no idea what their savings account pays. New research suggests that person is the norm. Some 89 per cent of Singapore residents hold spare cash, according to a surv…
+
+### 5. Gen Z is bringing its own AI to work. Singapore’s SMEs need rules, not bans
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-19T04:15:09+00:00`
 - url: https://e27.co/gen-z-is-bringing-its-own-ai-to-work-singapores-smes-need-rules-not-bans-20261019/
 - summary: Young workers in Singapore are not waiting for their employers to roll out AI. They are already using it, often on personal devices and often without anyone watching. According to “What Gen Z Workers Want 2026”, a study commissioned by Deel and conducted with…
 
-### 5. Dealing with shadow AI: What companies should do instead of banning AI
+### 6. Dealing with shadow AI: What companies should do instead of banning AI
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-19T02:00:15+00:00`
 - url: https://e27.co/dealing-with-shadow-ai-what-companies-should-do-instead-of-banning-ai-20261016/
 - summary: In most companies across Singapore and Thailand, the AI policy already exists: drafted, approved and circulated. And yet, somewhere in the same organisation, an employee is pasting a supplier contract into a free chatbot to summarise it before a meeting. This…
 
-### 6. AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 | Amazon Web Services
+### 7. AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 | Amazon Web Services
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-10-18T12:44:57+00:00`
 - url: https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/
 - summary: Amazon Web Services ブログ AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 本ブログは 2026 年 9 月 3 日に公開された AWS Blog “Incident response guide for AWS CloudTrail investigations – Part 1” を翻訳したものです。 AWS CloudTrail ログには、AWS 環境で疑わしいアクティビティを調査する...
-
-### 7. When AI takes your side in a workplace conflict
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-10-19T03:30:07+00:00`
-- url: https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/
-- summary: Workplace conflict rarely arrives as a clean set of facts. By the time we decide that a manager is undermining us, a colleague is being deliberately difficult, or someone on the team cannot be trusted, we have usually spent some time interpreting what happene…
 
 END OF DOCUMENT

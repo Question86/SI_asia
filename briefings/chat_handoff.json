@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-19T05:47:29+00:00",
+  "generated_at": "2026-10-19T06:25:13+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 4,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
     "medium": 3,
-    "observe": 12
+    "observe": 16
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,6 +45,16 @@
       "section": "medium"
     },
     {
+      "title": "Points beat percentages: Why three in four Singaporeans think their spare cash is underperforming",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-19T06:00:13+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/",
+      "summary": "A Singaporean who will argue over a 50-cent difference in cashback at a hawker centre may have no idea what their savings account pays. New research suggests that person is the norm. Some 89 per cent of Singapore residents hold spare cash, according to a surv…",
+      "section": "observe"
+    },
+    {
       "title": "Gen Z is bringing its own AI to work. Singapore’s SMEs need rules, not bans",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -73,16 +83,6 @@
       "url": "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
       "summary": "Amazon Web Services ブログ AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 本ブログは 2026 年 9 月 3 日に公開された AWS Blog “Incident response guide for AWS CloudTrail investigations – Part 1” を翻訳したものです。 AWS CloudTrail ログには、AWS 環境で疑わしいアクティビティを調査する...",
       "section": "observe"
-    },
-    {
-      "title": "When AI takes your side in a workplace conflict",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-19T03:30:07+00:00",
-      "relevance_score": 8,
-      "url": "https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/",
-      "summary": "Workplace conflict rarely arrives as a clean set of facts. By the time we decide that a manager is undermining us, a colleague is being deliberately difficult, or someone on the team cannot be trusted, we have usually spent some time interpreting what happene…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -90,137 +90,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU93520490/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-19T10:00:00+09:00",
-        "age_days": 0.2,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "ヤマハ株式会社が提供するVOCALOID6 Editorには、外部エンティティ参照の不適切な制限の脆弱性が存在します。"
-      },
-      {
-        "title": "Faster, smarter, but more fragile? Rethinking communications resilience in Southeast Asia",
-        "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-19T03:00:46+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10"
-        ],
-        "summary": "Southeast Asia has spent the past decade moving rapidly towards a more connected future. Fibre networks have replaced much of the region’s older copper infrastructure, smartphones have become the primary gateway to services, and communications, payments, government functions and commerce have increasingly shifted onli…"
-      },
-      {
-        "title": "Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target?",
-        "url": "https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-19T05:15:33+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "macro"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +2",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU93520490/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-19T01:21:18+00:00",
-        "age_days": 0.19,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust",
-        "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-19T01:21:18+00:00",
-        "age_days": 0.19,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 21.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

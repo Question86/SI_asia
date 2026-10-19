@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T05:47:29+00:00_
+_Generiert: 2026-10-19T06:25:13+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+19 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,18 @@ _Generiert: 2026-10-19T05:47:29+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-14`
   - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Cisco Secure Email Gateway Relative Path Traversal Vulnerability
+- **GDACS: Green flood alert in Spain** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104235)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Spain
 - **GDACS: Green earthquake (Magnitude 6.9M, Depth:143.176km) in Russia 16/10/2026 03:35 UTC, 10 thousand in MMI&gt;=V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571917)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.9M, Depth:143.176km) in Russia 16/10/2026 03:35 UTC, 10 thousand in MMI&gt;=V.
+- **GDACS: Green flood alert in Nicaragua** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104237)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Nicaragua
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Pakistan 17/10/2026 05:06 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572122)
   - Quelle: GDACS
   - Zeit: ``
@@ -87,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Points beat percentages: Why three in four Singaporeans think their spare cash is underperforming** — Score 12, observation — [Quelle](https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-19T06:00:13+00:00`, fetched `2026-10-19T06:24:45+00:00`
+  - Treffer: APAC Trend Radar, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: A Singaporean who will argue over a 50-cent difference in cashback at a hawker centre may have no idea what their savings account pays. New research suggests that person is the norm. Some 89 per cent of Singapore residents hold spare cash, according to a survey of 1,000 people conducted by research firm Milieu. Among […] The post Points beat percentages: Why three in four Singaporeans think their spare cash is under…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Gen Z is bringing its own AI to work. Singapore’s SMEs need rules, not bans** — Score 10, observation — [Quelle](https://e27.co/gen-z-is-bringing-its-own-ai-to-work-singapores-smes-need-rules-not-bans-20261019/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-19T04:15:09+00:00`, fetched `2026-10-19T04:26:17+00:00`
@@ -114,14 +131,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Amazon Web Services ブログ AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 本ブログは 2026 年 9 月 3 日に公開された AWS Blog “Incident response guide for AWS CloudTrail investigations – Part 1” を翻訳したものです。 AWS CloudTrail ログには、AWS 環境で疑わしいアクティビティを調査する...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **When AI takes your side in a workplace conflict** — Score 8, observation — [Quelle](https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-19T03:30:07+00:00`, fetched `2026-10-19T03:50:05+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+- **Frank Elderson: From climate and nature risks to economic resilience and competitiveness** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-10-19T06:00:00+00:00`, fetched `2026-10-19T06:24:45+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Workplace conflict rarely arrives as a clean set of facts. By the time we decide that a manager is undermining us, a colleague is being deliberately difficult, or someone on the team cannot be trusted, we have usually spent some time interpreting what happened. We have noticed particular behaviours, connected them with earlier experiences, filled […] The post When AI takes your side in a workplace conflict appeared…
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Frank Elderson: From climate and nature risks to economic resilience and competitiveness
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから** — Score 8, observation — [Quelle](https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -140,6 +157,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米Anthropicは10月16日（現地時間）、2本の調査レポートを公開した。「How employment is changing at Anthropic」は、AIが同社内の雇用や働き方をどう変えたかを分析したもの。「The AI expectations gap」は、同社従業員と米国の一般市民がAIの将来をどう予測しているかを比較したものだ。AI導入の最前線にある同社の...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **マイナンバー制度における制度解説の情報連携に係る資料を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/mynumber/explanation)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-19T06:00:00+00:00`, fetched `2026-10-19T06:24:45+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: マイナンバー制度における制度解説の情報連携に係る資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

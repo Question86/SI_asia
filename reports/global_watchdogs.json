@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T05:47:32+00:00",
+  "generated_at": "2026-10-19T06:25:15+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,10 +65,30 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "GDACS: Green flood alert in Spain",
+        "summary": "Green flood alert in Spain",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104235",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "GDACS: Green earthquake (Magnitude 6.9M, Depth:143.176km) in Russia 16/10/2026 03:35 UTC, 10 thousand in MMI&gt;=V.",
         "summary": "Green earthquake (Magnitude 6.9M, Depth:143.176km) in Russia 16/10/2026 03:35 UTC, 10 thousand in MMI&gt;=V.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571917",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Nicaragua",
+        "summary": "Green flood alert in Nicaragua",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104237",
         "published_at": "",
         "metrics": {}
       },
