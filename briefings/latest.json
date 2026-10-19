@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T19:14:48+00:00",
-  "run_id": "2026-10-19T19:14:48+00:00",
+  "generated_at": "2026-10-19T19:25:38+00:00",
+  "run_id": "2026-10-19T19:25:38+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 85
+      "configured_public_sources_only": 86
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "new_relevant_findings": 1,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
     "medium": 25,
-    "observe": 60,
+    "observe": 61,
     "source_errors": 0
   },
   "sections": {
@@ -706,6 +706,44 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 5.7 - 203 km WNW of Port-Olry, Vanuatu",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ge",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-19T19:21:29.999+00:00",
+        "fetched_at": "2026-10-19T19:25:09+00:00",
+        "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-19 18:55:37 UTC 2026-10-19 18:55:37 UTC at epicenter Location 14.027°S 165.497°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "8dc2384e9823498505e5"
+      },
       {
         "title": "M 5.9 - 185 km NW of Port-Olry, Vanuatu",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc",
@@ -2923,6 +2961,44 @@
       "id": "6dcd7fe043d013099a49"
     },
     {
+      "title": "M 5.7 - 203 km WNW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ge",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-19T19:21:29.999+00:00",
+      "fetched_at": "2026-10-19T19:25:09+00:00",
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-19 18:55:37 UTC 2026-10-19 18:55:37 UTC at epicenter Location 14.027°S 165.497°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8dc2384e9823498505e5"
+    },
+    {
       "title": "M 5.9 - 185 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4463,49 +4539,28 @@
   ],
   "new_findings": [
     {
-      "title": "How to continue a GitHub Copilot app session in VS Code",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-19T18:47:22+00:00",
-      "fetched_at": "2026-10-19T19:14:15+00:00",
-      "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "Content-Chance",
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.0); Content-Chance (+6.2); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7920ac3c149ec67857e5"
-    },
-    {
-      "title": "M 5.7 - 198 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga",
+      "title": "M 5.7 - 203 km WNW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ge",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-19T19:09:42.040+00:00",
-      "fetched_at": "2026-10-19T19:14:15+00:00",
-      "summary": "Time 2026-10-19 18:52:36 UTC 2026-10-19 18:52:36 UTC at epicenter Location 14.037°S 165.551°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-10-19T19:21:29.999+00:00",
+      "fetched_at": "2026-10-19T19:25:09+00:00",
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-19 18:55:37 UTC 2026-10-19 18:55:37 UTC at epicenter Location 14.027°S 165.497°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
       ],
       "market_context": [
         "MUV2.DE",
@@ -4519,28 +4574,7 @@
         "HD",
         "LOW"
       ],
-      "id": "f57bdedd235c8c2f641a"
-    },
-    {
-      "title": "ひとり会社が、AIと二人でISMSを取った話｜村山毅 Tim",
-      "url": "https://note.com/timtarou/n/n5443f159e7bc",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-19T14:05:36+00:00",
-      "fetched_at": "2026-10-19T19:14:15+00:00",
-      "summary": "2026年7月9日付で、ISMS（ISO/IEC 27001:2022）の認証を取得しました。登録番号は 50301853 ISMS22 です。 コンサルには頼んでいません。ISMS専用のSaaSも使っていません。設立1年目のひとり会社が、AI社員と二人三脚で、マネジメントシステムそのものを自社で作りました。 構築にかかった実質工数は約3日、審査対応は別...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "90bf4041c3a6975164a9"
+      "id": "8dc2384e9823498505e5"
     }
   ],
   "source_errors": [],

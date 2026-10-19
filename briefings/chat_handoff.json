@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-19T19:14:48+00:00",
+  "generated_at": "2026-10-19T19:25:38+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "new_relevant_findings": 1,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
     "medium": 25,
-    "observe": 60
+    "observe": 61
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "M 5.7 - 203 km WNW of Port-Olry, Vanuatu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-19T19:21:29.999+00:00",
+      "relevance_score": 13,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ge",
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-19 18:55:37 UTC 2026-10-19 18:55:37 UTC at epicenter Location 14.027°S 165.497°E Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
       "title": "M 5.9 - 185 km NW of Port-Olry, Vanuatu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260092.en.html",
       "summary": "Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "section": "observe"
-    },
-    {
-      "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-19T10:29:09+00:00",
-      "relevance_score": 12,
-      "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
-      "summary": "Starting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As… The post CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 appeared first on The GitHu…",
       "section": "observe"
     }
   ],

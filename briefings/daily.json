@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T19:14:50+00:00",
-  "today_file_total": 85,
+  "generated_at": "2026-10-19T19:25:40+00:00",
+  "today_file_total": 86,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -136,51 +136,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:continue-github-copilot-app-session-code",
-      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "key": "earthquake:m 5.7 - 203 km wnw of port-olry, vanuatu:5.7",
+      "title": "M 5.7 - 203 km WNW of Port-Olry, Vanuatu",
       "sources": [
-        "GitHub Blog Atom"
+        "USGS M4.5+ Earthquakes Past Hour"
       ],
       "source_classes": [
-        "tier3_specialist"
+        "tier1_official"
       ],
       "urls": [
-        "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ge"
       ],
       "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.05,
+      "max_score": 13,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 20.1,
+      "network_score": 18.7,
       "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:note.com",
-      "title": "Claude Codeに全部任せて開発してたエンジニアの末路、1〜2ヶ月後ガチで地獄ですよ｜ゆうき｜月収100万円超エンジニアを多数輩出",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://note.com/yukiedu/n/n4d25f5e1d590",
-        "https://note.com/timtarou/n/n5443f159e7bc"
-      ],
-      "finding_count": 2,
-      "max_score": 11,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 18.2,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:exit-window-wide-open-southeast-asia-isn-standing",
@@ -254,6 +232,29 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:continue-github-copilot-app-session-code",
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "sources": [
+        "GitHub Blog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:will-upcoming-federal-reserve-meeting-crush-bullish-push",
@@ -352,29 +353,28 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "earthquake:m 5.7 - 198 km nw of port-olry, vanuatu:5.7",
-      "title": "M 5.7 - 198 km NW of Port-Olry, Vanuatu",
+      "key": "domain:note.com",
+      "title": "Claude Codeに全部任せて開発してたエンジニアの末路、1〜2ヶ月後ガチで地獄ですよ｜ゆうき｜月収100万円超エンジニアを多数輩出",
       "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
-        "tier1_official"
+        "tier3_specialist"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga"
+        "https://note.com/yukiedu/n/n4d25f5e1d590",
+        "https://note.com/timtarou/n/n5443f159e7bc"
       ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
+      "finding_count": 2,
+      "max_score": 11,
+      "credibility_total": 2.1,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.2,
       "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:codeql-changes-macos-xcode-swift",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:14:50+00:00",
+  "generated_at": "2026-10-19T19:25:40+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, No people affected in 100km.",
+        "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, No people affected in 100km.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572618",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI&gt;=III.",
         "summary": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI&gt;=III.",
         "source": "GDACS",
@@ -95,14 +105,29 @@
       {
         "domain": "security",
         "severity": "watch",
+        "title": "USGS earthquake M5.7 - 203 km WNW of Port-Olry, Vanuatu",
+        "summary": "M5.7 - 203 km WNW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ge",
+        "published_at": "2026-10-19T18:55:37+00:00",
+        "metrics": {
+          "mag": 5.7,
+          "alert": "green",
+          "sig": 500.0,
+          "tsunami": 0
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
         "title": "USGS earthquake M5.7 - 198 km NW of Port-Olry, Vanuatu",
-        "summary": "M5.7 - 198 km NW of Port-Olry, Vanuatu. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.7 - 198 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga",
         "published_at": "2026-10-19T18:52:36+00:00",
         "metrics": {
           "mag": 5.7,
-          "alert": "",
+          "alert": "green",
           "sig": 500.0,
           "tsunami": 0
         }

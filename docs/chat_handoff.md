@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-19T19:14:48+00:00_
+_Generated: 2026-10-19T19:25:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `85`
+- findings: `86`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-19T19:14:48+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3911
 - summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Ubiquiti UniFi Protect AI Key ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebige Betriebssystembefehle auszuführen, vertrauliche Informationen auszulesen, Dateien zu manipulieren oder…
 
-### 5. M 5.9 - 185 km NW of Port-Olry, Vanuatu
+### 5. M 5.7 - 203 km WNW of Port-Olry, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-19T19:21:29.999+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ge
+- summary: PAGER - GREEN ShakeMap - I Time 2026-10-19 18:55:37 UTC 2026-10-19 18:55:37 UTC at epicenter Location 14.027°S 165.497°E Depth 10.00 km (6.21 mi)
+
+### 6. M 5.9 - 185 km NW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-19T08:15:05.817+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-10-19 07:49:04 UTC 2026-10-19 07:49:04 UTC at epicenter Location 14.026°S 165.705°E Depth 10.00 km (6.21 mi)
 
-### 6. Monetary policy in testing times - power politics and AI
+### 7. Monetary policy in testing times - power politics and AI
 - source: BIS Central Bankers Speeches
 - score: `13`
 - published: `2026-10-19T00:00:00+00:00`
 - url: https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai
 - summary: Introductory remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the Citi Macro Forum, Bangkok, 14 October 2026.
 
-### 7. Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30
+### 8. Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-10-19T14:40:22+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260092.en.html
 - summary: Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30
-
-### 8. CodeQL changes for macOS 27, Xcode 27, and Swift 6.4
-- source: GitHub Changelog Atom
-- score: `12`
-- published: `2026-10-19T10:29:09+00:00`
-- url: https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4
-- summary: Starting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As… The post CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 appeared first on The GitHu…
 
 END OF DOCUMENT
