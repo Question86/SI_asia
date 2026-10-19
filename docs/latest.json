@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T18:27:17+00:00",
-  "run_id": "2026-10-19T18:27:17+00:00",
+  "generated_at": "2026-10-19T18:45:31+00:00",
+  "run_id": "2026-10-19T18:45:31+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 81
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
     "medium": 24,
-    "observe": 57,
+    "observe": 58,
     "source_errors": 0
   },
   "sections": {
@@ -1086,6 +1086,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4029dcd2b673f2c6ecce"
+      },
+      {
+        "title": "M 4.8 - 88 km WNW of Hihifo, Tonga",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3g6",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-19T18:43:55.040+00:00",
+        "fetched_at": "2026-10-19T18:45:01+00:00",
+        "summary": "Time 2026-10-19 18:27:46 UTC 2026-10-19 18:27:46 UTC at epicenter Location 15.673°S 174.570°W Depth 156.80 km (97.43 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "c23224e2b53cb413c883"
       },
       {
         "title": "M 5.1 - South Sandwich Islands region",
@@ -3188,6 +3224,42 @@
       "id": "4029dcd2b673f2c6ecce"
     },
     {
+      "title": "M 4.8 - 88 km WNW of Hihifo, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3g6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-19T18:43:55.040+00:00",
+      "fetched_at": "2026-10-19T18:45:01+00:00",
+      "summary": "Time 2026-10-19 18:27:46 UTC 2026-10-19 18:27:46 UTC at epicenter Location 15.673°S 174.570°W Depth 156.80 km (97.43 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c23224e2b53cb413c883"
+    },
+    {
       "title": "M 5.1 - South Sandwich Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ft",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4231,13 +4303,13 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.1 - South Sandwich Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ft",
+      "title": "M 4.8 - 88 km WNW of Hihifo, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3g6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-19T18:01:47.040+00:00",
-      "fetched_at": "2026-10-19T18:26:47+00:00",
-      "summary": "Time 2026-10-19 17:45:50 UTC 2026-10-19 17:45:50 UTC at epicenter Location 56.354°S 27.085°W Depth 101.46 km (63.05 mi)",
+      "published_at": "2026-10-19T18:43:55.040+00:00",
+      "fetched_at": "2026-10-19T18:45:01+00:00",
+      "summary": "Time 2026-10-19 18:27:46 UTC 2026-10-19 18:27:46 UTC at epicenter Location 15.673°S 174.570°W Depth 156.80 km (97.43 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -4264,7 +4336,7 @@
         "HD",
         "LOW"
       ],
-      "id": "f9a17dc1b6283496d58b"
+      "id": "c23224e2b53cb413c883"
     }
   ],
   "source_errors": [],
