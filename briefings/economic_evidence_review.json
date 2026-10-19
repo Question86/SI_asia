@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T06:25:49+00:00",
+  "generated_at": "2026-10-19T07:06:07+00:00",
   "fx_as_of": null,
   "candidate_count": 2059,
   "promoted_count": 0,
@@ -1426,6 +1426,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.8,
       "candidate_id": "cand_439ba8035631039c599a",
+      "component_confidence": 0.55,
       "component_suggestion": "capital_allocation",
       "conversion_status": "missing_rate",
       "currency": "EUR",
@@ -1436,8 +1437,7 @@
       "review_status": "pending",
       "snippet": "B Blog , 2 October. While estimates vary, they all point to very substantial investment needs. The European Commission estimates additional green investment requirements of around €477 billion per year until 2030. ECB analysis points to additional annual green investment needs of around 2.7% to 3.7% of EU GDP through 2030, based on a range of studies from several instit",
       "source_priority": "primary_hint",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-      "component_confidence": 0.55
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html"
     },
     {
       "amount_native": 6400000000000.0,
@@ -7602,6 +7602,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.6,
       "candidate_id": "cand_df363751be302a6ff46f",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "missing_rate",
       "currency": "EUR",
@@ -7612,8 +7613,7 @@
       "review_status": "pending",
       "snippet": "ed-stained banknotes Environment, health and safety Product environmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuani",
       "source_priority": "primary_hint",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-      "component_confidence": 0.0
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html"
     },
     {
       "amount_native": 1.0,
@@ -7621,6 +7621,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.6,
       "candidate_id": "cand_dd9da7d9d8e84a7cc5df",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "missing_rate",
       "currency": "EUR",
@@ -7631,8 +7632,7 @@
       "review_status": "pending",
       "snippet": "stained banknotes Environment, health and safety Product environmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2",
       "source_priority": "primary_hint",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-      "component_confidence": 0.0
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html"
     },
     {
       "amount_native": 2.0,
@@ -7640,6 +7640,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.6,
       "candidate_id": "cand_71fc4569ff7859a51de7",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "missing_rate",
       "currency": "EUR",
@@ -7650,8 +7651,7 @@
       "review_status": "pending",
       "snippet": "ronmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2015) Latvia (2014) Estonia (2011) Slovakia (2009) Cyprus (200",
       "source_priority": "primary_hint",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-      "component_confidence": 0.0
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html"
     },
     {
       "amount_native": 47600000000000.0,
@@ -24627,20 +24627,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_3c9b0f9969359c75cd3d",
+      "component_confidence": 0.55,
       "component_suggestion": "capital_allocation",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_c878a81c60497e5751ff",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-10-19T06:25:35+00:00",
       "overlap_group_suggestion": "evt_c878a81c60497e5751ff:capital_allocation:16a051a7b684",
       "review_status": "pending",
       "snippet": "data Defi E-Commerce Hardware Retail Artificial Intelligence Cryptocurrency Education Healthtech Software As A Service View all Startups --> POSTS STARTUPS Tech Innovators secured $50 million in funding from Venture Capitalist Alpha, paving the way for groundbreaking advancements in artificial intelligence. Discover the power of AI in transforming your daily tasks! Wit",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/",
-      "component_confidence": 0.55,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/"
     },
     {
       "amount_native": 50000000.0,
@@ -24648,20 +24648,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_9935c58785d17cf61917",
+      "component_confidence": 0.55,
       "component_suggestion": "capital_allocation",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_c878a81c60497e5751ff",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-10-19T06:25:35+00:00",
       "overlap_group_suggestion": "evt_c878a81c60497e5751ff:capital_allocation:f3a8ffe32888",
       "review_status": "pending",
       "snippet": "cial intelligence. Discover the power of AI in transforming your daily tasks! With intelligent algorithms, we enhance productivity and streamline workflows. AI Innovations Secures $50 Million in Funding from Visionary Investor Experience the future with AI-driven solutions that simplify complex processes and boost efficiency in your work environment. View all Posts Xam",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/",
-      "component_confidence": 0.55,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/"
     },
     {
       "amount_native": 44000000.0,
