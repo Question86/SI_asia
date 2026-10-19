@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T04:44:05+00:00",
+  "generated_at": "2026-10-19T04:58:21+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 12,
@@ -51,44 +51,6 @@
       "first_seen_at": "2026-10-19T01:21:18+00:00"
     },
     {
-      "key": "domain:aws.amazon.com",
-      "title": "AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 | Amazon Web Services",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 17.09,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 15.1,
-      "ranking_score": 17.09,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 3.09,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-13T04:45:41+00:00"
-    },
-    {
       "key": "title:vocaloid6-editor",
       "title": "ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性",
       "sources": [
@@ -125,6 +87,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-19T01:21:18+00:00"
+    },
+    {
+      "key": "domain:aws.amazon.com",
+      "title": "AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 | Amazon Web Services",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.33,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.1,
+      "ranking_score": 13.33,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.83,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-13T04:45:41+00:00"
     },
     {
       "key": "title:gen-bringing-its-own-work-singapore-smes-need",
@@ -471,7 +471,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-19T04:44:06Z",
+    "generated_at": "2026-10-19T04:58:21Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
