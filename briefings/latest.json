@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T13:52:02+00:00",
-  "run_id": "2026-10-19T13:52:02+00:00",
+  "generated_at": "2026-10-19T14:36:46+00:00",
+  "run_id": "2026-10-19T14:36:46+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 67
+      "configured_public_sources_only": 69
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 67,
-    "displayed_findings": 67,
+    "today_file_total": 69,
+    "displayed_findings": 69,
     "high": 0,
     "medium": 23,
-    "observe": 44,
+    "observe": 46,
     "source_errors": 0
   },
   "sections": {
@@ -843,6 +843,28 @@
         "id": "404b0818468e501e422a"
       },
       {
+        "title": "Claude Codeに全部任せて開発してたエンジニアの末路、1〜2ヶ月後ガチで地獄ですよ｜ゆうき｜月収100万円超エンジニアを多数輩出",
+        "url": "https://note.com/yukiedu/n/n4d25f5e1d590",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-19T08:46:35+00:00",
+        "fetched_at": "2026-10-19T14:36:11+00:00",
+        "summary": "Claude Codeに、全部任せて開発してる現場。 めっちゃ多いんですけど。 1〜2ヶ月後、ガチで地獄になるの、知ってます? 今、現場でリアルに起きてる現象なんですよ。 「検索機能、作って」 Claude Codeに、ポンって投げる。 バーって、コード出てくる。 動く。 「お、いけたな」って、マージ。 これ、現代エンジニアの開...",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d119af734d863c2e2697"
+      },
+      {
         "title": "相次ぐ不正アクセスの攻撃元の多くがAIであることを確認 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ",
         "url": "https://gmo-cybersecurity.com/blog/20261019/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1518,6 +1540,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "48c275ea0b1f31f7bf92"
+      },
+      {
+        "title": "Remarks on the panel topic “Paths to prosperity - forging growth, trade and investment between Europe and Asia”",
+        "url": "https://www.bis.org/speeches/20261019-remarks-panel-topic-paths-prosperity-forging-growth-trade-and-investment-between-europe-and-asia",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "fetched_at": "2026-10-19T14:36:11+00:00",
+        "summary": "Remarks by Dr Joachim Nagel, President of the Deutsche Bundesbank, on the panel topic “Paths to prosperity - forging growth, trade and investment between Europe and Asia”, at the DZ Bank Lunch Reception, Bangkok, 17 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "95449c05680ec4c748c6"
       },
       {
         "title": "Partnerships for prosperity - unlocking regional potential",
@@ -2561,6 +2603,28 @@
       "id": "404b0818468e501e422a"
     },
     {
+      "title": "Claude Codeに全部任せて開発してたエンジニアの末路、1〜2ヶ月後ガチで地獄ですよ｜ゆうき｜月収100万円超エンジニアを多数輩出",
+      "url": "https://note.com/yukiedu/n/n4d25f5e1d590",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-19T08:46:35+00:00",
+      "fetched_at": "2026-10-19T14:36:11+00:00",
+      "summary": "Claude Codeに、全部任せて開発してる現場。 めっちゃ多いんですけど。 1〜2ヶ月後、ガチで地獄になるの、知ってます? 今、現場でリアルに起きてる現象なんですよ。 「検索機能、作って」 Claude Codeに、ポンって投げる。 バーって、コード出てくる。 動く。 「お、いけたな」って、マージ。 これ、現代エンジニアの開...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d119af734d863c2e2697"
+    },
+    {
       "title": "相次ぐ不正アクセスの攻撃元の多くがAIであることを確認 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ",
       "url": "https://gmo-cybersecurity.com/blog/20261019/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3238,6 +3302,26 @@
       "id": "48c275ea0b1f31f7bf92"
     },
     {
+      "title": "Remarks on the panel topic “Paths to prosperity - forging growth, trade and investment between Europe and Asia”",
+      "url": "https://www.bis.org/speeches/20261019-remarks-panel-topic-paths-prosperity-forging-growth-trade-and-investment-between-europe-and-asia",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-19T14:36:11+00:00",
+      "summary": "Remarks by Dr Joachim Nagel, President of the Deutsche Bundesbank, on the panel topic “Paths to prosperity - forging growth, trade and investment between Europe and Asia”, at the DZ Bank Lunch Reception, Bangkok, 17 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "95449c05680ec4c748c6"
+    },
+    {
       "title": "Partnerships for prosperity - unlocking regional potential",
       "url": "https://www.bis.org/speeches/20261016-partnerships-prosperity-unlocking-regional-potential",
       "source": "BIS Central Bankers Speeches",
@@ -3467,47 +3551,46 @@
   ],
   "new_findings": [
     {
-      "title": "Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260092.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-10-19T14:40:22+00:00",
-      "fetched_at": "2026-10-19T13:51:33+00:00",
-      "summary": "Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "349c7787c9856f353dc5"
-    },
-    {
-      "title": "デジタル庁、Androidのマイナカード対応機種を公開",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2149346.html",
+      "title": "Claude Codeに全部任せて開発してたエンジニアの末路、1〜2ヶ月後ガチで地獄ですよ｜ゆうき｜月収100万円超エンジニアを多数輩出",
+      "url": "https://note.com/yukiedu/n/n4d25f5e1d590",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-19T09:08:25+00:00",
-      "fetched_at": "2026-10-19T13:51:33+00:00",
-      "summary": "デジタル庁、Androidのマイナカード対応機種を公開",
+      "published_at": "2026-10-19T08:46:35+00:00",
+      "fetched_at": "2026-10-19T14:36:11+00:00",
+      "summary": "Claude Codeに、全部任せて開発してる現場。 めっちゃ多いんですけど。 1〜2ヶ月後、ガチで地獄になるの、知ってます? 今、現場でリアルに起きてる現象なんですよ。 「検索機能、作って」 Claude Codeに、ポンって投げる。 バーって、コード出てくる。 動く。 「お、いけたな」って、マージ。 これ、現代エンジニアの開...",
       "matched_keywords": [
+        "AI Agents",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "93152c18a1a36ece45fd"
+      "id": "d119af734d863c2e2697"
+    },
+    {
+      "title": "Remarks on the panel topic “Paths to prosperity - forging growth, trade and investment between Europe and Asia”",
+      "url": "https://www.bis.org/speeches/20261019-remarks-panel-topic-paths-prosperity-forging-growth-trade-and-investment-between-europe-and-asia",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-19T14:36:11+00:00",
+      "summary": "Remarks by Dr Joachim Nagel, President of the Deutsche Bundesbank, on the panel topic “Paths to prosperity - forging growth, trade and investment between Europe and Asia”, at the DZ Bank Lunch Reception, Bangkok, 17 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "95449c05680ec4c748c6"
     }
   ],
   "source_errors": [],
