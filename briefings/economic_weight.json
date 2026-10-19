@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T12:34:06+00:00",
+  "generated_at": "2026-10-19T12:57:36+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -88,7 +88,7 @@
       "p90_usd": 1160000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T05:15:33+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -1648,7 +1648,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -1818,7 +1818,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T07:58:33+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -2107,7 +2107,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-19T08:34:10+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -2702,7 +2702,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-19T11:30:15+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -8367,6 +8367,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f324d7fcb944adfc7554",
+      "title": "M 4.8 - 212 km WNW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_f327f4cb37c754613485",
       "title": "M 5.0 - 78 km ENE of Tadine, New Caledonia",
       "event_classes": [
@@ -8656,23 +8673,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_f324d7fcb944adfc7554",
-      "title": "M 4.8 - 212 km WNW of Port-Olry, Vanuatu",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-19T12:33:46+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -8686,7 +8686,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -9587,7 +9587,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T01:21:18+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -10471,7 +10471,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -11134,7 +11134,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T01:21:18+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -12341,7 +12341,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T09:54:59+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -13514,7 +13514,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T10:23:36+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -14942,7 +14942,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -15032,6 +15032,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b6a55ff43e561e1854a6",
+      "title": "GPT-4o級モデルが自宅のPCで動いた！ ローカルAIの常識を変える「Strata」 (1/5)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_b829f0ea9ec991d5011b",
       "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開",
       "event_classes": [
@@ -15096,7 +15113,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T06:25:15+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -15147,7 +15164,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T10:49:44+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -15336,23 +15353,6 @@
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_b6a55ff43e561e1854a6",
-      "title": "GPT-4o級モデルが自宅のPCで動いた！ ローカルAIの常識を変える「Strata」 (1/5)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-19T12:33:46+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017a730364c807861d1b",
@@ -16456,7 +16456,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -16645,6 +16645,23 @@
       "first_seen_at": "2026-09-08T05:58:24+00:00",
       "last_seen_at": "2026-09-08T22:21:16+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_2e316de398401ba2badd",
+      "title": "相次ぐ不正アクセスの攻撃元の多くがAIであることを確認 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-19T12:57:17+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -17986,7 +18003,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T02:36:14+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -18088,7 +18105,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-19T04:26:52+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
@@ -18343,7 +18360,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T04:45:41+00:00",
-      "last_seen_at": "2026-10-19T12:33:46+00:00",
+      "last_seen_at": "2026-10-19T12:57:17+00:00",
       "status": "active"
     },
     {
