@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-19T02:05:21+00:00",
-  "run_id": "2026-10-19T02:05:21+00:00",
+  "generated_at": "2026-10-19T02:36:10+00:00",
+  "run_id": "2026-10-19T02:36:10+00:00",
   "date": "2026-10-19",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 2,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 2,
-    "observe": 2,
-    "source_errors": 1
+    "observe": 4,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -88,6 +88,27 @@
     ],
     "observe": [
       {
+        "title": "Dealing with shadow AI: What companies should do instead of banning AI",
+        "url": "https://e27.co/dealing-with-shadow-ai-what-companies-should-do-instead-of-banning-ai-20261016/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-19T02:00:15+00:00",
+        "fetched_at": "2026-10-19T02:35:37+00:00",
+        "summary": "In most companies across Singapore and Thailand, the AI policy already exists: drafted, approved and circulated. And yet, somewhere in the same organisation, an employee is pasting a supplier contract into a free chatbot to summarise it before a meeting. This is known as shadow AI: employees using AI at work without company oversight, such […] The post Dealing with shadow AI: What companies should do instead of bann…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b6c2bc72e5316082e747"
+      },
+      {
         "title": "テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた - Qiita",
         "url": "https://qiita.com/ebichan_88/items/f7c44c74e437875b1399",
         "source": "Hatena Bookmark Hotentry IT",
@@ -107,6 +128,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "daaa231bb0f3360ab725"
+      },
+      {
+        "title": "SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-18T00:54:51+00:00",
+        "fetched_at": "2026-10-19T02:35:37+00:00",
+        "summary": "SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明：「エンジニアへの経歴詐称の強要」問題を機に考える（1/2 ページ） SES企業がエンジニアに経歴詐称を強いる問題が浮上する中、そもそも各社がエンジニアの技術力をどう評価し、育成しているのかは気になるところだ。だが、こうした取り組みを...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9c37e53748a86ffbb396"
       },
       {
         "title": "施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ - Findy Tech Blog",
@@ -189,6 +231,27 @@
       "id": "32c65dc2328b4f97e992"
     },
     {
+      "title": "Dealing with shadow AI: What companies should do instead of banning AI",
+      "url": "https://e27.co/dealing-with-shadow-ai-what-companies-should-do-instead-of-banning-ai-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-19T02:00:15+00:00",
+      "fetched_at": "2026-10-19T02:35:37+00:00",
+      "summary": "In most companies across Singapore and Thailand, the AI policy already exists: drafted, approved and circulated. And yet, somewhere in the same organisation, an employee is pasting a supplier contract into a free chatbot to summarise it before a meeting. This is known as shadow AI: employees using AI at work without company oversight, such […] The post Dealing with shadow AI: What companies should do instead of bann…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b6c2bc72e5316082e747"
+    },
+    {
       "title": "テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた - Qiita",
       "url": "https://qiita.com/ebichan_88/items/f7c44c74e437875b1399",
       "source": "Hatena Bookmark Hotentry IT",
@@ -208,6 +271,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "daaa231bb0f3360ab725"
+    },
+    {
+      "title": "SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-18T00:54:51+00:00",
+      "fetched_at": "2026-10-19T02:35:37+00:00",
+      "summary": "SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明：「エンジニアへの経歴詐称の強要」問題を機に考える（1/2 ページ） SES企業がエンジニアに経歴詐称を強いる問題が浮上する中、そもそも各社がエンジニアの技術力をどう評価し、育成しているのかは気になるところだ。だが、こうした取り組みを...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9c37e53748a86ffbb396"
     },
     {
       "title": "施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ - Findy Tech Blog",
@@ -231,15 +315,51 @@
       "id": "142272aaffc0585475d8"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
+      "title": "Dealing with shadow AI: What companies should do instead of banning AI",
+      "url": "https://e27.co/dealing-with-shadow-ai-what-companies-should-do-instead-of-banning-ai-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "error": "Response ended prematurely"
+      "published_at": "2026-10-19T02:00:15+00:00",
+      "fetched_at": "2026-10-19T02:35:37+00:00",
+      "summary": "In most companies across Singapore and Thailand, the AI policy already exists: drafted, approved and circulated. And yet, somewhere in the same organisation, an employee is pasting a supplier contract into a free chatbot to summarise it before a meeting. This is known as shadow AI: employees using AI at work without company oversight, such […] The post Dealing with shadow AI: What companies should do instead of bann…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b6c2bc72e5316082e747"
+    },
+    {
+      "title": "SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-18T00:54:51+00:00",
+      "fetched_at": "2026-10-19T02:35:37+00:00",
+      "summary": "SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明：「エンジニアへの経歴詐称の強要」問題を機に考える（1/2 ページ） SES企業がエンジニアに経歴詐称を強いる問題が浮上する中、そもそも各社がエンジニアの技術力をどう評価し、育成しているのかは気になるところだ。だが、こうした取り組みを...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9c37e53748a86ffbb396"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
