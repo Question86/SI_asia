@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T10:37:00+00:00_
+_Generiert: 2026-10-19T10:49:42+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
+40 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -171,6 +171,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-10-19 07:49:04 UTC 2026-10-19 07:49:04 UTC at epicenter Location 14.026°S 165.705°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **CodeQL changes for macOS 27, Xcode 27, and Swift 6.4** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-19T10:29:09+00:00`, fetched `2026-10-19T10:49:13+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: Starting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As… The post CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Points beat percentages: Why three in four Singaporeans think their spare cash is underperforming** — Score 12, observation — [Quelle](https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-19T06:00:13+00:00`, fetched `2026-10-19T06:24:45+00:00`
