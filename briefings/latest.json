@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T13:14:44+00:00",
-  "run_id": "2026-10-19T13:14:44+00:00",
+  "generated_at": "2026-10-19T13:34:29+00:00",
+  "run_id": "2026-10-19T13:34:29+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 62
+      "configured_public_sources_only": 65
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "new_relevant_findings": 3,
+    "today_file_total": 65,
+    "displayed_findings": 65,
     "high": 0,
-    "medium": 21,
-    "observe": 41,
+    "medium": 23,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -155,6 +155,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "dd5ab6311ef0a1af3cd4"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2053",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-19T13:12:36+00:00",
+        "fetched_at": "2026-10-19T13:33:57+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschriebene Auswirkungen zu erzielen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "812e6de153e56491a117"
       },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
@@ -427,6 +451,29 @@
           "EWZ"
         ],
         "id": "9ba0715616c8559feb9e"
+      },
+      {
+        "title": "[UPDATE] [hoch] WebKitGTK: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1703",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-19T13:12:35+00:00",
+        "fetched_at": "2026-10-19T13:33:57+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in WebKitGTK ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen oder andere nicht spezifizierte Angriffe durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7a0d3ef6c714933bab21"
       },
       {
         "title": "[UPDATE] [hoch] Python: Schwachstelle ermöglicht Manipulation",
@@ -1285,6 +1332,26 @@
         "id": "39f6ea0dce6a6ee87d0d"
       },
       {
+        "title": "Opening remarks - “Beyond the cycle: growth, innovation and resilience of the Chinese economy” Conference",
+        "url": "https://www.bis.org/speeches/20261019-opening-remarks-beyond-cycle-growth-innovation-and-resilience-chinese-economy-conference",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "fetched_at": "2026-10-19T13:33:57+00:00",
+        "summary": "Opening remarks by Mr Eddie Yue, Chief Executive of the Hong Kong Monetary Authority, at the 16th Annual International Conference on the Chinese Economy “Beyond the cycle: growth, innovation and resilience of the Chinese economy”, Hong Kong, 12 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5c033e3c4230ff7d748f"
+      },
+      {
         "title": "Ensuring resilience in the face of uncertainty",
         "url": "https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty",
         "source": "BIS Central Bankers Speeches",
@@ -1767,6 +1834,30 @@
       "id": "dd5ab6311ef0a1af3cd4"
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2053",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-19T13:12:36+00:00",
+      "fetched_at": "2026-10-19T13:33:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschriebene Auswirkungen zu erzielen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "812e6de153e56491a117"
+    },
+    {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2037,6 +2128,29 @@
         "EWZ"
       ],
       "id": "9ba0715616c8559feb9e"
+    },
+    {
+      "title": "[UPDATE] [hoch] WebKitGTK: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1703",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-19T13:12:35+00:00",
+      "fetched_at": "2026-10-19T13:33:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in WebKitGTK ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen oder andere nicht spezifizierte Angriffe durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7a0d3ef6c714933bab21"
     },
     {
       "title": "[UPDATE] [hoch] Python: Schwachstelle ermöglicht Manipulation",
@@ -2893,6 +3007,26 @@
       "id": "39f6ea0dce6a6ee87d0d"
     },
     {
+      "title": "Opening remarks - “Beyond the cycle: growth, innovation and resilience of the Chinese economy” Conference",
+      "url": "https://www.bis.org/speeches/20261019-opening-remarks-beyond-cycle-growth-innovation-and-resilience-chinese-economy-conference",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-19T13:33:57+00:00",
+      "summary": "Opening remarks by Mr Eddie Yue, Chief Executive of the Hong Kong Monetary Authority, at the 16th Annual International Conference on the Chinese Economy “Beyond the cycle: growth, innovation and resilience of the Chinese economy”, Hong Kong, 12 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5c033e3c4230ff7d748f"
+    },
+    {
       "title": "Ensuring resilience in the face of uncertainty",
       "url": "https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty",
       "source": "BIS Central Bankers Speeches",
@@ -3247,60 +3381,37 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Ubiquiti UniFi Protect AI Key: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3911",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2053",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-19T13:11:34+00:00",
-      "fetched_at": "2026-10-19T13:14:13+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Ubiquiti UniFi Protect AI Key ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebige Betriebssystembefehle auszuführen, vertrauliche Informationen auszulesen, Dateien zu manipulieren oder Denial-of-Service-Angriffe durchzuführen.",
+      "published_at": "2026-10-19T13:12:36+00:00",
+      "fetched_at": "2026-10-19T13:33:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschriebene Auswirkungen zu erzielen.",
       "matched_keywords": [
-        "AI/KI",
         "BSI",
         "CERT-Bund",
+        "Linux",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 17,
-      "relevance_reason": "AI/KI (+3.8); Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "dd5ab6311ef0a1af3cd4"
+      "id": "812e6de153e56491a117"
     },
     {
-      "title": "[UPDATE] [hoch] Python: Schwachstelle ermöglicht Manipulation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1280",
+      "title": "[UPDATE] [hoch] WebKitGTK: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1703",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-19T13:11:35+00:00",
-      "fetched_at": "2026-10-19T13:14:13+00:00",
-      "summary": "Ein Angreifer kann eine Schwachstelle in Python ausnutzen, um HTTP Anfragen zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "32b29c59eac362868e74"
-    },
-    {
-      "title": "[UPDATE] [hoch] Xen: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3930",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-19T13:11:34+00:00",
-      "fetched_at": "2026-10-19T13:14:13+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Xen ausnutzen, um beliebigen Code – möglicherweise sogar mit Root-Rechten – auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+      "published_at": "2026-10-19T13:12:35+00:00",
+      "fetched_at": "2026-10-19T13:33:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in WebKitGTK ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen oder andere nicht spezifizierte Angriffe durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3314,52 +3425,27 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2133acd5ff71712c4be3"
+      "id": "7a0d3ef6c714933bab21"
     },
     {
-      "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4025",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-19T13:11:33+00:00",
-      "fetched_at": "2026-10-19T13:14:13+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "572abcf7be47fe3ee2ac"
-    },
-    {
-      "title": "Monetary policy in testing times - power politics and AI",
-      "url": "https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai",
+      "title": "Opening remarks - “Beyond the cycle: growth, innovation and resilience of the Chinese economy” Conference",
+      "url": "https://www.bis.org/speeches/20261019-opening-remarks-beyond-cycle-growth-innovation-and-resilience-chinese-economy-conference",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "fetched_at": "2026-10-19T13:14:13+00:00",
-      "summary": "Introductory remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the Citi Macro Forum, Bangkok, 14 October 2026.",
+      "fetched_at": "2026-10-19T13:33:57+00:00",
+      "summary": "Opening remarks by Mr Eddie Yue, Chief Executive of the Hong Kong Monetary Authority, at the 16th Annual International Conference on the Chinese Economy “Beyond the cycle: growth, innovation and resilience of the Chinese economy”, Hong Kong, 12 October 2026.",
       "matched_keywords": [
-        "AI/KI",
-        "macro",
         "Macro/Policy"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); macro (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c4018a445258ad47962e"
+      "id": "5c033e3c4230ff7d748f"
     }
   ],
   "source_errors": [],
