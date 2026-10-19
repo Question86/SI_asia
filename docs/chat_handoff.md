@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-19T01:21:15+00:00_
+_Generated: 2026-10-19T01:46:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `4`
 
 ## Top Signals
 
@@ -28,5 +28,12 @@ _Generated: 2026-10-19T01:21:15+00:00_
 - published: `2026-10-18T10:34:03+00:00`
 - url: https://qiita.com/ebichan_88/items/f7c44c74e437875b1399
 - summary: Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?
+
+### 4. 施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ - Findy Tech Blog
+- source: Hatena Bookmark Hotentry IT
+- score: `4`
+- published: `2026-10-16T03:30:41+00:00`
+- url: https://tech.findy.co.jp/entry/2026/10/16/120000
+- summary: こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要素ごとに役...
 
 END OF DOCUMENT
