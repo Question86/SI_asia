@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-19T20:37:31+00:00",
+  "generated_at": "2026-10-19T20:48:46+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-10-19T10:00:00+00:00",
         "relevance_score": 22,
         "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "title": "JP Incident Monitor",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-19T12:32:44+00:00",
+        "relevance_score": 21,
+        "url": "https://elkentaro.github.io/jp_incidents/"
       },
       {
         "title": "Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust",
@@ -66,16 +73,88 @@
         "published_at": "2026-10-14T00:00:00+00:00",
         "relevance_score": 12,
         "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1306/"
+      }
+    ],
+    "security": [
+      {
+        "title": "JP Incident Monitor",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-19T12:32:44+00:00",
+        "relevance_score": 21,
+        "url": "https://elkentaro.github.io/jp_incidents/"
       },
       {
-        "title": "相次ぐ不正アクセスの攻撃元の多くがAIであることを確認 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-19T07:45:02+00:00",
-        "relevance_score": 11,
-        "url": "https://gmo-cybersecurity.com/blog/20261019/"
+        "title": "[UPDATE] [hoch] Ubiquiti UniFi Protect AI Key: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-19T13:11:34+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3911"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-19T13:12:36+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2053"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-19T11:05:08+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-19T11:05:08+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3804"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-19T11:05:08+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3951"
+      },
+      {
+        "title": "The AI exit window is wide open. Southeast Asia isn’t standing anywhere near it",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-19T09:37:47+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (rpcbind): Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-19T09:15:52+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3979"
+      },
+      {
+        "title": "[UPDATE] [mittel] Fortinet FortiOS, FortiProxy und FortiSwitch: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-19T07:45:52+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096"
+      },
+      {
+        "title": "[NEU] [mittel] IBM App Connect Enterprise: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-19T15:15:55+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4027"
       }
     ],
     "github": [
+      {
+        "title": "JP Incident Monitor",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-19T12:32:44+00:00",
+        "relevance_score": 21,
+        "url": "https://elkentaro.github.io/jp_incidents/"
+      },
       {
         "title": "Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust",
         "source": "e27 Asia Startup and Tech Feed",
@@ -175,78 +254,6 @@
         "published_at": "2026-10-19T00:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.bis.org/speeches/20261019-remarks-panel-topic-paths-prosperity-forging-growth-trade-and-investment-between-europe-and-asia"
-      }
-    ],
-    "security": [
-      {
-        "title": "[UPDATE] [hoch] Ubiquiti UniFi Protect AI Key: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-19T13:11:34+00:00",
-        "relevance_score": 17,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3911"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-19T13:12:36+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2053"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-19T11:05:08+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-19T11:05:08+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3804"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-19T11:05:08+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3951"
-      },
-      {
-        "title": "The AI exit window is wide open. Southeast Asia isn’t standing anywhere near it",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-19T09:37:47+00:00",
-        "relevance_score": 16,
-        "url": "https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/"
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (rpcbind): Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-19T09:15:52+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3979"
-      },
-      {
-        "title": "[UPDATE] [mittel] Fortinet FortiOS, FortiProxy und FortiSwitch: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-19T07:45:52+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096"
-      },
-      {
-        "title": "[NEU] [mittel] IBM App Connect Enterprise: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-19T15:15:55+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4027"
-      },
-      {
-        "title": "[UPDATE] [hoch] WebKitGTK: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-19T13:12:35+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1703"
       }
     ],
     "general": [
