@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T02:54:30+00:00_
+_Generiert: 2026-10-19T03:01:37+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+7 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -41,6 +41,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0)
   - Kurz: In most companies across Singapore and Thailand, the AI policy already exists: drafted, approved and circulated. And yet, somewhere in the same organisation, an employee is pasting a supplier contract into a free chatbot to summarise it before a meeting. This is known as shadow AI: employees using AI at work without company oversight, such […] The post Dealing with shadow AI: What companies should do instead of bann…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Faster, smarter, but more fragile? Rethinking communications resilience in Southeast Asia** — Score 6, observation — [Quelle](https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-19T03:00:46+00:00`, fetched `2026-10-19T03:00:57+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: Southeast Asia has spent the past decade moving rapidly towards a more connected future. Fibre networks have replaced much of the region’s older copper infrastructure, smartphones have become the primary gateway to services, and communications, payments, government functions and commerce have increasingly shifted online. That transition has brought enormous benefits, but it has also created […] The post Faster, smar…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた - Qiita** — Score 5, observation — [Quelle](https://qiita.com/ebichan_88/items/f7c44c74e437875b1399)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

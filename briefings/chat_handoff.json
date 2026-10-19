@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-19T02:54:30+00:00",
+  "generated_at": "2026-10-19T03:01:37+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 1,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 2,
-    "observe": 4
+    "observe": 5
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,6 +45,16 @@
       "section": "observe"
     },
     {
+      "title": "Faster, smarter, but more fragile? Rethinking communications resilience in Southeast Asia",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-19T03:00:46+00:00",
+      "relevance_score": 6,
+      "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
+      "summary": "Southeast Asia has spent the past decade moving rapidly towards a more connected future. Fibre networks have replaced much of the region’s older copper infrastructure, smartphones have become the primary gateway to services, and communications, payments, gove…",
+      "section": "observe"
+    },
+    {
       "title": "テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた - Qiita",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -62,16 +72,6 @@
       "relevance_score": 5,
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html",
       "summary": "SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明：「エンジニアへの経歴詐称の強要」問題を機に考える（1/2 ページ） SES企業がエンジニアに経歴詐称を強いる問題が浮上する中、そもそも各社がエンジニアの技術力をどう評価し、育成しているのかは気になるところだ。だが、こうした取り組みを...",
-      "section": "observe"
-    },
-    {
-      "title": "施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ - Findy Tech Blog",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-16T03:30:41+00:00",
-      "relevance_score": 4,
-      "url": "https://tech.findy.co.jp/entry/2026/10/16/120000",
-      "summary": "こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要素ごとに役...",
       "section": "observe"
     }
   ],
