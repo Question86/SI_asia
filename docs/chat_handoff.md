@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-19T12:01:06+00:00_
+_Generated: 2026-10-19T12:33:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `53`
+- findings: `56`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-19T12:01:06+00:00_
 - url: https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/
 - summary: A Singaporean who will argue over a 50-cent difference in cashback at a hawker centre may have no idea what their savings account pays. New research suggests that person is the norm. Some 89 per cent of Singapore residents hold spare cash, according to a surv…
 
-### 8. M 5.0 - 31 km NW of Jiangyou, China
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-10-19T11:18:55.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c7
-- summary: Time 2026-10-19 10:57:08 UTC 2026-10-19 10:57:08 UTC at epicenter Location 31.948°N 104.458°E Depth 10.00 km (6.21 mi)
+### 8. GPT-4o級モデルが自宅のPCで動いた！ ローカルAIの常識を変える「Strata」 (1/5)
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-10-18T23:36:35+00:00`
+- url: https://ascii.jp/elem/000/004/443/4443584/
+- summary: 9月24日に一般公開された「Strata」というローカルLLM向け技術が話題沸騰中です。これまで、ローカルLLMで動かせるモデルの大きさは、使用するPCのVRAMの容量や、RAMとVRAMで共有するユニファイドメモリの容量によって決まっていました。そのため、強力な思考能力を持つローカルLLMまでは動かすことができなかったのです...
 
 END OF DOCUMENT

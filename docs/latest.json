@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T12:01:06+00:00",
-  "run_id": "2026-10-19T12:01:06+00:00",
+  "generated_at": "2026-10-19T12:33:44+00:00",
+  "run_id": "2026-10-19T12:33:44+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 53
+      "configured_public_sources_only": 56
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 53,
-    "displayed_findings": 53,
+    "new_relevant_findings": 3,
+    "today_file_total": 56,
+    "displayed_findings": 56,
     "high": 0,
-    "medium": 16,
-    "observe": 37,
+    "medium": 17,
+    "observe": 39,
     "source_errors": 0
   },
   "sections": {
@@ -286,6 +286,43 @@
           "S"
         ],
         "id": "f6b822be28118a6f998e"
+      },
+      {
+        "title": "M 4.8 - 56 km N of Ruteng, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ch",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-19T12:22:21.040+00:00",
+        "fetched_at": "2026-10-19T12:33:13+00:00",
+        "summary": "Time 2026-10-19 12:06:01 UTC 2026-10-19 12:06:01 UTC at epicenter Location 8.104°S 120.378°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "8a24ae85c1429915bc2e"
       },
       {
         "title": "M 4.9 - 54 km NE of Labuan Bajo, Indonesia",
@@ -564,6 +601,28 @@
         "id": "cd0b79a8e5500356c5fc"
       },
       {
+        "title": "GPT-4o級モデルが自宅のPCで動いた！ ローカルAIの常識を変える「Strata」 (1/5)",
+        "url": "https://ascii.jp/elem/000/004/443/4443584/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-18T23:36:35+00:00",
+        "fetched_at": "2026-10-19T12:33:13+00:00",
+        "summary": "9月24日に一般公開された「Strata」というローカルLLM向け技術が話題沸騰中です。これまで、ローカルLLMで動かせるモデルの大きさは、使用するPCのVRAMの容量や、RAMとVRAMで共有するユニファイドメモリの容量によって決まっていました。そのため、強力な思考能力を持つローカルLLMまでは動かすことができなかったのです...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ee3f285daee09f555055"
+      },
+      {
         "title": "M 5.0 - 31 km NW of Jiangyou, China",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c7",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -716,6 +775,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5fa1270355d0ab378985"
+      },
+      {
+        "title": "M 4.8 - 212 km WNW of Port-Olry, Vanuatu",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ce",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-19T12:10:09.040+00:00",
+        "fetched_at": "2026-10-19T12:33:13+00:00",
+        "summary": "Time 2026-10-19 11:52:37 UTC 2026-10-19 11:52:37 UTC at epicenter Location 13.993°S 165.419°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "70de218afa8b8170f8b2"
       },
       {
         "title": "M 5.4 - 196 km NW of Port-Olry, Vanuatu",
@@ -1666,6 +1761,43 @@
       "id": "f6b822be28118a6f998e"
     },
     {
+      "title": "M 4.8 - 56 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ch",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-19T12:22:21.040+00:00",
+      "fetched_at": "2026-10-19T12:33:13+00:00",
+      "summary": "Time 2026-10-19 12:06:01 UTC 2026-10-19 12:06:01 UTC at epicenter Location 8.104°S 120.378°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8a24ae85c1429915bc2e"
+    },
+    {
       "title": "M 4.9 - 54 km NE of Labuan Bajo, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1940,6 +2072,28 @@
       "id": "cd0b79a8e5500356c5fc"
     },
     {
+      "title": "GPT-4o級モデルが自宅のPCで動いた！ ローカルAIの常識を変える「Strata」 (1/5)",
+      "url": "https://ascii.jp/elem/000/004/443/4443584/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-18T23:36:35+00:00",
+      "fetched_at": "2026-10-19T12:33:13+00:00",
+      "summary": "9月24日に一般公開された「Strata」というローカルLLM向け技術が話題沸騰中です。これまで、ローカルLLMで動かせるモデルの大きさは、使用するPCのVRAMの容量や、RAMとVRAMで共有するユニファイドメモリの容量によって決まっていました。そのため、強力な思考能力を持つローカルLLMまでは動かすことができなかったのです...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ee3f285daee09f555055"
+    },
+    {
       "title": "M 5.0 - 31 km NW of Jiangyou, China",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2092,6 +2246,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "5fa1270355d0ab378985"
+    },
+    {
+      "title": "M 4.8 - 212 km WNW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ce",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-19T12:10:09.040+00:00",
+      "fetched_at": "2026-10-19T12:33:13+00:00",
+      "summary": "Time 2026-10-19 11:52:37 UTC 2026-10-19 11:52:37 UTC at epicenter Location 13.993°S 165.419°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "70de218afa8b8170f8b2"
     },
     {
       "title": "M 5.4 - 196 km NW of Port-Olry, Vanuatu",
@@ -2783,45 +2973,99 @@
   ],
   "new_findings": [
     {
-      "title": "The AI opportunity for Europe",
-      "url": "https://www.bis.org/speeches/20261019-ai-opportunity-europe",
-      "source": "BIS Central Bankers Speeches",
+      "title": "M 4.8 - 56 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ch",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-19T00:00:00+00:00",
-      "fetched_at": "2026-10-19T12:00:32+00:00",
-      "summary": "Dinner remarks by Philip R Lane, Member of the Executive Board of the European Central Bank, at the International AI Summit, Dublin, 13 October 2026.",
+      "published_at": "2026-10-19T12:22:21.040+00:00",
+      "fetched_at": "2026-10-19T12:33:13+00:00",
+      "summary": "Time 2026-10-19 12:06:01 UTC 2026-10-19 12:06:01 UTC at epicenter Location 8.104°S 120.378°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "AI/KI",
-        "Macro/Policy"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ff8638d456f82108db75"
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8a24ae85c1429915bc2e"
     },
     {
-      "title": "Supervisory modernisation after Silicon Valley Bank",
-      "url": "https://www.bis.org/speeches/20261019-supervisory-modernisation-after-silicon-valley-bank",
-      "source": "BIS Central Bankers Speeches",
+      "title": "GPT-4o級モデルが自宅のPCで動いた！ ローカルAIの常識を変える「Strata」 (1/5)",
+      "url": "https://ascii.jp/elem/000/004/443/4443584/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-19T00:00:00+00:00",
-      "fetched_at": "2026-10-19T12:00:32+00:00",
-      "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, 14 October 2026.",
+      "published_at": "2026-10-18T23:36:35+00:00",
+      "fetched_at": "2026-10-19T12:33:13+00:00",
+      "summary": "9月24日に一般公開された「Strata」というローカルLLM向け技術が話題沸騰中です。これまで、ローカルLLMで動かせるモデルの大きさは、使用するPCのVRAMの容量や、RAMとVRAMで共有するユニファイドメモリの容量によって決まっていました。そのため、強力な思考能力を持つローカルLLMまでは動かすことができなかったのです...",
       "matched_keywords": [
-        "Macro/Policy"
+        "Hatena",
+        "hotentry",
+        "OpenAI"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Silicon Valley, Federal Reserve (+2.0)",
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "39f6ea0dce6a6ee87d0d"
+      "id": "ee3f285daee09f555055"
+    },
+    {
+      "title": "M 4.8 - 212 km WNW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ce",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-19T12:10:09.040+00:00",
+      "fetched_at": "2026-10-19T12:33:13+00:00",
+      "summary": "Time 2026-10-19 11:52:37 UTC 2026-10-19 11:52:37 UTC at epicenter Location 13.993°S 165.419°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "70de218afa8b8170f8b2"
     }
   ],
   "source_errors": [],
