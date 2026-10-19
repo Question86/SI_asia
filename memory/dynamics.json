@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-19T12:22:33Z",
+  "generated_at": "2026-10-19T12:53:00Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
       "krass": 14,
-      "strong": 18,
-      "watch": 7
+      "strong": 19,
+      "watch": 6
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 30,
-      "watch": 8
+      "strong": 31,
+      "watch": 7
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T07:45:52+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://www.heise.de/news/Cyberangriffe-auf-Sicherheitsluecken-in-Fortinet-Produkten-und-BeyondTrust-11492254.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-19T09:25:00.000+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-19T10:00:00+09:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-19T10:49:44+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -122,7 +122,7 @@
       "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-19T10:00:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -151,7 +151,7 @@
       "url": "https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T09:37:47+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security"
@@ -178,7 +178,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3993",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -204,7 +204,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3973",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -230,7 +230,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3982",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -256,7 +256,7 @@
       "url": "https://www.bis.org/speeches/20261016-effective-supervision-through-timely-remediation",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "macro"
@@ -285,7 +285,7 @@
       "url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T06:00:13+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -311,7 +311,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T11:05:08+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -336,7 +336,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3804",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T11:05:08+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -361,7 +361,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3951",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T11:05:08+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -386,7 +386,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3979",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -411,7 +411,7 @@
       "url": "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "macro"
@@ -435,40 +435,11 @@
       "summary": "Keynote address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the INSEAD Digital Finance and Agentic AI Summit, Singapore, 9 October 2026."
     },
     {
-      "title": "Building trusted foundations for digital finance",
-      "url": "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 122.91,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 29.33,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 29.33",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 122.9d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Will developing nations be able to handle millions of AI agents?",
       "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 122.43,
+      "age_days": 122.45,
       "topics": [
         "ai"
       ],
@@ -479,15 +450,44 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 10.17,
+      "baseline_z_hint": 9.7,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 10.17",
+        "baseline z_hint 9.70",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 122.4d old signal",
+        "aging penalty -8.0 for 122.5d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Building trusted foundations for digital finance",
+      "url": "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 122.93,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 22.47,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 22.47",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 122.9d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -497,7 +497,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 51.93,
+      "age_days": 51.95,
       "topics": [
         "security"
       ],
@@ -525,7 +525,7 @@
       "url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T06:25:15+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -552,7 +552,7 @@
       "url": "https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T05:15:33+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "macro"
       ],
@@ -576,7 +576,7 @@
       "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T03:00:46+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -601,7 +601,7 @@
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-19T01:21:18+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -621,11 +621,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.8 - 56 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ch",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-19T12:22:21.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-19 12:06:01 UTC 2026-10-19 12:06:01 UTC at epicenter Location 8.104°S 120.378°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.9 - 54 km NE of Labuan Bajo, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T10:13:09.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -650,7 +675,7 @@
       "url": "https://www.bis.org/speeches/20261019-ai-opportunity-europe",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "macro"
@@ -678,7 +703,7 @@
       "url": "https://www.bis.org/speeches/20261016-partnerships-prosperity-unlocking-regional-potential",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "macro"
@@ -707,7 +732,7 @@
       "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T01:21:18+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -733,7 +758,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:15:05.817+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -758,7 +783,7 @@
       "url": "https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "macro"
@@ -786,7 +811,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:34:10+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -810,7 +835,7 @@
       "url": "https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T10:23:36+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -837,7 +862,7 @@
       "url": "https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T04:59:33+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "macro"
       ],
@@ -861,7 +886,7 @@
       "url": "https://www.heise.de/news/Cyberangriffe-auf-Sicherheitsluecken-in-Fortinet-Produkten-und-BeyondTrust-11492254.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 122.2,
+      "age_days": 122.22,
       "topics": [
         "security"
       ],
@@ -872,12 +897,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.5,
+      "baseline_z_hint": 0.47,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.50",
+        "baseline z_hint 0.47",
         "high terms: angriffe, fortinet",
         "security high-signal: angriffe, fortinet",
         "aging penalty -8.0 for 122.2d old signal",
@@ -890,7 +915,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T11:18:55.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -911,11 +936,61 @@
       "summary": "Time 2026-10-19 10:57:08 UTC 2026-10-19 10:57:08 UTC at epicenter Location 31.948°N 104.458°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.8 - 56 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ch",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-03T21:47:43+00:00",
+      "age_days": 45.63,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.69,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.08,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.08",
+        "aging penalty -8.0 for 45.6d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 5.0 - 31 km NW of Jiangyou, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c7",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-19T11:30:15+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "The AI exit window is wide open. Southeast Asia isn’t standing anywhere near it",
       "url": "https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T09:54:59+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -941,7 +1016,7 @@
       "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T01:00:24+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "macro"
@@ -968,7 +1043,7 @@
       "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-19T10:29:09+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -986,81 +1061,6 @@
         "high terms: code, 10"
       ],
       "summary": "Starting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As… The post CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 appeared first on The GitHub Blog ."
-    },
-    {
-      "title": "M 5.4 - 196 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-19T10:55:47.040+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-19 10:40:21 UTC 2026-10-19 10:40:21 UTC at epicenter Location 14.038°S 165.569°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.9 - 115 km NNW of Sola, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bz",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-19T10:17:25.040+00:00",
-      "age_days": 0.09,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-19 09:25:14 UTC 2026-10-19 09:25:14 UTC at epicenter Location 12.953°S 167.046°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.5 - 2 km W of Lunca Jariștei, Romania",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bs",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-19T09:32:07.607+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "DYFI? - III Time 2026-10-19 08:51:57 UTC 2026-10-19 08:51:57 UTC at epicenter Location 45.481°N 26.217°E Depth 124.75 km (77.52 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Fortinet FortiOS, FortiProxy und FortiSwitch: Schwachstelle ermöglicht Manipulation von Dateien” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
