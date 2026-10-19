@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T03:01:37+00:00_
+_Generiert: 2026-10-19T03:29:47+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+8 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0)
   - Kurz: In most companies across Singapore and Thailand, the AI policy already exists: drafted, approved and circulated. And yet, somewhere in the same organisation, an employee is pasting a supplier contract into a free chatbot to summarise it before a meeting. This is known as shadow AI: employees using AI at work without company oversight, such […] The post Dealing with shadow AI: What companies should do instead of bann…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから** — Score 8, observation — [Quelle](https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-19T02:34:05+00:00`, fetched `2026-10-19T03:29:14+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: フィジカルAIの脅威は「AIの反乱」ではない YouTubeで配信されていたTBSの対談番組「AI QUEST」で、参議院議員の安野貴博とAI研究者の今井翔太による議論を見ていた。 「Claude Mythos」級の高い脆弱性探索能力やサイバー攻撃能力を持つオープンウェイトモデルが急速に拡散し、従来のサイバー防衛が通用しなくなるという...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Faster, smarter, but more fragile? Rethinking communications resilience in Southeast Asia** — Score 6, observation — [Quelle](https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-19T03:00:46+00:00`, fetched `2026-10-19T03:00:57+00:00`
@@ -113,15 +122,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明：「エンジニアへの経歴詐称の強要」問題を機に考える（1/2 ページ） SES企業がエンジニアに経歴詐称を強いる問題が浮上する中、そもそも各社がエンジニアの技術力をどう評価し、育成しているのかは気になるところだ。だが、こうした取り組みを...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ - Findy Tech Blog** — Score 4, observation — [Quelle](https://tech.findy.co.jp/entry/2026/10/16/120000)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-16T03:30:41+00:00`, fetched `2026-10-19T01:46:05+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0)
-  - Kurz: こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要素ごとに役...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

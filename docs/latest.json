@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T03:01:37+00:00",
-  "run_id": "2026-10-19T03:01:37+00:00",
+  "generated_at": "2026-10-19T03:29:47+00:00",
+  "run_id": "2026-10-19T03:29:47+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 7
+      "configured_public_sources_only": 8
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 2,
-    "observe": 5,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
@@ -107,6 +107,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b6c2bc72e5316082e747"
+      },
+      {
+        "title": "AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから",
+        "url": "https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-19T02:34:05+00:00",
+        "fetched_at": "2026-10-19T03:29:14+00:00",
+        "summary": "フィジカルAIの脅威は「AIの反乱」ではない YouTubeで配信されていたTBSの対談番組「AI QUEST」で、参議院議員の安野貴博とAI研究者の今井翔太による議論を見ていた。 「Claude Mythos」級の高い脆弱性探索能力やサイバー攻撃能力を持つオープンウェイトモデルが急速に拡散し、従来のサイバー防衛が通用しなくなるという...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1d8c413c2c447fbce3a3"
       },
       {
         "title": "Faster, smarter, but more fragile? Rethinking communications resilience in Southeast Asia",
@@ -273,6 +295,28 @@
       "id": "b6c2bc72e5316082e747"
     },
     {
+      "title": "AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから",
+      "url": "https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-19T02:34:05+00:00",
+      "fetched_at": "2026-10-19T03:29:14+00:00",
+      "summary": "フィジカルAIの脅威は「AIの反乱」ではない YouTubeで配信されていたTBSの対談番組「AI QUEST」で、参議院議員の安野貴博とAI研究者の今井翔太による議論を見ていた。 「Claude Mythos」級の高い脆弱性探索能力やサイバー攻撃能力を持つオープンウェイトモデルが急速に拡散し、従来のサイバー防衛が通用しなくなるという...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1d8c413c2c447fbce3a3"
+    },
+    {
       "title": "Faster, smarter, but more fragile? Rethinking communications resilience in Southeast Asia",
       "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -359,25 +403,26 @@
   ],
   "new_findings": [
     {
-      "title": "Faster, smarter, but more fragile? Rethinking communications resilience in Southeast Asia",
-      "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから",
+      "url": "https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-19T03:00:46+00:00",
-      "fetched_at": "2026-10-19T03:00:57+00:00",
-      "summary": "Southeast Asia has spent the past decade moving rapidly towards a more connected future. Fibre networks have replaced much of the region’s older copper infrastructure, smartphones have become the primary gateway to services, and communications, payments, government functions and commerce have increasingly shifted online. That transition has brought enormous benefits, but it has also created […] The post Faster, smar…",
+      "published_at": "2026-10-19T02:34:05+00:00",
+      "fetched_at": "2026-10-19T03:29:14+00:00",
+      "summary": "フィジカルAIの脅威は「AIの反乱」ではない YouTubeで配信されていたTBSの対談番組「AI QUEST」で、参議院議員の安野貴博とAI研究者の今井翔太による議論を見ていた。 「Claude Mythos」級の高い脆弱性探索能力やサイバー攻撃能力を持つオープンウェイトモデルが急速に拡散し、従来のサイバー防衛が通用しなくなるという...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
+        "AI/KI",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "48c275ea0b1f31f7bf92"
+      "id": "1d8c413c2c447fbce3a3"
     }
   ],
   "source_errors": [],
