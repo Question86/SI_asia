@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19T01:46:37+00:00",
-  "run_id": "2026-10-19T01:46:37+00:00",
+  "generated_at": "2026-10-19T02:05:21+00:00",
+  "run_id": "2026-10-19T02:05:21+00:00",
   "date": "2026-10-19",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 4
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 4,
     "displayed_findings": 4,
     "high": 0,
     "medium": 2,
     "observe": 2,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -231,30 +231,15 @@
       "id": "142272aaffc0585475d8"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ - Findy Tech Blog",
-      "url": "https://tech.findy.co.jp/entry/2026/10/16/120000",
-      "source": "Hatena Bookmark Hotentry IT",
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-16T03:30:41+00:00",
-      "fetched_at": "2026-10-19T01:46:05+00:00",
-      "summary": "こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要素ごとに役...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "142272aaffc0585475d8"
+      "error": "Response ended prematurely"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

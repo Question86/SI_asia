@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-19T01:46:40+00:00_
+_Generiert: 2026-10-19T02:05:24+00:00_
 
 ## Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust
 

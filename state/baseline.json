@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T01:46:40+00:00",
+  "generated_at": "2026-10-19T02:05:24+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3662,9 +3662,8 @@
     },
     "domain:qiita.com": {
       "title": "テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた - Qiita",
-      "updated_at": "2026-10-19T01:46:40+00:00",
+      "updated_at": "2026-10-19T02:05:24+00:00",
       "network_scores": [
-        14.3,
         14.3,
         14.3,
         14.3,
@@ -3693,12 +3692,13 @@
         16.4,
         10.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 14.13,
+      "rolling_average": 13.89,
       "rolling_peak": 19.4,
       "last_score": 7.1,
-      "z_hint": -7.03
+      "z_hint": -6.79
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -31140,7 +31140,7 @@
     },
     "title:findy-tech-blog": {
       "title": "施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ - Findy Tech Blog",
-      "updated_at": "2026-10-19T01:46:40+00:00",
+      "updated_at": "2026-10-19T02:05:24+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -31170,13 +31170,13 @@
         7.1,
         7.1,
         7.1,
-        7.1,
-        9.1
+        9.1,
+        6.1
       ],
-      "rolling_average": 7.17,
+      "rolling_average": 7.13,
       "rolling_peak": 9.1,
-      "last_score": 9.1,
-      "z_hint": 1.93
+      "last_score": 6.1,
+      "z_hint": -1.03
     },
     "title:imax-vfx": {
       "title": "ノーラン版『オデュッセイア』は何が凄い？全編IMAXフィルム撮影とVFX裏側",
@@ -78929,27 +78929,29 @@
     },
     "title:telcos-are-racing-put-app-their-subscribers-have": {
       "title": "Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust",
-      "updated_at": "2026-10-19T01:46:40+00:00",
+      "updated_at": "2026-10-19T02:05:24+00:00",
       "network_scores": [
         25.1,
+        22.1,
         22.1
       ],
-      "rolling_average": 23.6,
+      "rolling_average": 23.1,
       "rolling_peak": 25.1,
       "last_score": 22.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:vocaloid6-editor": {
       "title": "ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性",
-      "updated_at": "2026-10-19T01:46:40+00:00",
+      "updated_at": "2026-10-19T02:05:24+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.6,
+      "rolling_average": 17.1,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     }
   }
 }
