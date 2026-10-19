@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-10-19T04:58:40+00:00`
+Generated: `2026-10-19T05:15:55+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -10,6 +10,7 @@ Generated: `2026-10-19T04:58:40+00:00`
 | mvschwarz/openrig | conflict | $122.40M | $12.24B | $1.22T | 0.31 |
 | Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software | conflict | $121.60M | $12.16B | $1.22T | 0.31 |
 | GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. | regulation, conflict | $120.00M | $12.00B | $1.20T | 0.31 |
+| Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target? | conflict | $116.00M | $11.60B | $1.16T | 0.31 |
 | Shopwareにおけるクロスサイトスクリプティングの脆弱性 | vulnerability, conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | anomalyco/opencode | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | npm extends recovery-code security holds to all accounts | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-10-19T04:58:40+00:00`
 | 一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも \| kawarimidoll.com | conflict | $109.60M | $10.96B | $1.10T | 0.31 |
 | Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert | conflict | $109.60M | $10.96B | $1.10T | 0.31 |
 | 【やじうまミニレビュー】 宇宙ヤバイ！ベランダでアンドロメダ星雲が撮れるスマート望遠鏡DWARF mini | conflict | $108.00M | $10.80B | $1.08T | 0.31 |
-| Bitcoin’s corrective pullback or the start of a deeper drop toward US$79,600? | conflict | $107.20M | $10.72B | $1.07T | 0.31 |
 
 ## Interpretation
 
