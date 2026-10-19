@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T18:46:10+00:00",
+  "generated_at": "2026-10-19T19:15:37+00:00",
   "fx_as_of": null,
-  "candidate_count": 2065,
+  "candidate_count": 2066,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2065
+    "pending": 2066
   },
   "coverage_warning": null,
   "candidates": [
@@ -1814,6 +1814,27 @@
       "snippet": "orld . The cost of accessing agents could also limit who benefits, Munga said. Though Muse can be accessed for free, many other agents are paid. Dots is available for a minimum of $100 a month. “These are costs that most Global South users may not be in a position to absorb,” she said. How would local businesses need to rewire for AI agents? Local businesses woul",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    },
+    {
+      "amount_native": 100.0,
+      "amount_usd": 100.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.63,
+      "candidate_id": "cand_bf2b6525338e3df36d09",
+      "component_suggestion": "real_resource",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_cc17b4bd401d2aacd3f1",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-19T19:15:26+00:00",
+      "overlap_group_suggestion": "evt_cc17b4bd401d2aacd3f1:real_resource:b9b95b9fb2c0",
+      "review_status": "pending",
+      "snippet": "rld . The cost of accessing agents could also limit who benefits , Munga said. Though Muse can be accessed for free, many other agents are paid. Dots is available for a minimum of $100 a month. “These are costs that most Global South users may not be in a position to absorb,” she said. How would local businesses need to rewire for AI agents? Local businesses woul",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 1000000000.0,
