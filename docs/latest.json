@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T20:48:46+00:00",
-  "run_id": "2026-10-19T20:48:46+00:00",
+  "generated_at": "2026-10-19T20:56:44+00:00",
+  "run_id": "2026-10-19T20:56:44+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 87,
     "displayed_findings": 87,
     "high": 0,
@@ -4587,33 +4587,7 @@
       "id": "142272aaffc0585475d8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "JP Incident Monitor",
-      "url": "https://elkentaro.github.io/jp_incidents/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-19T12:32:44+00:00",
-      "fetched_at": "2026-10-19T20:48:13+00:00",
-      "summary": "Cyber incidents in Japan Publicly reported cybersecurity incidents affecting Japanese organizations, collected from news, security publications, and official notices. This index is collected automatically and analyzed with AI. It may contain omissions or errors and should not be regarded as a com...",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub",
-        "Hatena",
-        "hotentry",
-        "Security"
-      ],
-      "relevance_score": 21,
-      "relevance_reason": "AI/KI (+3.0); Security (+6.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "611bf28c4099a886a80c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
