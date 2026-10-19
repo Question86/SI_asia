@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-19T14:36:49+00:00_
+_Generiert: 2026-10-19T14:50:53+00:00_
 
 ## Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30
 
-- Ranking Score: `24.84`
+- Ranking Score: `24.7`
 - Raw Network Score: `22.2`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`
