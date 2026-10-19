@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T00:55:39+00:00",
+  "generated_at": "2026-10-19T01:21:18+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3662,9 +3662,8 @@
     },
     "domain:qiita.com": {
       "title": "テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた - Qiita",
-      "updated_at": "2026-10-19T00:55:39+00:00",
+      "updated_at": "2026-10-19T01:21:18+00:00",
       "network_scores": [
-        14.3,
         14.3,
         14.3,
         14.3,
@@ -3693,12 +3692,13 @@
         16.4,
         16.4,
         16.4,
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 14.61,
+      "rolling_average": 14.37,
       "rolling_peak": 19.4,
-      "last_score": 10.1,
-      "z_hint": -4.51
+      "last_score": 7.1,
+      "z_hint": -7.27
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -78926,6 +78926,28 @@
       "rolling_peak": 14.7,
       "last_score": 11.7,
       "z_hint": -0.75
+    },
+    "title:telcos-are-racing-put-app-their-subscribers-have": {
+      "title": "Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust",
+      "updated_at": "2026-10-19T01:21:18+00:00",
+      "network_scores": [
+        25.1
+      ],
+      "rolling_average": 25.1,
+      "rolling_peak": 25.1,
+      "last_score": 25.1,
+      "z_hint": 0.0
+    },
+    "title:vocaloid6-editor": {
+      "title": "ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性",
+      "updated_at": "2026-10-19T01:21:18+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
     }
   }
 }
