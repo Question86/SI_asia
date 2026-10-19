@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T08:34:10+00:00",
-  "today_file_total": 26,
+  "generated_at": "2026-10-19T08:55:38+00:00",
+  "today_file_total": 27,
   "current_clusters": [
     {
       "key": "title:telcos-are-racing-put-app-their-subscribers-have",
@@ -24,31 +24,6 @@
       "hot": false,
       "watchgraph_modules": [
         "narrative_social_reputation"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.9 - 185 km nw of port-olry, vanuatu:5.9",
-      "title": "M 5.9 - 185 km NW of Port-Olry, Vanuatu",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 18.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
@@ -126,8 +101,8 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "earthquake:m 5.4 - 184 km wnw of port-olry, vanuatu:5.4",
-      "title": "M 5.4 - 184 km WNW of Port-Olry, Vanuatu",
+      "key": "earthquake:m 5.9 - 185 km nw of port-olry, vanuatu:5.9",
+      "title": "M 5.9 - 185 km NW of Port-Olry, Vanuatu",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -135,15 +110,15 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bi"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc"
       ],
       "finding_count": 1,
-      "max_score": 9,
+      "max_score": 13,
       "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -151,8 +126,8 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "earthquake:m 5.3 - 188 km nw of port-olry, vanuatu:5.3",
-      "title": "M 5.3 - 188 km NW of Port-Olry, Vanuatu",
+      "key": "earthquake:m 5.2 - 211 km wnw of port-olry, vanuatu:5.2",
+      "title": "M 5.2 - 211 km WNW of Port-Olry, Vanuatu",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -160,7 +135,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3be"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bk"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -266,6 +241,56 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 5.4 - 184 km wnw of port-olry, vanuatu:5.4",
+      "title": "M 5.4 - 184 km WNW of Port-Olry, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bi"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:m 5.3 - 188 km nw of port-olry, vanuatu:5.3",
+      "title": "M 5.3 - 188 km NW of Port-Olry, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3be"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 4.5 - banda sea:4.5",
@@ -449,29 +474,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/policies/mynumber/explanation",
-      "title": "マイナンバー制度における制度解説の情報連携に係る資料を更新しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/policies/mynumber/explanation"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
