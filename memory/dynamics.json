@@ -1,20 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-19T13:18:10Z",
+  "generated_at": "2026-10-19T13:47:14Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 16,
-      "strong": 22,
-      "watch": 1
+      "krass": 18,
+      "strong": 21
     },
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 35,
-      "watch": 2
+      "strong": 36,
+      "watch": 1
     }
   },
   "top_dynamics": [
@@ -23,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T07:45:52+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -48,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3930",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T13:11:34+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -73,7 +72,7 @@
       "url": "https://www.heise.de/news/Cyberangriffe-auf-Sicherheitsluecken-in-Fortinet-Produkten-und-BeyondTrust-11492254.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-19T09:25:00.000+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -98,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1280",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T13:11:35+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -122,7 +121,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4025",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T13:11:33+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -146,7 +145,7 @@
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-19T10:00:00+09:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -170,7 +169,7 @@
       "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-19T10:49:44+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -195,7 +194,7 @@
       "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-19T10:00:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -224,7 +223,7 @@
       "url": "https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T09:37:47+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security"
@@ -247,11 +246,38 @@
       "summary": "Last week, Amazon was reported to be in talks to pay around US$7 billion for Decart, a three-year-old startup valued at just under US$4 billion in May. Cohere signed a letter of intent to buy AI security startup AISLE. Prime Intellect snapped up Moondream. Bumble agreed to a US$1.3 billion take-private. And that was a…"
     },
     {
+      "title": "[UPDATE] [hoch] WebKitGTK: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1703",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-19T13:12:35+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in WebKitGTK ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen oder andere nicht spezifizierte Angriffe durchzuführen."
+    },
+    {
       "title": "[UPDATE] [mittel] Devolutions Server: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3993",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -277,7 +303,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3973",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -303,7 +329,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3982",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -329,7 +355,7 @@
       "url": "https://www.bis.org/speeches/20261016-effective-supervision-through-timely-remediation",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "ai",
         "macro"
@@ -358,7 +384,7 @@
       "url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T06:00:13+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -380,11 +406,36 @@
       "summary": "A Singaporean who will argue over a 50-cent difference in cashback at a hawker centre may have no idea what their savings account pays. New research suggests that person is the norm. Some 89 per cent of Singapore residents hold spare cash, according to a survey of 1,000 people conducted by research firm Milieu. Among…"
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2053",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-19T13:12:36+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschriebene Auswirkungen zu erzielen."
+    },
+    {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T11:05:08+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -409,7 +460,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3804",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T11:05:08+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -434,7 +485,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3951",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T11:05:08+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -459,7 +510,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3979",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -484,7 +535,7 @@
       "url": "https://gmo-cybersecurity.com/blog/20261019/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T07:45:02+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "security"
@@ -511,7 +562,7 @@
       "url": "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "ai",
         "macro"
@@ -539,7 +590,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3911",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 51.96,
+      "age_days": 51.99,
       "topics": [
         "ai",
         "security"
@@ -550,13 +601,13 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 4,
-      "baseline_z_hint": 14.22,
+      "momentum_delta": 3,
+      "baseline_z_hint": 12.46,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +4",
-        "baseline z_hint 14.22",
+        "momentum delta +3",
+        "baseline z_hint 12.46",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 52.0d old signal",
@@ -569,7 +620,7 @@
       "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 122.47,
+      "age_days": 122.49,
       "topics": [
         "ai"
       ],
@@ -580,12 +631,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.77,
+      "baseline_z_hint": 8.3,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 8.77",
+        "baseline z_hint 8.30",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 122.5d old signal",
@@ -598,7 +649,7 @@
       "url": "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 122.95,
+      "age_days": 122.97,
       "topics": [
         "general"
       ],
@@ -609,15 +660,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 25.69,
+      "baseline_z_hint": 26.69,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 25.69",
+        "baseline z_hint 26.69",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 122.9d old signal",
+        "aging penalty -8.0 for 123.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -627,7 +678,7 @@
       "url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T06:25:15+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -654,7 +705,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3911",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T13:11:34+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -681,7 +732,7 @@
       "url": "https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T05:15:33+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "macro"
       ],
@@ -705,7 +756,7 @@
       "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T03:00:46+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -730,7 +781,7 @@
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-19T01:21:18+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -754,7 +805,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ch",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T12:22:21.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -779,7 +830,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T10:13:09.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -804,7 +855,7 @@
       "url": "https://www.bis.org/speeches/20261019-ai-opportunity-europe",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "ai",
         "macro"
@@ -832,7 +883,7 @@
       "url": "https://www.bis.org/speeches/20261016-partnerships-prosperity-unlocking-regional-potential",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "ai",
         "macro"
@@ -861,7 +912,7 @@
       "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T01:21:18+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -887,7 +938,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:15:05.817+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -908,11 +959,37 @@
       "summary": "PAGER - GREEN ShakeMap - IV Time 2026-10-19 07:49:04 UTC 2026-10-19 07:49:04 UTC at epicenter Location 14.026°S 165.705°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Opening remarks - “Beyond the cycle: growth, innovation and resilience of the Chinese economy” Conference",
+      "url": "https://www.bis.org/speeches/20261019-opening-remarks-beyond-cycle-growth-innovation-and-resilience-chinese-economy-conference",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "age_days": 0.57,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10, auth",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Opening remarks by Mr Eddie Yue, Chief Executive of the Hong Kong Monetary Authority, at the 16th Annual International Conference on the Chinese Economy “Beyond the cycle: growth, innovation and resilience of the Chinese economy”, Hong Kong, 12 October 2026."
+    },
+    {
       "title": "Ensuring resilience in the face of uncertainty",
       "url": "https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "ai",
         "macro"
@@ -940,7 +1017,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:34:10+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -960,62 +1037,11 @@
       "summary": ""
     },
     {
-      "title": "仕事を進めるだけでは、仕事しか進まない。木こりのジレンマを Claude Code で解いた5ヶ月の記録 - RAKUS Developers Blog | ラクス エンジニアブログ",
-      "url": "https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-19T10:23:36+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target?",
-      "url": "https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-19T04:59:33+00:00",
-      "age_days": 0.35,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Global financial ecosystems present a fascinating landscape today, as virtual currencies are in a modest recovery phase. Bitcoin leads this upward trajectory, up 0.94 per cent over the past 24 hours. The premier cryptocurrency trades at exactly US$82,204.31. This price action slightly outperforms a broadly flat digita…"
-    },
-    {
       "title": "Cyberangriffe auf Sicherheitslücken in Fortinet-Produkten und BeyondTrust",
       "url": "https://www.heise.de/news/Cyberangriffe-auf-Sicherheitsluecken-in-Fortinet-Produkten-und-BeyondTrust-11492254.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 122.24,
+      "age_days": 122.26,
       "topics": [
         "security"
       ],
@@ -1026,43 +1052,18 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.41,
+      "baseline_z_hint": 0.38,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.41",
+        "baseline z_hint 0.38",
         "high terms: angriffe, fortinet",
         "security high-signal: angriffe, fortinet",
-        "aging penalty -8.0 for 122.2d old signal",
+        "aging penalty -8.0 for 122.3d old signal",
         "stale single-source cap after 30d: no current exploitation phrase"
       ],
       "summary": ""
-    },
-    {
-      "title": "M 5.0 - 31 km NW of Jiangyou, China",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c7",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-19T11:18:55.040+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-19 10:57:08 UTC 2026-10-19 10:57:08 UTC at epicenter Location 31.948°N 104.458°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Fortinet FortiOS, FortiProxy und FortiSwitch: Schwachstelle ermöglicht Manipulation von Dateien” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
