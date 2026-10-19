@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T04:00:48+00:00_
+_Generiert: 2026-10-19T04:26:49+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+11 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Gen Z is bringing its own AI to work. Singapore’s SMEs need rules, not bans** — Score 10, observation — [Quelle](https://e27.co/gen-z-is-bringing-its-own-ai-to-work-singapores-smes-need-rules-not-bans-20261019/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-19T04:15:09+00:00`, fetched `2026-10-19T04:26:17+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Young workers in Singapore are not waiting for their employers to roll out AI. They are already using it, often on personal devices and often without anyone watching. According to “What Gen Z Workers Want 2026”, a study commissioned by Deel and conducted with YouGov and ThinkerTank, 49 per cent of Singapore workers aged 18 […] The post Gen Z is bringing its own AI to work. Singapore’s SMEs need rules, not bans appea…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Dealing with shadow AI: What companies should do instead of banning AI** — Score 10, observation — [Quelle](https://e27.co/dealing-with-shadow-ai-what-companies-should-do-instead-of-banning-ai-20261016/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-19T02:00:15+00:00`, fetched `2026-10-19T02:35:37+00:00`
@@ -59,15 +68,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: フィジカルAIの脅威は「AIの反乱」ではない YouTubeで配信されていたTBSの対談番組「AI QUEST」で、参議院議員の安野貴博とAI研究者の今井翔太による議論を見ていた。 「Claude Mythos」級の高い脆弱性探索能力やサイバー攻撃能力を持つオープンウェイトモデルが急速に拡散し、従来のサイバー防衛が通用しなくなるという...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Faster, smarter, but more fragile? Rethinking communications resilience in Southeast Asia** — Score 6, observation — [Quelle](https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-19T03:00:46+00:00`, fetched `2026-10-19T03:00:57+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: Southeast Asia has spent the past decade moving rapidly towards a more connected future. Fibre networks have replaced much of the region’s older copper infrastructure, smartphones have become the primary gateway to services, and communications, payments, government functions and commerce have increasingly shifted online. That transition has brought enormous benefits, but it has also created […] The post Faster, smar…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた - Qiita** — Score 5, observation — [Quelle](https://qiita.com/ebichan_88/items/f7c44c74e437875b1399)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
