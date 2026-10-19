@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T07:39:29+00:00_
+_Generiert: 2026-10-19T08:00:21+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+23 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -74,6 +74,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph modules narrative_social_reputation (+3.0)
   - Kurz: At M360 ASEAN in Kuala Lumpur last week, the GSMA released its ASEAN Consumer Scam Report 2026. Nearly half of reported scam cases across six markets remain unresolved. Nearly nine in ten consumers said they had recognised AI being used in scams, from deepfakes to voice cloning. Julian Gorman, the GSMA’s head of Asia Pacific, […] The post Telcos are racing to put AI in the app. Their subscribers have already said wh…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Fortinet FortiOS, FortiProxy und FortiSwitch: Schwachstelle ermöglicht Manipulation von Dateien** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-19T07:45:52+00:00`, fetched `2026-10-19T07:59:48+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Fortinet FortiOS, Fortinet FortiProxy und Fortinet FortiSwitch ausnutzen, um Dateien zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target?** — Score 15, observation — [Quelle](https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-19T04:59:33+00:00`, fetched `2026-10-19T05:15:02+00:00`

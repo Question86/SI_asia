@@ -34,6 +34,42 @@
     "id": "7653bb2f896edce803bb"
   },
   {
+    "title": "[UPDATE] [mittel] Fortinet FortiOS, FortiProxy und FortiSwitch: Schwachstelle ermöglicht Manipulation von Dateien",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-19T07:45:52+00:00",
+    "fetched_at": "2026-10-19T07:59:48+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Fortinet FortiOS, Fortinet FortiProxy und Fortinet FortiSwitch ausnutzen, um Dateien zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: Fortinet"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "f6b822be28118a6f998e"
+  },
+  {
     "title": "Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target?",
     "url": "https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/",
     "source": "e27 Asia Startup and Tech Feed",

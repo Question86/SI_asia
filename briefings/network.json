@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19T07:39:31+00:00",
+  "generated_at": "2026-10-19T08:00:23+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 22,
-    "clusters": 22,
+    "findings": 23,
+    "clusters": 23,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 2
   },
   "clusters": [
@@ -51,42 +51,44 @@
       "first_seen_at": "2026-10-19T01:21:18+00:00"
     },
     {
-      "key": "title:points-beat-percentages-why-three-four-singaporeans-think",
-      "title": "Points beat percentages: Why three in four Singaporeans think their spare cash is underperforming",
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [mittel] Fortinet FortiOS, FortiProxy und FortiSwitch: Schwachstelle ermöglicht Manipulation von Dateien",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "BSI CERT-Bund Security Advisories"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096"
       ],
       "finding_count": 1,
-      "max_score": 12,
+      "max_score": 16,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 19.0,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.0,
       "hot": false,
-      "watchgraph_modules": [],
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 19.0,
+      "raw_network_score": 21.1,
+      "ranking_score": 20.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
+      "momentum_bonus": 2.5,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-10-19T06:25:15+00:00"
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:will-upcoming-federal-reserve-meeting-crush-bullish-push",
@@ -167,6 +169,44 @@
       "first_seen_at": "2026-10-19T01:21:18+00:00"
     },
     {
+      "key": "title:points-beat-percentages-why-three-four-singaporeans-think",
+      "title": "Points beat percentages: Why three in four Singaporeans think their spare cash is underperforming",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 13.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-19T06:25:15+00:00"
+    },
+    {
       "key": "domain:aws.amazon.com",
       "title": "AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 | Amazon Web Services",
       "sources": [
@@ -184,18 +224,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.93,
+      "network_score": 12.86,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 12.1,
-      "ranking_score": 12.93,
+      "ranking_score": 12.86,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.43,
+      "baseline_bonus": 1.36,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -203,44 +243,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-13T04:45:41+00:00"
-    },
-    {
-      "key": "domain:www.businessinsider.com",
-      "title": "パランティアのCTO曰く「多くのAI研究者が、AIへの信仰の証として喫煙を始めている」 - YAMDAS現更新履歴",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://yamdas.hatenablog.com/entry/20261019/smoking-in-silicon-valley"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 13.1,
-      "ranking_score": 12.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-19T07:39:31+00:00"
     },
     {
       "key": "title:gen-bringing-its-own-work-singapore-smes-need",
@@ -431,6 +433,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-09T08:45:54+00:00"
+    },
+    {
+      "key": "domain:www.businessinsider.com",
+      "title": "パランティアのCTO曰く「多くのAI研究者が、AIへの信仰の証として喫煙を始めている」 - YAMDAS現更新履歴",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://yamdas.hatenablog.com/entry/20261019/smoking-in-silicon-valley"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-19T07:39:31+00:00"
     },
     {
       "key": "title:singapore-employers-say-they-offer-burnout-support-half",
@@ -857,7 +897,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-19T07:39:32Z",
+    "generated_at": "2026-10-19T08:00:23Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

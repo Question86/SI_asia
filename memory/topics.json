@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-19T07:39:29+00:00",
+  "generated_at": "2026-10-19T08:00:21+00:00",
   "topics": {
     "ai": [
       {
@@ -100,6 +100,22 @@
         "url": "https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/"
       }
     ],
+    "security": [
+      {
+        "title": "[UPDATE] [mittel] Fortinet FortiOS, FortiProxy und FortiSwitch: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-19T07:45:52+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096"
+      },
+      {
+        "title": "ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-19T10:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU93520490/"
+      }
+    ],
     "geopolitics": [
       {
         "title": "Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target?",
@@ -135,15 +151,6 @@
         "published_at": "2026-10-19T03:00:46+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/"
-      }
-    ],
-    "security": [
-      {
-        "title": "ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-19T10:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU93520490/"
       }
     ],
     "general": [
