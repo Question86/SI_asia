@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-20T19:40:45Z",
+  "generated_at": "2026-10-20T19:50:59Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Snipe-IT: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4047",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:53+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4010",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:15:51+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html",
       "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 124.21,
+      "age_days": 124.22,
       "topics": [
         "general"
       ],
@@ -149,7 +149,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4051",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:53+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "security"
@@ -202,7 +202,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4018",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:15:51+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -280,7 +280,7 @@
       "url": "https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T07:49:42+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -307,7 +307,7 @@
       "url": "https://www.bis.org/speeches/20261020-economic-activity-prices-and-monetary-policy-japan",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 124.21,
+      "age_days": 124.22,
       "topics": [
         "general"
       ],
@@ -318,12 +318,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.02,
+      "baseline_z_hint": 0.29,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.02",
+        "baseline z_hint 0.29",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 124.2d old signal",
