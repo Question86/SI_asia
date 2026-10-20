@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T17:23:02+00:00",
+  "generated_at": "2026-10-20T17:35:08+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -1849,6 +1849,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_19f4cfdb835a84f2cd3c",
+      "title": "M 5.4 - 192 km S of Burica, Panama",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_1a1c74196281844197d9",
@@ -5813,13 +5824,13 @@
     {
       "event_id": "evt_4d15d468f989c3f3186d",
       "title": "GitHub package firewall in public preview",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4d28306243ebb97c0b7b",
@@ -7007,7 +7018,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5df51e3ec5bf0992380a",
@@ -16083,6 +16094,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d992926f5c1083762c28",
+      "title": "Dependabot alerts REST API now includes dependency versions",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_d9b9fa37145df8b35ea7",
