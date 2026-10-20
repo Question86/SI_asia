@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-10-20T05:58:23+00:00",
+  "generated_at": "2026-10-20T06:21:52+00:00",
   "today_file_total": 30,
   "current_clusters": [
-    {
-      "key": "github_repo:comfy-org/comfyui",
-      "title": "Comfy-Org/ComfyUI",
-      "sources": [
-        "GitHub Trending RSS All Languages Daily"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/Comfy-Org/ComfyUI"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 21.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
     {
       "key": "title:lenovo-android-verified-boot",
       "title": "複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
@@ -47,6 +24,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten."
+    },
+    {
+      "key": "github_repo:comfy-org/comfyui",
+      "title": "Comfy-Org/ComfyUI",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/Comfy-Org/ComfyUI"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 18.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:hsbc-says-will-create-jobs-southeast-asia-should",
@@ -381,29 +381,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "url:https://blog.nishimu.land/entry/2026/10/20/123916",
-      "title": "ソフトウェアの産業革命 - ちなみに",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://blog.nishimu.land/entry/2026/10/20/123916"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:consumer-still-human-gatekeeper-isn",
       "title": "The consumer is still human. The gatekeeper isn’t",
       "sources": [
@@ -460,6 +437,29 @@
       ],
       "urls": [
         "https://www.digital.go.jp/speech/minister-261020-01"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://www.digital.go.jp/policies/genai/agent-safety-standard",
+      "title": "ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/policies/genai/agent-safety-standard"
       ],
       "finding_count": 1,
       "max_score": 6,
