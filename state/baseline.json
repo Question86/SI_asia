@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T12:02:44+00:00",
+  "generated_at": "2026-10-20T12:33:26+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -910,7 +910,7 @@
     },
     "domain:www.bis.org": {
       "title": "Economic activity, prices, and monetary policy in Japan",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         42.1,
         42.1,
@@ -939,14 +939,14 @@
         42.1,
         42.1,
         42.1,
-        42.1,
         16.2,
-        37.6
+        37.6,
+        40.9
       ],
-      "rolling_average": 41.09,
+      "rolling_average": 41.05,
       "rolling_peak": 42.1,
-      "last_score": 37.6,
-      "z_hint": -3.49
+      "last_score": 40.9,
+      "z_hint": -0.15
     },
     "domain:www.federalreserve.gov": {
       "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
@@ -990,9 +990,8 @@
     },
     "domain:www.ecb.europa.eu": {
       "title": "Euro area monthly balance of payments: August 2026",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
-        22.2,
         22.2,
         22.2,
         22.2,
@@ -1021,12 +1020,13 @@
         23.2,
         23.2,
         23.2,
+        23.2,
         23.2
       ],
-      "rolling_average": 21.19,
+      "rolling_average": 21.22,
       "rolling_peak": 26.2,
       "last_score": 23.2,
-      "z_hint": 2.01
+      "z_hint": 1.98
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -1252,9 +1252,8 @@
     },
     "earthquake:alaska:5.0": {
       "title": "M 5.0 - 81 km S of Sand Point, Alaska",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
-        13.7,
         13.7,
         13.7,
         13.7,
@@ -1283,12 +1282,13 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 13.47,
+      "rolling_average": 13.4,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -1.77
+      "z_hint": -1.7
     },
     "domain:regional.kompas.com": {
       "title": "Semarang Dilanda Pemadaman Listrik Berjam - jam , Warga Mulai Borong Power Bank dan Lampu Darurat",
@@ -4321,7 +4321,7 @@
     },
     "domain:www.heise.de": {
       "title": "Werbeblocker Pi-hole: Update stopft Befehlsschmuggel-Lücke und mehr",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -4348,16 +4348,16 @@
         12.1,
         12.1,
         12.1,
-        12.1,
+        9.1,
         9.1,
         9.1,
         9.1,
         9.1
       ],
-      "rolling_average": 11.7,
+      "rolling_average": 11.6,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -2.6
+      "z_hint": -2.5
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -4661,9 +4661,8 @@
     },
     "domain:www.twcert.org": {
       "title": "亞璿資訊｜BA-Workflow 工作流程表單平台 - 存在3個漏洞",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
-        12.1,
         12.1,
         12.1,
         12.1,
@@ -4692,12 +4691,13 @@
         17.3,
         17.3,
         17.3,
+        17.3,
         17.3
       ],
-      "rolling_average": 15.0,
+      "rolling_average": 15.17,
       "rolling_peak": 26.3,
       "last_score": 17.3,
-      "z_hint": 2.3
+      "z_hint": 2.13
     },
     "cve:CVE-2025-55182": {
       "title": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
@@ -5839,9 +5839,8 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
-        48.5,
         48.5,
         48.5,
         48.5,
@@ -5870,12 +5869,13 @@
         67.1,
         54.2,
         56.3,
+        53.3,
         53.3
       ],
-      "rolling_average": 47.93,
+      "rolling_average": 48.09,
       "rolling_peak": 67.1,
       "last_score": 53.3,
-      "z_hint": 5.37
+      "z_hint": 5.21
     },
     "title:why-every-warehouse-singapore-will-run-safety-monitoring": {
       "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
@@ -6594,7 +6594,7 @@
     },
     "title:nhk": {
       "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -25104,7 +25104,7 @@
     },
     "title:android": {
       "title": "「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -30822,7 +30822,7 @@
     },
     "domain:scrapbox.io": {
       "title": "人間のAIに対する判断移譲 - 西尾泰和の外部脳",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -30847,12 +30847,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.35,
+      "rolling_average": 7.34,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.25
+      "z_hint": -0.24
     },
     "title:ceo": {
       "title": "AI開発「減速」をアンソロピックCEOが提案 アルトマン氏・マスク氏らも賛同",
@@ -40611,10 +40612,10 @@
     },
     "domain:posfie.com": {
       "title": "1か月ぐらいClaude Codeと伴走してたけどもう疲れてしまった。育てたら快適になると信じて育ててたけど、もはや健康被害が出そうなレベルで強いストレスを感じている。AI使うのやめたいです。→「ClaudCodeとAIを新入社員に読み替えてみたら分かりやすいのですが。 そのつもりで使うとまた違うんですけどね」",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
-        7.1,
         16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -40644,10 +40645,10 @@
         13.1,
         13.1
       ],
-      "rolling_average": 13.0,
+      "rolling_average": 13.2,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": 0.1
+      "z_hint": -0.1
     },
     "domain:tarosite.net": {
       "title": "iPhone Duoは重すぎる？ Pro Maxを1年使った私が気になったのは、重さよりTouch ID – @tarosite",
@@ -59748,7 +59749,7 @@
     },
     "domain:coliss.com": {
       "title": "Photoshopをオープンソースで再構築した「PhotoCraft」が日本語フォントの縦書きに対応、各ツールの使い勝手も向上",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -59762,8 +59763,8 @@
         10.1,
         10.1,
         10.1,
-        10.1,
         13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -80719,7 +80720,7 @@
     },
     "url:https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7": {
       "title": "今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -80759,7 +80760,7 @@
     },
     "url:https://www.digital.go.jp/policies/genai/agent-safety-standard": {
       "title": "ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -80799,7 +80800,7 @@
     },
     "title:apple-macbook-pro": {
       "title": "Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -80839,7 +80840,7 @@
     },
     "title:venture-funding-retreats-thailand-corporate-investors-gain-more": {
       "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -80879,7 +80880,7 @@
     },
     "title:ibrahim-arief-building-legal-startup-city-detention": {
       "title": "Ibrahim Arief is building a legal AI startup from city detention",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -80919,7 +80920,7 @@
     },
     "earthquake:m 5.0 - 205 km nw of port-olry, vanuatu:5.0": {
       "title": "M 5.0 - 205 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -80959,7 +80960,7 @@
     },
     "earthquake:m 4.5 - 156 km se of kuqa, china:4.5": {
       "title": "M 4.5 - 156 km SE of Kuqa, China",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -80999,7 +81000,7 @@
     },
     "title:cash-loans-motorbikes-salmon-bets-140m-secured-lending": {
       "title": "From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philippines",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -81039,7 +81040,7 @@
     },
     "title:every-company-grows-through-thorns-know-when-one": {
       "title": "Every company grows through thorns. Know when one has gone too deep",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         11.1,
         11.1,
@@ -81079,7 +81080,7 @@
     },
     "url:https://www.digital.go.jp/councils/ai_digital": {
       "title": "AI・デジタル改革推進会議の開催について掲載いたしました",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -81119,7 +81120,7 @@
     },
     "url:https://www.digital.go.jp/speech/minister-261020-01": {
       "title": "古川大臣記者会見（令和8年10月20日）動画を掲載しました",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -81159,7 +81160,7 @@
     },
     "title:aws-lambda-next-hono-node-aws-lambda-web": {
       "title": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -81199,9 +81200,9 @@
     },
     "title:lenovo-android-verified-boot": {
       "title": "複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
-        22.1,
+        19.1,
         19.1,
         19.1,
         19.1,
@@ -81232,16 +81233,16 @@
         19.1,
         19.1
       ],
-      "rolling_average": 19.2,
-      "rolling_peak": 22.1,
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
       "last_score": 19.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "title:unrtf": {
       "title": "UnRTFにおける境界外書き込みの脆弱性",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
-        19.1,
+        16.1,
         16.1,
         16.1,
         16.1,
@@ -81272,16 +81273,16 @@
         16.1,
         16.1
       ],
-      "rolling_average": 16.2,
-      "rolling_peak": 19.1,
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
       "last_score": 16.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "earthquake:m 5.0 - pagan region, northern mariana islands:5.0": {
       "title": "M 5.0 - Pagan region, Northern Mariana Islands",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
-        14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -81312,16 +81313,16 @@
         11.7,
         11.7
       ],
-      "rolling_average": 11.8,
-      "rolling_peak": 14.7,
+      "rolling_average": 11.7,
+      "rolling_peak": 11.7,
       "last_score": 11.7,
-      "z_hint": -0.1
+      "z_hint": 0.0
     },
     "title:use-keep-details-straight-international-partnerships": {
       "title": "How I use AI to keep the details straight in international partnerships",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
-        13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -81352,17 +81353,56 @@
         10.1,
         10.1
       ],
-      "rolling_average": 10.2,
-      "rolling_peak": 13.1,
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
       "last_score": 10.1,
-      "z_hint": -0.1
+      "z_hint": 0.0
     },
     "domain:star.hatenastaff.com": {
       "title": "「つけたスター・ついたスター」一覧の表示期間を直近3か月に変更します - はてなスター日記",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
+      "network_scores": [
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.1,
+      "rolling_peak": 7.1,
+      "last_score": 7.1,
+      "z_hint": 0.0
+    },
+    "title:betagro-takes-majority-stake-freshket-thai-corporates-tighten": {
+      "title": "Betagro takes majority stake in Freshket as Thai corporates tighten grip on startups",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         10.1,
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -81397,49 +81437,12 @@
       "last_score": 7.1,
       "z_hint": -0.1
     },
-    "title:betagro-takes-majority-stake-freshket-thai-corporates-tighten": {
-      "title": "Betagro takes majority stake in Freshket as Thai corporates tighten grip on startups",
-      "updated_at": "2026-10-20T12:02:44+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.21,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.11
-    },
     "title:consumer-still-human-gatekeeper-isn": {
       "title": "The consumer is still human. The gatekeeper isn’t",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         12.1,
+        9.1,
         9.1,
         9.1,
         9.1,
@@ -81474,9 +81477,10 @@
     },
     "title:teppay": {
       "title": "新コード決済「teppay」きょう開始 提供の狙いは？ “キャッシュレス疲れ”解消なるか",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -81511,9 +81515,10 @@
     },
     "earthquake:m 6.3 - 204 km wnw of port-olry, vanuatu:6.3": {
       "title": "M 6.3 - 204 km WNW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         18.7,
+        15.7,
         15.7,
         15.7,
         15.7,
@@ -81546,9 +81551,10 @@
     },
     "title:dvr": {
       "title": "アツミ電氣製DVRに利用可能な非公開機能を悪用される問題",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1,
         16.1,
         16.1,
@@ -81579,7 +81585,7 @@
     },
     "title:incident-monitor": {
       "title": "情報漏洩や不正アクセスのニュースばかりで訳わかんない！……っていう人に「JP Incident Monitor」／日本のサイバーインシデントを一覧、AIで分析して信頼度付きで掲載【やじうまの杜】",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -81603,16 +81609,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.23,
+      "rolling_average": 7.22,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:hsbc-says-will-create-jobs-southeast-asia-should": {
       "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         20.1,
         17.1,
@@ -81635,16 +81642,17 @@
         17.1,
         17.1,
         17.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 17.24,
+      "rolling_average": 17.23,
       "rolling_peak": 20.1,
       "last_score": 17.1,
-      "z_hint": -0.14
+      "z_hint": -0.13
     },
     "title:can-bitcoin-hold-615-support-line-brutal-liquidation": {
       "title": "Can Bitcoin hold the US$80,615 support line, or is a brutal liquidation cascade inevitable?",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -81667,18 +81675,20 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.24,
+      "rolling_average": 6.23,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.14
+      "z_hint": -0.13
     },
     "github_repo:comfy-org/comfyui": {
       "title": "Comfy-Org/ComfyUI",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -81698,14 +81708,14 @@
         18.1,
         18.1
       ],
-      "rolling_average": 18.26,
+      "rolling_average": 18.25,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "url:https://blog.nishimu.land/entry/2026/10/20/123916": {
       "title": "ソフトウェアの産業革命 - ちなみに",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -81725,16 +81735,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.26,
+      "rolling_average": 7.25,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "earthquake:m 5.3 - 209 km nw of port-olry, vanuatu:5.3": {
       "title": "M 5.3 - 209 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -81752,16 +81763,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.88,
+      "rolling_average": 11.87,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "earthquake:m 5.1 - 263 km wsw of yanglong, china:5.1": {
       "title": "M 5.1 - 263 km WSW of Yanglong, China",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -81778,16 +81790,17 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 13.89,
+      "rolling_average": 13.88,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:banks-want-agents-move-money-long-someone-accountable": {
       "title": "Banks want AI agents to move money, as long as someone is accountable",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         24.1,
         21.1,
@@ -81802,16 +81815,17 @@
         21.1,
         21.1,
         21.1,
+        21.1,
         21.1
       ],
-      "rolling_average": 21.31,
+      "rolling_average": 21.3,
       "rolling_peak": 24.1,
       "last_score": 21.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "earthquake:m 4.9 - pagan region, northern mariana islands:4.9": {
       "title": "M 4.9 - Pagan region, Northern Mariana Islands",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -81826,16 +81840,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.91,
+      "rolling_average": 11.9,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "title:what-tokyo-deep-tech-startups-learned-about-southeast": {
       "title": "What 9 Tokyo Deep Tech Startups Learned About Southeast Asia’s Appetite for Japanese Innovation",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -81850,16 +81865,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.31,
+      "rolling_average": 8.3,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "title:105": {
       "title": "「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻防、分単位で報告 防災メールのアルカディア",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -81873,16 +81889,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.33,
+      "rolling_average": 7.31,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:ecosystem-roundup-betagro-buys-control-freshket-thai-corporates": {
       "title": "Ecosystem Roundup: Betagro buys control of Freshket as Thai corporates close in",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -81894,16 +81911,17 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.37,
+      "rolling_average": 6.35,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "title:goto-27b-model-speaks-batak-but-real-test": {
       "title": "GoTo’s 27B model speaks Batak, but the real test is who can afford to run it",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         20.1,
         17.1,
@@ -81913,16 +81931,17 @@
         17.1,
         17.1,
         17.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 17.43,
+      "rolling_average": 17.4,
       "rolling_peak": 20.1,
       "last_score": 17.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "earthquake:m 4.5 - 100 km ssw of alo, wallis and futuna:4.5": {
       "title": "M 4.5 - 100 km SSW of Alo, Wallis and Futuna",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -81932,43 +81951,90 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.03,
+      "rolling_average": 12.0,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:quadro-diary": {
       "title": "生成AIの女性画像、なぜ「作り物」に見えるの?毛穴や産毛まで感じる自然な肌を目指し無料版AIの1K画像で感じた限界と、実在感のある写真への挑戦 - Quadro Diary 生成AI 過去日記",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.6,
+      "rolling_average": 7.53,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "url:https://www.digital.go.jp/policies/genai/0ef07948-2f5d-4b45-8ebe-ea974c20a3ac": {
       "title": "「自治体からの照会事務の自動化などの国・地方AI共通サービスに関する実証事業」の参加自治体（都道府県及び市区町村）を募集します",
-      "updated_at": "2026-10-20T12:02:44+00:00",
+      "updated_at": "2026-10-20T12:33:26+00:00",
       "network_scores": [
         11.1,
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.7,
+      "rolling_average": 8.6,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
+    },
+    "earthquake:m 4.9 - 184 km nw of port-olry, vanuatu:4.9": {
+      "title": "M 4.9 - 184 km NW of Port-Olry, Vanuatu",
+      "updated_at": "2026-10-20T12:33:26+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
+      "z_hint": 0.0
+    },
+    "title:vuln-rabilit-dans-zabbix-octobre-2026": {
+      "title": "Vulnérabilité dans Zabbix (14 octobre 2026)",
+      "updated_at": "2026-10-20T12:33:26+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "title:multiples-vuln-rabilit-dans-les-produits-citrix-octobre": {
+      "title": "Multiples vulnérabilités dans les produits Citrix (14 octobre 2026)",
+      "updated_at": "2026-10-20T12:33:26+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "domain:jpn.nec.com": {
+      "title": "委託先への不正アクセスに起因するお客さまのシステム障害、情報漏えいに関するお詫び",
+      "updated_at": "2026-10-20T12:33:26+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
     }
   }
 }
