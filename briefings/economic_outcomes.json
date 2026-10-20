@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T18:02:38+00:00",
+  "generated_at": "2026-10-20T18:28:55+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -7018,7 +7018,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5df51e3ec5bf0992380a",
@@ -7150,7 +7150,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5fb61bdeb3a9781c65ec",
@@ -10442,6 +10442,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_89bf0fbe6ca733110c97",
+      "title": "Updates to GitHub secret scanning",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_89e5139bb5ba0529e7cb",
       "title": "GSMA says smartphone costs could deepen the coming AI divide",
       "deduplicated_buckets": 0,
@@ -11990,7 +12001,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9ed2410de632b1cd74e7",
