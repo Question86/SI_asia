@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T19:34:46+00:00_
+_Generiert: 2026-10-20T19:45:55+00:00_
 
 ## Kurzlage
 
@@ -13,26 +13,26 @@ _Generiert: 2026-10-20T19:34:46+00:00_
   - Quelle: USGS
   - Zeit: `2026-10-20T04:20:38+00:00`
   - Kurz: M6.3 - 197 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 1.
-- **CISA KEV: CVE-2026-102764 BeyondTrust Remote Support** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+- **CISA KEV: CVE-2026-106931 EG Secure Solutions SiteGuard Server Edition** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-10-16`
-  - Kurz: Known exploited vulnerability. Added 2026-10-16. Due 2026-10-19. BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability
-- **CISA KEV: CVE-2025-61624 Fortinet Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-10-20`
+  - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-10-23. EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability
+- **CISA KEV: CVE-2026-96656 Plex Media Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-10-16`
-  - Kurz: Known exploited vulnerability. Added 2026-10-16. Due 2026-10-19. Fortinet Multiple Products Path Traversal Vulnerability
-- **CISA KEV: CVE-2026-21589 Atlassian Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-10-20`
+  - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-10-23. Plex Media Server External Control of File Name or Path Vulnerability
+- **CISA KEV: CVE-2026-96655 Plex Media Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-10-15`
-  - Kurz: Known exploited vulnerability. Added 2026-10-15. Due 2026-10-18. Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability
-- **CISA KEV: CVE-2026-105134 Ahsay AhsayCBS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-10-20`
+  - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability
+- **CISA KEV: CVE-2026-96654 Plex Media Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-10-14`
-  - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Ahsay AhsayCBS Command Injection Vulnerability
-- **CISA KEV: CVE-2026-76519 Cisco Secure Email Gateway** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-10-20`
+  - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-10-23. Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability
+- **CISA KEV: CVE-2026-96652 Plex Media Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-10-14`
-  - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Cisco Secure Email Gateway Relative Path Traversal Vulnerability
+  - Zeit: `2026-10-20`
+  - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572693)
   - Quelle: GDACS
   - Zeit: ``

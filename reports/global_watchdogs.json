@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:34:48+00:00",
+  "generated_at": "2026-10-20T19:45:57+00:00",
   "sections": {
     "global_security": [
       {
@@ -20,61 +20,61 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-102764 BeyondTrust Remote Support",
-        "summary": "Known exploited vulnerability. Added 2026-10-16. Due 2026-10-19. BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
+        "title": "CISA KEV: CVE-2026-106931 EG Secure Solutions SiteGuard Server Edition",
+        "summary": "Known exploited vulnerability. Added 2026-10-20. Due 2026-10-23. EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-16",
+        "published_at": "2026-10-20",
         "metrics": {
-          "cve": "CVE-2026-102764"
+          "cve": "CVE-2026-106931"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2025-61624 Fortinet Multiple Products",
-        "summary": "Known exploited vulnerability. Added 2026-10-16. Due 2026-10-19. Fortinet Multiple Products Path Traversal Vulnerability",
+        "title": "CISA KEV: CVE-2026-96656 Plex Media Server",
+        "summary": "Known exploited vulnerability. Added 2026-10-20. Due 2026-10-23. Plex Media Server External Control of File Name or Path Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-16",
+        "published_at": "2026-10-20",
         "metrics": {
-          "cve": "CVE-2025-61624"
+          "cve": "CVE-2026-96656"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-21589 Atlassian Multiple Products",
-        "summary": "Known exploited vulnerability. Added 2026-10-15. Due 2026-10-18. Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
+        "title": "CISA KEV: CVE-2026-96655 Plex Media Server",
+        "summary": "Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-15",
+        "published_at": "2026-10-20",
         "metrics": {
-          "cve": "CVE-2026-21589"
+          "cve": "CVE-2026-96655"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-105134 Ahsay AhsayCBS",
-        "summary": "Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Ahsay AhsayCBS Command Injection Vulnerability",
+        "title": "CISA KEV: CVE-2026-96654 Plex Media Server",
+        "summary": "Known exploited vulnerability. Added 2026-10-20. Due 2026-10-23. Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-14",
+        "published_at": "2026-10-20",
         "metrics": {
-          "cve": "CVE-2026-105134"
+          "cve": "CVE-2026-96654"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-76519 Cisco Secure Email Gateway",
-        "summary": "Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
+        "title": "CISA KEV: CVE-2026-96652 Plex Media Server",
+        "summary": "Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-14",
+        "published_at": "2026-10-20",
         "metrics": {
-          "cve": "CVE-2026-76519"
+          "cve": "CVE-2026-96652"
         }
       },
       {
