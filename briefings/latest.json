@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T16:26:50+00:00",
-  "run_id": "2026-10-20T16:26:50+00:00",
+  "generated_at": "2026-10-20T16:40:10+00:00",
+  "run_id": "2026-10-20T16:40:10+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 80,
     "displayed_findings": 80,
     "high": 1,
@@ -3986,30 +3986,7 @@
       "id": "f444059804b3754795bf"
     }
   ],
-  "new_findings": [
-    {
-      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-20T16:05:03+00:00",
-      "fetched_at": "2026-10-20T16:26:21+00:00",
-      "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b15d645ae0057b1bee44"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
