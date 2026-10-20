@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-10-20T05:22:24+00:00",
+  "generated_at": "2026-10-20T05:36:19+00:00",
   "today_file_total": 28,
   "current_clusters": [
-    {
-      "key": "title:hsbc-says-will-create-jobs-southeast-asia-should",
-      "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/"
-      ],
-      "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
     {
       "key": "title:lenovo-android-verified-boot",
       "title": "複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
@@ -47,6 +24,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten."
+    },
+    {
+      "key": "title:hsbc-says-will-create-jobs-southeast-asia-should",
+      "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:dvr",
@@ -404,29 +404,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:can-bitcoin-hold-615-support-line-brutal-liquidation",
-      "title": "Can Bitcoin hold the US$80,615 support line, or is a brutal liquidation cascade inevitable?",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/can-bitcoin-hold-the-us80615-support-line-or-is-a-brutal-liquidation-cascade-inevitable-20261020/"
-      ],
-      "finding_count": 1,
-      "max_score": 4,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "url:https://www.digital.go.jp/speech/minister-261020-01",
       "title": "古川大臣記者会見（令和8年10月20日）動画を掲載しました",
       "sources": [
@@ -460,6 +437,29 @@
       ],
       "urls": [
         "https://www.digital.go.jp/policies/genai/agent-safety-standard"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:android",
+      "title": "「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/"
       ],
       "finding_count": 1,
       "max_score": 6,

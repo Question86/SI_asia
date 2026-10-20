@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T05:22:21+00:00",
-  "run_id": "2026-10-20T05:22:21+00:00",
+  "generated_at": "2026-10-20T05:36:16+00:00",
+  "run_id": "2026-10-20T05:36:16+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 28,
     "displayed_findings": 28,
     "high": 0,
@@ -1383,51 +1383,7 @@
       "id": "f444059804b3754795bf"
     }
   ],
-  "new_findings": [
-    {
-      "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
-      "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-20T05:00:19+00:00",
-      "fetched_at": "2026-10-20T05:21:51+00:00",
-      "summary": "The most revealing thing about HSBC’s latest survey of the world’s entrepreneurs isn’t the headline number. It’s who is spending it. On the surface, the Global Entrepreneurial Wealth Report 2026 reads like a hype cycle in spreadsheet form. Business owners across 17 markets plan to spend a combined US$367 billion on AI over the next […] The post HSBC says AI will create jobs. Southeast Asia should read the fine print…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Public Health",
-        "Southeast Asia"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c55ba8b8526cedf2afc7"
-    },
-    {
-      "title": "Can Bitcoin hold the US$80,615 support line, or is a brutal liquidation cascade inevitable?",
-      "url": "https://e27.co/can-bitcoin-hold-the-us80615-support-line-or-is-a-brutal-liquidation-cascade-inevitable-20261020/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-20T05:01:24+00:00",
-      "fetched_at": "2026-10-20T05:21:51+00:00",
-      "summary": "Bitcoin dropped 0.81 per cent to US$81,556.51 over the last 24 hours. This slight stumble against a flat broader market signals deep macroeconomic friction. I see this price action through the lens of global liquidity shifts. The premier digital asset now shows an 85.9 per cent correlation with gold. Large-scale players position decentralised networks as […] The post Can Bitcoin hold the US$80,615 support line, or i…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f444059804b3754795bf"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
