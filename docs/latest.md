@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T14:00:43+00:00_
+_Generiert: 2026-10-20T14:21:54+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 26, observation).
+78 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 26, observation).
 
 ## Priorität Hoch
 
@@ -55,6 +55,15 @@ _Generiert: 2026-10-20T14:00:43+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)
   - Kurz: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. https://www.comfy.org/ ComfyUI The most powerful and modular AI engine for content creation. ComfyUI is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output. Its powerful and modular node graph interface emp…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4** — Score 15, observation — [Quelle](https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-20T13:52:38+00:00`, fetched `2026-10-20T14:21:15+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)
+  - Kurz: You can now upgrade your projects to npm 12, pnpm 11 or 12, or Bun 1.4 and keep receiving Dependabot updates. Support for these package manager versions is available to… The post Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4 appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GoTo’s 27B model speaks Batak, but the real test is who can afford to run it** — Score 15, observation — [Quelle](https://e27.co/gotos-27b-model-speaks-batak-but-the-real-test-is-who-can-afford-to-run-it-20261020/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

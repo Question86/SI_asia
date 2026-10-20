@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T14:00:43+00:00",
-  "run_id": "2026-10-20T14:00:43+00:00",
+  "generated_at": "2026-10-20T14:21:54+00:00",
+  "run_id": "2026-10-20T14:21:54+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 76
+      "configured_public_sources_only": 78
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "new_relevant_findings": 2,
+    "today_file_total": 78,
+    "displayed_findings": 78,
     "high": 1,
-    "medium": 19,
-    "observe": 56,
+    "medium": 20,
+    "observe": 57,
     "source_errors": 0
   },
   "sections": {
@@ -169,6 +169,49 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8c663b39a05ddb125ed8"
+      },
+      {
+        "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+        "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-20T13:52:38+00:00",
+        "fetched_at": "2026-10-20T14:21:15+00:00",
+        "summary": "You can now upgrade your projects to npm 12, pnpm 11 or 12, or Bun 1.4 and keep receiving Dependabot updates. Support for these package manager versions is available to… The post Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4 appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "CodeQL/Dependabot",
+          "GitHub",
+          "Watchgraph:software_supply_chain"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "software_supply_chain"
+        ],
+        "watchgraph_reasons": [
+          "software_supply_chain: npm"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM"
+        ],
+        "id": "70540143b9d5742646c7"
       },
       {
         "title": "GoTo’s 27B model speaks Batak, but the real test is who can afford to run it",
@@ -1389,6 +1432,26 @@
         "id": "3f35d530b600b326aad2"
       },
       {
+        "title": "The Central Bank. Trust. Daft Punk.",
+        "url": "https://www.bis.org/speeches/20261020-central-bank-trust-daft-punk",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-20T00:00:00+00:00",
+        "fetched_at": "2026-10-20T14:21:15+00:00",
+        "summary": "Speech by Mr Aleš Michl, Governor of the Czech National Bank, at the Forbes Better Czechia conference, Karlovy Vary, 15 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5cd6ff0e7872d4e2ef30"
+      },
+      {
         "title": "「自治体からの照会事務の自動化などの国・地方AI共通サービスに関する実証事業」の参加自治体（都道府県及び市区町村）を募集します",
         "url": "https://www.digital.go.jp/policies/genai/0ef07948-2f5d-4b45-8ebe-ea974c20a3ac",
         "source": "Japan Digital Agency News RSS",
@@ -2043,6 +2106,49 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "8c663b39a05ddb125ed8"
+    },
+    {
+      "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+      "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-20T13:52:38+00:00",
+      "fetched_at": "2026-10-20T14:21:15+00:00",
+      "summary": "You can now upgrade your projects to npm 12, pnpm 11 or 12, or Bun 1.4 and keep receiving Dependabot updates. Support for these package manager versions is available to… The post Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4 appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "CodeQL/Dependabot",
+        "GitHub",
+        "Watchgraph:software_supply_chain"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "software_supply_chain"
+      ],
+      "watchgraph_reasons": [
+        "software_supply_chain: npm"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM"
+      ],
+      "id": "70540143b9d5742646c7"
     },
     {
       "title": "GoTo’s 27B model speaks Batak, but the real test is who can afford to run it",
@@ -3261,6 +3367,26 @@
       "id": "3f35d530b600b326aad2"
     },
     {
+      "title": "The Central Bank. Trust. Daft Punk.",
+      "url": "https://www.bis.org/speeches/20261020-central-bank-trust-daft-punk",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "fetched_at": "2026-10-20T14:21:15+00:00",
+      "summary": "Speech by Mr Aleš Michl, Governor of the Czech National Bank, at the Forbes Better Czechia conference, Karlovy Vary, 15 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5cd6ff0e7872d4e2ef30"
+    },
+    {
       "title": "「自治体からの照会事務の自動化などの国・地方AI共通サービスに関する実証事業」の参加自治体（都道府県及び市区町村）を募集します",
       "url": "https://www.digital.go.jp/policies/genai/0ef07948-2f5d-4b45-8ebe-ea974c20a3ac",
       "source": "Japan Digital Agency News RSS",
@@ -3774,7 +3900,71 @@
       "id": "f444059804b3754795bf"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+      "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-20T13:52:38+00:00",
+      "fetched_at": "2026-10-20T14:21:15+00:00",
+      "summary": "You can now upgrade your projects to npm 12, pnpm 11 or 12, or Bun 1.4 and keep receiving Dependabot updates. Support for these package manager versions is available to… The post Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4 appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "CodeQL/Dependabot",
+        "GitHub",
+        "Watchgraph:software_supply_chain"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "software_supply_chain"
+      ],
+      "watchgraph_reasons": [
+        "software_supply_chain: npm"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM"
+      ],
+      "id": "70540143b9d5742646c7"
+    },
+    {
+      "title": "The Central Bank. Trust. Daft Punk.",
+      "url": "https://www.bis.org/speeches/20261020-central-bank-trust-daft-punk",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "fetched_at": "2026-10-20T14:21:15+00:00",
+      "summary": "Speech by Mr Aleš Michl, Governor of the Czech National Bank, at the Forbes Better Czechia conference, Karlovy Vary, 15 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5cd6ff0e7872d4e2ef30"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
