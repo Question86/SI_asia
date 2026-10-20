@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-20T20:37:39+00:00_
+_Generiert: 2026-10-20T20:47:47+00:00_
 
 ## [UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen
 
