@@ -229,6 +229,29 @@
     "id": "35381a9996fbc27adff6"
   },
   {
+    "title": "[NEU] [mittel] TYPO3 Extensions: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4053",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-20T11:40:51+00:00",
+    "fetched_at": "2026-10-20T11:45:51+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in TYPO3 Extension ausnutzen, um Dateien zu manipulieren, um Informationen offenzulegen, um einen SQL-Injection Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "19c38b597b77ed7c64bd"
+  },
+  {
     "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4052",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1267,6 +1290,46 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d6a4029c53d84d9cbe05"
+  },
+  {
+    "title": "Statement - meeting of the Development Committee",
+    "url": "https://www.bis.org/speeches/20261020-statement-meeting-development-committee",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-20T00:00:00+00:00",
+    "fetched_at": "2026-10-20T11:45:51+00:00",
+    "summary": "Statement by Mr Fabio Panetta, Governor of the Bank of Italy and Governor of the Constituency of Albania, Greece, Italy, Malta, Portugal, San Marino and Timor-Leste, at the 114th Meeting of the Development Committee (Joint Ministerial Committee of the Boards of Governors of the Bank and the Fund on the Transfer of Real Resources to Developing Countries), Bangkok, 15 October 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "42336e7f4410870bf2e9"
+  },
+  {
+    "title": "IMFC Statement",
+    "url": "https://www.bis.org/speeches/20261020-imfc-statement",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-20T00:00:00+00:00",
+    "fetched_at": "2026-10-20T11:45:51+00:00",
+    "summary": "Statement by Ms Christine Lagarde, President of the European Central Bank, at the fifty-fourth meeting of the International Monetary and Financial Committee, IMF Annual Meetings, Bangkok, 17 October 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "441e0c7441007813caf1"
   },
   {
     "title": "人間のAIに対する判断移譲 - 西尾泰和の外部脳",

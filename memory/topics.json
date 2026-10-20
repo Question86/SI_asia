@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-20T11:34:21+00:00",
+  "generated_at": "2026-10-20T11:46:22+00:00",
   "topics": {
     "security": [
       {
@@ -40,6 +40,13 @@
         "url": "https://jvn.jp/jp/JVN29783594/"
       },
       {
+        "title": "[NEU] [mittel] TYPO3 Extensions: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-20T11:40:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4053"
+      },
+      {
         "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-20T11:20:51+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-20T11:15:53+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4047"
-      },
-      {
-        "title": "[NEU] [hoch] Golang Go: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-20T11:15:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4049"
       }
     ],
     "ai": [
@@ -207,6 +207,20 @@
         "url": "https://e27.co/the-consumer-is-still-human-the-gatekeeper-isnt-20261016/"
       },
       {
+        "title": "Statement - meeting of the Development Committee",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-20T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261020-statement-meeting-development-committee"
+      },
+      {
+        "title": "IMFC Statement",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-20T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261020-imfc-statement"
+      },
+      {
         "title": "Betagro takes majority stake in Freshket as Thai corporates tighten grip on startups",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-20T03:48:05+00:00",
@@ -242,6 +256,13 @@
         "published_at": "2026-10-20T05:00:19+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/"
+      },
+      {
+        "title": "[NEU] [mittel] TYPO3 Extensions: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-20T11:40:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4053"
       },
       {
         "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
@@ -291,13 +312,6 @@
         "published_at": "2026-10-20T11:15:52+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4046"
-      },
-      {
-        "title": "Euro area monthly balance of payments: August 2026",
-        "source": "ECB Statistical Press Releases",
-        "published_at": "2026-10-20T08:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html"
       }
     ],
     "general": [
