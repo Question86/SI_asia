@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T03:00:45+00:00",
-  "run_id": "2026-10-20T03:00:45+00:00",
+  "generated_at": "2026-10-20T03:25:53+00:00",
+  "run_id": "2026-10-20T03:25:53+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 14
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,63 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "new_relevant_findings": 5,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
-    "medium": 0,
-    "observe": 14,
+    "medium": 2,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
+        "url": "https://jvn.jp/jp/JVN33436631/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-10-20T12:00:15+09:00",
+        "fetched_at": "2026-10-20T03:25:23+00:00",
+        "summary": "Lenovoが提供する複数のタブレットのAVB（Android Verified Boot）機能では、AOSP（Android Open Source Project）で公開されているテスト用の鍵をそのまま使用しています。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Open Source",
+          "Security"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "Security (+6.0); Open Source (+3.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "mixed",
+        "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b1b6f2ce21814bcf3b77"
+      },
+      {
+        "title": "UnRTFにおける境界外書き込みの脆弱性",
+        "url": "https://jvn.jp/jp/JVN29783594/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-10-20T12:00:00+09:00",
+        "fetched_at": "2026-10-20T03:25:23+00:00",
+        "summary": "GNU Projectが提供するUnRTFには境界外書き込みの脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "35381a9996fbc27adff6"
+      }
+    ],
     "observe": [
       {
         "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
@@ -153,6 +199,42 @@
         "id": "b953c510c182e4f873fd"
       },
       {
+        "title": "M 5.0 - Pagan region, Northern Mariana Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-20T03:19:04.118+00:00",
+        "fetched_at": "2026-10-20T03:25:23+00:00",
+        "summary": "Time 2026-10-20 02:54:15 UTC 2026-10-20 02:54:15 UTC at epicenter Location 18.253°N 146.035°E Depth 129.36 km (80.38 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "c76c827a9521b09a59a6"
+      },
+      {
         "title": "Every company grows through thorns. Know when one has gone too deep",
         "url": "https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -208,6 +290,27 @@
           "LOW"
         ],
         "id": "d6440f8a6d64e110bb67"
+      },
+      {
+        "title": "How I use AI to keep the details straight in international partnerships",
+        "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-20T03:00:42+00:00",
+        "fetched_at": "2026-10-20T03:25:23+00:00",
+        "summary": "Even after a good meeting with an overseas partner, writing the follow-up email takes thought. What interested them? What did we actually agree to? What still needs to be clarified before we can move forward? Things that seemed clear in conversation can become ambiguous on the page. When several people and organisations are involved, those […] The post How I use AI to keep the details straight in international partn…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "41d37eac1bc9ea706b70"
       },
       {
         "title": "今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました",
@@ -372,10 +475,76 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1df68b146b6f3185dbd7"
+      },
+      {
+        "title": "「つけたスター・ついたスター」一覧の表示期間を直近3か月に変更します - はてなスター日記",
+        "url": "https://star.hatenastaff.com/entry/2026/10/19/140533",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-19T10:38:08+00:00",
+        "fetched_at": "2026-10-20T03:25:23+00:00",
+        "summary": "いつもはてなスターをご利用いただき、ありがとうございます。 2026年10月26日より、はてなスターページ内「つけたスター・ついたスター」一覧に表示する履歴を直近3か月分に変更します。変更後は、それより前の履歴をこの一覧で確認できなくなります。 「つけたスター・ついたスター」の履歴は、本来3か月分を保持する...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "831acd0a412efccbe939"
       }
     ]
   },
   "findings": [
+    {
+      "title": "複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
+      "url": "https://jvn.jp/jp/JVN33436631/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-20T12:00:15+09:00",
+      "fetched_at": "2026-10-20T03:25:23+00:00",
+      "summary": "Lenovoが提供する複数のタブレットのAVB（Android Verified Boot）機能では、AOSP（Android Open Source Project）で公開されているテスト用の鍵をそのまま使用しています。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Open Source",
+        "Security"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Open Source (+3.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "mixed",
+      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b1b6f2ce21814bcf3b77"
+    },
+    {
+      "title": "UnRTFにおける境界外書き込みの脆弱性",
+      "url": "https://jvn.jp/jp/JVN29783594/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-20T12:00:00+09:00",
+      "fetched_at": "2026-10-20T03:25:23+00:00",
+      "summary": "GNU Projectが提供するUnRTFには境界外書き込みの脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "35381a9996fbc27adff6"
+    },
     {
       "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
       "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/",
@@ -499,6 +668,42 @@
       "id": "b953c510c182e4f873fd"
     },
     {
+      "title": "M 5.0 - Pagan region, Northern Mariana Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-20T03:19:04.118+00:00",
+      "fetched_at": "2026-10-20T03:25:23+00:00",
+      "summary": "Time 2026-10-20 02:54:15 UTC 2026-10-20 02:54:15 UTC at epicenter Location 18.253°N 146.035°E Depth 129.36 km (80.38 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c76c827a9521b09a59a6"
+    },
+    {
       "title": "Every company grows through thorns. Know when one has gone too deep",
       "url": "https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -554,6 +759,27 @@
         "LOW"
       ],
       "id": "d6440f8a6d64e110bb67"
+    },
+    {
+      "title": "How I use AI to keep the details straight in international partnerships",
+      "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-20T03:00:42+00:00",
+      "fetched_at": "2026-10-20T03:25:23+00:00",
+      "summary": "Even after a good meeting with an overseas partner, writing the follow-up email takes thought. What interested them? What did we actually agree to? What still needs to be clarified before we can move forward? Things that seemed clear in conversation can become ambiguous on the page. When several people and organisations are involved, those […] The post How I use AI to keep the details straight in international partn…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "41d37eac1bc9ea706b70"
     },
     {
       "title": "今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました",
@@ -718,9 +944,154 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1df68b146b6f3185dbd7"
+    },
+    {
+      "title": "「つけたスター・ついたスター」一覧の表示期間を直近3か月に変更します - はてなスター日記",
+      "url": "https://star.hatenastaff.com/entry/2026/10/19/140533",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-19T10:38:08+00:00",
+      "fetched_at": "2026-10-20T03:25:23+00:00",
+      "summary": "いつもはてなスターをご利用いただき、ありがとうございます。 2026年10月26日より、はてなスターページ内「つけたスター・ついたスター」一覧に表示する履歴を直近3か月分に変更します。変更後は、それより前の履歴をこの一覧で確認できなくなります。 「つけたスター・ついたスター」の履歴は、本来3か月分を保持する...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "831acd0a412efccbe939"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
+      "url": "https://jvn.jp/jp/JVN33436631/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-20T12:00:15+09:00",
+      "fetched_at": "2026-10-20T03:25:23+00:00",
+      "summary": "Lenovoが提供する複数のタブレットのAVB（Android Verified Boot）機能では、AOSP（Android Open Source Project）で公開されているテスト用の鍵をそのまま使用しています。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Open Source",
+        "Security"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Open Source (+3.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "mixed",
+      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b1b6f2ce21814bcf3b77"
+    },
+    {
+      "title": "UnRTFにおける境界外書き込みの脆弱性",
+      "url": "https://jvn.jp/jp/JVN29783594/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-20T12:00:00+09:00",
+      "fetched_at": "2026-10-20T03:25:23+00:00",
+      "summary": "GNU Projectが提供するUnRTFには境界外書き込みの脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "35381a9996fbc27adff6"
+    },
+    {
+      "title": "M 5.0 - Pagan region, Northern Mariana Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-20T03:19:04.118+00:00",
+      "fetched_at": "2026-10-20T03:25:23+00:00",
+      "summary": "Time 2026-10-20 02:54:15 UTC 2026-10-20 02:54:15 UTC at epicenter Location 18.253°N 146.035°E Depth 129.36 km (80.38 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c76c827a9521b09a59a6"
+    },
+    {
+      "title": "How I use AI to keep the details straight in international partnerships",
+      "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-20T03:00:42+00:00",
+      "fetched_at": "2026-10-20T03:25:23+00:00",
+      "summary": "Even after a good meeting with an overseas partner, writing the follow-up email takes thought. What interested them? What did we actually agree to? What still needs to be clarified before we can move forward? Things that seemed clear in conversation can become ambiguous on the page. When several people and organisations are involved, those […] The post How I use AI to keep the details straight in international partn…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "41d37eac1bc9ea706b70"
+    },
+    {
+      "title": "「つけたスター・ついたスター」一覧の表示期間を直近3か月に変更します - はてなスター日記",
+      "url": "https://star.hatenastaff.com/entry/2026/10/19/140533",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-19T10:38:08+00:00",
+      "fetched_at": "2026-10-20T03:25:23+00:00",
+      "summary": "いつもはてなスターをご利用いただき、ありがとうございます。 2026年10月26日より、はてなスターページ内「つけたスター・ついたスター」一覧に表示する履歴を直近3か月分に変更します。変更後は、それより前の履歴をこの一覧で確認できなくなります。 「つけたスター・ついたスター」の履歴は、本来3か月分を保持する...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "831acd0a412efccbe939"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

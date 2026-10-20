@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T03:00:45+00:00_
+_Generiert: 2026-10-20T03:25:53+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „As venture funding retreats, Thailand’s corporate investors gain more power“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
+19 neue relevante Treffer. Stärkstes Signal: „複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題“ aus JVN Japan Vulnerability Notes (Score 17, mixed).
 
 ## Priorität Hoch
 
@@ -12,7 +12,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題** — Score 17, mixed — [Quelle](https://jvn.jp/jp/JVN33436631/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-10-20T12:00:15+09:00`, fetched `2026-10-20T03:25:23+00:00`
+  - Treffer: APAC Trend Radar, JVN, Open Source, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Open Source (+3.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: Lenovoが提供する複数のタブレットのAVB（Android Verified Boot）機能では、AOSP（Android Open Source Project）で公開されているテスト用の鍵をそのまま使用しています。
+  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- **UnRTFにおける境界外書き込みの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN29783594/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-10-20T12:00:00+09:00`, fetched `2026-10-20T03:25:23+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: GNU Projectが提供するUnRTFには境界外書き込みの脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -52,6 +69,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AI・デジタル改革推進会議の開催について掲載いたしました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - Pagan region, Northern Mariana Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-20T03:19:04.118+00:00`, fetched `2026-10-20T03:25:23+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-20 02:54:15 UTC 2026-10-20 02:54:15 UTC at epicenter Location 18.253°N 146.035°E Depth 129.36 km (80.38 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Every company grows through thorns. Know when one has gone too deep** — Score 9, observation — [Quelle](https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-20T02:00:28+00:00`, fetched `2026-10-20T02:07:39+00:00`
@@ -118,7 +144,8 @@ Keine neuen mittleren Treffer.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
