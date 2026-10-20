@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T00:52:24+00:00",
+  "generated_at": "2026-10-20T01:15:47+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -6593,8 +6593,8 @@
       "z_hint": -0.2
     },
     "title:nhk": {
-      "title": "ソースネクスト パスワード暗号化がない状態で流出 再設定を | NHKニュース",
-      "updated_at": "2026-10-16T23:59:00+00:00",
+      "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース",
+      "updated_at": "2026-10-20T01:15:47+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -6625,12 +6625,12 @@
         7.1,
         7.1,
         7.1,
-        7.1
+        10.1
       ],
-      "rolling_average": 7.1,
-      "rolling_peak": 7.1,
-      "last_score": 7.1,
-      "z_hint": 0.0
+      "rolling_average": 7.2,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 2.9
     },
     "title:anthropic-mhs": {
       "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ",
@@ -25104,7 +25104,7 @@
     },
     "title:android": {
       "title": "「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）",
-      "updated_at": "2026-10-20T00:52:24+00:00",
+      "updated_at": "2026-10-20T01:15:47+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -25134,13 +25134,13 @@
         7.1,
         7.1,
         7.1,
-        7.1,
-        11.1
+        11.1,
+        8.1
       ],
-      "rolling_average": 7.23,
+      "rolling_average": 7.27,
       "rolling_peak": 11.1,
-      "last_score": 11.1,
-      "z_hint": 3.87
+      "last_score": 8.1,
+      "z_hint": 0.83
     },
     "cve:CVE-2026-44756": {
       "title": "2026-011: Critical Vulnerabilities in SAP Kernel and NetWeaver Message Server",
@@ -80712,35 +80712,71 @@
     },
     "url:https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7": {
       "title": "今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました",
-      "updated_at": "2026-10-20T00:52:24+00:00",
+      "updated_at": "2026-10-20T01:15:47+00:00",
       "network_scores": [
-        13.1
+        13.1,
+        10.1
       ],
-      "rolling_average": 13.1,
+      "rolling_average": 11.6,
       "rolling_peak": 13.1,
-      "last_score": 13.1,
-      "z_hint": 0.0
+      "last_score": 10.1,
+      "z_hint": -1.5
     },
     "url:https://www.digital.go.jp/policies/genai/agent-safety-standard": {
       "title": "ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました",
-      "updated_at": "2026-10-20T00:52:24+00:00",
+      "updated_at": "2026-10-20T01:15:47+00:00",
       "network_scores": [
-        11.1
+        11.1,
+        8.1
       ],
-      "rolling_average": 11.1,
+      "rolling_average": 9.6,
       "rolling_peak": 11.1,
-      "last_score": 11.1,
-      "z_hint": 0.0
+      "last_score": 8.1,
+      "z_hint": -1.5
     },
     "title:apple-macbook-pro": {
       "title": "Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
-      "updated_at": "2026-10-20T00:52:24+00:00",
+      "updated_at": "2026-10-20T01:15:47+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
+      "last_score": 7.1,
+      "z_hint": -1.5
+    },
+    "title:venture-funding-retreats-thailand-corporate-investors-gain-more": {
+      "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
+      "updated_at": "2026-10-20T01:15:47+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "title:ibrahim-arief-building-legal-startup-city-detention": {
+      "title": "Ibrahim Arief is building a legal AI startup from city detention",
+      "updated_at": "2026-10-20T01:15:47+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 0.0
+    },
+    "earthquake:m 5.0 - 205 km nw of port-olry, vanuatu:5.0": {
+      "title": "M 5.0 - 205 km NW of Port-Olry, Vanuatu",
+      "updated_at": "2026-10-20T01:15:47+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
       "z_hint": 0.0
     }
   }
