@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T05:01:05+00:00_
+_Generiert: 2026-10-20T05:22:21+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題“ aus JVN Japan Vulnerability Notes (Score 17, mixed).
+28 neue relevante Treffer. Stärkstes Signal: „複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題“ aus JVN Japan Vulnerability Notes (Score 17, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-10-20T05:01:05+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-14`
   - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Cisco Secure Email Gateway Relative Path Traversal Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572693)
+- **GDACS: Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, No people affected in 100km.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572693)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].
+  - Kurz: Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, No people affected in 100km.
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572622)
   - Quelle: GDACS
   - Zeit: ``
@@ -74,6 +74,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Open Source (+3.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Lenovoが提供する複数のタブレットのAVB（Android Verified Boot）機能では、AOSP（Android Open Source Project）で公開されているテスト用の鍵をそのまま使用しています。
   - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- **HSBC says AI will create jobs. Southeast Asia should read the fine print first** — Score 15, observation — [Quelle](https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-20T05:00:19+00:00`, fetched `2026-10-20T05:21:51+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Public Health, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: The most revealing thing about HSBC’s latest survey of the world’s entrepreneurs isn’t the headline number. It’s who is spending it. On the surface, the Global Entrepreneurial Wealth Report 2026 reads like a hype cycle in spreadsheet form. Business owners across 17 markets plan to spend a combined US$367 billion on AI over the next […] The post HSBC says AI will create jobs. Southeast Asia should read the fine print…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **アツミ電氣製DVRに利用可能な非公開機能を悪用される問題** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN88864366/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-20T14:00:00+09:00`, fetched `2026-10-20T05:00:37+00:00`
@@ -207,6 +216,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten

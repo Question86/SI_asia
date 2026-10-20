@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T05:01:05+00:00",
-  "run_id": "2026-10-20T05:01:05+00:00",
+  "generated_at": "2026-10-20T05:22:21+00:00",
+  "run_id": "2026-10-20T05:22:21+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 28
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
-    "medium": 3,
-    "observe": 23,
+    "medium": 4,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -51,6 +51,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b1b6f2ce21814bcf3b77"
+      },
+      {
+        "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
+        "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-20T05:00:19+00:00",
+        "fetched_at": "2026-10-20T05:21:51+00:00",
+        "summary": "The most revealing thing about HSBC’s latest survey of the world’s entrepreneurs isn’t the headline number. It’s who is spending it. On the surface, the Global Entrepreneurial Wealth Report 2026 reads like a hype cycle in spreadsheet form. Business owners across 17 markets plan to spend a combined US$367 billion on AI over the next […] The post HSBC says AI will create jobs. Southeast Asia should read the fine print…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Public Health",
+          "Southeast Asia"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c55ba8b8526cedf2afc7"
       },
       {
         "title": "アツミ電氣製DVRに利用可能な非公開機能を悪用される問題",
@@ -661,6 +684,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "831acd0a412efccbe939"
+      },
+      {
+        "title": "Can Bitcoin hold the US$80,615 support line, or is a brutal liquidation cascade inevitable?",
+        "url": "https://e27.co/can-bitcoin-hold-the-us80615-support-line-or-is-a-brutal-liquidation-cascade-inevitable-20261020/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-20T05:01:24+00:00",
+        "fetched_at": "2026-10-20T05:21:51+00:00",
+        "summary": "Bitcoin dropped 0.81 per cent to US$81,556.51 over the last 24 hours. This slight stumble against a flat broader market signals deep macroeconomic friction. I see this price action through the lens of global liquidity shifts. The premier digital asset now shows an 85.9 per cent correlation with gold. Large-scale players position decentralised networks as […] The post Can Bitcoin hold the US$80,615 support line, or i…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f444059804b3754795bf"
       }
     ]
   },
@@ -687,6 +730,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "b1b6f2ce21814bcf3b77"
+    },
+    {
+      "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
+      "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-20T05:00:19+00:00",
+      "fetched_at": "2026-10-20T05:21:51+00:00",
+      "summary": "The most revealing thing about HSBC’s latest survey of the world’s entrepreneurs isn’t the headline number. It’s who is spending it. On the surface, the Global Entrepreneurial Wealth Report 2026 reads like a hype cycle in spreadsheet form. Business owners across 17 markets plan to spend a combined US$367 billion on AI over the next […] The post HSBC says AI will create jobs. Southeast Asia should read the fine print…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Public Health",
+        "Southeast Asia"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c55ba8b8526cedf2afc7"
     },
     {
       "title": "アツミ電氣製DVRに利用可能な非公開機能を悪用される問題",
@@ -1295,51 +1361,71 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "831acd0a412efccbe939"
-    }
-  ],
-  "new_findings": [
-    {
-      "title": "アツミ電氣製DVRに利用可能な非公開機能を悪用される問題",
-      "url": "https://jvn.jp/jp/JVN88864366/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-20T14:00:00+09:00",
-      "fetched_at": "2026-10-20T05:00:37+00:00",
-      "summary": "アツミ電氣株式会社が提供する複数のDVR（Digital Video Recorder）には、非公開機能を悪用される問題が存在しています。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "69383c7b65da7c95736c"
     },
     {
-      "title": "情報漏洩や不正アクセスのニュースばかりで訳わかんない！……っていう人に「JP Incident Monitor」／日本のサイバーインシデントを一覧、AIで分析して信頼度付きで掲載【やじうまの杜】",
-      "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2149461.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Can Bitcoin hold the US$80,615 support line, or is a brutal liquidation cascade inevitable?",
+      "url": "https://e27.co/can-bitcoin-hold-the-us80615-support-line-or-is-a-brutal-liquidation-cascade-inevitable-20261020/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-20T01:28:01+00:00",
-      "fetched_at": "2026-10-20T05:00:37+00:00",
-      "summary": "情報漏洩や不正アクセスのニュースばかりで訳わかんない！……っていう人に「JP Incident Monitor」／日本のサイバーインシデントを一覧、AIで分析して信頼度付きで掲載【やじうまの杜】",
+      "published_at": "2026-10-20T05:01:24+00:00",
+      "fetched_at": "2026-10-20T05:21:51+00:00",
+      "summary": "Bitcoin dropped 0.81 per cent to US$81,556.51 over the last 24 hours. This slight stumble against a flat broader market signals deep macroeconomic friction. I see this price action through the lens of global liquidity shifts. The premier digital asset now shows an 85.9 per cent correlation with gold. Large-scale players position decentralised networks as […] The post Can Bitcoin hold the US$80,615 support line, or i…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "349ddc6eacd425ca96a9"
+      "id": "f444059804b3754795bf"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
+      "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-20T05:00:19+00:00",
+      "fetched_at": "2026-10-20T05:21:51+00:00",
+      "summary": "The most revealing thing about HSBC’s latest survey of the world’s entrepreneurs isn’t the headline number. It’s who is spending it. On the surface, the Global Entrepreneurial Wealth Report 2026 reads like a hype cycle in spreadsheet form. Business owners across 17 markets plan to spend a combined US$367 billion on AI over the next […] The post HSBC says AI will create jobs. Southeast Asia should read the fine print…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Public Health",
+        "Southeast Asia"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c55ba8b8526cedf2afc7"
+    },
+    {
+      "title": "Can Bitcoin hold the US$80,615 support line, or is a brutal liquidation cascade inevitable?",
+      "url": "https://e27.co/can-bitcoin-hold-the-us80615-support-line-or-is-a-brutal-liquidation-cascade-inevitable-20261020/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-20T05:01:24+00:00",
+      "fetched_at": "2026-10-20T05:21:51+00:00",
+      "summary": "Bitcoin dropped 0.81 per cent to US$81,556.51 over the last 24 hours. This slight stumble against a flat broader market signals deep macroeconomic friction. I see this price action through the lens of global liquidity shifts. The premier digital asset now shows an 85.9 per cent correlation with gold. Large-scale players position decentralised networks as […] The post Can Bitcoin hold the US$80,615 support line, or i…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f444059804b3754795bf"
     }
   ],
   "source_errors": [],
