@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-20T03:41:52+00:00_
+_Generiert: 2026-10-20T03:55:24+00:00_
 
 ## 複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題
 
