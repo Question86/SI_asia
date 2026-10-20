@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T04:25:35+00:00_
+_Generiert: 2026-10-20T04:40:28+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題“ aus JVN Japan Vulnerability Notes (Score 17, mixed).
+24 neue relevante Treffer. Stärkstes Signal: „複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題“ aus JVN Japan Vulnerability Notes (Score 17, mixed).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.3 - 204 km WNW of Port-Olry, Vanuatu** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-20T04:36:56.091+00:00`, fetched `2026-10-20T04:39:57+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-10-20 04:20:38 UTC 2026-10-20 04:20:38 UTC at epicenter Location 14.028°S 165.484°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **As venture funding retreats, Thailand’s corporate investors gain more power** — Score 12, observation — [Quelle](https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-20T01:00:42+00:00`, fetched `2026-10-20T01:15:09+00:00`
@@ -96,15 +105,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
   - Kurz: Nobody builds a company without picking up thorns. An investor who pushes too hard. A customer who demands everything and pays late. A high performer who leaves damage behind every meeting. Most of that friction is useful. It forces decisions a comfortable company would keep putting off. The hard investor sharpens the plan. The demanding […] The post Every company grows through thorns. Know when one has gone too dee…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 205 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-20T01:10:16.040+00:00`, fetched `2026-10-20T01:15:09+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-20 00:38:28 UTC 2026-10-20 00:38:28 UTC at epicenter Location 13.948°S 165.529°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました** — Score 8, observation — [Quelle](https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-20T00:25:29+00:00`, fetched `2026-10-20T00:51:48+00:00`
