@@ -100,5 +100,144 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Euro area monthly balance of payments: August 2026” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=43.54.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Euro area monthly balance of payments: August 2026",
+        "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html",
+        "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
+        "published_at": "2026-06-18T14:33:45+00:00",
+        "age_days": 123.78,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 43.54,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 2,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.31,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "source breadth +2",
+          "momentum delta +3",
+          "baseline z_hint 2.31",
+          "high terms: rce",
+          "security high-signal: rce",
+          "aging penalty -8.0 for 123.8d old signal"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Banks want AI agents to move money, as long as someone is accountable",
+        "url": "https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-20T07:49:42+00:00",
+        "age_days": 0.06,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 36.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Banks want AI agents to move money, as long as someone is accountable",
+        "url": "https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-20T07:39:30+00:00",
+        "age_days": 0.07,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 32.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "The pitch for agentic payments usually goes like this: software that negotiates, pays, reconciles and optimises cash while the finance team sleeps. A new report from UOB Global Economics & Markets Research is a reminder that a payment involves more than moving the money. Someone also has to answer for it. The bank’s a…"
+      },
+      {
+        "title": "アツミ電氣製DVRに利用可能な非公開機能を悪用される問題",
+        "url": "https://jvn.jp/jp/JVN88864366/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-20T14:00:00+09:00",
+        "age_days": 0.18,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "アツミ電氣株式会社が提供する複数のDVR（Digital Video Recorder）には、非公開機能を悪用される問題が存在しています。"
+      },
+      {
+        "title": "UnRTFにおける境界外書き込みの脆弱性",
+        "url": "https://jvn.jp/jp/JVN29783594/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-20T12:00:00+09:00",
+        "age_days": 0.26,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "GNU Projectが提供するUnRTFには境界外書き込みの脆弱性が存在します。"
+      }
+    ]
+  }
 }

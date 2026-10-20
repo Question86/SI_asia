@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-20T08:19:01Z_
+_Generated: 2026-10-20T09:16:19Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “アツミ電氣製DVRに利用可能な�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-20T14:00:00+09:00` / age_days `0.14`
+- Published: `2026-10-20T14:00:00+09:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “アツミ電氣製DVRに利用可能な�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-20T12:00:00+09:00` / age_days `0.22`
+- Published: `2026-10-20T12:00:00+09:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “アツミ電氣製DVRに利用可能な�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-20T02:00:28+00:00` / age_days `0.26`
+- Published: `2026-10-20T02:00:28+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “アツミ電氣製DVRに利用可能な�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-20T03:25:56+00:00` / age_days `0.2`
+- Published: `2026-10-20T03:25:56+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,17 +52,37 @@ Stärkste Dynamik nach Gate-Recheck: “アツミ電氣製DVRに利用可能な�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-10-20T05:58:23+00:00` / age_days `0.1`
+- Published: `2026-10-20T05:58:23+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://github.com/Comfy-Org/ComfyUI
 
+### Euro area monthly balance of payments: August 2026
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `123.78`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: source breadth +2, momentum delta +3, baseline z_hint 2.31, high terms: rce, security high-signal: rce, aging penalty -8.0 for 123.8d old signal, extreme gate recheck: insufficient independent/current evidence
+- Quelle: https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html
+
+### Banks want AI agents to move money, as long as someone is accountable
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-10-20T07:49:42+00:00` / age_days `0.06`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/
+
 ### Banks want AI agents to move money, as long as someone is accountable
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-20T07:39:30+00:00` / age_days `0.03`
+- Published: `2026-10-20T07:39:30+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -72,27 +92,17 @@ Stärkste Dynamik nach Gate-Recheck: “アツミ電氣製DVRに利用可能な�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-20T12:00:15+09:00` / age_days `0.22`
+- Published: `2026-10-20T12:00:15+09:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://jvn.jp/jp/JVN33436631/
 
-### How I use AI to keep the details straight in international partnerships
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `24.9`
-- Published: `2026-10-20T03:25:56+00:00` / age_days `0.2`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/
-
 ### 亞璿資訊｜BA-Workflow 工作流程表單平台 - 存在3個漏洞
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-20T06:37:00+00:00` / age_days `0.07`
+- Published: `2026-10-20T06:37:00+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “アツミ電氣製DVRに利用可能な�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-20T06:15:00+00:00` / age_days `0.09`
+- Published: `2026-10-20T06:15:00+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “アツミ電氣製DVRに利用可能な�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-20T06:08:00+00:00` / age_days `0.09`
+- Published: `2026-10-20T06:08:00+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
 - Quelle: https://www.twcert.org.tw/tw/cp-132-11294-4e5d8-1.html
-
-### アツミ電氣製DVRに利用可能な非公開機能を悪用される問題
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-10-20T05:01:07+00:00` / age_days `0.14`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://jvn.jp/jp/JVN88864366/
 
 END OF DOCUMENT
