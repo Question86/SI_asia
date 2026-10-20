@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-20T17:22:13+00:00_
+_Generated: 2026-10-20T17:34:21+00:00_
 
 ## Status
 - status: `normal`
-- findings: `84`
+- findings: `86`
 
 ## Top Signals
 
@@ -64,11 +64,11 @@ _Generated: 2026-10-20T17:22:13+00:00_
 - url: https://www.bis.org/speeches/20261020-economic-activity-prices-and-monetary-policy-japan
 - summary: Speech by Ms Junko Koeda, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Kumamoto, 15 October 2026.
 
-### 9. As venture funding retreats, Thailand’s corporate investors gain more power
-- source: e27 Asia Startup and Tech Feed
+### 9. Dependabot alerts REST API now includes dependency versions
+- source: GitHub Changelog Atom
 - score: `12`
-- published: `2026-10-20T01:00:42+00:00`
-- url: https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/
-- summary: In Thailand, many of the most visible startup investors carry the names of the country’s largest banks and business groups. SCBX operates SCB 10X. Kasikornbank established Beacon Venture Capital. Bank of Ayudhya created Krungsri Finnovate, while Bangkok Bank…
+- published: `2026-10-20T17:13:40+00:00`
+- url: https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions
+- summary: You can now get the version of a vulnerable dependency directly from Dependabot alert responses in the REST API. Each alert’s dependency object includes a new version_requirement field with the… The post Dependabot alerts REST API now includes dependency vers…
 
 END OF DOCUMENT

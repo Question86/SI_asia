@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T17:22:13+00:00",
-  "run_id": "2026-10-20T17:22:13+00:00",
+  "generated_at": "2026-10-20T17:34:21+00:00",
+  "run_id": "2026-10-20T17:34:21+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 84
+      "configured_public_sources_only": 86
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 84,
-    "displayed_findings": 84,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 1,
     "medium": 21,
-    "observe": 62,
+    "observe": 64,
     "source_errors": 0
   },
   "sections": {
@@ -676,6 +676,27 @@
         "id": "d1b5bfa7944aae0f6ee1"
       },
       {
+        "title": "Dependabot alerts REST API now includes dependency versions",
+        "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-20T17:13:40+00:00",
+        "fetched_at": "2026-10-20T17:33:51+00:00",
+        "summary": "You can now get the version of a vulnerable dependency directly from Dependabot alert responses in the REST API. Each alert’s dependency object includes a new version_requirement field with the… The post Dependabot alerts REST API now includes dependency versions appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "CodeQL/Dependabot",
+          "GitHub"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "354363b090bad9d4e52d"
+      },
+      {
         "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
         "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -962,6 +983,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b953c510c182e4f873fd"
+      },
+      {
+        "title": "M 5.4 - 192 km S of Burica, Panama",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nl",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-20T17:23:26.040+00:00",
+        "fetched_at": "2026-10-20T17:33:51+00:00",
+        "summary": "Time 2026-10-20 17:05:48 UTC 2026-10-20 17:05:48 UTC at epicenter Location 6.323°N 82.569°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "f9f3b34e56c6c85d572e"
       },
       {
         "title": "M 4.8 - south of the Fiji Islands",
@@ -2768,6 +2825,27 @@
       "id": "d1b5bfa7944aae0f6ee1"
     },
     {
+      "title": "Dependabot alerts REST API now includes dependency versions",
+      "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-20T17:13:40+00:00",
+      "fetched_at": "2026-10-20T17:33:51+00:00",
+      "summary": "You can now get the version of a vulnerable dependency directly from Dependabot alert responses in the REST API. Each alert’s dependency object includes a new version_requirement field with the… The post Dependabot alerts REST API now includes dependency versions appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "CodeQL/Dependabot",
+        "GitHub"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "354363b090bad9d4e52d"
+    },
+    {
       "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
       "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -3054,6 +3132,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "b953c510c182e4f873fd"
+    },
+    {
+      "title": "M 5.4 - 192 km S of Burica, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-20T17:23:26.040+00:00",
+      "fetched_at": "2026-10-20T17:33:51+00:00",
+      "summary": "Time 2026-10-20 17:05:48 UTC 2026-10-20 17:05:48 UTC at epicenter Location 6.323°N 82.569°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f9f3b34e56c6c85d572e"
     },
     {
       "title": "M 4.8 - south of the Fiji Islands",
@@ -4216,45 +4330,61 @@
   ],
   "new_findings": [
     {
-      "title": "GitHub package firewall in public preview",
-      "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
+      "title": "Dependabot alerts REST API now includes dependency versions",
+      "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-10-20T16:11:53+00:00",
-      "fetched_at": "2026-10-20T17:21:42+00:00",
-      "summary": "An increasing number of malware attacks exploit systems at package installation time, harvesting credentials on CI/CD hosts or developer workstations without even running the package’s code. To stem this tide… The post GitHub package firewall in public preview appeared first on The GitHub Blog .",
+      "published_at": "2026-10-20T17:13:40+00:00",
+      "fetched_at": "2026-10-20T17:33:51+00:00",
+      "summary": "You can now get the version of a vulnerable dependency directly from Dependabot alert responses in the REST API. Each alert’s dependency object includes a new version_requirement field with the… The post Dependabot alerts REST API now includes dependency versions appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "GitHub",
-        "Security"
+        "CodeQL/Dependabot",
+        "GitHub"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+6.0); GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0a9c04922972d92fa38c"
-    },
-    {
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-20T10:00:00+00:00",
-      "fetched_at": "2026-10-20T17:21:42+00:00",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8771ec593e2f827d75bb"
+      "id": "354363b090bad9d4e52d"
+    },
+    {
+      "title": "M 5.4 - 192 km S of Burica, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-20T17:23:26.040+00:00",
+      "fetched_at": "2026-10-20T17:33:51+00:00",
+      "summary": "Time 2026-10-20 17:05:48 UTC 2026-10-20 17:05:48 UTC at epicenter Location 6.323°N 82.569°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f9f3b34e56c6c85d572e"
     }
   ],
   "source_errors": [],

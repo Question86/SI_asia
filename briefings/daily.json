@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T17:22:16+00:00",
-  "today_file_total": 84,
+  "generated_at": "2026-10-20T17:34:24+00:00",
+  "today_file_total": 86,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -278,6 +278,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "title:dependabot-alerts-rest-api-now-includes-dependency-versions",
+      "title": "Dependabot alerts REST API now includes dependency versions",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:dvr",
       "title": "アツミ電氣製DVRに利用可能な非公開機能を悪用される問題",
       "sources": [
@@ -349,26 +372,28 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:github-package-firewall-public-preview",
-      "title": "GitHub package firewall in public preview",
+      "key": "earthquake:m 5.4 - 192 km s of burica, panama:5.4",
+      "title": "M 5.4 - 192 km S of Burica, Panama",
       "sources": [
-        "GitHub Changelog Atom"
+        "USGS M4.5+ Earthquakes Past Hour"
       ],
       "source_classes": [
-        "tier3_specialist"
+        "tier1_official"
       ],
       "urls": [
-        "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nl"
       ],
       "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
+      "max_score": 9,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 15.1,
+      "network_score": 14.7,
       "hot": false,
-      "watchgraph_modules": [],
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
@@ -468,29 +493,6 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "domain:posfie.com",
-      "title": "1か月ぐらいClaude Codeと伴走してたけどもう疲れてしまった。育てたら快適になると信じて育ててたけど、もはや健康被害が出そうなレベルで強いストレスを感じている。AI使うのやめたいです。→「ClaudCodeとAIを新入社員に読み替えてみたら分かりやすいのですが。 そのつもりで使うとまた違うんですけどね」",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://posfie.com/@petaritape/p/aa5HeGM"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
 }

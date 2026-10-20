@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T17:22:13+00:00_
+_Generiert: 2026-10-20T17:34:21+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 26, observation).
+86 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 26, observation).
 
 ## Priorität Hoch
 
@@ -158,6 +158,15 @@ _Generiert: 2026-10-20T17:22:13+00:00_
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)
   - Kurz: Speech by Ms Junko Koeda, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Kumamoto, 15 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Dependabot alerts REST API now includes dependency versions** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-20T17:13:40+00:00`, fetched `2026-10-20T17:33:51+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now get the version of a vulnerable dependency directly from Dependabot alert responses in the REST API. Each alert’s dependency object includes a new version_requirement field with the… The post Dependabot alerts REST API now includes dependency versions appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **As venture funding retreats, Thailand’s corporate investors gain more power** — Score 12, observation — [Quelle](https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-20T01:00:42+00:00`, fetched `2026-10-20T01:15:09+00:00`
@@ -256,15 +265,6 @@ _Generiert: 2026-10-20T17:22:13+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AI・デジタル改革推進会議の開催について掲載いたしました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **How 3 Java Champions are using GitHub Copilot for increased productivity** — Score 9, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-10-20T16:05:03+00:00`, fetched `2026-10-20T16:26:21+00:00`
-  - Treffer: AI/KI, Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

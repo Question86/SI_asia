@@ -643,6 +643,27 @@
     "id": "d1b5bfa7944aae0f6ee1"
   },
   {
+    "title": "Dependabot alerts REST API now includes dependency versions",
+    "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-20T17:13:40+00:00",
+    "fetched_at": "2026-10-20T17:33:51+00:00",
+    "summary": "You can now get the version of a vulnerable dependency directly from Dependabot alert responses in the REST API. Each alert’s dependency object includes a new version_requirement field with the… The post Dependabot alerts REST API now includes dependency versions appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "354363b090bad9d4e52d"
+  },
+  {
     "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
     "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -929,6 +950,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b953c510c182e4f873fd"
+  },
+  {
+    "title": "M 5.4 - 192 km S of Burica, Panama",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nl",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-20T17:23:26.040+00:00",
+    "fetched_at": "2026-10-20T17:33:51+00:00",
+    "summary": "Time 2026-10-20 17:05:48 UTC 2026-10-20 17:05:48 UTC at epicenter Location 6.323°N 82.569°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "f9f3b34e56c6c85d572e"
   },
   {
     "title": "M 4.8 - south of the Fiji Islands",
