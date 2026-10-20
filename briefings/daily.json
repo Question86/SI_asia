@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T23:36:36+00:00",
-  "today_file_total": 98,
+  "generated_at": "2026-10-20T23:44:41+00:00",
+  "today_file_total": 100,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -348,6 +348,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "domain:php.net",
+      "title": "PHP: News Archive - 2026",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.php.net/archive/2026.php"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "earthquake:m 6.3 - 204 km wnw of port-olry, vanuatu:6.3",
       "title": "M 6.3 - 204 km WNW of Port-Olry, Vanuatu",
       "sources": [
@@ -373,8 +396,8 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "earthquake:m 4.5 - 115 km nne of barishal, pakistan:4.5",
-      "title": "M 4.5 - 115 km NNE of Barishal, Pakistan",
+      "key": "earthquake:m 5.1 - south of the fiji islands:5.1",
+      "title": "M 5.1 - south of the Fiji Islands",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -382,7 +405,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3r1"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3r3"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -464,31 +487,6 @@
       "network_score": 14.1,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:venture-funding-retreats-thailand-corporate-investors-gain-more",
-      "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
