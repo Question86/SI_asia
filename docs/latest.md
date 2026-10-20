@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T03:55:20+00:00_
+_Generiert: 2026-10-20T04:02:05+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題“ aus JVN Japan Vulnerability Notes (Score 17, mixed).
+23 neue relevante Treffer. Stärkstes Signal: „複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題“ aus JVN Japan Vulnerability Notes (Score 17, mixed).
 
 ## Priorität Hoch
 
@@ -132,14 +132,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米Appleのワールドワイドマーケティング担当上級副社長、グレッグ・ジョズウィアック氏は10月19日（現地時間）、Xに「Can’t wait to pro and tell next week.」と投稿した。Appleのロゴを指で描くような動画が添えられている。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース** — Score 5, observation — [Quelle](https://news.web.nhk/newsweb/na/nd-20261020de61888)
+- **新コード決済「teppay」きょう開始 提供の狙いは？ “キャッシュレス疲れ”解消なるか** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/mobile/articles/2610/20/news042.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-19T20:38:05+00:00`, fetched `2026-10-20T01:15:09+00:00`
+  - Zeit: published `2026-10-19T21:21:55+00:00`, fetched `2026-10-20T04:01:24+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を…
+  - Kurz: 10月20日、JR東日本の「モバイルSuica」アプリにて新たなコード決済サービス“teppay（テッペイ）”が順次スタートする。2027年春にはパスモとの提携により、「モバイルPASMO」アプリでの提供も予定されている。サービス開始に際し、teppayの概要や提供の狙い、そして今後の展開を整理する。 teppayの主な特徴と機能 既存...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
