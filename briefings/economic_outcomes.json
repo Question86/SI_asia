@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T07:08:52+00:00",
+  "generated_at": "2026-10-20T07:32:09+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -3701,12 +3701,12 @@
     {
       "event_id": "evt_315c181c08c6f1574291",
       "title": "M 5.1 - 263 km WSW of Yanglong, China",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -6160,7 +6160,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5277f8c9783d6a2db3e7",
@@ -11462,7 +11462,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_99397910c1bd5bbe64ac",
