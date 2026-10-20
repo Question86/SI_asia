@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T08:58:46+00:00_
+_Generiert: 2026-10-20T09:49:39+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „Banks want AI agents to move money, as long as someone is accountable“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+45 neue relevante Treffer. Stärkstes Signal: „Banks want AI agents to move money, as long as someone is accountable“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -91,6 +91,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)
   - Kurz: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. https://www.comfy.org/ ComfyUI The most powerful and modular AI engine for content creation. ComfyUI is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output. Its powerful and modular node graph interface emp…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GoTo’s 27B model speaks Batak, but the real test is who can afford to run it** — Score 15, observation — [Quelle](https://e27.co/gotos-27b-model-speaks-batak-but-the-real-test-is-who-can-afford-to-run-it-20261020/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-20T09:17:49+00:00`, fetched `2026-10-20T09:49:12+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
+  - Kurz: For most of the generative AI boom, someone in North Sumatra typing a question in Batak Toba has been talking to a machine that, at best, half understands them. GoTo Group says it wants to change that. But the hard part is only beginning. Indonesia’s largest digital ecosystem on Monday released a 27-billion-parameter language model […] The post GoTo’s 27B model speaks Batak, but the real test is who can afford to ru…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **HSBC says AI will create jobs. Southeast Asia should read the fine print first** — Score 15, observation — [Quelle](https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

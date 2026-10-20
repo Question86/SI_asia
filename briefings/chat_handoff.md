@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-20T08:58:46+00:00_
+_Generated: 2026-10-20T09:49:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `43`
+- findings: `45`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-20T08:58:46+00:00_
 - url: https://github.com/Comfy-Org/ComfyUI
 - summary: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. https://www.comfy.org/ ComfyUI The most powerful and modular AI engine for content creation. ComfyUI is the AI cr…
 
-### 4. HSBC says AI will create jobs. Southeast Asia should read the fine print first
+### 4. GoTo’s 27B model speaks Batak, but the real test is who can afford to run it
 - source: e27 Asia Startup and Tech Feed
 - score: `15`
-- published: `2026-10-20T05:00:19+00:00`
-- url: https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/
-- summary: The most revealing thing about HSBC’s latest survey of the world’s entrepreneurs isn’t the headline number. It’s who is spending it. On the surface, the Global Entrepreneurial Wealth Report 2026 reads like a hype cycle in spreadsheet form. Business owners acr…
+- published: `2026-10-20T09:17:49+00:00`
+- url: https://e27.co/gotos-27b-model-speaks-batak-but-the-real-test-is-who-can-afford-to-run-it-20261020/
+- summary: For most of the generative AI boom, someone in North Sumatra typing a question in Batak Toba has been talking to a machine that, at best, half understands them. GoTo Group says it wants to change that. But the hard part is only beginning. Indonesia’s largest…
 
 ### 5. Euro area monthly balance of payments: August 2026
 - source: ECB Statistical Press Releases
