@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-20T11:22:08+00:00",
+  "generated_at": "2026-10-20T11:34:21+00:00",
   "topics": {
     "security": [
       {
@@ -40,6 +40,13 @@
         "url": "https://jvn.jp/jp/JVN29783594/"
       },
       {
+        "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-20T11:20:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4052"
+      },
+      {
         "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-20T11:15:53+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-20T11:15:53+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4049"
-      },
-      {
-        "title": "[NEU] [hoch] Froxlor: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-20T11:15:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4050"
       }
     ],
     "ai": [
@@ -103,6 +103,13 @@
         "published_at": "2026-10-20T05:00:19+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/"
+      },
+      {
+        "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-20T11:20:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4052"
       },
       {
         "title": "[NEU] [hoch] vllm: Mehrere Schwachstellen",
@@ -138,13 +145,6 @@
         "published_at": "2026-10-20T02:24:18+00:00",
         "relevance_score": 10,
         "url": "https://www.digital.go.jp/councils/ai_digital"
-      },
-      {
-        "title": "How I use AI to keep the details straight in international partnerships",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-20T03:00:42+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/"
       }
     ],
     "github": [
@@ -244,6 +244,13 @@
         "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/"
       },
       {
+        "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-20T11:20:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4052"
+      },
+      {
         "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-20T11:15:53+00:00",
@@ -291,13 +298,6 @@
         "published_at": "2026-10-20T08:00:00+00:00",
         "relevance_score": 13,
         "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html"
-      },
-      {
-        "title": "Frank Elderson: Interview with Die Presse",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-10-20T07:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html"
       }
     ],
     "general": [
