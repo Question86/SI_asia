@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-20T14:59:07+00:00_
+_Generiert: 2026-10-20T15:17:38+00:00_
 
 ## [UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen
 
-- Ranking Score: `32.94`
+- Ranking Score: `32.88`
 - Raw Network Score: `53.3`
 - Max Monitor Score: `26`
 - Reichweite: `specialist` / `2.5`
@@ -19,7 +19,7 @@ _Generiert: 2026-10-20T14:59:07+00:00_
 
 ## Euro area monthly balance of payments: August 2026
 
-- Ranking Score: `22.16`
+- Ranking Score: `22.14`
 - Raw Network Score: `23.2`
 - Max Monitor Score: `13`
 - Reichweite: `institutional` / `5.0`
