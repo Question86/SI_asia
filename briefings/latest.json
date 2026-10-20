@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T08:45:38+00:00",
-  "run_id": "2026-10-20T08:45:38+00:00",
+  "generated_at": "2026-10-20T08:58:46+00:00",
+  "run_id": "2026-10-20T08:58:46+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 43,
     "displayed_findings": 43,
     "high": 0,
@@ -2207,28 +2207,7 @@
       "id": "f444059804b3754795bf"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Ecosystem Roundup: Betagro buys control of Freshket as Thai corporates close in",
-      "url": "https://e27.co/ecosystem-roundup-betagro-buys-control-of-freshket-as-thai-corporates-close-in-20261020/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-20T08:29:26+00:00",
-      "fetched_at": "2026-10-20T08:45:08+00:00",
-      "summary": "Betagro has taken majority control of Freshket, the Bangkok platform that supplies ingredients to hotels, restaurants and caterers, through its venture arm Betagro Ventures. Neither side disclosed the price, the stake size or what happens to Freshket’s venture backers. This is less a courtship than a marriage after a long engagement: Betagro Holding, the listed group’s […] The post Ecosystem Roundup: Betagro buys co…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e6ce97b4c63f8627404e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
