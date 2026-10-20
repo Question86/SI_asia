@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T18:01:50+00:00",
-  "run_id": "2026-10-20T18:01:50+00:00",
+  "generated_at": "2026-10-20T18:27:53+00:00",
+  "run_id": "2026-10-20T18:27:53+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 86
+      "configured_public_sources_only": 89
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 86,
-    "displayed_findings": 86,
+    "new_relevant_findings": 3,
+    "today_file_total": 89,
+    "displayed_findings": 89,
     "high": 1,
     "medium": 21,
-    "observe": 64,
+    "observe": 67,
     "source_errors": 0
   },
   "sections": {
@@ -676,6 +676,27 @@
         "id": "d1b5bfa7944aae0f6ee1"
       },
       {
+        "title": "Updates to GitHub secret scanning",
+        "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-20T18:03:55+00:00",
+        "fetched_at": "2026-10-20T18:27:24+00:00",
+        "summary": "This update covers improvements and bug fixes for GitHub secret scanning. Update to audit log events On November 12, 2026, the business field in affected secret_scanning_alert.* and secret_scanning_push_protection.bypass audit log… The post Updates to GitHub secret scanning appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "CodeQL/Dependabot",
+          "GitHub"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2e02a8e6a0eca5140a1e"
+      },
+      {
         "title": "Dependabot alerts REST API now includes dependency versions",
         "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
         "source": "GitHub Changelog Atom",
@@ -760,6 +781,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9c4d024f3a6dd2b61a92"
+      },
+      {
+        "title": "OpenAI acquires Orchestra Bio",
+        "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-20T00:00:00+00:00",
+        "fetched_at": "2026-10-20T18:27:24+00:00",
+        "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9d9bc622911aebc02348"
       },
       {
         "title": "Message for the 58th Annual Financial Executives Institute of the Philippines (FINEX) Conference",
@@ -2177,6 +2219,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f444059804b3754795bf"
+      },
+      {
+        "title": "Bulk migrate branch protections to rulesets for a repository",
+        "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-20T18:06:21+00:00",
+        "fetched_at": "2026-10-20T18:27:24+00:00",
+        "summary": "You can now convert all branch protection rules of a repository to rulesets in a single action. This is an extension of the ability to convert a single branch protection… The post Bulk migrate branch protections to rulesets for a repository appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "03fcb7f0882d5d20bf1c"
       }
     ]
   },
@@ -2825,6 +2887,27 @@
       "id": "d1b5bfa7944aae0f6ee1"
     },
     {
+      "title": "Updates to GitHub secret scanning",
+      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-20T18:03:55+00:00",
+      "fetched_at": "2026-10-20T18:27:24+00:00",
+      "summary": "This update covers improvements and bug fixes for GitHub secret scanning. Update to audit log events On November 12, 2026, the business field in affected secret_scanning_alert.* and secret_scanning_push_protection.bypass audit log… The post Updates to GitHub secret scanning appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "CodeQL/Dependabot",
+        "GitHub"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e02a8e6a0eca5140a1e"
+    },
+    {
       "title": "Dependabot alerts REST API now includes dependency versions",
       "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
       "source": "GitHub Changelog Atom",
@@ -2909,6 +2992,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9c4d024f3a6dd2b61a92"
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "fetched_at": "2026-10-20T18:27:24+00:00",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9d9bc622911aebc02348"
     },
     {
       "title": "Message for the 58th Annual Financial Executives Institute of the Philippines (FINEX) Conference",
@@ -4326,9 +4430,92 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "f444059804b3754795bf"
+    },
+    {
+      "title": "Bulk migrate branch protections to rulesets for a repository",
+      "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-20T18:06:21+00:00",
+      "fetched_at": "2026-10-20T18:27:24+00:00",
+      "summary": "You can now convert all branch protection rules of a repository to rulesets in a single action. This is an extension of the ability to convert a single branch protection… The post Bulk migrate branch protections to rulesets for a repository appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "03fcb7f0882d5d20bf1c"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates to GitHub secret scanning",
+      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-20T18:03:55+00:00",
+      "fetched_at": "2026-10-20T18:27:24+00:00",
+      "summary": "This update covers improvements and bug fixes for GitHub secret scanning. Update to audit log events On November 12, 2026, the business field in affected secret_scanning_alert.* and secret_scanning_push_protection.bypass audit log… The post Updates to GitHub secret scanning appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "CodeQL/Dependabot",
+        "GitHub"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e02a8e6a0eca5140a1e"
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "fetched_at": "2026-10-20T18:27:24+00:00",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9d9bc622911aebc02348"
+    },
+    {
+      "title": "Bulk migrate branch protections to rulesets for a repository",
+      "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-20T18:06:21+00:00",
+      "fetched_at": "2026-10-20T18:27:24+00:00",
+      "summary": "You can now convert all branch protection rules of a repository to rulesets in a single action. This is an extension of the ability to convert a single branch protection… The post Bulk migrate branch protections to rulesets for a repository appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "03fcb7f0882d5d20bf1c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T18:01:50+00:00_
+_Generiert: 2026-10-20T18:27:53+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 26, observation).
+89 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 26, observation).
 
 ## Priorität Hoch
 
@@ -158,6 +158,15 @@ _Generiert: 2026-10-20T18:01:50+00:00_
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)
   - Kurz: Speech by Ms Junko Koeda, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Kumamoto, 15 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Updates to GitHub secret scanning** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-20T18:03:55+00:00`, fetched `2026-10-20T18:27:24+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.5); recent (+1.0)
+  - Kurz: This update covers improvements and bug fixes for GitHub secret scanning. Update to audit log events On November 12, 2026, the business field in affected secret_scanning_alert.* and secret_scanning_push_protection.bypass audit log… The post Updates to GitHub secret scanning appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Dependabot alerts REST API now includes dependency versions** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-10-20T17:13:40+00:00`, fetched `2026-10-20T17:33:51+00:00`
@@ -184,6 +193,15 @@ _Generiert: 2026-10-20T18:01:50+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Ibrahim Arief did not set out to found a legal tech startup. He set out to stay out of prison. The former VP (Engineering) at Bukalapak, widely known as Ibam in the startup circle, is a defendant in Indonesia’s Chromebook procurement case, the graft prosecution that also ensnared former education minister and Gojek co-founder Nadiem […] The post Ibrahim Arief is building a legal AI startup from city detention appear…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **OpenAI acquires Orchestra Bio** — Score 12, observation — [Quelle](https://openai.com/index/openai-to-acquire-orchestra-bio)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-20T00:00:00+00:00`, fetched `2026-10-20T18:27:24+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
+  - Kurz: OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Message for the 58th Annual Financial Executives Institute of the Philippines (FINEX) Conference** — Score 12, opportunity — [Quelle](https://www.bis.org/speeches/20261020-message-58th-annual-financial-executives-institute-philippines-finex-conference)
   - Quelle: BIS Central Bankers Speeches / `rss`
@@ -247,24 +265,6 @@ _Generiert: 2026-10-20T18:01:50+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: なみき @sasaki445 1か月ぐらいClaude Codeと伴走してたけどもう疲れてしまった。育てたら快適になると信じて育ててたけど、もはや健康被害が出そうなレベルで強いストレスを感じている。AI使うのやめたいです。 2026-10-19 11:37:32
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub package firewall in public preview** — Score 10, risk — [Quelle](https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-10-20T16:11:53+00:00`, fetched `2026-10-20T17:21:42+00:00`
-  - Treffer: GitHub, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); GitHub (+2.5); recent (+1.0)
-  - Kurz: An increasing number of malware attacks exploit systems at package installation time, harvesting credentials on CI/CD hosts or developer workstations without even running the package’s code. To stem this tide… The post GitHub package firewall in public preview appeared first on The GitHub Blog .
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI・デジタル改革推進会議の開催について掲載いたしました** — Score 10, observation — [Quelle](https://www.digital.go.jp/councils/ai_digital)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-20T02:24:18+00:00`, fetched `2026-10-20T02:33:10+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: AI・デジタル改革推進会議の開催について掲載いたしました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
