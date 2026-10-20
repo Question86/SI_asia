@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-20T10:43:50+00:00_
+_Generated: 2026-10-20T11:00:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `50`
+- findings: `55`
 
 ## Top Signals
 
@@ -29,19 +29,19 @@ _Generated: 2026-10-20T10:43:50+00:00_
 - url: https://jvn.jp/jp/JVN33436631/
 - summary: Lenovoが提供する複数のタブレットのAVB（Android Verified Boot）機能では、AOSP（Android Open Source Project）で公開されているテスト用の鍵をそのまま使用しています。
 
-### 4. Comfy-Org/ComfyUI
+### 4. [UPDATE] [mittel] Red Hat Quay und Enterprise Linux (pypdf, urllib3, URI): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-20T10:52:41+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4024
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Quay und Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder Sicherheitsmaßnahmen zu umgehen.
+
+### 5. Comfy-Org/ComfyUI
 - source: GitHub Trending RSS All Languages Daily
 - score: `16`
 - published: `None`
 - url: https://github.com/Comfy-Org/ComfyUI
 - summary: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. https://www.comfy.org/ ComfyUI The most powerful and modular AI engine for content creation. ComfyUI is the AI cr…
-
-### 5. GoTo’s 27B model speaks Batak, but the real test is who can afford to run it
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-10-20T09:17:49+00:00`
-- url: https://e27.co/gotos-27b-model-speaks-batak-but-the-real-test-is-who-can-afford-to-run-it-20261020/
-- summary: For most of the generative AI boom, someone in North Sumatra typing a question in Batak Toba has been talking to a machine that, at best, half understands them. GoTo Group says it wants to change that. But the hard part is only beginning. Indonesia’s largest…
 
 ### 6. Euro area monthly balance of payments: August 2026
 - source: ECB Statistical Press Releases

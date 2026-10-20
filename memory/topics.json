@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-20T10:43:50+00:00",
+  "generated_at": "2026-10-20T11:00:44+00:00",
   "topics": {
     "security": [
       {
@@ -19,6 +19,13 @@
         "url": "https://jvn.jp/jp/JVN33436631/"
       },
       {
+        "title": "[UPDATE] [mittel] Red Hat Quay und Enterprise Linux (pypdf, urllib3, URI): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-20T10:52:41+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4024"
+      },
+      {
         "title": "アツミ電氣製DVRに利用可能な非公開機能を悪用される問題",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-20T14:00:00+09:00",
@@ -31,6 +38,13 @@
         "published_at": "2026-10-20T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN29783594/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Grafana: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-20T10:52:40+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3910"
       },
       {
         "title": "[UPDATE] [hoch] MariaDB: Mehrere Schwachstellen",
@@ -59,13 +73,6 @@
         "published_at": "2026-10-20T06:15:00+00:00",
         "relevance_score": 11,
         "url": "https://www.twcert.org.tw/tw/cp-132-11296-d3d95-1.html"
-      },
-      {
-        "title": "鎧睿全球科技｜ArmorX Spam - 存在2個漏洞",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-10-20T06:08:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11294-4e5d8-1.html"
       }
     ],
     "ai": [
@@ -295,6 +302,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5"
       },
       {
+        "title": "M 5.0 - 81 km S of Sand Point, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-20T10:58:14.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3lf"
+      },
+      {
         "title": "M 4.5 - 100 km SSW of Alo, Wallis and Futuna",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-20T09:22:19.040+00:00",
@@ -335,13 +349,6 @@
         "published_at": "2026-10-20T01:10:16.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1"
-      },
-      {
-        "title": "Photoshopをオープンソースで再構築した「PhotoCraft」が日本語フォントの縦書きに対応、各ツールの使い勝手も向上",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-20T01:17:25+00:00",
-        "relevance_score": 8,
-        "url": "https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261020.html"
       }
     ]
   }

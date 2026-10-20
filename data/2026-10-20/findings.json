@@ -92,6 +92,30 @@
     "id": "b1b6f2ce21814bcf3b77"
   },
   {
+    "title": "[UPDATE] [mittel] Red Hat Quay und Enterprise Linux (pypdf, urllib3, URI): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4024",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-20T10:52:41+00:00",
+    "fetched_at": "2026-10-20T11:00:05+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Quay und Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder Sicherheitsmaßnahmen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "154209031cf0b595f6d8"
+  },
+  {
     "title": "Comfy-Org/ComfyUI",
     "url": "https://github.com/Comfy-Org/ComfyUI",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -203,6 +227,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "35381a9996fbc27adff6"
+  },
+  {
+    "title": "[UPDATE] [mittel] Grafana: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3910",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-20T10:52:40+00:00",
+    "fetched_at": "2026-10-20T11:00:05+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Grafana ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Denial of Service Attacken durchzuführen und auf vertrauliche Informationen zuzugreifen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "42a2de9f8d82188224bd"
   },
   {
     "title": "[UPDATE] [hoch] MariaDB: Mehrere Schwachstellen",
@@ -557,6 +604,42 @@
     "id": "b953c510c182e4f873fd"
   },
   {
+    "title": "M 5.0 - 81 km S of Sand Point, Alaska",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3lf",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-20T10:58:14.040+00:00",
+    "fetched_at": "2026-10-20T11:00:05+00:00",
+    "summary": "DYFI? - II Time 2026-10-20 10:40:40 UTC 2026-10-20 10:40:40 UTC at epicenter Location 54.609°N 160.329°W Depth 35.00 km (21.75 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "e852686adf305c86ebc3"
+  },
+  {
     "title": "M 4.5 - 100 km SSW of Alo, Wallis and Futuna",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3l3",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -842,6 +925,26 @@
     "id": "aff2371db19b3d6788a7"
   },
   {
+    "title": "Werbeblocker Pi-hole: Update stopft Befehlsschmuggel-Lücke und mehr",
+    "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Befehlsschmuggel-Luecke-und-mehr-11493503.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-10-20T10:46:00.000+00:00",
+    "fetched_at": "2026-10-20T11:00:05+00:00",
+    "summary": "Der Werbeblocker Pi-hole bessert mit einem Update zahlreiche Schwachstellen aus. Nutzerinnen und Nutzer sollten es rasch anwenden.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a87cf7d06ad06938db43"
+  },
+  {
     "title": "The consumer is still human. The gatekeeper isn’t",
     "url": "https://e27.co/the-consumer-is-still-human-the-gatekeeper-isnt-20261016/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -881,6 +984,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3f35d530b600b326aad2"
+  },
+  {
+    "title": "「自治体からの照会事務の自動化などの国・地方AI共通サービスに関する実証事業」の参加自治体（都道府県及び市区町村）を募集します",
+    "url": "https://www.digital.go.jp/policies/genai/0ef07948-2f5d-4b45-8ebe-ea974c20a3ac",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-10-20T10:51:58+00:00",
+    "fetched_at": "2026-10-20T11:00:05+00:00",
+    "summary": "「自治体からの照会事務の自動化などの国・地方AI共通サービスに関する実証事業」の参加自治体（都道府県及び市区町村）を募集します",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fc9849aa8baee040a829"
   },
   {
     "title": "What 9 Tokyo Deep Tech Startups Learned About Southeast Asia’s Appetite for Japanese Innovation",
