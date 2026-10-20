@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T04:02:05+00:00",
-  "run_id": "2026-10-20T04:02:05+00:00",
+  "generated_at": "2026-10-20T04:25:35+00:00",
+  "run_id": "2026-10-20T04:25:35+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
@@ -1135,50 +1135,7 @@
       "id": "831acd0a412efccbe939"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The consumer is still human. The gatekeeper isn’t",
-      "url": "https://e27.co/the-consumer-is-still-human-the-gatekeeper-isnt-20261016/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-20T04:00:06+00:00",
-      "fetched_at": "2026-10-20T04:01:24+00:00",
-      "summary": "For most of my career in marketing, the basic equation was simple: Brands compete for consumers’ attention. We built campaigns to reach people, influence them, persuade them and ultimately get them to buy. Search changed that equation. Social media changed it again. Algorithms changed it further. Now AI is changing something much more fundamental. The […] The post The consumer is still human. The gatekeeper isn’t ap…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fbc51aa3fd6afc5bd18a"
-    },
-    {
-      "title": "新コード決済「teppay」きょう開始 提供の狙いは？ “キャッシュレス疲れ”解消なるか",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2610/20/news042.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-19T21:21:55+00:00",
-      "fetched_at": "2026-10-20T04:01:24+00:00",
-      "summary": "10月20日、JR東日本の「モバイルSuica」アプリにて新たなコード決済サービス“teppay（テッペイ）”が順次スタートする。2027年春にはパスモとの提携により、「モバイルPASMO」アプリでの提供も予定されている。サービス開始に際し、teppayの概要や提供の狙い、そして今後の展開を整理する。 teppayの主な特徴と機能 既存...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e62307aacc6dd8d9a864"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
