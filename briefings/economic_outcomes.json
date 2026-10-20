@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T06:50:55+00:00",
+  "generated_at": "2026-10-20T07:08:52+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -2843,12 +2843,12 @@
     {
       "event_id": "evt_2698e83566a516202a62",
       "title": "M 5.3 - 209 km NW of Port-Olry, Vanuatu",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -3146,7 +3146,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2bbc0961ed646ad07650",
@@ -3697,6 +3697,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_315c181c08c6f1574291",
+      "title": "M 5.1 - 263 km WSW of Yanglong, China",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_319761d8efa51b79a44f",
@@ -4939,7 +4950,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_43a66ad3fda61d859fca",
@@ -5104,7 +5115,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_457e7be43e096f5d757d",
