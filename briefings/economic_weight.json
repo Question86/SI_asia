@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T01:56:44+00:00",
+  "generated_at": "2026-10-20T02:08:33+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1139,7 +1139,7 @@
       "p90_usd": 110400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T00:52:24+00:00",
-      "last_seen_at": "2026-10-20T01:56:27+00:00",
+      "last_seen_at": "2026-10-20T02:08:15+00:00",
       "status": "active"
     },
     {
@@ -3132,6 +3132,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_5f808ae7f49ee55eb2d0",
+      "title": "M 4.5 - 156 km SE of Kuqa, China",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-20T01:56:27+00:00",
+      "last_seen_at": "2026-10-20T02:08:15+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_65f6c987ee2baa2935b2",
       "title": "M 4.8 - 92 km SSW of Nikolski, Alaska",
       "event_classes": [
@@ -3997,23 +4014,6 @@
       "first_seen_at": "2026-09-29T10:50:43+00:00",
       "last_seen_at": "2026-09-29T19:18:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_5f808ae7f49ee55eb2d0",
-      "title": "M 4.5 - 156 km SE of Kuqa, China",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-20T01:56:27+00:00",
-      "last_seen_at": "2026-10-20T01:56:27+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_00e85c3d2c185ba34101",
@@ -6562,7 +6562,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-20T01:15:47+00:00",
-      "last_seen_at": "2026-10-20T01:56:27+00:00",
+      "last_seen_at": "2026-10-20T02:08:15+00:00",
       "status": "active"
     },
     {
@@ -9945,7 +9945,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T05:06:13+00:00",
-      "last_seen_at": "2026-10-20T01:56:27+00:00",
+      "last_seen_at": "2026-10-20T02:08:15+00:00",
       "status": "active"
     },
     {
@@ -10421,7 +10421,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T01:15:47+00:00",
-      "last_seen_at": "2026-10-20T01:56:27+00:00",
+      "last_seen_at": "2026-10-20T02:08:15+00:00",
       "status": "active"
     },
     {
@@ -15301,7 +15301,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T01:15:47+00:00",
-      "last_seen_at": "2026-10-20T01:56:27+00:00",
+      "last_seen_at": "2026-10-20T02:08:15+00:00",
       "status": "active"
     },
     {
@@ -19233,6 +19233,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c9bb4ca81189dce60b9b",
+      "title": "Every company grows through thorns. Know when one has gone too deep",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 111200.0,
+      "p50_usd": 11120000.0,
+      "p90_usd": 1112000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-20T02:08:15+00:00",
+      "last_seen_at": "2026-10-20T02:08:15+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_014823216e5b4b658b61",
       "title": "Multiples vulnérabilités dans Postfix (09 septembre 2026)",
       "event_classes": [
@@ -21716,6 +21733,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_454b7a38fe5732fdde82",
+      "title": "From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philippines",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "credit"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-20T01:56:27+00:00",
+      "last_seen_at": "2026-10-20T02:08:15+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_4b5536472bb64a18606b",
       "title": "E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ",
       "event_classes": [
@@ -22224,23 +22258,6 @@
       "first_seen_at": "2026-09-14T07:35:53+00:00",
       "last_seen_at": "2026-09-14T09:28:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_454b7a38fe5732fdde82",
-      "title": "From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philippines",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "credit"
-      ],
-      "p10_usd": 109600.0,
-      "p50_usd": 10960000.0,
-      "p90_usd": 1096000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-20T01:56:27+00:00",
-      "last_seen_at": "2026-10-20T01:56:27+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_01f8d7013bd851003572",
@@ -23259,7 +23276,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T00:52:24+00:00",
-      "last_seen_at": "2026-10-20T01:56:27+00:00",
+      "last_seen_at": "2026-10-20T02:08:15+00:00",
       "status": "active"
     },
     {
@@ -24262,7 +24279,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-19T07:33:09+00:00",
-      "last_seen_at": "2026-10-20T01:56:27+00:00",
+      "last_seen_at": "2026-10-20T02:08:15+00:00",
       "status": "active"
     },
     {
@@ -24687,7 +24704,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T00:52:24+00:00",
-      "last_seen_at": "2026-10-20T01:56:27+00:00",
+      "last_seen_at": "2026-10-20T02:08:15+00:00",
       "status": "active"
     },
     {
