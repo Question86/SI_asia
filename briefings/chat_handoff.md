@@ -1,63 +1,70 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-20T09:49:39+00:00_
+_Generated: 2026-10-20T09:58:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `45`
+- findings: `46`
 
 ## Top Signals
 
-### 1. Banks want AI agents to move money, as long as someone is accountable
+### 1. [UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `26`
+- published: `2026-10-20T09:55:51+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3968
+- summary: Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, um beliebigen Programmcode auszuführen oder Cross-Site-Scripting-Angriffe durchzuführen.
+
+### 2. Banks want AI agents to move money, as long as someone is accountable
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-10-20T07:39:30+00:00`
 - url: https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/
 - summary: The pitch for agentic payments usually goes like this: software that negotiates, pays, reconciles and optimises cash while the finance team sleeps. A new report from UOB Global Economics & Markets Research is a reminder that a payment involves more than movin…
 
-### 2. 複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題
+### 3. 複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題
 - source: JVN Japan Vulnerability Notes
 - score: `17`
 - published: `2026-10-20T12:00:15+09:00`
 - url: https://jvn.jp/jp/JVN33436631/
 - summary: Lenovoが提供する複数のタブレットのAVB（Android Verified Boot）機能では、AOSP（Android Open Source Project）で公開されているテスト用の鍵をそのまま使用しています。
 
-### 3. Comfy-Org/ComfyUI
+### 4. Comfy-Org/ComfyUI
 - source: GitHub Trending RSS All Languages Daily
 - score: `16`
 - published: `None`
 - url: https://github.com/Comfy-Org/ComfyUI
 - summary: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. https://www.comfy.org/ ComfyUI The most powerful and modular AI engine for content creation. ComfyUI is the AI cr…
 
-### 4. GoTo’s 27B model speaks Batak, but the real test is who can afford to run it
+### 5. GoTo’s 27B model speaks Batak, but the real test is who can afford to run it
 - source: e27 Asia Startup and Tech Feed
 - score: `15`
 - published: `2026-10-20T09:17:49+00:00`
 - url: https://e27.co/gotos-27b-model-speaks-batak-but-the-real-test-is-who-can-afford-to-run-it-20261020/
 - summary: For most of the generative AI boom, someone in North Sumatra typing a question in Batak Toba has been talking to a machine that, at best, half understands them. GoTo Group says it wants to change that. But the hard part is only beginning. Indonesia’s largest…
 
-### 5. Euro area monthly balance of payments: August 2026
+### 6. Euro area monthly balance of payments: August 2026
 - source: ECB Statistical Press Releases
 - score: `13`
 - published: `2026-10-20T08:00:00+00:00`
 - url: https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html
 - summary: Euro area monthly balance of payments: August 2026
 
-### 6. M 6.3 - 204 km WNW of Port-Olry, Vanuatu
+### 7. M 6.3 - 204 km WNW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-20T04:36:56.091+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl
 - summary: PAGER - GREEN ShakeMap - I Time 2026-10-20 04:20:38 UTC 2026-10-20 04:20:38 UTC at epicenter Location 14.028°S 165.484°E Depth 10.00 km (6.21 mi)
 
-### 7. As venture funding retreats, Thailand’s corporate investors gain more power
+### 8. As venture funding retreats, Thailand’s corporate investors gain more power
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-20T01:00:42+00:00`
 - url: https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/
 - summary: In Thailand, many of the most visible startup investors carry the names of the country’s largest banks and business groups. SCBX operates SCB 10X. Kasikornbank established Beacon Venture Capital. Bank of Ayudhya created Krungsri Finnovate, while Bangkok Bank…
 
-### 8. Ibrahim Arief is building a legal AI startup from city detention
+### 9. Ibrahim Arief is building a legal AI startup from city detention
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-20T01:00:25+00:00`
