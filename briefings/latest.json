@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T07:31:28+00:00",
-  "run_id": "2026-10-20T07:31:28+00:00",
+  "generated_at": "2026-10-20T07:49:40+00:00",
+  "run_id": "2026-10-20T07:49:40+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 40
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,16 +19,62 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
-    "medium": 5,
-    "observe": 32,
+    "medium": 6,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Banks want AI agents to move money, as long as someone is accountable",
+        "url": "https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-20T07:39:30+00:00",
+        "fetched_at": "2026-10-20T07:49:11+00:00",
+        "summary": "The pitch for agentic payments usually goes like this: software that negotiates, pays, reconciles and optimises cash while the finance team sleeps. A new report from UOB Global Economics & Markets Research is a reminder that a payment involves more than moving the money. Someone also has to answer for it. The bank’s argument is […] The post Banks want AI agents to move money, as long as someone is accountable appear…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "0b26d9937752eaa4eca5"
+      },
       {
         "title": "複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
         "url": "https://jvn.jp/jp/JVN33436631/",
@@ -430,6 +476,42 @@
         "id": "b953c510c182e4f873fd"
       },
       {
+        "title": "M 4.9 - Pagan region, Northern Mariana Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3kg",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-20T07:33:12.040+00:00",
+        "fetched_at": "2026-10-20T07:49:11+00:00",
+        "summary": "Time 2026-10-20 07:09:08 UTC 2026-10-20 07:09:08 UTC at epicenter Location 18.838°N 145.517°E Depth 250.03 km (155.36 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "fae96c960bd2ea21ffe4"
+      },
+      {
         "title": "M 5.3 - 209 km NW of Port-Olry, Vanuatu",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k5",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -684,6 +766,48 @@
         "id": "3f35d530b600b326aad2"
       },
       {
+        "title": "What 9 Tokyo Deep Tech Startups Learned About Southeast Asia’s Appetite for Japanese Innovation",
+        "url": "https://e27.co/deloitte-demo-day-2026-20261020/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-20T07:46:54+00:00",
+        "fetched_at": "2026-10-20T07:49:11+00:00",
+        "summary": "On 14 October 2026, e27 hosted Borderless Innovation: X-HUB Tokyo-Singapore Demo Day 2026 with X-HUB TOKYO, the Tokyo Metropolitan Government’s global startup accelerator, run by Deloitte Tohmatsu. This is the third year e27 has partnered with Deloitte Tohmatsu to bring Tokyo’s startups to Southeast Asia, and this year’s cohort arrived with a clear focus: technology […] The post What 9 Tokyo Deep Tech Startups Learn…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Southeast Asia",
+          "Watchgraph:sports_sf_tech_events"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules sports_sf_tech_events (+3.0); watchgraph demote demo (x0.45)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "sports_sf_tech_events"
+        ],
+        "watchgraph_reasons": [
+          "sports_sf_tech_events: demo day"
+        ],
+        "market_context": [
+          "DIS",
+          "CMCSA",
+          "ABNB",
+          "BKNG",
+          "DAL",
+          "UAL",
+          "TKO",
+          "FWONK",
+          "AAL",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "919334b5cca6e8664d07"
+      },
+      {
         "title": "古川大臣記者会見（令和8年10月20日）動画を掲載しました",
         "url": "https://www.digital.go.jp/speech/minister-261020-01",
         "source": "Japan Digital Agency News RSS",
@@ -933,6 +1057,52 @@
     ]
   },
   "findings": [
+    {
+      "title": "Banks want AI agents to move money, as long as someone is accountable",
+      "url": "https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-20T07:39:30+00:00",
+      "fetched_at": "2026-10-20T07:49:11+00:00",
+      "summary": "The pitch for agentic payments usually goes like this: software that negotiates, pays, reconciles and optimises cash while the finance team sleeps. A new report from UOB Global Economics & Markets Research is a reminder that a payment involves more than moving the money. Someone also has to answer for it. The bank’s argument is […] The post Banks want AI agents to move money, as long as someone is accountable appear…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "0b26d9937752eaa4eca5"
+    },
     {
       "title": "複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
       "url": "https://jvn.jp/jp/JVN33436631/",
@@ -1332,6 +1502,42 @@
       "id": "b953c510c182e4f873fd"
     },
     {
+      "title": "M 4.9 - Pagan region, Northern Mariana Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3kg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-20T07:33:12.040+00:00",
+      "fetched_at": "2026-10-20T07:49:11+00:00",
+      "summary": "Time 2026-10-20 07:09:08 UTC 2026-10-20 07:09:08 UTC at epicenter Location 18.838°N 145.517°E Depth 250.03 km (155.36 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "fae96c960bd2ea21ffe4"
+    },
+    {
       "title": "M 5.3 - 209 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1586,6 +1792,48 @@
       "id": "3f35d530b600b326aad2"
     },
     {
+      "title": "What 9 Tokyo Deep Tech Startups Learned About Southeast Asia’s Appetite for Japanese Innovation",
+      "url": "https://e27.co/deloitte-demo-day-2026-20261020/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-20T07:46:54+00:00",
+      "fetched_at": "2026-10-20T07:49:11+00:00",
+      "summary": "On 14 October 2026, e27 hosted Borderless Innovation: X-HUB Tokyo-Singapore Demo Day 2026 with X-HUB TOKYO, the Tokyo Metropolitan Government’s global startup accelerator, run by Deloitte Tohmatsu. This is the third year e27 has partnered with Deloitte Tohmatsu to bring Tokyo’s startups to Southeast Asia, and this year’s cohort arrived with a clear focus: technology […] The post What 9 Tokyo Deep Tech Startups Learn…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia",
+        "Watchgraph:sports_sf_tech_events"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules sports_sf_tech_events (+3.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "sports_sf_tech_events"
+      ],
+      "watchgraph_reasons": [
+        "sports_sf_tech_events: demo day"
+      ],
+      "market_context": [
+        "DIS",
+        "CMCSA",
+        "ABNB",
+        "BKNG",
+        "DAL",
+        "UAL",
+        "TKO",
+        "FWONK",
+        "AAL",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "919334b5cca6e8664d07"
+    },
+    {
       "title": "古川大臣記者会見（令和8年10月20日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261020-01",
       "source": "Japan Digital Agency News RSS",
@@ -1835,70 +2083,128 @@
   ],
   "new_findings": [
     {
-      "title": "亞璿資訊｜BA-Workflow 工作流程表單平台 - 存在3個漏洞",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11298-d9dd5-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "title": "Banks want AI agents to move money, as long as someone is accountable",
+      "url": "https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-20T06:37:00+00:00",
-      "fetched_at": "2026-10-20T07:30:58+00:00",
-      "summary": "亞璿資訊｜BA-Workflow 工作流程表單平台 - 存在3個漏洞",
+      "published_at": "2026-10-20T07:39:30+00:00",
+      "fetched_at": "2026-10-20T07:49:11+00:00",
+      "summary": "The pitch for agentic payments usually goes like this: software that negotiates, pays, reconciles and optimises cash while the finance team sleeps. A new report from UOB Global Economics & Markets Research is a reminder that a payment involves more than moving the money. Someone also has to answer for it. The bank’s argument is […] The post Banks want AI agents to move money, as long as someone is accountable appear…",
       "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4aff0b815b3c7bc1dfba"
+      "relevance_score": 19,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "0b26d9937752eaa4eca5"
     },
     {
-      "title": "凱發科技｜WebITR - Insecure Deserialization",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11296-d3d95-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "title": "M 4.9 - Pagan region, Northern Mariana Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3kg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-20T06:15:00+00:00",
-      "fetched_at": "2026-10-20T07:30:58+00:00",
-      "summary": "凱發科技｜WebITR - Insecure Deserialization",
+      "published_at": "2026-10-20T07:33:12.040+00:00",
+      "fetched_at": "2026-10-20T07:49:11+00:00",
+      "summary": "Time 2026-10-20 07:09:08 UTC 2026-10-20 07:09:08 UTC at epicenter Location 18.838°N 145.517°E Depth 250.03 km (155.36 mi)",
       "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "27d7dfc32785f6453f36"
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "fae96c960bd2ea21ffe4"
     },
     {
-      "title": "鎧睿全球科技｜ArmorX Spam - 存在2個漏洞",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11294-4e5d8-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "title": "What 9 Tokyo Deep Tech Startups Learned About Southeast Asia’s Appetite for Japanese Innovation",
+      "url": "https://e27.co/deloitte-demo-day-2026-20261020/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-20T06:08:00+00:00",
-      "fetched_at": "2026-10-20T07:30:58+00:00",
-      "summary": "鎧睿全球科技｜ArmorX Spam - 存在2個漏洞",
+      "published_at": "2026-10-20T07:46:54+00:00",
+      "fetched_at": "2026-10-20T07:49:11+00:00",
+      "summary": "On 14 October 2026, e27 hosted Borderless Innovation: X-HUB Tokyo-Singapore Demo Day 2026 with X-HUB TOKYO, the Tokyo Metropolitan Government’s global startup accelerator, run by Deloitte Tohmatsu. This is the third year e27 has partnered with Deloitte Tohmatsu to bring Tokyo’s startups to Southeast Asia, and this year’s cohort arrived with a clear focus: technology […] The post What 9 Tokyo Deep Tech Startups Learn…",
       "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
+        "APAC Trend Radar",
+        "Southeast Asia",
+        "Watchgraph:sports_sf_tech_events"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8fe2404878490122fe5c"
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules sports_sf_tech_events (+3.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "sports_sf_tech_events"
+      ],
+      "watchgraph_reasons": [
+        "sports_sf_tech_events: demo day"
+      ],
+      "market_context": [
+        "DIS",
+        "CMCSA",
+        "ABNB",
+        "BKNG",
+        "DAL",
+        "UAL",
+        "TKO",
+        "FWONK",
+        "AAL",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "919334b5cca6e8664d07"
     }
   ],
   "source_errors": [],
