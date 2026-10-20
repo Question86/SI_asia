@@ -1,29 +1,54 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-20T11:15:03Z",
+  "generated_at": "2026-10-20T11:30:45Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 3,
-      "krass": 5,
-      "strong": 20,
-      "watch": 12
+      "krass": 7,
+      "strong": 24,
+      "watch": 6
     },
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 27,
-      "watch": 12
+      "krass": 2,
+      "strong": 32,
+      "watch": 6
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [hoch] Snipe-IT: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4047",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-20T11:15:53+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Snipe-IT ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, SQL-Injection durchzuführen, Cross-Site-Scripting-Angriffe zu starten, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen, einen Denial-of-Service-Zustand auszul…"
+    },
     {
       "title": "[UPDATE] [hoch] Apache Camel: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4010",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:15:51+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -48,7 +73,7 @@
       "url": "https://jvn.jp/jp/JVN88864366/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T14:00:00+09:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -72,7 +97,7 @@
       "url": "https://jvn.jp/jp/JVN29783594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -92,11 +117,107 @@
       "summary": "GNU Projectが提供するUnRTFには境界外書き込みの脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4048",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-20T11:15:53+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[NEU] [hoch] Golang Go: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4049",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-20T11:15:53+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann eine Schwachstelle in Golang Go ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
+      "title": "[NEU] [hoch] Froxlor: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4050",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-20T11:15:53+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Froxlor ausnutzen, um Administratorrechte zu erlangen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen."
+    },
+    {
+      "title": "[NEU] [hoch] Laravel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4046",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-20T11:15:52+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Laravel ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Daten zu manipulieren."
+    },
+    {
       "title": "Every company grows through thorns. Know when one has gone too deep",
       "url": "https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T02:00:28+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -121,7 +242,7 @@
       "url": "https://jvn.jp/jp/JVN33436631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T03:25:56+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -145,7 +266,7 @@
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-20T05:58:23+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -169,7 +290,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html",
       "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 123.86,
+      "age_days": 123.87,
       "topics": [
         "general"
       ],
@@ -180,13 +301,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.15,
+      "baseline_z_hint": 2.11,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 2.15",
+        "baseline z_hint 2.11",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 123.9d old signal",
@@ -199,7 +320,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3968",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T09:55:51+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -223,11 +344,38 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, um beliebigen Programmcode auszuführen oder Cross-Site-Scripting-Angriffe durchzuführen."
     },
     {
+      "title": "[NEU] [hoch] vllm: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4051",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-20T11:15:53+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "[UPDATE] [mittel] Grafana: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3910",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:52:40+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -253,7 +401,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4018",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:15:51+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -279,7 +427,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4024",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:52:41+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -304,7 +452,7 @@
       "url": "https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T07:49:42+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -331,7 +479,7 @@
       "url": "https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T07:39:30+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -359,7 +507,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3968",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 52.88,
+      "age_days": 52.89,
       "topics": [
         "security"
       ],
@@ -369,12 +517,13 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
+      "momentum_delta": 6,
+      "baseline_z_hint": 19.78,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3",
+        "momentum delta +6",
+        "baseline z_hint 19.78",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 52.9d old signal",
@@ -387,7 +536,7 @@
       "url": "https://jvn.jp/jp/JVN33436631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:15+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -413,7 +562,7 @@
       "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T03:25:56+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -440,7 +589,7 @@
       "url": "https://e27.co/gotos-27b-model-speaks-batak-but-the-real-test-is-who-can-afford-to-run-it-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T09:49:41+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -464,7 +613,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11298-d9dd5-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-20T06:37:00+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -488,7 +637,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11296-d3d95-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-20T06:15:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -512,7 +661,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11294-4e5d8-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-20T06:08:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -536,7 +685,7 @@
       "url": "https://jvn.jp/jp/JVN88864366/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T05:01:07+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -560,7 +709,7 @@
       "url": "https://jvn.jp/jp/JVN29783594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T03:25:56+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -584,7 +733,7 @@
       "url": "https://e27.co/deloitte-demo-day-2026-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T07:49:42+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [],
       "dynamics_score": 23.0,
       "raw_band": "strong",
@@ -608,7 +757,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3l3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T09:49:41+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -633,7 +782,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T04:36:56.091+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -658,7 +807,7 @@
       "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T03:00:42+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -685,7 +834,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T04:40:31+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -709,7 +858,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261020-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T02:33:42+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -734,7 +883,7 @@
       "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Befehlsschmuggel-Luecke-und-mehr-11493503.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-20T10:46:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -758,7 +907,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002426/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T07:59:31+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -783,7 +932,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002404/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T00:52:24+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -808,7 +957,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T06:55:59.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -833,7 +982,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T01:29:11.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -858,7 +1007,7 @@
       "url": "https://e27.co/deloitte-demo-day-2026-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T07:46:54+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [],
       "dynamics_score": 19.0,
       "raw_band": "watch",
@@ -876,151 +1025,7 @@
         "identity recheck: no AXI0M/User-Yps phrase hit"
       ],
       "summary": "On 14 October 2026, e27 hosted Borderless Innovation: X-HUB Tokyo-Singapore Demo Day 2026 with X-HUB TOKYO, the Tokyo Metropolitan Government’s global startup accelerator, run by Deloitte Tohmatsu. This is the third year e27 has partnered with Deloitte Tohmatsu to bring Tokyo’s startups to Southeast Asia, and this yea…"
-    },
-    {
-      "title": "M 5.1 - 263 km WSW of Yanglong, China",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-20T07:07:59+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 18.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.5 - 156 km SE of Kuqa, China",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-20T01:56:27+00:00",
-      "age_days": 0.39,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 18.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Every company grows through thorns. Know when one has gone too deep",
-      "url": "https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-20T02:08:15+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Euro area monthly balance of payments: August 2026",
-      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html",
-      "source": "ECB Statistical Press Releases",
-      "published_at": "2026-10-20T08:00:00+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Euro area monthly balance of payments: August 2026"
-    },
-    {
-      "title": "Photoshopをオープンソースで再構築した「PhotoCraft」が日本語フォントの縦書きに対応、各ツールの使い勝手も向上",
-      "url": "https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261020.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-04T23:59:05+00:00",
-      "age_days": 15.47,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました",
-      "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-20T00:52:24+00:00",
-      "age_days": 0.43,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Apache Camel: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Snipe-IT: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
