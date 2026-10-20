@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-20T05:48:49+00:00_
+_Generated: 2026-10-20T05:58:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `30`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-20T05:48:49+00:00_
 - url: https://jvn.jp/jp/JVN33436631/
 - summary: Lenovoが提供する複数のタブレットのAVB（Android Verified Boot）機能では、AOSP（Android Open Source Project）で公開されているテスト用の鍵をそのまま使用しています。
 
-### 2. HSBC says AI will create jobs. Southeast Asia should read the fine print first
+### 2. Comfy-Org/ComfyUI
+- source: GitHub Trending RSS All Languages Daily
+- score: `16`
+- published: `None`
+- url: https://github.com/Comfy-Org/ComfyUI
+- summary: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. https://www.comfy.org/ ComfyUI The most powerful and modular AI engine for content creation. ComfyUI is the AI cr…
+
+### 3. HSBC says AI will create jobs. Southeast Asia should read the fine print first
 - source: e27 Asia Startup and Tech Feed
 - score: `15`
 - published: `2026-10-20T05:00:19+00:00`
 - url: https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/
 - summary: The most revealing thing about HSBC’s latest survey of the world’s entrepreneurs isn’t the headline number. It’s who is spending it. On the surface, the Global Entrepreneurial Wealth Report 2026 reads like a hype cycle in spreadsheet form. Business owners acr…
 
-### 3. アツミ電氣製DVRに利用可能な非公開機能を悪用される問題
+### 4. アツミ電氣製DVRに利用可能な非公開機能を悪用される問題
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-10-20T14:00:00+09:00`
 - url: https://jvn.jp/jp/JVN88864366/
 - summary: アツミ電氣株式会社が提供する複数のDVR（Digital Video Recorder）には、非公開機能を悪用される問題が存在しています。
-
-### 4. UnRTFにおける境界外書き込みの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-20T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN29783594/
-- summary: GNU Projectが提供するUnRTFには境界外書き込みの脆弱性が存在します。
 
 ### 5. M 6.3 - 204 km WNW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
