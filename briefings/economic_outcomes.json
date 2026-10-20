@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T14:01:34+00:00",
+  "generated_at": "2026-10-20T14:22:37+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -7604,6 +7604,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_65e46222022a4f0fd16f",
+      "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_65f6c987ee2baa2935b2",
       "title": "M 4.8 - 92 km SSW of Nikolski, Alaska",
       "deduplicated_buckets": 0,
@@ -9174,7 +9185,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_783897b1fef716e4cc6e",
