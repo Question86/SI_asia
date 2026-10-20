@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T15:17:35+00:00",
-  "run_id": "2026-10-20T15:17:35+00:00",
+  "generated_at": "2026-10-20T16:03:26+00:00",
+  "run_id": "2026-10-20T16:03:26+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 79,
     "displayed_findings": 79,
     "high": 1,
@@ -3942,29 +3942,7 @@
       "id": "f444059804b3754795bf"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ウィンドウズアップデートについて調べたらめちゃめちゃ面白かった",
-      "url": "https://anond.hatelabo.jp/20261020173628",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-20T08:41:46+00:00",
-      "fetched_at": "2026-10-20T15:17:05+00:00",
-      "summary": "「なんで保存してない時に限って強制再起動すんねん！」 「頼むからあと5分待ってくれ！」 「Microsoftは悪魔か？」 ​と、全世界の人間が100万回くらいブチ切れてきたと思うんだが、気になって（なんであんな暴挙が許されてるのか）を本気で調べてみたら、想像以上に人間側の愚かさとMicrosoftの絶望の歴史が詰まってて...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3303063f64d0e537ee82"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
