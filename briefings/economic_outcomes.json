@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T22:51:32+00:00",
+  "generated_at": "2026-10-20T23:00:13+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -3729,7 +3729,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_319761d8efa51b79a44f",
@@ -4489,6 +4489,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_3ce3f84a8bc2e5253746",
+      "title": "【セキュリティ ニュース】ウェブサーバ「nginx」に複数脆弱性 - 3件が「クリティカル」との評価も（1ページ目 / 全3ページ）：Security NEXT",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_3d302854ea8ae0d6368a",
