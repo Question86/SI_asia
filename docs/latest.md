@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T21:06:55+00:00_
+_Generiert: 2026-10-20T21:24:52+00:00_
 
 ## Kurzlage
 
-93 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 26, observation).
+94 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 26, observation).
 
 ## Priorität Hoch
 

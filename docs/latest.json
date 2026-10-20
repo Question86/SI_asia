@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T21:06:55+00:00",
-  "run_id": "2026-10-20T21:06:55+00:00",
+  "generated_at": "2026-10-20T21:24:52+00:00",
+  "run_id": "2026-10-20T21:24:52+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 93
+      "configured_public_sources_only": 94
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 93,
-    "displayed_findings": 93,
+    "new_relevant_findings": 1,
+    "today_file_total": 94,
+    "displayed_findings": 94,
     "high": 1,
     "medium": 21,
-    "observe": 71,
+    "observe": 72,
     "source_errors": 0
   },
   "sections": {
@@ -2037,6 +2037,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e6d83e8db8ddc99c7b6f"
+      },
+      {
+        "title": "ふるさとチョイス、不正アクセスによる寄附者様情報の外部流出に関するお詫びとお知らせ | NEWSROOM | 株式会社トラストバンク",
+        "url": "https://www.trustbank.co.jp/newsroom/newsrelease/news261020/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-20T10:59:09+00:00",
+        "fetched_at": "2026-10-20T21:24:22+00:00",
+        "summary": "この度、株式会社トラストバンク（本社：東京都港区、代表取締役社長兼CEO：大井 潤、以下当社）が運営する「ふるさとチョイス」において当社が管理する会員情報に対し、第三者による不正アクセスが行われ、会員登録いただいている寄附者様の個人情報が外部に流出したことが判明いたしました。 寄附者様ならびに関係者の...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d377190c28fcaafcb03a"
       },
       {
         "title": "委託先への不正アクセスに起因するお客さまのシステム障害、情報漏えいに関するお詫び",
@@ -4380,6 +4401,27 @@
       "id": "e6d83e8db8ddc99c7b6f"
     },
     {
+      "title": "ふるさとチョイス、不正アクセスによる寄附者様情報の外部流出に関するお詫びとお知らせ | NEWSROOM | 株式会社トラストバンク",
+      "url": "https://www.trustbank.co.jp/newsroom/newsrelease/news261020/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-20T10:59:09+00:00",
+      "fetched_at": "2026-10-20T21:24:22+00:00",
+      "summary": "この度、株式会社トラストバンク（本社：東京都港区、代表取締役社長兼CEO：大井 潤、以下当社）が運営する「ふるさとチョイス」において当社が管理する会員情報に対し、第三者による不正アクセスが行われ、会員登録いただいている寄附者様の個人情報が外部に流出したことが判明いたしました。 寄附者様ならびに関係者の...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d377190c28fcaafcb03a"
+    },
+    {
       "title": "委託先への不正アクセスに起因するお客さまのシステム障害、情報漏えいに関するお詫び",
       "url": "https://jpn.nec.com/news/info/20261020.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4712,7 +4754,29 @@
       "id": "03fcb7f0882d5d20bf1c"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ふるさとチョイス、不正アクセスによる寄附者様情報の外部流出に関するお詫びとお知らせ | NEWSROOM | 株式会社トラストバンク",
+      "url": "https://www.trustbank.co.jp/newsroom/newsrelease/news261020/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-20T10:59:09+00:00",
+      "fetched_at": "2026-10-20T21:24:22+00:00",
+      "summary": "この度、株式会社トラストバンク（本社：東京都港区、代表取締役社長兼CEO：大井 潤、以下当社）が運営する「ふるさとチョイス」において当社が管理する会員情報に対し、第三者による不正アクセスが行われ、会員登録いただいている寄附者様の個人情報が外部に流出したことが判明いたしました。 寄附者様ならびに関係者の...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d377190c28fcaafcb03a"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
