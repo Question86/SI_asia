@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T01:15:44+00:00",
-  "run_id": "2026-10-20T01:15:44+00:00",
+  "generated_at": "2026-10-20T01:56:24+00:00",
+  "run_id": "2026-10-20T01:56:24+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 8
+      "configured_public_sources_only": 10
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 2,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 0,
-    "observe": 8,
+    "observe": 10,
     "source_errors": 0
   },
   "sections": {
@@ -96,6 +96,42 @@
         "id": "9c4d024f3a6dd2b61a92"
       },
       {
+        "title": "M 4.5 - 156 km SE of Kuqa, China",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-20T01:29:11.040+00:00",
+        "fetched_at": "2026-10-20T01:55:52+00:00",
+        "summary": "Time 2026-10-20 00:56:32 UTC 2026-10-20 00:56:32 UTC at epicenter Location 40.638°N 84.130°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "46ef425ab4ee0e3d3ac3"
+      },
+      {
         "title": "M 5.0 - 205 km NW of Port-Olry, Vanuatu",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -151,6 +187,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "aff2371db19b3d6788a7"
+      },
+      {
+        "title": "From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philippines",
+        "url": "https://e27.co/from-cash-loans-to-motorbikes-salmon-bets-us140m-on-secured-lending-in-the-philippines-20261019/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-20T01:45:35+00:00",
+        "fetched_at": "2026-10-20T01:55:52+00:00",
+        "summary": "Salmon Group has raised a fresh US$140 million, its second financing in six months and the largest in its four-year life, as the Manila-based lender bets that motorcycles and small businesses can carry its next leg of growth. The announcement on Monday is notable for what it leaves out. Salmon describes the money only as […] The post From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philip…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3f35d530b600b326aad2"
       },
       {
         "title": "ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました",
@@ -303,6 +359,42 @@
       "id": "9c4d024f3a6dd2b61a92"
     },
     {
+      "title": "M 4.5 - 156 km SE of Kuqa, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-20T01:29:11.040+00:00",
+      "fetched_at": "2026-10-20T01:55:52+00:00",
+      "summary": "Time 2026-10-20 00:56:32 UTC 2026-10-20 00:56:32 UTC at epicenter Location 40.638°N 84.130°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "46ef425ab4ee0e3d3ac3"
+    },
+    {
       "title": "M 5.0 - 205 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -358,6 +450,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "aff2371db19b3d6788a7"
+    },
+    {
+      "title": "From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philippines",
+      "url": "https://e27.co/from-cash-loans-to-motorbikes-salmon-bets-us140m-on-secured-lending-in-the-philippines-20261019/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-20T01:45:35+00:00",
+      "fetched_at": "2026-10-20T01:55:52+00:00",
+      "summary": "Salmon Group has raised a fresh US$140 million, its second financing in six months and the largest in its four-year life, as the Manila-based lender bets that motorcycles and small businesses can carry its next leg of growth. The announcement on Monday is notable for what it leaves out. Salmon describes the money only as […] The post From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philip…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3f35d530b600b326aad2"
     },
     {
       "title": "ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました",
@@ -444,84 +556,19 @@
   ],
   "new_findings": [
     {
-      "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
-      "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-20T01:00:42+00:00",
-      "fetched_at": "2026-10-20T01:15:09+00:00",
-      "summary": "In Thailand, many of the most visible startup investors carry the names of the country’s largest banks and business groups. SCBX operates SCB 10X. Kasikornbank established Beacon Venture Capital. Bank of Ayudhya created Krungsri Finnovate, while Bangkok Bank has Bualuang Ventures. Investment vehicles linked to telecommunications, energy, retail and industrial groups extend the network further. […] The post As ventur…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "funding",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "a5a773ea6bff34e93cf0"
-    },
-    {
-      "title": "Ibrahim Arief is building a legal AI startup from city detention",
-      "url": "https://e27.co/ibrahim-arief-is-building-a-legal-ai-startup-from-city-detention-20261019/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-20T01:00:25+00:00",
-      "fetched_at": "2026-10-20T01:15:09+00:00",
-      "summary": "Ibrahim Arief did not set out to found a legal tech startup. He set out to stay out of prison. The former VP (Engineering) at Bukalapak, widely known as Ibam in the startup circle, is a defendant in Indonesia’s Chromebook procurement case, the graft prosecution that also ensnared former education minister and Gojek co-founder Nadiem […] The post Ibrahim Arief is building a legal AI startup from city detention appear…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "founder"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9c4d024f3a6dd2b61a92"
-    },
-    {
-      "title": "M 5.0 - 205 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1",
+      "title": "M 4.5 - 156 km SE of Kuqa, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-20T01:10:16.040+00:00",
-      "fetched_at": "2026-10-20T01:15:09+00:00",
-      "summary": "Time 2026-10-20 00:38:28 UTC 2026-10-20 00:38:28 UTC at epicenter Location 13.948°S 165.529°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-10-20T01:29:11.040+00:00",
+      "fetched_at": "2026-10-20T01:55:52+00:00",
+      "summary": "Time 2026-10-20 00:56:32 UTC 2026-10-20 00:56:32 UTC at epicenter Location 40.638°N 84.130°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -542,28 +589,27 @@
         "HD",
         "LOW"
       ],
-      "id": "d6440f8a6d64e110bb67"
+      "id": "46ef425ab4ee0e3d3ac3"
     },
     {
-      "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61888",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philippines",
+      "url": "https://e27.co/from-cash-loans-to-motorbikes-salmon-bets-us140m-on-secured-lending-in-the-philippines-20261019/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-19T20:38:05+00:00",
-      "fetched_at": "2026-10-20T01:15:09+00:00",
-      "summary": "国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を…",
+      "published_at": "2026-10-20T01:45:35+00:00",
+      "fetched_at": "2026-10-20T01:55:52+00:00",
+      "summary": "Salmon Group has raised a fresh US$140 million, its second financing in six months and the largest in its four-year life, as the Manila-based lender bets that motorcycles and small businesses can carry its next leg of growth. The announcement on Monday is notable for what it leaves out. Salmon describes the money only as […] The post From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philip…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c8c7e45a26b3c19795a3"
+      "id": "3f35d530b600b326aad2"
     }
   ],
   "source_errors": [],

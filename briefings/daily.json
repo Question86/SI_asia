@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-10-20T01:15:47+00:00",
-  "today_file_total": 8,
+  "generated_at": "2026-10-20T01:56:27+00:00",
+  "today_file_total": 10,
   "current_clusters": [
+    {
+      "key": "earthquake:m 4.5 - 156 km se of kuqa, china:4.5",
+      "title": "M 4.5 - 156 km SE of Kuqa, China",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
     {
       "key": "title:venture-funding-retreats-thailand-corporate-investors-gain-more",
       "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
@@ -18,9 +43,9 @@
       "max_score": 12,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 17.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
       "hot": false,
       "watchgraph_modules": [
         "capitals_power_centers"
@@ -43,9 +68,32 @@
       "max_score": 12,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:cash-loans-motorbikes-salmon-bets-140m-secured-lending",
+      "title": "From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philippines",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/from-cash-loans-to-motorbikes-salmon-bets-us140m-on-secured-lending-in-the-philippines-20261019/"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 17.1,
+      "network_score": 12.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -66,9 +114,9 @@
       "max_score": 9,
       "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -93,29 +141,6 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:nhk",
-      "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://news.web.nhk/newsweb/na/nd-20261020de61888"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
       "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -178,6 +203,29 @@
       ],
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/20/2000002404/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:nhk",
+      "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de61888"
       ],
       "finding_count": 1,
       "max_score": 5,
