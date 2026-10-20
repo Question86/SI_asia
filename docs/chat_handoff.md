@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-20T03:25:53+00:00_
+_Generated: 2026-10-20T03:41:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `20`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-10-20T03:25:53+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5
 - summary: Time 2026-10-20 00:56:32 UTC 2026-10-20 00:56:32 UTC at epicenter Location 40.638°N 84.130°E Depth 10.00 km (6.21 mi)
 
-### 6. AI・デジタル改革推進会議の開催について掲載いたしました
-- source: Japan Digital Agency News RSS
-- score: `10`
-- published: `2026-10-20T02:24:18+00:00`
-- url: https://www.digital.go.jp/councils/ai_digital
-- summary: AI・デジタル改革推進会議の開催について掲載いたしました
+### 6. 1か月ぐらいClaude Codeと伴走してたけどもう疲れてしまった。育てたら快適になると信じて育ててたけど、もはや健康被害が出そうなレベルで強いストレスを感じている。AI使うのやめたいです。→「ClaudCodeとAIを新入社員に読み替えてみたら分かりやすいのですが。 そのつもりで使うとまた違うんですけどね」
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-19T10:37:03+00:00`
+- url: https://posfie.com/@petaritape/p/aa5HeGM
+- summary: なみき @sasaki445 1か月ぐらいClaude Codeと伴走してたけどもう疲れてしまった。育てたら快適になると信じて育ててたけど、もはや健康被害が出そうなレベルで強いストレスを感じている。AI使うのやめたいです。 2026-10-19 11:37:32
 
 END OF DOCUMENT
