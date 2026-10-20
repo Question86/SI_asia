@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-20T06:55:43Z",
+  "generated_at": "2026-10-20T07:19:14Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “アツミ電氣製DVRに利用可能な非公開機能を悪用される問題” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN88864366/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T14:00:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN29783594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T02:00:28+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -88,7 +88,7 @@
       "url": "https://jvn.jp/jp/JVN33436631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T03:25:56+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -108,11 +108,35 @@
       "summary": ""
     },
     {
+      "title": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-20T05:58:23+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
       "url": "https://jvn.jp/jp/JVN33436631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:15+09:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -138,7 +162,7 @@
       "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T03:25:56+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -161,36 +185,11 @@
       "summary": ""
     },
     {
-      "title": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-10-20T05:58:23+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": ""
-    },
-    {
       "title": "アツミ電氣製DVRに利用可能な非公開機能を悪用される問題",
       "url": "https://jvn.jp/jp/JVN88864366/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T05:01:07+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -214,7 +213,7 @@
       "url": "https://jvn.jp/jp/JVN29783594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T03:25:56+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -238,7 +237,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T04:36:56.091+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -263,7 +262,7 @@
       "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T03:00:42+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -290,7 +289,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T04:40:31+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
