@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T11:46:22+00:00_
+_Generiert: 2026-10-20T12:02:42+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 26, observation).
+69 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 26, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -184,6 +184,15 @@ _Generiert: 2026-10-20T11:46:22+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - I Time 2026-10-20 04:20:38 UTC 2026-10-20 04:20:38 UTC at epicenter Location 14.028°S 165.484°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Economic activity, prices, and monetary policy in Japan** — Score 13, observation — [Quelle](https://www.bis.org/speeches/20261020-economic-activity-prices-and-monetary-policy-japan)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-20T00:00:00+00:00`, fetched `2026-10-20T12:02:11+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)
+  - Kurz: Speech by Ms Junko Koeda, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Kumamoto, 15 October 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **As venture funding retreats, Thailand’s corporate investors gain more power** — Score 12, observation — [Quelle](https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-20T01:00:42+00:00`, fetched `2026-10-20T01:15:09+00:00`
@@ -202,6 +211,15 @@ _Generiert: 2026-10-20T11:46:22+00:00_
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Ibrahim Arief did not set out to found a legal tech startup. He set out to stay out of prison. The former VP (Engineering) at Bukalapak, widely known as Ibam in the startup circle, is a defendant in Indonesia’s Chromebook procurement case, the graft prosecution that also ensnared former education minister and Gojek co-founder Nadiem […] The post Ibrahim Arief is building a legal AI startup from city detention appear…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Message for the 58th Annual Financial Executives Institute of the Philippines (FINEX) Conference** — Score 12, opportunity — [Quelle](https://www.bis.org/speeches/20261020-message-58th-annual-financial-executives-institute-philippines-finex-conference)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-20T00:00:00+00:00`, fetched `2026-10-20T12:02:11+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
+  - Kurz: Message by Mr Eli M Remolona, Jr, Governor of Bangko Sentral ng Pilipinas (BSP, the central bank of the Philippines), for the 58th Annual Financial Executives Institute of the Philippines (FINEX) Conference, Manila, 9 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 5.1 - 263 km WSW of Yanglong, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-20T06:55:59.040+00:00`, fetched `2026-10-20T07:07:24+00:00`
@@ -282,24 +300,6 @@ _Generiert: 2026-10-20T11:46:22+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Frank Elderson: Interview with Die Presse
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Photoshopをオープンソースで再構築した「PhotoCraft」が日本語フォントの縦書きに対応、各ツールの使い勝手も向上** — Score 8, observation — [Quelle](https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261020.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-20T01:17:25+00:00`, fetched `2026-10-20T06:49:48+00:00`
-  - Treffer: Hatena, hotentry, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2週間ほど前に紹介した、PhotoshopやIllustratorなど、Adobeアプリ7種類をオープンソースで再構築した「Crafting Apps」がものすごい勢いでアップデートを繰り返しています！ リリースされた当初は日本語フォントが使えず、これはまだまだだなと思った人も多いと思いますが、最新版のver.0.10.0ではかなり使えるようにな...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました** — Score 8, observation — [Quelle](https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-20T00:25:29+00:00`, fetched `2026-10-20T00:51:48+00:00`
-  - Treffer: APAC Trend Radar, policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

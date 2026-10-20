@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-20T11:46:22+00:00_
+_Generated: 2026-10-20T12:02:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `65`
+- findings: `69`
 
 ## Top Signals
 
@@ -57,18 +57,18 @@ _Generated: 2026-10-20T11:46:22+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl
 - summary: PAGER - GREEN ShakeMap - I Time 2026-10-20 04:20:38 UTC 2026-10-20 04:20:38 UTC at epicenter Location 14.028°S 165.484°E Depth 10.00 km (6.21 mi)
 
-### 8. As venture funding retreats, Thailand’s corporate investors gain more power
+### 8. Economic activity, prices, and monetary policy in Japan
+- source: BIS Central Bankers Speeches
+- score: `13`
+- published: `2026-10-20T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20261020-economic-activity-prices-and-monetary-policy-japan
+- summary: Speech by Ms Junko Koeda, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Kumamoto, 15 October 2026.
+
+### 9. As venture funding retreats, Thailand’s corporate investors gain more power
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-20T01:00:42+00:00`
 - url: https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/
 - summary: In Thailand, many of the most visible startup investors carry the names of the country’s largest banks and business groups. SCBX operates SCB 10X. Kasikornbank established Beacon Venture Capital. Bank of Ayudhya created Krungsri Finnovate, while Bangkok Bank…
-
-### 9. Ibrahim Arief is building a legal AI startup from city detention
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-20T01:00:25+00:00`
-- url: https://e27.co/ibrahim-arief-is-building-a-legal-ai-startup-from-city-detention-20261019/
-- summary: Ibrahim Arief did not set out to found a legal tech startup. He set out to stay out of prison. The former VP (Engineering) at Bukalapak, widely known as Ibam in the startup circle, is a defendant in Indonesia’s Chromebook procurement case, the graft prosecuti…
 
 END OF DOCUMENT
