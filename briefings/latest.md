@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T06:50:19+00:00_
+_Generiert: 2026-10-20T07:07:56+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題“ aus JVN Japan Vulnerability Notes (Score 17, mixed).
+34 neue relevante Treffer. Stärkstes Signal: „複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題“ aus JVN Japan Vulnerability Notes (Score 17, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -140,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Ibrahim Arief did not set out to found a legal tech startup. He set out to stay out of prison. The former VP (Engineering) at Bukalapak, widely known as Ibam in the startup circle, is a defendant in Indonesia’s Chromebook procurement case, the graft prosecution that also ensnared former education minister and Gojek co-founder Nadiem […] The post Ibrahim Arief is building a legal AI startup from city detention appear…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 263 km WSW of Yanglong, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-20T06:55:59.040+00:00`, fetched `2026-10-20T07:07:24+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-20 06:41:23 UTC 2026-10-20 06:41:23 UTC at epicenter Location 37.904°N 95.644°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 156 km SE of Kuqa, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-20T01:29:11.040+00:00`, fetched `2026-10-20T01:55:52+00:00`
@@ -167,15 +176,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AI・デジタル改革推進会議の開催について掲載いたしました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.3 - 209 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k5)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-20T06:41:22.040+00:00`, fetched `2026-10-20T06:49:48+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-20 06:29:22 UTC 2026-10-20 06:29:22 UTC at epicenter Location 13.901°S 165.520°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Every company grows through thorns. Know when one has gone too deep** — Score 9, observation — [Quelle](https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-20T02:00:28+00:00`, fetched `2026-10-20T02:07:39+00:00`
@@ -184,6 +184,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
   - Kurz: Nobody builds a company without picking up thorns. An investor who pushes too hard. A customer who demands everything and pays late. A high performer who leaves damage behind every meeting. Most of that friction is useful. It forces decisions a comfortable company would keep putting off. The hard investor sharpens the plan. The demanding […] The post Every company grows through thorns. Know when one has gone too dee…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Frank Elderson: Interview with Die Presse** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-10-20T07:00:00+00:00`, fetched `2026-10-20T07:07:24+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Frank Elderson: Interview with Die Presse
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Photoshopをオープンソースで再構築した「PhotoCraft」が日本語フォントの縦書きに対応、各ツールの使い勝手も向上** — Score 8, observation — [Quelle](https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261020.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

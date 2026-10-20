@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-20T06:50:19+00:00_
+_Generated: 2026-10-20T07:07:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `34`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-20T06:50:19+00:00_
 - url: https://e27.co/ibrahim-arief-is-building-a-legal-ai-startup-from-city-detention-20261019/
 - summary: Ibrahim Arief did not set out to found a legal tech startup. He set out to stay out of prison. The former VP (Engineering) at Bukalapak, widely known as Ibam in the startup circle, is a defendant in Indonesia’s Chromebook procurement case, the graft prosecuti…
 
-### 8. M 4.5 - 156 km SE of Kuqa, China
+### 8. M 5.1 - 263 km WSW of Yanglong, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-10-20T01:29:11.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5
-- summary: Time 2026-10-20 00:56:32 UTC 2026-10-20 00:56:32 UTC at epicenter Location 40.638°N 84.130°E Depth 10.00 km (6.21 mi)
+- published: `2026-10-20T06:55:59.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka
+- summary: Time 2026-10-20 06:41:23 UTC 2026-10-20 06:41:23 UTC at epicenter Location 37.904°N 95.644°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

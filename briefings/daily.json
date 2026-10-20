@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T06:50:22+00:00",
-  "today_file_total": 32,
+  "generated_at": "2026-10-20T07:07:59+00:00",
+  "today_file_total": 34,
   "current_clusters": [
     {
       "key": "title:lenovo-android-verified-boot",
@@ -72,6 +72,31 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "earthquake:m 5.1 - 263 km wsw of yanglong, china:5.1",
+      "title": "M 5.1 - 263 km WSW of Yanglong, China",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "title:dvr",
       "title": "アツミ電氣製DVRに利用可能な非公開機能を悪用される問題",
       "sources": [
@@ -136,31 +161,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 15.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.3 - 209 km nw of port-olry, vanuatu:5.3",
-      "title": "M 5.3 - 209 km NW of Port-Olry, Vanuatu",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k5"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -264,16 +264,16 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:coliss.com",
-      "title": "Photoshopをオープンソースで再構築した「PhotoCraft」が日本語フォントの縦書きに対応、各ツールの使い勝手も向上",
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Frank Elderson: Interview with Die Presse",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "ECB Press Releases Speeches Interviews"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261020.html"
+        "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html"
       ],
       "finding_count": 1,
       "max_score": 8,
@@ -308,6 +308,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 5.3 - 209 km nw of port-olry, vanuatu:5.3",
+      "title": "M 5.3 - 209 km NW of Port-Olry, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k5"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 5.0 - pagan region, northern mariana islands:5.0",
@@ -406,6 +431,29 @@
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     },
     {
+      "key": "domain:coliss.com",
+      "title": "Photoshopをオープンソースで再構築した「PhotoCraft」が日本語フォントの縦書きに対応、各ツールの使い勝手も向上",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261020.html"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "url:https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7",
       "title": "今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました",
       "sources": [
@@ -424,52 +472,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:consumer-still-human-gatekeeper-isn",
-      "title": "The consumer is still human. The gatekeeper isn’t",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/the-consumer-is-still-human-the-gatekeeper-isnt-20261016/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:cash-loans-motorbikes-salmon-bets-140m-secured-lending",
-      "title": "From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philippines",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/from-cash-loans-to-motorbikes-salmon-bets-us140m-on-secured-lending-in-the-philippines-20261019/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
