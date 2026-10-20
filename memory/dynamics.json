@@ -1,52 +1,28 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-20T03:45:28Z",
+  "generated_at": "2026-10-20T04:17:55Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "strong": 8,
-      "watch": 13,
-      "quiet": 19
+      "watch": 16,
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
       "strong": 8,
-      "watch": 13,
-      "quiet": 19
+      "watch": 16,
+      "quiet": 16
     }
   },
   "top_dynamics": [
-    {
-      "title": "複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
-      "url": "https://jvn.jp/jp/JVN33436631/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-20T03:25:56+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
     {
       "title": "UnRTFにおける境界外書き込みの脆弱性",
       "url": "https://jvn.jp/jp/JVN29783594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -70,7 +46,7 @@
       "url": "https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T02:00:28+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -94,8 +70,32 @@
       "title": "複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
       "url": "https://jvn.jp/jp/JVN33436631/",
       "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-20T03:25:56+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
+      "url": "https://jvn.jp/jp/JVN33436631/",
+      "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:15+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -117,26 +117,53 @@
       "summary": "Lenovoが提供する複数のタブレットのAVB（Android Verified Boot）機能では、AOSP（Android Open Source Project）で公開されているテスト用の鍵をそのまま使用しています。"
     },
     {
+      "title": "How I use AI to keep the details straight in international partnerships",
+      "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-20T03:25:56+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "UnRTFにおける境界外書き込みの脆弱性",
       "url": "https://jvn.jp/jp/JVN29783594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T03:25:56+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 23.5,
+      "dynamics_score": 23.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -145,7 +172,7 @@
       "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T03:00:42+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -168,38 +195,11 @@
       "summary": "Even after a good meeting with an overseas partner, writing the follow-up email takes thought. What interested them? What did we actually agree to? What still needs to be clarified before we can move forward? Things that seemed clear in conversation can become ambiguous on the page. When several people and organisatio…"
     },
     {
-      "title": "How I use AI to keep the details straight in international partnerships",
-      "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-20T03:25:56+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "古川大臣記者会見（令和8年10月20日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261020-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T02:33:42+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -224,27 +224,26 @@
       "url": "https://posfie.com/@petaritape/p/aa5HeGM",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T09:40:46+00:00",
-      "age_days": 29.75,
+      "age_days": 29.78,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
+      "dynamics_score": 19.76,
+      "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.7,
+      "baseline_z_hint": 5.3,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 8.70",
+        "baseline z_hint 5.30",
         "high terms: code",
         "single-source AI hype brake -8.0",
         "aging penalty -3.1 for 29.8d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -254,7 +253,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002404/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T00:52:24+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -279,7 +278,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T01:29:11.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -304,7 +303,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T01:56:27+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -328,7 +327,7 @@
       "url": "https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T02:08:15+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -352,7 +351,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T00:52:24+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -376,7 +375,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T03:19:04.118+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -401,7 +400,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T01:10:16.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -422,11 +421,35 @@
       "summary": "Time 2026-10-20 00:38:28 UTC 2026-10-20 00:38:28 UTC at epicenter Location 13.948°S 165.529°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.0 - Pagan region, Northern Mariana Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-20T03:25:56+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.0 - 205 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T01:15:47+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -450,7 +473,7 @@
       "url": "https://e27.co/from-cash-loans-to-motorbikes-salmon-bets-us140m-on-secured-lending-in-the-philippines-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:56:27+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -474,7 +497,7 @@
       "url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T02:33:42+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -494,11 +517,59 @@
       "summary": ""
     },
     {
+      "title": "「つけたスター・ついたスター」一覧の表示期間を直近3か月に変更します - はてなスター日記",
+      "url": "https://star.hatenastaff.com/entry/2026/10/19/140533",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-20T03:25:56+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The consumer is still human. The gatekeeper isn’t",
+      "url": "https://e27.co/the-consumer-is-still-human-the-gatekeeper-isnt-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-20T04:02:12+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
       "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:15:47+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -525,7 +596,7 @@
       "url": "https://e27.co/ibrahim-arief-is-building-a-legal-ai-startup-from-city-detention-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:15:47+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -547,10 +618,10 @@
       "summary": ""
     },
     {
-      "title": "M 5.0 - Pagan region, Northern Mariana Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-20T03:25:56+00:00",
+      "title": "新コード決済「teppay」きょう開始 提供の狙いは？ “キャッシュレス疲れ”解消なるか",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2610/20/news042.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-20T04:02:12+00:00",
       "age_days": 0.01,
       "topics": [
         "general"
@@ -575,7 +646,7 @@
       "url": "https://www.digital.go.jp/councils/ai_digital",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T02:33:42+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -601,7 +672,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261020-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T02:20:02+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -625,7 +696,7 @@
       "url": "https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T00:31:53+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -645,11 +716,35 @@
       "summary": "「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）"
     },
     {
+      "title": "新コード決済「teppay」きょう開始 提供の狙いは？ “キャッシュレス疲れ”解消なるか",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2610/20/news042.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-19T21:21:55+00:00",
+      "age_days": 0.29,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "10月20日、JR東日本の「モバイルSuica」アプリにて新たなコード決済サービス“teppay（テッペイ）”が順次スタートする。2027年春にはパスモとの提携により、「モバイルPASMO」アプリでの提供も予定されている。サービス開始に際し、teppayの概要や提供の狙い、そして今後の展開を整理する。 teppayの主な特徴と機能 既存..."
+    },
+    {
       "title": "「つけたスター・ついたスター」一覧の表示期間を直近3か月に変更します - はてなスター日記",
       "url": "https://star.hatenastaff.com/entry/2026/10/19/140533",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T10:38:08+00:00",
-      "age_days": 0.71,
+      "age_days": 0.74,
       "topics": [
         "general"
       ],
@@ -669,35 +764,11 @@
       "summary": "いつもはてなスターをご利用いただき、ありがとうございます。 2026年10月26日より、はてなスターページ内「つけたスター・ついたスター」一覧に表示する履歴を直近3か月分に変更します。変更後は、それより前の履歴をこの一覧で確認できなくなります。 「つけたスター・ついたスター」の履歴は、本来3か月分を保持する..."
     },
     {
-      "title": "「つけたスター・ついたスター」一覧の表示期間を直近3か月に変更します - はてなスター日記",
-      "url": "https://star.hatenastaff.com/entry/2026/10/19/140533",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-20T03:25:56+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
       "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:00:42+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -724,7 +795,7 @@
       "url": "https://e27.co/ibrahim-arief-is-building-a-legal-ai-startup-from-city-detention-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:00:25+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -750,23 +821,23 @@
       "url": "https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-09T12:51:45+00:00",
-      "age_days": 40.62,
+      "age_days": 40.64,
       "topics": [
         "general"
       ],
-      "dynamics_score": 8.79,
+      "dynamics_score": 8.71,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.6,
+      "baseline_z_hint": 0.53,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.60",
+        "baseline z_hint 0.53",
         "aging penalty -6.9 for 40.6d old signal"
       ],
       "summary": ""
@@ -776,7 +847,7 @@
       "url": "https://posfie.com/@petaritape/p/aa5HeGM",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T10:37:03+00:00",
-      "age_days": 0.71,
+      "age_days": 0.74,
       "topics": [
         "ai"
       ],
@@ -802,7 +873,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T00:25:29+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -826,7 +897,7 @@
       "url": "https://www.digital.go.jp/policies/genai/agent-safety-standard",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T00:52:24+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -852,7 +923,7 @@
       "url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T15:11:20+00:00",
-      "age_days": 0.52,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -872,11 +943,38 @@
       "summary": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表 Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新..."
     },
     {
+      "title": "The consumer is still human. The gatekeeper isn’t",
+      "url": "https://e27.co/the-consumer-is-still-human-the-gatekeeper-isnt-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-20T04:00:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For most of my career in marketing, the basic equation was simple: Brands compete for consumers’ attention. We built campaigns to reach people, influence them, persuade them and ultimately get them to buy. Search changed that equation. Social media changed it again. Algorithms changed it further. Now AI is changing so…"
+    },
+    {
       "title": "From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philippines",
       "url": "https://e27.co/from-cash-loans-to-motorbikes-salmon-bets-us140m-on-secured-lending-in-the-philippines-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:45:35+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -902,7 +1000,7 @@
       "url": "https://www.digital.go.jp/councils/ai_digital",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T02:24:18+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -921,111 +1019,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "AI・デジタル改革推進会議の開催について掲載いたしました"
-    },
-    {
-      "title": "Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
-      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002404/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-19T21:43:25+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "米Appleのワールドワイドマーケティング担当上級副社長、グレッグ・ジョズウィアック氏は10月19日（現地時間）、Xに「Can’t wait to pro and tell next week.」と投稿した。Appleのロゴを指で描くような動画が添えられている。"
-    },
-    {
-      "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61888",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-19T20:38:05+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を…"
-    },
-    {
-      "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61888",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 52.57,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 52.6d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました",
-      "url": "https://www.digital.go.jp/policies/genai/agent-safety-standard",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-20T00:37:09+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “UnRTFにおける境界外書き込みの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
