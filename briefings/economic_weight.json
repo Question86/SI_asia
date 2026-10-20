@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T04:02:31+00:00",
+  "generated_at": "2026-10-20T04:25:57+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1139,7 +1139,7 @@
       "p90_usd": 110400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T00:52:24+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -3145,7 +3145,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-20T01:56:27+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -6562,7 +6562,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-20T01:15:47+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -8534,7 +8534,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-20T03:25:56+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -8959,7 +8959,7 @@
       "p90_usd": 2940000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T03:25:56+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -9979,7 +9979,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T05:06:13+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -10064,7 +10064,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T03:25:56+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -10472,7 +10472,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T01:15:47+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -15352,7 +15352,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T01:15:47+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -18310,7 +18310,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T02:33:42+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -19092,7 +19092,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T02:08:15+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -19450,7 +19450,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T03:25:56+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -21733,6 +21733,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_2b6148637f9e3a43829a",
+      "title": "The consumer is still human. The gatekeeper isn’t",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_38bdd137d764a89b8232",
       "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
       "event_classes": [
@@ -21831,7 +21848,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T01:56:27+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -22343,23 +22360,6 @@
       "first_seen_at": "2026-09-14T07:35:53+00:00",
       "last_seen_at": "2026-09-14T09:28:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_2b6148637f9e3a43829a",
-      "title": "The consumer is still human. The gatekeeper isn’t",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 109600.0,
-      "p50_usd": 10960000.0,
-      "p90_usd": 1096000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-20T04:02:12+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_01f8d7013bd851003572",
@@ -23378,7 +23378,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T00:52:24+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -23633,7 +23633,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T02:33:42+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -24823,7 +24823,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T00:52:24+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -25303,6 +25303,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4d7144144bd94951a1c0",
+      "title": "新コード決済「teppay」きょう開始 提供の狙いは？ “キャッシュレス疲れ”解消なるか",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_4dccee804c57272a3424",
       "title": "「AIをいじめないで」Anthropic、Claudeへの虐待を禁止",
       "event_classes": [
@@ -25571,7 +25588,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T09:40:46+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -27611,7 +27628,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T03:55:24+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
+      "last_seen_at": "2026-10-20T04:25:39+00:00",
       "status": "active"
     },
     {
@@ -28293,23 +28310,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_4d7144144bd94951a1c0",
-      "title": "新コード決済「teppay」きょう開始 提供の狙いは？ “キャッシュレス疲れ”解消なるか",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-20T04:02:12+00:00",
-      "last_seen_at": "2026-10-20T04:02:12+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
