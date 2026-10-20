@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T08:26:27+00:00_
+_Generiert: 2026-10-20T08:45:38+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „Banks want AI agents to move money, as long as someone is accountable“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+43 neue relevante Treffer. Stärkstes Signal: „Banks want AI agents to move money, as long as someone is accountable“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
