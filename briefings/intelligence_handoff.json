@@ -1,15 +1,216 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-20T00:36:19Z",
-  "situation_read": "Keine verwertbaren Dynamiken im aktuellen Run.",
+  "generated_at": "2026-10-20T01:12:07Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=16.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
     "Single-source AI is capped unless AXI0M/User-Yps relevance or official incident evidence exists.",
     "Security high-signal terms outrank AI hype when exposure could matter."
   ],
-  "top_dynamics": [],
+  "top_dynamics": [
+    {
+      "title": "Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002404/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-20T00:52:24+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）",
+      "url": "https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-09T12:51:45+00:00",
+      "age_days": 40.51,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.93,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 3.87,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 3.87",
+        "aging penalty -6.8 for 40.5d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました",
+      "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-20T00:52:24+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）",
+      "url": "https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-20T00:31:53+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）"
+    },
+    {
+      "title": "今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました",
+      "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-20T00:25:29+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました"
+    },
+    {
+      "title": "ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました",
+      "url": "https://www.digital.go.jp/policies/genai/agent-safety-standard",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-20T00:52:24+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 4.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002404/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-19T21:43:25+00:00",
+      "age_days": 0.14,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "米Appleのワールドワイドマーケティング担当上級副社長、グレッグ・ジョズウィアック氏は10月19日（現地時間）、Xに「Can’t wait to pro and tell next week.」と投稿した。Appleのロゴを指で描くような動画が添えられている。"
+    },
+    {
+      "title": "ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました",
+      "url": "https://www.digital.go.jp/policies/genai/agent-safety-standard",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-20T00:37:09+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました"
+    }
+  ],
   "read_order": [
     "briefings/intelligence_handoff.json",
     "memory/dynamics.json",
@@ -18,6 +219,9 @@
     "briefings/latest.json if details are needed"
   ],
   "counts": {
-    "bands_after_gate_recheck": {}
+    "bands_after_gate_recheck": {
+      "watch": 3,
+      "quiet": 5
+    }
   }
 }
