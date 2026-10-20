@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T01:16:07+00:00",
+  "generated_at": "2026-10-20T01:56:44+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1139,7 +1139,7 @@
       "p90_usd": 110400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T00:52:24+00:00",
-      "last_seen_at": "2026-10-20T01:15:47+00:00",
+      "last_seen_at": "2026-10-20T01:56:27+00:00",
       "status": "active"
     },
     {
@@ -3999,6 +3999,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_5f808ae7f49ee55eb2d0",
+      "title": "M 4.5 - 156 km SE of Kuqa, China",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-20T01:56:27+00:00",
+      "last_seen_at": "2026-10-20T01:56:27+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_00e85c3d2c185ba34101",
       "title": "M 4.9 - 12 km SSW of Tebario, Panama",
       "event_classes": [
@@ -6532,6 +6549,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_81b7a8ceeba22de2513b",
+      "title": "M 5.0 - 205 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-20T01:15:47+00:00",
+      "last_seen_at": "2026-10-20T01:56:27+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_822c5dcd33ef6ec098a0",
       "title": "M 5.2 - 139 km SW of Kokopo, Papua New Guinea",
       "event_classes": [
@@ -8810,23 +8844,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_81b7a8ceeba22de2513b",
-      "title": "M 5.0 - 205 km NW of Port-Olry, Vanuatu",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-20T01:15:47+00:00",
-      "last_seen_at": "2026-10-20T01:15:47+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -9928,7 +9945,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T05:06:13+00:00",
-      "last_seen_at": "2026-10-20T01:15:47+00:00",
+      "last_seen_at": "2026-10-20T01:56:27+00:00",
       "status": "active"
     },
     {
@@ -10391,6 +10408,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ad6f3e3014a572e1fb26",
+      "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
+      "event_classes": [
+        "funding"
+      ],
+      "capital_channels": [
+        "investment"
+      ],
+      "p10_usd": 1136000.0,
+      "p50_usd": 28400000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-20T01:15:47+00:00",
+      "last_seen_at": "2026-10-20T01:56:27+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_fbb2c72f335e9b249a7d",
       "title": "【重要】Linuxカーネルの脆弱性（CVE-2026-99999）に関する当社サービスへの影響について | さくらインターネット",
       "event_classes": [
@@ -10406,23 +10440,6 @@
       "first_seen_at": "2026-10-16T12:31:55+00:00",
       "last_seen_at": "2026-10-17T23:58:29+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_ad6f3e3014a572e1fb26",
-      "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
-      "event_classes": [
-        "funding"
-      ],
-      "capital_channels": [
-        "investment"
-      ],
-      "p10_usd": 1136000.0,
-      "p50_usd": 28400000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-20T01:15:47+00:00",
-      "last_seen_at": "2026-10-20T01:15:47+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_08244bc271b4aa50456f",
@@ -15271,6 +15288,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_baf124e176b762079eac",
+      "title": "Ibrahim Arief is building a legal AI startup from city detention",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-20T01:15:47+00:00",
+      "last_seen_at": "2026-10-20T01:56:27+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_bfddd68964286a495eee",
       "title": "The Podular future: Why AI demands a new organisational architecture",
       "event_classes": [
@@ -15558,23 +15592,6 @@
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_baf124e176b762079eac",
-      "title": "Ibrahim Arief is building a legal AI startup from city detention",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-20T01:15:47+00:00",
-      "last_seen_at": "2026-10-20T01:15:47+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017a730364c807861d1b",
@@ -22209,6 +22226,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_454b7a38fe5732fdde82",
+      "title": "From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philippines",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "credit"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-20T01:56:27+00:00",
+      "last_seen_at": "2026-10-20T01:56:27+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_01f8d7013bd851003572",
       "title": "松本大臣記者会見（令和8年9月15日）動画を掲載しました",
       "event_classes": [
@@ -23225,7 +23259,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T00:52:24+00:00",
-      "last_seen_at": "2026-10-20T01:15:47+00:00",
+      "last_seen_at": "2026-10-20T01:56:27+00:00",
       "status": "active"
     },
     {
@@ -24228,7 +24262,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-19T07:33:09+00:00",
-      "last_seen_at": "2026-10-20T01:15:47+00:00",
+      "last_seen_at": "2026-10-20T01:56:27+00:00",
       "status": "active"
     },
     {
@@ -24653,7 +24687,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T00:52:24+00:00",
-      "last_seen_at": "2026-10-20T01:15:47+00:00",
+      "last_seen_at": "2026-10-20T01:56:27+00:00",
       "status": "active"
     },
     {
