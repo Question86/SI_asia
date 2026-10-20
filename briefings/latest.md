@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T04:40:28+00:00_
+_Generiert: 2026-10-20T04:51:53+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,10 @@ _Generiert: 2026-10-20T04:40:28+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-14`
   - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Cisco Secure Email Gateway Relative Path Traversal Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.6M, Depth:10km) in Vanuatu 20/10/2026 04:20 UTC, No people affected in 100km.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572693)
+- **GDACS: Green earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572693)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.6M, Depth:10km) in Vanuatu 20/10/2026 04:20 UTC, No people affected in 100km.
+  - Kurz: Green earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572622)
   - Quelle: GDACS
   - Zeit: ``
