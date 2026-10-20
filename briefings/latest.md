@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T07:59:28+00:00_
+_Generiert: 2026-10-20T08:26:27+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „Banks want AI agents to move money, as long as someone is accountable“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+42 neue relevante Treffer. Stärkstes Signal: „Banks want AI agents to move money, as long as someone is accountable“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -122,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Euro area monthly balance of payments: August 2026** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-10-20T08:00:00+00:00`, fetched `2026-10-20T08:25:55+00:00`
+  - Treffer: balance of payments, euro area, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Euro area monthly balance of payments: August 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 6.3 - 204 km WNW of Port-Olry, Vanuatu** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-20T04:36:56.091+00:00`, fetched `2026-10-20T04:39:57+00:00`
@@ -247,15 +256,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **古川大臣記者会見（令和8年10月20日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261020-01)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-20T02:20:02+00:00`, fetched `2026-10-20T02:33:10+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 古川大臣記者会見（令和8年10月20日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
