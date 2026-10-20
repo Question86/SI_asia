@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-20T10:16:49+00:00",
+  "generated_at": "2026-10-20T10:43:50+00:00",
   "topics": {
     "security": [
       {
@@ -31,6 +31,20 @@
         "published_at": "2026-10-20T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN29783594/"
+      },
+      {
+        "title": "[UPDATE] [hoch] MariaDB: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-20T10:15:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4018"
+      },
+      {
+        "title": "[UPDATE] [hoch] Apache Camel: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-20T10:15:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4010"
       },
       {
         "title": "亞璿資訊｜BA-Workflow 工作流程表單平台 - 存在3個漏洞",

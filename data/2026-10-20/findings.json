@@ -205,6 +205,52 @@
     "id": "35381a9996fbc27adff6"
   },
   {
+    "title": "[UPDATE] [hoch] MariaDB: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4018",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-20T10:15:51+00:00",
+    "fetched_at": "2026-10-20T10:43:20+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in MariaDB ausnutzen, um beliebigen Programmcode auszuführen, SQL-Injection durchzuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "53b09120de7019972dab"
+  },
+  {
+    "title": "[UPDATE] [hoch] Apache Camel: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4010",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-20T10:15:51+00:00",
+    "fetched_at": "2026-10-20T10:43:20+00:00",
+    "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Apache Camel ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ac80a1778a695a4d07c1"
+  },
+  {
     "title": "Euro area monthly balance of payments: August 2026",
     "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html",
     "source": "ECB Statistical Press Releases",
@@ -1041,6 +1087,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "349ddc6eacd425ca96a9"
+  },
+  {
+    "title": "生成AIの女性画像、なぜ「作り物」に見えるの?毛穴や産毛まで感じる自然な肌を目指し無料版AIの1K画像で感じた限界と、実在感のある写真への挑戦 - Quadro Diary 生成AI 過去日記",
+    "url": "https://quadro.hateblo.jp/entry/seiseiai_real",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-19T23:46:02+00:00",
+    "fetched_at": "2026-10-20T10:43:20+00:00",
+    "summary": "生成AIの人物画像から「作り物感」をなくす試行錯誤 生成AIの女性画像に感じる「作り物感」と、目指す自然な写真 ImageFXから、最新版Geminiで再生成 上の画像から女性と男性を再生成化 無料版の1K画像の限界と、2K解像度・プロンプトへの期待 生成AIの人物画像から「作り物感」をなくす試行錯誤 生成AIの女性画像に感じ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "deefa5cae8352b501c57"
   },
   {
     "title": "Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
