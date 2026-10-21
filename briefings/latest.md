@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T11:12:22+00:00_
+_Generiert: 2026-10-21T11:26:17+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+55 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
