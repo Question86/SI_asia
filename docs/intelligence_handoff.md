@@ -1,58 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-21T09:35:41Z_
+_Generated: 2026-10-21T10:14:26Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Wichtige PHP-Updates am 21. Oktober beheben Codeeinschleusung-Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.86.
+Stärkste Dynamik nach Gate-Recheck: “Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
 
 ## Top Dynamics
-
-### Wichtige PHP-Updates am 21. Oktober beheben Codeeinschleusung-Schwachstellen
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.86`
-- Published: `2026-06-19T07:39:37+00:00` / age_days `124.08`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 1.69, high terms: code, security high-signal: code, aging penalty -8.0 for 124.1d old signal
-- Quelle: https://www.heise.de/news/Wichtige-PHP-Updates-am-21-Oktober-beheben-Codeeinschleusung-Schwachstellen-11495072.html
-
-### Xerj Console APIにおける認証回避の脆弱性
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-10-21T09:30:00+09:00` / age_days `0.38`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: jvn, security
-- Quelle: https://jvn.jp/vu/JVNVU92078426/
-
-### [NEU] [hoch] PHP: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-10-21T09:15:51+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: cert-bund, bsi, security, advisory
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4055
 
 ### Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `124.79`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `124.82`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: source breadth +2, momentum delta +3, baseline z_hint 4.69, high terms: rce, security high-signal: rce, aging penalty -8.0 for 124.8d old signal, extreme gate recheck: insufficient independent/current evidence
+- Warum: source breadth +2, momentum delta +3, baseline z_hint 4.58, high terms: rce, security high-signal: rce, aging penalty -8.0 for 124.8d old signal, extreme gate recheck: insufficient independent/current evidence
 - Quelle: http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html
 
 ### CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-21T09:30:15+09:00` / age_days `0.38`
+- Published: `2026-10-21T09:30:15+09:00` / age_days `0.41`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -62,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Wichtige PHP-Updates am 21. Oktober behe
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-21T09:30:30+09:00` / age_days `0.38`
+- Published: `2026-10-21T09:30:30+09:00` / age_days `0.41`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -72,17 +42,37 @@ Stärkste Dynamik nach Gate-Recheck: “Wichtige PHP-Updates am 21. Oktober behe
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-21T02:46:32+00:00` / age_days `0.28`
+- Published: `2026-10-21T02:46:32+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://blog.flatt.tech/entry/php2shell
 
+### Version 1.0: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-02T15:24:15+00:00` / age_days `48.78`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: momentum delta +3, high terms: kritisch, security high-signal: kritisch, aging penalty -8.0 for 48.8d old signal, official security but no high-signal phrase: capped at strong
+- Quelle: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html
+
+### Version 1.0: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-21T09:50:00+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: kritisch, 10, security high-signal: kritisch, 10, official security but no high-signal phrase: capped at strong
+- Quelle: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html
+
 ### The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-21T06:00:47+00:00` / age_days `0.15`
+- Published: `2026-10-21T06:00:47+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -92,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Wichtige PHP-Updates am 21. Oktober behe
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-21T02:15:43+00:00` / age_days `0.31`
+- Published: `2026-10-21T02:15:43+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: cvss, 10, cvss, security high-signal: cvss, 10, cvss, cvss, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -102,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Wichtige PHP-Updates am 21. Oktober behe
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-21T02:00:00+00:00` / age_days `0.32`
+- Published: `2026-10-21T02:00:00+00:00` / age_days `0.34`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -112,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Wichtige PHP-Updates am 21. Oktober behe
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-20T09:51:38+00:00` / age_days `0.99`
+- Published: `2026-10-20T09:51:38+00:00` / age_days `1.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -122,10 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “Wichtige PHP-Updates am 21. Oktober behe
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-21T09:00:52+00:00` / age_days `0.02`
+- Published: `2026-10-21T09:00:52+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4054
+
+### Thoughts on several issues of interest to the market
+
+- Band: `watch` (raw `krass`)
+- Dynamics score: `19.9`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `124.82`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -8.0 for 124.8d old signal, stale single-source cap after 30d: no current exploitation phrase
+- Quelle: https://www.bis.org/speeches/20261021-thoughts-several-issues-interest-market
 
 END OF DOCUMENT
