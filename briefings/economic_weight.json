@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T04:26:50+00:00",
+  "generated_at": "2026-10-21T04:42:12+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -329,7 +329,7 @@
       "p90_usd": 1120000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T01:59:36+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -1683,7 +1683,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T01:09:44+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -6885,7 +6885,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-21T01:59:36+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -9133,6 +9133,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_aebbd7bfa4a30f2355a2",
+      "title": "M 4.7 - 173 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-21T04:41:53+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -9316,7 +9333,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -10013,7 +10030,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T01:39:57+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -10455,7 +10472,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T00:51:54+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -10795,7 +10812,7 @@
       "p90_usd": 2840000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:46:32+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -12499,6 +12516,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_40958b07943a0637cacd",
+      "title": "Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 117600.0,
+      "p50_usd": 11760000.0,
+      "p90_usd": 1176000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_4d63c766d1a3ce54fc2b",
       "title": "Southeast Asia’s SMEs do not have an AI problem. They have a record problem",
       "event_classes": [
@@ -12684,23 +12718,6 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_40958b07943a0637cacd",
-      "title": "Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 117600.0,
-      "p50_usd": 11760000.0,
-      "p90_usd": 1176000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-21T04:26:31+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_04dd5841535ba2efa091",
@@ -13090,7 +13107,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -14484,7 +14501,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:27:54+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -15555,7 +15572,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T03:40:17+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -16100,7 +16117,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:27:54+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -19279,7 +19296,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -19977,7 +19994,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T00:51:54+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -20419,7 +20436,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T03:21:11+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -24963,6 +24980,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_141b2e00fe00425e86d3",
+      "title": "【Excel】AIが作った数式に「--」が入っていたけど、いらなくない？ 削除禁止の理由【いまさら聞けないExcelの使い方講座】",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_145dd41f20299382b8fb",
       "title": "Windows 11、エクスプローラーで「~」（チルダ）が利用可能に。ユーザーフォルダーへ素早くアクセス",
       "event_classes": [
@@ -25486,7 +25520,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -26098,7 +26132,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:27:54+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -26115,7 +26149,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T06:37:14+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -27764,7 +27798,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T01:15:51+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
+      "last_seen_at": "2026-10-21T04:41:53+00:00",
       "status": "active"
     },
     {
@@ -29041,23 +29075,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_141b2e00fe00425e86d3",
-      "title": "【Excel】AIが作った数式に「--」が入っていたけど、いらなくない？ 削除禁止の理由【いまさら聞けないExcelの使い方講座】",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-21T04:26:31+00:00",
-      "last_seen_at": "2026-10-21T04:26:31+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
