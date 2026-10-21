@@ -1,8 +1,80 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-21T13:58:47+00:00",
+  "generated_at": "2026-10-21T14:48:26+00:00",
   "topics": {
+    "ai": [
+      {
+        "title": "Using thousands of AI agents to uncover new leads in biological data",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-21T04:50:00+00:00",
+        "relevance_score": 20,
+        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
+      },
+      {
+        "title": "Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-21T04:19:38+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Microsoft Windows (14 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-14T00:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1314/"
+      },
+      {
+        "title": "OpenAI models are coming to Google Cloud",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-21T12:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://openai.com/index/openai-models-google-cloud"
+      },
+      {
+        "title": "I still work 40 hours a week. AI turns it into 120",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-21T02:00:31+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/i-still-work-40-hours-a-week-ai-turns-it-into-120-20261016/"
+      },
+      {
+        "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-21T13:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+      },
+      {
+        "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-21T07:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://openai.com/index/building-chatgpt-ad-stack"
+      },
+      {
+        "title": "AI won’t tidy your business. It just moves the mess faster",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-21T03:30:15+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/ai-wont-tidy-your-business-it-just-moves-the-mess-faster-20261018/"
+      },
+      {
+        "title": "Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques",
+        "source": "JPCERT/CC English Blog Atom",
+        "published_at": "2026-10-21T02:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html"
+      },
+      {
+        "title": "Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出｜npaka",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-20T09:51:38+00:00",
+        "relevance_score": 12,
+        "url": "https://note.com/npaka/n/nba1723dba4e1"
+      }
+    ],
     "security": [
       {
         "title": "[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen",
@@ -10,6 +82,13 @@
         "published_at": "2026-10-21T09:25:51+00:00",
         "relevance_score": 17,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4056"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Microsoft Windows (14 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-14T00:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1314/"
       },
       {
         "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (python-tornado, resteasy-core, bubblewrap, pgvector): Mehrere Schwachstellen",
@@ -66,13 +145,6 @@
         "published_at": "2026-10-21T11:30:53+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4090"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle E-Business Suite: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-21T11:30:52+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4088"
       }
     ],
     "geopolitics": [
@@ -145,78 +217,6 @@
         "published_at": "2026-10-21T09:15:51+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4055"
-      }
-    ],
-    "ai": [
-      {
-        "title": "Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-21T04:19:38+00:00",
-        "relevance_score": 17,
-        "url": "https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/"
-      },
-      {
-        "title": "OpenAI models are coming to Google Cloud",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-10-21T12:00:00+00:00",
-        "relevance_score": 14,
-        "url": "https://openai.com/index/openai-models-google-cloud"
-      },
-      {
-        "title": "I still work 40 hours a week. AI turns it into 120",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-21T02:00:31+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/i-still-work-40-hours-a-week-ai-turns-it-into-120-20261016/"
-      },
-      {
-        "title": "AI won’t tidy your business. It just moves the mess faster",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-21T03:30:15+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/ai-wont-tidy-your-business-it-just-moves-the-mess-faster-20261018/"
-      },
-      {
-        "title": "Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques",
-        "source": "JPCERT/CC English Blog Atom",
-        "published_at": "2026-10-21T02:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html"
-      },
-      {
-        "title": "Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出｜npaka",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-20T09:51:38+00:00",
-        "relevance_score": 12,
-        "url": "https://note.com/npaka/n/nba1723dba4e1"
-      },
-      {
-        "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
-        "source": "CERT-FR Alertes",
-        "published_at": "2024-07-01T00:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009/"
-      },
-      {
-        "title": "Ex-PropertyGuru CEO’s Genie Health raises US$3M to make sense of your scattered health data",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-21T08:56:32+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/ex-propertyguru-ceos-genie-health-raises-us3m-to-make-sense-of-your-scattered-health-data-20261021/"
-      },
-      {
-        "title": "Southeast Asia’s US$1T digital dream slips five years, and AI is the new reason to keep believing",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-21T05:00:18+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/southeast-asias-us1t-digital-dream-slips-five-years-and-ai-is-the-new-reason-to-keep-believing-20261021/"
-      },
-      {
-        "title": "余暇のほとんどをITに使っていたエンジニアは、子どもが生まれてITとの付き合い方をどう変えたのか - レバテックLAB",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-21T02:06:33+00:00",
-        "relevance_score": 10,
-        "url": "https://levtech.jp/media/detail_944/"
       }
     ],
     "general": [
@@ -307,6 +307,13 @@
         "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html"
       },
       {
+        "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-21T07:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://openai.com/index/building-chatgpt-ad-stack"
+      },
+      {
         "title": "The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-21T06:00:47+00:00",
@@ -354,13 +361,6 @@
         "published_at": "2026-10-21T00:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.bis.org/speeches/20261021-islamic-finance-impact-next-measure-success"
-      },
-      {
-        "title": "Euro liquidity lines and the international monetary system",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-21T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/speeches/20261021-euro-liquidity-lines-and-international-monetary-system"
       }
     ],
     "github": [
