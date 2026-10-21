@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-21T01:12:20Z",
+  "generated_at": "2026-10-21T01:38:38Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 12,
+    "dynamics": 20,
     "bands": {
       "krass": 3,
       "strong": 2,
-      "watch": 3,
-      "quiet": 4
+      "watch": 2,
+      "quiet": 13
     },
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 3,
-      "quiet": 4
+      "watch": 2,
+      "quiet": 13
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU92078426/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -43,35 +43,11 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
-      "title": "Xerj Console APIにおける認証回避の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU92078426/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-21T00:51:54+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）",
       "url": "https://jvn.jp/vu/JVNVU90998702/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:15+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -97,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU93110597/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:30+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -123,7 +99,7 @@
       "url": "https://note.com/npaka/n/nba1723dba4e1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T09:51:38+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "ai"
       ],
@@ -145,30 +121,52 @@
       "summary": "1. OSS Scanner2026年10月8日、Anthropicは、オープンソースソフトウェア（OSS）の脆弱性をAIで検出する無料サービス「OSS Scanner」を発表しました。 OSS Scannerは、Claude Mythosなどの高性能AIモデルを使って、OSSのソースコードを定期的に分析し、脆弱性を発見するサービスです。 主な特徴は次のとおりです。 ・AI..."
     },
     {
+      "title": "Xerj Console APIにおける認証回避の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92078426/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-21T00:51:54+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）",
       "url": "https://jvn.jp/vu/JVNVU90998702/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 123.97,
+      "age_days": 123.99,
       "topics": [
         "general"
       ],
       "dynamics_score": 19.9,
-      "raw_band": "krass",
+      "raw_band": "strong",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.90",
         "high terms: 10",
         "aging penalty -8.0 for 124.0d old signal",
-        "krass gate: single-source non-official/non-identity signal capped",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
@@ -178,64 +176,180 @@
       "url": "https://jvn.jp/vu/JVNVU93110597/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 26.98,
+      "age_days": 27.0,
       "topics": [
         "general"
       ],
       "dynamics_score": 19.9,
-      "raw_band": "krass",
+      "raw_band": "strong",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.90",
         "high terms: 10",
         "aging penalty -2.1 for 27.0d old signal",
-        "krass gate: single-source non-official/non-identity signal capped",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
     },
     {
-      "title": "Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出｜npaka",
-      "url": "https://note.com/npaka/n/nba1723dba4e1",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 50.27,
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-06-17T20:44:40+00:00",
+      "age_days": 125.2,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 12.39,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.44,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.44",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 50.3d old signal",
+        "aging penalty -8.0 for 125.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "「お名前.com デスクトップクラウド」不正プログラム設置で全プラン停止 FX用VPS、2万6739サーバに影響か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002442/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-21T01:15:51+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
+      "url": "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-21T01:15:51+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Google may already be showing us its route to AGI",
+      "url": "https://e27.co/google-may-already-be-showing-us-its-route-to-agi-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-21T01:15:51+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "「お名前.com デスクトップクラウド」不正プログラム設置で全プラン停止 FX用VPS、2万6739サーバに影響か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002442/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-20T23:41:28+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "お名前.com デスクトップクラウドは、FXの自動売買ソフト（「MetaTrader 4」「MetaTrader 5」など）を、自宅のPCを使わずにクラウド上のサーバで24時間動かし続けるためのサービス。月額2640円から利用でき、契約実績は累計20万以上という。 同社は10月20日、不正なプログラムが設置されたことを確認。サーバ内に保管さ..."
+    },
+    {
+      "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
+      "url": "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-20T23:13:30+00:00",
+      "age_days": 0.1,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Mac が落ちました。 ファイルまわりの負荷がじわじわ溜まって、最後は反応しなくなって、落ちた。そこまではまあ、たまにあります。問題はそのあとでした。 起動しないのです。 電源を入れて、FileVault のパスワードを入れる。進捗バーが出る。2割くらいまで進む。そこで止まる。5分待っても、10分待っても動かない。 M..."
     },
     {
       "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services | Amazon Web Services",
       "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T04:45:41+00:00",
-      "age_days": 37.85,
+      "age_days": 37.87,
       "topics": [
         "general"
       ],
@@ -256,15 +370,43 @@
       "summary": ""
     },
     {
+      "title": "Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出｜npaka",
+      "url": "https://note.com/npaka/n/nba1723dba4e1",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 50.29,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.62,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 1.47,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 1.47",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 50.3d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など",
       "url": "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T00:51:54+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 6.5,
+      "dynamics_score": 4.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -286,7 +428,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T23:06:41+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -307,11 +449,36 @@
       "summary": "「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など Cloudflareは、AIを活用した業務のためのプラットフォームとなる「Cloudflare OS」のマネージドサービスを発表しました。現在ウェイティングリストへの登録を募集しています。 AIを活用した業務アプリのプラットフォーム Cloudflar..."
     },
     {
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "age_days": 0.78,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
+    },
+    {
       "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services | Amazon Web Services",
       "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T21:10:06+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -330,6 +497,32 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "The session catalog is live. Explore what's waiting for you"
+    },
+    {
+      "title": "Google may already be showing us its route to AGI",
+      "url": "https://e27.co/google-may-already-be-showing-us-its-route-to-agi-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-21T01:00:04+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "In 2015, Demis Hassabis looked back at a decision he had made more than a decade earlier. By 2004 he was already thinking about what would eventually become DeepMind, but concluded that the technology was not ready. As he later put it, “we still didn’t have enough of the components.” Deep learning had not yet […] The…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Xerj Console APIにおける認証回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
