@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-10-21T08:29:25+00:00",
-  "status": "normal",
+  "generated_at": "2026-10-21T09:01:43+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "new_relevant_findings": 3,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
-    "medium": 5,
-    "observe": 30,
-    "source_errors": 0
+    "medium": 6,
+    "observe": 32,
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "cert_eu_security_advisories",
+      "source_name": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }

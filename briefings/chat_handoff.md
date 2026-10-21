@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-21T08:29:25+00:00_
+_Generated: 2026-10-21T09:01:43+00:00_
 
 ## Status
-- status: `normal`
-- findings: `35`
+- status: `warning`
+- findings: `38`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-21T08:29:25+00:00_
 - url: https://jvn.jp/vu/JVNVU90998702/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. M 4.5 - 2 km N of Honchō, Japan
+### 3. M 5.2 - 68 km NE of Cabatuan, Philippines
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-10-21T08:54:47.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t6
+- summary: Time 2026-10-21 08:37:41 UTC 2026-10-21 08:37:41 UTC at epicenter Location 13.030°N 125.590°E Depth 10.00 km (6.21 mi)
+
+### 4. M 4.5 - 2 km N of Honchō, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-21T01:48:33.424+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rn
 - summary: DYFI? - III Time 2026-10-21 01:04:29 UTC 2026-10-21 01:04:29 UTC at epicenter Location 35.725°N 139.984°E Depth 90.27 km (56.09 mi)
-
-### 4. Apache Tomcatにおける複数の脆弱性（2026年10月20日）
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-21T09:30:30+09:00`
-- url: https://jvn.jp/vu/JVNVU93110597/
-- summary: The Apache Software Foundationから、Apache Tomcatの8件の脆弱性に対してアドバイザリが公開されました。
 
 ### 5. I still work 40 hours a week. AI turns it into 120
 - source: e27 Asia Startup and Tech Feed
