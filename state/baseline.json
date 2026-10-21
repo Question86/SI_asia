@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T01:15:51+00:00",
+  "generated_at": "2026-10-21T01:59:36+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "updated_at": "2026-10-21T01:15:51+00:00",
+      "updated_at": "2026-10-21T01:59:36+00:00",
       "network_scores": [
-        13.1,
         10.1,
         10.1,
         19.2,
@@ -130,12 +129,13 @@
         16.2,
         16.2,
         16.2,
-        13.1
+        13.1,
+        10.1
       ],
-      "rolling_average": 15.69,
+      "rolling_average": 15.59,
       "rolling_peak": 19.2,
-      "last_score": 13.1,
-      "z_hint": -2.59
+      "last_score": 10.1,
+      "z_hint": -5.49
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -2868,7 +2868,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）",
-      "updated_at": "2026-10-21T01:15:51+00:00",
+      "updated_at": "2026-10-21T01:59:36+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2897,8 +2897,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1
       ],
       "rolling_average": 18.2,
@@ -10263,9 +10263,8 @@
     },
     "domain:note.com": {
       "title": "Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出｜npaka",
-      "updated_at": "2026-10-21T01:15:51+00:00",
+      "updated_at": "2026-10-21T01:59:36+00:00",
       "network_scores": [
-        15.2,
         15.2,
         15.2,
         15.2,
@@ -10294,12 +10293,13 @@
         7.1,
         7.1,
         17.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 12.63,
+      "rolling_average": 12.59,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": 1.47
+      "z_hint": 1.51
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -19232,8 +19232,8 @@
       "z_hint": 0.0
     },
     "earthquake:japan:4.5": {
-      "title": "M 4.5 - 53 km S of Kushiro, Japan",
-      "updated_at": "2026-10-12T23:33:31+00:00",
+      "title": "M 4.5 - 2 km N of Honchō, Japan",
+      "updated_at": "2026-10-21T01:59:36+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -19264,12 +19264,12 @@
         17.7,
         17.7,
         17.7,
-        17.7
+        20.7
       ],
-      "rolling_average": 17.7,
-      "rolling_peak": 17.7,
-      "last_score": 17.7,
-      "z_hint": 0.0
+      "rolling_average": 17.8,
+      "rolling_peak": 20.7,
+      "last_score": 20.7,
+      "z_hint": 2.9
     },
     "earthquake:m 4.8 - kermadec islands, new zealand:4.8": {
       "title": "M 4.8 - Kermadec Islands, New Zealand",
@@ -30260,9 +30260,8 @@
     },
     "domain:aws.amazon.com": {
       "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services | Amazon Web Services",
-      "updated_at": "2026-10-21T01:15:51+00:00",
+      "updated_at": "2026-10-21T01:59:36+00:00",
       "network_scores": [
-        12.1,
         12.1,
         12.1,
         12.1,
@@ -30291,12 +30290,13 @@
         12.1,
         10.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 11.7,
+      "rolling_average": 11.53,
       "rolling_peak": 12.1,
       "last_score": 7.1,
-      "z_hint": -4.6
+      "z_hint": -4.43
     },
     "github_repo:jihe520/mathmodelagent": {
       "title": "jihe520/MathModelAgent",
@@ -45763,7 +45763,7 @@
     },
     "title:apache-tomcat-2026": {
       "title": "Apache Tomcatにおける複数の脆弱性（2026年10月20日）",
-      "updated_at": "2026-10-21T01:15:51+00:00",
+      "updated_at": "2026-10-21T01:59:36+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -45792,8 +45792,8 @@
         16.1,
         16.1,
         16.1,
-        16.1,
         19.1,
+        16.1,
         16.1
       ],
       "rolling_average": 16.2,
@@ -82920,59 +82920,86 @@
     },
     "title:xerj-console-api": {
       "title": "Xerj Console APIにおける認証回避の脆弱性",
-      "updated_at": "2026-10-21T01:15:51+00:00",
+      "updated_at": "2026-10-21T01:59:36+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.6,
+      "rolling_average": 17.1,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:cloudflare-github-gmail": {
       "title": "「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など",
-      "updated_at": "2026-10-21T01:15:51+00:00",
+      "updated_at": "2026-10-21T01:59:36+00:00",
       "network_scores": [
         13.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 11.6,
+      "rolling_average": 11.1,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:com-vps-6739": {
       "title": "「お名前.com デスクトップクラウド」不正プログラム設置で全プラン停止 FX用VPS、2万6739サーバに影響か",
-      "updated_at": "2026-10-21T01:15:51+00:00",
+      "updated_at": "2026-10-21T01:59:36+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
+      "last_score": 7.1,
+      "z_hint": -1.5
     },
     "title:mac": {
       "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
-      "updated_at": "2026-10-21T01:15:51+00:00",
+      "updated_at": "2026-10-21T01:59:36+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
+      "last_score": 7.1,
+      "z_hint": -1.5
     },
     "title:google-may-already-showing-its-route-agi": {
       "title": "Google may already be showing us its route to AGI",
-      "updated_at": "2026-10-21T01:15:51+00:00",
+      "updated_at": "2026-10-21T01:59:36+00:00",
       "network_scores": [
-        9.1
+        9.1,
+        6.1
       ],
-      "rolling_average": 9.1,
+      "rolling_average": 7.6,
       "rolling_peak": 9.1,
-      "last_score": 9.1,
+      "last_score": 6.1,
+      "z_hint": -1.5
+    },
+    "title:malaysia-110m-startup-bet-has-matching-problem-investors": {
+      "title": "Malaysia’s US$110M startup bet has a matching problem, investors warn",
+      "updated_at": "2026-10-21T01:59:36+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "earthquake:m 5.0 - south of panama:5.0": {
+      "title": "M 5.0 - south of Panama",
+      "updated_at": "2026-10-21T01:59:36+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
       "z_hint": 0.0
     }
   }
