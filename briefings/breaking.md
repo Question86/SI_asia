@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-21T04:41:53+00:00_
+_Generiert: 2026-10-21T04:54:54+00:00_
 
 ## Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces
 
