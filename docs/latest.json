@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T10:48:43+00:00",
-  "run_id": "2026-10-21T10:48:43+00:00",
+  "generated_at": "2026-10-21T10:57:37+00:00",
+  "run_id": "2026-10-21T10:57:37+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 51,
     "displayed_findings": 51,
     "high": 0,
@@ -2405,50 +2405,7 @@
       "id": "5b938646a92fa74113b8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "不正アクセス“金融機関が狙われる段階に変わってきた可能性” | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62921",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-21T09:08:57+00:00",
-      "fetched_at": "2026-10-21T10:48:12+00:00",
-      "summary": "証券会社のシステムが不正アクセスを受けたことについて、サイバーセキュリティーに詳しい立命館大学の上原哲太郎教授は、金融機関が狙われる段階に変わってきた可能性があり、必要があればシステムの一時停止も含め…",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1f7d84ffc94d481fcb49"
-    },
-    {
-      "title": "修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog",
-      "url": "https://piyolog.hatenadiary.jp/entry/2026/10/21/174516",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-21T08:57:42+00:00",
-      "fetched_at": "2026-10-21T10:48:12+00:00",
-      "summary": "2026年10月20日、PHPの開発元であるThe PHP Groupのセキュリティチームは、PHPの深刻な脆弱性2件を修正するセキュリティリリースを予告しました。ここでは関連する情報をまとめます。（開発元等から詳細情報が公開され次第更新します。） 開発元は何を予告したの? PHPのセキュリティチームは10月20日(協定世界時)、2件の...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "96875fb869d15e64f959"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
