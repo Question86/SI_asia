@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-21T09:24:36+00:00_
+_Generated: 2026-10-21T09:39:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `41`
 
 ## Top Signals
 
-### 1. Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces
+### 1. [NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `17`
+- published: `2026-10-21T09:25:51+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4056
+- summary: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira ausnutzen, um Daten zu manipulieren, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzule…
+
+### 2. Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-10-21T04:19:38+00:00`
 - url: https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/
 - summary: Somewhere in Singapore this week, a recruiter is probably rewriting a job ad that once asked for “advanced Excel skills” so that it now asks for “hands-on experience with agentic AI workflows”. Multiply that by a few thousand listings and you arrive at the he…
 
-### 2. CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）
+### 3. CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-10-21T09:30:15+09:00`
 - url: https://jvn.jp/vu/JVNVU90998702/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. [NEU] [UNGEPATCHT] [hoch] expat: Schwachstelle ermöglicht Denial of Service
+### 4. [NEU] [UNGEPATCHT] [hoch] expat: Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-21T09:00:52+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4054
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in expat ausnutzen, um einen Denial of Service Angriff durchzuführen.
-
-### 4. M 5.2 - 68 km NE of Cabatuan, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-21T08:54:47.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t6
-- summary: Time 2026-10-21 08:37:41 UTC 2026-10-21 08:37:41 UTC at epicenter Location 13.030°N 125.590°E Depth 10.00 km (6.21 mi)
 
 ### 5. I still work 40 hours a week. AI turns it into 120
 - source: e27 Asia Startup and Tech Feed
