@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T02:28:14+00:00",
+  "generated_at": "2026-10-21T02:46:52+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -329,7 +329,7 @@
       "p90_usd": 1120000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T01:59:36+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
       "status": "active"
     },
     {
@@ -1683,7 +1683,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T01:09:44+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
       "status": "active"
     },
     {
@@ -6885,7 +6885,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-21T01:59:36+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
       "status": "active"
     },
     {
@@ -9316,7 +9316,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
       "status": "active"
     },
     {
@@ -10013,7 +10013,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T01:39:57+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
       "status": "active"
     },
     {
@@ -10455,7 +10455,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T00:51:54+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
       "status": "active"
     },
     {
@@ -10797,6 +10797,23 @@
       "first_seen_at": "2026-10-16T12:31:55+00:00",
       "last_seen_at": "2026-10-17T23:58:29+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_bb65db3b8694e5f457aa",
+      "title": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 284000.0,
+      "p50_usd": 28400000.0,
+      "p90_usd": 2840000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-21T02:46:32+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_08244bc271b4aa50456f",
@@ -13056,7 +13073,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
       "status": "active"
     },
     {
@@ -14437,6 +14454,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_1cae9f34d75ec8ab3e4b",
+      "title": "I still work 40 hours a week. AI turns it into 120",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_1e765f4afacb8eac2f3a",
       "title": "Try Everything 2026 puts AI, robotics and cross-border capital at the centre",
       "event_classes": [
@@ -14894,23 +14928,6 @@
       "first_seen_at": "2026-09-09T08:08:20+00:00",
       "last_seen_at": "2026-09-09T23:54:37+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_1cae9f34d75ec8ab3e4b",
-      "title": "I still work 40 hours a week. AI turns it into 120",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 114400.0,
-      "p50_usd": 11440000.0,
-      "p90_usd": 1144000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-21T02:27:54+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0179c38e8dc959d9f1aa",
@@ -16036,6 +16053,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e51def39e0999936b77a",
+      "title": "Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_eb4d07fef79346ffdafc",
       "title": "OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕",
       "event_classes": [
@@ -16085,23 +16119,6 @@
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_e51def39e0999936b77a",
-      "title": "Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-21T02:27:54+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017a730364c807861d1b",
@@ -19160,7 +19177,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T04:45:41+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
       "status": "active"
     },
     {
@@ -19926,7 +19943,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T00:51:54+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
       "status": "active"
     },
     {
@@ -25418,7 +25435,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
       "status": "active"
     },
     {
@@ -26017,6 +26034,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_5532c190d19a2a7b535e",
+      "title": "PHPに「緊急」レベルの脆弱性2件 修正版を日本時間21日深夜に公開へ、事前準備を呼び掛け",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_55bd9b2d9c70fd4db796",
       "title": "「三層構造はもう古い」は本当か。AI時代におけるバックエンドシステムのアーキテクチャ - レバテックLAB",
       "event_classes": [
@@ -26064,7 +26098,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T01:15:51+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
       "status": "active"
     },
     {
@@ -27679,7 +27713,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T01:15:51+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
       "status": "active"
     },
     {
@@ -28958,23 +28992,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_5532c190d19a2a7b535e",
-      "title": "PHPに「緊急」レベルの脆弱性2件 修正版を日本時間21日深夜に公開へ、事前準備を呼び掛け",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-21T02:27:54+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_017c3d08edef1ec4ff45",
       "title": "Can Ethereum clear US$2,672 this week and unlock a run to US$3,000?",
       "event_classes": [
@@ -29720,7 +29737,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T01:15:51+00:00",
-      "last_seen_at": "2026-10-21T02:27:54+00:00",
+      "last_seen_at": "2026-10-21T02:46:32+00:00",
       "status": "active"
     },
     {
