@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T23:45:01+00:00",
+  "generated_at": "2026-10-21T00:00:24+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -89,7 +89,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T14:21:58+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d5388da554db04a53246",
@@ -1497,7 +1497,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T08:36:29+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1eb1983ef98b0e807a3f",
@@ -2126,7 +2126,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-20T04:40:31+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_50b3c3060f979d361e39",
@@ -5254,6 +5254,23 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-02T05:00:43+00:00",
       "last_seen_at": "2026-10-02T14:51:25+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_3ca7d2df04b1c6d2e5c0",
+      "title": "M 5.1 - south of the Fiji Islands",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-20T23:44:41+00:00",
+      "last_seen_at": "2026-10-20T23:44:41+00:00",
       "status": "dormant"
     },
     {
@@ -9082,23 +9099,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_3ca7d2df04b1c6d2e5c0",
-      "title": "M 5.1 - south of the Fiji Islands",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-20T23:44:41+00:00",
-      "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -9113,7 +9113,7 @@
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b380be2049a414b6cdc6",
@@ -9198,7 +9198,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T03:25:56+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f8de791871e85abc0655",
@@ -10116,7 +10116,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T05:01:07+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9c42c7aa48c9958f0b87",
@@ -10320,7 +10320,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T03:25:56+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c39c68387b68393d229a",
@@ -10779,7 +10779,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2bf1e7d57306cb9b7c1c",
@@ -10966,7 +10966,7 @@
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_286c3df7e2f2f93926a3",
@@ -11867,7 +11867,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T07:49:42+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_573cead69136ea2d807d",
@@ -13006,7 +13006,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a2888de3c57b771f0196",
@@ -13091,7 +13091,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T05:58:23+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c0549843347dd6d4cba1",
@@ -13363,7 +13363,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T05:22:24+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_164cc1afee592ac2b935",
@@ -13703,7 +13703,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T09:49:41+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d6e61e2673b99a2751d1",
@@ -15080,7 +15080,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T22:59:18+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_44096f72fdab32d24ff5",
@@ -15437,7 +15437,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T18:27:56+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9456487d5a1476b33ffb",
@@ -15880,7 +15880,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-20T17:34:24+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d9d1e9444ff4c251a395",
@@ -17124,6 +17124,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c4770d0510ba50420eb6",
+      "title": "PHP: News Archive - 2026",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-20T23:44:41+00:00",
+      "last_seen_at": "2026-10-20T23:44:41+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_cc17b4bd401d2aacd3f1",
       "title": "AI safety is designed in the West, and failing users everywhere",
       "event_classes": [
@@ -17326,23 +17343,6 @@
       "first_seen_at": "2026-09-08T05:58:24+00:00",
       "last_seen_at": "2026-09-08T22:21:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_c4770d0510ba50420eb6",
-      "title": "PHP: News Archive - 2026",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112800.0,
-      "p50_usd": 11280000.0,
-      "p90_usd": 1128000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-20T23:44:41+00:00",
-      "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -19075,8 +19075,8 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T04:45:41+00:00",
-      "last_seen_at": "2026-10-19T13:34:34+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-21T00:00:07+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_22c2a97c6382782c5b60",
@@ -19144,7 +19144,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
       "last_seen_at": "2026-10-20T23:44:41+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5252adbb76a6fbcf8a41",
