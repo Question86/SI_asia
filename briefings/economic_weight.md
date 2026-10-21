@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-10-21T01:59:54+00:00`
+Generated: `2026-10-21T02:28:14+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -24,8 +24,8 @@ Generated: `2026-10-21T01:59:54+00:00`
 | M 5.1 - 34 km NNW of Bāgeshwar, India | natural_disaster, conflict | $112.80M | $11.28B | $1.13T | 0.33 |
 | Multiple trusted publishing configurations for npm | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 | Stage-only npm tokens for safer automation | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
-| Multiples vulnérabilités dans les produits VMware (07 septembre 2026) | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
 | Malaysia’s US$110M startup bet has a matching problem, investors warn | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
+| Multiples vulnérabilités dans les produits VMware (07 septembre 2026) | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
 | Singapore’s robotics dominance is a warning sign dressed up as good news | conflict | $111.20M | $11.12B | $1.11T | 0.31 |
 | Secret protection must scale with software | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 | GitHub - dmtrKovalenko/bashka: Stop running unverified bash scripts to install software! curl <url> \| bashKA for static verification of bash script safty and managing installed software | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
