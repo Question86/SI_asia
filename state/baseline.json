@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T00:00:07+00:00",
+  "generated_at": "2026-10-21T00:51:54+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2867,8 +2867,8 @@
       "z_hint": 0.0
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）",
-      "updated_at": "2026-10-16T23:59:00+00:00",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）",
+      "updated_at": "2026-10-21T00:51:54+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2899,12 +2899,12 @@
         18.1,
         18.1,
         18.1,
-        18.1
+        21.1
       ],
-      "rolling_average": 18.1,
-      "rolling_peak": 18.1,
-      "last_score": 18.1,
-      "z_hint": -0.0
+      "rolling_average": 18.2,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
+      "z_hint": 2.9
     },
     "github_repo:universal-debloater-alliance/universal-android-debloater-next-generation": {
       "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -10262,10 +10262,9 @@
       "z_hint": 0.0
     },
     "domain:note.com": {
-      "title": "あなたの会社は、慌てて脆弱性検査にARTEXを使わなくていい｜Yusuke Kawabata（SaaS運営）",
-      "updated_at": "2026-10-20T23:44:41+00:00",
+      "title": "Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出｜npaka",
+      "updated_at": "2026-10-21T00:51:54+00:00",
       "network_scores": [
-        15.2,
         15.2,
         15.2,
         15.2,
@@ -10294,12 +10293,13 @@
         7.1,
         7.1,
         7.1,
-        7.1
+        7.1,
+        17.1
       ],
-      "rolling_average": 12.6,
-      "rolling_peak": 15.2,
-      "last_score": 7.1,
-      "z_hint": -5.5
+      "rolling_average": 12.66,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 4.44
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -30260,7 +30260,7 @@
     },
     "domain:aws.amazon.com": {
       "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services | Amazon Web Services",
-      "updated_at": "2026-10-21T00:00:07+00:00",
+      "updated_at": "2026-10-21T00:51:54+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -30290,13 +30290,13 @@
         12.1,
         12.1,
         12.1,
-        12.1,
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 12.03,
+      "rolling_average": 11.87,
       "rolling_peak": 12.1,
-      "last_score": 10.1,
-      "z_hint": -1.93
+      "last_score": 7.1,
+      "z_hint": -4.77
     },
     "github_repo:jihe520/mathmodelagent": {
       "title": "jihe520/MathModelAgent",
@@ -45762,8 +45762,8 @@
       "z_hint": 0.0
     },
     "title:apache-tomcat-2026": {
-      "title": "Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
-      "updated_at": "2026-09-24T23:52:18+00:00",
+      "title": "Apache Tomcatにおける複数の脆弱性（2026年10月20日）",
+      "updated_at": "2026-10-21T00:51:54+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -45794,12 +45794,12 @@
         16.1,
         16.1,
         16.1,
-        16.1
+        19.1
       ],
-      "rolling_average": 16.1,
-      "rolling_peak": 16.1,
-      "last_score": 16.1,
-      "z_hint": -0.0
+      "rolling_average": 16.2,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 2.9
     },
     "title:imprivata-enterprise-access-management-rsa": {
       "title": "Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性",
@@ -82916,6 +82916,28 @@
       "rolling_average": 14.7,
       "rolling_peak": 14.7,
       "last_score": 14.7,
+      "z_hint": 0.0
+    },
+    "title:xerj-console-api": {
+      "title": "Xerj Console APIにおける認証回避の脆弱性",
+      "updated_at": "2026-10-21T00:51:54+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "title:cloudflare-github-gmail": {
+      "title": "「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など",
+      "updated_at": "2026-10-21T00:51:54+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
       "z_hint": 0.0
     }
   }
