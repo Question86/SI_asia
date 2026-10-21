@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T23:19:31+00:00",
-  "run_id": "2026-10-21T23:19:31+00:00",
+  "generated_at": "2026-10-21T23:32:26+00:00",
+  "run_id": "2026-10-21T23:32:26+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 95
+      "configured_public_sources_only": 96
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 95,
-    "displayed_findings": 95,
+    "new_relevant_findings": 1,
+    "today_file_total": 96,
+    "displayed_findings": 96,
     "high": 0,
     "medium": 21,
-    "observe": 74,
+    "observe": 75,
     "source_errors": 0
   },
   "sections": {
@@ -1975,6 +1975,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d6593e2b47d488de3cd0"
+      },
+      {
+        "title": "「客を一切信用してなくてワロける」ドラッグストアコスモスの防犯カメラの多さが話題に→「むしろ信頼できる」「これでも少ない店舗」",
+        "url": "https://togetter.com/li/2761220",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-21T13:45:32+00:00",
+        "fetched_at": "2026-10-21T23:31:59+00:00",
+        "summary": "防犯カメラの数、尋常じゃない...！ セキュリティ意識が強すぎるドラッグストアが話題に(全文表示)｜Jタウンネット 九州を拠点とするドラッグストア「コスモス薬品」（本社・福岡市）。西日本ではお馴染みといえるドラッグストアだが、インターネット上であることが話題になった。赤い丸で囲った部分が防犯カメラだ（提...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1549139567f5b73e8bdb"
       },
       {
         "title": "これが視界に入った瞬間、1秒以内に「AIだ！」と思ったけど我々は一体何に「AIっぽさ」を感じているのか→文字や色味以外にも判別ポイントがある？",
@@ -4257,6 +4278,27 @@
       "id": "d6593e2b47d488de3cd0"
     },
     {
+      "title": "「客を一切信用してなくてワロける」ドラッグストアコスモスの防犯カメラの多さが話題に→「むしろ信頼できる」「これでも少ない店舗」",
+      "url": "https://togetter.com/li/2761220",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-21T13:45:32+00:00",
+      "fetched_at": "2026-10-21T23:31:59+00:00",
+      "summary": "防犯カメラの数、尋常じゃない...！ セキュリティ意識が強すぎるドラッグストアが話題に(全文表示)｜Jタウンネット 九州を拠点とするドラッグストア「コスモス薬品」（本社・福岡市）。西日本ではお馴染みといえるドラッグストアだが、インターネット上であることが話題になった。赤い丸で囲った部分が防犯カメラだ（提...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1549139567f5b73e8bdb"
+    },
+    {
       "title": "これが視界に入った瞬間、1秒以内に「AIだ！」と思ったけど我々は一体何に「AIっぽさ」を感じているのか→文字や色味以外にも判別ポイントがある？",
       "url": "https://togetter.com/li/2761175",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4589,7 +4631,29 @@
       "id": "dc0b86674a8ed2257fd8"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "「客を一切信用してなくてワロける」ドラッグストアコスモスの防犯カメラの多さが話題に→「むしろ信頼できる」「これでも少ない店舗」",
+      "url": "https://togetter.com/li/2761220",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-21T13:45:32+00:00",
+      "fetched_at": "2026-10-21T23:31:59+00:00",
+      "summary": "防犯カメラの数、尋常じゃない...！ セキュリティ意識が強すぎるドラッグストアが話題に(全文表示)｜Jタウンネット 九州を拠点とするドラッグストア「コスモス薬品」（本社・福岡市）。西日本ではお馴染みといえるドラッグストアだが、インターネット上であることが話題になった。赤い丸で囲った部分が防犯カメラだ（提...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1549139567f5b73e8bdb"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
