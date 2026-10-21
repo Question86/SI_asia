@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T03:40:15+00:00",
-  "run_id": "2026-10-21T03:40:15+00:00",
+  "generated_at": "2026-10-21T03:53:51+00:00",
+  "run_id": "2026-10-21T03:53:51+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 21,
     "displayed_findings": 21,
     "high": 0,
@@ -1041,30 +1041,7 @@
       "id": "5b938646a92fa74113b8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI won’t tidy your business. It just moves the mess faster",
-      "url": "https://e27.co/ai-wont-tidy-your-business-it-just-moves-the-mess-faster-20261018/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-21T03:30:15+00:00",
-      "fetched_at": "2026-10-21T03:39:43+00:00",
-      "summary": "I build AI tools for marketers, and run an AI marketing software firm in Singapore, so I spend a lot of time hearing about AI adoption. A recent talk by Robert Lai, founder of performance agency Kaliber, stuck with me because it opened with an uncomfortable claim: most of the AI work in the room […] The post AI won’t tidy your business. It just moves the mess faster appeared first on e27 .",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "founder"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6bd1d364792fb441c614"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
