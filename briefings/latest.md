@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T03:21:08+00:00_
+_Generiert: 2026-10-21T03:40:15+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+21 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -113,6 +113,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
   - Kurz: I teach people how to use AI for a living. So you would expect me to tell you it does everything. It doesn’t. What it does is take a huge amount of the grind out of my week, as long as I stay in the loop. Most of what I have learned came from AI […] The post I still work 40 hours a week. AI turns it into 120 appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI won’t tidy your business. It just moves the mess faster** — Score 12, observation — [Quelle](https://e27.co/ai-wont-tidy-your-business-it-just-moves-the-mess-faster-20261018/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-21T03:30:15+00:00`, fetched `2026-10-21T03:39:43+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: I build AI tools for marketers, and run an AI marketing software firm in Singapore, so I spend a lot of time hearing about AI adoption. A recent talk by Robert Lai, founder of performance agency Kaliber, stuck with me because it opened with an uncomfortable claim: most of the AI work in the room […] The post AI won’t tidy your business. It just moves the mess faster appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog** — Score 12, risk — [Quelle](https://blog.flatt.tech/entry/php2shell)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-21T02:15:43+00:00`, fetched `2026-10-21T02:46:02+00:00`
@@ -167,15 +176,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-21 01:20:02 UTC 2026-10-21 01:20:02 UTC at epicenter Location 4.599°N 82.703°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **How I use AI to support public relations** — Score 8, observation — [Quelle](https://e27.co/how-i-use-ai-to-support-public-relations-20261016/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-21T03:00:07+00:00`, fetched `2026-10-21T03:20:37+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: After narrowly losing yet another pitch earlier this year, I added up the time I had spent preparing proposals: 300 hours in four months. I wanted to know whether we were pursuing the right business. Using Gemini and a script in Google Docs, I compared five years of proposals with our client invoicing records. One […] The post How I use AI to support public relations appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Terminal X matches senior investor judgment 88.6% with GPT-6.1** — Score 8, observation — [Quelle](https://openai.com/index/terminal-x)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-10-20T07:00:00+00:00`, fetched `2026-10-21T01:15:18+00:00`
