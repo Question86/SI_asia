@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T18:26:17+00:00",
-  "run_id": "2026-10-21T18:26:17+00:00",
+  "generated_at": "2026-10-21T18:43:39+00:00",
+  "run_id": "2026-10-21T18:43:39+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 86,
     "displayed_findings": 86,
     "high": 0,
@@ -4059,28 +4059,7 @@
       "id": "dc0b86674a8ed2257fd8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-21T17:00:00+00:00",
-      "fetched_at": "2026-10-21T18:25:47+00:00",
-      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2d1f7b1bc42c34817956"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
