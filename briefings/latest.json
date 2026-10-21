@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T04:54:51+00:00",
-  "run_id": "2026-10-21T04:54:51+00:00",
+  "generated_at": "2026-10-21T05:02:10+00:00",
+  "run_id": "2026-10-21T05:02:10+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 25
+      "configured_public_sources_only": 26
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "new_relevant_findings": 1,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
     "medium": 5,
-    "observe": 20,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -267,6 +267,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a9b8c1b6942b76b7ce13"
+      },
+      {
+        "title": "Southeast Asia’s US$1T digital dream slips five years, and AI is the new reason to keep believing",
+        "url": "https://e27.co/southeast-asias-us1t-digital-dream-slips-five-years-and-ai-is-the-new-reason-to-keep-believing-20261021/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-21T05:00:18+00:00",
+        "fetched_at": "2026-10-21T05:01:41+00:00",
+        "summary": "Every October, Google, Temasek and Bain & Company gather Southeast Asia’s tech crowd around one seductive number. This year it is US$368 billion, the gross merchandise value (GMV) the region’s digital economy is projected to reach in 2026, up 17 per cent year-on-year. The longer-range promise is more than US$1 trillion by 2035. Long-time readers […] The post Southeast Asia’s US$1T digital dream slips five years, and…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ab4b9107ca283f4c6f1b"
       },
       {
         "title": "余暇のほとんどをITに使っていたエンジニアは、子どもが生まれてITとの付き合い方をどう変えたのか - レバテックLAB",
@@ -874,6 +896,28 @@
       "id": "a9b8c1b6942b76b7ce13"
     },
     {
+      "title": "Southeast Asia’s US$1T digital dream slips five years, and AI is the new reason to keep believing",
+      "url": "https://e27.co/southeast-asias-us1t-digital-dream-slips-five-years-and-ai-is-the-new-reason-to-keep-believing-20261021/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-21T05:00:18+00:00",
+      "fetched_at": "2026-10-21T05:01:41+00:00",
+      "summary": "Every October, Google, Temasek and Bain & Company gather Southeast Asia’s tech crowd around one seductive number. This year it is US$368 billion, the gross merchandise value (GMV) the region’s digital economy is projected to reach in 2026, up 17 per cent year-on-year. The longer-range promise is more than US$1 trillion by 2035. Long-time readers […] The post Southeast Asia’s US$1T digital dream slips five years, and…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab4b9107ca283f4c6f1b"
+    },
+    {
       "title": "余暇のほとんどをITに使っていたエンジニアは、子どもが生まれてITとの付き合い方をどう変えたのか - レバテックLAB",
       "url": "https://levtech.jp/media/detail_944/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1239,7 +1283,30 @@
       "id": "5b938646a92fa74113b8"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Southeast Asia’s US$1T digital dream slips five years, and AI is the new reason to keep believing",
+      "url": "https://e27.co/southeast-asias-us1t-digital-dream-slips-five-years-and-ai-is-the-new-reason-to-keep-believing-20261021/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-21T05:00:18+00:00",
+      "fetched_at": "2026-10-21T05:01:41+00:00",
+      "summary": "Every October, Google, Temasek and Bain & Company gather Southeast Asia’s tech crowd around one seductive number. This year it is US$368 billion, the gross merchandise value (GMV) the region’s digital economy is projected to reach in 2026, up 17 per cent year-on-year. The longer-range promise is more than US$1 trillion by 2035. Long-time readers […] The post Southeast Asia’s US$1T digital dream slips five years, and…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab4b9107ca283f4c6f1b"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

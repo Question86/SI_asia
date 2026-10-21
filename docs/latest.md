@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T04:54:51+00:00_
+_Generiert: 2026-10-21T05:02:10+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+26 neue relevante Treffer. Stärkstes Signal: „Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Open Source (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 1. OSS Scanner2026年10月8日、Anthropicは、オープンソースソフトウェア（OSS）の脆弱性をAIで検出する無料サービス「OSS Scanner」を発表しました。 OSS Scannerは、Claude Mythosなどの高性能AIモデルを使って、OSSのソースコードを定期的に分析し、脆弱性を発見するサービスです。 主な特徴は次のとおりです。 ・AI...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Southeast Asia’s US$1T digital dream slips five years, and AI is the new reason to keep believing** — Score 10, observation — [Quelle](https://e27.co/southeast-asias-us1t-digital-dream-slips-five-years-and-ai-is-the-new-reason-to-keep-believing-20261021/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-21T05:00:18+00:00`, fetched `2026-10-21T05:01:41+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: Every October, Google, Temasek and Bain & Company gather Southeast Asia’s tech crowd around one seductive number. This year it is US$368 billion, the gross merchandise value (GMV) the region’s digital economy is projected to reach in 2026, up 17 per cent year-on-year. The longer-range promise is more than US$1 trillion by 2035. Long-time readers […] The post Southeast Asia’s US$1T digital dream slips five years, and…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **余暇のほとんどをITに使っていたエンジニアは、子どもが生まれてITとの付き合い方をどう変えたのか - レバテックLAB** — Score 10, observation — [Quelle](https://levtech.jp/media/detail_944/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-21T02:06:33+00:00`, fetched `2026-10-21T03:20:37+00:00`
@@ -113,15 +122,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: hitode909 株式会社はてなのエンジニアリングマネージャー。学生時代から趣味でWebサービス開発に熱中。「YAPC::Asia」や「YAPC::Japan」など勉強会にて登壇多数。2011年から毎日更新している「hitode909の日記」では、ITと、5歳の子どもとの暮らしについて書いている。現在はマンガサービスの開発チームで、コードとチ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Malaysia’s US$110M startup bet has a matching problem, investors warn** — Score 10, observation — [Quelle](https://e27.co/malaysias-us110m-startup-bet-has-a-matching-problem-investors-warn-20261020/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-21T01:30:33+00:00`, fetched `2026-10-21T01:59:05+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Malaysia has found the money for its startups again. The harder part, investors say, is finding everything that is supposed to come with it. In his Budget 2027 speech on 9 October, Prime Minister and Finance Minister Anwar Ibrahim said Khazanah’s Jelawang Capital and KWAP’s Dana Perintis would invest MYR450 million (US$110.4 million) in startups. […] The post Malaysia’s US$110M startup bet has a matching problem, in…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 173 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3sj)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
