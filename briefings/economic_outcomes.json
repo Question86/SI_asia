@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T05:02:44+00:00",
+  "generated_at": "2026-10-21T05:23:28+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -6490,7 +6490,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5590c9415acb40826bc9",
@@ -8460,6 +8460,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6e6f00b76a3eb6c45460",
+      "title": "Bitcoin at US$82,829: Why a 95% correlation with the S&P 500 should worry long term believers",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_6e77a457802e4c461bc7",
@@ -11973,12 +11984,12 @@
     {
       "event_id": "evt_9cd32692959492e63a69",
       "title": "Southeast Asia’s US$1T digital dream slips five years, and AI is the new reason to keep believing",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
