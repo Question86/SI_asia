@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-21T01:59:33+00:00_
+_Generated: 2026-10-21T02:27:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `16`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-21T01:59:33+00:00_
 - url: https://jvn.jp/vu/JVNVU92078426/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 5. Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出｜npaka
+### 5. I still work 40 hours a week. AI turns it into 120
+- source: e27 Asia Startup and Tech Feed
+- score: `13`
+- published: `2026-10-21T02:00:31+00:00`
+- url: https://e27.co/i-still-work-40-hours-a-week-ai-turns-it-into-120-20261016/
+- summary: I teach people how to use AI for a living. So you would expect me to tell you it does everything. It doesn’t. What it does is take a huge amount of the grind out of my week, as long as I stay in the loop. Most of what I have learned came from AI […] The post…
+
+### 6. Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques
+- source: JPCERT/CC English Blog Atom
+- score: `12`
+- published: `2026-10-21T02:00:00+00:00`
+- url: https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html
+- summary: On October 8, 2026, JPCERT/CC issued an ...
+
+### 7. Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出｜npaka
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-10-20T09:51:38+00:00`
 - url: https://note.com/npaka/n/nba1723dba4e1
 - summary: 1. OSS Scanner2026年10月8日、Anthropicは、オープンソースソフトウェア（OSS）の脆弱性をAIで検出する無料サービス「OSS Scanner」を発表しました。 OSS Scannerは、Claude Mythosなどの高性能AIモデルを使って、OSSのソースコードを定期的に分析し、脆弱性を発見するサービスです。 主な特徴は次のとおりです。 ・AI...
 
-### 6. Malaysia’s US$110M startup bet has a matching problem, investors warn
+### 8. Malaysia’s US$110M startup bet has a matching problem, investors warn
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-21T01:30:33+00:00`
 - url: https://e27.co/malaysias-us110m-startup-bet-has-a-matching-problem-investors-warn-20261020/
 - summary: Malaysia has found the money for its startups again. The harder part, investors say, is finding everything that is supposed to come with it. In his Budget 2027 speech on 9 October, Prime Minister and Finance Minister Anwar Ibrahim said Khazanah’s Jelawang Cap…
-
-### 7. M 5.0 - south of Panama
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-21T01:36:14.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rr
-- summary: Time 2026-10-21 01:20:02 UTC 2026-10-21 01:20:02 UTC at epicenter Location 4.599°N 82.703°W Depth 10.00 km (6.21 mi)
-
-### 8. 「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など
-- source: Hatena Bookmark Hotentry IT
-- score: `8`
-- published: `2026-10-20T23:06:41+00:00`
-- url: https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html
-- summary: 「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など Cloudflareは、AIを活用した業務のためのプラットフォームとなる「Cloudflare OS」のマネージドサービスを発表しました。現在ウェイティングリストへの登録を募集しています。 AIを活用した業務アプリのプラットフォーム Cloudflar...
 
 END OF DOCUMENT
