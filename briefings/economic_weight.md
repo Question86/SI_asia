@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-10-21T05:50:01+00:00`
+Generated: `2026-10-21T06:54:50+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -21,6 +21,7 @@ Generated: `2026-10-21T05:50:01+00:00`
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Schools and universities face rising ransomware costs as attackers target identities | exploit, conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Netanyahu got an explicit warning before Oct. 7. He didn't brief security chiefs | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
+| The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | M 5.1 - 34 km NNW of Bāgeshwar, India | natural_disaster, conflict | $112.80M | $11.28B | $1.13T | 0.33 |
 | Multiple trusted publishing configurations for npm | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 | Stage-only npm tokens for safer automation | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-10-21T05:50:01+00:00`
 | Secret protection must scale with software | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 | GitHub - dmtrKovalenko/bashka: Stop running unverified bash scripts to install software! curl <url> \| bashKA for static verification of bash script safty and managing installed software | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 | Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
-| 一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも \| kawarimidoll.com | conflict | $109.60M | $10.96B | $1.10T | 0.31 |
 
 ## Interpretation
 
