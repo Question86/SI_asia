@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T13:49:47+00:00",
-  "run_id": "2026-10-21T13:49:47+00:00",
+  "generated_at": "2026-10-21T13:58:47+00:00",
+  "run_id": "2026-10-21T13:58:47+00:00",
   "date": "2026-10-21",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 66,
     "displayed_findings": 66,
     "high": 0,
@@ -3101,28 +3101,7 @@
       "id": "5b938646a92fa74113b8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "php2shell: Kritische Sicherheitslücken erlauben Codeeinschleusung in PHP",
-      "url": "https://www.heise.de/news/php2shell-Kritische-Sicherheitsluecken-erlauben-Codeeinschleusung-in-PHP-11492938.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-21T13:42:00.000+00:00",
-      "fetched_at": "2026-10-21T13:49:16+00:00",
-      "summary": "Zwei Fehler machen Webserver mit PHP aus dem Netz angreifbar. Betroffen: Versionen der letzten 20 Jahre, Admins sollten patchen.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "503d7db0bbf0cb1a12c6"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
