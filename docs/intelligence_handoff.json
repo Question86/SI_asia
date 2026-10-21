@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-21T22:43:05Z",
+  "generated_at": "2026-10-21T22:51:41Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (python-tornado, resteasy-core, bubblewrap, pgvector): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4029",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T10:27:16+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 125.34,
+      "age_days": 125.35,
       "topics": [
         "general"
       ],
@@ -69,7 +69,7 @@
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-21T07:00:00+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "ai",
         "security"
@@ -306,7 +306,7 @@
       "url": "https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T02:46:32+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "ai",
         "security"
