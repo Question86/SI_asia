@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T05:02:10+00:00",
-  "run_id": "2026-10-21T05:02:10+00:00",
+  "generated_at": "2026-10-21T05:22:51+00:00",
+  "run_id": "2026-10-21T05:22:51+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 27
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 5,
-    "observe": 21,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -634,6 +634,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6085fbcbcf009b605a6d"
+      },
+      {
+        "title": "Bitcoin at US$82,829: Why a 95% correlation with the S&P 500 should worry long term believers",
+        "url": "https://e27.co/bitcoin-at-us82829-why-a-95-correlation-with-the-sp-500-should-worry-long-term-believers-20261021/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-21T05:08:19+00:00",
+        "fetched_at": "2026-10-21T05:22:19+00:00",
+        "summary": "The digital asset landscape intertwines deeply with traditional equities rather than operating in isolation. The leading cryptocurrency recently climbed 1.67 per cent to reach US$82,829.06 over a single 24-hour period. This upward progression closely tracks a broad financial recovery. Risk assets worldwide are bouncing back from recent weakness. The digital sector mirrors this exact trajectory […] The post Bitcoin a…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b3eeda4c196d4245963f"
       },
       {
         "title": "Google may already be showing us its route to AGI",
@@ -1263,6 +1283,26 @@
       "id": "6085fbcbcf009b605a6d"
     },
     {
+      "title": "Bitcoin at US$82,829: Why a 95% correlation with the S&P 500 should worry long term believers",
+      "url": "https://e27.co/bitcoin-at-us82829-why-a-95-correlation-with-the-sp-500-should-worry-long-term-believers-20261021/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-21T05:08:19+00:00",
+      "fetched_at": "2026-10-21T05:22:19+00:00",
+      "summary": "The digital asset landscape intertwines deeply with traditional equities rather than operating in isolation. The leading cryptocurrency recently climbed 1.67 per cent to reach US$82,829.06 over a single 24-hour period. This upward progression closely tracks a broad financial recovery. Risk assets worldwide are bouncing back from recent weakness. The digital sector mirrors this exact trajectory […] The post Bitcoin a…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b3eeda4c196d4245963f"
+    },
+    {
       "title": "Google may already be showing us its route to AGI",
       "url": "https://e27.co/google-may-already-be-showing-us-its-route-to-agi-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1285,26 +1325,24 @@
   ],
   "new_findings": [
     {
-      "title": "Southeast Asia’s US$1T digital dream slips five years, and AI is the new reason to keep believing",
-      "url": "https://e27.co/southeast-asias-us1t-digital-dream-slips-five-years-and-ai-is-the-new-reason-to-keep-believing-20261021/",
+      "title": "Bitcoin at US$82,829: Why a 95% correlation with the S&P 500 should worry long term believers",
+      "url": "https://e27.co/bitcoin-at-us82829-why-a-95-correlation-with-the-sp-500-should-worry-long-term-believers-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-21T05:00:18+00:00",
-      "fetched_at": "2026-10-21T05:01:41+00:00",
-      "summary": "Every October, Google, Temasek and Bain & Company gather Southeast Asia’s tech crowd around one seductive number. This year it is US$368 billion, the gross merchandise value (GMV) the region’s digital economy is projected to reach in 2026, up 17 per cent year-on-year. The longer-range promise is more than US$1 trillion by 2035. Long-time readers […] The post Southeast Asia’s US$1T digital dream slips five years, and…",
+      "published_at": "2026-10-21T05:08:19+00:00",
+      "fetched_at": "2026-10-21T05:22:19+00:00",
+      "summary": "The digital asset landscape intertwines deeply with traditional equities rather than operating in isolation. The leading cryptocurrency recently climbed 1.67 per cent to reach US$82,829.06 over a single 24-hour period. This upward progression closely tracks a broad financial recovery. Risk assets worldwide are bouncing back from recent weakness. The digital sector mirrors this exact trajectory […] The post Bitcoin a…",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ab4b9107ca283f4c6f1b"
+      "id": "b3eeda4c196d4245963f"
     }
   ],
   "source_errors": [],
