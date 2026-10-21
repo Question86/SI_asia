@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T07:11:07+00:00",
+  "generated_at": "2026-10-21T07:34:05+00:00",
   "fx_as_of": null,
-  "candidate_count": 2172,
+  "candidate_count": 2175,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2172
+    "pending": 2175
   },
   "coverage_warning": null,
   "candidates": [
@@ -8834,6 +8834,63 @@
       "snippet": "urages the holdings of longer-duration bonds, since it enhances the liquidity of these bonds: the liquidity enhancement is considerable as EUREP offers same day liquidity of up to €50 billion off-market in a single transaction. Since reserve managers would be able to hold bonds from all euro area countries rather than just the most liquid bonds, EUREP also enhances the",
       "source_priority": "primary_hint",
       "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html"
+    },
+    {
+      "amount_native": 2.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.6,
+      "candidate_id": "cand_04bdde7bf7e530ea1a0b",
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_43856848b80264610146",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-21T07:33:53+00:00",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unknown:acce9722cd78",
+      "review_status": "pending",
+      "snippet": "ed-stained banknotes Environment, health and safety Product environmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuani",
+      "source_priority": "primary_hint",
+      "source_url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html",
+      "component_confidence": 0.0
+    },
+    {
+      "amount_native": 1.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.6,
+      "candidate_id": "cand_cd89bcfeea17d55fa00f",
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_43856848b80264610146",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-21T07:33:53+00:00",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unknown:eab7b2e9a06d",
+      "review_status": "pending",
+      "snippet": "stained banknotes Environment, health and safety Product environmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2",
+      "source_priority": "primary_hint",
+      "source_url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html",
+      "component_confidence": 0.0
+    },
+    {
+      "amount_native": 2.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.6,
+      "candidate_id": "cand_3914f6266d6bc3a5b283",
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_43856848b80264610146",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-21T07:33:53+00:00",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unknown:2d99026bc271",
+      "review_status": "pending",
+      "snippet": "ronmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2015) Latvia (2014) Estonia (2011) Slovakia (2009) Cyprus (200",
+      "source_priority": "primary_hint",
+      "source_url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html",
+      "component_confidence": 0.0
     },
     {
       "amount_native": 47600000000000.0,
