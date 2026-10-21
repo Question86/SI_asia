@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-21T14:52:43Z",
+  "generated_at": "2026-10-21T15:14:54Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "extreme": 1,
+      "extreme": 2,
       "krass": 18,
-      "strong": 19,
+      "strong": 18,
       "watch": 2
     },
     "bands_after_gate_recheck": {
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4029",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T10:27:16+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/vu/JVNVU92078426/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:00+09:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4055",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T09:15:51+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 125.01,
+      "age_days": 125.03,
       "topics": [
         "general"
       ],
@@ -107,13 +107,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.78,
+      "baseline_z_hint": 1.83,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 2.78",
+        "baseline z_hint 1.83",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 125.0d old signal",
@@ -122,11 +122,40 @@
       "summary": ""
     },
     {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "age_days": 0.34,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: critical, rce",
+        "security high-signal: critical, rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）",
       "url": "https://jvn.jp/vu/JVNVU90998702/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:15+09:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -152,7 +181,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4093",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:31:13+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -178,7 +207,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4092",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -204,7 +233,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4091",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -230,7 +259,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4089",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -256,7 +285,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4090",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -282,7 +311,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4088",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:52+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -308,7 +337,7 @@
       "url": "https://jvn.jp/vu/JVNVU93110597/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:30+09:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -334,7 +363,7 @@
       "url": "https://blog.flatt.tech/entry/php2shell",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T02:46:32+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -360,7 +389,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-09-02T15:24:15+00:00",
-      "age_days": 48.98,
+      "age_days": 48.99,
       "topics": [
         "security"
       ],
@@ -388,7 +417,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-10-21T09:50:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -414,7 +443,7 @@
       "url": "https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T06:00:47+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "macro"
@@ -441,7 +470,7 @@
       "url": "https://blog.flatt.tech/entry/php2shell",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T02:15:43+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -467,7 +496,7 @@
       "url": "https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html",
       "source": "JPCERT/CC English Blog Atom",
       "published_at": "2026-10-21T02:00:00+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "ai",
         "security"
@@ -494,7 +523,7 @@
       "url": "https://note.com/npaka/n/nba1723dba4e1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T09:51:38+00:00",
-      "age_days": 1.21,
+      "age_days": 1.22,
       "topics": [
         "ai"
       ],
@@ -520,7 +549,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4054",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T09:00:52+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -545,7 +574,7 @@
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-21T04:50:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -571,7 +600,7 @@
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 125.76,
+      "age_days": 125.77,
       "topics": [
         "ai"
       ],
@@ -582,12 +611,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 26.97,
+      "baseline_z_hint": 21.54,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 26.97",
+        "baseline z_hint 21.54",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 125.8d old signal",
@@ -600,7 +629,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4056",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 54.03,
+      "age_days": 54.05,
       "topics": [
         "security"
       ],
@@ -628,7 +657,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4056",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T09:25:51+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -654,7 +683,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1314/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-14T00:00:00+00:00",
-      "age_days": 7.62,
+      "age_days": 7.64,
       "topics": [
         "ai",
         "security"
@@ -677,36 +706,11 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que la vulnérabilité CVE-2026-96951..."
     },
     {
-      "title": "Multiples vulnérabilités dans Microsoft Windows (14 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1314/",
-      "source": "CERT-FR Avis de sécurité",
-      "published_at": "2026-10-21T14:48:29+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Thoughts on several issues of interest to the market",
       "url": "https://www.bis.org/speeches/20261021-thoughts-several-issues-interest-market",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 125.01,
+      "age_days": 125.03,
       "topics": [
         "macro"
       ],
@@ -733,7 +737,7 @@
       "url": "https://www.heise.de/news/Angriffe-via-ConnectWise-Cloud-Backup-11495835.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-21T14:27:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -758,7 +762,7 @@
       "url": "https://www.heise.de/news/php2shell-Kritische-Sicherheitsluecken-erlauben-Codeeinschleusung-in-PHP-11492938.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-21T13:42:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -783,7 +787,7 @@
       "url": "https://www.heise.de/news/Wichtige-PHP-Updates-am-21-Oktober-beheben-Codeeinschleusung-Schwachstellen-11495072.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-21T08:22:00.000+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "security"
@@ -809,7 +813,7 @@
       "url": "https://e27.co/homage-turns-its-in-house-care-software-into-a-business-as-singapore-turns-super-aged-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T07:52:26+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -830,11 +834,35 @@
       "summary": "Ask a care manager in Singapore when the workday ends and the honest answer is: some time after the last visit, once the roster is patched, the visit notes are filed and the calls to anxious families about a missed shift are done. Homage, the Singapore-founded home care company, thinks that unglamorous back office is…"
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Windows (14 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1314/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-21T14:48:29+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Malaysia’s US$110M startup bet has a matching problem, investors warn",
       "url": "https://e27.co/malaysias-us110m-startup-bet-has-a-matching-problem-investors-warn-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T01:59:36+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -859,7 +887,7 @@
       "url": "https://www.digital.go.jp/resources/machine-readability-rule/harunobu",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-21T06:00:00+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -884,7 +912,7 @@
       "url": "https://jvn.jp/vu/JVNVU92078426/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T00:51:54+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -908,7 +936,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-21T08:54:47.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -933,7 +961,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-21T01:48:33.424+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "disaster"
       ],
@@ -954,36 +982,11 @@
       "summary": "DYFI? - III Time 2026-10-21 01:04:29 UTC 2026-10-21 01:04:29 UTC at epicenter Location 35.725°N 139.984°E Depth 90.27 km (56.09 mi)"
     },
     {
-      "title": "M 5.1 - 164 km NE of Lospalos, Timor Leste",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-21T08:29:27+00:00",
-      "age_days": 0.27,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 21.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: palo"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-07-01T00:00:00+00:00",
-      "age_days": 842.62,
+      "age_days": 842.64,
       "topics": [
         "ai",
         "security"
@@ -1010,7 +1013,7 @@
       "url": "https://www.heise.de/news/Patchday-bei-Oracle-1295-Sicherheitspatches-quer-durch-die-Bank-11495244.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-21T09:49:00.000+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -1034,7 +1037,7 @@
       "url": "https://www.heise.de/news/Angriffswarnungen-fuer-Plex-Media-Server-SiteGuard-und-Siemens-Software-Center-11494994.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-21T07:22:00.000+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
