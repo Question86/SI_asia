@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T23:50:33+00:00",
-  "run_id": "2026-10-21T23:50:33+00:00",
+  "generated_at": "2026-10-21T23:58:08+00:00",
+  "run_id": "2026-10-21T23:58:08+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 97
+      "configured_public_sources_only": 98
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 97,
-    "displayed_findings": 97,
+    "today_file_total": 98,
+    "displayed_findings": 98,
     "high": 0,
     "medium": 21,
-    "observe": 76,
+    "observe": 77,
     "source_errors": 0
   },
   "sections": {
@@ -1933,6 +1933,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2d64b2a75fb983d7faed"
+      },
+      {
+        "title": "高市総理「大至急、PHPパッチ適用を」Xで異例の要請 エンジニアは評価「経営層に伝わる」",
+        "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002483/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-21T22:16:49+00:00",
+        "fetched_at": "2026-10-21T23:57:37+00:00",
+        "summary": "「今夜に対応して頂きたい大至急のお願い」――高市早苗首相は10月21日午後10時前、自身のXアカウントで、PHPの「緊急」の脆弱性について、修正パッチを「可及的速やかに適用できる準備」をするよう求めた。パッチはこの投稿の約1時間後（21日午後11時ごろ）に公開された。 首相が個別のソフトウェア脆弱性について、Xで直...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9e189fd33183a9bd4976"
       },
       {
         "title": "「総理大臣がXでお願いを出すレベル」PHPのセキュリティチームが2件の脆弱性に関して注意喚起 23:00からエンジニアとハッカーの戦いが始まる",
@@ -4257,6 +4278,27 @@
       "id": "2d64b2a75fb983d7faed"
     },
     {
+      "title": "高市総理「大至急、PHPパッチ適用を」Xで異例の要請 エンジニアは評価「経営層に伝わる」",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002483/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-21T22:16:49+00:00",
+      "fetched_at": "2026-10-21T23:57:37+00:00",
+      "summary": "「今夜に対応して頂きたい大至急のお願い」――高市早苗首相は10月21日午後10時前、自身のXアカウントで、PHPの「緊急」の脆弱性について、修正パッチを「可及的速やかに適用できる準備」をするよう求めた。パッチはこの投稿の約1時間後（21日午後11時ごろ）に公開された。 首相が個別のソフトウェア脆弱性について、Xで直...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9e189fd33183a9bd4976"
+    },
+    {
       "title": "「総理大臣がXでお願いを出すレベル」PHPのセキュリティチームが2件の脆弱性に関して注意喚起 23:00からエンジニアとハッカーの戦いが始まる",
       "url": "https://togetter.com/li/2761269",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4675,13 +4717,13 @@
   ],
   "new_findings": [
     {
-      "title": "「総理大臣がXでお願いを出すレベル」PHPのセキュリティチームが2件の脆弱性に関して注意喚起 23:00からエンジニアとハッカーの戦いが始まる",
-      "url": "https://togetter.com/li/2761269",
+      "title": "高市総理「大至急、PHPパッチ適用を」Xで異例の要請 エンジニアは評価「経営層に伝わる」",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002483/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-21T19:46:46+00:00",
-      "fetched_at": "2026-10-21T23:50:02+00:00",
-      "summary": "国家サイバー統括室(注意・警戒情報) @cyber_forecast PHPのセキュリティチームが、重大な２件の脆弱性に関する注意喚起を行っています。公開しているウェブサイトでPHPを使用しているか確認し、10月21日午後11時（日本時間）に公開される修正パッチについて、可及的速やかに適用できるよう準備をお願いいたします。 php...",
+      "published_at": "2026-10-21T22:16:49+00:00",
+      "fetched_at": "2026-10-21T23:57:37+00:00",
+      "summary": "「今夜に対応して頂きたい大至急のお願い」――高市早苗首相は10月21日午後10時前、自身のXアカウントで、PHPの「緊急」の脆弱性について、修正パッチを「可及的速やかに適用できる準備」をするよう求めた。パッチはこの投稿の約1時間後（21日午後11時ごろ）に公開された。 首相が個別のソフトウェア脆弱性について、Xで直...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -4693,7 +4735,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "104d5a4ce6ee90af5695"
+      "id": "9e189fd33183a9bd4976"
     }
   ],
   "source_errors": [],

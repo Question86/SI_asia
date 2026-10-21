@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T23:50:37+00:00",
-  "today_file_total": 97,
+  "generated_at": "2026-10-21T23:58:11+00:00",
+  "today_file_total": 98,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -189,33 +189,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:togetter.com",
-      "title": "「総理大臣がXでお願いを出すレベル」PHPのセキュリティチームが2件の脆弱性に関して注意喚起 23:00からエンジニアとハッカーの戦いが始まる",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://togetter.com/li/2761269",
-        "https://togetter.com/li/2761260",
-        "https://togetter.com/li/2761220",
-        "https://togetter.com/li/2761175",
-        "https://togetter.com/li/2760860"
-      ],
-      "finding_count": 5,
-      "max_score": 5,
-      "credibility_total": 5.25,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 18.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "domain:gigazine.net",
       "title": "PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明",
       "sources": [
@@ -382,6 +355,33 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "domain:togetter.com",
+      "title": "「総理大臣がXでお願いを出すレベル」PHPのセキュリティチームが2件の脆弱性に関して注意喚起 23:00からエンジニアとハッカーの戦いが始まる",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2761269",
+        "https://togetter.com/li/2761260",
+        "https://togetter.com/li/2761220",
+        "https://togetter.com/li/2761175",
+        "https://togetter.com/li/2760860"
+      ],
+      "finding_count": 5,
+      "max_score": 5,
+      "credibility_total": 5.25,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:still-work-hours-week-turns-120",
       "title": "I still work 40 hours a week. AI turns it into 120",
       "sources": [
@@ -431,6 +431,31 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "title:php",
+      "title": "高市総理「大至急、PHPパッチ適用を」Xで異例の要請 エンジニアは評価「経営層に伝わる」",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002483/",
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002480/",
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002446/"
+      ],
+      "finding_count": 3,
+      "max_score": 5,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "domain:www.bsi.bund.de",
       "title": "Version 1.0: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit",
       "sources": [
@@ -464,29 +489,6 @@
       ],
       "urls": [
         "https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:won-tidy-your-business-just-moves-mess-faster",
-      "title": "AI won’t tidy your business. It just moves the mess faster",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/ai-wont-tidy-your-business-it-just-moves-the-mess-faster-20261018/"
       ],
       "finding_count": 1,
       "max_score": 12,
