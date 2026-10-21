@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T05:49:38+00:00_
+_Generiert: 2026-10-21T06:54:27+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+29 neue relevante Treffer. Stärkstes Signal: „Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -118,6 +118,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
   - Kurz: I teach people how to use AI for a living. So you would expect me to tell you it does everything. It doesn’t. What it does is take a huge amount of the grind out of my week, as long as I stay in the loop. Most of what I have learned came from AI […] The post I still work 40 hours a week. AI turns it into 120 appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags** — Score 12, observation — [Quelle](https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-21T06:00:47+00:00`, fetched `2026-10-21T06:53:58+00:00`
+  - Treffer: APAC Trend Radar, Public Health, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: For two decades, the startup gospel was simple: find product-market fit at home, then blitzscale across borders. In 2026, much of the world appears to be rethinking the second half of that sentence. According to HSBC’s Global Entrepreneurial Wealth Report (GEWR) 2026, the share of entrepreneurs globally who want to expand internationally fell six percentage […] The post The world’s rich are turning inward. Southeast…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI won’t tidy your business. It just moves the mess faster** — Score 12, observation — [Quelle](https://e27.co/ai-wont-tidy-your-business-it-just-moves-the-mess-faster-20261018/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-21T03:30:15+00:00`, fetched `2026-10-21T03:39:43+00:00`
@@ -153,15 +162,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Open Source (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 1. OSS Scanner2026年10月8日、Anthropicは、オープンソースソフトウェア（OSS）の脆弱性をAIで検出する無料サービス「OSS Scanner」を発表しました。 OSS Scannerは、Claude Mythosなどの高性能AIモデルを使って、OSSのソースコードを定期的に分析し、脆弱性を発見するサービスです。 主な特徴は次のとおりです。 ・AI...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Southeast Asia’s US$1T digital dream slips five years, and AI is the new reason to keep believing** — Score 10, observation — [Quelle](https://e27.co/southeast-asias-us1t-digital-dream-slips-five-years-and-ai-is-the-new-reason-to-keep-believing-20261021/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-21T05:00:18+00:00`, fetched `2026-10-21T05:01:41+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: Every October, Google, Temasek and Bain & Company gather Southeast Asia’s tech crowd around one seductive number. This year it is US$368 billion, the gross merchandise value (GMV) the region’s digital economy is projected to reach in 2026, up 17 per cent year-on-year. The longer-range promise is more than US$1 trillion by 2035. Long-time readers […] The post Southeast Asia’s US$1T digital dream slips five years, and…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **余暇のほとんどをITに使っていたエンジニアは、子どもが生まれてITとの付き合い方をどう変えたのか - レバテックLAB** — Score 10, observation — [Quelle](https://levtech.jp/media/detail_944/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -207,6 +207,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **機械可読性ルール適合チェックツール「Harunobu」について掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/machine-readability-rule/harunobu)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-21T06:00:00+00:00`, fetched `2026-10-21T06:53:58+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 機械可読性ルール適合チェックツール「Harunobu」について掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
