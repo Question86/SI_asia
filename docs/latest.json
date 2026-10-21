@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T23:32:26+00:00",
-  "run_id": "2026-10-21T23:32:26+00:00",
+  "generated_at": "2026-10-21T23:43:44+00:00",
+  "run_id": "2026-10-21T23:43:44+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 96,
     "displayed_findings": 96,
     "high": 0,
@@ -4631,29 +4631,7 @@
       "id": "dc0b86674a8ed2257fd8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「客を一切信用してなくてワロける」ドラッグストアコスモスの防犯カメラの多さが話題に→「むしろ信頼できる」「これでも少ない店舗」",
-      "url": "https://togetter.com/li/2761220",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-21T13:45:32+00:00",
-      "fetched_at": "2026-10-21T23:31:59+00:00",
-      "summary": "防犯カメラの数、尋常じゃない...！ セキュリティ意識が強すぎるドラッグストアが話題に(全文表示)｜Jタウンネット 九州を拠点とするドラッグストア「コスモス薬品」（本社・福岡市）。西日本ではお馴染みといえるドラッグストアだが、インターネット上であることが話題になった。赤い丸で囲った部分が防犯カメラだ（提...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1549139567f5b73e8bdb"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
