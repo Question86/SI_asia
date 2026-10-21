@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-21T10:01:16+00:00",
-  "run_id": "2026-10-21T10:01:16+00:00",
+  "generated_at": "2026-10-21T10:22:18+00:00",
+  "run_id": "2026-10-21T10:22:18+00:00",
   "date": "2026-10-21",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 45
+      "configured_public_sources_only": 48
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 45,
-    "displayed_findings": 45,
+    "today_file_total": 48,
+    "displayed_findings": 48,
     "high": 0,
     "medium": 9,
-    "observe": 36,
-    "source_errors": 1
+    "observe": 39,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -741,6 +741,26 @@
         "id": "6e92e8e85360e68b10de"
       },
       {
+        "title": "Islamic finance for impact - the next measure of success",
+        "url": "https://www.bis.org/speeches/20261021-islamic-finance-impact-next-measure-success",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-21T00:00:00+00:00",
+        "fetched_at": "2026-10-21T10:21:47+00:00",
+        "summary": "Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 21st Kuala Lumpur Islamic Finance Forum (KLIFF) 2026, Kuala Lumpur, 20 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9ffa21f01a2af7210a03"
+      },
+      {
         "title": "Euro liquidity lines and the international monetary system",
         "url": "https://www.bis.org/speeches/20261021-euro-liquidity-lines-and-international-monetary-system",
         "source": "BIS Central Bankers Speeches",
@@ -901,6 +921,47 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "748dd0f02e2bb30adb1a"
+      },
+      {
+        "title": "The courage not to act - moving towards a demand-driven operational mode",
+        "url": "https://www.bis.org/speeches/20261021-courage-not-act-moving-towards-demand-driven-operational-mode",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-21T00:00:00+00:00",
+        "fetched_at": "2026-10-21T10:21:47+00:00",
+        "summary": "Speech by Mr Tuomas Välimäki, Board Member of the Bank of Finland, at a Bank of Finland stakeholder event, Helsinki, 14 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4cc1b6269029bdfc2463"
+      },
+      {
+        "title": "著名ITサービス相次いで緊急メンテへ コドモン、シャドバ、BASE、さくらのレンタルサーバなど 「PHP」脆弱性に起因か",
+        "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002472/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-21T08:52:10+00:00",
+        "fetched_at": "2026-10-21T10:21:47+00:00",
+        "summary": "保育園向けSaaS「コドモン」、ゲーム「Shadowverse: Worlds Beyond」「さくらのレンタルサーバ」といった著名サービスが相次いで緊急メンテナンスに入ったり、同日午後11時ごろからのメンテナンスを予告したりしている。Web開発で広く使われるプログラミング言語「PHP」で緊急性の高い脆弱性が見つかった影響とみられる...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ccc2860ecbead6478916"
       },
       {
         "title": "honto - 外部委託先への不正アクセスによるお客様情報漏えいの可能性について - hontoからのお知らせ一覧",
@@ -1802,6 +1863,26 @@
       "id": "6e92e8e85360e68b10de"
     },
     {
+      "title": "Islamic finance for impact - the next measure of success",
+      "url": "https://www.bis.org/speeches/20261021-islamic-finance-impact-next-measure-success",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "fetched_at": "2026-10-21T10:21:47+00:00",
+      "summary": "Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 21st Kuala Lumpur Islamic Finance Forum (KLIFF) 2026, Kuala Lumpur, 20 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9ffa21f01a2af7210a03"
+    },
+    {
       "title": "Euro liquidity lines and the international monetary system",
       "url": "https://www.bis.org/speeches/20261021-euro-liquidity-lines-and-international-monetary-system",
       "source": "BIS Central Bankers Speeches",
@@ -1962,6 +2043,47 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "748dd0f02e2bb30adb1a"
+    },
+    {
+      "title": "The courage not to act - moving towards a demand-driven operational mode",
+      "url": "https://www.bis.org/speeches/20261021-courage-not-act-moving-towards-demand-driven-operational-mode",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "fetched_at": "2026-10-21T10:21:47+00:00",
+      "summary": "Speech by Mr Tuomas Välimäki, Board Member of the Bank of Finland, at a Bank of Finland stakeholder event, Helsinki, 14 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4cc1b6269029bdfc2463"
+    },
+    {
+      "title": "著名ITサービス相次いで緊急メンテへ コドモン、シャドバ、BASE、さくらのレンタルサーバなど 「PHP」脆弱性に起因か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002472/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-21T08:52:10+00:00",
+      "fetched_at": "2026-10-21T10:21:47+00:00",
+      "summary": "保育園向けSaaS「コドモン」、ゲーム「Shadowverse: Worlds Beyond」「さくらのレンタルサーバ」といった著名サービスが相次いで緊急メンテナンスに入ったり、同日午後11時ごろからのメンテナンスを予告したりしている。Web開発で広く使われるプログラミング言語「PHP」で緊急性の高い脆弱性が見つかった影響とみられる...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ccc2860ecbead6478916"
     },
     {
       "title": "honto - 外部委託先への不正アクセスによるお客様情報漏えいの可能性について - hontoからのお知らせ一覧",
@@ -2153,74 +2275,68 @@
   ],
   "new_findings": [
     {
-      "title": "Euro liquidity lines and the international monetary system",
-      "url": "https://www.bis.org/speeches/20261021-euro-liquidity-lines-and-international-monetary-system",
+      "title": "Islamic finance for impact - the next measure of success",
+      "url": "https://www.bis.org/speeches/20261021-islamic-finance-impact-next-measure-success",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "fetched_at": "2026-10-21T10:00:38+00:00",
-      "summary": "Remarks by Philip R Lane, Member of the Executive Board of the European Central Bank, at the CF40-Euro50 luncheon “Monetary system beyond the dollar”, Shanghai, 21 October 2026.",
+      "fetched_at": "2026-10-21T10:21:47+00:00",
+      "summary": "Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 21st Kuala Lumpur Islamic Finance Forum (KLIFF) 2026, Kuala Lumpur, 20 October 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
       "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Shanghai (+2.0)",
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a805591c3a6aae475ec8"
+      "id": "9ffa21f01a2af7210a03"
     },
     {
-      "title": "Thoughts on several issues of interest to the market",
-      "url": "https://www.bis.org/speeches/20261021-thoughts-several-issues-interest-market",
+      "title": "The courage not to act - moving towards a demand-driven operational mode",
+      "url": "https://www.bis.org/speeches/20261021-courage-not-act-moving-towards-demand-driven-operational-mode",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "fetched_at": "2026-10-21T10:00:38+00:00",
-      "summary": "Keynote speech by Mr Pan Gongsheng, Governor of the People's Bank of China, at the Annual Conference of Financial Street Forum 2026, Beijing, 19 October 2026.",
+      "fetched_at": "2026-10-21T10:21:47+00:00",
+      "summary": "Speech by Mr Tuomas Välimäki, Board Member of the Bank of Finland, at a Bank of Finland stakeholder event, Helsinki, 14 October 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6e92e8e85360e68b10de"
-    },
-    {
-      "title": "Patchday bei Oracle: 1295 Sicherheitspatches quer durch die Bank",
-      "url": "https://www.heise.de/news/Patchday-bei-Oracle-1295-Sicherheitspatches-quer-durch-die-Bank-11495244.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-21T09:49:00.000+00:00",
-      "fetched_at": "2026-10-21T10:00:38+00:00",
-      "summary": "Oracle begeht seinen CPU-Patchday im Oktober und verteilt dabei 1295 Sicherheitspatches für diverse Produkten.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "591e3b76eed32dbc5778"
-    }
-  ],
-  "source_errors": [
+      "id": "4cc1b6269029bdfc2463"
+    },
     {
-      "source_id": "cert_eu_security_advisories",
-      "source_name": "CERT-EU Security Advisories",
+      "title": "著名ITサービス相次いで緊急メンテへ コドモン、シャドバ、BASE、さくらのレンタルサーバなど 「PHP」脆弱性に起因か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002472/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)"
+      "published_at": "2026-10-21T08:52:10+00:00",
+      "fetched_at": "2026-10-21T10:21:47+00:00",
+      "summary": "保育園向けSaaS「コドモン」、ゲーム「Shadowverse: Worlds Beyond」「さくらのレンタルサーバ」といった著名サービスが相次いで緊急メンテナンスに入ったり、同日午後11時ごろからのメンテナンスを予告したりしている。Web開発で広く使われるプログラミング言語「PHP」で緊急性の高い脆弱性が見つかった影響とみられる...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ccc2860ecbead6478916"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
