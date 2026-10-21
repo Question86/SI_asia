@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-21T12:51:26Z",
+  "generated_at": "2026-10-21T13:16:29Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4029",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T10:27:16+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/vu/JVNVU92078426/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:00+09:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4055",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T09:15:51+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 124.93,
+      "age_days": 124.95,
       "topics": [
         "general"
       ],
@@ -107,13 +107,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.21,
+      "baseline_z_hint": 4.17,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 4.21",
+        "baseline z_hint 4.17",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 124.9d old signal",
@@ -126,7 +126,7 @@
       "url": "https://jvn.jp/vu/JVNVU90998702/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:15+09:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -152,7 +152,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4093",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:31:13+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -178,7 +178,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4092",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -204,7 +204,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4091",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -230,7 +230,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4089",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -256,7 +256,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4090",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -282,7 +282,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4088",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:52+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -308,7 +308,7 @@
       "url": "https://jvn.jp/vu/JVNVU93110597/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:30+09:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -334,7 +334,7 @@
       "url": "https://blog.flatt.tech/entry/php2shell",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T02:46:32+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -360,7 +360,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-09-02T15:24:15+00:00",
-      "age_days": 48.89,
+      "age_days": 48.91,
       "topics": [
         "security"
       ],
@@ -388,7 +388,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-10-21T09:50:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -414,7 +414,7 @@
       "url": "https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T06:00:47+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -441,7 +441,7 @@
       "url": "https://blog.flatt.tech/entry/php2shell",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T02:15:43+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -467,7 +467,7 @@
       "url": "https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html",
       "source": "JPCERT/CC English Blog Atom",
       "published_at": "2026-10-21T02:00:00+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "security"
@@ -494,7 +494,7 @@
       "url": "https://note.com/npaka/n/nba1723dba4e1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T09:51:38+00:00",
-      "age_days": 1.12,
+      "age_days": 1.14,
       "topics": [
         "ai"
       ],
@@ -520,7 +520,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4054",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T09:00:52+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -545,7 +545,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4056",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 53.95,
+      "age_days": 53.96,
       "topics": [
         "security"
       ],
@@ -563,7 +563,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 53.9d old signal",
+        "aging penalty -8.0 for 54.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -573,7 +573,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4056",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T09:25:51+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -599,7 +599,7 @@
       "url": "https://www.bis.org/speeches/20261021-thoughts-several-issues-interest-market",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 124.93,
+      "age_days": 124.95,
       "topics": [
         "macro"
       ],
@@ -626,7 +626,7 @@
       "url": "https://www.heise.de/news/Wichtige-PHP-Updates-am-21-Oktober-beheben-Codeeinschleusung-Schwachstellen-11495072.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-21T08:22:00.000+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -652,7 +652,7 @@
       "url": "https://e27.co/homage-turns-its-in-house-care-software-into-a-business-as-singapore-turns-super-aged-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T07:52:26+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -677,7 +677,7 @@
       "url": "https://e27.co/malaysias-us110m-startup-bet-has-a-matching-problem-investors-warn-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T01:59:36+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -702,7 +702,7 @@
       "url": "https://www.digital.go.jp/resources/machine-readability-rule/harunobu",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-21T06:00:00+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -727,7 +727,7 @@
       "url": "https://jvn.jp/vu/JVNVU92078426/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T00:51:54+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -751,7 +751,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-21T08:54:47.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -776,7 +776,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-21T01:48:33.424+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "disaster"
       ],
@@ -801,7 +801,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-21T08:29:27+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -826,7 +826,7 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-07-01T00:00:00+00:00",
-      "age_days": 842.54,
+      "age_days": 842.55,
       "topics": [
         "ai",
         "security"
@@ -844,7 +844,7 @@
       "why": [
         "high terms: code, auth, root",
         "security high-signal: code, auth, root",
-        "aging penalty -8.0 for 842.5d old signal"
+        "aging penalty -8.0 for 842.6d old signal"
       ],
       "summary": "Le 1 juillet 2024, OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire à distance avec les privilèges *root*. L'éditeur précise que les versions 8.5p1 à 9.7p1 sont..."
     },
@@ -853,7 +853,7 @@
       "url": "https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html",
       "source": "JPCERT/CC English Blog Atom",
       "published_at": "2026-10-21T02:27:54+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "security"
@@ -878,7 +878,7 @@
       "url": "https://www.bis.org/speeches/20261021-thoughts-several-issues-interest-market",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "macro"
       ],
@@ -904,7 +904,7 @@
       "url": "https://jvn.jp/vu/JVNVU90998702/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 124.45,
+      "age_days": 124.47,
       "topics": [
         "general"
       ],
@@ -931,7 +931,7 @@
       "url": "https://jvn.jp/vu/JVNVU93110597/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 27.47,
+      "age_days": 27.48,
       "topics": [
         "general"
       ],
@@ -954,11 +954,39 @@
       "summary": ""
     },
     {
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-06-17T20:44:40+00:00",
+      "age_days": 125.69,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.79,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 10.73,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 10.73",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 125.7d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Patchday bei Oracle: 1295 Sicherheitspatches quer durch die Bank",
       "url": "https://www.heise.de/news/Patchday-bei-Oracle-1295-Sicherheitspatches-quer-durch-die-Bank-11495244.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-21T09:49:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -982,7 +1010,7 @@
       "url": "https://www.heise.de/news/Angriffswarnungen-fuer-Plex-Media-Server-SiteGuard-und-Siemens-Software-Center-11494994.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-21T07:22:00.000+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -1006,7 +1034,7 @@
       "url": "https://www.bis.org/speeches/20261021-improving-cross-border-payments-changing-geopolitical-landscape",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "ai",
         "macro"
@@ -1028,34 +1056,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Intervention by Ms Christina Papaconstantinou, Deputy Governor of the Bank of Greece, at a panel “Improving cross-border payments in a changing geopolitical landscape”, at the 10th Conference of Mediterranean Central Banks, organised by the Bank of Spain, Roda de Berà, 2 October 2026."
-    },
-    {
-      "title": "Don’t stop thinking about tomorrow - building resilience to climate shocks today",
-      "url": "https://www.bis.org/speeches/20261021-dont-stop-thinking-about-tomorrow-building-resilience-climate-shocks-today",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Opening address by Mr Fabio Panetta, Governor of the Bank of Italy, at the Green Swan 2026 Conference, Manila, 19 October 2026."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (python-tornado, resteasy-core, bubblewrap, pgvector): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
