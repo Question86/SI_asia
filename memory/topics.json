@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-21T15:54:37+00:00",
+  "generated_at": "2026-10-21T16:02:15+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://e27.co/i-still-work-40-hours-a-week-ai-turns-it-into-120-20261016/"
       },
       {
+        "title": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-21T14:07:21+00:00",
+        "relevance_score": 12,
+        "url": "https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html"
+      },
+      {
         "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
         "source": "OpenAI News RSS",
         "published_at": "2026-10-21T13:00:00+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-21T03:30:15+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/ai-wont-tidy-your-business-it-just-moves-the-mess-faster-20261018/"
-      },
-      {
-        "title": "Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques",
-        "source": "JPCERT/CC English Blog Atom",
-        "published_at": "2026-10-21T02:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html"
       }
     ],
     "security": [
@@ -254,6 +254,13 @@
         "published_at": "2026-10-20T23:06:41+00:00",
         "relevance_score": 8,
         "url": "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html"
+      },
+      {
+        "title": "The bridge to agent-scale Git infrastructure",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-10-21T16:00:00+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/"
       }
     ],
     "general": [
@@ -300,6 +307,20 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rr"
       },
       {
+        "title": "Vulnérabilité dans PostgreSQL psqlODBC (15 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-15T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1319/"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Moodle (15 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-15T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1318/"
+      },
+      {
         "title": "機械可読性ルール適合チェックツール「Harunobu」について掲載しました",
         "source": "Japan Digital Agency News RSS",
         "published_at": "2026-10-21T06:00:00+00:00",
@@ -312,20 +333,6 @@
         "published_at": "2026-10-21T11:16:28+00:00",
         "relevance_score": 5,
         "url": "https://www.osaka-u.ac.jp/ja/news/topics/2026/10/21004"
-      },
-      {
-        "title": "不正アクセス“金融機関が狙われる段階に変わってきた可能性” | NHKニュース",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-21T09:08:57+00:00",
-        "relevance_score": 5,
-        "url": "https://news.web.nhk/newsweb/na/nd-20261021de62921"
-      },
-      {
-        "title": "修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-21T08:57:42+00:00",
-        "relevance_score": 5,
-        "url": "https://piyolog.hatenadiary.jp/entry/2026/10/21/174516"
       }
     ],
     "economy": [

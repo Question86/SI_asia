@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T15:54:37+00:00",
-  "run_id": "2026-10-21T15:54:37+00:00",
+  "generated_at": "2026-10-21T16:02:15+00:00",
+  "run_id": "2026-10-21T16:02:15+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 80
+      "configured_public_sources_only": 84
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 80,
-    "displayed_findings": 80,
+    "new_relevant_findings": 4,
+    "today_file_total": 84,
+    "displayed_findings": 84,
     "high": 0,
     "medium": 20,
-    "observe": 60,
+    "observe": 64,
     "source_errors": 0
   },
   "sections": {
@@ -585,6 +585,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "be832e00b8a865d8c944"
+      },
+      {
+        "title": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ",
+        "url": "https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-21T14:07:21+00:00",
+        "fetched_at": "2026-10-21T16:01:44+00:00",
+        "summary": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Security"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "923bfa9af252a3e24aa6"
       },
       {
         "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
@@ -1341,6 +1363,29 @@
         "id": "81e6cf11e4af07b87572"
       },
       {
+        "title": "Vulnérabilité dans PostgreSQL psqlODBC (15 octobre 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1319/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-10-15T00:00:00+00:00",
+        "fetched_at": "2026-10-21T16:01:44+00:00",
+        "summary": "Une vulnérabilité a été découverte dans PostgreSQL psqlODBC. Elle permet à un attaquant de provoquer un déni de service à distance.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d6ff486e7c8c068fa4b9"
+      },
+      {
         "title": "Multiples vulnérabilités dans les produits F5 (15 octobre 2026)",
         "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1317/",
         "source": "CERT-FR Avis de sécurité",
@@ -1362,6 +1407,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d22bb1cccb5210c546f8"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Moodle (15 octobre 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1318/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-10-15T00:00:00+00:00",
+        "fetched_at": "2026-10-21T16:01:44+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "03772ea6ef62d2614660"
       },
       {
         "title": "Node.js fixt eigene und geerbte Sicherheitslücken",
@@ -1914,6 +1982,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5b938646a92fa74113b8"
+      },
+      {
+        "title": "The bridge to agent-scale Git infrastructure",
+        "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-21T16:00:00+00:00",
+        "fetched_at": "2026-10-21T16:01:44+00:00",
+        "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dc0b86674a8ed2257fd8"
       }
     ]
   },
@@ -2472,6 +2560,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "be832e00b8a865d8c944"
+    },
+    {
+      "title": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ",
+      "url": "https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-21T14:07:21+00:00",
+      "fetched_at": "2026-10-21T16:01:44+00:00",
+      "summary": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "923bfa9af252a3e24aa6"
     },
     {
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
@@ -3228,6 +3338,29 @@
       "id": "81e6cf11e4af07b87572"
     },
     {
+      "title": "Vulnérabilité dans PostgreSQL psqlODBC (15 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1319/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "fetched_at": "2026-10-21T16:01:44+00:00",
+      "summary": "Une vulnérabilité a été découverte dans PostgreSQL psqlODBC. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d6ff486e7c8c068fa4b9"
+    },
+    {
       "title": "Multiples vulnérabilités dans les produits F5 (15 octobre 2026)",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1317/",
       "source": "CERT-FR Avis de sécurité",
@@ -3249,6 +3382,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d22bb1cccb5210c546f8"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Moodle (15 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1318/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "fetched_at": "2026-10-21T16:01:44+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "03772ea6ef62d2614660"
     },
     {
       "title": "Node.js fixt eigene und geerbte Sicherheitslücken",
@@ -3801,28 +3957,116 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "5b938646a92fa74113b8"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "Node.js fixt eigene und geerbte Sicherheitslücken",
-      "url": "https://www.heise.de/news/Node-js-fixt-eigene-und-geerbte-Sicherheitsluecken-11495996.html",
-      "source": "heise Security Alerts",
+      "title": "The bridge to agent-scale Git infrastructure",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "source": "GitHub Blog Atom",
       "source_type": "rss",
-      "published_at": "2026-10-21T15:37:00.000+00:00",
-      "fetched_at": "2026-10-21T15:54:10+00:00",
-      "summary": "Neue Versionen für Node.js 22.x, 24.x und 26.x fixen hochriskante Sicherheitslücken und schützen vor kompromittierten Zertifikaten von eMudhra.",
+      "published_at": "2026-10-21T16:00:00+00:00",
+      "fetched_at": "2026-10-21T16:01:44+00:00",
+      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Security"
+        "GitHub"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "454fd182df1fa6592520"
+      "id": "dc0b86674a8ed2257fd8"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ",
+      "url": "https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-21T14:07:21+00:00",
+      "fetched_at": "2026-10-21T16:01:44+00:00",
+      "summary": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "923bfa9af252a3e24aa6"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Moodle (15 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1318/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "fetched_at": "2026-10-21T16:01:44+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "03772ea6ef62d2614660"
+    },
+    {
+      "title": "Vulnérabilité dans PostgreSQL psqlODBC (15 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1319/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "fetched_at": "2026-10-21T16:01:44+00:00",
+      "summary": "Une vulnérabilité a été découverte dans PostgreSQL psqlODBC. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d6ff486e7c8c068fa4b9"
+    },
+    {
+      "title": "The bridge to agent-scale Git infrastructure",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-21T16:00:00+00:00",
+      "fetched_at": "2026-10-21T16:01:44+00:00",
+      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dc0b86674a8ed2257fd8"
     }
   ],
   "source_errors": [],

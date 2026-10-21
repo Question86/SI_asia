@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-21T15:54:37+00:00_
+_Generated: 2026-10-21T16:02:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `80`
+- findings: `84`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-21T15:54:37+00:00_
 - url: https://e27.co/i-still-work-40-hours-a-week-ai-turns-it-into-120-20261016/
 - summary: I teach people how to use AI for a living. So you would expect me to tell you it does everything. It doesn’t. What it does is take a huge amount of the grind out of my week, as long as I stay in the loop. Most of what I have learned came from AI […] The post…
 
-### 6. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
+### 6. 【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-10-21T14:07:21+00:00`
+- url: https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html
+- summary: 【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に...
+
+### 7. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
 - source: OpenAI News RSS
 - score: `12`
 - published: `2026-10-21T13:00:00+00:00`
 - url: https://openai.com/index/chatgpt-ads-expands-26-new-countries
 - summary: From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.
 
-### 7. Version 1.0: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit
+### 8. Version 1.0: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit
 - source: BSI CERT-Bund Cyber-Sicherheitswarnungen
 - score: `12`
 - published: `2026-10-21T09:50:00+00:00`
 - url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html
 - summary: Version 1.0: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit
-
-### 8. Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45
-- source: ECB Open Market Operations and Communication
-- score: `12`
-- published: `2026-10-21T08:15:19+00:00`
-- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html
-- summary: Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45
 
 END OF DOCUMENT
