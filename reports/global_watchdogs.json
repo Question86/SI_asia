@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-10-21T04:01:29+00:00",
+  "generated_at": "2026-10-21T04:26:31+00:00",
   "sections": {
     "global_security": [
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "USGS earthquake M6.3 - 197 km NW of Port-Olry, Vanuatu",
-        "summary": "M6.3 - 197 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 1.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl",
-        "published_at": "2026-10-20T04:20:38+00:00",
-        "metrics": {
-          "mag": 6.3,
-          "alert": "green",
-          "sig": 611.0,
-          "tsunami": 1
-        }
-      },
       {
         "domain": "security",
         "severity": "high",
@@ -76,51 +61,12 @@
         "metrics": {
           "cve": "CVE-2026-96652"
         }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].",
-        "summary": "Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572693",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].",
-        "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572622",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, [unknown].",
-        "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, [unknown].",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572618",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI&gt;=III.",
-        "summary": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI&gt;=III.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572503",
-        "published_at": "",
-        "metrics": {}
       }
     ],
     "global_economy": []
   },
   "source_errors": [
+    "GDACS failed: 503 Server Error: Service Unavailable for url: https://www.gdacs.org/xml/rss.xml",
     "Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT"
   ]
 }

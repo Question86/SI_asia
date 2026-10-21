@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-21T04:01:26+00:00_
+_Generated: 2026-10-21T04:26:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `24`
 
 ## Top Signals
 
-### 1. CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）
+### 1. Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces
+- source: e27 Asia Startup and Tech Feed
+- score: `17`
+- published: `2026-10-21T04:19:38+00:00`
+- url: https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/
+- summary: Somewhere in Singapore this week, a recruiter is probably rewriting a job ad that once asked for “advanced Excel skills” so that it now asks for “hands-on experience with agentic AI workflows”. Multiply that by a few thousand listings and you arrive at the he…
+
+### 2. CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-10-21T09:30:15+09:00`
 - url: https://jvn.jp/vu/JVNVU90998702/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. M 4.5 - 2 km N of Honchō, Japan
+### 3. M 4.5 - 2 km N of Honchō, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-21T01:48:33.424+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rn
 - summary: DYFI? - III Time 2026-10-21 01:04:29 UTC 2026-10-21 01:04:29 UTC at epicenter Location 35.725°N 139.984°E Depth 90.27 km (56.09 mi)
 
-### 3. Apache Tomcatにおける複数の脆弱性（2026年10月20日）
+### 4. Apache Tomcatにおける複数の脆弱性（2026年10月20日）
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-10-21T09:30:30+09:00`
 - url: https://jvn.jp/vu/JVNVU93110597/
 - summary: The Apache Software Foundationから、Apache Tomcatの8件の脆弱性に対してアドバイザリが公開されました。
-
-### 4. Xerj Console APIにおける認証回避の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-21T09:30:00+09:00`
-- url: https://jvn.jp/vu/JVNVU92078426/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. I still work 40 hours a week. AI turns it into 120
 - source: e27 Asia Startup and Tech Feed

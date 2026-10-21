@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T04:01:26+00:00",
-  "run_id": "2026-10-21T04:01:26+00:00",
+  "generated_at": "2026-10-21T04:26:30+00:00",
+  "run_id": "2026-10-21T04:26:30+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,39 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "new_relevant_findings": 3,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
-    "medium": 4,
-    "observe": 17,
+    "medium": 5,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces",
+        "url": "https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-21T04:19:38+00:00",
+        "fetched_at": "2026-10-21T04:26:01+00:00",
+        "summary": "Somewhere in Singapore this week, a recruiter is probably rewriting a job ad that once asked for “advanced Excel skills” so that it now asks for “hands-on experience with agentic AI workflows”. Multiply that by a few thousand listings and you arrive at the headline figure in Jobstreet by SEEK’s new AI Gauge. According to […] The post Agentic AI is Singapore’s hottest job skill, and that should worry the people it re…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "229b7aff7f4bed5ffa78"
+      },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）",
         "url": "https://jvn.jp/vu/JVNVU90998702/",
@@ -347,6 +369,26 @@
         "id": "2755b4892a31393b341c"
       },
       {
+        "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-10-21T04:15:00+00:00",
+        "fetched_at": "2026-10-21T04:26:01+00:00",
+        "summary": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6bdff714dd3bc0e79de2"
+      },
+      {
         "title": "How I use AI to support public relations",
         "url": "https://e27.co/how-i-use-ai-to-support-public-relations-20261016/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -494,6 +536,27 @@
         "id": "7fb8a7c3a4b11f2c272c"
       },
       {
+        "title": "【Excel】AIが作った数式に「--」が入っていたけど、いらなくない？ 削除禁止の理由【いまさら聞けないExcelの使い方講座】",
+        "url": "https://forest.watch.impress.co.jp/docs/serial/exceltips/2149792.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-20T22:15:35+00:00",
+        "fetched_at": "2026-10-21T04:26:01+00:00",
+        "summary": "【Excel】AIが作った数式に「--」が入っていたけど、いらなくない？ 削除禁止の理由【いまさら聞けないExcelの使い方講座】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bb795c1fe7ecc756bc7f"
+      },
+      {
         "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services | Amazon Web Services",
         "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -537,6 +600,28 @@
     ]
   },
   "findings": [
+    {
+      "title": "Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces",
+      "url": "https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-21T04:19:38+00:00",
+      "fetched_at": "2026-10-21T04:26:01+00:00",
+      "summary": "Somewhere in Singapore this week, a recruiter is probably rewriting a job ad that once asked for “advanced Excel skills” so that it now asks for “hands-on experience with agentic AI workflows”. Multiply that by a few thousand listings and you arrive at the headline figure in Jobstreet by SEEK’s new AI Gauge. According to […] The post Agentic AI is Singapore’s hottest job skill, and that should worry the people it re…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "229b7aff7f4bed5ffa78"
+    },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）",
       "url": "https://jvn.jp/vu/JVNVU90998702/",
@@ -853,6 +938,26 @@
       "id": "2755b4892a31393b341c"
     },
     {
+      "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-10-21T04:15:00+00:00",
+      "fetched_at": "2026-10-21T04:26:01+00:00",
+      "summary": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6bdff714dd3bc0e79de2"
+    },
+    {
       "title": "How I use AI to support public relations",
       "url": "https://e27.co/how-i-use-ai-to-support-public-relations-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1000,6 +1105,27 @@
       "id": "7fb8a7c3a4b11f2c272c"
     },
     {
+      "title": "【Excel】AIが作った数式に「--」が入っていたけど、いらなくない？ 削除禁止の理由【いまさら聞けないExcelの使い方講座】",
+      "url": "https://forest.watch.impress.co.jp/docs/serial/exceltips/2149792.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-20T22:15:35+00:00",
+      "fetched_at": "2026-10-21T04:26:01+00:00",
+      "summary": "【Excel】AIが作った数式に「--」が入っていたけど、いらなくない？ 削除禁止の理由【いまさら聞けないExcelの使い方講座】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bb795c1fe7ecc756bc7f"
+    },
+    {
       "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services | Amazon Web Services",
       "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1041,7 +1167,71 @@
       "id": "5b938646a92fa74113b8"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces",
+      "url": "https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-21T04:19:38+00:00",
+      "fetched_at": "2026-10-21T04:26:01+00:00",
+      "summary": "Somewhere in Singapore this week, a recruiter is probably rewriting a job ad that once asked for “advanced Excel skills” so that it now asks for “hands-on experience with agentic AI workflows”. Multiply that by a few thousand listings and you arrive at the headline figure in Jobstreet by SEEK’s new AI Gauge. According to […] The post Agentic AI is Singapore’s hottest job skill, and that should worry the people it re…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "229b7aff7f4bed5ffa78"
+    },
+    {
+      "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-10-21T04:15:00+00:00",
+      "fetched_at": "2026-10-21T04:26:01+00:00",
+      "summary": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6bdff714dd3bc0e79de2"
+    },
+    {
+      "title": "【Excel】AIが作った数式に「--」が入っていたけど、いらなくない？ 削除禁止の理由【いまさら聞けないExcelの使い方講座】",
+      "url": "https://forest.watch.impress.co.jp/docs/serial/exceltips/2149792.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-20T22:15:35+00:00",
+      "fetched_at": "2026-10-21T04:26:01+00:00",
+      "summary": "【Excel】AIが作った数式に「--」が入っていたけど、いらなくない？ 削除禁止の理由【いまさら聞けないExcelの使い方講座】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bb795c1fe7ecc756bc7f"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

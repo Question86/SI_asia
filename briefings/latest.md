@@ -1,18 +1,14 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T04:01:26+00:00_
+_Generiert: 2026-10-21T04:26:30+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+24 neue relevante Treffer. Stärkstes Signal: „Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M6.3 - 197 km NW of Port-Olry, Vanuatu** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl)
-  - Quelle: USGS
-  - Zeit: `2026-10-20T04:20:38+00:00`
-  - Kurz: M6.3 - 197 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-106931 EG Secure Solutions SiteGuard Server Edition** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
@@ -33,22 +29,8 @@ _Generiert: 2026-10-21T04:01:26+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
   - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572693)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572622)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572618)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572503)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI&gt;=III.
+
+- Sensor-Hinweis: GDACS failed: 503 Server Error: Service Unavailable for url: https://www.gdacs.org/xml/rss.xml
 
 ## Wirtschaft global
 
@@ -65,6 +47,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces** — Score 17, observation — [Quelle](https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-21T04:19:38+00:00`, fetched `2026-10-21T04:26:01+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Somewhere in Singapore this week, a recruiter is probably rewriting a job ad that once asked for “advanced Excel skills” so that it now asks for “hands-on experience with agentic AI workflows”. Multiply that by a few thousand listings and you arrive at the headline figure in Jobstreet by SEEK’s new AI Gauge. According to […] The post Agentic AI is Singapore’s hottest job skill, and that should worry the people it re…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU90998702/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-21T09:30:15+09:00`, fetched `2026-10-21T00:51:10+00:00`
@@ -176,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-21 01:20:02 UTC 2026-10-21 01:20:02 UTC at epicenter Location 4.599°N 82.703°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Philip R. Lane: Euro liquidity lines and the international monetary system** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-10-21T04:15:00+00:00`, fetched `2026-10-21T04:26:01+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Philip R. Lane: Euro liquidity lines and the international monetary system
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Terminal X matches senior investor judgment 88.6% with GPT-6.1** — Score 8, observation — [Quelle](https://openai.com/index/terminal-x)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-10-20T07:00:00+00:00`, fetched `2026-10-21T01:15:18+00:00`
@@ -188,6 +188,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
