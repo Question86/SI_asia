@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T14:57:22+00:00_
+_Generiert: 2026-10-21T15:09:29+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „Using thousands of AI agents to uncover new leads in biological data“ aus OpenAI News RSS (Score 20, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+77 neue relevante Treffer. Stärkstes Signal: „Using thousands of AI agents to uncover new leads in biological data“ aus OpenAI News RSS (Score 20, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,15 +29,15 @@ _Generiert: 2026-10-21T14:57:22+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
   - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572693)
+- **GDACS: Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572693)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].
-- **GDACS: Green notification for tropical cyclone TWENTY-TWO-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001341)
+- **GDACS: Green notification for tropical cyclone TWENTY-TWO-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001341)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone TWENTY-TWO-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572622)
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572622)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].
@@ -120,6 +120,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in expat ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Patch the Planet: global response coordination as agents uncover critical vulnerabilities** — Score 16, opportunity — [Quelle](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-21T07:00:00+00:00`, fetched `2026-10-21T15:08:59+00:00`
+  - Treffer: Open Source, OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Security (+6.0); Open Source (+3.0); recent (+1.0)
+  - Kurz: Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 5.2 - 68 km NE of Cabatuan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t6)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-21T08:54:47.040+00:00`, fetched `2026-10-21T09:01:06+00:00`

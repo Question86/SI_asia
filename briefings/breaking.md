@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-21T14:57:25+00:00_
+_Generiert: 2026-10-21T15:09:33+00:00_
 
 ## Multiples vulnérabilités dans Microsoft Windows (14 octobre 2026)
 
