@@ -1,107 +1,27 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-20T23:44:38+00:00",
+  "generated_at": "2026-10-21T00:00:00+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 100,
-    "displayed_findings": 100,
-    "high": 1,
-    "medium": 21,
-    "observe": 78
+    "new_relevant_findings": 1,
+    "today_file_total": 1,
+    "displayed_findings": 1,
+    "high": 0,
+    "medium": 0,
+    "observe": 1
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "[UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services | Amazon Web Services",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-20T09:55:51+00:00",
-      "relevance_score": 26,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3968",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, um beliebigen Programmcode auszuführen oder Cross-Site-Scripting-Angriffe durchzuführen.",
-      "section": "high"
-    },
-    {
-      "title": "Banks want AI agents to move money, as long as someone is accountable",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-20T07:39:30+00:00",
-      "relevance_score": 19,
-      "url": "https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/",
-      "summary": "The pitch for agentic payments usually goes like this: software that negotiates, pays, reconciles and optimises cash while the finance team sleeps. A new report from UOB Global Economics & Markets Research is a reminder that a payment involves more than movin…",
-      "section": "medium"
-    },
-    {
-      "title": "複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-20T12:00:15+09:00",
-      "relevance_score": 17,
-      "url": "https://jvn.jp/jp/JVN33436631/",
-      "summary": "Lenovoが提供する複数のタブレットのAVB（Android Verified Boot）機能では、AOSP（Android Open Source Project）で公開されているテスト用の鍵をそのまま使用しています。",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Quay und Enterprise Linux (pypdf, urllib3, URI): Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-20T10:52:41+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4024",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Quay und Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder Sicherheitsmaßnahmen zu umgehen.",
-      "section": "medium"
-    },
-    {
-      "title": "Comfy-Org/ComfyUI",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 16,
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. https://www.comfy.org/ ComfyUI The most powerful and modular AI engine for content creation. ComfyUI is the AI cr…",
-      "section": "medium"
-    },
-    {
-      "title": "Euro area monthly balance of payments: August 2026",
-      "source": "ECB Statistical Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-10-20T08:00:00+00:00",
-      "relevance_score": 13,
-      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html",
-      "summary": "Euro area monthly balance of payments: August 2026",
-      "section": "observe"
-    },
-    {
-      "title": "M 6.3 - 204 km WNW of Port-Olry, Vanuatu",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-20T04:36:56.091+00:00",
-      "relevance_score": 13,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl",
-      "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-20 04:20:38 UTC 2026-10-20 04:20:38 UTC at epicenter Location 14.028°S 165.484°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "Economic activity, prices, and monetary policy in Japan",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-20T00:00:00+00:00",
-      "relevance_score": 13,
-      "url": "https://www.bis.org/speeches/20261020-economic-activity-prices-and-monetary-policy-japan",
-      "summary": "Speech by Ms Junko Koeda, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Kumamoto, 15 October 2026.",
-      "section": "observe"
-    },
-    {
-      "title": "Updates to GitHub secret scanning",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-20T18:03:55+00:00",
-      "relevance_score": 12,
-      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-      "summary": "This update covers improvements and bug fixes for GitHub secret scanning. Update to audit log events On November 12, 2026, the business field in affected secret_scanning_alert.* and secret_scanning_push_protection.bypass audit log… The post Updates to GitHub…",
+      "published_at": "2026-10-20T21:10:06+00:00",
+      "relevance_score": 5,
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
+      "summary": "The session catalog is live. Explore what's waiting for you",
       "section": "observe"
     }
   ],
@@ -110,146 +30,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=51.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3968",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-20T09:55:51+00:00",
-        "age_days": 0.58,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 51.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, um beliebigen Programmcode auszuführen oder Cross-Site-Scripting-Angriffe durchzuführen."
-      },
-      {
-        "title": "Euro area monthly balance of payments: August 2026",
-        "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html",
-        "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 124.39,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 41.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 2,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "source breadth +2",
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 124.4d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "【セキュリティ ニュース】ウェブサーバ「nginx」に複数脆弱性 - 3件が「クリティカル」との評価も（1ページ目 / 全3ページ）：Security NEXT",
-        "url": "https://www.security-next.com/191645",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-20T22:59:18+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "security high-signal: security"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4052",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-20T11:20:51+00:00",
-        "age_days": 0.52,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Apache Airflow ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Informationen offenzulegen."
-      },
-      {
-        "title": "[NEU] [hoch] vllm: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4051",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-20T11:15:53+00:00",
-        "age_days": 0.52,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um Sicherheitsvorkehrungen zu umgehen."
-      }
-    ]
-  }
+  ]
 }
