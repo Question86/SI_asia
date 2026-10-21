@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T09:52:20+00:00_
+_Generiert: 2026-10-21T10:01:16+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation).
+45 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -222,15 +222,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Philip R. Lane: Euro liquidity lines and the international monetary system
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Terminal X matches senior investor judgment 88.6% with GPT-6.1** — Score 8, observation — [Quelle](https://openai.com/index/terminal-x)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-10-20T07:00:00+00:00`, fetched `2026-10-21T01:15:18+00:00`
-  - Treffer: OpenAI
+- **Thoughts on several issues of interest to the market** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261021-thoughts-several-issues-interest-market)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-21T00:00:00+00:00`, fetched `2026-10-21T10:00:38+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); recent (+1.0)
-  - Kurz: Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)
+  - Kurz: Keynote speech by Mr Pan Gongsheng, Governor of the People's Bank of China, at the Annual Conference of Financial Street Forum 2026, Beijing, 19 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
@@ -240,3 +240,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `cert_eu_security_advisories` (rss): HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)

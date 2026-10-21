@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T09:52:24+00:00",
-  "today_file_total": 42,
+  "generated_at": "2026-10-21T10:01:18+00:00",
+  "today_file_total": 45,
   "current_clusters": [
     {
       "key": "domain:www.ecb.europa.eu",
@@ -77,6 +77,30 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:www.bis.org",
+      "title": "Thoughts on several issues of interest to the market",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20261021-thoughts-several-issues-interest-market",
+        "https://www.bis.org/speeches/20261021-euro-liquidity-lines-and-international-monetary-system"
+      ],
+      "finding_count": 2,
+      "max_score": 8,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 18.2,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）",
       "sources": [
@@ -150,24 +174,26 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:www.bsi.bund.de",
-      "title": "Version 1.0: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit",
+      "key": "domain:www.heise.de",
+      "title": "Patchday bei Oracle: 1295 Sicherheitspatches quer durch die Bank",
       "sources": [
-        "BSI CERT-Bund Cyber-Sicherheitswarnungen"
+        "heise Security Alerts"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html"
+        "https://www.heise.de/news/Patchday-bei-Oracle-1295-Sicherheitspatches-quer-durch-die-Bank-11495244.html",
+        "https://www.heise.de/news/Wichtige-PHP-Updates-am-21-Oktober-beheben-Codeeinschleusung-Schwachstellen-11495072.html",
+        "https://www.heise.de/news/Angriffswarnungen-fuer-Plex-Media-Server-SiteGuard-und-Siemens-Software-Center-11494994.html"
       ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
+      "finding_count": 3,
+      "max_score": 7,
+      "credibility_total": 3.15,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 17.1,
+      "network_score": 16.3,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -237,6 +263,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.bsi.bund.de",
+      "title": "Version 1.0: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit",
+      "sources": [
+        "BSI CERT-Bund Cyber-Sicherheitswarnungen"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -424,56 +473,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:malaysia-110m-startup-bet-has-matching-problem-investors",
-      "title": "Malaysia’s US$110M startup bet has a matching problem, investors warn",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/malaysias-us110m-startup-bet-has-a-matching-problem-investors-warn-20261020/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:m 5.1 - 164 km ne of lospalos, timor leste:5.1",
-      "title": "M 5.1 - 164 km NE of Lospalos, Timor Leste",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     }
   ]
 }

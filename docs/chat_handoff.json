@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-21T09:52:20+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-10-21T10:01:16+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 42,
-    "displayed_findings": 42,
+    "new_relevant_findings": 3,
+    "today_file_total": 45,
+    "displayed_findings": 45,
     "high": 0,
     "medium": 9,
-    "observe": 33
+    "observe": 36
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen",
