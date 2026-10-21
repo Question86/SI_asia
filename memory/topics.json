@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-21T07:10:32+00:00",
+  "generated_at": "2026-10-21T07:33:30+00:00",
   "topics": {
     "ai": [
       {
@@ -103,6 +103,13 @@
         "published_at": "2026-10-21T02:15:43+00:00",
         "relevance_score": 12,
         "url": "https://blog.flatt.tech/entry/php2shell"
+      },
+      {
+        "title": "Angriffswarnungen für Plex Media Server, SiteGuard und Siemens Software Center",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-21T07:22:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Angriffswarnungen-fuer-Plex-Media-Server-SiteGuard-und-Siemens-Software-Center-11494994.html"
       }
     ],
     "general": [
@@ -179,6 +186,13 @@
         "url": "https://jvn.jp/vu/JVNVU93110597/"
       },
       {
+        "title": "Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-10-21T08:15:19+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html"
+      },
+      {
         "title": "The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-21T06:00:47+00:00",
@@ -207,6 +221,13 @@
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html"
       },
       {
+        "title": "Angriffswarnungen für Plex Media Server, SiteGuard und Siemens Software Center",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-21T07:22:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Angriffswarnungen-fuer-Plex-Media-Server-SiteGuard-und-Siemens-Software-Center-11494994.html"
+      },
+      {
         "title": "Bitcoin at US$82,829: Why a 95% correlation with the S&P 500 should worry long term believers",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-21T05:08:19+00:00",
@@ -214,23 +235,14 @@
         "url": "https://e27.co/bitcoin-at-us82829-why-a-95-correlation-with-the-sp-500-should-worry-long-term-believers-20261021/"
       }
     ],
-    "github": [
-      {
-        "title": "The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-21T06:00:47+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/"
-      },
-      {
-        "title": "「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-20T23:06:41+00:00",
-        "relevance_score": 8,
-        "url": "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html"
-      }
-    ],
     "economy": [
+      {
+        "title": "Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-10-21T08:15:19+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html"
+      },
       {
         "title": "The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags",
         "source": "e27 Asia Startup and Tech Feed",
@@ -251,6 +263,22 @@
         "published_at": "2026-10-21T05:00:18+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/southeast-asias-us1t-digital-dream-slips-five-years-and-ai-is-the-new-reason-to-keep-believing-20261021/"
+      }
+    ],
+    "github": [
+      {
+        "title": "The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-21T06:00:47+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/"
+      },
+      {
+        "title": "「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-20T23:06:41+00:00",
+        "relevance_score": 8,
+        "url": "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html"
       }
     ]
   }
