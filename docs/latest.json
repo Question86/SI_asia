@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T10:22:18+00:00",
-  "run_id": "2026-10-21T10:22:18+00:00",
+  "generated_at": "2026-10-21T10:37:07+00:00",
+  "run_id": "2026-10-21T10:37:07+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 48
+      "configured_public_sources_only": 49
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 48,
-    "displayed_findings": 48,
+    "new_relevant_findings": 1,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
-    "medium": 9,
+    "medium": 10,
     "observe": 39,
     "source_errors": 0
   },
@@ -74,6 +74,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "229b7aff7f4bed5ffa78"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (python-tornado, resteasy-core, bubblewrap, pgvector): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4029",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-21T10:27:16+00:00",
+        "fetched_at": "2026-10-21T10:36:39+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Angriff auszulösen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "51bd8e6037e8d819914c"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）",
@@ -1200,6 +1224,30 @@
       "id": "229b7aff7f4bed5ffa78"
     },
     {
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (python-tornado, resteasy-core, bubblewrap, pgvector): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4029",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-21T10:27:16+00:00",
+      "fetched_at": "2026-10-21T10:36:39+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Angriff auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "51bd8e6037e8d819914c"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）",
       "url": "https://jvn.jp/vu/JVNVU90998702/",
       "source": "JVN Japan Vulnerability Notes",
@@ -2275,65 +2323,28 @@
   ],
   "new_findings": [
     {
-      "title": "Islamic finance for impact - the next measure of success",
-      "url": "https://www.bis.org/speeches/20261021-islamic-finance-impact-next-measure-success",
-      "source": "BIS Central Bankers Speeches",
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (python-tornado, resteasy-core, bubblewrap, pgvector): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4029",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-21T00:00:00+00:00",
-      "fetched_at": "2026-10-21T10:21:47+00:00",
-      "summary": "Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 21st Kuala Lumpur Islamic Finance Forum (KLIFF) 2026, Kuala Lumpur, 20 October 2026.",
+      "published_at": "2026-10-21T10:27:16+00:00",
+      "fetched_at": "2026-10-21T10:36:39+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Angriff auszulösen.",
       "matched_keywords": [
-        "Macro/Policy"
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9ffa21f01a2af7210a03"
-    },
-    {
-      "title": "The courage not to act - moving towards a demand-driven operational mode",
-      "url": "https://www.bis.org/speeches/20261021-courage-not-act-moving-towards-demand-driven-operational-mode",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-21T00:00:00+00:00",
-      "fetched_at": "2026-10-21T10:21:47+00:00",
-      "summary": "Speech by Mr Tuomas Välimäki, Board Member of the Bank of Finland, at a Bank of Finland stakeholder event, Helsinki, 14 October 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4cc1b6269029bdfc2463"
-    },
-    {
-      "title": "著名ITサービス相次いで緊急メンテへ コドモン、シャドバ、BASE、さくらのレンタルサーバなど 「PHP」脆弱性に起因か",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002472/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-21T08:52:10+00:00",
-      "fetched_at": "2026-10-21T10:21:47+00:00",
-      "summary": "保育園向けSaaS「コドモン」、ゲーム「Shadowverse: Worlds Beyond」「さくらのレンタルサーバ」といった著名サービスが相次いで緊急メンテナンスに入ったり、同日午後11時ごろからのメンテナンスを予告したりしている。Web開発で広く使われるプログラミング言語「PHP」で緊急性の高い脆弱性が見つかった影響とみられる...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ccc2860ecbead6478916"
+      "id": "51bd8e6037e8d819914c"
     }
   ],
   "source_errors": [],

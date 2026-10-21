@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-21T10:22:18+00:00_
+_Generated: 2026-10-21T10:37:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `48`
+- findings: `49`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-21T10:22:18+00:00_
 - url: https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/
 - summary: Somewhere in Singapore this week, a recruiter is probably rewriting a job ad that once asked for “advanced Excel skills” so that it now asks for “hands-on experience with agentic AI workflows”. Multiply that by a few thousand listings and you arrive at the he…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）
+### 3. [UPDATE] [hoch] Red Hat Enterprise Linux (python-tornado, resteasy-core, bubblewrap, pgvector): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-21T10:27:16+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4029
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Angriff auszulösen.
+
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-10-21T09:30:15+09:00`
 - url: https://jvn.jp/vu/JVNVU90998702/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. [NEU] [UNGEPATCHT] [hoch] expat: Schwachstelle ermöglicht Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-21T09:00:52+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4054
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in expat ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. I still work 40 hours a week. AI turns it into 120
 - source: e27 Asia Startup and Tech Feed
