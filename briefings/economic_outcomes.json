@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T03:21:44+00:00",
+  "generated_at": "2026-10-21T03:40:49+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -3910,12 +3910,12 @@
     {
       "event_id": "evt_3473ec6df9365b98f3ca",
       "title": "How I use AI to support public relations",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -11034,6 +11034,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8fa509c544bfce03d64e",
+      "title": "AI won’t tidy your business. It just moves the mess faster",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_8fa63690c4880497711e",
@@ -18381,7 +18392,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f1d3a45d338a9b45247c",
