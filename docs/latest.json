@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T20:55:47+00:00",
-  "run_id": "2026-10-21T20:55:47+00:00",
+  "generated_at": "2026-10-21T21:06:08+00:00",
+  "run_id": "2026-10-21T21:06:08+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 89,
     "displayed_findings": 89,
     "high": 0,
@@ -4275,44 +4275,7 @@
       "id": "dc0b86674a8ed2257fd8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.8 - 81 km NNW of Khorixas, Namibia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3y1",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-21T20:54:58.040+00:00",
-      "fetched_at": "2026-10-21T20:55:17+00:00",
-      "summary": "Time 2026-10-21 20:34:49 UTC 2026-10-21 20:34:49 UTC at epicenter Location 19.721°S 14.599°E Depth 4.90 km (3.05 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "3174e0680956a385c95d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
