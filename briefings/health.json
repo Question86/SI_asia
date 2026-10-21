@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-10-21T13:04:51+00:00",
-  "status": "normal",
+  "generated_at": "2026-10-21T13:25:16+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 65,
     "displayed_findings": 65,
     "high": 0,
     "medium": 17,
     "observe": 48,
-    "source_errors": 0
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "bis_statistics",
+      "source_name": "BIS Statistical Releases",
+      "source_type": "rss",
+      "error": "403 Client Error: Forbidden for url: https://www.bis.org/doclist/all_statistics.rss"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
