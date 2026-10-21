@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T09:53:04+00:00",
+  "generated_at": "2026-10-21T10:02:00+00:00",
   "fx_as_of": null,
-  "candidate_count": 2180,
+  "candidate_count": 2184,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2180
+    "pending": 2184
   },
   "coverage_warning": null,
   "candidates": [
@@ -30887,6 +30887,27 @@
       "source_url": "https://www.bis.org/publications/202601-commentary-ibs-gli"
     },
     {
+      "amount_native": 10000000000000.0,
+      "amount_usd": 10000000000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_60754b38ea4186f17fdb",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-21T10:01:46+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:0371d015e118",
+      "review_status": "pending",
+      "snippet": "onsistent with international rules and practices. In fact, today’s global FX market is huge in size. In 2025, the average daily trading volume in the global FX market was close to $10 trillion, and the average daily trading of the RMB exceeded $800 billion, around 80 percent of which took place in the offshore market. No central bank can be expected to affect the underl",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261021-thoughts-several-issues-interest-market",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 5300000000000.0,
       "amount_usd": 5300000000000.0,
       "attribution_probability": null,
@@ -31095,6 +31116,27 @@
       "snippet": "While China is engaged in a fierce struggle with the U.S. for AI supremacy, it is accelerating its development of other future technologies. In 2024, Chinese investors put nearly $1 trillion in clean-­energy capex for renewables, electricity grids, and energy storage. As a result, China now makes 70% of the world’s EVs, its companies are responsible for 80%–­85% of gl",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://restofworld.org/2026/china-america-tech-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    },
+    {
+      "amount_native": 800000000000.0,
+      "amount_usd": 800000000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_a1c7e7fdc098b30aa579",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-21T10:01:46+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:424257b78fcd",
+      "review_status": "pending",
+      "snippet": "’s global FX market is huge in size. In 2025, the average daily trading volume in the global FX market was close to $10 trillion, and the average daily trading of the RMB exceeded $800 billion, around 80 percent of which took place in the offshore market. No central bank can be expected to affect the underlying trend of exchange rate, and no country can be expected to b",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261021-thoughts-several-issues-interest-market",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 793000000000.0,
@@ -44402,6 +44444,44 @@
       "snippet": "the largest driver of this increase. However, in relative terms, fraudulent e-money payments saw the biggest increase for the second year in a row, increasing by 57.7 per cent to €40.42 million. 7 While the fraud rate is still relatively low, such growth should give pause for thought. A trusted financial system is critical to households and businesses and in our collecti",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/speeches/20261020-transitioning-through-trust-securing-future-payments"
+    },
+    {
+      "amount_native": 50000000000.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_2c636dd937b40e915876",
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-21T10:01:47+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:99b39b8a3ae2",
+      "review_status": "pending",
+      "snippet": "kstop character of the facility. The maturity of a single transaction will range from one day to one week and may be extended. The maximum line size per individual central bank is €50 billion. Onboarded central banks can use EUREP funds flexibly, without ex ante restrictions. After completing the onboarding process, central banks will be able to draw from the facility",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261021-euro-liquidity-lines-and-international-monetary-system",
+      "component_confidence": 0.0
+    },
+    {
+      "amount_native": 50000000000.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_ddf8a33476915c5bc8d4",
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-21T10:01:47+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:5b6f94aa6077",
+      "review_status": "pending",
+      "snippet": "urages the holdings of longer-duration bonds, since it enhances the liquidity of these bonds: the liquidity enhancement is considerable as EUREP offers same day liquidity of up to €50 billion off-market in a single transaction. Since reserve managers would be able to hold bonds from all euro area countries rather than just the most liquid bonds, EUREP also enhances the",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261021-euro-liquidity-lines-and-international-monetary-system",
+      "component_confidence": 0.0
     }
   ]
 }
