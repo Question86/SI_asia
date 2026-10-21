@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-21T18:18:34Z",
+  "generated_at": "2026-10-21T19:16:24Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4029",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T10:27:16+00:00",
-      "age_days": 0.33,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/vu/JVNVU92078426/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:00+09:00",
-      "age_days": 0.74,
+      "age_days": 0.78,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4055",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T09:15:51+00:00",
-      "age_days": 0.38,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -92,39 +92,11 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in PHP ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen."
     },
     {
-      "title": "Thoughts on several issues of interest to the market",
-      "url": "https://www.bis.org/speeches/20261021-thoughts-several-issues-interest-market",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 125.16,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 25.46,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.87,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 0.87",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 125.2d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 125.16,
+      "age_days": 125.2,
       "topics": [
         "general"
       ],
@@ -153,7 +125,7 @@
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-21T07:00:00+00:00",
-      "age_days": 0.47,
+      "age_days": 0.51,
       "topics": [
         "ai",
         "security"
@@ -182,7 +154,7 @@
       "url": "https://jvn.jp/vu/JVNVU90998702/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:15+09:00",
-      "age_days": 0.74,
+      "age_days": 0.78,
       "topics": [
         "security"
       ],
@@ -204,38 +176,11 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
-      "title": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ",
-      "url": "https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-21T02:46:32+00:00",
-      "age_days": 0.65,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10",
-        "security high-signal: 10",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": ""
-    },
-    {
       "title": "[NEU] [mittel] Oracle TimesTen In-Memory Database: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4093",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:31:13+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -261,7 +206,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4092",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -287,7 +232,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4091",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -313,7 +258,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4089",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -339,7 +284,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4090",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -365,7 +310,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4088",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:52+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -391,7 +336,7 @@
       "url": "https://jvn.jp/vu/JVNVU93110597/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:30+09:00",
-      "age_days": 0.74,
+      "age_days": 0.78,
       "topics": [
         "security"
       ],
@@ -413,11 +358,38 @@
       "summary": "The Apache Software Foundationから、Apache Tomcatの8件の脆弱性に対してアドバイザリが公開されました。"
     },
     {
+      "title": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ",
+      "url": "https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-21T02:46:32+00:00",
+      "age_days": 0.69,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Version 1.0: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit",
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-09-02T15:24:15+00:00",
-      "age_days": 49.12,
+      "age_days": 49.16,
       "topics": [
         "security"
       ],
@@ -435,7 +407,7 @@
         "momentum delta +3",
         "high terms: kritisch",
         "security high-signal: kritisch",
-        "aging penalty -8.0 for 49.1d old signal",
+        "aging penalty -8.0 for 49.2d old signal",
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": ""
@@ -445,7 +417,7 @@
       "url": "https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T14:07:21+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "security"
@@ -472,7 +444,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-10-21T09:50:00+00:00",
-      "age_days": 0.35,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -498,7 +470,7 @@
       "url": "https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T06:00:47+00:00",
-      "age_days": 0.51,
+      "age_days": 0.55,
       "topics": [
         "ai",
         "macro"
@@ -525,7 +497,7 @@
       "url": "https://blog.flatt.tech/entry/php2shell",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T02:15:43+00:00",
-      "age_days": 0.67,
+      "age_days": 0.71,
       "topics": [
         "security"
       ],
@@ -551,7 +523,7 @@
       "url": "https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html",
       "source": "JPCERT/CC English Blog Atom",
       "published_at": "2026-10-21T02:00:00+00:00",
-      "age_days": 0.68,
+      "age_days": 0.72,
       "topics": [
         "ai",
         "security"
@@ -578,7 +550,7 @@
       "url": "https://note.com/npaka/n/nba1723dba4e1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T09:51:38+00:00",
-      "age_days": 1.35,
+      "age_days": 1.39,
       "topics": [
         "ai"
       ],
@@ -604,7 +576,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4054",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T09:00:52+00:00",
-      "age_days": 0.39,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -629,7 +601,7 @@
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-21T04:50:00+00:00",
-      "age_days": 0.56,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -655,7 +627,7 @@
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 125.9,
+      "age_days": 125.94,
       "topics": [
         "ai"
       ],
@@ -666,12 +638,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 9.54,
+      "baseline_z_hint": 8.26,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 9.54",
+        "baseline z_hint 8.26",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 125.9d old signal",
@@ -684,7 +656,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4056",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 54.17,
+      "age_days": 54.21,
       "topics": [
         "security"
       ],
@@ -695,12 +667,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.89,
+      "baseline_z_hint": 0.24,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.89",
+        "baseline z_hint 0.24",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 54.2d old signal",
@@ -713,7 +685,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4056",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T09:25:51+00:00",
-      "age_days": 0.37,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -739,7 +711,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1314/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-14T00:00:00+00:00",
-      "age_days": 7.76,
+      "age_days": 7.8,
       "topics": [
         "ai",
         "security"
@@ -762,11 +734,38 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que la vulnérabilité CVE-2026-96951..."
     },
     {
+      "title": "Thoughts on several issues of interest to the market",
+      "url": "https://www.bis.org/speeches/20261021-thoughts-several-issues-interest-market",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 125.2,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 24.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 125.2d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Lieferkettenangriff auf Backup-Dienst trifft Hunderte M365-Tenants",
       "url": "https://www.heise.de/news/Angriffe-via-ConnectWise-Cloud-Backup-11495835.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-21T14:27:00.000+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -791,7 +790,7 @@
       "url": "https://www.heise.de/news/php2shell-Kritische-Sicherheitsluecken-erlauben-Codeeinschleusung-in-PHP-11492938.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-21T13:42:00.000+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -816,7 +815,7 @@
       "url": "https://www.heise.de/news/Wichtige-PHP-Updates-am-21-Oktober-beheben-Codeeinschleusung-Schwachstellen-11495072.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-21T08:22:00.000+00:00",
-      "age_days": 0.41,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "security"
@@ -842,7 +841,7 @@
       "url": "https://e27.co/homage-turns-its-in-house-care-software-into-a-business-as-singapore-turns-super-aged-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T07:52:26+00:00",
-      "age_days": 0.43,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -867,7 +866,7 @@
       "url": "https://e27.co/malaysias-us110m-startup-bet-has-a-matching-problem-investors-warn-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T01:59:36+00:00",
-      "age_days": 0.68,
+      "age_days": 0.72,
       "topics": [
         "general"
       ],
@@ -892,7 +891,7 @@
       "url": "https://www.digital.go.jp/resources/machine-readability-rule/harunobu",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-21T06:00:00+00:00",
-      "age_days": 0.51,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -917,7 +916,7 @@
       "url": "https://jvn.jp/vu/JVNVU92078426/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T00:51:54+00:00",
-      "age_days": 0.73,
+      "age_days": 0.77,
       "topics": [
         "general"
       ],
@@ -941,7 +940,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-21T08:54:47.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -966,7 +965,7 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-07-01T00:00:00+00:00",
-      "age_days": 842.76,
+      "age_days": 842.8,
       "topics": [
         "ai",
         "security"
@@ -993,7 +992,7 @@
       "url": "https://www.heise.de/news/Node-js-fixt-eigene-und-geerbte-Sicherheitsluecken-11495996.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-21T15:37:00.000+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -1017,7 +1016,7 @@
       "url": "https://www.heise.de/news/Patchday-bei-Oracle-1295-Sicherheitspatches-quer-durch-die-Bank-11495244.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-21T09:49:00.000+00:00",
-      "age_days": 0.35,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -1041,7 +1040,7 @@
       "url": "https://www.heise.de/news/Angriffswarnungen-fuer-Plex-Media-Server-SiteGuard-und-Siemens-Software-Center-11494994.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-21T07:22:00.000+00:00",
-      "age_days": 0.46,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
