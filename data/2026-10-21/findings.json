@@ -126,6 +126,28 @@
     "id": "be832e00b8a865d8c944"
   },
   {
+    "title": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog",
+    "url": "https://blog.flatt.tech/entry/php2shell",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-21T02:15:43+00:00",
+    "fetched_at": "2026-10-21T02:46:02+00:00",
+    "summary": "PHP開発チームは2026年10月20日（日本時間で深夜）、重大な脆弱性2件の修正パッチを、2026年10月21日 23時（日本時間）にリリース予定と告知しました。両件のCVSS v4.0スコアは9.2とされています。詳細が公開された場合などには、パッチの公開が前倒しになる可能性もあります。 本脆弱性の発見に関与すると見られる研究...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "Security"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3633bc545b02a84a39f1"
+  },
+  {
     "title": "Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques",
     "url": "https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html",
     "source": "JPCERT/CC English Blog Atom",

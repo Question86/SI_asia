@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T02:27:51+00:00",
-  "run_id": "2026-10-21T02:27:51+00:00",
+  "generated_at": "2026-10-21T02:46:29+00:00",
+  "run_id": "2026-10-21T02:46:29+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 1,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 4,
-    "observe": 12,
+    "observe": 13,
     "source_errors": 0
   },
   "sections": {
@@ -156,6 +156,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "be832e00b8a865d8c944"
+      },
+      {
+        "title": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog",
+        "url": "https://blog.flatt.tech/entry/php2shell",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-21T02:15:43+00:00",
+        "fetched_at": "2026-10-21T02:46:02+00:00",
+        "summary": "PHP開発チームは2026年10月20日（日本時間で深夜）、重大な脆弱性2件の修正パッチを、2026年10月21日 23時（日本時間）にリリース予定と告知しました。両件のCVSS v4.0スコアは9.2とされています。詳細が公開された場合などには、パッチの公開が前倒しになる可能性もあります。 本脆弱性の発見に関与すると見られる研究...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Security"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3633bc545b02a84a39f1"
       },
       {
         "title": "Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques",
@@ -556,6 +578,28 @@
       "id": "be832e00b8a865d8c944"
     },
     {
+      "title": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog",
+      "url": "https://blog.flatt.tech/entry/php2shell",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-21T02:15:43+00:00",
+      "fetched_at": "2026-10-21T02:46:02+00:00",
+      "summary": "PHP開発チームは2026年10月20日（日本時間で深夜）、重大な脆弱性2件の修正パッチを、2026年10月21日 23時（日本時間）にリリース予定と告知しました。両件のCVSS v4.0スコアは9.2とされています。詳細が公開された場合などには、パッチの公開が前倒しになる可能性もあります。 本脆弱性の発見に関与すると見られる研究...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3633bc545b02a84a39f1"
+    },
+    {
       "title": "Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques",
       "url": "https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html",
       "source": "JPCERT/CC English Blog Atom",
@@ -827,69 +871,26 @@
   ],
   "new_findings": [
     {
-      "title": "I still work 40 hours a week. AI turns it into 120",
-      "url": "https://e27.co/i-still-work-40-hours-a-week-ai-turns-it-into-120-20261016/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-21T02:00:31+00:00",
-      "fetched_at": "2026-10-21T02:27:22+00:00",
-      "summary": "I teach people how to use AI for a living. So you would expect me to tell you it does everything. It doesn’t. What it does is take a huge amount of the grind out of my week, as long as I stay in the loop. Most of what I have learned came from AI […] The post I still work 40 hours a week. AI turns it into 120 appeared first on e27 .",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Content-Chance"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "be832e00b8a865d8c944"
-    },
-    {
-      "title": "Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques",
-      "url": "https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html",
-      "source": "JPCERT/CC English Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-21T02:00:00+00:00",
-      "fetched_at": "2026-10-21T02:27:22+00:00",
-      "summary": "On October 8, 2026, JPCERT/CC issued an ...",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "JPCERT"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); JPCERT (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8d7146fd7fc8931c7956"
-    },
-    {
-      "title": "PHPに「緊急」レベルの脆弱性2件 修正版を日本時間21日深夜に公開へ、事前準備を呼び掛け",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002446/",
+      "title": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog",
+      "url": "https://blog.flatt.tech/entry/php2shell",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-21T01:08:01+00:00",
-      "fetched_at": "2026-10-21T02:27:22+00:00",
-      "summary": "PHPの開発プロジェクトでセキュリティを担当するチームは10月20日（協定世界時）、2件の重大な脆弱性を修正するセキュリティアップデートを同日午後2時（日本時間の21日午後11時）に公開すると予告した。脆弱性の詳細や影響を受けるバージョン、修正版のバージョンは公開と同時に明らかにする。全てのPHPユーザーに対し...",
+      "published_at": "2026-10-21T02:15:43+00:00",
+      "fetched_at": "2026-10-21T02:46:02+00:00",
+      "summary": "PHP開発チームは2026年10月20日（日本時間で深夜）、重大な脆弱性2件の修正パッチを、2026年10月21日 23時（日本時間）にリリース予定と告知しました。両件のCVSS v4.0スコアは9.2とされています。詳細が公開された場合などには、パッチの公開が前倒しになる可能性もあります。 本脆弱性の発見に関与すると見られる研究...",
       "matched_keywords": [
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 12,
+      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b99cde4c11d25f1c6fbd"
+      "id": "3633bc545b02a84a39f1"
     }
   ],
   "source_errors": [],

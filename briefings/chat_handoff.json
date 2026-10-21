@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-21T02:27:51+00:00",
+  "generated_at": "2026-10-21T02:46:29+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 1,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 4,
-    "observe": 12
+    "observe": 13
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-21T02:15:43+00:00",
+      "relevance_score": 12,
+      "url": "https://blog.flatt.tech/entry/php2shell",
+      "summary": "PHP開発チームは2026年10月20日（日本時間で深夜）、重大な脆弱性2件の修正パッチを、2026年10月21日 23時（日本時間）にリリース予定と告知しました。両件のCVSS v4.0スコアは9.2とされています。詳細が公開された場合などには、パッチの公開が前倒しになる可能性もあります。 本脆弱性の発見に関与すると見られる研究...",
+      "section": "observe"
+    },
+    {
       "title": "Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques",
       "source": "JPCERT/CC English Blog Atom",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://note.com/npaka/n/nba1723dba4e1",
       "summary": "1. OSS Scanner2026年10月8日、Anthropicは、オープンソースソフトウェア（OSS）の脆弱性をAIで検出する無料サービス「OSS Scanner」を発表しました。 OSS Scannerは、Claude Mythosなどの高性能AIモデルを使って、OSSのソースコードを定期的に分析し、脆弱性を発見するサービスです。 主な特徴は次のとおりです。 ・AI...",
-      "section": "observe"
-    },
-    {
-      "title": "Malaysia’s US$110M startup bet has a matching problem, investors warn",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-21T01:30:33+00:00",
-      "relevance_score": 10,
-      "url": "https://e27.co/malaysias-us110m-startup-bet-has-a-matching-problem-investors-warn-20261020/",
-      "summary": "Malaysia has found the money for its startups again. The harder part, investors say, is finding everything that is supposed to come with it. In his Budget 2027 speech on 9 October, Prime Minister and Finance Minister Anwar Ibrahim said Khazanah’s Jelawang Cap…",
       "section": "observe"
     }
   ],

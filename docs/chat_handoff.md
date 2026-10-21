@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-21T02:27:51+00:00_
+_Generated: 2026-10-21T02:46:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `17`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-21T02:27:51+00:00_
 - url: https://e27.co/i-still-work-40-hours-a-week-ai-turns-it-into-120-20261016/
 - summary: I teach people how to use AI for a living. So you would expect me to tell you it does everything. It doesn’t. What it does is take a huge amount of the grind out of my week, as long as I stay in the loop. Most of what I have learned came from AI […] The post…
 
-### 6. Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques
+### 6. PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-10-21T02:15:43+00:00`
+- url: https://blog.flatt.tech/entry/php2shell
+- summary: PHP開発チームは2026年10月20日（日本時間で深夜）、重大な脆弱性2件の修正パッチを、2026年10月21日 23時（日本時間）にリリース予定と告知しました。両件のCVSS v4.0スコアは9.2とされています。詳細が公開された場合などには、パッチの公開が前倒しになる可能性もあります。 本脆弱性の発見に関与すると見られる研究...
+
+### 7. Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques
 - source: JPCERT/CC English Blog Atom
 - score: `12`
 - published: `2026-10-21T02:00:00+00:00`
 - url: https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html
 - summary: On October 8, 2026, JPCERT/CC issued an ...
 
-### 7. Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出｜npaka
+### 8. Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出｜npaka
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-10-20T09:51:38+00:00`
 - url: https://note.com/npaka/n/nba1723dba4e1
 - summary: 1. OSS Scanner2026年10月8日、Anthropicは、オープンソースソフトウェア（OSS）の脆弱性をAIで検出する無料サービス「OSS Scanner」を発表しました。 OSS Scannerは、Claude Mythosなどの高性能AIモデルを使って、OSSのソースコードを定期的に分析し、脆弱性を発見するサービスです。 主な特徴は次のとおりです。 ・AI...
-
-### 8. Malaysia’s US$110M startup bet has a matching problem, investors warn
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-10-21T01:30:33+00:00`
-- url: https://e27.co/malaysias-us110m-startup-bet-has-a-matching-problem-investors-warn-20261020/
-- summary: Malaysia has found the money for its startups again. The harder part, investors say, is finding everything that is supposed to come with it. In his Budget 2027 speech on 9 October, Prime Minister and Finance Minister Anwar Ibrahim said Khazanah’s Jelawang Cap…
 
 END OF DOCUMENT

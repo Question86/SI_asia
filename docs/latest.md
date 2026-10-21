@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T02:27:51+00:00_
+_Generiert: 2026-10-21T02:46:29+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+17 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
   - Kurz: I teach people how to use AI for a living. So you would expect me to tell you it does everything. It doesn’t. What it does is take a huge amount of the grind out of my week, as long as I stay in the loop. Most of what I have learned came from AI […] The post I still work 40 hours a week. AI turns it into 120 appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog** — Score 12, risk — [Quelle](https://blog.flatt.tech/entry/php2shell)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-21T02:15:43+00:00`, fetched `2026-10-21T02:46:02+00:00`
+  - Treffer: Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: PHP開発チームは2026年10月20日（日本時間で深夜）、重大な脆弱性2件の修正パッチを、2026年10月21日 23時（日本時間）にリリース予定と告知しました。両件のCVSS v4.0スコアは9.2とされています。詳細が公開された場合などには、パッチの公開が前倒しになる可能性もあります。 本脆弱性の発見に関与すると見られる研究...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques** — Score 12, observation — [Quelle](https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html)
   - Quelle: JPCERT/CC English Blog Atom / `rss`
   - Zeit: published `2026-10-21T02:00:00+00:00`, fetched `2026-10-21T02:27:22+00:00`
@@ -113,15 +122,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **PHPに「緊急」レベルの脆弱性2件 修正版を日本時間21日深夜に公開へ、事前準備を呼び掛け** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/21/2000002446/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-21T01:08:01+00:00`, fetched `2026-10-21T02:27:22+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: PHPの開発プロジェクトでセキュリティを担当するチームは10月20日（協定世界時）、2件の重大な脆弱性を修正するセキュリティアップデートを同日午後2時（日本時間の21日午後11時）に公開すると予告した。脆弱性の詳細や影響を受けるバージョン、修正版のバージョンは公開と同時に明らかにする。全てのPHPユーザーに対し...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Google may already be showing us its route to AGI** — Score 4, observation — [Quelle](https://e27.co/google-may-already-be-showing-us-its-route-to-agi-20260916/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
