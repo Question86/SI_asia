@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T11:26:17+00:00",
-  "run_id": "2026-10-21T11:26:17+00:00",
+  "generated_at": "2026-10-21T11:41:06+00:00",
+  "run_id": "2026-10-21T11:41:06+00:00",
   "date": "2026-10-21",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 55
+      "configured_public_sources_only": 62
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 55,
-    "displayed_findings": 55,
+    "new_relevant_findings": 7,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
-    "medium": 10,
-    "observe": 45,
+    "medium": 16,
+    "observe": 46,
     "source_errors": 1
   },
   "sections": {
@@ -219,6 +219,144 @@
           "LOW"
         ],
         "id": "10100b07b5c4135c9eac"
+      },
+      {
+        "title": "[NEU] [mittel] Oracle TimesTen In-Memory Database: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4093",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-21T11:31:13+00:00",
+        "fetched_at": "2026-10-21T11:40:29+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Oracle TimesTen In-Memory Database ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "69797c2f98b7009f7cd0"
+      },
+      {
+        "title": "[NEU] [mittel] Oracle Commerce: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4092",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-21T11:30:53+00:00",
+        "fetched_at": "2026-10-21T11:40:29+00:00",
+        "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Commerce ausnutzen, um die Vertraulichkeit und Integrität zu gefährden.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e7aa0c18f139e5e57ca4"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Systems: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4091",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-21T11:30:53+00:00",
+        "fetched_at": "2026-10-21T11:40:29+00:00",
+        "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Systems ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "332feaa51f0e93ce7536"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Construction and Engineering: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4089",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-21T11:30:53+00:00",
+        "fetched_at": "2026-10-21T11:40:29+00:00",
+        "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Construction and Engineering ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3cbb2d8c419a02c5ef45"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4090",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-21T11:30:53+00:00",
+        "fetched_at": "2026-10-21T11:40:29+00:00",
+        "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Communications ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "43a2790e418e01de590b"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle E-Business Suite: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4088",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-21T11:30:52+00:00",
+        "fetched_at": "2026-10-21T11:40:29+00:00",
+        "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle E-Business Suite ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "faeca09c968bb09ca407"
       },
       {
         "title": "Apache Tomcatにおける複数の脆弱性（2026年10月20日）",
@@ -990,6 +1128,26 @@
         "id": "4cc1b6269029bdfc2463"
       },
       {
+        "title": "Republican budget for 2027–2029",
+        "url": "https://www.bis.org/speeches/20261021-republican-budget-2027-2029",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-21T00:00:00+00:00",
+        "fetched_at": "2026-10-21T11:40:29+00:00",
+        "summary": "Speech by Mr Yerulan Zhamaubayev, First Deputy Governor of the National Bank of Kazakhstan, at the Plenary Session of the Kurultai of the Republic of Kazakhstan regarding the draft law \"Republican budget for 2027–2029”, Astana, 14 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f5257e54e99d5e9147d0"
+      },
+      {
         "title": "Improving cross-border payments in a changing geopolitical landscape",
         "url": "https://www.bis.org/speeches/20261021-improving-cross-border-payments-changing-geopolitical-landscape",
         "source": "BIS Central Bankers Speeches",
@@ -1492,6 +1650,144 @@
         "LOW"
       ],
       "id": "10100b07b5c4135c9eac"
+    },
+    {
+      "title": "[NEU] [mittel] Oracle TimesTen In-Memory Database: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4093",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-21T11:31:13+00:00",
+      "fetched_at": "2026-10-21T11:40:29+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Oracle TimesTen In-Memory Database ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "69797c2f98b7009f7cd0"
+    },
+    {
+      "title": "[NEU] [mittel] Oracle Commerce: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4092",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-21T11:30:53+00:00",
+      "fetched_at": "2026-10-21T11:40:29+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Commerce ausnutzen, um die Vertraulichkeit und Integrität zu gefährden.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e7aa0c18f139e5e57ca4"
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Systems: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4091",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-21T11:30:53+00:00",
+      "fetched_at": "2026-10-21T11:40:29+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Systems ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "332feaa51f0e93ce7536"
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Construction and Engineering: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4089",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-21T11:30:53+00:00",
+      "fetched_at": "2026-10-21T11:40:29+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Construction and Engineering ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3cbb2d8c419a02c5ef45"
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4090",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-21T11:30:53+00:00",
+      "fetched_at": "2026-10-21T11:40:29+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Communications ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "43a2790e418e01de590b"
+    },
+    {
+      "title": "[NEU] [hoch] Oracle E-Business Suite: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4088",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-21T11:30:52+00:00",
+      "fetched_at": "2026-10-21T11:40:29+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle E-Business Suite ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "faeca09c968bb09ca407"
     },
     {
       "title": "Apache Tomcatにおける複数の脆弱性（2026年10月20日）",
@@ -2261,6 +2557,26 @@
       "id": "4cc1b6269029bdfc2463"
     },
     {
+      "title": "Republican budget for 2027–2029",
+      "url": "https://www.bis.org/speeches/20261021-republican-budget-2027-2029",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "fetched_at": "2026-10-21T11:40:29+00:00",
+      "summary": "Speech by Mr Yerulan Zhamaubayev, First Deputy Governor of the National Bank of Kazakhstan, at the Plenary Session of the Kurultai of the Republic of Kazakhstan regarding the draft law \"Republican budget for 2027–2029”, Astana, 14 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f5257e54e99d5e9147d0"
+    },
+    {
       "title": "Improving cross-border payments in a changing geopolitical landscape",
       "url": "https://www.bis.org/speeches/20261021-improving-cross-border-payments-changing-geopolitical-landscape",
       "source": "BIS Central Bankers Speeches",
@@ -2573,64 +2889,162 @@
   ],
   "new_findings": [
     {
-      "title": "Don’t stop thinking about tomorrow - building resilience to climate shocks today",
-      "url": "https://www.bis.org/speeches/20261021-dont-stop-thinking-about-tomorrow-building-resilience-climate-shocks-today",
-      "source": "BIS Central Bankers Speeches",
+      "title": "[NEU] [mittel] Oracle TimesTen In-Memory Database: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4093",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-21T00:00:00+00:00",
-      "fetched_at": "2026-10-21T11:25:40+00:00",
-      "summary": "Opening address by Mr Fabio Panetta, Governor of the Bank of Italy, at the Green Swan 2026 Conference, Manila, 19 October 2026.",
+      "published_at": "2026-10-21T11:31:13+00:00",
+      "fetched_at": "2026-10-21T11:40:29+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Oracle TimesTen In-Memory Database ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
       "matched_keywords": [
-        "Macro/Policy"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e36c226a39f97322ec67"
+      "id": "69797c2f98b7009f7cd0"
     },
     {
-      "title": "Closing the gaps - collaboration in the fight against economic crime",
-      "url": "https://www.bis.org/speeches/20261021-closing-gaps-collaboration-fight-against-economic-crime",
-      "source": "BIS Central Bankers Speeches",
+      "title": "[NEU] [mittel] Oracle Commerce: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4092",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-21T00:00:00+00:00",
-      "fetched_at": "2026-10-21T11:25:40+00:00",
-      "summary": "Remarks by Mr Colm Kincaid, Deputy Governor of the Bank of Ireland, at the Irish Criminal Justice Agencies Conference 2026, Dublin, 9 October 2026.",
+      "published_at": "2026-10-21T11:30:53+00:00",
+      "fetched_at": "2026-10-21T11:40:29+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Commerce ausnutzen, um die Vertraulichkeit und Integrität zu gefährden.",
       "matched_keywords": [
-        "Macro/Policy"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2d64b2a75fb983d7faed"
+      "id": "e7aa0c18f139e5e57ca4"
     },
     {
-      "title": "Improving cross-border payments in a changing geopolitical landscape",
-      "url": "https://www.bis.org/speeches/20261021-improving-cross-border-payments-changing-geopolitical-landscape",
+      "title": "[NEU] [hoch] Oracle Systems: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4091",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-21T11:30:53+00:00",
+      "fetched_at": "2026-10-21T11:40:29+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Systems ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "332feaa51f0e93ce7536"
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4090",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-21T11:30:53+00:00",
+      "fetched_at": "2026-10-21T11:40:29+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Communications ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "43a2790e418e01de590b"
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Construction and Engineering: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4089",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-21T11:30:53+00:00",
+      "fetched_at": "2026-10-21T11:40:29+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Construction and Engineering ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3cbb2d8c419a02c5ef45"
+    },
+    {
+      "title": "[NEU] [hoch] Oracle E-Business Suite: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4088",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-21T11:30:52+00:00",
+      "fetched_at": "2026-10-21T11:40:29+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle E-Business Suite ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "faeca09c968bb09ca407"
+    },
+    {
+      "title": "Republican budget for 2027–2029",
+      "url": "https://www.bis.org/speeches/20261021-republican-budget-2027-2029",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "fetched_at": "2026-10-21T11:25:40+00:00",
-      "summary": "Intervention by Ms Christina Papaconstantinou, Deputy Governor of the Bank of Greece, at a panel “Improving cross-border payments in a changing geopolitical landscape”, at the 10th Conference of Mediterranean Central Banks, organised by the Bank of Spain, Roda de Berà, 2 October 2026.",
+      "fetched_at": "2026-10-21T11:40:29+00:00",
+      "summary": "Speech by Mr Yerulan Zhamaubayev, First Deputy Governor of the National Bank of Kazakhstan, at the Plenary Session of the Kurultai of the Republic of Kazakhstan regarding the draft law \"Republican budget for 2027–2029”, Astana, 14 October 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
       "relevance_score": 6,
       "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "887f2b6b807e6aba54e0"
+      "id": "f5257e54e99d5e9147d0"
     }
   ],
   "source_errors": [

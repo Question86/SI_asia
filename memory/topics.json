@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-21T11:26:17+00:00",
+  "generated_at": "2026-10-21T11:41:06+00:00",
   "topics": {
     "security": [
       {
@@ -33,46 +33,46 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4054"
       },
       {
-        "title": "Apache Tomcatにおける複数の脆弱性（2026年10月20日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-21T09:30:30+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU93110597/"
-      },
-      {
-        "title": "Xerj Console APIにおける認証回避の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-21T09:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU92078426/"
-      },
-      {
-        "title": "[NEU] [hoch] PHP: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "title": "[NEU] [mittel] Oracle TimesTen In-Memory Database: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-21T09:15:51+00:00",
+        "published_at": "2026-10-21T11:31:13+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4055"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4093"
       },
       {
-        "title": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-21T02:15:43+00:00",
-        "relevance_score": 12,
-        "url": "https://blog.flatt.tech/entry/php2shell"
+        "title": "[NEU] [mittel] Oracle Commerce: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-21T11:30:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4092"
       },
       {
-        "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
-        "source": "CERT-FR Alertes",
-        "published_at": "2024-07-01T00:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009/"
+        "title": "[NEU] [hoch] Oracle Systems: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-21T11:30:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4091"
       },
       {
-        "title": "Patchday bei Oracle: 1295 Sicherheitspatches quer durch die Bank",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-21T09:49:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Patchday-bei-Oracle-1295-Sicherheitspatches-quer-durch-die-Bank-11495244.html"
+        "title": "[NEU] [hoch] Oracle Construction and Engineering: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-21T11:30:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4089"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-21T11:30:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4090"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle E-Business Suite: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-21T11:30:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4088"
       }
     ],
     "geopolitics": [
@@ -91,6 +91,48 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4054"
       },
       {
+        "title": "[NEU] [mittel] Oracle TimesTen In-Memory Database: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-21T11:31:13+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4093"
+      },
+      {
+        "title": "[NEU] [mittel] Oracle Commerce: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-21T11:30:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4092"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Systems: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-21T11:30:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4091"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Construction and Engineering: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-21T11:30:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4089"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-21T11:30:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4090"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle E-Business Suite: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-21T11:30:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4088"
+      },
+      {
         "title": "Apache Tomcatにおける複数の脆弱性（2026年10月20日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-21T09:30:30+09:00",
@@ -103,48 +145,6 @@
         "published_at": "2026-10-21T09:15:51+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4055"
-      },
-      {
-        "title": "Version 1.0: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit",
-        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-        "published_at": "2026-10-21T09:50:00+00:00",
-        "relevance_score": 12,
-        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html"
-      },
-      {
-        "title": "Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-10-21T08:15:19+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html"
-      },
-      {
-        "title": "The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-21T06:00:47+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/"
-      },
-      {
-        "title": "AI won’t tidy your business. It just moves the mess faster",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-21T03:30:15+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/ai-wont-tidy-your-business-it-just-moves-the-mess-faster-20261018/"
-      },
-      {
-        "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
-        "source": "CERT-FR Alertes",
-        "published_at": "2024-07-01T00:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009/"
-      },
-      {
-        "title": "Malaysia’s US$110M startup bet has a matching problem, investors warn",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-21T01:30:33+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/malaysias-us110m-startup-bet-has-a-matching-problem-investors-warn-20261020/"
       }
     ],
     "ai": [
