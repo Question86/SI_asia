@@ -437,6 +437,29 @@
     "id": "a9b8c1b6942b76b7ce13"
   },
   {
+    "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
+    "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009/",
+    "source": "CERT-FR Alertes",
+    "source_type": "rss",
+    "published_at": "2024-07-01T00:00:00+00:00",
+    "fetched_at": "2026-10-21T11:11:45+00:00",
+    "summary": "Le 1 juillet 2024, OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire à distance avec les privilèges *root*. L'éditeur précise que les versions 8.5p1 à 9.7p1 sont...",
+    "matched_keywords": [
+      "alerte",
+      "CERT-FR",
+      "Security",
+      "vulnérabilité"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "83e0b32a859c4bfbd4eb"
+  },
+  {
     "title": "Ex-PropertyGuru CEO’s Genie Health raises US$3M to make sense of your scattered health data",
     "url": "https://e27.co/ex-propertyguru-ceos-genie-health-raises-us3m-to-make-sense-of-your-scattered-health-data-20261021/",
     "source": "e27 Asia Startup and Tech Feed",
