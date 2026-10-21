@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T12:29:31+00:00_
+_Generiert: 2026-10-21T13:04:51+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation).
+65 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-10-21 01:04:29 UTC 2026-10-21 01:04:29 UTC at epicenter Location 35.725°N 139.984°E Depth 90.27 km (56.09 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **OpenAI models are coming to Google Cloud** — Score 14, observation — [Quelle](https://openai.com/index/openai-models-google-cloud)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-21T12:00:00+00:00`, fetched `2026-10-21T13:04:22+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0)
+  - Kurz: OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Apache Tomcatにおける複数の脆弱性（2026年10月20日）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93110597/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-21T09:30:30+09:00`, fetched `2026-10-21T00:51:10+00:00`
