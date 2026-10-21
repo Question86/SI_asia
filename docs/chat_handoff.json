@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-21T09:39:27+00:00",
+  "generated_at": "2026-10-21T09:52:20+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 41,
-    "displayed_findings": 41,
+    "today_file_total": 42,
+    "displayed_findings": 42,
     "high": 0,
     "medium": 9,
-    "observe": 32
+    "observe": 33
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "Version 1.0: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "published_at": "2026-10-21T09:50:00+00:00",
+      "relevance_score": 12,
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html",
+      "summary": "Version 1.0: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit",
+      "section": "observe"
+    },
+    {
       "title": "Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45",
       "source": "ECB Open Market Operations and Communication",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/",
       "summary": "For two decades, the startup gospel was simple: find product-market fit at home, then blitzscale across borders. In 2026, much of the world appears to be rethinking the second half of that sentence. According to HSBC’s Global Entrepreneurial Wealth Report (GE…",
-      "section": "observe"
-    },
-    {
-      "title": "AI won’t tidy your business. It just moves the mess faster",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-21T03:30:15+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/ai-wont-tidy-your-business-it-just-moves-the-mess-faster-20261018/",
-      "summary": "I build AI tools for marketers, and run an AI marketing software firm in Singapore, so I spend a lot of time hearing about AI adoption. A recent talk by Robert Lai, founder of performance agency Kaliber, stuck with me because it opened with an uncomfortable c…",
       "section": "observe"
     }
   ],
