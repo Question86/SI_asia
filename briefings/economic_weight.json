@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T06:00:22+00:00",
+  "generated_at": "2026-10-22T06:35:25+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -6630,7 +6630,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-22T05:51:01+00:00",
-      "last_seen_at": "2026-10-22T06:00:00+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
       "status": "active"
     },
     {
@@ -7089,7 +7089,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-22T03:56:45+00:00",
-      "last_seen_at": "2026-10-22T06:00:00+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
       "status": "active"
     },
     {
@@ -9146,7 +9146,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-22T05:25:53+00:00",
-      "last_seen_at": "2026-10-22T06:00:00+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
       "status": "active"
     },
     {
@@ -9316,8 +9316,8 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-21T23:58:11+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_b380be2049a414b6cdc6",
@@ -9962,7 +9962,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T06:00:00+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
       "status": "active"
     },
     {
@@ -9996,7 +9996,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T07:51:17+00:00",
-      "last_seen_at": "2026-10-22T06:00:00+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
       "status": "active"
     },
     {
@@ -11016,7 +11016,7 @@
       "p90_usd": 2840000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:46:32+00:00",
-      "last_seen_at": "2026-10-22T06:00:00+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
       "status": "active"
     },
     {
@@ -11067,7 +11067,7 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-22T06:00:00+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
       "status": "active"
     },
     {
@@ -11543,7 +11543,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T06:00:00+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
       "status": "active"
     },
     {
@@ -11594,7 +11594,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T06:00:00+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
       "status": "active"
     },
     {
@@ -11647,6 +11647,23 @@
       "first_seen_at": "2026-10-06T10:50:44+00:00",
       "last_seen_at": "2026-10-06T23:46:08+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_4a0e2c4172b320f2823f",
+      "title": "Who referees the AI agents? Enterprises aren’t sure, new report shows",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 122400.0,
+      "p50_usd": 12240000.0,
+      "p90_usd": 1224000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T06:35:06+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_1dc9bdd21755f73fe1e3",
@@ -12378,6 +12395,23 @@
       "first_seen_at": "2026-10-14T05:21:56+00:00",
       "last_seen_at": "2026-10-14T23:56:45+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_3d5151f4252efca247cf",
+      "title": "headroomlabs-ai/headroom",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 119200.0,
+      "p50_usd": 11920000.0,
+      "p90_usd": 1192000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T06:35:06+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -13192,7 +13226,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T05:38:58+00:00",
-      "last_seen_at": "2026-10-22T06:00:00+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
       "status": "active"
     },
     {
@@ -13345,7 +13379,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T17:38:29+00:00",
-      "last_seen_at": "2026-10-22T06:00:00+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
       "status": "active"
     },
     {
@@ -14144,7 +14178,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T04:07:02+00:00",
-      "last_seen_at": "2026-10-22T06:00:00+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
       "status": "active"
     },
     {
@@ -17855,6 +17889,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_21a2b754166a09a79a04",
+      "title": "vllm-project/vllm",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T06:35:06+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_000820d66bd74c57c867",
       "title": "ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～",
       "event_classes": [
@@ -21167,7 +21218,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T03:01:46+00:00",
-      "last_seen_at": "2026-10-22T06:00:00+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
       "status": "active"
     },
     {
@@ -22650,6 +22701,40 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ea0de41e593c819cd7f2",
+      "title": "Scouter enters Singapore’s crowded cyber market with a “listen first” promise",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T06:35:06+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_fb695107602e8d2cd9a2",
+      "title": "カオASEAN事務総長が古川デジタル大臣を表敬訪問しました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T06:35:06+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_041397919a21c7984d11",
       "title": "The new engineering bottleneck isn’t writing code, it’s trusting it",
       "event_classes": [
@@ -22784,7 +22869,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T02:04:46+00:00",
       "last_seen_at": "2026-10-22T06:00:00+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2b6148637f9e3a43829a",
@@ -23175,7 +23260,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T03:56:45+00:00",
       "last_seen_at": "2026-10-22T06:00:00+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9a2361687c9a12c7708c",
@@ -23242,7 +23327,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T05:06:54+00:00",
-      "last_seen_at": "2026-10-22T06:00:00+00:00",
+      "last_seen_at": "2026-10-22T06:35:06+00:00",
       "status": "active"
     },
     {
@@ -25521,7 +25606,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
       "last_seen_at": "2026-10-22T06:00:00+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_17b212e48b956da23bcb",
@@ -26762,7 +26847,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T00:42:13+00:00",
       "last_seen_at": "2026-10-22T06:00:00+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5cc7fa451109cd718285",
@@ -27816,7 +27901,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T05:25:53+00:00",
       "last_seen_at": "2026-10-22T06:00:00+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9ed2410de632b1cd74e7",
@@ -28360,7 +28445,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T02:04:46+00:00",
       "last_seen_at": "2026-10-22T06:00:00+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_bf67e1ffd37001f7dd64",
