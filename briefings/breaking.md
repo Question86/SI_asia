@@ -1,10 +1,25 @@
 # Senna Breaking
 
-_Generiert: 2026-10-22T23:27:08+00:00_
+_Generiert: 2026-10-22T23:36:35+00:00_
+
+## Custom skills, agents, and MCP servers in usage metrics API
+
+- Ranking Score: `27.5`
+- Raw Network Score: `23.1`
+- Max Monitor Score: `18`
+- Reichweite: `specialist` / `2.5`
+- Early Signal: `ja`
+- Dominanter Emitter: `nein`
+- Quellen: GitHub Changelog Atom
+- Klassen: tier3_specialist
+- Cross-source bestaetigt: nein
+- Momentum: increasing (+1)
+- Erste Quelle: https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api
+- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
 ## PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）
 
-- Ranking Score: `26.55`
+- Ranking Score: `26.5`
 - Raw Network Score: `30.3`
 - Max Monitor Score: `16`
 - Reichweite: `specialist` / `2.5`
