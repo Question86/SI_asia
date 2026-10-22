@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-22T01:54:29+00:00_
+_Generated: 2026-10-22T02:04:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `8`
+- findings: `10`
 
 ## Top Signals
 
@@ -36,25 +36,32 @@ _Generated: 2026-10-22T01:54:29+00:00_
 - url: https://jvn.jp/vu/JVNVU91023667/
 - summary: LINEヤフー株式会社が提供するLIFF SDKには、クロスサイトスクリプティングの脆弱性が存在します。
 
-### 5. 「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／
+### 5. We audited our own backlinks. Four domains linked to us, and two of them counted
+- source: e27 Asia Startup and Tech Feed
+- score: `7`
+- published: `2026-10-22T02:00:29+00:00`
+- url: https://e27.co/we-audited-our-own-backlinks-four-domains-linked-to-us-and-two-of-them-counted-20261018/
+- summary: Our company builds software in Ho Chi Minh City. Our website has been live for over a year, and for most of that time we assumed our directory listings were doing something for us. On 15 August 2026 I measured it. Four domains link to our site. Two of them pa…
+
+### 6. 「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-21T23:31:06+00:00`
 - url: https://forest.watch.impress.co.jp/docs/news/2150161.html
 - summary: 「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／
 
-### 6. メンテナンス中に503を返すだけでは足りない Google公式ドキュメントで読む必須・推奨・禁止事項 - SEMリサーチ
+### 7. メンテナンス中に503を返すだけでは足りない Google公式ドキュメントで読む必須・推奨・禁止事項 - SEMリサーチ
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-21T18:03:07+00:00`
 - url: https://www.sem-r.com/entry/20261022/1792605105
 - summary: サイトメンテナンス時の正しいHTTP応答 緊急メンテ当日に各社の対応を調べてわかったこと なぜメンテナンス時のHTTP応答が重要なのか 必須事項 やらないと検索結果掲載に問題が発生する可能性があるもの 1. すべてのページで、元のURLのまま503を返す 2. robots.txtは503にせず、通常どおり200で返し続ける 3. 503を数...
 
-### 7. デジタル庁、「神Excel」対策ツールを公開 AIと組み合わせたデータ整備方法も紹介
+### 8. Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-10-21T12:22:50+00:00`
-- url: https://www.itmedia.co.jp/aiplus/article/2610/21/2000002475/
-- summary: デジタル庁が、Excelファイルなどが“機械にとって読みやすいか”を判定するツール「Harunobu」を公開している。紙に印刷した際のレイアウトを優先してセル結合などを多用した、いわゆる「神Excel」の対策にも活用できるという。AIと組み合わせたデータの整備方法も取り上げている。 Harunobu（はるのぶ）という名称のこの...
+- published: `2026-10-21T14:50:46+00:00`
+- url: https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html
+- summary: Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定 Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsr...
 
 END OF DOCUMENT

@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-22T01:54:32+00:00_
+_Generiert: 2026-10-22T02:04:46+00:00_
 
 ## Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI
 
