@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T17:34:15+00:00",
-  "today_file_total": 71,
+  "generated_at": "2026-10-22T17:43:39+00:00",
+  "today_file_total": 72,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -154,29 +154,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:bug-bounty-sharpens-one-researcher-security-skills",
-      "title": "How bug bounty sharpens one researcher’s security skills",
-      "sources": [
-        "GitHub Blog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/"
-      ],
-      "finding_count": 1,
-      "max_score": 17,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 22.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "github_repo:headroomlabs-ai/headroom",
       "title": "headroomlabs-ai/headroom",
       "sources": [
@@ -200,6 +177,29 @@
         "ai_agents_workflow"
       ],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+    },
+    {
+      "key": "title:bug-bounty-sharpens-one-researcher-security-skills",
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "sources": [
+        "GitHub Blog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/"
+      ],
+      "finding_count": 1,
+      "max_score": 17,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:hong-kong-taiwan-founders-are-cheering-boom-southeast",
@@ -418,8 +418,8 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 4.8 - 144 km ssw of ‘ohonua, tonga:4.8",
-      "title": "M 4.8 - 144 km SSW of ‘Ohonua, Tonga",
+      "key": "earthquake:m 4.8 - 39 km ne of shikotan, russia:4.8",
+      "title": "M 4.8 - 39 km NE of Shikotan, Russia",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -427,7 +427,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u459"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u45f"
       ],
       "finding_count": 1,
       "max_score": 9,

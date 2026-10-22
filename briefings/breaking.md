@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-10-22T17:34:15+00:00_
+_Generiert: 2026-10-22T17:43:39+00:00_
 
 ## How bug bounty sharpens one researcher’s security skills
 
-- Ranking Score: `26.5`
-- Raw Network Score: `22.1`
+- Ranking Score: `24.0`
+- Raw Network Score: `19.1`
 - Max Monitor Score: `17`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
@@ -13,7 +13,7 @@ _Generiert: 2026-10-22T17:34:15+00:00_
 - Quellen: GitHub Blog Atom
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
