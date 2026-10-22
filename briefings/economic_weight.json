@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T01:54:49+00:00",
+  "generated_at": "2026-10-22T02:05:06+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -9911,7 +9911,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T01:54:32+00:00",
+      "last_seen_at": "2026-10-22T02:04:46+00:00",
       "status": "active"
     },
     {
@@ -9945,7 +9945,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T07:51:17+00:00",
-      "last_seen_at": "2026-10-22T01:54:32+00:00",
+      "last_seen_at": "2026-10-22T02:04:46+00:00",
       "status": "active"
     },
     {
@@ -10965,7 +10965,7 @@
       "p90_usd": 2840000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:46:32+00:00",
-      "last_seen_at": "2026-10-22T01:54:32+00:00",
+      "last_seen_at": "2026-10-22T02:04:46+00:00",
       "status": "active"
     },
     {
@@ -11492,7 +11492,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T01:54:32+00:00",
+      "last_seen_at": "2026-10-22T02:04:46+00:00",
       "status": "active"
     },
     {
@@ -11543,7 +11543,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T01:54:32+00:00",
+      "last_seen_at": "2026-10-22T02:04:46+00:00",
       "status": "active"
     },
     {
@@ -23297,6 +23297,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_2a4e3ca74cb80a5dea37",
+      "title": "We audited our own backlinks. Four domains linked to us, and two of them counted",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "compliance"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T02:04:46+00:00",
+      "last_seen_at": "2026-10-22T02:04:46+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_01f8d7013bd851003572",
       "title": "松本大臣記者会見（令和8年9月15日）動画を掲載しました",
       "event_classes": [
@@ -25367,7 +25384,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T01:54:32+00:00",
+      "last_seen_at": "2026-10-22T02:04:46+00:00",
       "status": "active"
     },
     {
@@ -26608,7 +26625,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T00:42:13+00:00",
-      "last_seen_at": "2026-10-22T01:54:32+00:00",
+      "last_seen_at": "2026-10-22T02:04:46+00:00",
       "status": "active"
     },
     {
@@ -28903,7 +28920,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T01:14:13+00:00",
-      "last_seen_at": "2026-10-22T01:54:32+00:00",
+      "last_seen_at": "2026-10-22T02:04:46+00:00",
       "status": "active"
     },
     {
@@ -29415,6 +29432,23 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_bf6378789ab321efabf9",
+      "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T02:04:46+00:00",
+      "last_seen_at": "2026-10-22T02:04:46+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
