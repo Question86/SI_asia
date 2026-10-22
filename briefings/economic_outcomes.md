@@ -1,10 +1,10 @@
 # Economic Outcomes
 
-Generated: `2026-10-22T19:32:03+00:00`
+Generated: `2026-10-22T19:44:07+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
-| M 5.2 - 201 km ENE of Nagqu, China | $0 | — | 0 | 0 | dormant |
+| M 5.2 - 201 km ENE of Nagqu, China | $0 | — | 0 | 0 | active |
 | ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～ | $0 | — | 0 | 0 | dormant |
 | Startups should learn to leave bad markets faster | $0 | — | 0 | 0 | dormant |
 | M 4.9 - 12 km SSW of Tebario, Panama | $0 | — | 0 | 0 | dormant |
