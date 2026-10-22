@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T06:35:03+00:00",
-  "run_id": "2026-10-22T06:35:03+00:00",
+  "generated_at": "2026-10-22T07:00:15+00:00",
+  "run_id": "2026-10-22T07:00:15+00:00",
   "date": "2026-10-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 31
+      "configured_public_sources_only": 32
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 10,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "new_relevant_findings": 1,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 0,
-    "medium": 13,
+    "medium": 14,
     "observe": 18,
     "source_errors": 0
   },
@@ -283,6 +283,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1df6e269985b12d7a7cc"
+      },
+      {
+        "title": "[UPDATE] [mittel] Xerox FreeFlow Print Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0489",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-22T06:35:51+00:00",
+        "fetched_at": "2026-10-22T06:59:45+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Xerox FreeFlow Print Server ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e466fc4abb3bf36833bb"
       },
       {
         "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -1086,6 +1109,29 @@
       "id": "1df6e269985b12d7a7cc"
     },
     {
+      "title": "[UPDATE] [mittel] Xerox FreeFlow Print Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0489",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-22T06:35:51+00:00",
+      "fetched_at": "2026-10-22T06:59:45+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Xerox FreeFlow Print Server ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e466fc4abb3bf36833bb"
+    },
+    {
       "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2730",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1629,107 +1675,13 @@
   ],
   "new_findings": [
     {
-      "title": "Who referees the AI agents? Enterprises aren’t sure, new report shows",
-      "url": "https://e27.co/who-referees-the-ai-agents-enterprises-arent-sure-new-report-shows-20261022/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-22T06:30:33+00:00",
-      "fetched_at": "2026-10-22T06:34:32+00:00",
-      "summary": "Ask a room of enterprise executives whether they can keep their AI agents in line and most will nod. Ask them what happens when two of those agents disagree, and the room goes quiet. That, in essence, is the finding of a new report from OutSystems, the Lisbon-born low-code company that now markets itself as […] The post Who referees the AI agents? Enterprises aren’t sure, new report shows appeared first on e27 .",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "Public Health",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "1c732f92532a41e6fd74"
-    },
-    {
-      "title": "headroomlabs-ai/headroom",
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-10-22T06:34:32+00:00",
-      "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. https://docs.headroomlabs.ai/docs Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents / LLMs: read /llms.txt here, or fetch the live index · full docs blob . Headroom compresses everything…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 19,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents, MCP, MCP server"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "d9107527aefe1dbe83e3"
-    },
-    {
-      "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2730",
+      "title": "[UPDATE] [mittel] Xerox FreeFlow Print Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0489",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-22T06:10:51+00:00",
-      "fetched_at": "2026-10-22T06:34:32+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Wireshark ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "published_at": "2026-10-22T06:35:51+00:00",
+      "fetched_at": "2026-10-22T06:59:45+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Xerox FreeFlow Print Server ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1743,162 +1695,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "27cdb630ec07dbd3c87c"
-    },
-    {
-      "title": "[UPDATE] [mittel] Unbound: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4073",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-22T06:05:54+00:00",
-      "fetched_at": "2026-10-22T06:34:32+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Unbound ausnutzen, um einen Denial of Service Angriff durchzuführen, um Daten zu manipulieren und um Sicherheitsvorkehrungen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "81a224fde012cbfa14a5"
-    },
-    {
-      "title": "[UPDATE] [mittel] Checkmk: Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4072",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-22T06:05:53+00:00",
-      "fetched_at": "2026-10-22T06:34:32+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Checkmk ausnutzen, um seine Privilegien zu erhöhen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8a4bf49478dda99ef238"
-    },
-    {
-      "title": "[UPDATE] [mittel] NoMachine: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4014",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-22T06:05:52+00:00",
-      "fetched_at": "2026-10-22T06:34:32+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in NoMachine ausnutzen, um seine Privilegien zu erhöhen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d9f5401bebd78c4e410f"
-    },
-    {
-      "title": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-10-22T06:34:32+00:00",
-      "summary": "A high-throughput and memory-efficient inference and serving engine for LLMs https://vllm.ai Easy, fast, and cheap LLM serving for everyone | Documentation | Blog | Paper | Twitter/X | User Forum | Developer Slack | 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please visit vllm.ai/events to join us. About vLLM is a fast and easy-to-use library for…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Webentwicklung"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3453d33a7513aa55f7f5"
-    },
-    {
-      "title": "PHP發布安全性更新修補2項可導致遠端程式碼執行之嚴重漏洞，國際資安機構籲儘速更新",
-      "url": "https://www.twcert.org.tw/tw/cp-104-11308-ed8b8-1.html",
-      "source": "TWCERT/CC Security News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-22T06:19:00+00:00",
-      "fetched_at": "2026-10-22T06:34:32+00:00",
-      "summary": "PHP官方於2026年10月21日發布安全性更新，修補CVE-2026-109618及CVE-2026-109619兩項嚴重漏洞，CVSS v4.0基礎分數皆為9.2，未經身分驗證之攻擊者可能利用漏洞執行遠端程式碼。TWCERT/CC已發布 漏洞警訊公告 ，美國網路安全暨基礎設施安全局（CISA）、歐盟電腦緊急應變小組（CERT-EU）及英國國家網路安全中心（NCSC）等機構相繼發布警告，呼籲使用PHP之單位立即完成更新；若無法立即更新，應考慮隔離對外系統或暫停服務。 PHP 官方公告 PHP官方於2026年10月20日預告，將於10月21日14:00 UTC（台灣時間22:00）發布安全性更新，修補2項嚴重漏洞，並表示若漏洞細節提前公開或出現實際利用跡象，將提前發布。 PHP官方於10月21日發布更新，修補之漏洞如下： CVE 編號 漏洞類型 CVSS v4.0 基礎分數 CVE-2026-109618 遠端程式碼執行 9.…",
-      "matched_keywords": [
-        "Security",
-        "TWCERT"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7cd9ff539cdffe86eb83"
-    },
-    {
-      "title": "Scouter enters Singapore’s crowded cyber market with a “listen first” promise",
-      "url": "https://e27.co/scouter-enters-singapores-crowded-cyber-market-with-a-listen-first-promise-20261022/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-22T06:08:05+00:00",
-      "fetched_at": "2026-10-22T06:34:32+00:00",
-      "summary": "Anyone who has run security at a large Singapore organisation knows the routine. A vendor turns up with a slide deck, a slick demo and a quarterly target, and the talk is about the product long before anyone has asked what is actually keeping the security team up at night. Raz Kotler has sat on […] The post Scouter enters Singapore’s crowded cyber market with a “listen first” promise appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Public Health",
-        "Security"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph demote demo (x0.45)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7710608ae409abc4ee92"
-    },
-    {
-      "title": "カオASEAN事務総長が古川デジタル大臣を表敬訪問しました",
-      "url": "https://www.digital.go.jp/press/542b23b5-1fca-44c0-9e31-ea0079535b1a",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-22T06:00:00+00:00",
-      "fetched_at": "2026-10-22T06:34:32+00:00",
-      "summary": "カオASEAN事務総長が古川デジタル大臣を表敬訪問しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: ASEAN (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "54a64da69ba6134c907e"
+      "id": "e466fc4abb3bf36833bb"
     }
   ],
   "source_errors": [],

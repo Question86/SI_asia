@@ -255,6 +255,29 @@
     "id": "1df6e269985b12d7a7cc"
   },
   {
+    "title": "[UPDATE] [mittel] Xerox FreeFlow Print Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0489",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-22T06:35:51+00:00",
+    "fetched_at": "2026-10-22T06:59:45+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Xerox FreeFlow Print Server ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e466fc4abb3bf36833bb"
+  },
+  {
     "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen ermöglichen Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2730",
     "source": "BSI CERT-Bund Security Advisories",
