@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T14:04:17+00:00",
+  "generated_at": "2026-10-22T14:35:08+00:00",
   "events": [
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -1287,7 +1287,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_121386751889bcbabd52",
@@ -2607,7 +2607,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_21b300e0b2a2081dc7c0",
@@ -2673,7 +2673,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_22a618d71c792fa21dc7",
@@ -3949,7 +3949,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3274a2909633ddeb2472",
@@ -10717,6 +10717,17 @@
       "status": "active"
     },
     {
+      "event_id": "evt_878b28f75bd41a7cab99",
+      "title": "Multiples vulnérabilités dans les produits Mattermost (16 octobre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_878c36578d3bab2c9d3e",
       "title": "M 5.0 - 14 km SE of Río Grande, Panama",
       "deduplicated_buckets": 0,
@@ -10758,7 +10769,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_87b93cd4931e84915328",
@@ -11946,7 +11957,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_97a28dd89a144799f861",
@@ -12210,7 +12221,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9b372237b9559ac9e445",
