@@ -1,6 +1,21 @@
 # Senna Breaking
 
-_Generiert: 2026-10-22T17:20:22+00:00_
+_Generiert: 2026-10-22T17:34:15+00:00_
+
+## How bug bounty sharpens one researcher’s security skills
+
+- Ranking Score: `26.5`
+- Raw Network Score: `22.1`
+- Max Monitor Score: `17`
+- Reichweite: `specialist` / `2.5`
+- Early Signal: `ja`
+- Dominanter Emitter: `nein`
+- Quellen: GitHub Blog Atom
+- Klassen: tier3_specialist
+- Cross-source bestaetigt: nein
+- Momentum: increasing (+1)
+- Erste Quelle: https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/
+- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
 ## PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）
 
