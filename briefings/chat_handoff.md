@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-22T08:41:23+00:00_
+_Generated: 2026-10-22T08:56:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `36`
+- findings: `37`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-22T08:41:23+00:00_
 - url: https://www.itmedia.co.jp/news/article/2610/22/2000002501/
 - summary: 米GitLabは10月21日（現地時間）、開発プラットフォーム「GitLab」に深刻（Critical）な脆弱性（CVE-2026-110264）が見つかったと発表し、修正版を公開した。CVSSスコアは最大の「10.0」。特定の条件下で、認証されていないユーザーがGitLabサーバ上で任意のコードを実行できる可能性がある。 12日に公表したCVSS 10.0の...
 
-### 7. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる
+### 7. PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃 - Qiita
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-22T01:12:57+00:00`
+- url: https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3
+- summary: 2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。 修正パッチを速やかに適用することが困難な場合は、例えばウェブサイト等を一時的に停止させることも、リスクを低減させるための有効策の一つと考えられます。 (高市早苗 on X) PHP の任意コード実行の脆弱性 2 件、通称 php2shell（CVE-2026-10961...
+
+### 8. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-10-21T19:34:57+00:00`
 - url: https://zenn.dev/explaza/articles/c749042ecbe232
 - summary: 最近は動画で説明資料を作っている アプリの仕組みをお客さんに説明するとき、構成図とかHTML・Markdownで、説明するのが一般的かと思いますが 最近はjavascriptを用いて、Claudeで動画を生成しやすくなったので、アプリの操作と、その裏で起きている処理を交互に見せる解説動画を作って説明に使っています。 めちゃくち...
-
-### 8. vllm-project/vllm
-- source: GitHub Trending RSS All Languages Daily
-- score: `11`
-- published: `None`
-- url: https://github.com/vllm-project/vllm
-- summary: A high-throughput and memory-efficient inference and serving engine for LLMs https://vllm.ai Easy, fast, and cheap LLM serving for everyone | Documentation | Blog | Paper | Twitter/X | User Forum | Developer Slack | 🔥 We have built a vLLM website to help you…
 
 END OF DOCUMENT
