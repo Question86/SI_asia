@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-22T07:00:18+00:00_
+_Generiert: 2026-10-22T07:28:22+00:00_
 
 ## Who referees the AI agents? Enterprises aren’t sure, new report shows
 
@@ -19,7 +19,7 @@ _Generiert: 2026-10-22T07:00:18+00:00_
 
 ## PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）
 
-- Ranking Score: `26.27`
+- Ranking Score: `26.14`
 - Raw Network Score: `26.2`
 - Max Monitor Score: `16`
 - Reichweite: `specialist` / `2.5`
