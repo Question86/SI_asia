@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T17:44:20+00:00",
+  "generated_at": "2026-10-22T18:01:09+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -12765,13 +12765,13 @@
     {
       "event_id": "evt_a1cbd9421769e2dbb326",
       "title": "M 4.8 - 39 km NE of Shikotan, Russia",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a1d130842f394b95f841",
@@ -15895,7 +15895,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_cc97b4f2aca764ac48ca",
