@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-22T16:17:24Z_
+_Generated: 2026-10-22T16:42:55Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “PHPにおける複数の任意のコー�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-21T02:46:32+00:00` / age_days `1.56`
+- Published: `2026-10-21T02:46:32+00:00` / age_days `1.58`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: source breadth +2, high terms: rce, 10, security high-signal: rce, 10, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “PHPにおける複数の任意のコー�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T01:00:46+00:00` / age_days `0.64`
+- Published: `2026-10-22T01:00:46+00:00` / age_days `0.65`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “PHPにおける複数の任意のコー�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T01:00:30+00:00` / age_days `0.64`
+- Published: `2026-10-22T01:00:30+00:00` / age_days `0.65`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -42,17 +42,27 @@ Stärkste Dynamik nach Gate-Recheck: “PHPにおける複数の任意のコー�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T11:14:22+00:00` / age_days `0.21`
+- Published: `2026-10-22T11:14:22+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: active, exploitation, critical, security high-signal: active, exploitation, critical, unauthenticated, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
 - Quelle: https://cert.europa.eu/publications/security-advisories/2026-019/
 
+### [UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-08-28T14:08:37+00:00` / age_days `55.11`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: momentum delta +3, baseline z_hint 1.76, high terms: rce, security high-signal: rce, aging penalty -8.0 for 55.1d old signal, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4079
+
 ### PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T10:30:00+09:00` / age_days `0.62`
+- Published: `2026-10-22T10:30:00+09:00` / age_days `0.63`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “PHPにおける複数の任意のコー�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T09:28:48+00:00` / age_days `0.28`
+- Published: `2026-10-22T09:28:48+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “PHPにおける複数の任意のコー�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T12:14:30+00:00` / age_days `0.17`
+- Published: `2026-10-22T12:14:30+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “PHPにおける複数の任意のコー�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T10:00:00+09:00` / age_days `0.64`
+- Published: `2026-10-22T10:00:00+09:00` / age_days `0.65`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “PHPにおける複数の任意のコー�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T09:12:00+00:00` / age_days `0.3`
+- Published: `2026-10-22T09:12:00+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “PHPにおける複数の任意のコー�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T09:00:00+09:00` / age_days `0.68`
+- Published: `2026-10-22T09:00:00+09:00` / age_days `0.7`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “PHPにおける複数の任意のコー�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T08:41:25+00:00` / age_days `0.32`
+- Published: `2026-10-22T08:41:25+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: cvss, 10, cvss, security high-signal: cvss, 10, cvss, cvss, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://www.itmedia.co.jp/news/article/2610/22/2000002501/
-
-### Big Tech’s thirst for water is sparking a global resistance
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-22T10:00:00+00:00` / age_days `0.26`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
-- Quelle: https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 
 END OF DOCUMENT
