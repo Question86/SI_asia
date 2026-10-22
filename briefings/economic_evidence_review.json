@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T08:42:00+00:00",
+  "generated_at": "2026-10-22T08:57:23+00:00",
   "fx_as_of": null,
-  "candidate_count": 2205,
+  "candidate_count": 2207,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2205
+    "pending": 2207
   },
   "coverage_warning": null,
   "candidates": [
@@ -38907,6 +38907,48 @@
       "snippet": "me\\\":\\\"Next.MetadataOutlet\\\",\\\"children\\\":\\\"$@a\\\"}]}]]}],{},null,false,null]},null,false,null]},null,false,\\\"$b\\\"]},null,false,\\\"$b\\\"]},null,false,null]},null,false,null],[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$Lc\\\",null,{\\\"children\\\":\\\"$Ld\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$Le\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$9\\\",null,{\\\"n",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://note.com/lytton_life/n/n838e58f5aff8"
+    },
+    {
+      "amount_native": 1.0,
+      "amount_usd": 1.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_18abf88be0734cdf92a7",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_32497da1e25c9bec7236",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-22T08:57:20+00:00",
+      "overlap_group_suggestion": "evt_32497da1e25c9bec7236:unknown:a2b8b3e44f2d",
+      "review_status": "pending",
+      "snippet": "m のログを日別に数えるとき、 21-Oct-2026 形式の日付を文字列のまま並べ替えると、月の順になりません。 tail で切ると直近の 10 月が落ちます。 # NG: 日付が文字列順に並び、tail で 10 月の行が落ちることがある grep 'signal 11' /var/log/php-fpm/error.log | awk '{print $1}' | tr -d '[' \\ | sort | uniq -c | tail # OK: 見たい月で絞ってから数える grep 'signal 11' /var/log/php-fpm/error.log | grep 'Oct-2026' \\ | awk '{print $1}' | tr -d '[' | sort | uniq -c 報告を書く前に",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
+      "amount_native": 1.0,
+      "amount_usd": 1.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_d8e391fe8d52590db992",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_32497da1e25c9bec7236",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-22T08:57:20+00:00",
+      "overlap_group_suggestion": "evt_32497da1e25c9bec7236:unknown:f035a0e16951",
+      "review_status": "pending",
+      "snippet": "ar/log/php-fpm/error.log | awk '{print $1}' | tr -d '[' \\ | sort | uniq -c | tail # OK: 見たい月で絞ってから数える grep 'signal 11' /var/log/php-fpm/error.log | grep 'Oct-2026' \\ | awk '{print $1}' | tr -d '[' | sort | uniq -c 報告を書く前に気付いて、数え直しました。 日付が変わるころ：Remi に 7.4 の更新が出ていた PHP 7.4 を RPM で入れている環境の多くは、Remi のリポジトリ（ rpms.remirepo.net ）を使っています。php.net の告知は、このリポジトリについてこう書いていま",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 0.34,
