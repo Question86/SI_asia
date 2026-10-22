@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T11:29:04+00:00_
+_Generiert: 2026-10-22T11:43:12+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+50 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -65,6 +65,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: The PHP Groupから、PHPの2件の脆弱性（CVE-2026-109618、CVE-2026-109619）に対してアドバイザリが公開されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.9 - 85 km NNW of Curup, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42q)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-22T11:31:57.040+00:00`, fetched `2026-10-22T11:42:43+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-22 10:57:52 UTC 2026-10-22 10:57:52 UTC at epicenter Location 2.804°S 102.127°E Depth 135.26 km (84.05 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **[UPDATE] [hoch] Mozilla Produkte (Thunderbird, Firefox ESR und Firefox): Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4064)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
