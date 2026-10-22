@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-22T03:17:40Z",
+  "generated_at": "2026-10-22T04:19:53Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 24,
+    "dynamics": 30,
     "bands": {
       "extreme": 2,
       "krass": 3,
       "strong": 5,
-      "watch": 3,
-      "quiet": 11
+      "watch": 7,
+      "quiet": 13
     },
     "bands_after_gate_recheck": {
       "strong": 10,
-      "watch": 3,
-      "quiet": 11
+      "watch": 7,
+      "quiet": 13
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://e27.co/how-i-decide-what-to-fix-in-my-ai-video-workflow-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T03:00:07+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -50,7 +50,7 @@
       "url": "https://e27.co/southeast-asias-sellers-spent-a-decade-learning-to-sell-to-people-now-they-have-to-sell-to-ai-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:00:46+00:00",
-      "age_days": 0.1,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -78,7 +78,7 @@
       "url": "https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:00:30+00:00",
-      "age_days": 0.1,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security",
@@ -108,7 +108,7 @@
       "url": "https://jvn.jp/vu/JVNVU99905564/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T10:30:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -134,7 +134,7 @@
       "url": "https://jvn.jp/vu/JVNVU91023667/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T10:00:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -160,7 +160,7 @@
       "url": "https://jvn.jp/vu/JVNVU91196958/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T09:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -186,7 +186,7 @@
       "url": "https://e27.co/southeast-asias-sellers-spent-a-decade-learning-to-sell-to-people-now-they-have-to-sell-to-ai-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:34:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -213,7 +213,7 @@
       "url": "https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:34:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -240,7 +240,7 @@
       "url": "https://jvn.jp/vu/JVNVU99905564/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T02:46:32+00:00",
-      "age_days": 1.02,
+      "age_days": 1.06,
       "topics": [
         "security"
       ],
@@ -266,7 +266,7 @@
       "url": "https://jvn.jp/vu/JVNVU91023667/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T01:34:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -290,7 +290,7 @@
       "url": "https://jvn.jp/vu/JVNVU91196958/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T07:51:17+00:00",
-      "age_days": 33.81,
+      "age_days": 33.85,
       "topics": [
         "general"
       ],
@@ -307,7 +307,7 @@
       "why": [
         "momentum delta +3",
         "high terms: 10",
-        "aging penalty -4.5 for 33.8d old signal",
+        "aging penalty -4.5 for 33.9d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
@@ -317,7 +317,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2150161.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T01:34:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -338,11 +338,62 @@
       "summary": ""
     },
     {
+      "title": "AI took perfect notes. Then it ruined the deck",
+      "url": "https://e27.co/ai-took-perfect-notes-then-it-ruined-the-deck-20261018/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-22T04:07:02+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.6 - 97 km SW of El Palmarcito, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40r",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-22T03:54:26.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-22 03:35:17 UTC 2026-10-22 03:35:17 UTC at epicenter Location 14.861°N 93.839°W Depth 49.13 km (30.53 mi)"
+    },
+    {
       "title": "メンテナンス中に503を返すだけでは足りない Google公式ドキュメントで読む必須・推奨・禁止事項 - SEMリサーチ",
       "url": "https://www.sem-r.com/entry/20261022/1792605105",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T00:42:13+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -366,7 +417,58 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T02:04:46+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "We audited our own backlinks. Four domains linked to us, and two of them counted",
+      "url": "https://e27.co/we-audited-our-own-backlinks-four-domains-linked-to-us-and-two-of-them-counted-20261018/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-22T02:04:46+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: domain",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.6 - 97 km SW of El Palmarcito, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40r",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-22T03:56:45+00:00",
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -376,48 +478,48 @@
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +1"
       ],
       "summary": ""
     },
     {
-      "title": "We audited our own backlinks. Four domains linked to us, and two of them counted",
-      "url": "https://e27.co/we-audited-our-own-backlinks-four-domains-linked-to-us-and-two-of-them-counted-20261018/",
+      "title": "AI took perfect notes. Then it ruined the deck",
+      "url": "https://e27.co/ai-took-perfect-notes-then-it-ruined-the-deck-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-22T02:04:46+00:00",
-      "age_days": 0.05,
+      "published_at": "2026-10-22T04:00:58+00:00",
+      "age_days": 0.01,
       "topics": [
-        "ai"
+        "ai",
+        "macro"
       ],
-      "dynamics_score": 10.5,
+      "dynamics_score": 11.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
-        "high terms: domain",
+        "high terms: 10",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": ""
+      "summary": "I knew within the first two minutes of glancing through the deck. A strategy workshop for our senior stakeholders had just wrapped. The session itself was good: the partner facilitating it followed our brief, the debate was sharp, and an AI tool captured the notes. When the deck arrived, I opened it and felt that […]…"
     },
     {
       "title": "「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／",
       "url": "https://forest.watch.impress.co.jp/docs/news/2150161.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T23:31:06+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -441,11 +543,11 @@
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T17:38:29+00:00",
-      "age_days": 38.4,
+      "age_days": 38.45,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 9.41,
+      "dynamics_score": 9.39,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -465,11 +567,37 @@
       "summary": ""
     },
     {
+      "title": "How I decide what to fix in my AI video workflow",
+      "url": "https://e27.co/how-i-decide-what-to-fix-in-my-ai-video-workflow-20261018/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-22T03:01:46+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T19:34:57+00:00",
-      "age_days": 0.32,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "macro"
@@ -492,37 +620,11 @@
       "summary": "最近は動画で説明資料を作っている アプリの仕組みをお客さんに説明するとき、構成図とかHTML・Markdownで、説明するのが一般的かと思いますが 最近はjavascriptを用いて、Claudeで動画を生成しやすくなったので、アプリの操作と、その裏で起きている処理を交互に見せる解説動画を作って説明に使っています。 めちゃくち..."
     },
     {
-      "title": "How I decide what to fix in my AI video workflow",
-      "url": "https://e27.co/how-i-decide-what-to-fix-in-my-ai-video-workflow-20261018/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-22T03:01:46+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
       "url": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T14:50:46+00:00",
-      "age_days": 0.52,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -542,11 +644,38 @@
       "summary": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定 Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsr..."
     },
     {
+      "title": "Taiwan kills Grab’s US$600M foodpanda deal, and Uber’s shadow is the reason",
+      "url": "https://e27.co/taiwan-kills-grabs-us600m-foodpanda-deal-and-ubers-shadow-is-the-reason-20261022/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-22T03:52:44+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Grab wanted Taiwan to be its first market outside Southeast Asia. Taiwan’s competition regulator has told it, in effect, that it is not really an outsider. Taiwan’s Fair Trade Commission (TFTC) on Wednesday blocked Germany-based Delivery Hero’s planned sale of foodpanda’s Taiwan business to Grab, scuttling a US$600 mi…"
+    },
+    {
       "title": "We audited our own backlinks. Four domains linked to us, and two of them counted",
       "url": "https://e27.co/we-audited-our-own-backlinks-four-domains-linked-to-us-and-two-of-them-counted-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T02:00:29+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -568,15 +697,41 @@
       "summary": "Our company builds software in Ho Chi Minh City. Our website has been live for over a year, and for most of that time we assumed our directory listings were doing something for us. On 15 August 2026 I measured it. Four domains link to our site. Two of them pass any ranking value at […] The post We audited our own back…"
     },
     {
+      "title": "Taiwan kills Grab’s US$600M foodpanda deal, and Uber’s shadow is the reason",
+      "url": "https://e27.co/taiwan-kills-grabs-us600m-foodpanda-deal-and-ubers-shadow-is-the-reason-20261022/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-22T03:56:45+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "デジタル庁、「神Excel」対策ツールを公開 AIと組み合わせたデータ整備方法も紹介",
       "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002475/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T01:14:13+00:00",
-      "age_days": 30.09,
+      "age_days": 30.13,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 2.82,
+      "dynamics_score": 2.8,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -599,7 +754,7 @@
       "url": "https://www.sem-r.com/entry/20261022/1792605105",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T18:03:07+00:00",
-      "age_days": 0.39,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -625,7 +780,7 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002475/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T12:22:50+00:00",
-      "age_days": 0.62,
+      "age_days": 0.66,
       "topics": [
         "ai"
       ],
