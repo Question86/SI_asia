@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T14:24:02+00:00",
-  "run_id": "2026-10-22T14:24:02+00:00",
+  "generated_at": "2026-10-22T14:38:16+00:00",
+  "run_id": "2026-10-22T14:38:16+00:00",
   "date": "2026-10-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 60
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 60,
-    "displayed_findings": 60,
+    "new_relevant_findings": 1,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 0,
     "medium": 19,
-    "observe": 41,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -1383,6 +1383,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7aec5e55ec87f9e653b0"
+      },
+      {
+        "title": "いやマジで総理大臣がPHP脆弱性対応について発信してくれたおかげで社内への説明がクソ楽だった…「総理自ら発信するレベルですよ？」で反論・苦情をほとんど封じ込めた",
+        "url": "https://togetter.com/li/2761457",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-22T08:30:07+00:00",
+        "fetched_at": "2026-10-22T14:37:46+00:00",
+        "summary": "どら @Drumaster いやマジで総理大臣がPHP脆弱性対応について発信してくれたおかげで社内への説明がクソ楽だった…「総理自ら発信するレベルですよ？？？ニュース見てないんですか？？？」で反論苦情殆ど封じることできた… 2026-10-22 12:14:16 高市早苗 @takaichi_sanae 皆様に、今夜に対応して頂きたい大至急のお願いで...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "17a87831fe78ee03403c"
       },
       {
         "title": "高市総理、サイバーセキュリティの本を出していた しかも“PHP”から",
@@ -2888,6 +2909,27 @@
       "id": "7aec5e55ec87f9e653b0"
     },
     {
+      "title": "いやマジで総理大臣がPHP脆弱性対応について発信してくれたおかげで社内への説明がクソ楽だった…「総理自ら発信するレベルですよ？」で反論・苦情をほとんど封じ込めた",
+      "url": "https://togetter.com/li/2761457",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-22T08:30:07+00:00",
+      "fetched_at": "2026-10-22T14:37:46+00:00",
+      "summary": "どら @Drumaster いやマジで総理大臣がPHP脆弱性対応について発信してくれたおかげで社内への説明がクソ楽だった…「総理自ら発信するレベルですよ？？？ニュース見てないんですか？？？」で反論苦情殆ど封じることできた… 2026-10-22 12:14:16 高市早苗 @takaichi_sanae 皆様に、今夜に対応して頂きたい大至急のお願いで...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "17a87831fe78ee03403c"
+    },
+    {
       "title": "高市総理、サイバーセキュリティの本を出していた しかも“PHP”から",
       "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002522/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3037,146 +3079,25 @@
   ],
   "new_findings": [
     {
-      "title": "Multiples vulnérabilités dans Microsoft Office (16 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1331/",
-      "source": "CERT-FR Avis de sécurité",
+      "title": "いやマジで総理大臣がPHP脆弱性対応について発信してくれたおかげで社内への説明がクソ楽だった…「総理自ら発信するレベルですよ？」で反論・苦情をほとんど封じ込めた",
+      "url": "https://togetter.com/li/2761457",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "fetched_at": "2026-10-22T14:23:31+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "published_at": "2026-10-22T08:30:07+00:00",
+      "fetched_at": "2026-10-22T14:37:46+00:00",
+      "summary": "どら @Drumaster いやマジで総理大臣がPHP脆弱性対応について発信してくれたおかげで社内への説明がクソ楽だった…「総理自ら発信するレベルですよ？？？ニュース見てないんですか？？？」で反論苦情殆ど封じることできた… 2026-10-22 12:14:16 高市早苗 @takaichi_sanae 皆様に、今夜に対応して頂きたい大至急のお願いで...",
       "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Microsoft",
-        "sécurité",
-        "vulnérabilité"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a4162569ed77418c1107"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Microsoft (16 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1332/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "fetched_at": "2026-10-22T14:23:31+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Microsoft",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7bb3da6e1c0bc5355298"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Mattermost (16 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1328/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "fetched_at": "2026-10-22T14:23:31+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité",
-        "éditeur"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1a1ee647d1c645265110"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Google Chrome (16 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1329/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "fetched_at": "2026-10-22T14:23:31+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité",
-        "éditeur"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "89d81dbd824fd7966835"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Moxa AIG-302 Series (16 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1327/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "fetched_at": "2026-10-22T14:23:31+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Moxa AIG-302 Series. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6f87f5a89d3cf8c30d45"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Traefik (16 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1330/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "fetched_at": "2026-10-22T14:23:31+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3b6aa3d4b1aa79ed7393"
+      "id": "17a87831fe78ee03403c"
     }
   ],
   "source_errors": [],
