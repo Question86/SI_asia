@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T23:36:35+00:00",
+  "generated_at": "2026-10-22T23:44:33+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 85,
@@ -10,46 +10,6 @@
     "dominance_penalized": 16
   },
   "clusters": [
-    {
-      "key": "title:custom-skills-agents-mcp-servers-usage-metrics-api",
-      "title": "Custom skills, agents, and MCP servers in usage metrics API",
-      "sources": [
-        "GitHub Changelog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api"
-      ],
-      "finding_count": 1,
-      "max_score": 18,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 27.5,
-      "hot": true,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 23.1,
-      "ranking_score": 27.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-22T23:36:35+00:00"
-    },
     {
       "key": "cve:CVE-2026-109618",
       "title": "PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）",
@@ -72,20 +32,20 @@
       "cross_source_confirmed": true,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 26.5,
+      "network_score": 26.44,
       "hot": true,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 30.3,
-      "ranking_score": 26.5,
+      "ranking_score": 26.44,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 8.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.0,
+      "baseline_bonus": 0.94,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -93,6 +53,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-21T02:46:32+00:00"
+    },
+    {
+      "key": "title:custom-skills-agents-mcp-servers-usage-metrics-api",
+      "title": "Custom skills, agents, and MCP servers in usage metrics API",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api"
+      ],
+      "finding_count": 1,
+      "max_score": 18,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 25.0,
+      "hot": true,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 20.1,
+      "ranking_score": 25.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-22T23:36:35+00:00"
     },
     {
       "key": "title:who-referees-agents-enterprises-aren-sure-report-shows",
@@ -1323,18 +1323,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 9.76,
+      "network_score": 9.77,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.3,
-      "ranking_score": 9.76,
+      "ranking_score": 9.77,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.26,
+      "baseline_bonus": 0.27,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -2786,7 +2786,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-22T23:36:36Z",
+    "generated_at": "2026-10-22T23:44:33Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
