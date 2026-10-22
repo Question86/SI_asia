@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-22T07:58:01+00:00_
+_Generated: 2026-10-22T08:16:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `33`
+- findings: `34`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-22T07:58:01+00:00_
 - url: https://github.com/vllm-project/vllm
 - summary: A high-throughput and memory-efficient inference and serving engine for LLMs https://vllm.ai Easy, fast, and cheap LLM serving for everyone | Documentation | Blog | Paper | Twitter/X | User Forum | Developer Slack | 🔥 We have built a vLLM website to help you…
 
-### 8. PHP發布安全性更新修補2項可導致遠端程式碼執行之嚴重漏洞，國際資安機構籲儘速更新
-- source: TWCERT/CC Security News RSS
-- score: `9`
-- published: `2026-10-22T06:19:00+00:00`
-- url: https://www.twcert.org.tw/tw/cp-104-11308-ed8b8-1.html
-- summary: PHP官方於2026年10月21日發布安全性更新，修補CVE-2026-109618及CVE-2026-109619兩項嚴重漏洞，CVSS v4.0基礎分數皆為9.2，未經身分驗證之攻擊者可能利用漏洞執行遠端程式碼。TWCERT/CC已發布 漏洞警訊公告 ，美國網路安全暨基礎設施安全局（CISA）、歐盟電腦緊急應變小組（CERT-EU）及英國國家網路安全中心（NCSC）等機構相繼發布警告，呼籲使用PHP之單位立即完成更新；若無法立即更新，應考慮隔離對外系統或暫停服務。 PHP 官方公告 PHP官方於2026年10…
+### 8. AI・デジタル改革推進会議（第1回）の議事次第および資料を掲載しました
+- source: Japan Digital Agency News RSS
+- score: `10`
+- published: `2026-10-22T07:59:37+00:00`
+- url: https://www.digital.go.jp/councils/ai_digital/1f3aa34a-786d-4b56-99a4-469f8f933f1c
+- summary: AI・デジタル改革推進会議（第1回）の議事次第および資料を掲載しました
 
 END OF DOCUMENT
