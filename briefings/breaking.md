@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-22T11:52:36+00:00_
+_Generiert: 2026-10-22T12:00:25+00:00_
 
 ## PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）
 
-- Ranking Score: `24.15`
+- Ranking Score: `24.04`
 - Raw Network Score: `26.2`
 - Max Monitor Score: `16`
 - Reichweite: `specialist` / `2.5`
