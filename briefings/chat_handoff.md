@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-22T08:16:14+00:00_
+_Generated: 2026-10-22T08:41:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `36`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-22T08:16:14+00:00_
 - url: https://www.twcert.org.tw/tw/cp-132-11307-ae4b3-1.html
 - summary: 新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞
 
-### 6. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる
+### 6. 「GitLab」に深刻度“最大”の脆弱性 認証なしで任意のコード実行の恐れ、修正版適用を CVSS「10.0」
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-22T03:55:13+00:00`
+- url: https://www.itmedia.co.jp/news/article/2610/22/2000002501/
+- summary: 米GitLabは10月21日（現地時間）、開発プラットフォーム「GitLab」に深刻（Critical）な脆弱性（CVE-2026-110264）が見つかったと発表し、修正版を公開した。CVSSスコアは最大の「10.0」。特定の条件下で、認証されていないユーザーがGitLabサーバ上で任意のコードを実行できる可能性がある。 12日に公表したCVSS 10.0の...
+
+### 7. 仕組みを理解する動画を、Claude Codeに作らせると便利すぎる
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-10-21T19:34:57+00:00`
 - url: https://zenn.dev/explaza/articles/c749042ecbe232
 - summary: 最近は動画で説明資料を作っている アプリの仕組みをお客さんに説明するとき、構成図とかHTML・Markdownで、説明するのが一般的かと思いますが 最近はjavascriptを用いて、Claudeで動画を生成しやすくなったので、アプリの操作と、その裏で起きている処理を交互に見せる解説動画を作って説明に使っています。 めちゃくち...
 
-### 7. vllm-project/vllm
+### 8. vllm-project/vllm
 - source: GitHub Trending RSS All Languages Daily
 - score: `11`
 - published: `None`
 - url: https://github.com/vllm-project/vllm
 - summary: A high-throughput and memory-efficient inference and serving engine for LLMs https://vllm.ai Easy, fast, and cheap LLM serving for everyone | Documentation | Blog | Paper | Twitter/X | User Forum | Developer Slack | 🔥 We have built a vLLM website to help you…
-
-### 8. AI・デジタル改革推進会議（第1回）の議事次第および資料を掲載しました
-- source: Japan Digital Agency News RSS
-- score: `10`
-- published: `2026-10-22T07:59:37+00:00`
-- url: https://www.digital.go.jp/councils/ai_digital/1f3aa34a-786d-4b56-99a4-469f8f933f1c
-- summary: AI・デジタル改革推進会議（第1回）の議事次第および資料を掲載しました
 
 END OF DOCUMENT
