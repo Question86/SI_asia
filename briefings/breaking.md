@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-22T17:43:39+00:00_
+_Generiert: 2026-10-22T18:00:24+00:00_
 
 ## How bug bounty sharpens one researcher’s security skills
 
