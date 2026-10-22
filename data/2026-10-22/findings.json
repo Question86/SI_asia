@@ -246,6 +246,29 @@
     "id": "51efeb5abd3d00c12d2f"
   },
   {
+    "title": "[UPDATE] [hoch] Mozilla Produkte (Thunderbird, Firefox ESR und Firefox): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4064",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-22T11:15:52+00:00",
+    "fetched_at": "2026-10-22T11:28:35+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Thunderbird, Mozilla Firefox ESR und Mozilla Firefox ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9774b6f3c002feaedca0"
+  },
+  {
     "title": "LIFF SDKにおけるクロスサイトスクリプティングの脆弱性",
     "url": "https://jvn.jp/vu/JVNVU91023667/",
     "source": "JVN Japan Vulnerability Notes",
@@ -837,6 +860,28 @@
       "LOW"
     ],
     "id": "54b0ebd3044c99909b05"
+  },
+  {
+    "title": "PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside",
+    "url": "https://inside.pixiv.blog/2026/10/22/193321",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-22T10:38:41+00:00",
+    "fetched_at": "2026-10-22T11:28:35+00:00",
+    "summary": "こんにちは、Platform Division Infrastructure Unitのpicopicoです。 2026年10月21日、PHPに深刻な脆弱性（通称PHP2Shell）が見つかり、緊急のセキュリティリリースが予告されました。今回の脆弱性への対応にあたられた皆さま、そして現在も対応を続けている皆さまに、心より敬意を表します。 ピクシブでは影響を受ける...",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "511eeb6327db23749707"
   },
   {
     "title": "Scouter enters Singapore’s crowded cyber market with a “listen first” promise",
