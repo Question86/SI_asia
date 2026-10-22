@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T19:44:07+00:00",
+  "generated_at": "2026-10-22T19:52:14+00:00",
   "fx_as_of": null,
-  "candidate_count": 2211,
+  "candidate_count": 2213,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2211
+    "pending": 2213
   },
   "coverage_warning": null,
   "candidates": [
@@ -30710,6 +30710,48 @@
       "snippet": ". It costs less per token than Opus 5 and uses fewer tokens per task, which nets out to a 40% drop in costs. Pricing Prices per 1M tokens Claude Opus 5.5 Claude Opus 5 Cache reads $0.20 $0.50 Input tokens $4 $5 Output tokens $20 $25 Cache writes $5 $6.25 Fast mode for Opus 5.5 is also available in Claude Code and the Claude Platform with up to 2.5x speed. It cost",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.anthropic.com/claude-opus-5-5"
+    },
+    {
+      "amount_native": 0.1,
+      "amount_usd": 0.1,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_0401a2a40ae258bff27d",
+      "component_suggestion": "real_resource",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_9ed1bb780b2101265c00",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-22T19:52:05+00:00",
+      "overlap_group_suggestion": "evt_9ed1bb780b2101265c00:real_resource:e891c2605810",
+      "review_status": "pending",
+      "snippet": "ecisions Playground ⁠ (opens in a new window) with your own text or images, or follow the developer guide ⁠ (opens in a new window) to make your first request. Decisions API costs $0.10 per million input tokens. Cached input costs $0.01 per million tokens. For 30-minute and 12-hour cached writes, read our pricing guide. ⁠ (opens in a new window) You only pay for i",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://openai.com/index/decisions-api",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
+      "amount_native": 0.01,
+      "amount_usd": 0.01,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_35e78abc57b90e9b98f5",
+      "component_suggestion": "real_resource",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_9ed1bb780b2101265c00",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-22T19:52:05+00:00",
+      "overlap_group_suggestion": "evt_9ed1bb780b2101265c00:real_resource:b6c689a57956",
+      "review_status": "pending",
+      "snippet": "your own text or images, or follow the developer guide ⁠ (opens in a new window) to make your first request. Decisions API costs $0.10 per million input tokens. Cached input costs $0.01 per million tokens. For 30-minute and 12-hour cached writes, read our pricing guide. ⁠ (opens in a new window) You only pay for input tokens: there are no output-token charges. Reg",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://openai.com/index/decisions-api",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 13200000000.0,
