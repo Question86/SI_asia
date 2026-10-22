@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-22T09:16:47Z",
+  "generated_at": "2026-10-22T09:35:35Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU99905564/",
       "source": "JVN Japan Vulnerability Notes, TWCERT/CC Security News RSS",
       "published_at": "2026-10-21T02:46:32+00:00",
-      "age_days": 1.27,
+      "age_days": 1.28,
       "topics": [
         "security"
       ],
@@ -42,7 +42,7 @@
       "url": "https://e27.co/southeast-asias-sellers-spent-a-decade-learning-to-sell-to-people-now-they-have-to-sell-to-ai-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:00:46+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -70,7 +70,7 @@
       "url": "https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:00:30+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "security",
@@ -96,11 +96,39 @@
       "summary": "For years, the small business owner in Penang or Cebu has relied on a quiet, unspoken form of security: obscurity. Who would bother hacking a family-run online furniture store when there are banks to rob? The logic was not wrong. Breaking in took skill, time and patience, and skilled criminals price their time like co…"
     },
     {
+      "title": "2026-019: Critical Vulnerability in GitLab Community and Enterprise Editions",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-019/",
+      "source": "CERT-EU Security Advisories",
+      "published_at": "2026-10-22T11:14:22+00:00",
+      "age_days": 0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, exploitation, critical",
+        "security high-signal: active, exploitation, critical, unauthenticated",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "On 21 October 2026, GitLab published a security advisory addressing several vulnerabilities among which a critical flaw that could allow an unauthenticated user to execute arbitrary code on a GitLab server. CERT-EU recommends organisations to update affected assets as soon as possible, prioritising internet facing ass…"
+    },
+    {
       "title": "PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）",
       "url": "https://jvn.jp/vu/JVNVU99905564/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T10:30:00+09:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -126,7 +154,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0489",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 54.8,
+      "age_days": 54.81,
       "topics": [
         "security"
       ],
@@ -154,7 +182,7 @@
       "url": "https://jvn.jp/vu/JVNVU91023667/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T10:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -176,11 +204,38 @@
       "summary": "LINEヤフー株式会社が提供するLIFF SDKには、クロスサイトスクリプティングの脆弱性が存在します。"
     },
     {
+      "title": "Node.js發布安全性更新修補10項漏洞，其中CVE-2026-111497可導致遠端程式碼執行，籲儘速更新",
+      "url": "https://www.twcert.org.tw/tw/cp-104-11309-2266c-1.html",
+      "source": "TWCERT/CC Security News RSS",
+      "published_at": "2026-10-22T09:12:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Node.js官方於2026年10月21日發布安全性更新，針對22.x、24.x及26.x版本線共修補10項漏洞，其中4項為高風險，包含可導致遠端程式碼執行之Brotli解碼器越界寫入漏洞（CVE-2026-111497）。數位發展部資通安全署亦於10月22日發布 新聞稿 ，呼籲各機關與企業儘速完成更新。Node.js常見於後端服務、容器映像檔、網頁前端工具鏈及部分AI agent命令列工具中，建議企業盤點環境中之Node.js版本並儘速更新。 Node.js 官方公告 Node.js官方於2026年10月21日發布22.23.4、24.22.1及26.12.1版本，共修補10項漏洞，包含高風險4項、中風險3項及低風險3項。其中高…"
+    },
+    {
       "title": "ISC BINDにおける複数の脆弱性（2026年10月）",
       "url": "https://jvn.jp/vu/JVNVU91196958/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T09:00:00+09:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -206,7 +261,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002501/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T08:41:25+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -232,7 +287,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002501/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T03:55:13+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -258,7 +313,7 @@
       "url": "https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T01:12:57+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -278,61 +333,6 @@
         "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
       "summary": "2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。 修正パッチを速やかに適用することが困難な場合は、例えばウェブサイト等を一時的に停止させることも、リスクを低減させるための有効策の一つと考えられます。 (高市早苗 on X) PHP の任意コード実行の脆弱性 2 件、通称 php2shell（CVE-2026-10961..."
-    },
-    {
-      "title": "headroomlabs-ai/headroom",
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-10-22T06:35:06+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Who referees the AI agents? Enterprises aren’t sure, new report shows",
-      "url": "https://e27.co/who-referees-the-ai-agents-enterprises-arent-sure-new-report-shows-20261022/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-22T06:30:33+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code, 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Ask a room of enterprise executives whether they can keep their AI agents in line and most will nod. Ask them what happens when two of those agents disagree, and the room goes quiet. That, in essence, is the finding of a new report from OutSystems, the Lisbon-born low-code company that now markets itself as […] The po…"
     }
   ],
   "read_order": [

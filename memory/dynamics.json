@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-22T09:16:47Z",
+  "generated_at": "2026-10-22T09:35:35Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "extreme": 5,
-      "krass": 8,
-      "strong": 14,
-      "watch": 13
+      "extreme": 6,
+      "krass": 9,
+      "strong": 18,
+      "watch": 7
     },
     "bands_after_gate_recheck": {
-      "strong": 27,
-      "watch": 13
+      "strong": 33,
+      "watch": 7
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0489",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T06:35:51+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2730",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T06:10:51+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -70,7 +70,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4073",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T06:05:54+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -94,7 +94,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4072",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T06:05:53+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -118,7 +118,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4014",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T06:05:52+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -142,7 +142,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11308-ed8b8-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-10-22T06:19:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -167,7 +167,7 @@
       "url": "https://e27.co/scouter-enters-singapores-crowded-cyber-market-with-a-listen-first-promise-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T06:08:05+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security",
         "macro"
@@ -193,7 +193,7 @@
       "url": "https://e27.co/how-i-decide-what-to-fix-in-my-ai-video-workflow-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T03:00:07+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "macro"
@@ -219,7 +219,7 @@
       "url": "https://jvn.jp/vu/JVNVU99905564/",
       "source": "JVN Japan Vulnerability Notes, TWCERT/CC Security News RSS",
       "published_at": "2026-10-21T02:46:32+00:00",
-      "age_days": 1.27,
+      "age_days": 1.28,
       "topics": [
         "security"
       ],
@@ -246,7 +246,7 @@
       "url": "https://e27.co/southeast-asias-sellers-spent-a-decade-learning-to-sell-to-people-now-they-have-to-sell-to-ai-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:00:46+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -274,7 +274,7 @@
       "url": "https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:00:30+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "security",
@@ -300,11 +300,39 @@
       "summary": "For years, the small business owner in Penang or Cebu has relied on a quiet, unspoken form of security: obscurity. Who would bother hacking a family-run online furniture store when there are banks to rob? The logic was not wrong. Breaking in took skill, time and patience, and skilled criminals price their time like co…"
     },
     {
+      "title": "2026-019: Critical Vulnerability in GitLab Community and Enterprise Editions",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-019/",
+      "source": "CERT-EU Security Advisories",
+      "published_at": "2026-10-22T11:14:22+00:00",
+      "age_days": 0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, exploitation, critical",
+        "security high-signal: active, exploitation, critical, unauthenticated",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "On 21 October 2026, GitLab published a security advisory addressing several vulnerabilities among which a critical flaw that could allow an unauthenticated user to execute arbitrary code on a GitLab server. CERT-EU recommends organisations to update affected assets as soon as possible, prioritising internet facing ass…"
+    },
+    {
       "title": "PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）",
       "url": "https://jvn.jp/vu/JVNVU99905564/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T10:30:00+09:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -330,7 +358,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0489",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 54.8,
+      "age_days": 54.81,
       "topics": [
         "security"
       ],
@@ -358,7 +386,7 @@
       "url": "https://jvn.jp/vu/JVNVU91023667/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T10:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -380,11 +408,38 @@
       "summary": "LINEヤフー株式会社が提供するLIFF SDKには、クロスサイトスクリプティングの脆弱性が存在します。"
     },
     {
+      "title": "Node.js發布安全性更新修補10項漏洞，其中CVE-2026-111497可導致遠端程式碼執行，籲儘速更新",
+      "url": "https://www.twcert.org.tw/tw/cp-104-11309-2266c-1.html",
+      "source": "TWCERT/CC Security News RSS",
+      "published_at": "2026-10-22T09:12:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Node.js官方於2026年10月21日發布安全性更新，針對22.x、24.x及26.x版本線共修補10項漏洞，其中4項為高風險，包含可導致遠端程式碼執行之Brotli解碼器越界寫入漏洞（CVE-2026-111497）。數位發展部資通安全署亦於10月22日發布 新聞稿 ，呼籲各機關與企業儘速完成更新。Node.js常見於後端服務、容器映像檔、網頁前端工具鏈及部分AI agent命令列工具中，建議企業盤點環境中之Node.js版本並儘速更新。 Node.js 官方公告 Node.js官方於2026年10月21日發布22.23.4、24.22.1及26.12.1版本，共修補10項漏洞，包含高風險4項、中風險3項及低風險3項。其中高…"
+    },
+    {
       "title": "ISC BINDにおける複数の脆弱性（2026年10月）",
       "url": "https://jvn.jp/vu/JVNVU91196958/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T09:00:00+09:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -410,7 +465,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002501/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T08:41:25+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -436,7 +491,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002501/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T03:55:13+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -462,7 +517,7 @@
       "url": "https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T01:12:57+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -488,7 +543,7 @@
       "url": "https://github.com/headroomlabs-ai/headroom",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-22T06:35:06+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -515,7 +570,7 @@
       "url": "https://e27.co/who-referees-the-ai-agents-enterprises-arent-sure-new-report-shows-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T06:30:33+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -543,7 +598,7 @@
       "url": "https://github.com/headroomlabs-ai/headroom",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-22T06:34:32+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -566,11 +621,40 @@
       "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. https://docs.headroomlabs.ai/docs Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents /…"
     },
     {
+      "title": "2026-019: Critical Vulnerability in GitLab Community and Enterprise Editions",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-019/",
+      "source": "CERT-EU Security Advisories",
+      "published_at": "2026-09-10T08:29:02+00:00",
+      "age_days": 42.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 8.13,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 8.13",
+        "high terms: critical, rce",
+        "security high-signal: critical, rce",
+        "aging penalty -7.4 for 42.0d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Who referees the AI agents? Enterprises aren’t sure, new report shows",
       "url": "https://e27.co/who-referees-the-ai-agents-enterprises-arent-sure-new-report-shows-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T06:35:06+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -597,7 +681,7 @@
       "url": "https://e27.co/southeast-asias-sellers-spent-a-decade-learning-to-sell-to-people-now-they-have-to-sell-to-ai-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:34:29+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -624,7 +708,7 @@
       "url": "https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:34:29+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -647,11 +731,38 @@
       "summary": ""
     },
     {
+      "title": "Node.js發布安全性更新修補10項漏洞，其中CVE-2026-111497可導致遠端程式碼執行，籲儘速更新",
+      "url": "https://www.twcert.org.tw/tw/cp-104-11309-2266c-1.html",
+      "source": "TWCERT/CC Security News RSS",
+      "published_at": "2026-10-22T09:28:48+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "high terms: 10",
+        "security high-signal: 10",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "php2shell: Updates trudeln ein, viele Webseiten offline, Angriffe laufen",
       "url": "https://www.heise.de/news/php2shell-Updates-trudeln-ein-viele-Webseiten-offline-Angriffe-laufen-11496366.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-22T07:23:00.000+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security",
         "macro"
@@ -677,7 +788,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11307-ae4b3-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-22T03:59:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -701,7 +812,7 @@
       "url": "https://jvn.jp/vu/JVNVU91023667/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T01:34:29+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -721,11 +832,65 @@
       "summary": ""
     },
     {
+      "title": "Taiwan Pavilion at SWITCH 2026: Meet the 33 Taiwanese startups heading to Singapore",
+      "url": "https://e27.co/taiwan-pavilion-at-switch-2026-meet-the-33-taiwanese-startups-heading-to-singapore-20261022/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-22T09:28:48+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 21.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Taiwan Pavilion at SWITCH 2026: Meet the 33 Taiwanese startups heading to Singapore",
+      "url": "https://e27.co/taiwan-pavilion-at-switch-2026-meet-the-33-taiwanese-startups-heading-to-singapore-20261022/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-22T09:17:13+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "From October 27 to 29, 33 Taiwanese startups will exhibit at the Taiwan Pavilion at SWITCH 2026 in Singapore (Booth Q01, Sands Expo & Convention Centre), as part of Taiwan Tech Week in Singapore. The delegation is led by Startup Island TAIWAN, Taiwan’s national startup brand backed by the National Development Council…"
+    },
+    {
       "title": "ISC BINDにおける複数の脆弱性（2026年10月）",
       "url": "https://jvn.jp/vu/JVNVU91196958/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T07:51:17+00:00",
-      "age_days": 34.06,
+      "age_days": 34.07,
       "topics": [
         "general"
       ],
@@ -752,7 +917,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2150161.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T01:34:29+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -777,7 +942,7 @@
       "url": "https://github.com/vllm-project/vllm",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-22T06:34:32+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -803,7 +968,7 @@
       "url": "https://e27.co/hong-kong-and-taiwan-founders-are-cheering-the-ai-boom-southeast-asia-isnt-in-the-room-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T05:38:58+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -829,7 +994,7 @@
       "url": "https://e27.co/scouter-enters-singapores-crowded-cyber-market-with-a-listen-first-promise-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T06:35:06+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security",
         "macro"
@@ -854,7 +1019,7 @@
       "url": "https://www.digital.go.jp/press/542b23b5-1fca-44c0-9e31-ea0079535b1a",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-22T06:35:06+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -878,7 +1043,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u423",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-22T09:03:20.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -897,154 +1062,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-22 08:34:18 UTC 2026-10-22 08:34:18 UTC at epicenter Location 53.796°N 160.267°E Depth 61.06 km (37.94 mi)"
-    },
-    {
-      "title": "M 4.6 - 49 km NE of Yigo Village, Guam",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u41z",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-22T08:39:23.358+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "DYFI? - III Time 2026-10-22 08:06:35 UTC 2026-10-22 08:06:35 UTC at epicenter Location 13.847°N 145.218°E Depth 99.23 km (61.66 mi)"
-    },
-    {
-      "title": "M 4.8 - 86 km S of Kokopo, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u417",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-22T05:40:49.040+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-22 05:23:59 UTC 2026-10-22 05:23:59 UTC at epicenter Location 5.130°S 152.247°E Depth 57.32 km (35.62 mi)"
-    },
-    {
-      "title": "M 4.8 - Reykjanes Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u411",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-22T05:16:10.040+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-22 04:44:17 UTC 2026-10-22 04:44:17 UTC at epicenter Location 56.966°N 34.094°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.6 - 97 km SW of El Palmarcito, Mexico",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40r",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-22T03:54:26.040+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-22 03:35:17 UTC 2026-10-22 03:35:17 UTC at epicenter Location 14.861°N 93.839°W Depth 49.13 km (30.53 mi)"
-    },
-    {
-      "title": "M 4.8 - 86 km S of Kokopo, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u417",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-22T05:51:01+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.8 - Reykjanes Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u411",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-22T05:25:53+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Xerox FreeFlow Print Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
