@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T01:34:46+00:00",
+  "generated_at": "2026-10-22T01:54:49+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -9898,6 +9898,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4fd96c5c8422212624b7",
+      "title": "LIFF SDKにおけるクロスサイトスクリプティングの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T01:34:29+00:00",
+      "last_seen_at": "2026-10-22T01:54:32+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_51505b7fa4ed3f9079ad",
       "title": "スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
       "event_classes": [
@@ -9928,7 +9945,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T07:51:17+00:00",
-      "last_seen_at": "2026-10-22T01:34:29+00:00",
+      "last_seen_at": "2026-10-22T01:54:32+00:00",
       "status": "active"
     },
     {
@@ -10816,23 +10833,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_4fd96c5c8422212624b7",
-      "title": "LIFF SDKにおけるクロスサイトスクリプティングの脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T01:34:29+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_2f5c3cffbb9951edd868",
       "title": "Southeast Asia startup funding finds a floor, but not a rebound",
       "event_classes": [
@@ -10965,7 +10965,7 @@
       "p90_usd": 2840000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:46:32+00:00",
-      "last_seen_at": "2026-10-22T01:34:29+00:00",
+      "last_seen_at": "2026-10-22T01:54:32+00:00",
       "status": "active"
     },
     {
@@ -11479,6 +11479,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8771f0a76dbbb1ca8460",
+      "title": "Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 122400.0,
+      "p50_usd": 12240000.0,
+      "p90_usd": 1224000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T01:34:29+00:00",
+      "last_seen_at": "2026-10-22T01:54:32+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_8f99d429361637e5e598",
       "title": "Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao",
       "event_classes": [
@@ -11511,6 +11528,23 @@
       "first_seen_at": "2026-09-29T23:41:39+00:00",
       "last_seen_at": "2026-09-29T23:56:49+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_b560235cfad2da40e1bb",
+      "title": "AI agents broke into 100 firms for pocket change. SEA’s online shops fit the target profile",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 122400.0,
+      "p50_usd": 12240000.0,
+      "p90_usd": 1224000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T01:34:29+00:00",
+      "last_seen_at": "2026-10-22T01:54:32+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_d4b6fa5a85355ed6bbd2",
@@ -11562,40 +11596,6 @@
       "first_seen_at": "2026-10-06T10:50:44+00:00",
       "last_seen_at": "2026-10-06T23:46:08+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_8771f0a76dbbb1ca8460",
-      "title": "Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 122400.0,
-      "p50_usd": 12240000.0,
-      "p90_usd": 1224000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T01:34:29+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_b560235cfad2da40e1bb",
-      "title": "AI agents broke into 100 firms for pocket change. SEA’s online shops fit the target profile",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 122400.0,
-      "p50_usd": 12240000.0,
-      "p90_usd": 1224000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T01:34:29+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_1dc9bdd21755f73fe1e3",
@@ -25354,6 +25354,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_16736fbdbfb13eea504f",
+      "title": "「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T01:34:29+00:00",
+      "last_seen_at": "2026-10-22T01:54:32+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_17b212e48b956da23bcb",
       "title": "AIショートドラマ『非妖哉』たった2話で1億回再生を記録 中国の映像クリエイターがほぼ1人で制作",
       "event_classes": [
@@ -26591,7 +26608,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T00:42:13+00:00",
-      "last_seen_at": "2026-10-22T01:34:29+00:00",
+      "last_seen_at": "2026-10-22T01:54:32+00:00",
       "status": "active"
     },
     {
@@ -28886,7 +28903,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T01:14:13+00:00",
-      "last_seen_at": "2026-10-22T01:34:29+00:00",
+      "last_seen_at": "2026-10-22T01:54:32+00:00",
       "status": "active"
     },
     {
@@ -29398,23 +29415,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_16736fbdbfb13eea504f",
-      "title": "「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T01:34:29+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
