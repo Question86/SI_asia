@@ -1,9 +1,10 @@
 # Economic Outcomes
 
-Generated: `2026-10-22T15:20:30+00:00`
+Generated: `2026-10-22T15:48:37+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
+| M 5.2 - 201 km ENE of Nagqu, China | $0 | — | 0 | 0 | active |
 | ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～ | $0 | — | 0 | 0 | dormant |
 | Startups should learn to leave bad markets faster | $0 | — | 0 | 0 | dormant |
 | M 4.9 - 12 km SSW of Tebario, Panama | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-10-22T15:20:30+00:00`
 | M 5.4 - north of Svalbard | $0 | — | 0 | 0 | dormant |
 | 「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性 | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 3 km NW of Flores, Panama | $0 | — | 0 | 0 | dormant |
-| Change fatigue is an organisational design problem, not a resilience problem | $0 | — | 0 | 0 | dormant |
