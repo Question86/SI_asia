@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T18:25:26+00:00_
+_Generiert: 2026-10-22T18:40:36+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+76 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -212,6 +212,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph region europe: Paris (+2.0)
   - Kurz: The Copilot impact dashboard now includes an “Industry comparison” section. Enterprises, and organizations that aren’t owned by an enterprise, can compare their Copilot agentic adoption and leverage with aggregated benchmarks… The post Industry comparisons in the Copilot impact dashboard appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 207 km ENE of Nagqu, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u45j)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-22T18:28:47.040+00:00`, fetched `2026-10-22T18:40:08+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-22 18:06:44 UTC 2026-10-22 18:06:44 UTC at epicenter Location 32.371°N 93.989°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - 201 km ENE of Nagqu, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44n)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-22T15:40:56.040+00:00`, fetched `2026-10-22T15:47:19+00:00`
@@ -293,6 +302,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A high-throughput and memory-efficient inference and serving engine for LLMs https://vllm.ai Easy, fast, and cheap LLM serving for everyone | Documentation | Blog | Paper | Twitter/X | User Forum | Developer Slack | 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please visit vllm.ai/events to join us. About vLLM is a fast and easy-to-use library for…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Meta API endpoints updated for Actions blob storage** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-22T18:14:16+00:00`, fetched `2026-10-22T18:40:08+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.5); recent (+1.0)
+  - Kurz: We’re adding blob storage endpoints for GitHub Actions on github.com as part of our ongoing work to improve capacity and reliability. The meta API now includes these new endpoints. If… The post Meta API endpoints updated for Actions blob storage appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Public monitoring now available with data residency** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-22T18:12:58+00:00`, fetched `2026-10-22T18:40:08+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+7.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: Public monitoring is now available in public preview for GitHub Enterprise Cloud with data residency (GHEC DR). Public monitoring with data residency Public monitoring extends secret scanning beyond internal repositories… The post Public monitoring now available with data residency appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Außerplanmäßige Fortinet-Updates: Details Fehlanzeige, aber dringend** — Score 10, observation — [Quelle](https://www.heise.de/news/Ausserplanmaessige-Fortinet-Updates-Details-Fehlanzeige-aber-dringend-11497171.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-22T14:38:00.000+00:00`, fetched `2026-10-22T14:49:19+00:00`
@@ -311,33 +338,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AI・デジタル改革推進会議（第1回）の議事次第および資料を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans les produits Mattermost (16 octobre 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1328/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-10-16T00:00:00+00:00`, fetched `2026-10-22T14:23:31+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - 39 km NE of Shikotan, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u45f)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-22T17:38:20.040+00:00`, fetched `2026-10-22T17:43:06+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-22 17:21:26 UTC 2026-10-22 17:21:26 UTC at epicenter Location 44.035°N 147.083°E Depth 76.31 km (47.42 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - 144 km SSW of ‘Ohonua, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u459)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-22T17:23:14.040+00:00`, fetched `2026-10-22T17:33:33+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-22 16:51:21 UTC 2026-10-22 16:51:21 UTC at epicenter Location 22.564°S 175.444°W Depth 35.00 km (21.75 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 

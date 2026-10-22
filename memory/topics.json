@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-22T18:25:26+00:00",
+  "generated_at": "2026-10-22T18:40:36+00:00",
   "topics": {
     "ai": [
       {
@@ -110,6 +110,20 @@
         "published_at": null,
         "relevance_score": 11,
         "url": "https://github.com/vllm-project/vllm"
+      },
+      {
+        "title": "Meta API endpoints updated for Actions blob storage",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-22T18:14:16+00:00",
+        "relevance_score": 10,
+        "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage"
+      },
+      {
+        "title": "Public monitoring now available with data residency",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-22T18:12:58+00:00",
+        "relevance_score": 10,
+        "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency"
       },
       {
         "title": "Pull requests: Saved whitespace preferences and improved split view",
@@ -337,6 +351,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42q"
       },
       {
+        "title": "M 5.0 - 207 km ENE of Nagqu, China",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-22T18:28:47.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u45j"
+      },
+      {
         "title": "M 5.2 - 201 km ENE of Nagqu, China",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-22T15:40:56.040+00:00",
@@ -384,13 +405,6 @@
         "published_at": "2026-10-22T09:03:20.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u423"
-      },
-      {
-        "title": "M 4.6 - 49 km NE of Yigo Village, Guam",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-22T08:39:23.358+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u41z"
       }
     ]
   }
