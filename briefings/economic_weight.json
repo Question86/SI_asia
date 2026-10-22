@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T17:34:37+00:00",
+  "generated_at": "2026-10-22T17:44:00+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -847,7 +847,7 @@
       "p90_usd": 113600000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T17:02:33+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -1938,7 +1938,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T07:58:33+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -2006,7 +2006,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-22T15:19:46+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -2686,7 +2686,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-22T15:47:56+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -7518,6 +7518,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a19d1d2111ec4a2bf062",
+      "title": "M 4.8 - 144 km SSW of ‘Ohonua, Tonga",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_a3a88f71dca8c245ec81",
       "title": "M 4.6 - 12 km SSE of Tebario, Panama",
       "event_classes": [
@@ -9422,8 +9439,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_a19d1d2111ec4a2bf062",
-      "title": "M 4.8 - 144 km SSW of ‘Ohonua, Tonga",
+      "event_id": "evt_a1cbd9421769e2dbb326",
+      "title": "M 4.8 - 39 km NE of Shikotan, Russia",
       "event_classes": [
         "natural_disaster"
       ],
@@ -9434,8 +9451,8 @@
       "p50_usd": 111200000.0,
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
-      "first_seen_at": "2026-10-22T17:34:15+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "first_seen_at": "2026-10-22T17:43:39+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -9452,7 +9469,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -9826,7 +9843,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T09:28:48+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -10115,7 +10132,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -10149,7 +10166,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T07:51:17+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -11169,7 +11186,7 @@
       "p90_usd": 2840000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:46:32+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -11611,7 +11628,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T06:35:06+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -11747,7 +11764,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -11798,7 +11815,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -12393,7 +12410,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T06:35:06+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -13009,6 +13026,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_51810afd5ebd156dfcb8",
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "event_classes": [
+        "research"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 117600.0,
+      "p50_usd": 11760000.0,
+      "p90_usd": 1176000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_5735d14c4104751c2044",
       "title": "Teleport powers Capital A’s rebound, but thin margins show logistics remains a hard road",
       "event_classes": [
@@ -13177,23 +13211,6 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_51810afd5ebd156dfcb8",
-      "title": "How bug bounty sharpens one researcher’s security skills",
-      "event_classes": [
-        "research"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 117600.0,
-      "p50_usd": 11760000.0,
-      "p90_usd": 1176000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-22T17:34:15+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_04dd5841535ba2efa091",
@@ -13430,7 +13447,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T05:38:58+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -13583,7 +13600,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T17:38:29+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -14093,7 +14110,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T08:29:02+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -14382,7 +14399,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T04:07:02+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
@@ -16218,7 +16235,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-22T17:34:15+00:00",
+      "last_seen_at": "2026-10-22T17:43:39+00:00",
       "status": "active"
     },
     {
