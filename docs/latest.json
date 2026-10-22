@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T09:28:45+00:00",
-  "run_id": "2026-10-22T09:28:45+00:00",
+  "generated_at": "2026-10-22T09:44:49+00:00",
+  "run_id": "2026-10-22T09:44:49+00:00",
   "date": "2026-10-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 41
+      "configured_public_sources_only": 42
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 41,
-    "displayed_findings": 41,
+    "new_relevant_findings": 1,
+    "today_file_total": 42,
+    "displayed_findings": 42,
     "high": 0,
     "medium": 16,
-    "observe": 25,
+    "observe": 26,
     "source_errors": 0
   },
   "sections": {
@@ -978,6 +978,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "40b342d286be2ee08df8"
+      },
+      {
+        "title": "A 200,000-car plant for a 33,000-EV market: Inside VinFast’s Philippine gamble",
+        "url": "https://e27.co/a-200000-car-plant-for-a-33000-ev-market-inside-vinfasts-philippine-gamble/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-22T09:30:38+00:00",
+        "fetched_at": "2026-10-22T09:44:21+00:00",
+        "summary": "Vingroup is opening a third Asian manufacturing front for its electric vehicle (EV) ambitions. The Vietnamese conglomerate, best known for EV maker VinFast, plans to invest US$500 million in a flagship EV plant in the Philippines, the country’s Department of Trade and Industry (DTI) said on Wednesday. The factory is designed to produce 200,000 vehicles […] The post A 200,000-car plant for a 33,000-EV market: Inside…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Vietnam, Philippines (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3e4e411443f843516a39"
       },
       {
         "title": "大阪大、学生など7.8万人の情報漏えい NECが無断で協力会社とデータ共有",
@@ -2036,6 +2056,26 @@
       "id": "40b342d286be2ee08df8"
     },
     {
+      "title": "A 200,000-car plant for a 33,000-EV market: Inside VinFast’s Philippine gamble",
+      "url": "https://e27.co/a-200000-car-plant-for-a-33000-ev-market-inside-vinfasts-philippine-gamble/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-22T09:30:38+00:00",
+      "fetched_at": "2026-10-22T09:44:21+00:00",
+      "summary": "Vingroup is opening a third Asian manufacturing front for its electric vehicle (EV) ambitions. The Vietnamese conglomerate, best known for EV maker VinFast, plans to invest US$500 million in a flagship EV plant in the Philippines, the country’s Department of Trade and Industry (DTI) said on Wednesday. The factory is designed to produce 200,000 vehicles […] The post A 200,000-car plant for a 33,000-EV market: Inside…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Vietnam, Philippines (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3e4e411443f843516a39"
+    },
+    {
       "title": "大阪大、学生など7.8万人の情報漏えい NECが無断で協力会社とデータ共有",
       "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002491/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2143,81 +2183,24 @@
   ],
   "new_findings": [
     {
-      "title": "2026-019: Critical Vulnerability in GitLab Community and Enterprise Editions",
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-019/",
-      "source": "CERT-EU Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-22T11:14:22+00:00",
-      "fetched_at": "2026-10-22T09:28:15+00:00",
-      "summary": "On 21 October 2026, GitLab published a security advisory addressing several vulnerabilities among which a critical flaw that could allow an unauthenticated user to execute arbitrary code on a GitLab server. CERT-EU recommends organisations to update affected assets as soon as possible, prioritising internet facing assets, and to run an assessment to identify compromised assets.",
-      "matched_keywords": [
-        "CERT-EU",
-        "CodeQL/Dependabot",
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
-      ],
-      "relevance_score": 20,
-      "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+7.5); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: critical vulnerability"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "48ef65dd397cddf95c00"
-    },
-    {
-      "title": "Node.js發布安全性更新修補10項漏洞，其中CVE-2026-111497可導致遠端程式碼執行，籲儘速更新",
-      "url": "https://www.twcert.org.tw/tw/cp-104-11309-2266c-1.html",
-      "source": "TWCERT/CC Security News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-22T09:12:00+00:00",
-      "fetched_at": "2026-10-22T09:28:15+00:00",
-      "summary": "Node.js官方於2026年10月21日發布安全性更新，針對22.x、24.x及26.x版本線共修補10項漏洞，其中4項為高風險，包含可導致遠端程式碼執行之Brotli解碼器越界寫入漏洞（CVE-2026-111497）。數位發展部資通安全署亦於10月22日發布 新聞稿 ，呼籲各機關與企業儘速完成更新。Node.js常見於後端服務、容器映像檔、網頁前端工具鏈及部分AI agent命令列工具中，建議企業盤點環境中之Node.js版本並儘速更新。 Node.js 官方公告 Node.js官方於2026年10月21日發布22.23.4、24.22.1及26.12.1版本，共修補10項漏洞，包含高風險4項、中風險3項及低風險3項。其中高風險漏洞如下： CVE 編號 漏洞說明 影響版本線 CVE-2026-111497 Brotli解碼器存在越界寫入（Out-of-Bounds Write）缺陷，可導致遠端程式碼執行 22.x、24.…",
-      "matched_keywords": [
-        "AI Agents",
-        "Security",
-        "TWCERT"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "AI Agents (+5.0); Security (+6.0); TWCERT (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9d347fcd687491b851ff"
-    },
-    {
-      "title": "Taiwan Pavilion at SWITCH 2026: Meet the 33 Taiwanese startups heading to Singapore",
-      "url": "https://e27.co/taiwan-pavilion-at-switch-2026-meet-the-33-taiwanese-startups-heading-to-singapore-20261022/",
+      "title": "A 200,000-car plant for a 33,000-EV market: Inside VinFast’s Philippine gamble",
+      "url": "https://e27.co/a-200000-car-plant-for-a-33000-ev-market-inside-vinfasts-philippine-gamble/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-22T09:17:13+00:00",
-      "fetched_at": "2026-10-22T09:28:15+00:00",
-      "summary": "From October 27 to 29, 33 Taiwanese startups will exhibit at the Taiwan Pavilion at SWITCH 2026 in Singapore (Booth Q01, Sands Expo & Convention Centre), as part of Taiwan Tech Week in Singapore. The delegation is led by Startup Island TAIWAN, Taiwan’s national startup brand backed by the National Development Council (NDC), in partnership […] The post Taiwan Pavilion at SWITCH 2026: Meet the 33 Taiwanese startups he…",
+      "published_at": "2026-10-22T09:30:38+00:00",
+      "fetched_at": "2026-10-22T09:44:21+00:00",
+      "summary": "Vingroup is opening a third Asian manufacturing front for its electric vehicle (EV) ambitions. The Vietnamese conglomerate, best known for EV maker VinFast, plans to invest US$500 million in a flagship EV plant in the Philippines, the country’s Department of Trade and Industry (DTI) said on Wednesday. The factory is designed to produce 200,000 vehicles […] The post A 200,000-car plant for a 33,000-EV market: Inside…",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Vietnam, Philippines (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c7108bf1796a20b8a7a9"
+      "id": "3e4e411443f843516a39"
     }
   ],
   "source_errors": [],
