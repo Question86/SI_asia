@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T20:20:56+00:00",
-  "run_id": "2026-10-22T20:20:56+00:00",
+  "generated_at": "2026-10-22T20:34:46+00:00",
+  "run_id": "2026-10-22T20:34:46+00:00",
   "date": "2026-10-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 79,
     "displayed_findings": 79,
     "high": 0,
@@ -4075,30 +4075,7 @@
       "id": "0e7e9bc83709851e9543"
     }
   ],
-  "new_findings": [
-    {
-      "title": "【速報】中国政府系がAIで攻撃、MSが発表",
-      "url": "https://www.47news.jp/15123221.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-22T15:13:42+00:00",
-      "fetched_at": "2026-10-22T20:20:27+00:00",
-      "summary": "【ニューヨーク共同】米マイクロソフト（MS）は21日、中国政府系とされるハッカー集団が、人工知能（AI）を使ったツールで世界の数百組織にサイバー攻撃を仕掛けていたと発表した。",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a06af1c751e49a417bc3"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
