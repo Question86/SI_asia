@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T04:29:02+00:00",
+  "generated_at": "2026-10-22T05:07:15+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -7072,7 +7072,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-22T03:56:45+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
@@ -9928,7 +9928,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
@@ -9962,7 +9962,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T07:51:17+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
@@ -10982,7 +10982,7 @@
       "p90_usd": 2840000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:46:32+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
@@ -11033,7 +11033,7 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
@@ -11509,7 +11509,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
@@ -11560,7 +11560,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
@@ -13294,7 +13294,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T17:38:29+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
@@ -14093,7 +14093,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T04:07:02+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
@@ -21116,7 +21116,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T03:01:46+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
@@ -22732,7 +22732,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T02:04:46+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
@@ -23123,7 +23123,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T03:56:45+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
@@ -23380,6 +23380,23 @@
       "first_seen_at": "2026-09-14T07:35:53+00:00",
       "last_seen_at": "2026-09-14T09:28:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_a93b3d823a8112d719ad",
+      "title": "92% of Bitcoin liquidations were shorts: What happens when the squeeze ends?",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T05:06:54+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_01f8d7013bd851003572",
@@ -25452,7 +25469,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
@@ -26693,7 +26710,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T00:42:13+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
@@ -28274,7 +28291,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T02:04:46+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
@@ -29005,7 +29022,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T01:14:13+00:00",
-      "last_seen_at": "2026-10-22T04:28:44+00:00",
+      "last_seen_at": "2026-10-22T05:06:54+00:00",
       "status": "active"
     },
     {
