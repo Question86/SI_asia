@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T09:45:29+00:00",
+  "generated_at": "2026-10-22T10:07:25+00:00",
   "fx_as_of": null,
-  "candidate_count": 2209,
+  "candidate_count": 2211,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2209
+    "pending": 2211
   },
   "coverage_warning": null,
   "candidates": [
@@ -1788,6 +1788,27 @@
       "snippet": ", increased AI investment could introduce price pressure to those other sectors. And even more investment is in the pipeline, and companies have only spent a small fraction of the $2 trillion in announced plans. 5 Further, a large portion of the rise in equity prices over the past few years can be attributed to enthusiasm about AI, and that added wealth appears to be f",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/speeches/20260929-update-ai-and-economy"
+    },
+    {
+      "amount_native": 10000000000.0,
+      "amount_usd": 10000000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.63,
+      "candidate_id": "cand_a2ad5d045fde28cfd54b",
+      "component_suggestion": "real_resource",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_cc17b4bd401d2aacd3f1",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-22T10:07:21+00:00",
+      "overlap_group_suggestion": "evt_cc17b4bd401d2aacd3f1:real_resource:21527bc39b8f",
+      "review_status": "pending",
+      "snippet": "were looking to set up shop to take advantage of a free-trade zone in the municipality of Caucaia. One in particular would be the size of 12 football fields, costing an estimated $10 billion, and though it will technically be owned by a local wind energy company, it is actually being developed t o serve TikTok . This is in a region that experienced emergency drought c",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 8000000000.0,
@@ -32985,6 +33006,27 @@
       "snippet": "Ecosystem Roundup: SBI leads US$270M round in Indonesia's largest tech deal in years | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email address Go to Edi",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://e27.co/ecosystem-roundup-sbi-leads-us270m-round-in-indonesias-largest-tech-deal-in-years-20260828/"
+    },
+    {
+      "amount_native": 200000000.0,
+      "amount_usd": 200000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_d73349570ec10a19a5d9",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_cc17b4bd401d2aacd3f1",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-22T10:07:21+00:00",
+      "overlap_group_suggestion": "evt_cc17b4bd401d2aacd3f1:unknown:00fffc94c8de",
+      "review_status": "pending",
+      "snippet": "untry. One of the movement’s driving slogans was about water. It was poor timing for Google as it was fighting for approval and public support of its latest data center project, a $200 million data center project in Cerrillos, on the southwest side of Santiago. The company made a pitch similar to the one residents in communities the world over have heard whenever a data",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 189000000.0,
