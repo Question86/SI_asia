@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T08:57:09+00:00",
+  "generated_at": "2026-10-22T09:07:40+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -6630,7 +6630,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-22T05:51:01+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -7090,7 +7090,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-22T03:56:45+00:00",
       "last_seen_at": "2026-10-22T08:56:49+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_92466f3817591dfe16f5",
@@ -8126,7 +8126,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-22T08:41:25+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -9163,7 +9163,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-22T05:25:53+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -9320,6 +9320,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_6a6b699cdd116f0d6505",
+      "title": "M 4.5 - 136 km NE of Petropavlovsk-Kamchatsky, Russia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-22T09:07:19+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -9333,7 +9350,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -9979,7 +9996,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -10013,7 +10030,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T07:51:17+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -11033,7 +11050,7 @@
       "p90_usd": 2840000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:46:32+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -11071,6 +11088,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_32497da1e25c9bec7236",
+      "title": "PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃 - Qiita",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 282000.0,
+      "p50_usd": 28200000.0,
+      "p90_usd": 2820000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_5e379dcd17ff9d7ca66e",
       "title": "「GitLab」に深刻度“最大”の脆弱性 認証なしで任意のコード実行の恐れ、修正版適用を CVSS「10.0」",
       "event_classes": [
@@ -11084,7 +11118,7 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T08:41:25+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -11101,24 +11135,7 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_32497da1e25c9bec7236",
-      "title": "PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃 - Qiita",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 282000.0,
-      "p50_usd": 28200000.0,
-      "p90_usd": 2820000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-22T08:56:49+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -11475,7 +11492,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T06:35:06+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -11611,7 +11628,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -11662,7 +11679,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -12257,7 +12274,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T06:35:06+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -13277,7 +13294,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T05:38:58+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -13430,7 +13447,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T17:38:29+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -14229,7 +14246,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T04:07:02+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -16729,7 +16746,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T06:35:06+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
@@ -18089,7 +18106,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T08:16:17+00:00",
-      "last_seen_at": "2026-10-22T08:56:49+00:00",
+      "last_seen_at": "2026-10-22T09:07:19+00:00",
       "status": "active"
     },
     {
