@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T15:47:53+00:00",
-  "run_id": "2026-10-22T15:47:53+00:00",
+  "generated_at": "2026-10-22T15:56:17+00:00",
+  "run_id": "2026-10-22T15:56:17+00:00",
   "date": "2026-10-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 66,
     "displayed_findings": 66,
     "high": 0,
@@ -3377,66 +3377,7 @@
       "id": "f9bbf36d130a0aa0f935"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.2 - 201 km ENE of Nagqu, China",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44n",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-22T15:40:56.040+00:00",
-      "fetched_at": "2026-10-22T15:47:19+00:00",
-      "summary": "Time 2026-10-22 15:12:04 UTC 2026-10-22 15:12:04 UTC at epicenter Location 32.440°N 93.867°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "21d9b31bb52b4ba63e6d"
-    },
-    {
-      "title": "厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20",
-      "url": "https://zenn.dev/yuiseki/articles/54b01670841898",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-22T11:28:38+00:00",
-      "fetched_at": "2026-10-22T15:47:19+00:00",
-      "summary": "TL;DR この記事のURLをコーディングAIエージェントに伝えてください。 認証 このリポジトリのサインアップ、ログイン、メール確認、パスワードリセットの実装を調べてください。UI の CAPTCHA や入力チェックを通さず API を直接呼べないか、メール確認前に使える機能がないか確認してください。問題があれば実装箇所と...",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b57266995847edecaa91"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

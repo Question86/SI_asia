@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:47:56+00:00",
+  "generated_at": "2026-10-22T15:56:19+00:00",
   "today_file_total": 66,
   "current_clusters": [
     {
@@ -179,30 +179,6 @@
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     },
     {
-      "key": "title:claude-code",
-      "title": "厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://zenn.dev/yuiseki/articles/54b01670841898",
-        "https://zenn.dev/explaza/articles/c749042ecbe232"
-      ],
-      "finding_count": 2,
-      "max_score": 11,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 18.2,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:hong-kong-taiwan-founders-are-cheering-boom-southeast",
       "title": "Hong Kong and Taiwan founders are cheering the AI boom. Southeast Asia isn’t in the room",
       "sources": [
@@ -269,31 +245,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 17.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.2 - 201 km ene of nagqu, china:5.2",
-      "title": "M 5.2 - 201 km ENE of Nagqu, China",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44n"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -418,6 +369,55 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:claude-code",
+      "title": "厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://zenn.dev/yuiseki/articles/54b01670841898",
+        "https://zenn.dev/explaza/articles/c749042ecbe232"
+      ],
+      "finding_count": 2,
+      "max_score": 11,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 5.2 - 201 km ene of nagqu, china:5.2",
+      "title": "M 5.2 - 201 km ENE of Nagqu, China",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44n"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "domain:restofworld.org",
