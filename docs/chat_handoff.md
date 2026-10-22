@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-22T05:38:54+00:00_
+_Generated: 2026-10-22T05:50:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `21`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-22T05:38:54+00:00_
 - url: https://zenn.dev/explaza/articles/c749042ecbe232
 - summary: 最近は動画で説明資料を作っている アプリの仕組みをお客さんに説明するとき、構成図とかHTML・Markdownで、説明するのが一般的かと思いますが 最近はjavascriptを用いて、Claudeで動画を生成しやすくなったので、アプリの操作と、その裏で起きている処理を交互に見せる解説動画を作って説明に使っています。 めちゃくち...
 
-### 7. M 4.8 - Reykjanes Ridge
+### 7. M 4.8 - 86 km S of Kokopo, Papua New Guinea
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-22T05:40:49.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u417
+- summary: Time 2026-10-22 05:23:59 UTC 2026-10-22 05:23:59 UTC at epicenter Location 5.130°S 152.247°E Depth 57.32 km (35.62 mi)
+
+### 8. M 4.8 - Reykjanes Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-22T05:16:10.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u411
 - summary: Time 2026-10-22 04:44:17 UTC 2026-10-22 04:44:17 UTC at epicenter Location 56.966°N 34.094°W Depth 10.00 km (6.21 mi)
-
-### 8. M 4.6 - 97 km SW of El Palmarcito, Mexico
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-22T03:54:26.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40r
-- summary: Time 2026-10-22 03:35:17 UTC 2026-10-22 03:35:17 UTC at epicenter Location 14.861°N 93.839°W Depth 49.13 km (30.53 mi)
 
 END OF DOCUMENT
