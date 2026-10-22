@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T19:43:18+00:00",
-  "run_id": "2026-10-22T19:43:18+00:00",
+  "generated_at": "2026-10-22T19:51:30+00:00",
+  "run_id": "2026-10-22T19:51:30+00:00",
   "date": "2026-10-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 77
+      "configured_public_sources_only": 78
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 77,
-    "displayed_findings": 77,
+    "new_relevant_findings": 1,
+    "today_file_total": 78,
+    "displayed_findings": 78,
     "high": 0,
     "medium": 21,
-    "observe": 56,
+    "observe": 57,
     "source_errors": 0
   },
   "sections": {
@@ -1615,6 +1615,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6f87f5a89d3cf8c30d45"
+      },
+      {
+        "title": "Build more responsive apps with the Decisions API",
+        "url": "https://openai.com/index/decisions-api",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-22T19:00:00+00:00",
+        "fetched_at": "2026-10-22T19:50:58+00:00",
+        "summary": "Fast, focused, low-cost decisions for any application.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "855f8f34a1c4854572fe"
       },
       {
         "title": "BIND 9: Codeschmuggel-Lücke im Nameserver",
@@ -3598,6 +3618,26 @@
       "id": "6f87f5a89d3cf8c30d45"
     },
     {
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "fetched_at": "2026-10-22T19:50:58+00:00",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "855f8f34a1c4854572fe"
+    },
+    {
       "title": "BIND 9: Codeschmuggel-Lücke im Nameserver",
       "url": "https://www.heise.de/news/BIND-9-Codeschmuggel-Luecke-im-Nameserver-11497068.html",
       "source": "heise Security Alerts",
@@ -3991,7 +4031,28 @@
       "id": "0e7e9bc83709851e9543"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "fetched_at": "2026-10-22T19:50:58+00:00",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "855f8f34a1c4854572fe"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
