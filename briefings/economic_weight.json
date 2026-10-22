@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T03:57:02+00:00",
+  "generated_at": "2026-10-22T04:07:20+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -7059,6 +7059,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8fe280335e7c120e6384",
+      "title": "M 4.6 - 97 km SW of El Palmarcito, Mexico",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-22T03:56:45+00:00",
+      "last_seen_at": "2026-10-22T04:07:02+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_92466f3817591dfe16f5",
       "title": "M 5.1 - 164 km NE of Lospalos, Timor Leste",
       "event_classes": [
@@ -9252,23 +9269,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_8fe280335e7c120e6384",
-      "title": "M 4.6 - 97 km SW of El Palmarcito, Mexico",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-22T03:56:45+00:00",
-      "last_seen_at": "2026-10-22T03:56:45+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -9928,7 +9928,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T03:56:45+00:00",
+      "last_seen_at": "2026-10-22T04:07:02+00:00",
       "status": "active"
     },
     {
@@ -9962,7 +9962,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T07:51:17+00:00",
-      "last_seen_at": "2026-10-22T03:56:45+00:00",
+      "last_seen_at": "2026-10-22T04:07:02+00:00",
       "status": "active"
     },
     {
@@ -10982,7 +10982,7 @@
       "p90_usd": 2840000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:46:32+00:00",
-      "last_seen_at": "2026-10-22T03:56:45+00:00",
+      "last_seen_at": "2026-10-22T04:07:02+00:00",
       "status": "active"
     },
     {
@@ -11509,7 +11509,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T03:56:45+00:00",
+      "last_seen_at": "2026-10-22T04:07:02+00:00",
       "status": "active"
     },
     {
@@ -11560,7 +11560,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T03:56:45+00:00",
+      "last_seen_at": "2026-10-22T04:07:02+00:00",
       "status": "active"
     },
     {
@@ -13294,7 +13294,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T17:38:29+00:00",
-      "last_seen_at": "2026-10-22T03:56:45+00:00",
+      "last_seen_at": "2026-10-22T04:07:02+00:00",
       "status": "active"
     },
     {
@@ -14656,6 +14656,23 @@
       "first_seen_at": "2026-09-15T05:35:26+00:00",
       "last_seen_at": "2026-09-15T23:55:14+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_161d1886ba0f5684f6af",
+      "title": "AI took perfect notes. Then it ruined the deck",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T04:07:02+00:00",
+      "last_seen_at": "2026-10-22T04:07:02+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",
@@ -21099,7 +21116,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T03:01:46+00:00",
-      "last_seen_at": "2026-10-22T03:56:45+00:00",
+      "last_seen_at": "2026-10-22T04:07:02+00:00",
       "status": "active"
     },
     {
@@ -22715,7 +22732,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T02:04:46+00:00",
-      "last_seen_at": "2026-10-22T03:56:45+00:00",
+      "last_seen_at": "2026-10-22T04:07:02+00:00",
       "status": "active"
     },
     {
@@ -23093,6 +23110,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_989e0d249157ef6469b5",
+      "title": "Taiwan kills Grab’s US$600M foodpanda deal, and Uber’s shadow is the reason",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T03:56:45+00:00",
+      "last_seen_at": "2026-10-22T04:07:02+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_9a2361687c9a12c7708c",
       "title": "For Southeast Asian startups, distress may show up before the cash runs out",
       "event_classes": [
@@ -23346,23 +23380,6 @@
       "first_seen_at": "2026-09-14T07:35:53+00:00",
       "last_seen_at": "2026-09-14T09:28:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_989e0d249157ef6469b5",
-      "title": "Taiwan kills Grab’s US$600M foodpanda deal, and Uber’s shadow is the reason",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 109600.0,
-      "p50_usd": 10960000.0,
-      "p90_usd": 1096000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-22T03:56:45+00:00",
-      "last_seen_at": "2026-10-22T03:56:45+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_01f8d7013bd851003572",
@@ -25435,7 +25452,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T03:56:45+00:00",
+      "last_seen_at": "2026-10-22T04:07:02+00:00",
       "status": "active"
     },
     {
@@ -26676,7 +26693,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T00:42:13+00:00",
-      "last_seen_at": "2026-10-22T03:56:45+00:00",
+      "last_seen_at": "2026-10-22T04:07:02+00:00",
       "status": "active"
     },
     {
@@ -28257,7 +28274,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T02:04:46+00:00",
-      "last_seen_at": "2026-10-22T03:56:45+00:00",
+      "last_seen_at": "2026-10-22T04:07:02+00:00",
       "status": "active"
     },
     {
@@ -28988,7 +29005,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T01:14:13+00:00",
-      "last_seen_at": "2026-10-22T03:56:45+00:00",
+      "last_seen_at": "2026-10-22T04:07:02+00:00",
       "status": "active"
     },
     {
