@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-22T16:29:11+00:00",
+  "generated_at": "2026-10-22T17:02:33+00:00",
   "sections": {
     "global_security": [
       {
         "domain": "security",
-        "severity": "high",
+        "severity": "critical",
         "title": "USGS earthquake M7.0 - 191 km ENE of Nagqu, China",
-        "summary": "M7.0 - 191 km ENE of Nagqu, China. PAGER alert: pending. Tsunami flag: 0.",
+        "summary": "M7.0 - 191 km ENE of Nagqu, China. PAGER alert: orange. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
         "published_at": "2026-10-22T14:33:40+00:00",
         "metrics": {
           "mag": 7.0,
-          "alert": "pending",
-          "sig": 754.0,
+          "alert": "orange",
+          "sig": 1003.0,
           "tsunami": 0
         }
       },
@@ -90,8 +90,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Orange earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI&gt;=VII).",
-        "summary": "Orange earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI&gt;=VII).",
+        "title": "GDACS: Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI&gt;=VII).",
+        "summary": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573141",
         "published_at": "",

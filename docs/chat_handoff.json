@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-22T16:29:08+00:00",
+  "generated_at": "2026-10-22T17:02:31+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 67,
-    "displayed_findings": 67,
+    "new_relevant_findings": 2,
+    "today_file_total": 69,
+    "displayed_findings": 69,
     "high": 0,
     "medium": 20,
-    "observe": 47
+    "observe": 49
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "Industry comparisons in the Copilot impact dashboard",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-22T16:28:24+00:00",
+      "relevance_score": 12,
+      "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+      "summary": "The Copilot impact dashboard now includes an “Industry comparison” section. Enterprises, and organizations that aren’t owned by an enterprise, can compare their Copilot agentic adoption and leverage with aggregated benchmarks… The post Industry comparisons in…",
+      "section": "observe"
+    },
+    {
       "title": "M 5.2 - 201 km ENE of Nagqu, China",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "summary": "This photograph taken on September 6, 2026 shows a placard opposing data centers displayed on a water dispenser during the People's Convention on AI Data Centers event at Visakhapatnam in India's Andhra Pradesh state. Construction of a massive Google data cen…",
       "section": "observe"
-    },
-    {
-      "title": "新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-22T03:59:00+00:00",
-      "relevance_score": 11,
-      "url": "https://www.twcert.org.tw/tw/cp-132-11307-ae4b3-1.html",
-      "summary": "新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,151 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI",
-        "url": "https://e27.co/southeast-asias-sellers-spent-a-decade-learning-to-sell-to-people-now-they-have-to-sell-to-ai-20261010/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-22T01:00:46+00:00",
-        "age_days": 0.66,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "In February 2026, Sea Limited struck a partnership with Google on “agentic shopping prototypes.” By June, Shopee had become the first Southeast Asian e-commerce platform built directly into ChatGPT, live across Indonesia, Malaysia, the Philippines, Singapore, Thailand, Taiwan and Vietnam. Lazada, meanwhile, built its…"
-      },
-      {
-        "title": "AI agents broke into 100 firms for pocket change. SEA’s online shops fit the target profile",
-        "url": "https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-22T01:00:30+00:00",
-        "age_days": 0.66,
-        "topics": [
-          "axiom",
-          "ai",
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "For years, the small business owner in Penang or Cebu has relied on a quiet, unspoken form of security: obscurity. Who would bother hacking a family-run online furniture store when there are banks to rob? The logic was not wrong. Breaking in took skill, time and patience, and skilled criminals price their time like co…"
-      },
-      {
-        "title": "2026-019: Critical Vulnerability in GitLab Community and Enterprise Editions",
-        "url": "https://cert.europa.eu/publications/security-advisories/2026-019/",
-        "source": "CERT-EU Security Advisories",
-        "published_at": "2026-10-22T11:14:22+00:00",
-        "age_days": 0.24,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 45.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, critical",
-          "security high-signal: active, exploitation, critical, unauthenticated",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "On 21 October 2026, GitLab published a security advisory addressing several vulnerabilities among which a critical flaw that could allow an unauthenticated user to execute arbitrary code on a GitLab server. CERT-EU recommends organisations to update affected assets as soon as possible, prioritising internet facing ass…"
-      },
-      {
-        "title": "PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）",
-        "url": "https://jvn.jp/vu/JVNVU99905564/",
-        "source": "JVN Japan Vulnerability Notes, TWCERT/CC Security News RSS",
-        "published_at": "2026-10-21T02:46:32+00:00",
-        "age_days": 1.59,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 43.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 2,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "source breadth +2",
-          "high terms: rce, 10",
-          "security high-signal: rce, 10"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4079",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-28T14:08:37+00:00",
-        "age_days": 55.11,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.93,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 1.76,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 1.76",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 55.1d old signal"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
