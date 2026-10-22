@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-22T21:40:37Z",
+  "generated_at": "2026-10-22T21:51:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -20,7 +20,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4064",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T11:15:52+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -44,7 +44,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0489",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T06:35:51+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "security"
       ],
@@ -92,7 +92,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4073",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T06:05:54+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "security"
       ],
@@ -116,7 +116,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4072",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T06:05:53+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "security"
       ],
@@ -140,7 +140,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4014",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T06:05:52+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "security"
       ],
@@ -164,7 +164,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11308-ed8b8-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-10-22T06:19:00+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -189,7 +189,7 @@
       "url": "https://e27.co/scouter-enters-singapores-crowded-cyber-market-with-a-listen-first-promise-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T06:08:05+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "security",
         "macro"
@@ -215,7 +215,7 @@
       "url": "https://e27.co/how-i-decide-what-to-fix-in-my-ai-video-workflow-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T03:00:07+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "ai",
         "macro"
@@ -241,7 +241,7 @@
       "url": "https://jvn.jp/vu/JVNVU99905564/",
       "source": "Hatena Bookmark Hotentry IT, JVN Japan Vulnerability Notes, TWCERT/CC Security News RSS",
       "published_at": "2026-10-21T02:46:32+00:00",
-      "age_days": 1.79,
+      "age_days": 1.8,
       "topics": [
         "security"
       ],
@@ -251,13 +251,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 3,
-      "momentum_delta": 1,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +3",
-        "momentum delta +1",
         "high terms: rce, 10",
         "security high-signal: rce, 10",
         "extreme gate recheck: insufficient independent/current evidence"
@@ -269,7 +268,7 @@
       "url": "https://e27.co/southeast-asias-sellers-spent-a-decade-learning-to-sell-to-people-now-they-have-to-sell-to-ai-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:00:46+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "ai"
       ],
@@ -297,7 +296,7 @@
       "url": "https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:00:30+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "ai",
         "security",
@@ -327,7 +326,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-019/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-10-22T11:14:22+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -355,7 +354,7 @@
       "url": "https://jvn.jp/vu/JVNVU99905564/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T10:30:00+09:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "security"
       ],
@@ -381,7 +380,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11309-2266c-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-10-22T09:28:48+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -407,7 +406,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4079",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 55.31,
+      "age_days": 55.32,
       "topics": [
         "security"
       ],
@@ -435,7 +434,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4079",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T12:14:30+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -461,7 +460,7 @@
       "url": "https://jvn.jp/vu/JVNVU91023667/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T10:00:00+09:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "security"
       ],
@@ -487,7 +486,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11309-2266c-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-10-22T09:12:00+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "security"
@@ -514,7 +513,7 @@
       "url": "https://jvn.jp/vu/JVNVU91196958/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T09:00:00+09:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "security"
       ],
@@ -540,7 +539,7 @@
       "url": "https://posfie.com/@golden_haniwa/p/LQ90sis",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T03:54:28+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "security"
       ],
@@ -566,7 +565,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002501/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T08:41:25+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -592,7 +591,7 @@
       "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-10-22T17:21:30+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security"
@@ -644,7 +643,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002501/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T03:55:13+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "security"
       ],
@@ -670,7 +669,7 @@
       "url": "https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T01:12:57+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "security"
       ],
@@ -696,7 +695,7 @@
       "url": "https://www.heise.de/news/Ausserplanmaessige-Fortinet-Updates-Details-Fehlanzeige-aber-dringend-11497171.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-22T14:38:00.000+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "security"
@@ -723,7 +722,7 @@
       "url": "https://github.com/headroomlabs-ai/headroom",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-22T06:35:06+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -750,7 +749,7 @@
       "url": "https://e27.co/who-referees-the-ai-agents-enterprises-arent-sure-new-report-shows-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T06:30:33+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai",
         "macro"
@@ -778,7 +777,7 @@
       "url": "https://github.com/headroomlabs-ai/headroom",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-22T06:34:32+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai",
         "macro"
@@ -805,7 +804,7 @@
       "url": "https://e27.co/who-referees-the-ai-agents-enterprises-arent-sure-new-report-shows-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T06:35:06+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -832,7 +831,7 @@
       "url": "https://e27.co/southeast-asias-sellers-spent-a-decade-learning-to-sell-to-people-now-they-have-to-sell-to-ai-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:34:29+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -859,7 +858,7 @@
       "url": "https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:34:29+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -886,7 +885,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-019/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-09-10T08:29:02+00:00",
-      "age_days": 42.55,
+      "age_days": 42.56,
       "topics": [
         "security"
       ],
@@ -904,7 +903,7 @@
         "momentum delta +3",
         "high terms: critical",
         "security high-signal: critical",
-        "aging penalty -7.5 for 42.5d old signal",
+        "aging penalty -7.5 for 42.6d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -914,7 +913,7 @@
       "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-10-22T17:34:15+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -941,7 +940,7 @@
       "url": "https://www.heise.de/news/BIND-9-Codeschmuggel-Luecke-im-Nameserver-11497068.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-22T13:26:00.000+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -992,7 +991,7 @@
       "url": "https://e27.co/taiwan-pavilion-at-switch-2026-meet-the-33-taiwanese-startups-heading-to-singapore-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T09:28:48+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -1043,7 +1042,7 @@
       "url": "https://jvn.jp/vu/JVNVU91023667/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T01:34:29+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "general"
       ],
