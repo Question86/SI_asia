@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T09:44:49+00:00_
+_Generiert: 2026-10-22T10:06:46+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+43 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Big Tech’s thirst for water is sparking a global resistance** — Score 11, observation — [Quelle](https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-10-22T10:00:00+00:00`, fetched `2026-10-22T10:06:17+00:00`
+  - Treffer: AI/KI, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region india: India (+2.0)
+  - Kurz: This photograph taken on September 6, 2026 shows a placard opposing data centers displayed on a water dispenser during the People's Convention on AI Data Centers event at Visakhapatnam in India's Andhra Pradesh state. Construction of a massive Google data centre in the Indian city of Visakhapatnam, often called Vizag, has been met with resistance from residents, who fear the impact on the environment and their lives…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11307-ae4b3-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-10-22T03:59:00+00:00`, fetched `2026-10-22T04:28:15+00:00`
@@ -294,15 +303,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: From October 27 to 29, 33 Taiwanese startups will exhibit at the Taiwan Pavilion at SWITCH 2026 in Singapore (Booth Q01, Sands Expo & Convention Centre), as part of Taiwan Tech Week in Singapore. The delegation is led by Startup Island TAIWAN, Taiwan’s national startup brand backed by the National Development Council (NDC), in partnership […] The post Taiwan Pavilion at SWITCH 2026: Meet the 33 Taiwanese startups he…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **php2shell: Updates trudeln ein, viele Webseiten offline, Angriffe laufen** — Score 7, risk — [Quelle](https://www.heise.de/news/php2shell-Updates-trudeln-ein-viele-Webseiten-offline-Angriffe-laufen-11496366.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-22T07:23:00.000+00:00`, fetched `2026-10-22T07:45:11+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Viele Linux-Distributionen liefern aktualisierte PHP-Pakete. Webseiten gingen offline. Erfolgreiche Exploits sind bislang nicht belegt.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T09:44:49+00:00",
-  "run_id": "2026-10-22T09:44:49+00:00",
+  "generated_at": "2026-10-22T10:06:46+00:00",
+  "run_id": "2026-10-22T10:06:46+00:00",
   "date": "2026-10-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 42
+      "configured_public_sources_only": 43
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 42,
-    "displayed_findings": 42,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 0,
     "medium": 16,
-    "observe": 26,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -480,6 +480,27 @@
       }
     ],
     "observe": [
+      {
+        "title": "Big Tech’s thirst for water is sparking a global resistance",
+        "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-22T10:00:00+00:00",
+        "fetched_at": "2026-10-22T10:06:17+00:00",
+        "summary": "This photograph taken on September 6, 2026 shows a placard opposing data centers displayed on a water dispenser during the People's Convention on AI Data Centers event at Visakhapatnam in India's Andhra Pradesh state. Construction of a massive Google data centre in the Indian city of Visakhapatnam, often called Vizag, has been met with resistance from residents, who fear the impact on the environment and their lives…",
+        "matched_keywords": [
+          "AI/KI",
+          "Public Health"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI/KI (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region india: India (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c3c1ab14446a1cbf4f70"
+      },
       {
         "title": "新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞",
         "url": "https://www.twcert.org.tw/tw/cp-132-11307-ae4b3-1.html",
@@ -1557,6 +1578,27 @@
       "id": "1aa99b57695914a4f994"
     },
     {
+      "title": "Big Tech’s thirst for water is sparking a global resistance",
+      "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-22T10:00:00+00:00",
+      "fetched_at": "2026-10-22T10:06:17+00:00",
+      "summary": "This photograph taken on September 6, 2026 shows a placard opposing data centers displayed on a water dispenser during the People's Convention on AI Data Centers event at Visakhapatnam in India's Andhra Pradesh state. Construction of a massive Google data centre in the Indian city of Visakhapatnam, often called Vizag, has been met with resistance from residents, who fear the impact on the environment and their lives…",
+      "matched_keywords": [
+        "AI/KI",
+        "Public Health"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region india: India (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c3c1ab14446a1cbf4f70"
+    },
+    {
       "title": "新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞",
       "url": "https://www.twcert.org.tw/tw/cp-132-11307-ae4b3-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
@@ -2183,24 +2225,25 @@
   ],
   "new_findings": [
     {
-      "title": "A 200,000-car plant for a 33,000-EV market: Inside VinFast’s Philippine gamble",
-      "url": "https://e27.co/a-200000-car-plant-for-a-33000-ev-market-inside-vinfasts-philippine-gamble/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Big Tech’s thirst for water is sparking a global resistance",
+      "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-22T09:30:38+00:00",
-      "fetched_at": "2026-10-22T09:44:21+00:00",
-      "summary": "Vingroup is opening a third Asian manufacturing front for its electric vehicle (EV) ambitions. The Vietnamese conglomerate, best known for EV maker VinFast, plans to invest US$500 million in a flagship EV plant in the Philippines, the country’s Department of Trade and Industry (DTI) said on Wednesday. The factory is designed to produce 200,000 vehicles […] The post A 200,000-car plant for a 33,000-EV market: Inside…",
+      "published_at": "2026-10-22T10:00:00+00:00",
+      "fetched_at": "2026-10-22T10:06:17+00:00",
+      "summary": "This photograph taken on September 6, 2026 shows a placard opposing data centers displayed on a water dispenser during the People's Convention on AI Data Centers event at Visakhapatnam in India's Andhra Pradesh state. Construction of a massive Google data centre in the Indian city of Visakhapatnam, often called Vizag, has been met with resistance from residents, who fear the impact on the environment and their lives…",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "AI/KI",
+        "Public Health"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Vietnam, Philippines (+2.0)",
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region india: India (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3e4e411443f843516a39"
+      "id": "c3c1ab14446a1cbf4f70"
     }
   ],
   "source_errors": [],

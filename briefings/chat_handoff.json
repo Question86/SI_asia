@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-22T09:44:49+00:00",
+  "generated_at": "2026-10-22T10:06:46+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 42,
-    "displayed_findings": 42,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 0,
     "medium": 16,
-    "observe": 26
+    "observe": 27
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "Big Tech’s thirst for water is sparking a global resistance",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-22T10:00:00+00:00",
+      "relevance_score": 11,
+      "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "summary": "This photograph taken on September 6, 2026 shows a placard opposing data centers displayed on a water dispenser during the People's Convention on AI Data Centers event at Visakhapatnam in India's Andhra Pradesh state. Construction of a massive Google data cen…",
+      "section": "observe"
+    },
+    {
       "title": "新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3",
       "summary": "2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。 修正パッチを速やかに適用することが困難な場合は、例えばウェブサイト等を一時的に停止させることも、リスクを低減させるための有効策の一つと考えられます。 (高市早苗 on X) PHP の任意コード実行の脆弱性 2 件、通称 php2shell（CVE-2026-10961...",
       "section": "observe"
-    },
-    {
-      "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-21T19:34:57+00:00",
-      "relevance_score": 11,
-      "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "summary": "最近は動画で説明資料を作っている アプリの仕組みをお客さんに説明するとき、構成図とかHTML・Markdownで、説明するのが一般的かと思いますが 最近はjavascriptを用いて、Claudeで動画を生成しやすくなったので、アプリの操作と、その裏で起きている処理を交互に見せる解説動画を作って説明に使っています。 めちゃくち...",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,148 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI",
-        "url": "https://e27.co/southeast-asias-sellers-spent-a-decade-learning-to-sell-to-people-now-they-have-to-sell-to-ai-20261010/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-22T01:00:46+00:00",
-        "age_days": 0.37,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "In February 2026, Sea Limited struck a partnership with Google on “agentic shopping prototypes.” By June, Shopee had become the first Southeast Asian e-commerce platform built directly into ChatGPT, live across Indonesia, Malaysia, the Philippines, Singapore, Thailand, Taiwan and Vietnam. Lazada, meanwhile, built its…"
-      },
-      {
-        "title": "AI agents broke into 100 firms for pocket change. SEA’s online shops fit the target profile",
-        "url": "https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-22T01:00:30+00:00",
-        "age_days": 0.37,
-        "topics": [
-          "axiom",
-          "ai",
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "For years, the small business owner in Penang or Cebu has relied on a quiet, unspoken form of security: obscurity. Who would bother hacking a family-run online furniture store when there are banks to rob? The logic was not wrong. Breaking in took skill, time and patience, and skilled criminals price their time like co…"
-      },
-      {
-        "title": "PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）",
-        "url": "https://jvn.jp/vu/JVNVU99905564/",
-        "source": "JVN Japan Vulnerability Notes, TWCERT/CC Security News RSS",
-        "published_at": "2026-10-21T02:46:32+00:00",
-        "age_days": 1.3,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 45.07,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 2,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "source breadth +2",
-          "high terms: rce, 10",
-          "security high-signal: rce, 10"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "2026-019: Critical Vulnerability in GitLab Community and Enterprise Editions",
-        "url": "https://cert.europa.eu/publications/security-advisories/2026-019/",
-        "source": "CERT-EU Security Advisories",
-        "published_at": "2026-10-22T11:14:22+00:00",
-        "age_days": 0,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 45.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, critical",
-          "security high-signal: active, exploitation, critical, unauthenticated",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "On 21 October 2026, GitLab published a security advisory addressing several vulnerabilities among which a critical flaw that could allow an unauthenticated user to execute arbitrary code on a GitLab server. CERT-EU recommends organisations to update affected assets as soon as possible, prioritising internet facing ass…"
-      },
-      {
-        "title": "PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）",
-        "url": "https://jvn.jp/vu/JVNVU99905564/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-22T10:30:00+09:00",
-        "age_days": 0.35,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "The PHP Groupから、PHPの2件の脆弱性（CVE-2026-109618、CVE-2026-109619）に対してアドバイザリが公開されました。"
-      }
-    ]
-  }
+  ]
 }
