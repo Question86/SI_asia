@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T18:25:50+00:00",
+  "generated_at": "2026-10-22T18:41:37+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -848,7 +848,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T17:02:33+00:00",
       "last_seen_at": "2026-10-22T18:25:28+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_51ddce3842860d684833",
@@ -1123,6 +1123,23 @@
       "first_seen_at": "2026-09-04T04:08:59+00:00",
       "last_seen_at": "2026-09-04T12:06:11+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_7ceadf288f317f95f221",
+      "title": "Meta API endpoints updated for Actions blob storage",
+      "event_classes": [
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 11200000.0,
+      "p50_usd": 1120000000.0,
+      "p90_usd": 112000000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T18:40:39+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_1edb48f338a455b86e3f",
@@ -1938,7 +1955,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T07:58:33+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -2006,7 +2023,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-22T15:19:46+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -2687,7 +2704,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-22T15:47:56+00:00",
       "last_seen_at": "2026-10-22T18:25:28+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_016849870c540dd48378",
@@ -4167,6 +4184,23 @@
       "first_seen_at": "2026-09-29T10:50:43+00:00",
       "last_seen_at": "2026-09-29T19:18:52+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_52c5e744b995c310d083",
+      "title": "M 5.0 - 207 km ENE of Nagqu, China",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-22T18:40:39+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_00e85c3d2c185ba34101",
@@ -9469,7 +9503,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -9843,7 +9877,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T09:28:48+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -10132,7 +10166,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -10166,7 +10200,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T07:51:17+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -11186,7 +11220,7 @@
       "p90_usd": 2840000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:46:32+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -11628,7 +11662,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T06:35:06+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -11764,7 +11798,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -11815,7 +11849,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T01:34:29+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -12410,7 +12444,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T06:35:06+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -13039,7 +13073,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T17:34:15+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -13447,7 +13481,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T05:38:58+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -13600,7 +13634,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T17:38:29+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -14110,7 +14144,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T08:29:02+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -14399,7 +14433,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-22T04:07:02+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -16235,7 +16269,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-22T18:25:28+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
       "status": "active"
     },
     {
@@ -17937,7 +17971,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
       "last_seen_at": "2026-10-22T18:25:28+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_cd58cd6b2b317f7e52ff",
@@ -19825,6 +19859,23 @@
       "first_seen_at": "2026-09-28T06:50:23+00:00",
       "last_seen_at": "2026-09-28T18:49:20+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_77d2e8f28f37842c910e",
+      "title": "Public monitoring now available with data residency",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-22T18:40:39+00:00",
+      "last_seen_at": "2026-10-22T18:40:39+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_03377f8133c052e61312",
