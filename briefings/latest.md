@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T02:04:44+00:00_
+_Generiert: 2026-10-22T02:34:11+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+11 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **仕組みを理解する動画を、Claude Codeに作らせると便利すぎる** — Score 11, observation — [Quelle](https://zenn.dev/explaza/articles/c749042ecbe232)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-21T19:34:57+00:00`, fetched `2026-10-22T02:33:42+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 最近は動画で説明資料を作っている アプリの仕組みをお客さんに説明するとき、構成図とかHTML・Markdownで、説明するのが一般的かと思いますが 最近はjavascriptを用いて、Claudeで動画を生成しやすくなったので、アプリの操作と、その裏で起きている処理を交互に見せる解説動画を作って説明に使っています。 めちゃくち...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **We audited our own backlinks. Four domains linked to us, and two of them counted** — Score 7, observation — [Quelle](https://e27.co/we-audited-our-own-backlinks-four-domains-linked-to-us-and-two-of-them-counted-20261018/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-22T02:00:29+00:00`, fetched `2026-10-22T02:04:16+00:00`
@@ -131,15 +140,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: サイトメンテナンス時の正しいHTTP応答 緊急メンテ当日に各社の対応を調べてわかったこと なぜメンテナンス時のHTTP応答が重要なのか 必須事項 やらないと検索結果掲載に問題が発生する可能性があるもの 1. すべてのページで、元のURLのまま503を返す 2. robots.txtは503にせず、通常どおり200で返し続ける 3. 503を数...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-21T14:50:46+00:00`, fetched `2026-10-22T02:04:16+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定 Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsr...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T02:04:46+00:00",
+  "generated_at": "2026-10-22T02:34:15+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -30619,8 +30619,8 @@
       "z_hint": 0.0
     },
     "title:claude-code": {
-      "title": "Claude Code クラウドセッション、使ってみて！",
-      "updated_at": "2026-09-26T23:56:49+00:00",
+      "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
+      "updated_at": "2026-10-22T02:34:15+00:00",
       "network_scores": [
         13.1,
         13.1,
@@ -30651,12 +30651,12 @@
         13.1,
         13.1,
         13.1,
-        13.1
+        16.1
       ],
-      "rolling_average": 13.1,
-      "rolling_peak": 13.1,
-      "last_score": 13.1,
-      "z_hint": -0.0
+      "rolling_average": 13.2,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 2.9
     },
     "earthquake:m 4.9 - 86 km ssw of isangel, vanuatu:4.9": {
       "title": "M 4.9 - 86 km SSW of Isangel, Vanuatu",
@@ -38600,7 +38600,7 @@
     },
     "title:isc-bind-2026": {
       "title": "ISC BINDにおける複数の脆弱性（2026年10月）",
-      "updated_at": "2026-10-22T02:04:46+00:00",
+      "updated_at": "2026-10-22T02:34:15+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -38627,8 +38627,8 @@
         16.1,
         16.1,
         16.1,
-        16.1,
         19.1,
+        16.1,
         16.1,
         16.1,
         16.1
@@ -42446,7 +42446,7 @@
     },
     "title:excel": {
       "title": "デジタル庁、「神Excel」対策ツールを公開 AIと組み合わせたデータ整備方法も紹介",
-      "updated_at": "2026-10-22T02:04:46+00:00",
+      "updated_at": "2026-10-22T02:34:15+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -42473,8 +42473,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1
@@ -83320,9 +83320,8 @@
     },
     "cve:CVE-2026-109618": {
       "title": "PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）",
-      "updated_at": "2026-10-22T02:04:46+00:00",
+      "updated_at": "2026-10-22T02:34:15+00:00",
       "network_scores": [
-        16.2,
         16.2,
         16.2,
         16.2,
@@ -83351,12 +83350,13 @@
         16.2,
         21.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 16.49,
+      "rolling_average": 16.55,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": 1.61
+      "z_hint": 1.55
     },
     "title:use-support-public-relations": {
       "title": "How I use AI to support public relations",
@@ -84611,7 +84611,64 @@
     },
     "domain:www.sem-r.com": {
       "title": "メンテナンス中に503を返すだけでは足りない Google公式ドキュメントで読む必須・推奨・禁止事項 - SEMリサーチ",
-      "updated_at": "2026-10-22T02:04:46+00:00",
+      "updated_at": "2026-10-22T02:34:15+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.7,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.6
+    },
+    "title:southeast-asia-sellers-spent-decade-learning-sell-people": {
+      "title": "Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI",
+      "updated_at": "2026-10-22T02:34:15+00:00",
+      "network_scores": [
+        28.1,
+        25.1,
+        25.1,
+        25.1
+      ],
+      "rolling_average": 25.85,
+      "rolling_peak": 28.1,
+      "last_score": 25.1,
+      "z_hint": -0.75
+    },
+    "title:agents-broke-100-firms-pocket-change-sea-online": {
+      "title": "AI agents broke into 100 firms for pocket change. SEA’s online shops fit the target profile",
+      "updated_at": "2026-10-22T02:34:15+00:00",
+      "network_scores": [
+        28.1,
+        25.1,
+        25.1,
+        25.1
+      ],
+      "rolling_average": 25.85,
+      "rolling_peak": 28.1,
+      "last_score": 25.1,
+      "z_hint": -0.75
+    },
+    "title:liff-sdk": {
+      "title": "LIFF SDKにおけるクロスサイトスクリプティングの脆弱性",
+      "updated_at": "2026-10-22T02:34:15+00:00",
+      "network_scores": [
+        19.1,
+        16.1,
+        16.1,
+        16.1
+      ],
+      "rolling_average": 16.85,
+      "rolling_peak": 19.1,
+      "last_score": 16.1,
+      "z_hint": -0.75
+    },
+    "title:apache-tomcat-critical-v10-v11": {
+      "title": "「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／",
+      "updated_at": "2026-10-22T02:34:15+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -84623,79 +84680,29 @@
       "last_score": 7.1,
       "z_hint": -0.75
     },
-    "title:southeast-asia-sellers-spent-decade-learning-sell-people": {
-      "title": "Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI",
-      "updated_at": "2026-10-22T02:04:46+00:00",
-      "network_scores": [
-        28.1,
-        25.1,
-        25.1
-      ],
-      "rolling_average": 26.1,
-      "rolling_peak": 28.1,
-      "last_score": 25.1,
-      "z_hint": -1.0
-    },
-    "title:agents-broke-100-firms-pocket-change-sea-online": {
-      "title": "AI agents broke into 100 firms for pocket change. SEA’s online shops fit the target profile",
-      "updated_at": "2026-10-22T02:04:46+00:00",
-      "network_scores": [
-        28.1,
-        25.1,
-        25.1
-      ],
-      "rolling_average": 26.1,
-      "rolling_peak": 28.1,
-      "last_score": 25.1,
-      "z_hint": -1.0
-    },
-    "title:liff-sdk": {
-      "title": "LIFF SDKにおけるクロスサイトスクリプティングの脆弱性",
-      "updated_at": "2026-10-22T02:04:46+00:00",
-      "network_scores": [
-        19.1,
-        16.1,
-        16.1
-      ],
-      "rolling_average": 17.1,
-      "rolling_peak": 19.1,
-      "last_score": 16.1,
-      "z_hint": -1.0
-    },
-    "title:apache-tomcat-critical-v10-v11": {
-      "title": "「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／",
-      "updated_at": "2026-10-22T02:04:46+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 8.1,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -1.0
-    },
     "title:audited-our-own-backlinks-four-domains-linked-two": {
       "title": "We audited our own backlinks. Four domains linked to us, and two of them counted",
-      "updated_at": "2026-10-22T02:04:46+00:00",
+      "updated_at": "2026-10-22T02:34:15+00:00",
       "network_scores": [
-        12.1
+        12.1,
+        9.1
       ],
-      "rolling_average": 12.1,
+      "rolling_average": 10.6,
       "rolling_peak": 12.1,
-      "last_score": 12.1,
-      "z_hint": 0.0
+      "last_score": 9.1,
+      "z_hint": -1.5
     },
     "title:cloudflare-typescript-rust-tsrs-typescript-lsp-typescript": {
       "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
-      "updated_at": "2026-10-22T02:04:46+00:00",
+      "updated_at": "2026-10-22T02:34:15+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
+      "last_score": 7.1,
+      "z_hint": -1.5
     }
   }
 }
