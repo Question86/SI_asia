@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T04:07:00+00:00",
-  "run_id": "2026-10-22T04:07:00+00:00",
+  "generated_at": "2026-10-22T04:28:42+00:00",
+  "run_id": "2026-10-22T04:28:42+00:00",
   "date": "2026-10-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 16
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 6,
-    "observe": 9,
+    "observe": 10,
     "source_errors": 0
   },
   "sections": {
@@ -191,6 +191,28 @@
       }
     ],
     "observe": [
+      {
+        "title": "新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞",
+        "url": "https://www.twcert.org.tw/tw/cp-132-11307-ae4b3-1.html",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-22T03:59:00+00:00",
+        "fetched_at": "2026-10-22T04:28:15+00:00",
+        "summary": "新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞",
+        "matched_keywords": [
+          "Security",
+          "TVN",
+          "TWCERT"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "029e835de018c054d5ce"
+      },
       {
         "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
         "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
@@ -560,6 +582,28 @@
       "id": "1aa99b57695914a4f994"
     },
     {
+      "title": "新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11307-ae4b3-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-22T03:59:00+00:00",
+      "fetched_at": "2026-10-22T04:28:15+00:00",
+      "summary": "新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞",
+      "matched_keywords": [
+        "Security",
+        "TVN",
+        "TWCERT"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "029e835de018c054d5ce"
+    },
+    {
       "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
       "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
       "source": "Hatena Bookmark Hotentry IT",
@@ -767,26 +811,26 @@
   ],
   "new_findings": [
     {
-      "title": "AI took perfect notes. Then it ruined the deck",
-      "url": "https://e27.co/ai-took-perfect-notes-then-it-ruined-the-deck-20261018/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11307-ae4b3-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "source_type": "rss",
-      "published_at": "2026-10-22T04:00:58+00:00",
-      "fetched_at": "2026-10-22T04:06:31+00:00",
-      "summary": "I knew within the first two minutes of glancing through the deck. A strategy workshop for our senior stakeholders had just wrapped. The session itself was good: the partner facilitating it followed our brief, the debate was sharp, and an AI tool captured the notes. When the deck arrived, I opened it and felt that […] The post AI took perfect notes. Then it ruined the deck appeared first on e27 .",
+      "published_at": "2026-10-22T03:59:00+00:00",
+      "fetched_at": "2026-10-22T04:28:15+00:00",
+      "summary": "新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Markets/Capital Structure"
+        "Security",
+        "TVN",
+        "TWCERT"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1aa99b57695914a4f994"
+      "id": "029e835de018c054d5ce"
     }
   ],
   "source_errors": [],

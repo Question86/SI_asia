@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T04:07:00+00:00_
+_Generiert: 2026-10-22T04:28:42+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+16 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11307-ae4b3-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-10-22T03:59:00+00:00`, fetched `2026-10-22T04:28:15+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **仕組みを理解する動画を、Claude Codeに作らせると便利すぎる** — Score 11, observation — [Quelle](https://zenn.dev/explaza/articles/c749042ecbe232)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-21T19:34:57+00:00`, fetched `2026-10-22T02:33:42+00:00`
