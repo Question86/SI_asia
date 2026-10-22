@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-22T14:38:16+00:00",
-  "run_id": "2026-10-22T14:38:16+00:00",
+  "generated_at": "2026-10-22T14:50:01+00:00",
+  "run_id": "2026-10-22T14:50:01+00:00",
   "date": "2026-10-22",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 61
+      "configured_public_sources_only": 62
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
     "medium": 19,
-    "observe": 42,
-    "source_errors": 0
+    "observe": 43,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -742,6 +742,39 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3453d33a7513aa55f7f5"
+      },
+      {
+        "title": "Außerplanmäßige Fortinet-Updates: Details Fehlanzeige, aber dringend",
+        "url": "https://www.heise.de/news/Ausserplanmaessige-Fortinet-Updates-Details-Fehlanzeige-aber-dringend-11497171.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-10-22T14:38:00.000+00:00",
+        "fetched_at": "2026-10-22T14:49:19+00:00",
+        "summary": "Fortinet will am Donnerstag Updates veröffentlichen, die Admins dringend installieren sollen. Details folgen erst im November.",
+        "matched_keywords": [
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: Fortinet"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "3a384a494c8f5ea56652"
       },
       {
         "title": "AI・デジタル改革推進会議（第1回）の議事次第および資料を掲載しました",
@@ -2268,6 +2301,39 @@
       "id": "3453d33a7513aa55f7f5"
     },
     {
+      "title": "Außerplanmäßige Fortinet-Updates: Details Fehlanzeige, aber dringend",
+      "url": "https://www.heise.de/news/Ausserplanmaessige-Fortinet-Updates-Details-Fehlanzeige-aber-dringend-11497171.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-22T14:38:00.000+00:00",
+      "fetched_at": "2026-10-22T14:49:19+00:00",
+      "summary": "Fortinet will am Donnerstag Updates veröffentlichen, die Admins dringend installieren sollen. Details folgen erst im November.",
+      "matched_keywords": [
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "3a384a494c8f5ea56652"
+    },
+    {
       "title": "AI・デジタル改革推進会議（第1回）の議事次第および資料を掲載しました",
       "url": "https://www.digital.go.jp/councils/ai_digital/1f3aa34a-786d-4b56-99a4-469f8f933f1c",
       "source": "Japan Digital Agency News RSS",
@@ -3079,28 +3145,47 @@
   ],
   "new_findings": [
     {
-      "title": "いやマジで総理大臣がPHP脆弱性対応について発信してくれたおかげで社内への説明がクソ楽だった…「総理自ら発信するレベルですよ？」で反論・苦情をほとんど封じ込めた",
-      "url": "https://togetter.com/li/2761457",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Außerplanmäßige Fortinet-Updates: Details Fehlanzeige, aber dringend",
+      "url": "https://www.heise.de/news/Ausserplanmaessige-Fortinet-Updates-Details-Fehlanzeige-aber-dringend-11497171.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-10-22T08:30:07+00:00",
-      "fetched_at": "2026-10-22T14:37:46+00:00",
-      "summary": "どら @Drumaster いやマジで総理大臣がPHP脆弱性対応について発信してくれたおかげで社内への説明がクソ楽だった…「総理自ら発信するレベルですよ？？？ニュース見てないんですか？？？」で反論苦情殆ど封じることできた… 2026-10-22 12:14:16 高市早苗 @takaichi_sanae 皆様に、今夜に対応して頂きたい大至急のお願いで...",
+      "published_at": "2026-10-22T14:38:00.000+00:00",
+      "fetched_at": "2026-10-22T14:49:19+00:00",
+      "summary": "Fortinet will am Donnerstag Updates veröffentlichen, die Admins dringend installieren sollen. Details folgen erst im November.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "17a87831fe78ee03403c"
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "3a384a494c8f5ea56652"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "bsi_cert_bund_csw",
+      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

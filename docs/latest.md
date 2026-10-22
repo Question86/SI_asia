@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T14:38:16+00:00_
+_Generiert: 2026-10-22T14:50:01+00:00_
 
 ## Kurzlage
 
-61 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+62 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A high-throughput and memory-efficient inference and serving engine for LLMs https://vllm.ai Easy, fast, and cheap LLM serving for everyone | Documentation | Blog | Paper | Twitter/X | User Forum | Developer Slack | 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please visit vllm.ai/events to join us. About vLLM is a fast and easy-to-use library for…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Außerplanmäßige Fortinet-Updates: Details Fehlanzeige, aber dringend** — Score 10, observation — [Quelle](https://www.heise.de/news/Ausserplanmaessige-Fortinet-Updates-Details-Fehlanzeige-aber-dringend-11497171.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-22T14:38:00.000+00:00`, fetched `2026-10-22T14:49:19+00:00`
+  - Treffer: Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Fortinet will am Donnerstag Updates veröffentlichen, die Admins dringend installieren sollen. Details folgen erst im November.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI・デジタル改革推進会議（第1回）の議事次第および資料を掲載しました** — Score 10, observation — [Quelle](https://www.digital.go.jp/councils/ai_digital/1f3aa34a-786d-4b56-99a4-469f8f933f1c)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-22T07:59:37+00:00`, fetched `2026-10-22T08:15:44+00:00`
@@ -258,15 +267,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); recent (+1.0)
   - Kurz: PHP官方於2026年10月21日發布安全性更新，修補CVE-2026-109618及CVE-2026-109619兩項嚴重漏洞，CVSS v4.0基礎分數皆為9.2，未經身分驗證之攻擊者可能利用漏洞執行遠端程式碼。TWCERT/CC已發布 漏洞警訊公告 ，美國網路安全暨基礎設施安全局（CISA）、歐盟電腦緊急應變小組（CERT-EU）及英國國家網路安全中心（NCSC）等機構相繼發布警告，呼籲使用PHP之單位立即完成更新；若無法立即更新，應考慮隔離對外系統或暫停服務。 PHP 官方公告 PHP官方於2026年10月20日預告，將於10月21日14:00 UTC（台灣時間22:00）發布安全性更新，修補2項嚴重漏洞，並表示若漏洞細節提前公開或出現實際利用跡象，將提前發布。 PHP官方於10月21日發布更新，修補之漏洞如下： CVE 編號 漏洞類型 CVSS v4.0 基礎分數 CVE-2026-109618 遠端程式碼執行 9.…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Scouter enters Singapore’s crowded cyber market with a “listen first” promise** — Score 8, observation — [Quelle](https://e27.co/scouter-enters-singapores-crowded-cyber-market-with-a-listen-first-promise-20261022/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-22T06:08:05+00:00`, fetched `2026-10-22T06:34:32+00:00`
-  - Treffer: APAC Trend Radar, Public Health, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph demote demo (x0.45)
-  - Kurz: Anyone who has run security at a large Singapore organisation knows the routine. A vendor turns up with a slide deck, a slick demo and a quarterly target, and the talk is about the product long before anyone has asked what is actually keeping the security team up at night. Raz Kotler has sat on […] The post Scouter enters Singapore’s crowded cyber market with a “listen first” promise appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -277,3 +277,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
