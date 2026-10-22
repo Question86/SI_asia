@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-22T09:07:16+00:00_
+_Generated: 2026-10-22T09:28:45+00:00_
 
 ## Status
 - status: `normal`
-- findings: `38`
+- findings: `41`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-22T09:07:16+00:00_
 - url: https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/
 - summary: For years, the small business owner in Penang or Cebu has relied on a quiet, unspoken form of security: obscurity. Who would bother hacking a family-run online furniture store when there are banks to rob? The logic was not wrong. Breaking in took skill, time…
 
-### 4. headroomlabs-ai/headroom
-- source: GitHub Trending RSS All Languages Daily
-- score: `19`
-- published: `None`
-- url: https://github.com/headroomlabs-ai/headroom
-- summary: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. https://docs.headroomlabs.ai/docs Quickstart · Headroom for Teams · Insta…
+### 4. 2026-019: Critical Vulnerability in GitLab Community and Enterprise Editions
+- source: CERT-EU Security Advisories
+- score: `20`
+- published: `2026-10-22T11:14:22+00:00`
+- url: https://cert.europa.eu/publications/security-advisories/2026-019/
+- summary: On 21 October 2026, GitLab published a security advisory addressing several vulnerabilities among which a critical flaw that could allow an unauthenticated user to execute arbitrary code on a GitLab server. CERT-EU recommends organisations to update affected…
 
 ### 5. 新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞
 - source: TWCERT/CC TVN Vulnerability Notes RSS

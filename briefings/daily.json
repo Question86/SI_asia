@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T09:07:19+00:00",
-  "today_file_total": 38,
+  "generated_at": "2026-10-22T09:28:48+00:00",
+  "today_file_total": 41,
   "current_clusters": [
     {
       "key": "cve:CVE-2026-109618",
@@ -101,6 +101,31 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
+      "key": "domain:cert.europa.eu",
+      "title": "2026-019: Critical Vulnerability in GitLab Community and Enterprise Editions",
+      "sources": [
+        "CERT-EU Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://cert.europa.eu/publications/security-advisories/2026-019/"
+      ],
+      "finding_count": 1,
+      "max_score": 20,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 25.1,
+      "hot": true,
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
       "key": "domain:wid.cert-bund.de",
       "title": "[UPDATE] [mittel] Xerox FreeFlow Print Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
       "sources": [
@@ -151,6 +176,29 @@
         "ai_agents_workflow"
       ],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+    },
+    {
+      "key": "cve:CVE-2026-111497",
+      "title": "Node.js發布安全性更新修補10項漏洞，其中CVE-2026-111497可導致遠端程式碼執行，籲儘速更新",
+      "sources": [
+        "TWCERT/CC Security News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.twcert.org.tw/tw/cp-104-11309-2266c-1.html"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:hong-kong-taiwan-founders-are-cheering-boom-southeast",
@@ -243,31 +291,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:m 4.5 - 136 km ne of petropavlovsk-kamchatsky, russia:4.5",
-      "title": "M 4.5 - 136 km NE of Petropavlovsk-Kamchatsky, Russia",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u423"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "domain:www.twcert.org",
@@ -408,33 +431,31 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 4.6 - 49 km ne of yigo village, guam:4.6",
-      "title": "M 4.6 - 49 km NE of Yigo Village, Guam",
+      "key": "title:taiwan-pavilion-switch-2026-meet-taiwanese-startups-heading",
+      "title": "Taiwan Pavilion at SWITCH 2026: Meet the 33 Taiwanese startups heading to Singapore",
       "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
-        "tier1_official"
+        "tier3_specialist"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u41z"
+        "https://e27.co/taiwan-pavilion-at-switch-2026-meet-the-33-taiwanese-startups-heading-to-singapore-20261022/"
       ],
       "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
+      "max_score": 7,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.1,
       "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     },
     {
-      "key": "earthquake:m 4.8 - 86 km s of kokopo, papua new guinea:4.8",
-      "title": "M 4.8 - 86 km S of Kokopo, Papua New Guinea",
+      "key": "earthquake:m 4.5 - 136 km ne of petropavlovsk-kamchatsky, russia:4.5",
+      "title": "M 4.5 - 136 km NE of Petropavlovsk-Kamchatsky, Russia",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -442,32 +463,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u417"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 4.8 - reykjanes ridge:4.8",
-      "title": "M 4.8 - Reykjanes Ridge",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u411"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u423"
       ],
       "finding_count": 1,
       "max_score": 9,
