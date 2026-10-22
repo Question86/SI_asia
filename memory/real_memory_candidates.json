@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-10-22T06:57:26Z",
+  "generated_at": "2026-10-22T07:21:57Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -23,17 +23,17 @@
   ],
   "current_dynamic_memory_candidates": [
     {
-      "title": "PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）",
-      "band": "extreme",
-      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
-    },
-    {
       "title": "Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI",
       "band": "extreme",
       "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
     },
     {
       "title": "AI agents broke into 100 firms for pocket change. SEA’s online shops fit the target profile",
+      "band": "extreme",
+      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
+    },
+    {
+      "title": "PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）",
       "band": "extreme",
       "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
     },
