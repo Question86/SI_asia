@@ -1033,6 +1033,42 @@
     "id": "89d81dbd824fd7966835"
   },
   {
+    "title": "M 5.0 - 153 km S of Kokopo, Papua New Guinea",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u473",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-22T20:38:22.040+00:00",
+    "fetched_at": "2026-10-22T20:54:09+00:00",
+    "summary": "Time 2026-10-22 20:05:04 UTC 2026-10-22 20:05:04 UTC at epicenter Location 5.728°S 152.265°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "9914498a7d3683fbb0d0"
+  },
+  {
     "title": "M 4.9 - 104 km NNE of Hihifo, Tonga",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u46r",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1788,6 +1824,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3e4e411443f843516a39"
+  },
+  {
+    "title": "デジタル庁HPの問い合わせ内容漏洩か 最大1万3000件以上",
+    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000542237.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-22T16:19:51+00:00",
+    "fetched_at": "2026-10-22T20:54:09+00:00",
+    "summary": "1 デジタル庁は22日夜、ホームページの問い合わせフォームに入力された内容など最大1万3000件余りが外部に流出した可能性があると発表しました。 デジタル庁によりますと、流出した可能性があるのは2021年5月から2023年3月までの間にホームページの問い合わせフォームに入力された「一般的なご意見・ご要望」最大8833件...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3ce4d5c8eb1bf578367f"
   },
   {
     "title": "Claude Opus 5.5でいい感じのアクションゲームを作るための一工夫七つ - ABAの日誌",
