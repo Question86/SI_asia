@@ -204,6 +204,42 @@
     "id": "c8bf3be1ecd493478f0d"
   },
   {
+    "title": "M 4.8 - Reykjanes Ridge",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u411",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-22T05:16:10.040+00:00",
+    "fetched_at": "2026-10-22T05:25:22+00:00",
+    "summary": "Time 2026-10-22 04:44:17 UTC 2026-10-22 04:44:17 UTC at epicenter Location 56.966°N 34.094°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "532fd4f0d563247be54d"
+  },
+  {
     "title": "M 4.6 - 97 km SW of El Palmarcito, Mexico",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40r",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -322,6 +358,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "40b342d286be2ee08df8"
+  },
+  {
+    "title": "大阪大、学生など7.8万人の情報漏えい NECが無断で協力会社とデータ共有",
+    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002491/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-22T01:44:37+00:00",
+    "fetched_at": "2026-10-22T05:25:22+00:00",
+    "summary": "大阪大学（阪大）は10月21日、全学教育用電子計算機システムの運用を委託しているNECから、卒業生や在学生、教職員の計7万7851人分の個人情報が漏えいしたと発表した。 NECは、大学に報告していない協力会社と情報を共有するため、個人情報を含むファイルをクラウドストレージ上で共有していたという。加えてNECは、作業...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "09a54be7676c8765ced5"
   },
   {
     "title": "「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／",
