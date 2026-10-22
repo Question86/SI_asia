@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-22T05:25:50+00:00_
+_Generated: 2026-10-22T05:38:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `20`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-22T05:25:50+00:00_
 - url: https://jvn.jp/vu/JVNVU99905564/
 - summary: The PHP Groupから、PHPの2件の脆弱性（CVE-2026-109618、CVE-2026-109619）に対してアドバイザリが公開されました。
 
-### 4. LIFF SDKにおけるクロスサイトスクリプティングの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-22T10:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU91023667/
-- summary: LINEヤフー株式会社が提供するLIFF SDKには、クロスサイトスクリプティングの脆弱性が存在します。
+### 4. Hong Kong and Taiwan founders are cheering the AI boom. Southeast Asia isn’t in the room
+- source: e27 Asia Startup and Tech Feed
+- score: `16`
+- published: `2026-10-22T05:38:00+00:00`
+- url: https://e27.co/hong-kong-and-taiwan-founders-are-cheering-the-ai-boom-southeast-asia-isnt-in-the-room-20261022/
+- summary: A year ago, some of the most nervous entrepreneurs in the world were in Hong Kong, Taipei and Shanghai. Trade tensions, a property slump in mainland China and a stalled listings market had put founders there among the most cautious respondents in HSBC’s annua…
 
 ### 5. 新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞
 - source: TWCERT/CC TVN Vulnerability Notes RSS

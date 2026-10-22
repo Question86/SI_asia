@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T05:25:50+00:00_
+_Generiert: 2026-10-22T05:38:54+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+20 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: The PHP Groupから、PHPの2件の脆弱性（CVE-2026-109618、CVE-2026-109619）に対してアドバイザリが公開されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Hong Kong and Taiwan founders are cheering the AI boom. Southeast Asia isn’t in the room** — Score 16, observation — [Quelle](https://e27.co/hong-kong-and-taiwan-founders-are-cheering-the-ai-boom-southeast-asia-isnt-in-the-room-20261022/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-22T05:38:00+00:00`, fetched `2026-10-22T05:38:21+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); founder (+2.5); recent (+1.0); watchgraph region china_credible_only: China, Shanghai, Hong Kong (+2.0)
+  - Kurz: A year ago, some of the most nervous entrepreneurs in the world were in Hong Kong, Taipei and Shanghai. Trade tensions, a property slump in mainland China and a stalled listings market had put founders there among the most cautious respondents in HSBC’s annual survey of business owners. Twelve months on, they are the most […] The post Hong Kong and Taiwan founders are cheering the AI boom. Southeast Asia isn’t in th…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **LIFF SDKにおけるクロスサイトスクリプティングの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91023667/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-22T10:00:00+09:00`, fetched `2026-10-22T01:33:59+00:00`
@@ -57,15 +66,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ISC（Internet Systems Consortium）から、ISC BINDの複数の脆弱性が公開されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI took perfect notes. Then it ruined the deck** — Score 14, observation — [Quelle](https://e27.co/ai-took-perfect-notes-then-it-ruined-the-deck-20261018/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-22T04:00:58+00:00`, fetched `2026-10-22T04:06:31+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Markets/Capital Structure
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)
-  - Kurz: I knew within the first two minutes of glancing through the deck. A strategy workshop for our senior stakeholders had just wrapped. The session itself was good: the partner facilitating it followed our brief, the debate was sharp, and an AI tool captured the notes. When the deck arrived, I opened it and felt that […] The post AI took perfect notes. Then it ruined the deck appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
