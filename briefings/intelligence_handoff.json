@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-23T08:19:20Z",
+  "generated_at": "2026-10-23T08:46:41Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “プリザンターのLDAP認証における認証不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN82312317/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T15:00:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU93251594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:15+09:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security"
@@ -91,7 +91,7 @@
       "url": "https://github.com/supabase/supabase",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:52:34+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -120,7 +120,7 @@
       "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:27:02+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -147,7 +147,7 @@
       "url": "https://jvn.jp/vu/JVNVU98747108/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:00+09:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -173,7 +173,7 @@
       "url": "https://github.com/php/php-src",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:52:34+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -199,7 +199,7 @@
       "url": "https://github.com/supabase/supabase",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:53:07+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -224,7 +224,7 @@
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 127.48,
+      "age_days": 127.5,
       "topics": [
         "ai",
         "security"
@@ -236,12 +236,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.39,
+      "baseline_z_hint": 7.99,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 8.39",
+        "baseline z_hint 7.99",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 127.5d old signal",
@@ -254,7 +254,7 @@
       "url": "https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:03:21+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -277,36 +277,36 @@
       "summary": ""
     },
     {
-      "title": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-10-23T06:53:07+00:00",
-      "age_days": 0.06,
+      "title": "Cisco stopft diverse, teils kritische Sicherheitslücken",
+      "url": "https://www.heise.de/news/Cisco-stopft-diverse-teils-kritische-Sicherheitsluecken-11497857.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-10-23T08:10:00.000+00:00",
+      "age_days": 0.03,
       "topics": [
-        "general"
+        "security"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "krass gate: single-source non-official/non-identity signal capped"
+        "high terms: kritisch",
+        "security high-signal: kritisch"
       ],
-      "summary": ""
+      "summary": "In mehreren Produkten von Cisco klaffen teils kritische Lücken. Der Hersteller stellt Sicherheitsupdates bereit."
     },
     {
       "title": "Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out",
       "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:06:10+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
