@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T15:59:44+00:00",
-  "run_id": "2026-10-23T15:59:44+00:00",
+  "generated_at": "2026-10-23T16:24:19+00:00",
+  "run_id": "2026-10-23T16:24:19+00:00",
   "date": "2026-10-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 61
+      "configured_public_sources_only": 62
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 1,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
     "medium": 24,
-    "observe": 37,
+    "observe": 38,
     "source_errors": 0
   },
   "sections": {
@@ -1098,6 +1098,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fdc805cf461c3702504b"
+      },
+      {
+        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-23T17:00:00+00:00",
+        "fetched_at": "2026-10-23T16:23:46+00:00",
+        "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "OpenAI (+7.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b38ce93d1033ff387b86"
       },
       {
         "title": "Multiples vulnérabilités dans Laravel (20 octobre 2026)",
@@ -2634,6 +2654,26 @@
       "id": "fdc805cf461c3702504b"
     },
     {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-23T17:00:00+00:00",
+      "fetched_at": "2026-10-23T16:23:46+00:00",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b38ce93d1033ff387b86"
+    },
+    {
       "title": "Multiples vulnérabilités dans Laravel (20 octobre 2026)",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1343/",
       "source": "CERT-FR Avis de sécurité",
@@ -3097,7 +3137,28 @@
       "id": "d6a9a047d7b4b7c8d873"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-23T17:00:00+00:00",
+      "fetched_at": "2026-10-23T16:23:46+00:00",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b38ce93d1033ff387b86"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
