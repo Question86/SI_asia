@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-23T11:22:19+00:00",
+  "generated_at": "2026-10-23T11:36:00+00:00",
   "topics": {
     "geopolitics": [
       {
@@ -163,6 +163,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4141"
       },
       {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux cockpit-machines: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T11:25:52+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4118"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-23T11:00:00+09:00",
@@ -210,13 +217,6 @@
         "published_at": "2026-10-23T10:50:52+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4139"
-      },
-      {
-        "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-23T10:50:51+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4137"
       }
     ],
     "github": [
