@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-23T10:34:25+00:00",
+  "generated_at": "2026-10-23T11:02:35+00:00",
   "topics": {
     "geopolitics": [
       {
@@ -19,6 +19,13 @@
         "url": "https://github.com/Graphify-Labs/graphify"
       },
       {
+        "title": "[NEU] [niedrig] KNIME Analytics Platform: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:50:52+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4141"
+      },
+      {
         "title": "Male founders are losing confidence. Women are doubling down on AI",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-23T01:30:20+00:00",
@@ -26,25 +33,46 @@
         "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/"
       },
       {
+        "title": "[NEU] [mittel] Livewire: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:50:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4140"
+      },
+      {
+        "title": "[NEU] [mittel] Drupal Module (View Unpublished, Simple OAuth und Domain Login Restrict): Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:50:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4138"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Java SE and GraalVM, und OpenJDK: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:50:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4139"
+      },
+      {
+        "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:50:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4137"
+      },
+      {
+        "title": "[NEU] [hoch] TianoCore EDK2 PXE Treiber: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:45:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4136"
+      },
+      {
         "title": "[NEU] [mittel] Qt Core QXmlStream parser: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-23T10:25:53+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4122"
-      },
-      {
-        "title": "ECB Consumer Expectations Survey results – September 2026",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-10-23T08:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html"
-      },
-      {
-        "title": "Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-23T04:06:10+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/"
       }
     ],
     "ai": [
@@ -75,6 +103,13 @@
         "published_at": "2026-10-23T01:30:20+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/"
+      },
+      {
+        "title": "[NEU] [mittel] Drupal Module (View Unpublished, Simple OAuth und Domain Login Restrict): Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:50:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4138"
       },
       {
         "title": "[UPDATE] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
@@ -110,13 +145,6 @@
         "published_at": null,
         "relevance_score": 11,
         "url": "https://github.com/php/php-src"
-      },
-      {
-        "title": "GitHub Copilot in Visual Studio — September update",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-23T00:17:51+00:00",
-        "relevance_score": 9,
-        "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2"
       }
     ],
     "security": [
@@ -126,6 +154,13 @@
         "published_at": "2026-10-23T00:00:00+00:00",
         "relevance_score": 22,
         "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+      },
+      {
+        "title": "[NEU] [niedrig] KNIME Analytics Platform: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:50:52+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4141"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
@@ -156,39 +191,32 @@
         "url": "https://jvn.jp/vu/JVNVU93251594/"
       },
       {
-        "title": "[UPDATE] [hoch] Apache Traffic Server: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Livewire: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-23T10:25:53+00:00",
+        "published_at": "2026-10-23T10:50:52+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4112"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4140"
       },
       {
-        "title": "[NEU] [mittel] Qt Core QXmlStream parser: Schwachstelle ermöglicht Denial of Service",
+        "title": "[NEU] [mittel] Drupal Module (View Unpublished, Simple OAuth und Domain Login Restrict): Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-23T10:25:53+00:00",
+        "published_at": "2026-10-23T10:50:52+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4122"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4138"
       },
       {
-        "title": "[UPDATE] [hoch] ClamAV: Mehrere Schwachstellen ermöglichen Denial of Service und Offenlegung von Informationen",
+        "title": "[NEU] [hoch] Oracle Java SE and GraalVM, und OpenJDK: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-23T10:25:52+00:00",
+        "published_at": "2026-10-23T10:50:52+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2708"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4139"
       },
       {
-        "title": "[UPDATE] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-23T09:31:48+00:00",
+        "published_at": "2026-10-23T10:50:51+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4043"
-      },
-      {
-        "title": "[UPDATE] [mittel] Node.js: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-23T09:00:51+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4117"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4137"
       }
     ],
     "github": [
@@ -235,6 +263,13 @@
         "published_at": "2026-10-23T09:28:24.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4b3"
+      },
+      {
+        "title": "M 5.7 - 61 km WNW of Leni, Italy",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-23T10:56:44.437+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk"
       },
       {
         "title": "M 4.5 - 18 km NNW of Yongning, China",
@@ -291,13 +326,6 @@
         "published_at": "2026-10-23T02:48:48+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-261023-01"
-      },
-      {
-        "title": "PHP2Shellへの対応を振り返って - コドモン Product Team Blog",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-23T09:00:03+00:00",
-        "relevance_score": 5,
-        "url": "https://tech.codmon.com/entry/2026/10/23/173909"
       }
     ],
     "economy": [

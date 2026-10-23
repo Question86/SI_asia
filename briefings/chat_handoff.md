@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-23T10:34:25+00:00_
+_Generated: 2026-10-23T11:02:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `47`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-23T10:34:25+00:00_
 - url: https://github.com/Graphify-Labs/graphify
 - summary: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. https://www.graphify.…
 
-### 5. Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory
+### 5. M 5.7 - 61 km WNW of Leni, Italy
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-23T10:56:44.437+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk
+- summary: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-10-23 10:19:16 UTC 2026-10-23 10:19:16 UTC at epicenter Location 38.720°N 14.152°E Depth 10.00 km (6.21 mi)
+
+### 6. Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-23T05:19:38+00:00`
 - url: https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/
 - summary: Southeast Asia does not have a shortage of AI pilots. It has a shortage of AI pilots that ever leave the lab. A recent regional survey found that 57 per cent of SEA firms can’t scale their AI pilots, a stretch of corporate limbo now known in industry jargon a…
 
-### 6. M 4.5 - 18 km NNW of Yongning, China
+### 7. M 4.5 - 18 km NNW of Yongning, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-23T02:57:13.876+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a
 - summary: DYFI? - II Time 2026-10-23 02:17:01 UTC 2026-10-23 02:17:01 UTC at epicenter Location 27.999°N 100.619°E Depth 10.00 km (6.21 mi)
 
-### 7. supabase/supabase
+### 8. supabase/supabase
 - source: GitHub Trending RSS All Languages Daily
 - score: `11`
 - published: `None`
 - url: https://github.com/supabase/supabase
 - summary: The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. https://supabase.com Supabase Supabase is the Postgres development platform. We're building the features of Firebase using ente…
-
-### 8. php/php-src
-- source: GitHub Trending RSS All Languages Daily
-- score: `11`
-- published: `None`
-- url: https://github.com/php/php-src
-- summary: The PHP Interpreter https://www.php.net The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in th…
 
 END OF DOCUMENT

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:34:28+00:00",
+  "generated_at": "2026-10-23T11:02:37+00:00",
   "sections": {
     "global_security": [
       {
@@ -80,6 +80,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Italy 23/10/2026 10:19 UTC, 890 thousand in MMI&gt;=IV.",
+        "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Italy 23/10/2026 10:19 UTC, 890 thousand in MMI&gt;=IV.",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573344",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI&gt;=VII).",
         "summary": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
@@ -106,6 +116,21 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001341",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.7 - 61 km WNW of Leni, Italy",
+        "summary": "M5.7 - 61 km WNW of Leni, Italy. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk",
+        "published_at": "2026-10-23T10:19:16+00:00",
+        "metrics": {
+          "mag": 5.7,
+          "alert": "green",
+          "sig": 502.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
