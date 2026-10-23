@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-23T08:58:04Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “プリザンターのLDAP認証における認証不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-10-23T09:23:44Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-23T08:30:51+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durchz…"
+    },
+    {
       "title": "プリザンターのLDAP認証における認証不備の脆弱性",
       "url": "https://jvn.jp/jp/JVN82312317/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T15:00:00+09:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -39,7 +64,7 @@
       "url": "https://jvn.jp/vu/JVNVU93251594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:15+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -63,7 +88,7 @@
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "security"
@@ -91,7 +116,7 @@
       "url": "https://github.com/supabase/supabase",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:52:34+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -120,7 +145,7 @@
       "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:27:02+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -147,7 +172,7 @@
       "url": "https://jvn.jp/vu/JVNVU98747108/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -169,11 +194,37 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "[UPDATE] [mittel] Node.js: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4117",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-23T09:00:51+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Node.js ausnutzen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "php/php-src",
       "url": "https://github.com/php/php-src",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:52:34+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -199,7 +250,7 @@
       "url": "https://github.com/supabase/supabase",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:53:07+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -224,7 +275,7 @@
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 127.51,
+      "age_days": 127.53,
       "topics": [
         "ai",
         "security"
@@ -236,12 +287,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.99,
+      "baseline_z_hint": 7.59,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 7.99",
+        "baseline z_hint 7.59",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 127.5d old signal",
@@ -250,19 +301,19 @@
       "summary": ""
     },
     {
-      "title": "I used AI to rebuild my websites without knowing how to code",
-      "url": "https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-23T04:03:21+00:00",
-      "age_days": 0.2,
+      "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 55.8,
       "topics": [
-        "ai"
+        "security"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "strong",
+      "raw_band": "extreme",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
       "baseline_z_hint": 0.0,
@@ -270,61 +321,12 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 55.8d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
-    },
-    {
-      "title": "Cisco stopft diverse, teils kritische Sicherheitslücken",
-      "url": "https://www.heise.de/news/Cisco-stopft-diverse-teils-kritische-Sicherheitsluecken-11497857.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-10-23T08:10:00.000+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: kritisch",
-        "security high-signal: kritisch"
-      ],
-      "summary": "In mehreren Produkten von Cisco klaffen teils kritische Lücken. Der Hersteller stellt Sicherheitsupdates bereit."
-    },
-    {
-      "title": "Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out",
-      "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-23T04:06:10+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce, 10",
-        "security high-signal: rce, 10"
-      ],
-      "summary": "The digital asset sector faces heavy selling pressure this week as Bitcoin drops 3.20 per cent to US$81,385.04. This downward movement closely tracks a 3.15 per cent decline in the total cryptocurrency capitalisation, which now sits at US$2.72 trillion. I view this current price action as a complex interplay of intern…"
     }
   ],
   "read_order": [
@@ -336,7 +338,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 12
+      "krass": 1,
+      "strong": 11
     }
   }
 }
