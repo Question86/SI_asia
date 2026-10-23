@@ -1,55 +1,15 @@
 {
-  "generated_at": "2026-10-23T07:32:00+00:00",
+  "generated_at": "2026-10-23T07:50:13+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 26,
     "clusters": 26,
     "cross_source_confrmed": 0,
-    "hot": 1,
-    "early_signals": 3,
+    "hot": 0,
+    "early_signals": 0,
     "dominance_penalized": 2
   },
   "clusters": [
-    {
-      "key": "github_repo:graphify-labs/graphify",
-      "title": "Graphify-Labs/graphify",
-      "sources": [
-        "GitHub Trending RSS All Languages Daily"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/Graphify-Labs/graphify"
-      ],
-      "finding_count": 1,
-      "max_score": 19,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 28.0,
-      "hot": true,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 21.1,
-      "ranking_score": 28.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 7.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-23T06:53:07+00:00"
-    },
     {
       "key": "domain:openai.com",
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
@@ -68,18 +28,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 27.17,
+      "network_score": 27.01,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 24.1,
-      "ranking_score": 27.17,
+      "ranking_score": 27.01,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 3.67,
+      "baseline_bonus": 3.51,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -127,37 +87,39 @@
       "first_seen_at": "2026-10-23T04:03:21+00:00"
     },
     {
-      "key": "title:ldap",
-      "title": "プリザンターのLDAP認証における認証不備の脆弱性",
+      "key": "github_repo:graphify-labs/graphify",
+      "title": "Graphify-Labs/graphify",
       "sources": [
-        "JVN Japan Vulnerability Notes"
+        "GitHub Trending RSS All Languages Daily"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://jvn.jp/jp/JVN82312317/"
+        "https://github.com/Graphify-Labs/graphify"
       ],
       "finding_count": 1,
-      "max_score": 14,
+      "max_score": 19,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.0,
+      "network_score": 20.5,
       "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 21.0,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 21.1,
+      "ranking_score": 20.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
@@ -239,6 +201,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-23T03:01:16+00:00"
+    },
+    {
+      "key": "title:ldap",
+      "title": "プリザンターのLDAP認証における認証不備の脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/jp/JVN82312317/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-23T06:53:07+00:00"
     },
     {
       "key": "title:2026-006",
@@ -353,44 +353,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-23T05:23:10+00:00"
-    },
-    {
-      "key": "title:ecosystem-roundup-taiwan-blocks-grab-600m-foodpanda-deal",
-      "title": "Ecosystem Roundup: Taiwan blocks Grab’s US$600M foodpanda deal over Uber’s stake",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/ecosystem-roundup-taiwan-blocks-grabs-us600m-foodpanda-deal-over-ubers-stake-20261023/"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 7.1,
-      "ranking_score": 12.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 6.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-23T06:53:07+00:00"
     },
     {
       "key": "github_repo:supabase/supabase",
@@ -821,6 +783,44 @@
       "first_seen_at": "2026-10-23T03:01:16+00:00"
     },
     {
+      "key": "title:ecosystem-roundup-taiwan-blocks-grab-600m-foodpanda-deal",
+      "title": "Ecosystem Roundup: Taiwan blocks Grab’s US$600M foodpanda deal over Uber’s stake",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/ecosystem-roundup-taiwan-blocks-grabs-us600m-foodpanda-deal-over-ubers-stake-20261023/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-23T06:53:07+00:00"
+    },
+    {
       "key": "title:com-vps-600",
       "title": "「お名前.com」 のFX自動売買VPS、不正アクセスで金銭被害か 「600万円の損失」「55万円なくなった」……報告相次ぐ",
       "sources": [
@@ -1013,7 +1013,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-23T07:32:01Z",
+    "generated_at": "2026-10-23T07:50:13Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
