@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-23T03:16:42Z",
+  "generated_at": "2026-10-23T04:19:21Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 28,
+    "dynamics": 32,
     "bands": {
       "krass": 1,
-      "strong": 3,
-      "watch": 12,
+      "strong": 5,
+      "watch": 14,
       "quiet": 12
     },
     "bands_after_gate_recheck": {
-      "strong": 4,
-      "watch": 12,
+      "strong": 6,
+      "watch": 14,
       "quiet": 12
     }
   },
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU93251594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:15+09:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -43,35 +43,11 @@
       "summary": "三菱電機株式会社が提供するGENESIS、GENESIS64、ICONICS Suite、Hyper Historian、AnalytiX、MobileHMI、IoTWorX、MC Works64、GENESIS32およびBizVizには、複数の脆弱性が存在します。"
     },
     {
-      "title": "三菱電機製の複数製品における複数の脆弱性（2026-006）",
-      "url": "https://jvn.jp/vu/JVNVU93251594/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-23T03:01:16+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
       "url": "https://jvn.jp/vu/JVNVU98747108/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -93,72 +69,18 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
-      "title": "Carro turns Singapore car loans into a US$350M funding pipeline in a regional first",
-      "url": "https://e27.co/carro-turns-singapore-car-loans-into-a-us350m-funding-pipeline-in-a-regional-first-20261022/",
+      "title": "I used AI to rebuild my websites without knowing how to code",
+      "url": "https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-23T03:01:16+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "infra"
-      ],
-      "dynamics_score": 24.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "early terms: regional, pipeline"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
-      "url": "https://jvn.jp/vu/JVNVU98747108/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 126.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "krass",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "high terms: 10",
-        "aging penalty -8.0 for 126.1d old signal",
-        "krass gate: single-source non-official/non-identity signal capped",
-        "stale single-source cap: max watch after 14d without fresh resonance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Male founders are losing confidence. Women are doubling down on AI",
-      "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-23T03:01:16+00:00",
+      "published_at": "2026-10-23T04:03:21+00:00",
       "age_days": 0.01,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 1,
@@ -167,8 +89,111 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +1",
+        "high terms: code",
         "single-source AI hype brake -8.0",
+        "krass gate: single-source non-official/non-identity signal capped",
         "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "三菱電機製の複数製品における複数の脆弱性（2026-006）",
+      "url": "https://jvn.jp/vu/JVNVU93251594/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-23T03:01:16+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Carro turns Singapore car loans into a US$350M funding pipeline in a regional first",
+      "url": "https://e27.co/carro-turns-singapore-car-loans-into-a-us350m-funding-pipeline-in-a-regional-first-20261022/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-23T03:01:16+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "infra"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "early terms: regional, pipeline"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "古川大臣記者会見（令和8年10月23日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261023-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-23T03:01:16+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
+      "url": "https://jvn.jp/vu/JVNVU98747108/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 126.1,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: 10",
+        "aging penalty -8.0 for 126.1d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
     },
@@ -177,7 +202,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T02:57:13.876+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -198,62 +223,85 @@
       "summary": "DYFI? - II Time 2026-10-23 02:17:01 UTC 2026-10-23 02:17:01 UTC at epicenter Location 27.999°N 100.619°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "How AI became my sparring partner",
-      "url": "https://e27.co/how-ai-became-my-sparring-partner-20261018/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 4.5 - 18 km NNW of Yongning, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T03:01:16+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "古川大臣記者会見（令和8年10月23日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261023-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-23T03:01:16+00:00",
-      "age_days": 0.01,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.5,
+      "dynamics_score": 18.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "high terms: 10"
+        "momentum delta +3"
       ],
       "summary": ""
+    },
+    {
+      "title": "GitHub Copilot in Visual Studio — September update",
+      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-23T00:53:46+00:00",
+      "age_days": 0.14,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "I used AI to rebuild my websites without knowing how to code",
+      "url": "https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-23T04:00:34+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code, 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "I’ve been running The Wellness Insider since 2016, and over the years, there have been countless occasions when I’ve looked at my website and thought, “I wish I could change that easily.” Sometimes, it was something relatively minor, such as the spacing between menu items or the way an image appeared on a page. Other…"
     },
     {
       "title": "M 4.5 - 58 km SW of Atocha, Bolivia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T02:59:08.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -278,7 +326,7 @@
       "url": "https://e27.co/carro-turns-singapore-car-loans-into-a-us350m-funding-pipeline-in-a-regional-first-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T02:00:11+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "infra",
         "macro"
@@ -300,35 +348,87 @@
       "summary": "In Singapore, a car is less a vehicle than a ten-year licence wrapped in steel. Carro now wants institutional money to treat that licence as collateral. The Singapore-headquartered automotive marketplace has set up a S$450 million (about US$350 million) asset-backed securitisation facility backed by Singapore car loan…"
     },
     {
-      "title": "M 4.5 - 18 km NNW of Yongning, China",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a",
+      "title": "M 4.5 - 58 km SW of Atocha, Bolivia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T03:01:16+00:00",
-      "age_days": 0.01,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.4,
+      "dynamics_score": 16.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
     {
-      "title": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について｜デジタル庁",
-      "url": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
+      "title": "Male founders are losing confidence. Women are doubling down on AI",
+      "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-23T03:01:16+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "How AI became my sparring partner",
+      "url": "https://e27.co/how-ai-became-my-sparring-partner-20261018/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-23T03:01:16+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-22T12:55:41+00:00",
-      "age_days": 0.6,
+      "published_at": "2026-10-23T00:53:46+00:00",
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -348,35 +448,35 @@
       "summary": ""
     },
     {
-      "title": "M 4.5 - 58 km SW of Atocha, Bolivia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49c",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-23T03:01:16+00:00",
-      "age_days": 0.01,
+      "title": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について｜デジタル庁",
+      "url": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-22T12:55:41+00:00",
+      "age_days": 0.64,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.4,
+      "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
     {
-      "title": "GitHub Copilot in Visual Studio — September update",
-      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-10-23T00:53:46+00:00",
-      "age_days": 0.1,
+      "title": "What changed when I stopped sending newsletters manually",
+      "url": "https://e27.co/what-changed-when-i-stopped-sending-newsletters-manually-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-23T03:01:16+00:00",
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -386,12 +486,12 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -400,7 +500,7 @@
       "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T01:30:20+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -423,11 +523,61 @@
       "summary": "HSBC’s latest survey of wealthy entrepreneurs contains an awkward finding for the men who still write most of the cheques. Their own confidence is slipping, while the confidence of the women they rarely fund is rising. The Global Entrepreneurial Wealth Report 2026 polled more than 3,000 business owners across 17 marke…"
     },
     {
+      "title": "トランプ大統領、Googleに「大西洋」の改名を打診 ピチャイCEOが「大洋は勘弁を」と難色",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002533/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-23T03:43:08+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The working capital trap: Lessons from Indonesia’s first D2C generation",
+      "url": "https://e27.co/the-working-capital-trap-lessons-from-indonesias-first-d2c-generation-20261015/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-23T03:01:16+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "How AI became my sparring partner",
       "url": "https://e27.co/how-ai-became-my-sparring-partner-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T03:00:15+00:00",
-      "age_days": 0.01,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -454,7 +604,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261023-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-23T02:48:48+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -474,60 +624,35 @@
       "summary": "古川大臣記者会見（令和8年10月23日）動画を掲載しました"
     },
     {
-      "title": "PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/",
+      "title": "トランプ大統領、Googleに「大西洋」の改名を打診 ピチャイCEOが「大洋は勘弁を」と難色",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002533/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 126.05,
+      "published_at": "2026-10-23T00:14:21+00:00",
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
-      "dynamics_score": 10.5,
+      "dynamics_score": 10.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 126.0d old signal"
+        "high terms: 10"
       ],
-      "summary": ""
-    },
-    {
-      "title": "What changed when I stopped sending newsletters manually",
-      "url": "https://e27.co/what-changed-when-i-stopped-sending-newsletters-manually-20261016/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-23T03:01:16+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
+      "summary": "トランプ氏は、対象となる大洋は大西洋と太平洋の2つだけだと前置きした上で、大西洋の改称を真剣に検討したと述べた。「湖の件で素晴らしい対応をしてくれた」というGoogleに電話し、ピチャイ氏と直接協議したことを明かした。トランプ氏によると、大西洋の変更に対応できるかと尋ねたところ、ピチャイ氏は「大洋は話が..."
     },
     {
       "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T20:51:20+00:00",
-      "age_days": 0.27,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -551,7 +676,7 @@
       "url": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T14:21:11+00:00",
-      "age_days": 0.54,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -571,52 +696,27 @@
       "summary": "ホームプレスルームStudio 株式会社における不正アクセスによる個人情報の漏えいの可能性について Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について 公開日：2026年10月22日 今般、デジタル庁（デジタル改革関連法案準備室を含む。）がホームページ運営の一部にそのサービスを利用していたSt..."
     },
     {
-      "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
-      "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328",
+      "title": "PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-23T00:53:46+00:00",
-      "age_days": 0.1,
+      "published_at": "2026-06-19T02:10:07+00:00",
+      "age_days": 126.09,
       "topics": [
         "general"
       ],
-      "dynamics_score": 9.0,
+      "dynamics_score": 8.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "The working capital trap: Lessons from Indonesia’s first D2C generation",
-      "url": "https://e27.co/the-working-capital-trap-lessons-from-indonesias-first-d2c-generation-20261015/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-23T03:01:16+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3",
+        "aging penalty -8.0 for 126.1d old signal"
       ],
       "summary": ""
     },
@@ -625,7 +725,7 @@
       "url": "https://e27.co/the-working-capital-trap-lessons-from-indonesias-first-d2c-generation-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T01:00:39+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -651,7 +751,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T22:15:14+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -675,7 +775,7 @@
       "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-23T00:17:51+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -701,7 +801,7 @@
       "url": "https://e27.co/what-changed-when-i-stopped-sending-newsletters-manually-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T02:00:40+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
