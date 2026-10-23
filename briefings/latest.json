@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T13:23:22+00:00",
-  "run_id": "2026-10-23T13:23:22+00:00",
+  "generated_at": "2026-10-23T13:37:57+00:00",
+  "run_id": "2026-10-23T13:37:57+00:00",
   "date": "2026-10-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 52,
     "displayed_findings": 52,
     "high": 0,
@@ -2655,29 +2655,7 @@
       "id": "d6a9a047d7b4b7c8d873"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「タイムズカーWebシステム」への不正アクセスによる個人情報漏えいに関するご報告と今後の対応について（第5報） | カーシェアリングのタイムズカー",
-      "url": "https://share.timescar.jp/news/2026/1023/1825.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-23T08:21:34+00:00",
-      "fetched_at": "2026-10-23T13:22:51+00:00",
-      "summary": "このたび、当社グループが運営するタイムズカーのWebシステムに対する第三者による不正アクセスにより、お客様情報の漏えい（本事案）が確認されました。 お客様をはじめ、関係者の皆様に多大なるご迷惑とご心配をお掛けしておりますことを、心より深くお詫び申し上げます。 当社は本事案を重大な問題と受け止め、外部専...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "abf41e31d273480b3967"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
