@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-23T08:28:17+00:00",
+  "generated_at": "2026-10-23T09:17:38+00:00",
   "topics": {
     "ai": [
       {
@@ -91,6 +91,13 @@
         "url": "https://jvn.jp/vu/JVNVU98747108/"
       },
       {
+        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T08:30:51+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067"
+      },
+      {
         "title": "プリザンターのLDAP認証における認証不備の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-23T15:00:00+09:00",
@@ -103,6 +110,13 @@
         "published_at": "2026-10-23T11:00:15+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU93251594/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Node.js: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T09:00:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4117"
       },
       {
         "title": "Cisco stopft diverse, teils kritische Sicherheitslücken",
@@ -232,6 +246,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49c"
       },
       {
+        "title": "タイムズカー免許証画像流出、「お見舞い」1人3000円 146万人が対象 - 日本経済新聞",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-23T08:20:32+00:00",
+        "relevance_score": 7,
+        "url": "https://www.nikkei.com/article/DGXZQOUC231CP0T21C26A0000000/"
+      },
+      {
         "title": "PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見 - 日本経済新聞",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-22T22:15:14+00:00",
@@ -272,13 +293,6 @@
         "published_at": "2026-10-23T00:14:21+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002533/"
-      },
-      {
-        "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-22T20:51:20+00:00",
-        "relevance_score": 5,
-        "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328"
       }
     ]
   }

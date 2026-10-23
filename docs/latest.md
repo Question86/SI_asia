@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T08:28:17+00:00_
+_Generiert: 2026-10-23T09:17:38+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „OpenAI and Poland’s NASK partner to advance AI safety and security“ aus OpenAI News RSS (Score 22, opportunity).
+32 neue relevante Treffer. Stärkstes Signal: „OpenAI and Poland’s NASK partner to advance AI safety and security“ aus OpenAI News RSS (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-23T08:30:51+00:00`, fetched `2026-10-23T09:17:07+00:00`
+  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Male founders are losing confidence. Women are doubling down on AI** — Score 15, observation — [Quelle](https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-23T01:30:20+00:00`, fetched `2026-10-23T03:00:38+00:00`
@@ -75,6 +84,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 三菱電機株式会社が提供するGENESIS、GENESIS64、ICONICS Suite、Hyper Historian、AnalytiX、MobileHMI、IoTWorX、MC Works64、GENESIS32およびBizVizには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Node.js: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4117)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-23T09:00:51+00:00`, fetched `2026-10-23T09:17:07+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Node.js ausnutzen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Programmcode auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How AI became my sparring partner** — Score 14, observation — [Quelle](https://e27.co/how-ai-became-my-sparring-partner-20261018/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-23T03:00:15+00:00`, fetched `2026-10-23T03:00:38+00:00`
@@ -168,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags… The post GitHub Copilot in Visual Studio — September update appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **タイムズカー免許証画像流出、「お見舞い」1人3000円 146万人が対象 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC231CP0T21C26A0000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-23T08:20:32+00:00`, fetched `2026-10-23T09:17:07+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: パーク24は23日、カーシェアサービス「タイムズカー」の不正アクセスによる個人情報流出を受け、免許証などの本人確認書類の画像データが外部送信されたとみられる被害者に1人3000円を「お見舞い」として支払うと発表した。146万人あまりが対象となり、総額は単純計算で約44億円となる見込み。タイムズカーでは9月に不正...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Cisco stopft diverse, teils kritische Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Cisco-stopft-diverse-teils-kritische-Sicherheitsluecken-11497857.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-23T08:10:00.000+00:00`, fetched `2026-10-23T08:27:47+00:00`
@@ -212,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 宅配大手の佐川急便は、今月、不正アクセスを受けて外部に流出したおそれがあると発表していた個人情報について、氏名、住所、それに電話番号など、最大で5323万件に上る可能性があると明らかにしました。 対…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「お名前.com」 のFX自動売買VPS、不正アクセスで金銭被害か 「600万円の損失」「55万円なくなった」……報告相次ぐ** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/23/2000002532/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-23T00:31:25+00:00`, fetched `2026-10-23T04:42:29+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: サービスを提供するGMOインターネットは10月22日、サーバ内に保存されていた取引口座のログイン情報などが第三者に取得され、不正に利用された可能性があると発表した。ユーザーに対し、口座のパスワードを至急変更し、ログオフ（セッションの切断）するよう求めている。サービスは全プランで停止中だ。 お名前.com デス...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
