@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T23:09:25+00:00",
+  "generated_at": "2026-10-23T23:24:21+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -12391,13 +12391,13 @@
     {
       "event_id": "evt_992b3438a189d8db68e7",
       "title": "M 4.9 - 115 km NE of Norsup, Vanuatu",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_99397910c1bd5bbe64ac",
@@ -18513,7 +18513,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_e78124043cc6ffc7df4e",
