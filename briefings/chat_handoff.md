@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-23T09:50:16+00:00_
+_Generated: 2026-10-23T09:59:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `35`
 
 ## Top Signals
 
-### 1. OpenAI and Poland’s NASK partner to advance AI safety and security
+### 1. Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping
+- source: e27 Asia Startup and Tech Feed
+- score: `23`
+- published: `2026-10-23T09:54:10+00:00`
+- url: https://e27.co/japans-privacy-law-isnt-gdpr-and-thats-where-foreign-saas-founders-keep-tripping-20261023/
+- summary: For a Singapore or Jakarta SaaS founder who has already sweated through GDPR paperwork to land a European client, Japan can look like a box already ticked. Strong privacy law, a mature regulator, a long history with data protection. Surely the European playbo…
+
+### 2. OpenAI and Poland’s NASK partner to advance AI safety and security
 - source: OpenAI News RSS
 - score: `22`
 - published: `2026-10-23T00:00:00+00:00`
 - url: https://openai.com/index/openai-nask-ai-safety-security-partnership
 - summary: OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.
 
-### 2. I used AI to rebuild my websites without knowing how to code
+### 3. I used AI to rebuild my websites without knowing how to code
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-10-23T04:00:34+00:00`
 - url: https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/
 - summary: I’ve been running The Wellness Insider since 2016, and over the years, there have been countless occasions when I’ve looked at my website and thought, “I wish I could change that easily.” Sometimes, it was something relatively minor, such as the spacing betwe…
 
-### 3. Graphify-Labs/graphify
+### 4. Graphify-Labs/graphify
 - source: GitHub Trending RSS All Languages Daily
 - score: `19`
 - published: `None`
 - url: https://github.com/Graphify-Labs/graphify
 - summary: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. https://www.graphify.…
-
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-10-23T11:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU98747108/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
 ### 5. Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory
 - source: e27 Asia Startup and Tech Feed

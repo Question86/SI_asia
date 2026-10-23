@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T09:50:16+00:00",
-  "run_id": "2026-10-23T09:50:16+00:00",
+  "generated_at": "2026-10-23T09:59:51+00:00",
+  "run_id": "2026-10-23T09:59:51+00:00",
   "date": "2026-10-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 34
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,40 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "new_relevant_findings": 1,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
-    "medium": 12,
+    "medium": 13,
     "observe": 22,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping",
+        "url": "https://e27.co/japans-privacy-law-isnt-gdpr-and-thats-where-foreign-saas-founders-keep-tripping-20261023/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-23T09:54:10+00:00",
+        "fetched_at": "2026-10-23T09:59:20+00:00",
+        "summary": "For a Singapore or Jakarta SaaS founder who has already sweated through GDPR paperwork to land a European client, Japan can look like a box already ticked. Strong privacy law, a mature regulator, a long history with data protection. Surely the European playbook will do? It won’t. Japan’s Act on the Protection of Personal Information […] The post Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Datenschutz",
+          "founder",
+          "Public Health"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "Datenschutz (+7.5); APAC Trend Radar (+3.8); Public Health (+5.0); founder (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "012bf65db2e2b7fb5d96"
+      },
       {
         "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
         "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
@@ -881,6 +904,29 @@
   },
   "findings": [
     {
+      "title": "Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping",
+      "url": "https://e27.co/japans-privacy-law-isnt-gdpr-and-thats-where-foreign-saas-founders-keep-tripping-20261023/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-23T09:54:10+00:00",
+      "fetched_at": "2026-10-23T09:59:20+00:00",
+      "summary": "For a Singapore or Jakarta SaaS founder who has already sweated through GDPR paperwork to land a European client, Japan can look like a box already ticked. Strong privacy law, a mature regulator, a long history with data protection. Surely the European playbook will do? It won’t. Japan’s Act on the Protection of Personal Information […] The post Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Datenschutz",
+        "founder",
+        "Public Health"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Datenschutz (+7.5); APAC Trend Radar (+3.8); Public Health (+5.0); founder (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "012bf65db2e2b7fb5d96"
+    },
+    {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI News RSS",
@@ -1727,7 +1773,31 @@
       "id": "d6a9a047d7b4b7c8d873"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping",
+      "url": "https://e27.co/japans-privacy-law-isnt-gdpr-and-thats-where-foreign-saas-founders-keep-tripping-20261023/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-23T09:54:10+00:00",
+      "fetched_at": "2026-10-23T09:59:20+00:00",
+      "summary": "For a Singapore or Jakarta SaaS founder who has already sweated through GDPR paperwork to land a European client, Japan can look like a box already ticked. Strong privacy law, a mature regulator, a long history with data protection. Surely the European playbook will do? It won’t. Japan’s Act on the Protection of Personal Information […] The post Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Datenschutz",
+        "founder",
+        "Public Health"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Datenschutz (+7.5); APAC Trend Radar (+3.8); Public Health (+5.0); founder (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "012bf65db2e2b7fb5d96"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
