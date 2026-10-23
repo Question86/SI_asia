@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T05:49:00+00:00",
+  "generated_at": "2026-10-23T06:53:25+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -3094,7 +3094,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
-      "last_seen_at": "2026-10-23T05:48:40+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
       "status": "active"
     },
     {
@@ -5865,7 +5865,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
-      "last_seen_at": "2026-10-23T05:48:40+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
       "status": "active"
     },
     {
@@ -9758,7 +9758,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-23T05:48:40+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
       "status": "active"
     },
     {
@@ -10506,7 +10506,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
-      "last_seen_at": "2026-10-23T05:48:40+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
       "status": "active"
     },
     {
@@ -11173,6 +11173,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_cfbc0e5b24c6ed1270f3",
+      "title": "プリザンターのLDAP認証における認証不備の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-23T06:53:07+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2f5c3cffbb9951edd868",
       "title": "Southeast Asia startup funding finds a floor, but not a rebound",
       "event_classes": [
@@ -11510,7 +11527,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
-      "last_seen_at": "2026-10-23T05:48:40+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
       "status": "active"
     },
     {
@@ -12258,7 +12275,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T04:03:21+00:00",
-      "last_seen_at": "2026-10-23T05:48:40+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
       "status": "active"
     },
     {
@@ -12772,6 +12789,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_61122aa98a9868a50736",
+      "title": "Graphify-Labs/graphify",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 119200.0,
+      "p50_usd": 11920000.0,
+      "p90_usd": 1192000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-23T06:53:07+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_04c8c9515e6d6caa68b7",
       "title": "Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem",
       "event_classes": [
@@ -13057,7 +13091,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-23T05:48:40+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
       "status": "active"
     },
     {
@@ -13788,8 +13822,8 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-22T23:44:33+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_a2888de3c57b771f0196",
@@ -14417,7 +14451,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
-      "last_seen_at": "2026-10-23T05:48:40+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
       "status": "active"
     },
     {
@@ -15097,7 +15131,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
-      "last_seen_at": "2026-10-23T05:48:40+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
       "status": "active"
     },
     {
@@ -15862,7 +15896,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T05:23:10+00:00",
-      "last_seen_at": "2026-10-23T05:48:40+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
       "status": "active"
     },
     {
@@ -18349,6 +18383,40 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c2087c17d76f9b717e41",
+      "title": "supabase/supabase",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-23T06:53:07+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_8e6b021586ffec111116",
+      "title": "php/php-src",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-23T06:53:07+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_000820d66bd74c57c867",
       "title": "ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～",
       "event_classes": [
@@ -18600,7 +18668,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
-      "last_seen_at": "2026-10-23T05:48:40+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
       "status": "active"
     },
     {
@@ -20368,7 +20436,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T00:53:46+00:00",
-      "last_seen_at": "2026-10-23T05:48:40+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
       "status": "active"
     },
     {
@@ -23889,7 +23957,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T04:27:02+00:00",
-      "last_seen_at": "2026-10-23T05:48:40+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
       "status": "active"
     },
     {
@@ -24604,7 +24672,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
       "last_seen_at": "2026-10-23T05:48:40+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5b9b8b09cfdc0d46bf4f",
@@ -25846,6 +25914,23 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_36f0ff3646e50797bbe5",
+      "title": "中途採用（専門人材）の採用イベント情報を掲載しました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-23T06:53:07+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -27358,7 +27443,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T00:53:46+00:00",
       "last_seen_at": "2026-10-23T05:48:40+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_597f585749518ee22672",
@@ -27851,7 +27936,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T04:43:05+00:00",
       "last_seen_at": "2026-10-23T05:48:40+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_70bae864357c86d9b0af",
@@ -28531,7 +28616,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T03:43:08+00:00",
       "last_seen_at": "2026-10-23T05:48:40+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9e90d4ebdedacc6c5ffb",
@@ -30336,6 +30421,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8a57c3df729b03d4d5d0",
+      "title": "Ecosystem Roundup: Taiwan blocks Grab’s US$600M foodpanda deal over Uber’s stake",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-23T06:53:07+00:00",
+      "last_seen_at": "2026-10-23T06:53:07+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_017c3d08edef1ec4ff45",
       "title": "Can Ethereum clear US$2,672 this week and unlock a run to US$3,000?",
       "event_classes": [
@@ -31048,7 +31150,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
       "last_seen_at": "2026-10-23T05:48:40+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e7f4bac7ab80264cf49b",
@@ -31303,7 +31405,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T00:01:06+00:00",
       "last_seen_at": "2026-10-23T05:48:40+00:00",
-      "status": "active"
+      "status": "dormant"
     }
   ]
 }
