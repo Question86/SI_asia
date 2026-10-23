@@ -1,20 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-23T14:19:42Z",
+  "generated_at": "2026-10-23T14:44:42Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
       "krass": 13,
-      "strong": 23,
-      "watch": 2
+      "strong": 25
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 37,
-      "watch": 2
+      "strong": 39
     }
   },
   "top_dynamics": [
@@ -23,7 +21,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T08:30:51+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -48,7 +46,7 @@
       "url": "https://jvn.jp/jp/JVN82312317/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T15:00:00+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -72,7 +70,7 @@
       "url": "https://jvn.jp/vu/JVNVU93251594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:15+09:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -96,7 +94,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4139",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:50:52+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -120,7 +118,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4137",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:50:51+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -144,7 +142,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4122",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:25:53+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -168,7 +166,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2708",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:25:52+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -188,11 +186,35 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ClamAV ausnutzen, um einen Denial of Service Angriff durchzuführen und Informationen offenzulegen."
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-23T14:40:02+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "ai",
         "security"
@@ -220,7 +242,7 @@
       "url": "https://github.com/supabase/supabase",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:52:34+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "macro"
@@ -249,7 +271,7 @@
       "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:27:02+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -276,7 +298,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4118",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T11:25:52+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -302,7 +324,7 @@
       "url": "https://jvn.jp/vu/JVNVU98747108/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:00+09:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -328,7 +350,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4140",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:50:52+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -354,7 +376,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4138",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:50:52+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -381,7 +403,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4136",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:45:54+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -407,7 +429,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4112",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:25:53+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -433,7 +455,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4043",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T09:31:48+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "security"
@@ -460,7 +482,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4117",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T09:00:51+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -486,7 +508,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4141",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:50:52+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -511,7 +533,7 @@
       "url": "https://github.com/php/php-src",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:52:34+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -537,7 +559,7 @@
       "url": "https://github.com/supabase/supabase",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:53:07+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -558,11 +580,38 @@
       "summary": ""
     },
     {
+      "title": "Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-23T14:40:02+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security",
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "security high-signal: security",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping",
       "url": "https://e27.co/japans-privacy-law-isnt-gdpr-and-thats-where-foreign-saas-founders-keep-tripping-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T09:59:55+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -589,7 +638,7 @@
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 127.73,
+      "age_days": 127.75,
       "topics": [
         "ai",
         "security"
@@ -601,15 +650,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.51,
+      "baseline_z_hint": 1.86,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.51",
+        "baseline z_hint 1.86",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 127.7d old signal",
+        "aging penalty -8.0 for 127.8d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -619,7 +668,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4141",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 56.01,
+      "age_days": 56.03,
       "topics": [
         "security"
       ],
@@ -630,12 +679,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 10.38,
+      "baseline_z_hint": 9.34,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 10.38",
+        "baseline z_hint 9.34",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 56.0d old signal",
@@ -648,7 +697,7 @@
       "url": "https://e27.co/japans-privacy-law-isnt-gdpr-and-thats-where-foreign-saas-founders-keep-tripping-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T09:54:10+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "macro"
       ],
@@ -670,11 +719,39 @@
       "summary": "For a Singapore or Jakarta SaaS founder who has already sweated through GDPR paperwork to land a European client, Japan can look like a box already ticked. Strong privacy law, a mature regulator, a long history with data protection. Surely the European playbook will do? It won’t. Japan’s Act on the Protection of Perso…"
     },
     {
+      "title": "Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "age_days": 4.61,
+      "topics": [
+        "ai",
+        "security",
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité."
+    },
+    {
       "title": "I used AI to rebuild my websites without knowing how to code",
       "url": "https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:03:21+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -701,7 +778,7 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:53:07+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -726,7 +803,7 @@
       "url": "https://www.heise.de/news/Cisco-stopft-diverse-teils-kritische-Sicherheitsluecken-11497857.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-23T08:10:00.000+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -751,7 +828,7 @@
       "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:06:10+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -776,7 +853,7 @@
       "url": "https://jvn.jp/jp/JVN82312317/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T06:53:07+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -800,7 +877,7 @@
       "url": "https://jvn.jp/vu/JVNVU93251594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T03:01:16+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -824,7 +901,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4b3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T09:28:24.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -845,11 +922,36 @@
       "summary": "Time 2026-10-23 09:09:36 UTC 2026-10-23 09:09:36 UTC at epicenter Location 6.568°N 123.869°E Depth 591.29 km (367.41 mi)"
     },
     {
+      "title": "Multiples vulnérabilités dans les produits F5 (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1341/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-21T14:48:29+00:00",
+      "age_days": 2.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 22.69,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.5 - 207 km NE of Lospalos, Timor Leste",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T12:52:34+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -874,7 +976,7 @@
       "url": "https://e27.co/carro-turns-singapore-car-loans-into-a-us350m-funding-pipeline-in-a-regional-first-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T03:01:16+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "infra"
       ],
@@ -899,7 +1001,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T10:56:44.437+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -924,7 +1026,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T11:02:37+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -940,108 +1042,6 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "php/php-src",
-      "url": "https://github.com/php/php-src",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-10-23T06:53:07+00:00",
-      "age_days": 0.31,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "古川大臣記者会見（令和8年10月23日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261023-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-23T03:01:16+00:00",
-      "age_days": 0.47,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
-      "url": "https://jvn.jp/vu/JVNVU98747108/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 126.51,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10",
-        "aging penalty -8.0 for 126.5d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.5 - 18 km WNW of Bantogon, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4b3",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-30T02:57:23+00:00",
-      "age_days": 23.47,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -0.9 for 23.5d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
     }
