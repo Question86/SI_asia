@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-23T04:27:02+00:00_
+_Generiert: 2026-10-23T04:43:05+00:00_
 
 ## I used AI to rebuild my websites without knowing how to code
 
