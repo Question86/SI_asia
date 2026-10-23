@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:43:39+00:00",
+  "generated_at": "2026-10-23T19:59:00+00:00",
   "sections": {
     "global_security": [
       {
@@ -12,6 +12,18 @@
         "published_at": "2026-10-23",
         "metrics": {
           "cve": "CVE-2026-114625"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-110447 Collabora Collabora Online – Built-in CODE Server",
+        "summary": "Known exploited vulnerability. Added 2026-10-23. Due 2026-10-26. Collabora Online – Built-in CODE Server OS Command Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-10-23",
+        "metrics": {
+          "cve": "CVE-2026-110447"
         }
       },
       {
@@ -48,18 +60,6 @@
         "published_at": "2026-10-20",
         "metrics": {
           "cve": "CVE-2026-96655"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-96654 Plex Media Server",
-        "summary": "Known exploited vulnerability. Added 2026-10-20. Due 2026-10-23. Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-20",
-        "metrics": {
-          "cve": "CVE-2026-96654"
         }
       },
       {
