@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T04:03:18+00:00",
-  "run_id": "2026-10-23T04:03:18+00:00",
+  "generated_at": "2026-10-23T04:26:59+00:00",
+  "run_id": "2026-10-23T04:26:59+00:00",
   "date": "2026-10-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 5,
-    "observe": 11,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
@@ -300,6 +300,48 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fdc805cf461c3702504b"
+      },
+      {
+        "title": "Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out",
+        "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-23T04:06:10+00:00",
+        "fetched_at": "2026-10-23T04:26:31+00:00",
+        "summary": "The digital asset sector faces heavy selling pressure this week as Bitcoin drops 3.20 per cent to US$81,385.04. This downward movement closely tracks a 3.15 per cent decline in the total cryptocurrency capitalisation, which now sits at US$2.72 trillion. I view this current price action as a complex interplay of internal mechanics and external macro […] The post Bitcoin rejected US$84,000 and forced US$79,060,000 in…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "b02f3fbf8d9c70bc6da2"
       },
       {
         "title": "PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見 - 日本経済新聞",
@@ -699,6 +741,48 @@
       "id": "fdc805cf461c3702504b"
     },
     {
+      "title": "Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out",
+      "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-23T04:06:10+00:00",
+      "fetched_at": "2026-10-23T04:26:31+00:00",
+      "summary": "The digital asset sector faces heavy selling pressure this week as Bitcoin drops 3.20 per cent to US$81,385.04. This downward movement closely tracks a 3.15 per cent decline in the total cryptocurrency capitalisation, which now sits at US$2.72 trillion. I view this current price action as a complex interplay of internal mechanics and external macro […] The post Bitcoin rejected US$84,000 and forced US$79,060,000 in…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "b02f3fbf8d9c70bc6da2"
+    },
+    {
       "title": "PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -825,27 +909,46 @@
   ],
   "new_findings": [
     {
-      "title": "I used AI to rebuild my websites without knowing how to code",
-      "url": "https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/",
+      "title": "Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out",
+      "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-23T04:00:34+00:00",
-      "fetched_at": "2026-10-23T04:02:48+00:00",
-      "summary": "I’ve been running The Wellness Insider since 2016, and over the years, there have been countless occasions when I’ve looked at my website and thought, “I wish I could change that easily.” Sometimes, it was something relatively minor, such as the spacing between menu items or the way an image appeared on a page. Other […] The post I used AI to rebuild my websites without knowing how to code appeared first on e27 .",
+      "published_at": "2026-10-23T04:06:10+00:00",
+      "fetched_at": "2026-10-23T04:26:31+00:00",
+      "summary": "The digital asset sector faces heavy selling pressure this week as Bitcoin drops 3.20 per cent to US$81,385.04. This downward movement closely tracks a 3.15 per cent decline in the total cryptocurrency capitalisation, which now sits at US$2.72 trillion. I view this current price action as a complex interplay of internal mechanics and external macro […] The post Bitcoin rejected US$84,000 and forced US$79,060,000 in…",
       "matched_keywords": [
-        "AI/KI",
         "APAC Trend Radar",
-        "Content-Chance",
-        "Webentwicklung"
+        "Watchgraph:capitals_power_centers"
       ],
-      "relevance_score": 20,
-      "relevance_reason": "AI/KI (+3.8); Webentwicklung (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph region japan: METI (+2.0)",
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a12b0b4c2c9df654c2bb"
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "b02f3fbf8d9c70bc6da2"
     }
   ],
   "source_errors": [],

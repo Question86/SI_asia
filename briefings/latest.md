@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T04:03:18+00:00_
+_Generiert: 2026-10-23T04:26:59+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „I used AI to rebuild my websites without knowing how to code“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+17 neue relevante Treffer. Stärkstes Signal: „I used AI to rebuild my websites without knowing how to code“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -154,6 +154,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags… The post GitHub Copilot in Visual Studio — September update appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out** — Score 7, observation — [Quelle](https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-23T04:06:10+00:00`, fetched `2026-10-23T04:26:31+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: The digital asset sector faces heavy selling pressure this week as Bitcoin drops 3.20 per cent to US$81,385.04. This downward movement closely tracks a 3.15 per cent decline in the total cryptocurrency capitalisation, which now sits at US$2.72 trillion. I view this current price action as a complex interplay of internal mechanics and external macro […] The post Bitcoin rejected US$84,000 and forced US$79,060,000 in…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-22T22:15:14+00:00`, fetched `2026-10-23T03:00:38+00:00`
@@ -189,15 +198,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年10月18日、Mozillaは、認証局eMudhraの中間CA証明書の秘密鍵が危殆化したインシデントをBugzillaに起票し、10月20日に公開しました。ここでは関連する情報をまとめます。 危殆化したのは中間CA8件 eMudhra(emSignブランドの認証局)の中間CA証明書のうち、TLS用6件とコード署名用2件の秘密鍵が、公開鍵から誰でも求...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **What changed when I stopped sending newsletters manually** — Score 4, observation — [Quelle](https://e27.co/what-changed-when-i-stopped-sending-newsletters-manually-20261016/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-23T02:00:40+00:00`, fetched `2026-10-23T03:00:38+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Before I used Mailchimp, my monthly newsletter was one of those tasks I kept postponing. Not because it was complicated. Because it was annoying. I was running a small business, which meant the newsletter was always competing with more urgent things. Customer messages, fulfilment, invoices, product updates, random admin. By the time I got to […] The post What changed when I stopped sending newsletters manually appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
