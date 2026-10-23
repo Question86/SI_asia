@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T13:50:04+00:00_
+_Generiert: 2026-10-23T14:24:10+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+54 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -230,14 +230,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Indonesia’s D2C and inventory-heavy startup sector looks different in 2026 than it did before 2022. The cohort of platforms that scaled between 2018 and 2021 (Fabelio in furniture, several in F&B, fashion, and household goods) encountered a category of operational risk that the original venture playbook tended to underestimate. Some platforms have stabilised. Several have […] The post The working capital trap: Lesso…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.5 - 207 km NE of Lospalos, Timor Leste** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bw)
+- **M 5.2 - 50 km WNW of Malfa, Italy** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dc)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-23T12:49:19.040+00:00`, fetched `2026-10-23T12:52:01+00:00`
+  - Zeit: published `2026-10-23T14:22:44.737+00:00`, fetched `2026-10-23T14:23:27+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-23 12:24:24 UTC 2026-10-23 12:24:24 UTC at epicenter Location 7.342°S 128.467°E Depth 128.11 km (79.60 mi)
+  - Kurz: DYFI? - III Time 2026-10-23 13:55:36 UTC 2026-10-23 13:55:36 UTC at epicenter Location 38.779°N 14.315°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ECB Consumer Expectations Survey results – September 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
