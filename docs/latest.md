@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T11:36:00+00:00_
+_Generiert: 2026-10-23T12:03:13+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+49 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags… The post GitHub Copilot in Visual Studio — September update appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **パナソニックHD、利用禁止の生成AIに従業員らの情報送出 33万人分 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUF237Z60T21C26A0000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-23T10:56:07+00:00`, fetched `2026-10-23T12:02:37+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: パナソニックホールディングス（HD）は23日、社内で利用が禁止されている外部の生成AI（人工知能）サービスに同社グループの従業員やその家族らの個人情報約33万人分が送出されたと発表した。不正アクセスではなく、特定の従業員が社内ルールに反し情報を生成AIにアップロードしたことによるものだという。子会社と人事...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **タイムズカー免許証画像流出、「お見舞い」1人3000円 146万人が対象 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC231CP0T21C26A0000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-23T08:20:32+00:00`, fetched `2026-10-23T09:17:07+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 中途採用（専門人材）の採用イベント情報を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **古川大臣記者会見（令和8年10月23日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261023-01)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-23T02:48:48+00:00`, fetched `2026-10-23T03:00:38+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 古川大臣記者会見（令和8年10月23日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
