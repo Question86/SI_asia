@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T21:21:13+00:00",
+  "generated_at": "2026-10-23T21:33:30+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -567,7 +567,7 @@
       "p90_usd": 122400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T09:59:55+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -1751,7 +1751,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-30T02:57:23+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -1989,7 +1989,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T20:54:37+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -2686,7 +2686,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-23T11:02:37+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -2722,6 +2722,23 @@
       "first_seen_at": "2026-10-13T13:03:04+00:00",
       "last_seen_at": "2026-10-13T23:58:13+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_b9e6f66aaaa2114dc132",
+      "title": "M 4.9 - 35 km ESE of Hualien City, Taiwan",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-23T21:33:11+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -3128,7 +3145,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -3400,7 +3417,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-23T17:32:56+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -4101,6 +4118,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e758368a9deb1f05bef2",
+      "title": "M 4.8 - 209 km ENE of Nagqu, China",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_eb341b146a17dd0db5bc",
       "title": "M 4.6 - Rat Islands, Aleutian Islands, Alaska",
       "event_classes": [
@@ -4269,23 +4303,6 @@
       "first_seen_at": "2026-09-29T10:50:43+00:00",
       "last_seen_at": "2026-09-29T19:18:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_e758368a9deb1f05bef2",
-      "title": "M 4.8 - 209 km ENE of Nagqu, China",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-23T21:20:52+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_00e85c3d2c185ba34101",
@@ -9707,7 +9724,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -9894,7 +9911,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -10642,7 +10659,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -11067,7 +11084,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T06:53:07+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -12190,7 +12207,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T14:40:02+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -12428,7 +12445,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T04:03:21+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -12785,7 +12802,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T06:53:07+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -13245,7 +13262,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-23T21:20:52+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ccc81cd853a94a4b2b98",
@@ -13975,7 +13992,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -14604,7 +14621,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -15284,7 +15301,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -15556,7 +15573,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T14:40:02+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {
@@ -16066,7 +16083,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T05:23:10+00:00",
-      "last_seen_at": "2026-10-23T21:20:52+00:00",
+      "last_seen_at": "2026-10-23T21:33:11+00:00",
       "status": "active"
     },
     {

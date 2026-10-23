@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T21:21:26+00:00",
+  "generated_at": "2026-10-23T21:33:42+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -9955,7 +9955,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_790c08ce3bb1f8fbe804",
@@ -14886,6 +14886,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b9e6f66aaaa2114dc132",
+      "title": "M 4.9 - 35 km ESE of Hualien City, Taiwan",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_b9e960be7e69171ce774",
       "title": "AIでMVを作るのは想像以上に大変だった 制作34時間、繰り返した“ダメ出し”でわかったこと (1/6)",
       "deduplicated_buckets": 0,
@@ -18463,12 +18474,12 @@
     {
       "event_id": "evt_e758368a9deb1f05bef2",
       "title": "M 4.8 - 209 km ENE of Nagqu, China",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
