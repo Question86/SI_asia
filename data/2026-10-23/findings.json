@@ -1,5 +1,28 @@
 [
   {
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-10-23T00:00:00+00:00",
+    "fetched_at": "2026-10-23T06:52:34+00:00",
+    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI",
+      "safety",
+      "Security"
+    ],
+    "relevance_score": 22,
+    "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); Security (+7.5); safety (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "762725055e2fb3cc8df9"
+  },
+  {
     "title": "I used AI to rebuild my websites without knowing how to code",
     "url": "https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -21,6 +44,53 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a12b0b4c2c9df654c2bb"
+  },
+  {
+    "title": "Graphify-Labs/graphify",
+    "url": "https://github.com/Graphify-Labs/graphify",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-10-23T06:52:34+00:00",
+    "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. https://www.graphify.com Read this in other languages English | 简体中文 | 日本語 | 한국어 | Deutsch | Français | Español | हिन्दी | Português | Русский | العربية | فارسی | Italiano | Polski…",
+    "matched_keywords": [
+      "AI Agents",
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "6b2e4fbbdf61979e382c"
   },
   {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
@@ -67,6 +137,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "82e9659d6ccfc9e218b0"
+  },
+  {
+    "title": "プリザンターのLDAP認証における認証不備の脆弱性",
+    "url": "https://jvn.jp/jp/JVN82312317/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-10-23T15:00:00+09:00",
+    "fetched_at": "2026-10-23T06:52:34+00:00",
+    "summary": "株式会社インプリムが提供するプリザンターのLDAP認証には、認証不備の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "62d30f88d392f2d81daa"
   },
   {
     "title": "三菱電機製の複数製品における複数の脆弱性（2026-006）",
@@ -169,6 +261,52 @@
       "LOW"
     ],
     "id": "8fb3862abaa476653751"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-10-23T06:52:34+00:00",
+    "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. https://supabase.com Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. Hosted Postgres Database. Docs Authentication and Authorization. Docs Auto-generated APIs. REST. Docs GraphQL. Docs Realtime sub…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "Open Source"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI/KI (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "85a76536c3cc5be05d25"
+  },
+  {
+    "title": "php/php-src",
+    "url": "https://github.com/php/php-src",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-10-23T06:52:34+00:00",
+    "summary": "The PHP Interpreter https://www.php.net The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PHP is distributed under the Modified BSD License (SPDX-License-Identifier: BSD-3-Clause ). Documentation The PHP manual is available at php.net/docs .…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "GitHub Trending",
+      "Open Source",
+      "Webentwicklung"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Webentwicklung (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2bce84d6b23373d263a8"
   },
   {
     "title": "The working capital trap: Lessons from Indonesia’s first D2C generation",
@@ -355,6 +493,26 @@
     "id": "226d459d7fd01c294879"
   },
   {
+    "title": "中途採用（専門人材）の採用イベント情報を掲載しました",
+    "url": "https://www.digital.go.jp/recruitment/career",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-10-23T06:00:00+00:00",
+    "fetched_at": "2026-10-23T06:52:34+00:00",
+    "summary": "中途採用（専門人材）の採用イベント情報を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "16a91574f4239798e6bf"
+  },
+  {
     "title": "古川大臣記者会見（令和8年10月23日）動画を掲載しました",
     "url": "https://www.digital.go.jp/speech/minister-261023-01",
     "source": "Japan Digital Agency News RSS",
@@ -373,6 +531,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f48eda46b8d724ad7a34"
+  },
+  {
+    "title": "Ecosystem Roundup: Taiwan blocks Grab’s US$600M foodpanda deal over Uber’s stake",
+    "url": "https://e27.co/ecosystem-roundup-taiwan-blocks-grabs-us600m-foodpanda-deal-over-ubers-stake-20261023/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-23T06:00:07+00:00",
+    "fetched_at": "2026-10-23T06:52:34+00:00",
+    "summary": "Taiwan’s Fair Trade Commission has blocked Delivery Hero’s sale of foodpanda Taiwan to Grab, scuttling a US$600 million all-cash deal agreed in March. The regulator said the remedies on offer could not offset the harm to competition. The sticking point is Uber. The US company holds about 13.1% of Grab, a legacy of their 2018 regional deal, […] The post Ecosystem Roundup: Taiwan blocks Grab’s US$600M foodpanda deal o…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "15fd86bf9f2922009e1b"
   },
   {
     "title": "「お名前.com」 のFX自動売買VPS、不正アクセスで金銭被害か 「600万円の損失」「55万円なくなった」……報告相次ぐ",
