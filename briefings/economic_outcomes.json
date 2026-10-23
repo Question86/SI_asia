@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T22:18:48+00:00",
+  "generated_at": "2026-10-23T22:50:34+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -7601,7 +7601,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_5e839ef2f65d6d8cf77f",
@@ -8217,7 +8217,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_65f6c987ee2baa2935b2",
@@ -13190,6 +13190,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_a41f46acc0b655711479",
+      "title": "M 5.1 - 203 km NW of Port-Olry, Vanuatu",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_a427a197f1e91724792f",
@@ -18480,7 +18491,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e78124043cc6ffc7df4e",
