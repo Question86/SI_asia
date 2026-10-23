@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T21:20:49+00:00",
-  "run_id": "2026-10-23T21:20:49+00:00",
+  "generated_at": "2026-10-23T21:33:08+00:00",
+  "run_id": "2026-10-23T21:33:08+00:00",
   "date": "2026-10-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 67
+      "configured_public_sources_only": 68
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 67,
-    "displayed_findings": 67,
+    "today_file_total": 68,
+    "displayed_findings": 68,
     "high": 0,
     "medium": 25,
-    "observe": 42,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -660,6 +660,43 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 4.9 - 35 km ESE of Hualien City, Taiwan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gm",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-23T21:30:27.040+00:00",
+        "fetched_at": "2026-10-23T21:32:40+00:00",
+        "summary": "Time 2026-10-23 20:48:16 UTC 2026-10-23 20:48:16 UTC at epicenter Location 23.853°N 121.929°E Depth 13.82 km (8.59 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "d443bca8b16570489bd6"
+      },
       {
         "title": "M 5.7 - 61 km WNW of Leni, Italy",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk",
@@ -2365,6 +2402,43 @@
       "id": "4c71bb321fc2e8583e03"
     },
     {
+      "title": "M 4.9 - 35 km ESE of Hualien City, Taiwan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-23T21:30:27.040+00:00",
+      "fetched_at": "2026-10-23T21:32:40+00:00",
+      "summary": "Time 2026-10-23 20:48:16 UTC 2026-10-23 20:48:16 UTC at epicenter Location 23.853°N 121.929°E Depth 13.82 km (8.59 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d443bca8b16570489bd6"
+    },
+    {
       "title": "M 5.7 - 61 km WNW of Leni, Italy",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3439,19 +3513,20 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.8 - 209 km ENE of Nagqu, China",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gj",
+      "title": "M 4.9 - 35 km ESE of Hualien City, Taiwan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-23T21:06:18.040+00:00",
-      "fetched_at": "2026-10-23T21:20:18+00:00",
-      "summary": "Time 2026-10-23 20:37:41 UTC 2026-10-23 20:37:41 UTC at epicenter Location 32.469°N 93.943°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-10-23T21:30:27.040+00:00",
+      "fetched_at": "2026-10-23T21:32:40+00:00",
+      "summary": "Time 2026-10-23 20:48:16 UTC 2026-10-23 20:48:16 UTC at epicenter Location 23.853°N 121.929°E Depth 13.82 km (8.59 mi)",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -3472,7 +3547,7 @@
         "HD",
         "LOW"
       ],
-      "id": "9b0fbc3f610b0e1f2a84"
+      "id": "d443bca8b16570489bd6"
     }
   ],
   "source_errors": [],

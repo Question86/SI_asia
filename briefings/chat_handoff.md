@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-23T21:20:49+00:00_
+_Generated: 2026-10-23T21:33:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `67`
+- findings: `68`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-23T21:20:49+00:00_
 - url: https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/
 - summary: I’ve been running The Wellness Insider since 2016, and over the years, there have been countless occasions when I’ve looked at my website and thought, “I wish I could change that easily.” Sometimes, it was something relatively minor, such as the spacing betwe…
 
-### 5. M 5.7 - 61 km WNW of Leni, Italy
+### 5. M 4.9 - 35 km ESE of Hualien City, Taiwan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-23T21:30:27.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gm
+- summary: Time 2026-10-23 20:48:16 UTC 2026-10-23 20:48:16 UTC at epicenter Location 23.853°N 121.929°E Depth 13.82 km (8.59 mi)
+
+### 6. M 5.7 - 61 km WNW of Leni, Italy
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-23T10:56:44.437+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-10-23 10:19:16 UTC 2026-10-23 10:19:16 UTC at epicenter Location 38.720°N 14.152°E Depth 10.00 km (6.21 mi)
 
-### 6. Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)
+### 7. Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)
 - source: CERT-FR Avis de sécurité
 - score: `13`
 - published: `2026-10-19T00:00:00+00:00`
 - url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/
 - summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.
 
-### 7. Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory
+### 8. Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-23T05:19:38+00:00`
 - url: https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/
 - summary: Southeast Asia does not have a shortage of AI pilots. It has a shortage of AI pilots that ever leave the lab. A recent regional survey found that 57 per cent of SEA firms can’t scale their AI pilots, a stretch of corporate limbo now known in industry jargon a…
-
-### 8. M 4.8 - 209 km ENE of Nagqu, China
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-10-23T21:06:18.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gj
-- summary: Time 2026-10-23 20:37:41 UTC 2026-10-23 20:37:41 UTC at epicenter Location 32.469°N 93.943°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
