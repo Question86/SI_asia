@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T22:18:12+00:00_
+_Generiert: 2026-10-23T22:49:59+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+75 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -120,6 +120,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.5); recent (+1.0)
   - Kurz: HSBC’s latest survey of wealthy entrepreneurs contains an awkward finding for the men who still write most of the cheques. Their own confidence is slipping, while the confidence of the women they rarely fund is rising. The Global Entrepreneurial Wealth Report 2026 polled more than 3,000 business owners across 17 markets. Over the past year, […] The post Male founders are losing confidence. Women are doubling down on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Using Claude to reduce the attack surface of code** — Score 14, risk — [Quelle](https://www.anthropic.com/research/attack-surface-reduction)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-23T15:05:50+00:00`, fetched `2026-10-23T22:49:29+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Chris Rohlf Over the past year, we’ve published lots of data that shows that frontier AI models are more than capable of discovering and exploiting security vulnerabilities. Showing how previously unknown vulnerabilities might be exploited is, however, only the start of what frontier AI models ca...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **プリザンターのLDAP認証における認証不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN82312317/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-23T15:00:00+09:00`, fetched `2026-10-23T06:52:34+00:00`
